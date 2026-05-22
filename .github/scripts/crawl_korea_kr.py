@@ -110,12 +110,20 @@ USER_AGENT = (
     "+https://github.com/sobjil/GDI-Apps)"
 )
 REQUEST_TIMEOUT = 20      # 초
-INTER_REQUEST_SLEEP = 0.5  # 부처 간 딜레이 (rate limit 회피)
+INTER_REQUEST_SLEEP = 0.5  # 부처 간 / hwpxUrl fetch 간 딜레이 (rate limit 회피)
 DESCRIPTION_MAX = 300      # description 길이 한도 (메타만 유지 원칙)
+# 매 run 마다 본문 페이지 fetch 해서 hwpxUrl 추출하는 최대 건수.
+# 점진 처리 — 한 번에 너무 많이 안 받고 cron 마다 N건씩 쌓음 (사이트 부담 ↓ + workflow timeout 안전망).
+HWPX_URL_BATCH_PER_RUN = 200
 
 # ─── 유틸 ────────────────────────────────────────────────────────────
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 WHITESPACE_RE = re.compile(r"\s+")
+# 본문 페이지 안 첨부 anchor 패턴 — korea.kr 의 download link
+HWPX_ANCHOR_RE = re.compile(
+    r'<a[^>]+href="(/common/download\.do\?[^"]+)"[^>]*>(.*?)</a>',
+    re.IGNORECASE | re.DOTALL,
+)
 
 def clean_text(s):
     """HTML entity 디코드 + 다중 공백 정리. 태그가 있으면 같이 제거."""
@@ -137,6 +145,43 @@ def parse_pub_date(s):
         return dt.isoformat()
     except Exception:
         return None
+
+def extract_hwpx_url(html, article_url):
+    """본문 페이지 HTML 에서 첫 .hwpx anchor 의 download URL 추출.
+    None = HWPX 첨부 없음 (PDF·그림만 등).
+    """
+    from urllib.parse import urljoin
+    for m in HWPX_ANCHOR_RE.finditer(html):
+        href = m.group(1).replace("&amp;", "&")
+        inner = m.group(2)
+        if ".hwpx" in inner.lower():
+            try:
+                return urljoin(article_url, href)
+            except Exception:
+                return None
+    return None
+
+def fetch_hwpx_url_for_article(article_url):
+    """본문 페이지 fetch → hwpxUrl 추출 (None = HWPX 첨부 X)."""
+    req = Request(article_url, headers={
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml",
+    })
+    try:
+        with urlopen(req, timeout=REQUEST_TIMEOUT) as r:
+            if r.status != 200:
+                return None
+            html = r.read().decode("utf-8", errors="ignore")
+    except HTTPError as e:
+        print(f"    [WARN] hwpxUrl HTTP {e.code}", file=sys.stderr)
+        return None
+    except URLError as e:
+        print(f"    [WARN] hwpxUrl URLError: {e.reason}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"    [WARN] hwpxUrl 추출 실패: {e}", file=sys.stderr)
+        return None
+    return extract_hwpx_url(html, article_url)
 
 def fetch_rss(code, name):
     """한 부처 RSS feed 호출 → entry 리스트"""
@@ -230,10 +275,37 @@ def main():
         else:
             expired += 1
 
-    # 5) 발행일 내림차순 정렬
+    # 5) hwpxUrl 점진 추출 — hwpxUrl 필드 없는 entry 중 최신순 max N건 본문 페이지 fetch
+    #    Cloudflare Workers fetch 는 korea.kr SSL 차단 (525) — 그래서 사전 추출이 유일한 길.
+    #    cron 10분마다 N건씩 쌓이면 1859건 ≈ 9.5 run = ~1.5시간 이내 다 채워짐.
+    need_hwpx = sorted(
+        [a for a in kept if not a.get("hwpxUrl")],
+        key=lambda a: a["pubDate"],
+        reverse=True,
+    )
+    batch = need_hwpx[:HWPX_URL_BATCH_PER_RUN]
+    hwpx_found = 0
+    hwpx_none = 0
+    if batch:
+        print(f"\n[hwpxUrl] 추출 {len(batch)} of {len(need_hwpx)} pending")
+        for i, a in enumerate(batch, 1):
+            url = fetch_hwpx_url_for_article(a["url"])
+            if url:
+                a["hwpxUrl"] = url
+                hwpx_found += 1
+            else:
+                # HWPX 첨부 X (PDF·그림만) 또는 fetch 실패 — 빈 string 으로 표시 (재시도 안 함)
+                a["hwpxUrl"] = ""
+                hwpx_none += 1
+            if i % 20 == 0:
+                print(f"  progress {i}/{len(batch)} - found {hwpx_found}, none {hwpx_none}")
+            time.sleep(INTER_REQUEST_SLEEP)
+        print(f"  done - found {hwpx_found}, none {hwpx_none}")
+
+    # 6) 발행일 내림차순 정렬
     kept.sort(key=lambda a: a["pubDate"], reverse=True)
 
-    # 6) 출력 조립
+    # 7) 출력 조립
     output = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "count": len(kept),
@@ -246,17 +318,23 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    # 7) 요약 출력
+    # 8) 요약 출력
+    with_hwpx = sum(1 for a in kept if a.get("hwpxUrl"))
+    no_hwpx = sum(1 for a in kept if a.get("hwpxUrl") == "")
+    still_pending = sum(1 for a in kept if "hwpxUrl" not in a)
     print()
     print("=" * 50)
-    print(f"부처 수:         {len(DEPT)}")
-    print(f"RSS entry (총):  {fetched_total}")
-    print(f"기존:            {len(existing)}")
-    print(f"merge 후 unique: {len(merged)}")
-    print(f"만료 제거:       {expired}")
-    print(f"최종 (30일 내):  {len(kept)}")
-    print(f"부처 (실데이터): {len(output['agencies'])}")
-    print(f"출력:            {DATA_FILE}")
+    print(f"부처 수:               {len(DEPT)}")
+    print(f"RSS entry (총):        {fetched_total}")
+    print(f"기존:                  {len(existing)}")
+    print(f"merge 후 unique:       {len(merged)}")
+    print(f"만료 제거:             {expired}")
+    print(f"최종 (30일 내):        {len(kept)}")
+    print(f"  - hwpxUrl 있음:      {with_hwpx}")
+    print(f"  - HWPX 첨부 X:       {no_hwpx}")
+    print(f"  - 다음 cron 처리:    {still_pending}")
+    print(f"부처 (실데이터):       {len(output['agencies'])}")
+    print(f"출력:                  {DATA_FILE}")
     print("=" * 50)
 
 if __name__ == "__main__":
