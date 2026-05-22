@@ -1,0 +1,49 @@
+name: Crawl Korea.kr Press Releases
+
+# 10분마다 자동 크롤 (PUBLIC repo 라 GitHub Actions 무제한 무료)
+# 실제 변경이 있는 cron 만 commit 발생 (idempotent — 빈도 ↑ 부담 X)
+# GitHub Actions cron 은 5~15분 지연 가능 (best effort)
+# 수동 실행도 가능 (Actions 탭의 [Run workflow] 버튼)
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # 10분마다
+  workflow_dispatch: {}      # 수동 트리거
+
+permissions:
+  contents: write           # data/articles.json auto-commit 위해 필요
+
+concurrency:
+  group: crawl-policy-news
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # 자동 commit 후 push 위해 token persist
+          persist-credentials: true
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run korea.kr crawler
+        run: python .github/scripts/crawl_korea_kr.py
+
+      - name: Commit & push articles.json (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          if git diff --cached --quiet; then
+            echo "변경 없음 — commit skip"
+            exit 0
+          fi
+          COUNT=$(python -c "import json; print(json.load(open('data/articles.json','r',encoding='utf-8'))['count'])")
+          git commit -m "chore(crawl): articles.json 자동 갱신 — ${COUNT}건 (UTC $(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
