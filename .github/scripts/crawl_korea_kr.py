@@ -150,23 +150,45 @@ def parse_pub_date(s):
     except Exception:
         return None
 
-def extract_hwpx_url(html, article_url):
-    """본문 페이지 HTML 에서 첫 .hwpx anchor 의 download URL 추출.
-    None = HWPX 첨부 없음 (PDF·그림만 등).
+# 지원 확장자 — 우선순위 (앞일수록 우선)
+SUPPORTED_EXTS = ("hwpx", "pdf", "hwp")
+EXT_RE = re.compile(r"\.(hwpx|hwp|pdf)\b", re.IGNORECASE)
+
+def extract_attachments(html, article_url):
+    """본문 페이지 HTML 에서 모든 첨부 anchor 추출 → [{ext, url, filename}, ...].
+    동일 ext 의 첨부 (본문 + 별첨) 모두 포함. URL 기준 중복 제거.
+    빈 리스트 = 첨부 없음.
     """
     from urllib.parse import urljoin
+    seen_urls = set()
+    out = []
     for m in HWPX_ANCHOR_RE.finditer(html):
         href = m.group(1).replace("&amp;", "&")
         inner = m.group(2)
-        if ".hwpx" in inner.lower():
-            try:
-                return urljoin(article_url, href)
-            except Exception:
-                return None
-    return None
+        ext_m = EXT_RE.search(inner)
+        if not ext_m:
+            continue
+        ext = ext_m.group(1).lower()
+        try:
+            url = urljoin(article_url, href)
+        except Exception:
+            continue
+        if url in seen_urls:
+            continue  # URL 기준 중복 (보통 같은 페이지 안 [파일명] + [내려받기] 두 anchor 가 동일 URL)
+        seen_urls.add(url)
+        # filename — anchor inner 의 텍스트 (img 등 태그 제거)
+        fname = HTML_TAG_RE.sub("", inner)
+        fname = WHITESPACE_RE.sub(" ", fname).strip()
+        # 너무 길면 자름 (보통 80자 정도)
+        if len(fname) > 120:
+            fname = fname[:120]
+        out.append({"ext": ext, "url": url, "filename": fname})
+    # 우선순위 정렬 (hwpx > pdf > hwp) — 같은 ext 끼리는 원래 순서 (본문 먼저)
+    out.sort(key=lambda a: SUPPORTED_EXTS.index(a["ext"]) if a["ext"] in SUPPORTED_EXTS else 99)
+    return out
 
-def fetch_hwpx_url_for_article(article_url):
-    """본문 페이지 fetch → hwpxUrl 추출 (None = HWPX 첨부 X)."""
+def fetch_attachments_for_article(article_url):
+    """본문 페이지 fetch → 첨부 리스트 추출 (빈 리스트 = 첨부 X 또는 fetch 실패)."""
     req = Request(article_url, headers={
         "User-Agent": USER_AGENT,
         "Accept": "text/html,application/xhtml+xml",
@@ -174,18 +196,18 @@ def fetch_hwpx_url_for_article(article_url):
     try:
         with urlopen(req, timeout=REQUEST_TIMEOUT) as r:
             if r.status != 200:
-                return None
+                return []
             html = r.read().decode("utf-8", errors="ignore")
     except HTTPError as e:
         print(f"    [WARN] hwpxUrl HTTP {e.code}", file=sys.stderr)
-        return None
+        return []
     except URLError as e:
-        print(f"    [WARN] hwpxUrl URLError: {e.reason}", file=sys.stderr)
-        return None
+        print(f"    [WARN] 첨부 URLError: {e.reason}", file=sys.stderr)
+        return []
     except Exception as e:
-        print(f"    [WARN] hwpxUrl 추출 실패: {e}", file=sys.stderr)
-        return None
-    return extract_hwpx_url(html, article_url)
+        print(f"    [WARN] 첨부 추출 실패: {e}", file=sys.stderr)
+        return []
+    return extract_attachments(html, article_url)
 
 def fetch_rss(code, name):
     """한 부처 RSS feed 호출 → entry 리스트"""
@@ -287,32 +309,47 @@ def main():
         else:
             expired += 1
 
-    # 5) hwpxUrl 점진 추출 — hwpxUrl 필드 없는 entry 중 최신순 max N건 본문 페이지 fetch
-    #    Cloudflare Workers fetch 는 korea.kr SSL 차단 (525) — 그래서 사전 추출이 유일한 길.
-    #    cron 10분마다 N건씩 쌓이면 1859건 ≈ 9.5 run = ~1.5시간 이내 다 채워짐.
-    need_hwpx = sorted(
-        [a for a in kept if not a.get("hwpxUrl")],
+    # 4.5) v2 마이그레이션 — 이전 hwpxUrl 필드 제거 (attachments 재추출 대상)
+    migrated = 0
+    for a in kept:
+        if "hwpxUrl" in a:
+            del a["hwpxUrl"]
+            migrated += 1
+    if migrated:
+        print(f"[migrate] hwpxUrl -> attachments 마이그레이션: {migrated} entry 재추출 대상")
+
+    # 5) 첨부 다중 추출 (hwpx/pdf/hwp) — attachments 필드 없는 entry 중 최신순 max N건
+    #    Cloudflare Workers fetch 는 korea.kr SSL 차단 (525) — 사전 추출이 유일한 길.
+    #    이전 hwpxUrl 필드 → attachments 배열로 전환 (다중 첨부 지원, ext 다양화).
+    need_atts = sorted(
+        [a for a in kept if "attachments" not in a],
         key=lambda a: a["pubDate"],
         reverse=True,
     )
-    batch = need_hwpx[:HWPX_URL_BATCH_PER_RUN]
-    hwpx_found = 0
-    hwpx_none = 0
+    batch = need_atts[:HWPX_URL_BATCH_PER_RUN]
+    att_found = 0    # 최소 1개 이상 첨부 있는 entry
+    att_none = 0     # 첨부 0개
+    ext_counter = {}
     if batch:
-        print(f"\n[hwpxUrl] 추출 {len(batch)} of {len(need_hwpx)} pending")
+        print(f"\n[attachments] 추출 {len(batch)} of {len(need_atts)} pending")
         for i, a in enumerate(batch, 1):
-            url = fetch_hwpx_url_for_article(a["url"])
-            if url:
-                a["hwpxUrl"] = url
-                hwpx_found += 1
+            atts = fetch_attachments_for_article(a["url"])
+            a["attachments"] = atts  # 빈 리스트도 박아둠 (재시도 안 함)
+            if atts:
+                att_found += 1
+                for x in atts:
+                    ext_counter[x["ext"]] = ext_counter.get(x["ext"], 0) + 1
             else:
-                # HWPX 첨부 X (PDF·그림만) 또는 fetch 실패 — 빈 string 으로 표시 (재시도 안 함)
-                a["hwpxUrl"] = ""
-                hwpx_none += 1
+                att_none += 1
+            # 이전 호환 — hwpxUrl 필드 제거 (있으면)
+            if "hwpxUrl" in a:
+                del a["hwpxUrl"]
             if i % 20 == 0:
-                print(f"  progress {i}/{len(batch)} - found {hwpx_found}, none {hwpx_none}")
+                ext_str = ", ".join(f"{k}:{v}" for k, v in sorted(ext_counter.items()))
+                print(f"  progress {i}/{len(batch)} - found {att_found}, none {att_none} ({ext_str})")
             time.sleep(INTER_REQUEST_SLEEP)
-        print(f"  done - found {hwpx_found}, none {hwpx_none}")
+        ext_str = ", ".join(f"{k}:{v}" for k, v in sorted(ext_counter.items()))
+        print(f"  done - found {att_found}, none {att_none} ({ext_str})")
 
     # 6) 발행일 내림차순 정렬
     kept.sort(key=lambda a: a["pubDate"], reverse=True)
@@ -331,22 +368,29 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     # 8) 요약 출력
-    with_hwpx = sum(1 for a in kept if a.get("hwpxUrl"))
-    no_hwpx = sum(1 for a in kept if a.get("hwpxUrl") == "")
-    still_pending = sum(1 for a in kept if "hwpxUrl" not in a)
+    with_att = sum(1 for a in kept if a.get("attachments"))
+    no_att = sum(1 for a in kept if a.get("attachments") == [])
+    still_pending = sum(1 for a in kept if "attachments" not in a)
+    # ext 별 통계
+    ext_total = {}
+    for a in kept:
+        for x in a.get("attachments") or []:
+            ext_total[x["ext"]] = ext_total.get(x["ext"], 0) + 1
     print()
     print("=" * 50)
-    print(f"부처 수:               {len(DEPT)}")
-    print(f"RSS entry (총):        {fetched_total}")
-    print(f"기존:                  {len(existing)}")
-    print(f"merge 후 unique:       {len(merged)}")
-    print(f"만료 제거:             {expired}")
-    print(f"최종 (30일 내):        {len(kept)}")
-    print(f"  - hwpxUrl 있음:      {with_hwpx}")
-    print(f"  - HWPX 첨부 X:       {no_hwpx}")
-    print(f"  - 다음 cron 처리:    {still_pending}")
-    print(f"부처 (실데이터):       {len(output['agencies'])}")
-    print(f"출력:                  {DATA_FILE}")
+    print(f"buchu_count: {len(DEPT)}")
+    print(f"rss_total:   {fetched_total}")
+    print(f"existing:    {len(existing)}")
+    print(f"merged uniq: {len(merged)}")
+    print(f"expired:     {expired}")
+    print(f"final (30d): {len(kept)}")
+    print(f"  with att:  {with_att}")
+    print(f"  no att:    {no_att}")
+    print(f"  pending:   {still_pending}")
+    ext_str = ", ".join(f"{k}:{v}" for k, v in sorted(ext_total.items()))
+    print(f"  ext total: {ext_str}")
+    print(f"agencies:    {len(output['agencies'])}")
+    print(f"output:      {DATA_FILE}")
     print("=" * 50)
 
 if __name__ == "__main__":
