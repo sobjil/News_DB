@@ -115,6 +115,10 @@ DESCRIPTION_MAX = 300      # description 길이 한도 (메타만 유지 원칙)
 # 매 run 마다 본문 페이지 fetch 해서 hwpxUrl 추출하는 최대 건수.
 # 점진 처리 — 한 번에 너무 많이 안 받고 cron 마다 N건씩 쌓음 (사이트 부담 ↓ + workflow timeout 안전망).
 HWPX_URL_BATCH_PER_RUN = 200
+# korea.kr 의 RSS 에는 보도자료 + 정책뉴스 + 사실은 + 카드뉴스 등 4가지 카테고리가 섞여 있음.
+# WeeklyBrief 사용자는 '보도자료' 만 필요 (HWPX 첨부 + 정부 공식 발표 패턴).
+# URL path 로 구분 — /briefing/pressReleaseView.do 만 통과.
+ALLOWED_URL_PATH = "/briefing/pressReleaseView.do"
 
 # ─── 유틸 ────────────────────────────────────────────────────────────
 HTML_TAG_RE = re.compile(r"<[^>]+>")
@@ -257,6 +261,14 @@ def main():
         merged[a["url"]] = a
     for a in new_items:
         merged[a["url"]] = a
+
+    # 3.5) URL path 필터 — 보도자료 (pressReleaseView.do) 만 통과
+    #      정책뉴스 (policyNewsView.do), 사실은 (actuallyView.do), 카드뉴스 (visualNewsView.do) 제외
+    before_filter = len(merged)
+    filtered = {url: a for url, a in merged.items() if ALLOWED_URL_PATH in url}
+    excluded = before_filter - len(filtered)
+    print(f"\n[URL path 필터] {ALLOWED_URL_PATH} 만 유지 - {before_filter} -> {len(filtered)} ({excluded} 제외: 정책뉴스/사실은/카드뉴스)")
+    merged = filtered
 
     # 4) 30일 retention
     cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
