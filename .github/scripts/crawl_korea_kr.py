@@ -114,7 +114,7 @@ INTER_REQUEST_SLEEP = 0.5  # 부처 간 / hwpxUrl fetch 간 딜레이 (rate limi
 DESCRIPTION_MAX = 300      # description 길이 한도 (메타만 유지 원칙)
 # 매 run 마다 본문 페이지 fetch 해서 hwpxUrl 추출하는 최대 건수.
 # 점진 처리 — 한 번에 너무 많이 안 받고 cron 마다 N건씩 쌓음 (사이트 부담 ↓ + workflow timeout 안전망).
-HWPX_URL_BATCH_PER_RUN = 80
+HWPX_URL_BATCH_PER_RUN = 10
 # korea.kr 의 RSS 에는 보도자료 + 정책뉴스 + 사실은 + 카드뉴스 등 4가지 카테고리가 섞여 있음.
 # WeeklyBrief 사용자는 '보도자료' 만 필요 (HWPX 첨부 + 정부 공식 발표 패턴).
 # URL path 로 구분 — /briefing/pressReleaseView.do 만 통과.
