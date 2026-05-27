@@ -1,20 +1,16 @@
-name: Build Wordcloud (Hourly)
+name: Build Wordcloud
 
 # GDI-Apps WeeklyBrief 의 "최근 한 달간의 주요 이슈" 워드클라우드 데이터 빌드.
-# 매시간 33분 cron 자동 실행 (다른 cron 과 분산).
 # data/articles.json 의 30일치 기사를 kiwipiepy 로 형태소 분석 → data/wordcloud.json 생성.
-# 변경 없으면 commit skip (idempotent).
-# 수동 트리거도 가능 (Actions 탭 [Run workflow] 또는 GH API workflow_dispatch).
+#
+# 메인 trigger: AISpace nodejs (server.js) 의 setInterval (매시간 workflow_dispatch).
+# 안전망: GHA schedule 매 6시간 (server.js cron 작동 X 시 build).
+# 수동 트리거: Actions 탭 [Run workflow].
 
 on:
   schedule:
-    - cron: '33 * * * *'   # 매시간 33분 (crawl 매 10분 + backup 매시간 17분 과 분산)
-  workflow_dispatch: {}    # 수동 트리거
-  # 안전망: news-crawl push 시점에 wordcloud 도 자동 trigger (articles.json 변경 시점 즉시 반영)
-  workflow_run:
-    workflows: ["Crawl Korea.kr Press Releases"]
-    types: [completed]
-    branches: [main]
+    - cron: '33 */6 * * *'   # 매 6시간 33분 (안전망 — 메인은 server.js setInterval)
+  workflow_dispatch: {}      # 메인 트리거 (server.js 가 호출)
 
 permissions:
   contents: write          # data/wordcloud.json auto-commit 위해 필요
@@ -27,8 +23,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    # workflow_run trigger 시 정상 완료된 경우만 실행 (실패한 crawl 다음 build 방지)
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
