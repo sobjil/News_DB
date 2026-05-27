@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-28T00:55:49.465772+09:00",
-  "totalArticles": 1680,
+  "generated": "2026-05-28T01:55:47.416585+09:00",
+  "totalArticles": 1678,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 1680,
+      "articleCount": 1678,
       "words": [
         {
           "text": "논의",
@@ -49,15 +49,11 @@
         },
         {
           "text": "서울",
-          "count": 167
+          "count": 166
         },
         {
           "text": "참석",
           "count": 163
-        },
-        {
-          "text": "청년",
-          "count": 162
         },
         {
           "text": "증가",
@@ -68,8 +64,12 @@
           "count": 157
         },
         {
+          "text": "청년",
+          "count": 157
+        },
+        {
           "text": "행사",
-          "count": 144
+          "count": 143
         },
         {
           "text": "예방",
@@ -185,7 +185,7 @@
         },
         {
           "text": "보호",
-          "count": 96
+          "count": 95
         },
         {
           "text": "출범",
@@ -233,7 +233,7 @@
         },
         {
           "text": "소재",
-          "count": 86
+          "count": 85
         },
         {
           "text": "소방청",
@@ -260,15 +260,15 @@
           "count": 84
         },
         {
-          "text": "이후",
-          "count": 83
-        },
-        {
           "text": "연구",
           "count": 83
         },
         {
           "text": "역량",
+          "count": 82
+        },
+        {
+          "text": "이후",
           "count": 82
         },
         {
@@ -336,10 +336,6 @@
           "count": 72
         },
         {
-          "text": "신속",
-          "count": 70
-        },
-        {
           "text": "가능",
           "count": 70
         },
@@ -349,6 +345,10 @@
         },
         {
           "text": "공무원",
+          "count": 69
+        },
+        {
+          "text": "신속",
           "count": 69
         },
         {
@@ -488,10 +488,6 @@
           "count": 62
         },
         {
-          "text": "모색",
-          "count": 62
-        },
-        {
           "text": "가정",
           "count": 62
         },
@@ -506,6 +502,10 @@
         {
           "text": "새만금",
           "count": 62
+        },
+        {
+          "text": "모색",
+          "count": 61
         },
         {
           "text": "설명회",
@@ -568,11 +568,11 @@
           "count": 56
         },
         {
-          "text": "사례",
-          "count": 56
+          "text": "감소",
+          "count": 55
         },
         {
-          "text": "감소",
+          "text": "사례",
           "count": 55
         },
         {
@@ -800,12 +800,12 @@
           "count": 45
         },
         {
-          "text": "성평등가족부",
+          "text": "인도",
           "count": 45
         },
         {
-          "text": "인도",
-          "count": 45
+          "text": "시장",
+          "count": 44
         }
       ]
     },
@@ -20807,612 +20807,6 @@
         }
       ]
     },
-    "mogef": {
-      "label": "성평등가족부",
-      "articleCount": 24,
-      "words": [
-        {
-          "text": "청소년",
-          "count": 47
-        },
-        {
-          "text": "원민경",
-          "count": 24
-        },
-        {
-          "text": "피해자",
-          "count": 16
-        },
-        {
-          "text": "디지털",
-          "count": 9
-        },
-        {
-          "text": "보호",
-          "count": 9
-        },
-        {
-          "text": "가정",
-          "count": 9
-        },
-        {
-          "text": "기업",
-          "count": 9
-        },
-        {
-          "text": "아동",
-          "count": 8
-        },
-        {
-          "text": "확산",
-          "count": 8
-        },
-        {
-          "text": "가족친화",
-          "count": 7
-        },
-        {
-          "text": "대응",
-          "count": 7
-        },
-        {
-          "text": "포럼",
-          "count": 6
-        },
-        {
-          "text": "출범",
-          "count": 6
-        },
-        {
-          "text": "일본군",
-          "count": 6
-        },
-        {
-          "text": "제도",
-          "count": 6
-        },
-        {
-          "text": "기관",
-          "count": 6
-        },
-        {
-          "text": "공모",
-          "count": 6
-        },
-        {
-          "text": "여성",
-          "count": 6
-        },
-        {
-          "text": "확정",
-          "count": 6
-        },
-        {
-          "text": "피해",
-          "count": 6
-        },
-        {
-          "text": "연계",
-          "count": 5
-        },
-        {
-          "text": "교육부",
-          "count": 5
-        },
-        {
-          "text": "모색",
-          "count": 5
-        },
-        {
-          "text": "건강",
-          "count": 5
-        },
-        {
-          "text": "위안부",
-          "count": 5
-        },
-        {
-          "text": "합동",
-          "count": 5
-        },
-        {
-          "text": "범죄",
-          "count": 5
-        },
-        {
-          "text": "대학",
-          "count": 5
-        },
-        {
-          "text": "폭력예방교육",
-          "count": 5
-        },
-        {
-          "text": "중심",
-          "count": 5
-        },
-        {
-          "text": "공모전",
-          "count": 5
-        },
-        {
-          "text": "기념식",
-          "count": 5
-        },
-        {
-          "text": "행사",
-          "count": 5
-        },
-        {
-          "text": "청년",
-          "count": 5
-        },
-        {
-          "text": "대한민국청소년박람회",
-          "count": 4
-        },
-        {
-          "text": "관계부처",
-          "count": 4
-        },
-        {
-          "text": "가족관계",
-          "count": 4
-        },
-        {
-          "text": "교육",
-          "count": 4
-        },
-        {
-          "text": "통계",
-          "count": 4
-        },
-        {
-          "text": "디지털성범죄",
-          "count": 4
-        },
-        {
-          "text": "발굴",
-          "count": 4
-        },
-        {
-          "text": "관계",
-          "count": 4
-        },
-        {
-          "text": "상담",
-          "count": 4
-        },
-        {
-          "text": "여성경제회의",
-          "count": 4
-        },
-        {
-          "text": "작품",
-          "count": 4
-        },
-        {
-          "text": "성범죄",
-          "count": 4
-        },
-        {
-          "text": "통과",
-          "count": 4
-        },
-        {
-          "text": "동행",
-          "count": 4
-        },
-        {
-          "text": "행복",
-          "count": 4
-        },
-        {
-          "text": "통합지원단",
-          "count": 4
-        },
-        {
-          "text": "프로그램",
-          "count": 4
-        },
-        {
-          "text": "협의체",
-          "count": 4
-        },
-        {
-          "text": "여성긴급전화",
-          "count": 4
-        },
-        {
-          "text": "인신매매",
-          "count": 4
-        },
-        {
-          "text": "여수",
-          "count": 3
-        },
-        {
-          "text": "개막",
-          "count": 3
-        },
-        {
-          "text": "논의",
-          "count": 3
-        },
-        {
-          "text": "그간",
-          "count": 3
-        },
-        {
-          "text": "활성",
-          "count": 3
-        },
-        {
-          "text": "가족센터",
-          "count": 3
-        },
-        {
-          "text": "작성",
-          "count": 3
-        },
-        {
-          "text": "대응체계",
-          "count": 3
-        },
-        {
-          "text": "생활",
-          "count": 3
-        },
-        {
-          "text": "우수기업",
-          "count": 3
-        },
-        {
-          "text": "신청",
-          "count": 3
-        },
-        {
-          "text": "접수",
-          "count": 3
-        },
-        {
-          "text": "안전",
-          "count": 3
-        },
-        {
-          "text": "정책포럼",
-          "count": 3
-        },
-        {
-          "text": "기준",
-          "count": 3
-        },
-        {
-          "text": "경찰청",
-          "count": 3
-        },
-        {
-          "text": "아시아태평양경제협력체",
-          "count": 3
-        },
-        {
-          "text": "주제",
-          "count": 3
-        },
-        {
-          "text": "자진신고",
-          "count": 3
-        },
-        {
-          "text": "현장점검",
-          "count": 3
-        },
-        {
-          "text": "소재",
-          "count": 3
-        },
-        {
-          "text": "기억",
-          "count": 3
-        },
-        {
-          "text": "역사",
-          "count": 3
-        },
-        {
-          "text": "평화",
-          "count": 3
-        },
-        {
-          "text": "가치",
-          "count": 3
-        },
-        {
-          "text": "지정",
-          "count": 3
-        },
-        {
-          "text": "심의",
-          "count": 3
-        },
-        {
-          "text": "소관",
-          "count": 3
-        },
-        {
-          "text": "국회",
-          "count": 3
-        },
-        {
-          "text": "본회의",
-          "count": 3
-        },
-        {
-          "text": "폭력",
-          "count": 3
-        },
-        {
-          "text": "새일센터",
-          "count": 3
-        },
-        {
-          "text": "형사미성년자",
-          "count": 3
-        },
-        {
-          "text": "촉법소년",
-          "count": 3
-        },
-        {
-          "text": "연령",
-          "count": 3
-        },
-        {
-          "text": "대화",
-          "count": 3
-        },
-        {
-          "text": "마음",
-          "count": 3
-        },
-        {
-          "text": "언박싱",
-          "count": 3
-        },
-        {
-          "text": "토크",
-          "count": 3
-        },
-        {
-          "text": "성별",
-          "count": 3
-        },
-        {
-          "text": "국적",
-          "count": 3
-        },
-        {
-          "text": "외국인",
-          "count": 3
-        },
-        {
-          "text": "미래",
-          "count": 2
-        },
-        {
-          "text": "체험부스",
-          "count": 2
-        },
-        {
-          "text": "전라남도",
-          "count": 2
-        },
-        {
-          "text": "대한민국",
-          "count": 2
-        },
-        {
-          "text": "청소년박람회",
-          "count": 2
-        },
-        {
-          "text": "전환기",
-          "count": 2
-        },
-        {
-          "text": "취약",
-          "count": 2
-        },
-        {
-          "text": "보건복지부",
-          "count": 2
-        },
-        {
-          "text": "최교진",
-          "count": 2
-        },
-        {
-          "text": "취약계층",
-          "count": 2
-        },
-        {
-          "text": "지원체계",
-          "count": 2
-        },
-        {
-          "text": "점검",
-          "count": 2
-        },
-        {
-          "text": "서울지방조달청",
-          "count": 2
-        },
-        {
-          "text": "전문가",
-          "count": 2
-        },
-        {
-          "text": "가족기능",
-          "count": 2
-        },
-        {
-          "text": "회복",
-          "count": 2
-        },
-        {
-          "text": "한국건강가정진흥원",
-          "count": 2
-        },
-        {
-          "text": "이후",
-          "count": 2
-        },
-        {
-          "text": "국민주권정부",
-          "count": 2
-        },
-        {
-          "text": "약자보호",
-          "count": 2
-        },
-        {
-          "text": "돌봄",
-          "count": 2
-        },
-        {
-          "text": "국가책임",
-          "count": 2
-        },
-        {
-          "text": "보고",
-          "count": 2
-        },
-        {
-          "text": "양립",
-          "count": 2
-        },
-        {
-          "text": "직장문화",
-          "count": 2
-        },
-        {
-          "text": "포상",
-          "count": 2
-        },
-        {
-          "text": "시대",
-          "count": 2
-        },
-        {
-          "text": "해법",
-          "count": 2
-        },
-        {
-          "text": "일상",
-          "count": 2
-        },
-        {
-          "text": "경찰",
-          "count": 2
-        },
-        {
-          "text": "성평등부",
-          "count": 2
-        },
-        {
-          "text": "상담소",
-          "count": 2
-        },
-        {
-          "text": "공동대응체계",
-          "count": 2
-        },
-        {
-          "text": "가정폭력",
-          "count": 2
-        },
-        {
-          "text": "직무대행",
-          "count": 2
-        },
-        {
-          "text": "스토킹",
-          "count": 2
-        },
-        {
-          "text": "방지",
-          "count": 2
-        },
-        {
-          "text": "참가",
-          "count": 2
-        },
-        {
-          "text": "경제",
-          "count": 2
-        },
-        {
-          "text": "중국",
-          "count": 2
-        },
-        {
-          "text": "상하이",
-          "count": 2
-        },
-        {
-          "text": "센터",
-          "count": 2
-        },
-        {
-          "text": "사이버",
-          "count": 2
-        },
-        {
-          "text": "도박",
-          "count": 2
-        },
-        {
-          "text": "신고",
-          "count": 2
-        },
-        {
-          "text": "사행산업통합감독위원회",
-          "count": 2
-        },
-        {
-          "text": "사이버도박",
-          "count": 2
-        },
-        {
-          "text": "방문",
-          "count": 2
-        },
-        {
-          "text": "인권센터",
-          "count": 2
-        },
-        {
-          "text": "간담회",
-          "count": 2
-        },
-        {
-          "text": "할머니",
-          "count": 2
-        },
-        {
-          "text": "예비사회",
-          "count": 2
-        },
-        {
-          "text": "신규",
-          "count": 2
-        },
-        {
-          "text": "실현",
-          "count": 2
-        }
-      ]
-    },
     "mpva": {
       "label": "국가보훈부",
       "articleCount": 23,
@@ -22429,6 +21823,612 @@
         },
         {
           "text": "경력자",
+          "count": 2
+        }
+      ]
+    },
+    "mogef": {
+      "label": "성평등가족부",
+      "articleCount": 22,
+      "words": [
+        {
+          "text": "청소년",
+          "count": 47
+        },
+        {
+          "text": "원민경",
+          "count": 22
+        },
+        {
+          "text": "피해자",
+          "count": 11
+        },
+        {
+          "text": "디지털",
+          "count": 9
+        },
+        {
+          "text": "가정",
+          "count": 9
+        },
+        {
+          "text": "기업",
+          "count": 9
+        },
+        {
+          "text": "아동",
+          "count": 8
+        },
+        {
+          "text": "보호",
+          "count": 8
+        },
+        {
+          "text": "확산",
+          "count": 8
+        },
+        {
+          "text": "가족친화",
+          "count": 7
+        },
+        {
+          "text": "대응",
+          "count": 7
+        },
+        {
+          "text": "포럼",
+          "count": 6
+        },
+        {
+          "text": "출범",
+          "count": 6
+        },
+        {
+          "text": "일본군",
+          "count": 6
+        },
+        {
+          "text": "제도",
+          "count": 6
+        },
+        {
+          "text": "기관",
+          "count": 6
+        },
+        {
+          "text": "공모",
+          "count": 6
+        },
+        {
+          "text": "여성",
+          "count": 6
+        },
+        {
+          "text": "피해",
+          "count": 6
+        },
+        {
+          "text": "연계",
+          "count": 5
+        },
+        {
+          "text": "교육부",
+          "count": 5
+        },
+        {
+          "text": "위안부",
+          "count": 5
+        },
+        {
+          "text": "합동",
+          "count": 5
+        },
+        {
+          "text": "범죄",
+          "count": 5
+        },
+        {
+          "text": "대학",
+          "count": 5
+        },
+        {
+          "text": "폭력예방교육",
+          "count": 5
+        },
+        {
+          "text": "중심",
+          "count": 5
+        },
+        {
+          "text": "공모전",
+          "count": 5
+        },
+        {
+          "text": "기념식",
+          "count": 5
+        },
+        {
+          "text": "대한민국청소년박람회",
+          "count": 4
+        },
+        {
+          "text": "관계부처",
+          "count": 4
+        },
+        {
+          "text": "가족관계",
+          "count": 4
+        },
+        {
+          "text": "교육",
+          "count": 4
+        },
+        {
+          "text": "모색",
+          "count": 4
+        },
+        {
+          "text": "통계",
+          "count": 4
+        },
+        {
+          "text": "디지털성범죄",
+          "count": 4
+        },
+        {
+          "text": "발굴",
+          "count": 4
+        },
+        {
+          "text": "관계",
+          "count": 4
+        },
+        {
+          "text": "상담",
+          "count": 4
+        },
+        {
+          "text": "여성경제회의",
+          "count": 4
+        },
+        {
+          "text": "작품",
+          "count": 4
+        },
+        {
+          "text": "성범죄",
+          "count": 4
+        },
+        {
+          "text": "통과",
+          "count": 4
+        },
+        {
+          "text": "동행",
+          "count": 4
+        },
+        {
+          "text": "행복",
+          "count": 4
+        },
+        {
+          "text": "통합지원단",
+          "count": 4
+        },
+        {
+          "text": "프로그램",
+          "count": 4
+        },
+        {
+          "text": "행사",
+          "count": 4
+        },
+        {
+          "text": "협의체",
+          "count": 4
+        },
+        {
+          "text": "여성긴급전화",
+          "count": 4
+        },
+        {
+          "text": "여수",
+          "count": 3
+        },
+        {
+          "text": "개막",
+          "count": 3
+        },
+        {
+          "text": "논의",
+          "count": 3
+        },
+        {
+          "text": "그간",
+          "count": 3
+        },
+        {
+          "text": "활성",
+          "count": 3
+        },
+        {
+          "text": "가족센터",
+          "count": 3
+        },
+        {
+          "text": "작성",
+          "count": 3
+        },
+        {
+          "text": "대응체계",
+          "count": 3
+        },
+        {
+          "text": "생활",
+          "count": 3
+        },
+        {
+          "text": "우수기업",
+          "count": 3
+        },
+        {
+          "text": "신청",
+          "count": 3
+        },
+        {
+          "text": "접수",
+          "count": 3
+        },
+        {
+          "text": "안전",
+          "count": 3
+        },
+        {
+          "text": "정책포럼",
+          "count": 3
+        },
+        {
+          "text": "기준",
+          "count": 3
+        },
+        {
+          "text": "경찰청",
+          "count": 3
+        },
+        {
+          "text": "아시아태평양경제협력체",
+          "count": 3
+        },
+        {
+          "text": "주제",
+          "count": 3
+        },
+        {
+          "text": "자진신고",
+          "count": 3
+        },
+        {
+          "text": "현장점검",
+          "count": 3
+        },
+        {
+          "text": "기억",
+          "count": 3
+        },
+        {
+          "text": "역사",
+          "count": 3
+        },
+        {
+          "text": "평화",
+          "count": 3
+        },
+        {
+          "text": "가치",
+          "count": 3
+        },
+        {
+          "text": "지정",
+          "count": 3
+        },
+        {
+          "text": "심의",
+          "count": 3
+        },
+        {
+          "text": "소관",
+          "count": 3
+        },
+        {
+          "text": "국회",
+          "count": 3
+        },
+        {
+          "text": "본회의",
+          "count": 3
+        },
+        {
+          "text": "폭력",
+          "count": 3
+        },
+        {
+          "text": "새일센터",
+          "count": 3
+        },
+        {
+          "text": "형사미성년자",
+          "count": 3
+        },
+        {
+          "text": "촉법소년",
+          "count": 3
+        },
+        {
+          "text": "연령",
+          "count": 3
+        },
+        {
+          "text": "대화",
+          "count": 3
+        },
+        {
+          "text": "미래",
+          "count": 2
+        },
+        {
+          "text": "체험부스",
+          "count": 2
+        },
+        {
+          "text": "전라남도",
+          "count": 2
+        },
+        {
+          "text": "대한민국",
+          "count": 2
+        },
+        {
+          "text": "청소년박람회",
+          "count": 2
+        },
+        {
+          "text": "전환기",
+          "count": 2
+        },
+        {
+          "text": "취약",
+          "count": 2
+        },
+        {
+          "text": "보건복지부",
+          "count": 2
+        },
+        {
+          "text": "최교진",
+          "count": 2
+        },
+        {
+          "text": "취약계층",
+          "count": 2
+        },
+        {
+          "text": "지원체계",
+          "count": 2
+        },
+        {
+          "text": "점검",
+          "count": 2
+        },
+        {
+          "text": "서울지방조달청",
+          "count": 2
+        },
+        {
+          "text": "전문가",
+          "count": 2
+        },
+        {
+          "text": "가족기능",
+          "count": 2
+        },
+        {
+          "text": "회복",
+          "count": 2
+        },
+        {
+          "text": "한국건강가정진흥원",
+          "count": 2
+        },
+        {
+          "text": "국민주권정부",
+          "count": 2
+        },
+        {
+          "text": "약자보호",
+          "count": 2
+        },
+        {
+          "text": "돌봄",
+          "count": 2
+        },
+        {
+          "text": "국가책임",
+          "count": 2
+        },
+        {
+          "text": "보고",
+          "count": 2
+        },
+        {
+          "text": "양립",
+          "count": 2
+        },
+        {
+          "text": "직장문화",
+          "count": 2
+        },
+        {
+          "text": "포상",
+          "count": 2
+        },
+        {
+          "text": "시대",
+          "count": 2
+        },
+        {
+          "text": "해법",
+          "count": 2
+        },
+        {
+          "text": "일상",
+          "count": 2
+        },
+        {
+          "text": "경찰",
+          "count": 2
+        },
+        {
+          "text": "성평등부",
+          "count": 2
+        },
+        {
+          "text": "상담소",
+          "count": 2
+        },
+        {
+          "text": "공동대응체계",
+          "count": 2
+        },
+        {
+          "text": "가정폭력",
+          "count": 2
+        },
+        {
+          "text": "직무대행",
+          "count": 2
+        },
+        {
+          "text": "스토킹",
+          "count": 2
+        },
+        {
+          "text": "방지",
+          "count": 2
+        },
+        {
+          "text": "참가",
+          "count": 2
+        },
+        {
+          "text": "경제",
+          "count": 2
+        },
+        {
+          "text": "중국",
+          "count": 2
+        },
+        {
+          "text": "상하이",
+          "count": 2
+        },
+        {
+          "text": "센터",
+          "count": 2
+        },
+        {
+          "text": "사이버",
+          "count": 2
+        },
+        {
+          "text": "도박",
+          "count": 2
+        },
+        {
+          "text": "신고",
+          "count": 2
+        },
+        {
+          "text": "사행산업통합감독위원회",
+          "count": 2
+        },
+        {
+          "text": "사이버도박",
+          "count": 2
+        },
+        {
+          "text": "방문",
+          "count": 2
+        },
+        {
+          "text": "인권센터",
+          "count": 2
+        },
+        {
+          "text": "간담회",
+          "count": 2
+        },
+        {
+          "text": "소재",
+          "count": 2
+        },
+        {
+          "text": "할머니",
+          "count": 2
+        },
+        {
+          "text": "예비사회",
+          "count": 2
+        },
+        {
+          "text": "신규",
+          "count": 2
+        },
+        {
+          "text": "실현",
+          "count": 2
+        },
+        {
+          "text": "육성",
+          "count": 2
+        },
+        {
+          "text": "여성폭력방지위원회",
+          "count": 2
+        },
+        {
+          "text": "여성폭력방지정책",
+          "count": 2
+        },
+        {
+          "text": "기본계획",
+          "count": 2
+        },
+        {
+          "text": "시행계획",
+          "count": 2
+        },
+        {
+          "text": "확정",
+          "count": 2
+        },
+        {
+          "text": "성희롱",
+          "count": 2
+        },
+        {
+          "text": "성폭력",
+          "count": 2
+        },
+        {
+          "text": "정부서울청사",
+          "count": 2
+        },
+        {
+          "text": "법률안",
+          "count": 2
+        },
+        {
+          "text": "과정",
           "count": 2
         }
       ]
