@@ -39,7 +39,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'   # pip 캐시 — kiwipiepy 재설치 시간 단축
 
       - name: Install kiwipiepy (한국어 형태소 분석)
         run: |
