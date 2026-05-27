@@ -1,0 +1,61 @@
+name: Backup AI 썰전 Gallery (Hourly)
+
+# GDI-Apps AI 썰전 갤러리 (server.js + /app/user_data/ai-debate-posts.json) 의 매시간 백업.
+# AISpace 서버 재배포·장애 시에도 PUBLIC repo (sobjil/News_DB) 에 모든 게시물·댓글 보존.
+# 매시간 cron + 수동 트리거. 변경 없으면 commit skip.
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # 매 시간 17분 (다른 cron 과 겹치지 않게 분산)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backup-debate-board
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch dump from production server
+        id: fetch
+        run: |
+          set -e
+          # AISpace nodejs 서버의 /api/debate-board/dump endpoint 호출
+          # PUBLIC endpoint (인증 X) — password hash 는 서버측에서 이미 sanitize 됨
+          DUMP_URL="https://sobjil-gdi-apps.mycafe24.ai/api/debate-board/dump"
+          echo "Fetching: $DUMP_URL"
+          # --fail: HTTP 4xx/5xx 시 exit 22, --location: 리다이렉트 따라가기, -sS: silent + show errors
+          curl -fsSL --max-time 30 --retry 3 --retry-delay 5 "$DUMP_URL" -o data/debate-board.json
+          # 유효성 검증 — 최소 {"generated":"...","count":0,"posts":[]} 형태인지
+          python3 -c "
+          import json, sys
+          d = json.load(open('data/debate-board.json', encoding='utf-8'))
+          assert 'generated' in d and 'count' in d and 'posts' in d, 'invalid dump format'
+          assert isinstance(d['posts'], list), 'posts must be a list'
+          print(f'OK — {d[\"count\"]} posts dumped at {d[\"generated\"]}')
+          "
+
+      - name: Commit & push (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/debate-board.json
+          if git diff --cached --quiet; then
+            echo "변경 없음 — commit skip"
+            exit 0
+          fi
+          COUNT=$(python3 -c "import json; print(json.load(open('data/debate-board.json','r',encoding='utf-8'))['count'])")
+          # race condition 방지 — pull --rebase 후 push
+          git commit -m "chore(debate-board): hourly backup — ${COUNT}건 (UTC $(date -u +%Y-%m-%dT%H:%MZ))"
+          git pull --rebase
+          git push
