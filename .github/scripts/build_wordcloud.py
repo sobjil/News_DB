@@ -138,18 +138,14 @@ def extract_compound_nouns(text: str, kiwi: Kiwi) -> list:
             combined += tokens[j].form
             combined_end = tokens[j].start + tokens[j].len
             j += 1
-        # 1자 결합도 추가 (예: "...부", "...청") — 위 stopword 에서 제거됨
+        # v4: 결합 시 단독 토큰 추가 X (인공지능 OK, "인공"+"지능" 따로 카운트 X)
         if 1 < j - i:
-            # 연속 결합. 결합 token 이 너무 길거나 짧으면 제외
+            # 결합만 카운트. MIN_LEN ~ MAX_LEN 범위 안일 때
             if MIN_LEN <= len(combined) <= MAX_LEN:
                 out.append(combined)
-            # 결합 안에 들어간 개별 명사도 일부는 의미가 있을 수 있어 추가 (i 만 — 첫 토큰)
-            # 단 첫 토큰이 2자 이상 + 너무 일반적이지 않을 때만
-            if len(t.form) >= MIN_LEN:
-                out.append(t.form)
             i = j
         else:
-            # 단독 명사
+            # 단독 명사 (인접 결합 X)
             if MIN_LEN <= len(t.form) <= MAX_LEN:
                 out.append(t.form)
             i += 1
