@@ -175,8 +175,8 @@ def filter_words(words: list, stopwords: set) -> list:
 
 def agency_stopwords(label: str, kiwi: Kiwi) -> set:
     """
-    부처 label 자체에서 추출 가능한 모든 토큰 + 결합형 = 동적 불용어.
-    예: '과학기술정보통신부' -> {'과학기술정보통신부', '과학', '기술', '정보', '통신', '과학기술', ...}
+    부처 label 자체에서 추출 가능한 모든 토큰 + 결합형 + substring 모두 = 동적 불용어.
+    예: '과학기술정보통신부' -> {'과학기술정보통신부', '과학', '기술', '정보', '통신', '학기술', ...}
     """
     if not label:
         return set()
@@ -185,17 +185,57 @@ def agency_stopwords(label: str, kiwi: Kiwi) -> set:
     # 형태소 분석 결과 + 결합 모두 추가
     try:
         tokens = kiwi.tokenize(label)
+        nouns = [t.form for t in tokens if is_noun_tag(t.tag)]
+        out.update(nouns)
+        compounds = extract_compound_nouns(label, kiwi)
+        out.update(compounds)
     except Exception:
-        return out
-    nouns = [t.form for t in tokens if is_noun_tag(t.tag)]
-    out.update(nouns)
-    # 인접 결합도 추가 (extract_compound_nouns 와 같은 로직)
-    compounds = extract_compound_nouns(label, kiwi)
-    out.update(compounds)
+        pass
     # 끝 글자 (부/청/처/원/위원회 등) 자체도 제외
     if len(label) > 1:
-        out.add(label[-1])  # '부', '청', '처', '원' 등
+        out.add(label[-1])
+    # v4: label 의 모든 길이 2 이상 연속 substring 추가 (외교부 -> 외교, 교부 / 통신부 -> 통신)
+    L = len(label)
+    for i in range(L):
+        for j in range(i + MIN_LEN, min(L, i + MAX_LEN) + 1):
+            sub = label[i:j]
+            if sub:
+                out.add(sub)
     return out
+
+
+# v4: 부처 코드 -> 자주 쓰이는 약칭 매핑 (substring 으로 못 잡는 줄임말)
+# 자기 부처 워드클라우드에서만 적용. 다른 부처 결과에는 영향 X (참고 정보로 유지 가능).
+AGENCY_ALIASES = {
+    'msit':   ['과기정통부', '과기부', '과기', '정통부'],
+    'motie':  ['산업부', '산자부', '산업통상부', '통상자원부'],
+    'moef':   ['기재부', '재정부', '재경부'],
+    'mois':   ['행안부', '안행부'],
+    'molit':  ['국토부', '국토교통부'],
+    'mohw':   ['복지부', '보건부'],
+    'moel':   ['고용부', '노동부'],
+    'mcst':   ['문체부', '문화부'],
+    'me':     ['환경부'],  # 환경부 자체 — 다른 토큰 줄임 X
+    'mafra':  ['농식품부', '농림부', '농수산부'],
+    'mof':    ['해수부', '해양부'],
+    'mssba':  ['중기부', '중소기업부', '벤처부'],
+    'mfds':   ['식약처', '식약청'],
+    'kcc':    ['방통위'],
+    'fsc':    ['금융위'],
+    'ftc':    ['공정위'],
+    'mpva':   ['보훈부', '보훈처'],
+    'unikorea': ['통일부'],
+    'opm':    ['총리실', '국조실'],
+    'mnd':    ['국방부'],
+    'mofa':   ['외교부'],
+    'moj':    ['법무부'],
+    'moe':    ['교육부'],
+    'kcs':    ['관세청'],
+    'nts':    ['국세청'],
+    'sma':    ['해병대', '해군'],
+    'spo':    ['검찰청', '검찰'],
+    'kna':    ['경찰청', '경찰'],
+}
 
 
 def build_wordcloud(articles_path: str, output_path: str) -> None:
@@ -243,10 +283,13 @@ def build_wordcloud(articles_path: str, output_path: str) -> None:
         if (i + 1) % 200 == 0:
             print(f"  ... {i + 1}/{len(articles)} processed")
 
-    # v2: 부처별 자기 부처명 추가 제거
-    print("Applying per-agency dynamic stopwords (자기 부처명 제거)...")
+    # v2~v4: 부처별 자기 부처명 + 약칭 제거
+    print("Applying per-agency dynamic stopwords (자기 부처명 + 약칭 제거)...")
     for code, info in by_agency.items():
         ag_stops = agency_stopwords(info['label'], kiwi)
+        # v4: 약칭 매핑 추가
+        if code in AGENCY_ALIASES:
+            ag_stops.update(AGENCY_ALIASES[code])
         if ag_stops:
             before = sum(info['counter'].values())
             info['counter'] = Counter({w: c for w, c in info['counter'].items() if w not in ag_stops})
