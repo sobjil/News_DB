@@ -1,13 +1,15 @@
-name: Backup AI 썰전 Gallery (Hourly)
+name: Backup AI 썰전 Gallery
 
-# GDI-Apps AI 썰전 갤러리 (server.js + /app/user_data/ai-debate-posts.json) 의 매시간 백업.
+# GDI-Apps AI 썰전 갤러리 (/app/user_data/ai-debate-posts.json) 의 자동 백업.
 # AISpace 서버 재배포·장애 시에도 PUBLIC repo (sobjil/News_DB) 에 모든 게시물·댓글 보존.
-# 매시간 cron + 수동 트리거. 변경 없으면 commit skip.
+#
+# 메인 trigger: AISpace nodejs (server.js) 의 setInterval (매시간 workflow_dispatch).
+# 안전망: GHA schedule 매 6시간 (server.js cron 작동 X 시 백업).
 
 on:
   schedule:
-    - cron: '17 * * * *'   # 매 시간 17분 (다른 cron 과 겹치지 않게 분산)
-  workflow_dispatch: {}
+    - cron: '19 */6 * * *'   # 매 6시간 19분 (안전망 — 메인은 server.js setInterval)
+  workflow_dispatch: {}      # 메인 트리거 (server.js 가 호출)
 
 permissions:
   contents: write
