@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-28T19:06:25.189144+09:00",
-  "totalArticles": 1781,
+  "generated": "2026-05-28T19:37:56.197083+09:00",
+  "totalArticles": 1783,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 1781,
+      "articleCount": 1783,
       "words": [
         {
           "text": "논의",
@@ -13,7 +13,7 @@
         },
         {
           "text": "대응",
-          "count": 309
+          "count": 311
         },
         {
           "text": "간담회",
@@ -240,16 +240,20 @@
           "count": 95
         },
         {
+          "text": "사항",
+          "count": 92
+        },
+        {
           "text": "외교부",
           "count": 92
         },
         {
-          "text": "사항",
+          "text": "지급",
           "count": 91
         },
         {
-          "text": "지급",
-          "count": 91
+          "text": "조사",
+          "count": 90
         },
         {
           "text": "법무부",
@@ -269,10 +273,6 @@
         },
         {
           "text": "필요",
-          "count": 88
-        },
-        {
-          "text": "조사",
           "count": 88
         },
         {
@@ -564,6 +564,10 @@
           "count": 60
         },
         {
+          "text": "과정",
+          "count": 60
+        },
+        {
           "text": "소방",
           "count": 60
         },
@@ -585,10 +589,6 @@
         },
         {
           "text": "윤호중",
-          "count": 58
-        },
-        {
-          "text": "과정",
           "count": 58
         },
         {
@@ -788,6 +788,14 @@
           "count": 47
         },
         {
+          "text": "근절",
+          "count": 47
+        },
+        {
+          "text": "총력",
+          "count": 47
+        },
+        {
           "text": "면담",
           "count": 47
         },
@@ -798,14 +806,6 @@
         {
           "text": "포함",
           "count": 47
-        },
-        {
-          "text": "규제",
-          "count": 47
-        },
-        {
-          "text": "정비",
-          "count": 46
         }
       ]
     },
@@ -6265,7 +6265,7 @@
     },
     "molit": {
       "label": "국토교통부",
-      "articleCount": 51,
+      "articleCount": 52,
       "words": [
         {
           "text": "장관동정",
@@ -6300,6 +6300,10 @@
           "count": 8
         },
         {
+          "text": "조사",
+          "count": 6
+        },
+        {
           "text": "착수",
           "count": 6
         },
@@ -6330,10 +6334,6 @@
         {
           "text": "관리",
           "count": 6
-        },
-        {
-          "text": "조사",
-          "count": 4
         },
         {
           "text": "시대",
@@ -6442,6 +6442,30 @@
         {
           "text": "도심",
           "count": 4
+        },
+        {
+          "text": "서소문",
+          "count": 2
+        },
+        {
+          "text": "고가차도",
+          "count": 2
+        },
+        {
+          "text": "철거작업",
+          "count": 2
+        },
+        {
+          "text": "과정",
+          "count": 2
+        },
+        {
+          "text": "위법행위",
+          "count": 2
+        },
+        {
+          "text": "여부",
+          "count": 2
         },
         {
           "text": "서울",
@@ -6841,30 +6865,6 @@
         },
         {
           "text": "전략",
-          "count": 2
-        },
-        {
-          "text": "냉난방비",
-          "count": 2
-        },
-        {
-          "text": "그린리모델링",
-          "count": 2
-        },
-        {
-          "text": "접수",
-          "count": 2
-        },
-        {
-          "text": "유류세",
-          "count": 2
-        },
-        {
-          "text": "인하",
-          "count": 2
-        },
-        {
-          "text": "연장",
           "count": 2
         }
       ]
@@ -18385,11 +18385,11 @@
     },
     "mcst": {
       "label": "문화체육관광부",
-      "articleCount": 32,
+      "articleCount": 33,
       "words": [
         {
           "text": "사항",
-          "count": 32
+          "count": 33
         },
         {
           "text": "문체부보도자료",
@@ -18478,6 +18478,14 @@
         {
           "text": "확산",
           "count": 4
+        },
+        {
+          "text": "바가지요금",
+          "count": 3
+        },
+        {
+          "text": "근절",
+          "count": 3
         },
         {
           "text": "지역특화",
@@ -18686,6 +18694,14 @@
         {
           "text": "도서전",
           "count": 3
+        },
+        {
+          "text": "총력",
+          "count": 2
+        },
+        {
+          "text": "대응",
+          "count": 2
         },
         {
           "text": "우수",
@@ -18956,35 +18972,19 @@
           "count": 2
         },
         {
+          "text": "정부합동",
+          "count": 1
+        },
+        {
+          "text": "티에프회의",
+          "count": 1
+        },
+        {
           "text": "투어링",
           "count": 1
         },
         {
           "text": "아츠",
-          "count": 1
-        },
-        {
-          "text": "창제작",
-          "count": 1
-        },
-        {
-          "text": "문화예술정책자문위원회",
-          "count": 1
-        },
-        {
-          "text": "분과",
-          "count": 1
-        },
-        {
-          "text": "제1회",
-          "count": 1
-        },
-        {
-          "text": "교통",
-          "count": 1
-        },
-        {
-          "text": "정책협의회",
           "count": 1
         }
       ]
