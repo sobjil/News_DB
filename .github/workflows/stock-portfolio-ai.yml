@@ -4,10 +4,11 @@ name: stock-portfolio-ai-report
 # News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
 # 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio-ai.yml 에 둔다.
 # 필요 시크릿(News_DB 저장소): STOCK_PORTFOLIO_PAT, GEMINI_API_KEY_1..5 (+ FINNHUB_TOKEN 선택)
-# 스케줄: UTC 월~금 23:00 = KST 화~토 08:00 (일·월요일 휴장이라 제외). 스크립트가 토요일=주간, 월초=월간 리포트도 생성.
+# 스케줄: UTC 월~금 23:07 = KST 화~토 08:07 (일·월요일 휴장이라 제외). 스크립트가 토요일=주간, 월초=월간 리포트도 생성.
+# (정각이 아닌 :07 로 둔 이유 = 매 15분 도는 스냅샷 cron 과 시각이 안 겹치게 해 push 충돌·재시도를 원천 회피)
 on:
   schedule:
-    - cron: "0 23 * * 1-5"
+    - cron: "7 23 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:
