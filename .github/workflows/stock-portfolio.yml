@@ -1,0 +1,73 @@
+name: stock-portfolio-snapshot
+
+# 개인 주식 포트폴리오 스냅샷/알림 — private repo(sobjil/Stock-Portfolio)를 받아 실행 후 되돌려 쓴다.
+# News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
+# 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio.yml 에 둔다.
+# 필요 시크릿(News_DB 저장소에 등록): STOCK_PORTFOLIO_PAT, FINNHUB_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_telegram:
+        description: "텔레그램 연결 테스트"
+        type: boolean
+        default: false
+
+concurrency:
+  group: stock-portfolio-snapshot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Guard
+        id: guard
+        env:
+          PAT: ${{ secrets.STOCK_PORTFOLIO_PAT }}
+        run: |
+          if [ -z "$PAT" ]; then
+            echo "STOCK_PORTFOLIO_PAT 미설정 — 건너뜀"
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout Stock-Portfolio (private)
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: sobjil/Stock-Portfolio
+          token: ${{ secrets.STOCK_PORTFOLIO_PAT }}
+          path: sp
+
+      - name: Setup Node
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run snapshot + alerts
+        if: steps.guard.outputs.ready == 'true'
+        working-directory: sp
+        env:
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TEST_TELEGRAM: ${{ inputs.test_telegram }}
+        run: node scripts/snapshot.mjs
+
+      - name: Commit & push back
+        if: steps.guard.outputs.ready == 'true'
+        working-directory: sp
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
+            git commit -m "chore: snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "변경 없음 — 커밋 생략"
+          fi
