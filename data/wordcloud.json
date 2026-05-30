@@ -1,27 +1,27 @@
 {
-  "generated": "2026-05-30T08:49:02.674286+09:00",
-  "totalArticles": 1918,
+  "generated": "2026-05-30T09:49:05.183078+09:00",
+  "totalArticles": 1912,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 1918,
+      "articleCount": 1912,
       "words": [
         {
           "text": "논의",
-          "count": 349
+          "count": 348
         },
         {
           "text": "대응",
-          "count": 334
+          "count": 331
+        },
+        {
+          "text": "점검",
+          "count": 274
         },
         {
           "text": "간담회",
           "count": 273
-        },
-        {
-          "text": "점검",
-          "count": 271
         },
         {
           "text": "인공지능",
@@ -41,19 +41,19 @@
         },
         {
           "text": "발생",
-          "count": 213
+          "count": 206
         },
         {
           "text": "안전",
-          "count": 200
+          "count": 201
         },
         {
           "text": "본격",
-          "count": 196
+          "count": 193
         },
         {
           "text": "참석",
-          "count": 187
+          "count": 186
         },
         {
           "text": "서울",
@@ -72,12 +72,12 @@
           "count": 165
         },
         {
-          "text": "대비",
-          "count": 153
-        },
-        {
           "text": "제도",
           "count": 152
+        },
+        {
+          "text": "대비",
+          "count": 151
         },
         {
           "text": "선정",
@@ -88,28 +88,28 @@
           "count": 151
         },
         {
-          "text": "전문가",
-          "count": 150
-        },
-        {
           "text": "행사",
           "count": 150
         },
         {
-          "text": "예방",
-          "count": 148
-        },
-        {
-          "text": "관리",
-          "count": 148
+          "text": "전문가",
+          "count": 149
         },
         {
           "text": "확산",
-          "count": 147
+          "count": 146
         },
         {
           "text": "미래",
           "count": 146
+        },
+        {
+          "text": "관리",
+          "count": 146
+        },
+        {
+          "text": "예방",
+          "count": 144
         },
         {
           "text": "산업",
@@ -124,12 +124,12 @@
           "count": 136
         },
         {
-          "text": "진행",
-          "count": 133
-        },
-        {
           "text": "시행",
           "count": 132
+        },
+        {
+          "text": "진행",
+          "count": 131
         },
         {
           "text": "한국",
@@ -164,6 +164,10 @@
           "count": 115
         },
         {
+          "text": "소재",
+          "count": 114
+        },
+        {
           "text": "체결",
           "count": 114
         },
@@ -172,31 +176,19 @@
           "count": 114
         },
         {
-          "text": "시작",
-          "count": 114
-        },
-        {
           "text": "중기부",
           "count": 114
-        },
-        {
-          "text": "소재",
-          "count": 113
-        },
-        {
-          "text": "공유",
-          "count": 113
         },
         {
           "text": "의견",
           "count": 113
         },
         {
-          "text": "신청",
-          "count": 113
+          "text": "보호",
+          "count": 112
         },
         {
-          "text": "보호",
+          "text": "공유",
           "count": 112
         },
         {
@@ -212,12 +204,20 @@
           "count": 111
         },
         {
-          "text": "이후",
-          "count": 107
+          "text": "신청",
+          "count": 111
+        },
+        {
+          "text": "시작",
+          "count": 109
         },
         {
           "text": "청소년",
           "count": 107
+        },
+        {
+          "text": "이후",
+          "count": 105
         },
         {
           "text": "환경",
@@ -241,7 +241,7 @@
         },
         {
           "text": "연구",
-          "count": 101
+          "count": 100
         },
         {
           "text": "개인정보",
@@ -300,35 +300,35 @@
           "count": 91
         },
         {
-          "text": "대표",
-          "count": 90
-        },
-        {
           "text": "소통",
           "count": 90
         },
         {
-          "text": "신속",
+          "text": "대표",
           "count": 88
         },
         {
-          "text": "가능",
-          "count": 88
+          "text": "신속",
+          "count": 87
         },
         {
           "text": "보건복지부",
           "count": 87
         },
         {
+          "text": "행정안전부",
+          "count": 85
+        },
+        {
           "text": "우수",
           "count": 84
         },
         {
-          "text": "해양수산부",
+          "text": "가능",
           "count": 84
         },
         {
-          "text": "행정안전부",
+          "text": "해양수산부",
           "count": 84
         },
         {
@@ -350,6 +350,10 @@
         {
           "text": "국방부",
           "count": 82
+        },
+        {
+          "text": "상황",
+          "count": 81
         },
         {
           "text": "개정",
@@ -380,10 +384,6 @@
           "count": 79
         },
         {
-          "text": "상황",
-          "count": 79
-        },
-        {
           "text": "청취",
           "count": 78
         },
@@ -408,19 +408,15 @@
           "count": 75
         },
         {
-          "text": "정보",
-          "count": 75
-        },
-        {
-          "text": "평가",
-          "count": 75
-        },
-        {
           "text": "모집",
           "count": 75
         },
         {
           "text": "모색",
+          "count": 74
+        },
+        {
+          "text": "정보",
           "count": 74
         },
         {
@@ -436,16 +432,16 @@
           "count": 73
         },
         {
+          "text": "평가",
+          "count": 73
+        },
+        {
           "text": "최대",
           "count": 73
         },
         {
           "text": "기후에너지환경부",
           "count": 73
-        },
-        {
-          "text": "분석",
-          "count": 71
         },
         {
           "text": "핵심",
@@ -456,11 +452,11 @@
           "count": 71
         },
         {
-          "text": "국민권익위",
-          "count": 71
+          "text": "중소기업",
+          "count": 70
         },
         {
-          "text": "중소기업",
+          "text": "분석",
           "count": 70
         },
         {
@@ -468,12 +464,12 @@
           "count": 70
         },
         {
-          "text": "공개",
+          "text": "기획예산처",
           "count": 70
         },
         {
-          "text": "기획예산처",
-          "count": 70
+          "text": "윤호중",
+          "count": 69
         },
         {
           "text": "활동",
@@ -504,7 +500,7 @@
           "count": 68
         },
         {
-          "text": "윤호중",
+          "text": "공개",
           "count": 68
         },
         {
@@ -516,15 +512,15 @@
           "count": 67
         },
         {
+          "text": "국민권익위",
+          "count": 67
+        },
+        {
           "text": "국정과제",
           "count": 66
         },
         {
           "text": "공급",
-          "count": 66
-        },
-        {
-          "text": "접수",
           "count": 66
         },
         {
@@ -548,10 +544,6 @@
           "count": 64
         },
         {
-          "text": "위험",
-          "count": 64
-        },
-        {
           "text": "과정",
           "count": 64
         },
@@ -564,16 +556,16 @@
           "count": 64
         },
         {
-          "text": "포럼",
-          "count": 64
-        },
-        {
           "text": "가정",
           "count": 64
         },
         {
           "text": "산업부",
           "count": 64
+        },
+        {
+          "text": "위험",
+          "count": 63
         },
         {
           "text": "시장",
@@ -584,15 +576,19 @@
           "count": 63
         },
         {
+          "text": "접수",
+          "count": 63
+        },
+        {
           "text": "마약",
           "count": 63
         },
         {
-          "text": "질병관리청",
-          "count": 63
+          "text": "국가유산청",
+          "count": 62
         },
         {
-          "text": "국가유산청",
+          "text": "포럼",
           "count": 62
         },
         {
@@ -660,10 +656,6 @@
           "count": 59
         },
         {
-          "text": "적극",
-          "count": 58
-        },
-        {
           "text": "과기정통부",
           "count": 58
         },
@@ -674,6 +666,14 @@
         {
           "text": "지방정부",
           "count": 58
+        },
+        {
+          "text": "질병관리청",
+          "count": 58
+        },
+        {
+          "text": "적극",
+          "count": 57
         },
         {
           "text": "프로젝트",
@@ -696,10 +696,6 @@
           "count": 57
         },
         {
-          "text": "적용",
-          "count": 56
-        },
-        {
           "text": "해결",
           "count": 56
         },
@@ -714,6 +710,10 @@
         {
           "text": "한반도",
           "count": 55
+        },
+        {
+          "text": "적용",
+          "count": 54
         },
         {
           "text": "공정",
@@ -792,10 +792,6 @@
           "count": 51
         },
         {
-          "text": "신고",
-          "count": 50
-        },
-        {
           "text": "인재",
           "count": 50
         },
@@ -805,6 +801,10 @@
         },
         {
           "text": "안내",
+          "count": 50
+        },
+        {
+          "text": "기대",
           "count": 50
         }
       ]
@@ -5659,11 +5659,11 @@
     },
     "mois": {
       "label": "행정안전부",
-      "articleCount": 65,
+      "articleCount": 66,
       "words": [
         {
           "text": "윤호중",
-          "count": 60
+          "count": 61
         },
         {
           "text": "지급",
@@ -5674,12 +5674,12 @@
           "count": 45
         },
         {
-          "text": "대상자",
-          "count": 26
+          "text": "점검",
+          "count": 28
         },
         {
-          "text": "점검",
-          "count": 25
+          "text": "대상자",
+          "count": 26
         },
         {
           "text": "대비",
@@ -5690,6 +5690,10 @@
           "count": 24
         },
         {
+          "text": "방문",
+          "count": 20
+        },
+        {
           "text": "유가",
           "count": 20
         },
@@ -5698,16 +5702,20 @@
           "count": 20
         },
         {
-          "text": "방문",
-          "count": 19
-        },
-        {
           "text": "공무원",
           "count": 16
         },
         {
+          "text": "사전투표",
+          "count": 15
+        },
+        {
           "text": "정비",
           "count": 15
+        },
+        {
+          "text": "상황",
+          "count": 14
         },
         {
           "text": "누계",
@@ -5726,12 +5734,12 @@
           "count": 12
         },
         {
-          "text": "상황",
+          "text": "관계기관",
           "count": 12
         },
         {
-          "text": "관계기관",
-          "count": 12
+          "text": "김민재",
+          "count": 11
         },
         {
           "text": "재난",
@@ -5758,15 +5766,11 @@
           "count": 11
         },
         {
-          "text": "사전투표",
+          "text": "지방선거",
           "count": 10
         },
         {
           "text": "여름철",
-          "count": 10
-        },
-        {
-          "text": "김민재",
           "count": 10
         },
         {
@@ -5776,10 +5780,6 @@
         {
           "text": "계곡",
           "count": 10
-        },
-        {
-          "text": "지방선거",
-          "count": 9
         },
         {
           "text": "선거",
@@ -5796,6 +5796,10 @@
         {
           "text": "현수막",
           "count": 9
+        },
+        {
+          "text": "전국동시지방선거",
+          "count": 8
         },
         {
           "text": "기관",
@@ -5818,15 +5822,19 @@
           "count": 8
         },
         {
+          "text": "현장점검",
+          "count": 7
+        },
+        {
+          "text": "투표",
+          "count": 7
+        },
+        {
           "text": "중심",
           "count": 7
         },
         {
           "text": "행사",
-          "count": 7
-        },
-        {
-          "text": "전국동시지방선거",
           "count": 7
         },
         {
@@ -5882,19 +5890,11 @@
           "count": 6
         },
         {
-          "text": "투표",
-          "count": 6
-        },
-        {
           "text": "모바일",
           "count": 6
         },
         {
           "text": "취약계층",
-          "count": 6
-        },
-        {
-          "text": "현장점검",
           "count": 6
         },
         {
@@ -5956,6 +5956,10 @@
         {
           "text": "청년",
           "count": 6
+        },
+        {
+          "text": "서울특별시",
+          "count": 5
         },
         {
           "text": "투표소",
@@ -6130,10 +6134,6 @@
           "count": 4
         },
         {
-          "text": "서울특별시",
-          "count": 4
-        },
-        {
           "text": "역량",
           "count": 4
         },
@@ -6226,6 +6226,14 @@
           "count": 4
         },
         {
+          "text": "이송",
+          "count": 3
+        },
+        {
+          "text": "선거일",
+          "count": 3
+        },
+        {
           "text": "회복",
           "count": 3
         },
@@ -6251,14 +6259,6 @@
         },
         {
           "text": "보건복지부",
-          "count": 3
-        },
-        {
-          "text": "경찰청",
-          "count": 3
-        },
-        {
-          "text": "허위",
           "count": 3
         }
       ]
@@ -13535,612 +13535,6 @@
         }
       ]
     },
-    "kdca": {
-      "label": "질병관리청",
-      "articleCount": 40,
-      "words": [
-        {
-          "text": "임승관",
-          "count": 37
-        },
-        {
-          "text": "발생",
-          "count": 34
-        },
-        {
-          "text": "감염병",
-          "count": 30
-        },
-        {
-          "text": "방문",
-          "count": 24
-        },
-        {
-          "text": "대응",
-          "count": 19
-        },
-        {
-          "text": "열질환",
-          "count": 18
-        },
-        {
-          "text": "위험",
-          "count": 16
-        },
-        {
-          "text": "시작",
-          "count": 16
-        },
-        {
-          "text": "예방",
-          "count": 16
-        },
-        {
-          "text": "점검",
-          "count": 15
-        },
-        {
-          "text": "대비",
-          "count": 15
-        },
-        {
-          "text": "논의",
-          "count": 12
-        },
-        {
-          "text": "국립보건연구원",
-          "count": 12
-        },
-        {
-          "text": "백신",
-          "count": 12
-        },
-        {
-          "text": "질병관리청장",
-          "count": 12
-        },
-        {
-          "text": "손상",
-          "count": 11
-        },
-        {
-          "text": "의료기관",
-          "count": 11
-        },
-        {
-          "text": "근거",
-          "count": 11
-        },
-        {
-          "text": "청소년",
-          "count": 10
-        },
-        {
-          "text": "안내",
-          "count": 10
-        },
-        {
-          "text": "질병청",
-          "count": 10
-        },
-        {
-          "text": "가족",
-          "count": 10
-        },
-        {
-          "text": "예방수칙",
-          "count": 10
-        },
-        {
-          "text": "환자",
-          "count": 9
-        },
-        {
-          "text": "검역",
-          "count": 9
-        },
-        {
-          "text": "본격",
-          "count": 9
-        },
-        {
-          "text": "희귀질환",
-          "count": 9
-        },
-        {
-          "text": "혈압",
-          "count": 9
-        },
-        {
-          "text": "증가",
-          "count": 9
-        },
-        {
-          "text": "감시",
-          "count": 9
-        },
-        {
-          "text": "항생제",
-          "count": 9
-        },
-        {
-          "text": "조간",
-          "count": 8
-        },
-        {
-          "text": "필요",
-          "count": 8
-        },
-        {
-          "text": "이후",
-          "count": 8
-        },
-        {
-          "text": "결핵환자",
-          "count": 8
-        },
-        {
-          "text": "감염",
-          "count": 8
-        },
-        {
-          "text": "말라리아",
-          "count": 8
-        },
-        {
-          "text": "유입",
-          "count": 7
-        },
-        {
-          "text": "우간다",
-          "count": 7
-        },
-        {
-          "text": "지방간",
-          "count": 7
-        },
-        {
-          "text": "진단",
-          "count": 7
-        },
-        {
-          "text": "건강",
-          "count": 7
-        },
-        {
-          "text": "국정과제",
-          "count": 7
-        },
-        {
-          "text": "결핵",
-          "count": 7
-        },
-        {
-          "text": "가능",
-          "count": 7
-        },
-        {
-          "text": "기후보건영향평가",
-          "count": 7
-        },
-        {
-          "text": "내성",
-          "count": 7
-        },
-        {
-          "text": "사망",
-          "count": 6
-        },
-        {
-          "text": "에볼라바이러스병",
-          "count": 6
-        },
-        {
-          "text": "콩고민주공화국",
-          "count": 6
-        },
-        {
-          "text": "개정",
-          "count": 6
-        },
-        {
-          "text": "차장",
-          "count": 6
-        },
-        {
-          "text": "국가예방접종",
-          "count": 6
-        },
-        {
-          "text": "보관",
-          "count": 6
-        },
-        {
-          "text": "가향담배",
-          "count": 6
-        },
-        {
-          "text": "평가",
-          "count": 6
-        },
-        {
-          "text": "중심",
-          "count": 6
-        },
-        {
-          "text": "소통",
-          "count": 6
-        },
-        {
-          "text": "환아",
-          "count": 6
-        },
-        {
-          "text": "고도",
-          "count": 6
-        },
-        {
-          "text": "접촉",
-          "count": 6
-        },
-        {
-          "text": "공공데이터",
-          "count": 6
-        },
-        {
-          "text": "열질환자",
-          "count": 6
-        },
-        {
-          "text": "월드컵",
-          "count": 6
-        },
-        {
-          "text": "감염증",
-          "count": 6
-        },
-        {
-          "text": "국회",
-          "count": 6
-        },
-        {
-          "text": "본회의",
-          "count": 6
-        },
-        {
-          "text": "통과",
-          "count": 6
-        },
-        {
-          "text": "법률",
-          "count": 6
-        },
-        {
-          "text": "이재민",
-          "count": 6
-        },
-        {
-          "text": "영유아",
-          "count": 5
-        },
-        {
-          "text": "선제",
-          "count": 5
-        },
-        {
-          "text": "치료",
-          "count": 5
-        },
-        {
-          "text": "남재환",
-          "count": 5
-        },
-        {
-          "text": "에볼라",
-          "count": 5
-        },
-        {
-          "text": "진료",
-          "count": 5
-        },
-        {
-          "text": "가정",
-          "count": 5
-        },
-        {
-          "text": "급성심장정지",
-          "count": 5
-        },
-        {
-          "text": "향후",
-          "count": 5
-        },
-        {
-          "text": "준수",
-          "count": 5
-        },
-        {
-          "text": "조사",
-          "count": 5
-        },
-        {
-          "text": "남성",
-          "count": 5
-        },
-        {
-          "text": "인공지능",
-          "count": 5
-        },
-        {
-          "text": "인플루엔자",
-          "count": 5
-        },
-        {
-          "text": "보건소",
-          "count": 5
-        },
-        {
-          "text": "신종감염병",
-          "count": 5
-        },
-        {
-          "text": "코로나",
-          "count": 5
-        },
-        {
-          "text": "급성악화",
-          "count": 5
-        },
-        {
-          "text": "상황분석",
-          "count": 5
-        },
-        {
-          "text": "선천",
-          "count": 5
-        },
-        {
-          "text": "지속",
-          "count": 4
-        },
-        {
-          "text": "환경",
-          "count": 4
-        },
-        {
-          "text": "장소",
-          "count": 4
-        },
-        {
-          "text": "합동",
-          "count": 4
-        },
-        {
-          "text": "보호",
-          "count": 4
-        },
-        {
-          "text": "중요",
-          "count": 4
-        },
-        {
-          "text": "검사",
-          "count": 4
-        },
-        {
-          "text": "연계",
-          "count": 4
-        },
-        {
-          "text": "이행",
-          "count": 4
-        },
-        {
-          "text": "질환",
-          "count": 4
-        },
-        {
-          "text": "연구",
-          "count": 4
-        },
-        {
-          "text": "개요",
-          "count": 4
-        },
-        {
-          "text": "유행지역",
-          "count": 4
-        },
-        {
-          "text": "대한민국",
-          "count": 4
-        },
-        {
-          "text": "과제",
-          "count": 4
-        },
-        {
-          "text": "신고",
-          "count": 4
-        },
-        {
-          "text": "기대",
-          "count": 4
-        },
-        {
-          "text": "위기관리체계",
-          "count": 4
-        },
-        {
-          "text": "민·관",
-          "count": 4
-        },
-        {
-          "text": "포럼",
-          "count": 4
-        },
-        {
-          "text": "건강행태",
-          "count": 4
-        },
-        {
-          "text": "청소년건강패널조사",
-          "count": 4
-        },
-        {
-          "text": "사망자",
-          "count": 4
-        },
-        {
-          "text": "기후적응",
-          "count": 4
-        },
-        {
-          "text": "역량",
-          "count": 4
-        },
-        {
-          "text": "병무청",
-          "count": 4
-        },
-        {
-          "text": "방위사업청",
-          "count": 4
-        },
-        {
-          "text": "절기",
-          "count": 4
-        },
-        {
-          "text": "해제",
-          "count": 4
-        },
-        {
-          "text": "지역사회건강조사",
-          "count": 4
-        },
-        {
-          "text": "청취",
-          "count": 4
-        },
-        {
-          "text": "격려",
-          "count": 4
-        },
-        {
-          "text": "현장방문",
-          "count": 4
-        },
-        {
-          "text": "여름철",
-          "count": 4
-        },
-        {
-          "text": "신속",
-          "count": 4
-        },
-        {
-          "text": "폭염",
-          "count": 4
-        },
-        {
-          "text": "보건복지부",
-          "count": 4
-        },
-        {
-          "text": "중장기계획",
-          "count": 4
-        },
-        {
-          "text": "기후변화",
-          "count": 4
-        },
-        {
-          "text": "전문위원회",
-          "count": 4
-        },
-        {
-          "text": "전문가",
-          "count": 4
-        },
-        {
-          "text": "예측정보",
-          "count": 4
-        },
-        {
-          "text": "정보",
-          "count": 4
-        },
-        {
-          "text": "누리집",
-          "count": 4
-        },
-        {
-          "text": "실시간",
-          "count": 4
-        },
-        {
-          "text": "매개체",
-          "count": 4
-        },
-        {
-          "text": "대한천식알레르기학회",
-          "count": 4
-        },
-        {
-          "text": "심포지엄",
-          "count": 4
-        },
-        {
-          "text": "역학조사",
-          "count": 4
-        },
-        {
-          "text": "의료현장",
-          "count": 4
-        },
-        {
-          "text": "내성균",
-          "count": 4
-        },
-        {
-          "text": "결핵예방법",
-          "count": 4
-        },
-        {
-          "text": "검진",
-          "count": 4
-        },
-        {
-          "text": "개정안",
-          "count": 4
-        },
-        {
-          "text": "사람유두종바이러스",
-          "count": 4
-        },
-        {
-          "text": "공동격리",
-          "count": 4
-        },
-        {
-          "text": "절차",
-          "count": 4
-        },
-        {
-          "text": "임상연구",
-          "count": 4
-        },
-        {
-          "text": "산불피해",
-          "count": 4
-        },
-        {
-          "text": "하절기",
-          "count": 4
-        }
-      ]
-    },
     "opm": {
       "label": "국무조정실",
       "articleCount": 39,
@@ -17777,608 +17171,608 @@
         }
       ]
     },
-    "acrc": {
-      "label": "국민권익위원회",
-      "articleCount": 34,
+    "kdca": {
+      "label": "질병관리청",
+      "articleCount": 36,
       "words": [
         {
-          "text": "정일연",
+          "text": "임승관",
           "count": 33
         },
         {
-          "text": "민원",
-          "count": 12
+          "text": "발생",
+          "count": 28
         },
         {
-          "text": "처분",
-          "count": 12
+          "text": "방문",
+          "count": 24
         },
         {
-          "text": "요구",
-          "count": 9
+          "text": "감염병",
+          "count": 20
         },
         {
-          "text": "도로",
-          "count": 9
+          "text": "대응",
+          "count": 18
         },
         {
-          "text": "보호",
-          "count": 9
+          "text": "열질환",
+          "count": 18
         },
         {
-          "text": "지급",
-          "count": 9
+          "text": "예방",
+          "count": 16
         },
         {
-          "text": "해소",
-          "count": 8
+          "text": "점검",
+          "count": 15
         },
         {
-          "text": "합의",
-          "count": 8
-        },
-        {
-          "text": "상담",
-          "count": 8
-        },
-        {
-          "text": "제도개선",
-          "count": 8
-        },
-        {
-          "text": "시설",
-          "count": 7
-        },
-        {
-          "text": "신청",
-          "count": 7
-        },
-        {
-          "text": "부패",
-          "count": 7
-        },
-        {
-          "text": "고속도로",
-          "count": 7
-        },
-        {
-          "text": "시민고충처리위",
-          "count": 7
-        },
-        {
-          "text": "양성",
-          "count": 7
-        },
-        {
-          "text": "교육",
-          "count": 6
-        },
-        {
-          "text": "기준",
-          "count": 6
-        },
-        {
-          "text": "중앙행정기관",
-          "count": 6
-        },
-        {
-          "text": "대표번호",
-          "count": 6
-        },
-        {
-          "text": "기관",
-          "count": 6
-        },
-        {
-          "text": "제한",
-          "count": 6
-        },
-        {
-          "text": "사용",
-          "count": 6
-        },
-        {
-          "text": "해결",
-          "count": 6
-        },
-        {
-          "text": "경우",
-          "count": 6
-        },
-        {
-          "text": "출산지원금",
-          "count": 6
-        },
-        {
-          "text": "워크숍",
-          "count": 6
-        },
-        {
-          "text": "인공지능",
-          "count": 6
-        },
-        {
-          "text": "아내",
-          "count": 6
-        },
-        {
-          "text": "공공수영장",
-          "count": 5
-        },
-        {
-          "text": "개설",
-          "count": 5
-        },
-        {
-          "text": "경청",
-          "count": 5
-        },
-        {
-          "text": "국민신문고",
-          "count": 5
-        },
-        {
-          "text": "절차",
-          "count": 5
-        },
-        {
-          "text": "국가전문자격",
-          "count": 5
-        },
-        {
-          "text": "안내",
-          "count": 5
-        },
-        {
-          "text": "제도",
-          "count": 5
+          "text": "위험",
+          "count": 15
         },
         {
           "text": "대비",
-          "count": 5
+          "count": 13
         },
         {
-          "text": "가능",
-          "count": 5
+          "text": "논의",
+          "count": 12
         },
         {
-          "text": "보상금",
-          "count": 5
+          "text": "백신",
+          "count": 12
         },
         {
-          "text": "공공기관",
-          "count": 5
+          "text": "질병관리청장",
+          "count": 12
         },
         {
-          "text": "병역명문가",
-          "count": 5
-        },
-        {
-          "text": "예우",
-          "count": 5
-        },
-        {
-          "text": "처리",
-          "count": 5
-        },
-        {
-          "text": "행정심판",
-          "count": 5
-        },
-        {
-          "text": "부지",
-          "count": 5
-        },
-        {
-          "text": "지정",
-          "count": 5
-        },
-        {
-          "text": "운전면허",
-          "count": 5
-        },
-        {
-          "text": "취소",
-          "count": 5
-        },
-        {
-          "text": "고충민원",
-          "count": 5
-        },
-        {
-          "text": "이해충돌방지법",
-          "count": 5
-        },
-        {
-          "text": "청와대",
-          "count": 5
-        },
-        {
-          "text": "확산",
-          "count": 5
-        },
-        {
-          "text": "청렴",
-          "count": 5
-        },
-        {
-          "text": "자녀",
-          "count": 5
-        },
-        {
-          "text": "동의",
-          "count": 5
-        },
-        {
-          "text": "차량",
-          "count": 5
-        },
-        {
-          "text": "연고",
-          "count": 5
-        },
-        {
-          "text": "전사자",
-          "count": 5
-        },
-        {
-          "text": "청년자문단",
-          "count": 4
-        },
-        {
-          "text": "목소리",
-          "count": 4
-        },
-        {
-          "text": "사각지대",
-          "count": 4
-        },
-        {
-          "text": "장애인",
-          "count": 4
-        },
-        {
-          "text": "불편",
-          "count": 4
-        },
-        {
-          "text": "국민주권정부",
-          "count": 4
-        },
-        {
-          "text": "순회",
-          "count": 4
-        },
-        {
-          "text": "한국",
-          "count": 4
-        },
-        {
-          "text": "국가유공자",
-          "count": 4
-        },
-        {
-          "text": "면접시험",
-          "count": 4
-        },
-        {
-          "text": "관리",
-          "count": 4
-        },
-        {
-          "text": "반복",
-          "count": 4
-        },
-        {
-          "text": "장마",
-          "count": 4
-        },
-        {
-          "text": "표기",
-          "count": 4
-        },
-        {
-          "text": "분기",
-          "count": 4
-        },
-        {
-          "text": "인정",
-          "count": 4
-        },
-        {
-          "text": "거주지",
-          "count": 4
-        },
-        {
-          "text": "지방정부",
-          "count": 4
-        },
-        {
-          "text": "중앙행심위",
-          "count": 4
-        },
-        {
-          "text": "이유",
-          "count": 4
-        },
-        {
-          "text": "결정",
-          "count": 4
-        },
-        {
-          "text": "유가",
-          "count": 4
-        },
-        {
-          "text": "고충",
-          "count": 4
-        },
-        {
-          "text": "간담회",
-          "count": 4
-        },
-        {
-          "text": "음주",
-          "count": 4
-        },
-        {
-          "text": "측정",
-          "count": 4
-        },
-        {
-          "text": "착오",
-          "count": 4
-        },
-        {
-          "text": "기본요금",
-          "count": 4
-        },
-        {
-          "text": "군사시설",
-          "count": 4
-        },
-        {
-          "text": "조정",
-          "count": 4
-        },
-        {
-          "text": "공동연수회",
-          "count": 4
-        },
-        {
-          "text": "영남",
-          "count": 4
-        },
-        {
-          "text": "설명회",
-          "count": 4
-        },
-        {
-          "text": "청렴문화",
-          "count": 4
-        },
-        {
-          "text": "인재",
-          "count": 4
-        },
-        {
-          "text": "정상",
-          "count": 4
-        },
-        {
-          "text": "접수",
-          "count": 4
-        },
-        {
-          "text": "재혼",
-          "count": 4
-        },
-        {
-          "text": "사망",
-          "count": 4
-        },
-        {
-          "text": "고인",
-          "count": 4
-        },
-        {
-          "text": "말소",
-          "count": 4
-        },
-        {
-          "text": "울산과기원",
-          "count": 4
-        },
-        {
-          "text": "상담번호",
-          "count": 4
-        },
-        {
-          "text": "청년",
-          "count": 3
-        },
-        {
-          "text": "소통",
-          "count": 3
-        },
-        {
-          "text": "반영",
-          "count": 3
-        },
-        {
-          "text": "샤워",
-          "count": 3
-        },
-        {
-          "text": "유아",
-          "count": 3
-        },
-        {
-          "text": "고령자",
-          "count": 3
-        },
-        {
-          "text": "가족",
-          "count": 3
-        },
-        {
-          "text": "권고",
-          "count": 3
-        },
-        {
-          "text": "마을",
-          "count": 3
-        },
-        {
-          "text": "길이",
-          "count": 3
-        },
-        {
-          "text": "주민",
-          "count": 3
-        },
-        {
-          "text": "포장",
-          "count": 3
-        },
-        {
-          "text": "임도",
-          "count": 3
-        },
-        {
-          "text": "지역발전",
-          "count": 3
-        },
-        {
-          "text": "의지",
-          "count": 3
-        },
-        {
-          "text": "역량",
-          "count": 3
+          "text": "손상",
+          "count": 11
         },
         {
           "text": "시작",
-          "count": 3
+          "count": 11
         },
         {
-          "text": "공직자",
-          "count": 3
+          "text": "의료기관",
+          "count": 10
         },
         {
-          "text": "공유",
-          "count": 3
+          "text": "청소년",
+          "count": 10
         },
         {
-          "text": "이탈리아",
-          "count": 3
+          "text": "안내",
+          "count": 10
         },
         {
-          "text": "묘역",
-          "count": 3
+          "text": "가족",
+          "count": 10
         },
         {
-          "text": "정화활동",
-          "count": 3
+          "text": "환자",
+          "count": 9
         },
         {
-          "text": "보훈",
-          "count": 3
+          "text": "검역",
+          "count": 9
         },
         {
-          "text": "공정",
-          "count": 3
+          "text": "희귀질환",
+          "count": 9
         },
         {
-          "text": "투명",
-          "count": 3
+          "text": "예방수칙",
+          "count": 9
         },
         {
-          "text": "정비",
-          "count": 3
-        },
-        {
-          "text": "재난",
-          "count": 3
-        },
-        {
-          "text": "관계기관",
-          "count": 3
+          "text": "혈압",
+          "count": 9
         },
         {
           "text": "증가",
+          "count": 9
+        },
+        {
+          "text": "항생제",
+          "count": 9
+        },
+        {
+          "text": "조간",
+          "count": 8
+        },
+        {
+          "text": "필요",
+          "count": 8
+        },
+        {
+          "text": "질병청",
+          "count": 8
+        },
+        {
+          "text": "결핵환자",
+          "count": 8
+        },
+        {
+          "text": "감시",
+          "count": 8
+        },
+        {
+          "text": "말라리아",
+          "count": 8
+        },
+        {
+          "text": "우간다",
+          "count": 7
+        },
+        {
+          "text": "지방간",
+          "count": 7
+        },
+        {
+          "text": "진단",
+          "count": 7
+        },
+        {
+          "text": "이후",
+          "count": 7
+        },
+        {
+          "text": "국립보건연구원",
+          "count": 7
+        },
+        {
+          "text": "국정과제",
+          "count": 7
+        },
+        {
+          "text": "근거",
+          "count": 7
+        },
+        {
+          "text": "결핵",
+          "count": 7
+        },
+        {
+          "text": "기후보건영향평가",
+          "count": 7
+        },
+        {
+          "text": "내성",
+          "count": 7
+        },
+        {
+          "text": "사망",
+          "count": 6
+        },
+        {
+          "text": "에볼라바이러스병",
+          "count": 6
+        },
+        {
+          "text": "유입",
+          "count": 6
+        },
+        {
+          "text": "콩고민주공화국",
+          "count": 6
+        },
+        {
+          "text": "개정",
+          "count": 6
+        },
+        {
+          "text": "차장",
+          "count": 6
+        },
+        {
+          "text": "국가예방접종",
+          "count": 6
+        },
+        {
+          "text": "보관",
+          "count": 6
+        },
+        {
+          "text": "가향담배",
+          "count": 6
+        },
+        {
+          "text": "중심",
+          "count": 6
+        },
+        {
+          "text": "본격",
+          "count": 6
+        },
+        {
+          "text": "소통",
+          "count": 6
+        },
+        {
+          "text": "환아",
+          "count": 6
+        },
+        {
+          "text": "고도",
+          "count": 6
+        },
+        {
+          "text": "접촉",
+          "count": 6
+        },
+        {
+          "text": "공공데이터",
+          "count": 6
+        },
+        {
+          "text": "열질환자",
+          "count": 6
+        },
+        {
+          "text": "월드컵",
+          "count": 6
+        },
+        {
+          "text": "감염",
+          "count": 6
+        },
+        {
+          "text": "국회",
+          "count": 6
+        },
+        {
+          "text": "본회의",
+          "count": 6
+        },
+        {
+          "text": "통과",
+          "count": 6
+        },
+        {
+          "text": "법률",
+          "count": 6
+        },
+        {
+          "text": "영유아",
+          "count": 5
+        },
+        {
+          "text": "선제",
+          "count": 5
+        },
+        {
+          "text": "치료",
+          "count": 5
+        },
+        {
+          "text": "진료",
+          "count": 5
+        },
+        {
+          "text": "건강",
+          "count": 5
+        },
+        {
+          "text": "가정",
+          "count": 5
+        },
+        {
+          "text": "급성심장정지",
+          "count": 5
+        },
+        {
+          "text": "향후",
+          "count": 5
+        },
+        {
+          "text": "조사",
+          "count": 5
+        },
+        {
+          "text": "남성",
+          "count": 5
+        },
+        {
+          "text": "인공지능",
+          "count": 5
+        },
+        {
+          "text": "인플루엔자",
+          "count": 5
+        },
+        {
+          "text": "신종감염병",
+          "count": 5
+        },
+        {
+          "text": "코로나",
+          "count": 5
+        },
+        {
+          "text": "급성악화",
+          "count": 5
+        },
+        {
+          "text": "지속",
+          "count": 4
+        },
+        {
+          "text": "환경",
+          "count": 4
+        },
+        {
+          "text": "장소",
+          "count": 4
+        },
+        {
+          "text": "합동",
+          "count": 4
+        },
+        {
+          "text": "보호",
+          "count": 4
+        },
+        {
+          "text": "중요",
+          "count": 4
+        },
+        {
+          "text": "검사",
+          "count": 4
+        },
+        {
+          "text": "연계",
+          "count": 4
+        },
+        {
+          "text": "이행",
+          "count": 4
+        },
+        {
+          "text": "개요",
+          "count": 4
+        },
+        {
+          "text": "에볼라",
+          "count": 4
+        },
+        {
+          "text": "유행지역",
+          "count": 4
+        },
+        {
+          "text": "평가",
+          "count": 4
+        },
+        {
+          "text": "대한민국",
+          "count": 4
+        },
+        {
+          "text": "과제",
+          "count": 4
+        },
+        {
+          "text": "기대",
+          "count": 4
+        },
+        {
+          "text": "위기관리체계",
+          "count": 4
+        },
+        {
+          "text": "준수",
+          "count": 4
+        },
+        {
+          "text": "건강행태",
+          "count": 4
+        },
+        {
+          "text": "청소년건강패널조사",
+          "count": 4
+        },
+        {
+          "text": "사망자",
+          "count": 4
+        },
+        {
+          "text": "기후적응",
+          "count": 4
+        },
+        {
+          "text": "역량",
+          "count": 4
+        },
+        {
+          "text": "병무청",
+          "count": 4
+        },
+        {
+          "text": "방위사업청",
+          "count": 4
+        },
+        {
+          "text": "절기",
+          "count": 4
+        },
+        {
+          "text": "해제",
+          "count": 4
+        },
+        {
+          "text": "지역사회건강조사",
+          "count": 4
+        },
+        {
+          "text": "청취",
+          "count": 4
+        },
+        {
+          "text": "격려",
+          "count": 4
+        },
+        {
+          "text": "현장방문",
+          "count": 4
+        },
+        {
+          "text": "여름철",
+          "count": 4
+        },
+        {
+          "text": "폭염",
+          "count": 4
+        },
+        {
+          "text": "보건복지부",
+          "count": 4
+        },
+        {
+          "text": "중장기계획",
+          "count": 4
+        },
+        {
+          "text": "기후변화",
+          "count": 4
+        },
+        {
+          "text": "전문위원회",
+          "count": 4
+        },
+        {
+          "text": "예측정보",
+          "count": 4
+        },
+        {
+          "text": "실시간",
+          "count": 4
+        },
+        {
+          "text": "매개체",
+          "count": 4
+        },
+        {
+          "text": "대한천식알레르기학회",
+          "count": 4
+        },
+        {
+          "text": "심포지엄",
+          "count": 4
+        },
+        {
+          "text": "역학조사",
+          "count": 4
+        },
+        {
+          "text": "의료현장",
+          "count": 4
+        },
+        {
+          "text": "내성균",
+          "count": 4
+        },
+        {
+          "text": "결핵예방법",
+          "count": 4
+        },
+        {
+          "text": "검진",
+          "count": 4
+        },
+        {
+          "text": "개정안",
+          "count": 4
+        },
+        {
+          "text": "사람유두종바이러스",
+          "count": 4
+        },
+        {
+          "text": "공동격리",
+          "count": 4
+        },
+        {
+          "text": "절차",
+          "count": 4
+        },
+        {
+          "text": "주의",
           "count": 3
         },
         {
-          "text": "정책상담",
+          "text": "해외유입상황평가회의",
           "count": 3
         },
         {
-          "text": "행정기관",
+          "text": "정밀",
           "count": 3
         },
         {
-          "text": "공익신고자",
+          "text": "남재환",
           "count": 3
         },
         {
-          "text": "혜택",
+          "text": "질환",
           "count": 3
         },
         {
-          "text": "규제",
+          "text": "연구",
           "count": 3
         },
         {
-          "text": "오답",
+          "text": "일시",
           "count": 3
         },
         {
-          "text": "정답",
+          "text": "중독",
           "count": 3
         },
         {
-          "text": "용어",
+          "text": "흡연",
           "count": 3
         },
         {
-          "text": "청구",
+          "text": "배포",
           "count": 3
         },
         {
-          "text": "고려",
+          "text": "위험평가",
           "count": 3
         },
         {
-          "text": "적용",
+          "text": "여행",
           "count": 3
         },
         {
-          "text": "소속",
+          "text": "행사",
           "count": 3
         },
         {
-          "text": "민생",
+          "text": "여행자",
           "count": 3
         },
         {
-          "text": "산업현장",
+          "text": "검역체계",
           "count": 3
         },
         {
-          "text": "실제",
+          "text": "행사시작",
           "count": 3
         },
         {
-          "text": "현장조정회의",
+          "text": "쉼터",
           "count": 3
         },
         {
-          "text": "적법",
+          "text": "메시지",
           "count": 3
         },
         {
-          "text": "경찰공무원",
+          "text": "서울",
           "count": 3
         }
       ]
@@ -18985,6 +18379,612 @@
         },
         {
           "text": "전담팀",
+          "count": 3
+        }
+      ]
+    },
+    "acrc": {
+      "label": "국민권익위원회",
+      "articleCount": 32,
+      "words": [
+        {
+          "text": "정일연",
+          "count": 31
+        },
+        {
+          "text": "민원",
+          "count": 12
+        },
+        {
+          "text": "처분",
+          "count": 12
+        },
+        {
+          "text": "요구",
+          "count": 9
+        },
+        {
+          "text": "도로",
+          "count": 9
+        },
+        {
+          "text": "보호",
+          "count": 9
+        },
+        {
+          "text": "지급",
+          "count": 9
+        },
+        {
+          "text": "해소",
+          "count": 8
+        },
+        {
+          "text": "합의",
+          "count": 8
+        },
+        {
+          "text": "상담",
+          "count": 8
+        },
+        {
+          "text": "시설",
+          "count": 7
+        },
+        {
+          "text": "부패",
+          "count": 7
+        },
+        {
+          "text": "고속도로",
+          "count": 7
+        },
+        {
+          "text": "양성",
+          "count": 7
+        },
+        {
+          "text": "교육",
+          "count": 6
+        },
+        {
+          "text": "기준",
+          "count": 6
+        },
+        {
+          "text": "중앙행정기관",
+          "count": 6
+        },
+        {
+          "text": "대표번호",
+          "count": 6
+        },
+        {
+          "text": "기관",
+          "count": 6
+        },
+        {
+          "text": "제한",
+          "count": 6
+        },
+        {
+          "text": "사용",
+          "count": 6
+        },
+        {
+          "text": "해결",
+          "count": 6
+        },
+        {
+          "text": "경우",
+          "count": 6
+        },
+        {
+          "text": "출산지원금",
+          "count": 6
+        },
+        {
+          "text": "워크숍",
+          "count": 6
+        },
+        {
+          "text": "인공지능",
+          "count": 6
+        },
+        {
+          "text": "아내",
+          "count": 6
+        },
+        {
+          "text": "공공수영장",
+          "count": 5
+        },
+        {
+          "text": "개설",
+          "count": 5
+        },
+        {
+          "text": "경청",
+          "count": 5
+        },
+        {
+          "text": "국민신문고",
+          "count": 5
+        },
+        {
+          "text": "신청",
+          "count": 5
+        },
+        {
+          "text": "절차",
+          "count": 5
+        },
+        {
+          "text": "국가전문자격",
+          "count": 5
+        },
+        {
+          "text": "제도개선",
+          "count": 5
+        },
+        {
+          "text": "안내",
+          "count": 5
+        },
+        {
+          "text": "제도",
+          "count": 5
+        },
+        {
+          "text": "대비",
+          "count": 5
+        },
+        {
+          "text": "가능",
+          "count": 5
+        },
+        {
+          "text": "보상금",
+          "count": 5
+        },
+        {
+          "text": "공공기관",
+          "count": 5
+        },
+        {
+          "text": "병역명문가",
+          "count": 5
+        },
+        {
+          "text": "예우",
+          "count": 5
+        },
+        {
+          "text": "행정심판",
+          "count": 5
+        },
+        {
+          "text": "부지",
+          "count": 5
+        },
+        {
+          "text": "지정",
+          "count": 5
+        },
+        {
+          "text": "운전면허",
+          "count": 5
+        },
+        {
+          "text": "취소",
+          "count": 5
+        },
+        {
+          "text": "이해충돌방지법",
+          "count": 5
+        },
+        {
+          "text": "청와대",
+          "count": 5
+        },
+        {
+          "text": "확산",
+          "count": 5
+        },
+        {
+          "text": "청렴",
+          "count": 5
+        },
+        {
+          "text": "자녀",
+          "count": 5
+        },
+        {
+          "text": "동의",
+          "count": 5
+        },
+        {
+          "text": "차량",
+          "count": 5
+        },
+        {
+          "text": "연고",
+          "count": 5
+        },
+        {
+          "text": "전사자",
+          "count": 5
+        },
+        {
+          "text": "청년자문단",
+          "count": 4
+        },
+        {
+          "text": "목소리",
+          "count": 4
+        },
+        {
+          "text": "사각지대",
+          "count": 4
+        },
+        {
+          "text": "장애인",
+          "count": 4
+        },
+        {
+          "text": "불편",
+          "count": 4
+        },
+        {
+          "text": "국민주권정부",
+          "count": 4
+        },
+        {
+          "text": "순회",
+          "count": 4
+        },
+        {
+          "text": "한국",
+          "count": 4
+        },
+        {
+          "text": "국가유공자",
+          "count": 4
+        },
+        {
+          "text": "면접시험",
+          "count": 4
+        },
+        {
+          "text": "관리",
+          "count": 4
+        },
+        {
+          "text": "반복",
+          "count": 4
+        },
+        {
+          "text": "장마",
+          "count": 4
+        },
+        {
+          "text": "표기",
+          "count": 4
+        },
+        {
+          "text": "분기",
+          "count": 4
+        },
+        {
+          "text": "인정",
+          "count": 4
+        },
+        {
+          "text": "거주지",
+          "count": 4
+        },
+        {
+          "text": "지방정부",
+          "count": 4
+        },
+        {
+          "text": "처리",
+          "count": 4
+        },
+        {
+          "text": "중앙행심위",
+          "count": 4
+        },
+        {
+          "text": "결정",
+          "count": 4
+        },
+        {
+          "text": "유가",
+          "count": 4
+        },
+        {
+          "text": "고충",
+          "count": 4
+        },
+        {
+          "text": "간담회",
+          "count": 4
+        },
+        {
+          "text": "음주",
+          "count": 4
+        },
+        {
+          "text": "측정",
+          "count": 4
+        },
+        {
+          "text": "착오",
+          "count": 4
+        },
+        {
+          "text": "기본요금",
+          "count": 4
+        },
+        {
+          "text": "군사시설",
+          "count": 4
+        },
+        {
+          "text": "조정",
+          "count": 4
+        },
+        {
+          "text": "공동연수회",
+          "count": 4
+        },
+        {
+          "text": "시민고충처리위",
+          "count": 4
+        },
+        {
+          "text": "영남",
+          "count": 4
+        },
+        {
+          "text": "설명회",
+          "count": 4
+        },
+        {
+          "text": "청렴문화",
+          "count": 4
+        },
+        {
+          "text": "인재",
+          "count": 4
+        },
+        {
+          "text": "정상",
+          "count": 4
+        },
+        {
+          "text": "재혼",
+          "count": 4
+        },
+        {
+          "text": "사망",
+          "count": 4
+        },
+        {
+          "text": "고인",
+          "count": 4
+        },
+        {
+          "text": "말소",
+          "count": 4
+        },
+        {
+          "text": "울산과기원",
+          "count": 4
+        },
+        {
+          "text": "상담번호",
+          "count": 4
+        },
+        {
+          "text": "청년",
+          "count": 3
+        },
+        {
+          "text": "소통",
+          "count": 3
+        },
+        {
+          "text": "반영",
+          "count": 3
+        },
+        {
+          "text": "샤워",
+          "count": 3
+        },
+        {
+          "text": "유아",
+          "count": 3
+        },
+        {
+          "text": "고령자",
+          "count": 3
+        },
+        {
+          "text": "가족",
+          "count": 3
+        },
+        {
+          "text": "권고",
+          "count": 3
+        },
+        {
+          "text": "마을",
+          "count": 3
+        },
+        {
+          "text": "길이",
+          "count": 3
+        },
+        {
+          "text": "주민",
+          "count": 3
+        },
+        {
+          "text": "포장",
+          "count": 3
+        },
+        {
+          "text": "임도",
+          "count": 3
+        },
+        {
+          "text": "지역발전",
+          "count": 3
+        },
+        {
+          "text": "의지",
+          "count": 3
+        },
+        {
+          "text": "역량",
+          "count": 3
+        },
+        {
+          "text": "시작",
+          "count": 3
+        },
+        {
+          "text": "공직자",
+          "count": 3
+        },
+        {
+          "text": "이탈리아",
+          "count": 3
+        },
+        {
+          "text": "묘역",
+          "count": 3
+        },
+        {
+          "text": "정화활동",
+          "count": 3
+        },
+        {
+          "text": "보훈",
+          "count": 3
+        },
+        {
+          "text": "공정",
+          "count": 3
+        },
+        {
+          "text": "투명",
+          "count": 3
+        },
+        {
+          "text": "관계기관",
+          "count": 3
+        },
+        {
+          "text": "증가",
+          "count": 3
+        },
+        {
+          "text": "정책상담",
+          "count": 3
+        },
+        {
+          "text": "행정기관",
+          "count": 3
+        },
+        {
+          "text": "공익신고자",
+          "count": 3
+        },
+        {
+          "text": "혜택",
+          "count": 3
+        },
+        {
+          "text": "규제",
+          "count": 3
+        },
+        {
+          "text": "오답",
+          "count": 3
+        },
+        {
+          "text": "정답",
+          "count": 3
+        },
+        {
+          "text": "용어",
+          "count": 3
+        },
+        {
+          "text": "이유",
+          "count": 3
+        },
+        {
+          "text": "청구",
+          "count": 3
+        },
+        {
+          "text": "고려",
+          "count": 3
+        },
+        {
+          "text": "소속",
+          "count": 3
+        },
+        {
+          "text": "민생",
+          "count": 3
+        },
+        {
+          "text": "산업현장",
+          "count": 3
+        },
+        {
+          "text": "현장조정회의",
+          "count": 3
+        },
+        {
+          "text": "적법",
+          "count": 3
+        },
+        {
+          "text": "경찰공무원",
+          "count": 3
+        },
+        {
+          "text": "신청기한",
+          "count": 3
+        },
+        {
+          "text": "면제",
+          "count": 3
+        },
+        {
+          "text": "시행",
+          "count": 3
+        },
+        {
+          "text": "설문조사",
+          "count": 3
+        },
+        {
+          "text": "시민사회",
+          "count": 3
+        },
+        {
+          "text": "유휴부지",
+          "count": 3
+        },
+        {
+          "text": "갈등조정담당관",
           "count": 3
         }
       ]
@@ -28239,27 +28239,27 @@
     },
     "betterfuture": {
       "label": "저출산고령사회위원회",
-      "articleCount": 9,
+      "articleCount": 8,
       "words": [
         {
           "text": "부위원장",
-          "count": 25
-        },
-        {
-          "text": "예방",
-          "count": 16
+          "count": 22
         },
         {
           "text": "출생",
-          "count": 15
+          "count": 13
+        },
+        {
+          "text": "예방",
+          "count": 12
         },
         {
           "text": "김진오",
-          "count": 15
+          "count": 12
         },
         {
           "text": "대응",
-          "count": 11
+          "count": 9
         },
         {
           "text": "고위",
@@ -28279,10 +28279,6 @@
         },
         {
           "text": "김진",
-          "count": 5
-        },
-        {
-          "text": "방문",
           "count": 5
         },
         {
@@ -28306,15 +28302,15 @@
           "count": 5
         },
         {
-          "text": "종교",
-          "count": 5
-        },
-        {
           "text": "경제",
           "count": 4
         },
         {
           "text": "확산",
+          "count": 4
+        },
+        {
+          "text": "방문",
           "count": 4
         },
         {
@@ -28338,35 +28334,11 @@
           "count": 4
         },
         {
-          "text": "지도자",
-          "count": 4
-        },
-        {
-          "text": "차례",
-          "count": 4
-        },
-        {
           "text": "신임",
           "count": 4
         },
         {
           "text": "최태원",
-          "count": 3
-        },
-        {
-          "text": "이후",
-          "count": 3
-        },
-        {
-          "text": "적극",
-          "count": 3
-        },
-        {
-          "text": "관심",
-          "count": 3
-        },
-        {
-          "text": "요청",
           "count": 3
         },
         {
@@ -28410,10 +28382,6 @@
           "count": 3
         },
         {
-          "text": "원불교",
-          "count": 3
-        },
-        {
           "text": "대한상의",
           "count": 2
         },
@@ -28438,7 +28406,23 @@
           "count": 2
         },
         {
+          "text": "이후",
+          "count": 2
+        },
+        {
+          "text": "적극",
+          "count": 2
+        },
+        {
+          "text": "관심",
+          "count": 2
+        },
+        {
           "text": "협조",
+          "count": 2
+        },
+        {
+          "text": "요청",
           "count": 2
         },
         {
@@ -28530,6 +28514,14 @@
           "count": 2
         },
         {
+          "text": "지도자",
+          "count": 2
+        },
+        {
+          "text": "종교",
+          "count": 2
+        },
+        {
           "text": "교령",
           "count": 2
         },
@@ -28539,34 +28531,6 @@
         },
         {
           "text": "상견례",
-          "count": 2
-        },
-        {
-          "text": "나상호",
-          "count": 2
-        },
-        {
-          "text": "교정원장",
-          "count": 2
-        },
-        {
-          "text": "김정석",
-          "count": 2
-        },
-        {
-          "text": "대표회장",
-          "count": 2
-        },
-        {
-          "text": "김령하",
-          "count": 2
-        },
-        {
-          "text": "민족종교협",
-          "count": 2
-        },
-        {
-          "text": "위기",
           "count": 2
         },
         {
@@ -28794,11 +28758,19 @@
           "count": 1
         },
         {
+          "text": "차례",
+          "count": 1
+        },
+        {
           "text": "불교",
           "count": 1
         },
         {
           "text": "기독교",
+          "count": 1
+        },
+        {
+          "text": "원불교",
           "count": 1
         },
         {
@@ -28839,6 +28811,34 @@
         },
         {
           "text": "철학",
+          "count": 1
+        },
+        {
+          "text": "인구전략",
+          "count": 1
+        },
+        {
+          "text": "개시",
+          "count": 1
+        },
+        {
+          "text": "주재",
+          "count": 1
+        },
+        {
+          "text": "신규",
+          "count": 1
+        },
+        {
+          "text": "연령",
+          "count": 1
+        },
+        {
+          "text": "인구문제",
+          "count": 1
+        },
+        {
+          "text": "경험",
           "count": 1
         }
       ]
