@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-30T18:49:03.387219+09:00",
-  "totalArticles": 1872,
+  "generated": "2026-05-30T19:49:03.688510+09:00",
+  "totalArticles": 1871,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 1872,
+      "articleCount": 1871,
       "words": [
         {
           "text": "논의",
@@ -48,11 +48,11 @@
           "count": 195
         },
         {
-          "text": "본격",
-          "count": 186
+          "text": "참석",
+          "count": 185
         },
         {
-          "text": "참석",
+          "text": "본격",
           "count": 185
         },
         {
@@ -109,7 +109,7 @@
         },
         {
           "text": "산업",
-          "count": 139
+          "count": 138
         },
         {
           "text": "교육",
@@ -133,7 +133,7 @@
         },
         {
           "text": "시행",
-          "count": 127
+          "count": 125
         },
         {
           "text": "전환",
@@ -141,7 +141,7 @@
         },
         {
           "text": "관세청",
-          "count": 124
+          "count": 121
         },
         {
           "text": "기관",
@@ -224,12 +224,12 @@
           "count": 103
         },
         {
-          "text": "환경",
+          "text": "외교부",
           "count": 103
         },
         {
-          "text": "외교부",
-          "count": 103
+          "text": "환경",
+          "count": 102
         },
         {
           "text": "다양",
@@ -252,10 +252,6 @@
           "count": 96
         },
         {
-          "text": "수출",
-          "count": 96
-        },
-        {
           "text": "지식재산처",
           "count": 96
         },
@@ -266,6 +262,10 @@
         {
           "text": "개인정보",
           "count": 95
+        },
+        {
+          "text": "수출",
+          "count": 93
         },
         {
           "text": "필요",
@@ -364,15 +364,15 @@
           "count": 78
         },
         {
-          "text": "과제",
-          "count": 78
-        },
-        {
           "text": "프로그램",
           "count": 78
         },
         {
           "text": "고용노동부",
+          "count": 77
+        },
+        {
+          "text": "과제",
           "count": 77
         },
         {
@@ -456,10 +456,6 @@
           "count": 69
         },
         {
-          "text": "핵심",
-          "count": 69
-        },
-        {
           "text": "보도참고",
           "count": 69
         },
@@ -469,6 +465,10 @@
         },
         {
           "text": "분석",
+          "count": 68
+        },
+        {
+          "text": "핵심",
           "count": 68
         },
         {
@@ -488,15 +488,15 @@
           "count": 67
         },
         {
-          "text": "경제",
-          "count": 67
-        },
-        {
           "text": "활동",
           "count": 66
         },
         {
           "text": "공급",
+          "count": 66
+        },
+        {
+          "text": "경제",
           "count": 66
         },
         {
@@ -664,10 +664,6 @@
           "count": 57
         },
         {
-          "text": "반도체",
-          "count": 57
-        },
-        {
           "text": "중소벤처기업부",
           "count": 57
         },
@@ -693,6 +689,10 @@
         },
         {
           "text": "해소",
+          "count": 56
+        },
+        {
+          "text": "반도체",
           "count": 56
         },
         {
@@ -752,10 +752,6 @@
           "count": 52
         },
         {
-          "text": "경쟁력",
-          "count": 52
-        },
-        {
           "text": "현지",
           "count": 52
         },
@@ -785,6 +781,10 @@
         },
         {
           "text": "주제",
+          "count": 50
+        },
+        {
+          "text": "경쟁력",
           "count": 50
         },
         {
@@ -9293,612 +9293,6 @@
         }
       ]
     },
-    "customs": {
-      "label": "관세청",
-      "articleCount": 46,
-      "words": [
-        {
-          "text": "수출",
-          "count": 33
-        },
-        {
-          "text": "마약",
-          "count": 29
-        },
-        {
-          "text": "수입",
-          "count": 22
-        },
-        {
-          "text": "품목분류",
-          "count": 17
-        },
-        {
-          "text": "차단",
-          "count": 17
-        },
-        {
-          "text": "증가",
-          "count": 16
-        },
-        {
-          "text": "관세청장",
-          "count": 16
-        },
-        {
-          "text": "수출입",
-          "count": 15
-        },
-        {
-          "text": "중동",
-          "count": 13
-        },
-        {
-          "text": "기업",
-          "count": 12
-        },
-        {
-          "text": "물품",
-          "count": 12
-        },
-        {
-          "text": "점검",
-          "count": 11
-        },
-        {
-          "text": "원유",
-          "count": 11
-        },
-        {
-          "text": "방문",
-          "count": 11
-        },
-        {
-          "text": "케이",
-          "count": 10
-        },
-        {
-          "text": "간담회",
-          "count": 10
-        },
-        {
-          "text": "미국",
-          "count": 10
-        },
-        {
-          "text": "이명구",
-          "count": 10
-        },
-        {
-          "text": "반도체",
-          "count": 9
-        },
-        {
-          "text": "원산지",
-          "count": 9
-        },
-        {
-          "text": "국제우편",
-          "count": 9
-        },
-        {
-          "text": "적발",
-          "count": 9
-        },
-        {
-          "text": "가정",
-          "count": 9
-        },
-        {
-          "text": "호주",
-          "count": 9
-        },
-        {
-          "text": "기준",
-          "count": 9
-        },
-        {
-          "text": "관세행정",
-          "count": 9
-        },
-        {
-          "text": "저지선",
-          "count": 8
-        },
-        {
-          "text": "시행",
-          "count": 8
-        },
-        {
-          "text": "기관",
-          "count": 8
-        },
-        {
-          "text": "이종욱",
-          "count": 8
-        },
-        {
-          "text": "현지",
-          "count": 8
-        },
-        {
-          "text": "차장",
-          "count": 8
-        },
-        {
-          "text": "애로사항",
-          "count": 8
-        },
-        {
-          "text": "청취",
-          "count": 8
-        },
-        {
-          "text": "운임",
-          "count": 8
-        },
-        {
-          "text": "전격",
-          "count": 7
-        },
-        {
-          "text": "최대",
-          "count": 7
-        },
-        {
-          "text": "기록",
-          "count": 7
-        },
-        {
-          "text": "통관",
-          "count": 7
-        },
-        {
-          "text": "원료",
-          "count": 7
-        },
-        {
-          "text": "전년동기대비",
-          "count": 7
-        },
-        {
-          "text": "지식재산",
-          "count": 7
-        },
-        {
-          "text": "상승",
-          "count": 7
-        },
-        {
-          "text": "논의",
-          "count": 6
-        },
-        {
-          "text": "수출기업",
-          "count": 6
-        },
-        {
-          "text": "개정",
-          "count": 6
-        },
-        {
-          "text": "본격",
-          "count": 6
-        },
-        {
-          "text": "합동",
-          "count": 6
-        },
-        {
-          "text": "적극",
-          "count": 6
-        },
-        {
-          "text": "연계",
-          "count": 6
-        },
-        {
-          "text": "어린이",
-          "count": 6
-        },
-        {
-          "text": "특례",
-          "count": 6
-        },
-        {
-          "text": "잠정",
-          "count": 6
-        },
-        {
-          "text": "무역수지",
-          "count": 6
-        },
-        {
-          "text": "역대최대",
-          "count": 6
-        },
-        {
-          "text": "안내",
-          "count": 6
-        },
-        {
-          "text": "동정",
-          "count": 6
-        },
-        {
-          "text": "마약밀수",
-          "count": 6
-        },
-        {
-          "text": "공개",
-          "count": 5
-        },
-        {
-          "text": "대응",
-          "count": 5
-        },
-        {
-          "text": "검사",
-          "count": 5
-        },
-        {
-          "text": "부산",
-          "count": 5
-        },
-        {
-          "text": "진입기업",
-          "count": 5
-        },
-        {
-          "text": "밀수",
-          "count": 5
-        },
-        {
-          "text": "반입",
-          "count": 5
-        },
-        {
-          "text": "범죄",
-          "count": 5
-        },
-        {
-          "text": "밀반입",
-          "count": 5
-        },
-        {
-          "text": "관세법",
-          "count": 5
-        },
-        {
-          "text": "전자상거래",
-          "count": 5
-        },
-        {
-          "text": "적용",
-          "count": 5
-        },
-        {
-          "text": "석유화학",
-          "count": 5
-        },
-        {
-          "text": "학생",
-          "count": 5
-        },
-        {
-          "text": "학교",
-          "count": 5
-        },
-        {
-          "text": "소재",
-          "count": 5
-        },
-        {
-          "text": "흑자",
-          "count": 5
-        },
-        {
-          "text": "진출기업",
-          "count": 5
-        },
-        {
-          "text": "서울세관",
-          "count": 5
-        },
-        {
-          "text": "수급",
-          "count": 5
-        },
-        {
-          "text": "침해",
-          "count": 5
-        },
-        {
-          "text": "특별단속",
-          "count": 5
-        },
-        {
-          "text": "군사우체국",
-          "count": 5
-        },
-        {
-          "text": "인도",
-          "count": 5
-        },
-        {
-          "text": "품목관세",
-          "count": 5
-        },
-        {
-          "text": "완료",
-          "count": 5
-        },
-        {
-          "text": "조미",
-          "count": 5
-        },
-        {
-          "text": "관세평가분류원",
-          "count": 4
-        },
-        {
-          "text": "사례",
-          "count": 4
-        },
-        {
-          "text": "공유",
-          "count": 4
-        },
-        {
-          "text": "지원방안",
-          "count": 4
-        },
-        {
-          "text": "제도",
-          "count": 4
-        },
-        {
-          "text": "이후",
-          "count": 4
-        },
-        {
-          "text": "공항",
-          "count": 4
-        },
-        {
-          "text": "내륙",
-          "count": 4
-        },
-        {
-          "text": "이중",
-          "count": 4
-        },
-        {
-          "text": "이날",
-          "count": 4
-        },
-        {
-          "text": "전년대비",
-          "count": 4
-        },
-        {
-          "text": "연속",
-          "count": 4
-        },
-        {
-          "text": "이광주",
-          "count": 4
-        },
-        {
-          "text": "교정시설",
-          "count": 4
-        },
-        {
-          "text": "인공지능",
-          "count": 4
-        },
-        {
-          "text": "전자상거래업자",
-          "count": 4
-        },
-        {
-          "text": "등록",
-          "count": 4
-        },
-        {
-          "text": "공급망",
-          "count": 4
-        },
-        {
-          "text": "행사",
-          "count": 4
-        },
-        {
-          "text": "체험",
-          "count": 4
-        },
-        {
-          "text": "서울",
-          "count": 4
-        },
-        {
-          "text": "대전",
-          "count": 4
-        },
-        {
-          "text": "총력",
-          "count": 4
-        },
-        {
-          "text": "캐나다",
-          "count": 4
-        },
-        {
-          "text": "세계관세기구",
-          "count": 4
-        },
-        {
-          "text": "아태지역",
-          "count": 4
-        },
-        {
-          "text": "한국",
-          "count": 4
-        },
-        {
-          "text": "핵심",
-          "count": 4
-        },
-        {
-          "text": "탐지견",
-          "count": 4
-        },
-        {
-          "text": "대학",
-          "count": 4
-        },
-        {
-          "text": "집중",
-          "count": 4
-        },
-        {
-          "text": "인도네시아",
-          "count": 4
-        },
-        {
-          "text": "설명회",
-          "count": 4
-        },
-        {
-          "text": "참석",
-          "count": 4
-        },
-        {
-          "text": "관세당국",
-          "count": 4
-        },
-        {
-          "text": "보호",
-          "count": 4
-        },
-        {
-          "text": "유럽연합",
-          "count": 4
-        },
-        {
-          "text": "중국",
-          "count": 4
-        },
-        {
-          "text": "일본",
-          "count": 4
-        },
-        {
-          "text": "물류",
-          "count": 4
-        },
-        {
-          "text": "진출",
-          "count": 4
-        },
-        {
-          "text": "호르무즈",
-          "count": 4
-        },
-        {
-          "text": "통관국장",
-          "count": 4
-        },
-        {
-          "text": "수입업체",
-          "count": 4
-        },
-        {
-          "text": "관세조사",
-          "count": 4
-        },
-        {
-          "text": "품목",
-          "count": 4
-        },
-        {
-          "text": "주한",
-          "count": 4
-        },
-        {
-          "text": "앨버타",
-          "count": 4
-        },
-        {
-          "text": "군사우편물",
-          "count": 4
-        },
-        {
-          "text": "품목번호",
-          "count": 4
-        },
-        {
-          "text": "연계표",
-          "count": 4
-        },
-        {
-          "text": "무역",
-          "count": 4
-        },
-        {
-          "text": "제도개선",
-          "count": 3
-        },
-        {
-          "text": "결정",
-          "count": 3
-        },
-        {
-          "text": "최초",
-          "count": 3
-        },
-        {
-          "text": "발생",
-          "count": 3
-        },
-        {
-          "text": "생존",
-          "count": 3
-        },
-        {
-          "text": "활동",
-          "count": 3
-        },
-        {
-          "text": "관세환급",
-          "count": 3
-        },
-        {
-          "text": "환급",
-          "count": 3
-        },
-        {
-          "text": "원재료",
-          "count": 3
-        },
-        {
-          "text": "절차",
-          "count": 3
-        },
-        {
-          "text": "신속",
-          "count": 3
-        },
-        {
-          "text": "반영",
-          "count": 3
-        },
-        {
-          "text": "관세인",
-          "count": 3
-        }
-      ]
-    },
     "moe": {
       "label": "교육부",
       "articleCount": 46,
@@ -11107,6 +10501,612 @@
         },
         {
           "text": "해결",
+          "count": 3
+        }
+      ]
+    },
+    "customs": {
+      "label": "관세청",
+      "articleCount": 45,
+      "words": [
+        {
+          "text": "수출",
+          "count": 30
+        },
+        {
+          "text": "마약",
+          "count": 29
+        },
+        {
+          "text": "수입",
+          "count": 22
+        },
+        {
+          "text": "품목분류",
+          "count": 17
+        },
+        {
+          "text": "차단",
+          "count": 17
+        },
+        {
+          "text": "증가",
+          "count": 16
+        },
+        {
+          "text": "수출입",
+          "count": 15
+        },
+        {
+          "text": "관세청장",
+          "count": 15
+        },
+        {
+          "text": "중동",
+          "count": 13
+        },
+        {
+          "text": "기업",
+          "count": 12
+        },
+        {
+          "text": "물품",
+          "count": 12
+        },
+        {
+          "text": "점검",
+          "count": 11
+        },
+        {
+          "text": "원유",
+          "count": 11
+        },
+        {
+          "text": "방문",
+          "count": 11
+        },
+        {
+          "text": "케이",
+          "count": 10
+        },
+        {
+          "text": "간담회",
+          "count": 10
+        },
+        {
+          "text": "미국",
+          "count": 10
+        },
+        {
+          "text": "원산지",
+          "count": 9
+        },
+        {
+          "text": "국제우편",
+          "count": 9
+        },
+        {
+          "text": "적발",
+          "count": 9
+        },
+        {
+          "text": "가정",
+          "count": 9
+        },
+        {
+          "text": "호주",
+          "count": 9
+        },
+        {
+          "text": "기준",
+          "count": 9
+        },
+        {
+          "text": "관세행정",
+          "count": 9
+        },
+        {
+          "text": "이명구",
+          "count": 9
+        },
+        {
+          "text": "반도체",
+          "count": 8
+        },
+        {
+          "text": "저지선",
+          "count": 8
+        },
+        {
+          "text": "기관",
+          "count": 8
+        },
+        {
+          "text": "이종욱",
+          "count": 8
+        },
+        {
+          "text": "현지",
+          "count": 8
+        },
+        {
+          "text": "차장",
+          "count": 8
+        },
+        {
+          "text": "애로사항",
+          "count": 8
+        },
+        {
+          "text": "청취",
+          "count": 8
+        },
+        {
+          "text": "운임",
+          "count": 8
+        },
+        {
+          "text": "최대",
+          "count": 7
+        },
+        {
+          "text": "기록",
+          "count": 7
+        },
+        {
+          "text": "통관",
+          "count": 7
+        },
+        {
+          "text": "원료",
+          "count": 7
+        },
+        {
+          "text": "전년동기대비",
+          "count": 7
+        },
+        {
+          "text": "지식재산",
+          "count": 7
+        },
+        {
+          "text": "상승",
+          "count": 7
+        },
+        {
+          "text": "전격",
+          "count": 6
+        },
+        {
+          "text": "논의",
+          "count": 6
+        },
+        {
+          "text": "시행",
+          "count": 6
+        },
+        {
+          "text": "수출기업",
+          "count": 6
+        },
+        {
+          "text": "개정",
+          "count": 6
+        },
+        {
+          "text": "합동",
+          "count": 6
+        },
+        {
+          "text": "적극",
+          "count": 6
+        },
+        {
+          "text": "연계",
+          "count": 6
+        },
+        {
+          "text": "어린이",
+          "count": 6
+        },
+        {
+          "text": "특례",
+          "count": 6
+        },
+        {
+          "text": "잠정",
+          "count": 6
+        },
+        {
+          "text": "무역수지",
+          "count": 6
+        },
+        {
+          "text": "역대최대",
+          "count": 6
+        },
+        {
+          "text": "안내",
+          "count": 6
+        },
+        {
+          "text": "동정",
+          "count": 6
+        },
+        {
+          "text": "마약밀수",
+          "count": 6
+        },
+        {
+          "text": "공개",
+          "count": 5
+        },
+        {
+          "text": "대응",
+          "count": 5
+        },
+        {
+          "text": "검사",
+          "count": 5
+        },
+        {
+          "text": "부산",
+          "count": 5
+        },
+        {
+          "text": "진입기업",
+          "count": 5
+        },
+        {
+          "text": "밀수",
+          "count": 5
+        },
+        {
+          "text": "본격",
+          "count": 5
+        },
+        {
+          "text": "반입",
+          "count": 5
+        },
+        {
+          "text": "범죄",
+          "count": 5
+        },
+        {
+          "text": "밀반입",
+          "count": 5
+        },
+        {
+          "text": "관세법",
+          "count": 5
+        },
+        {
+          "text": "전자상거래",
+          "count": 5
+        },
+        {
+          "text": "적용",
+          "count": 5
+        },
+        {
+          "text": "석유화학",
+          "count": 5
+        },
+        {
+          "text": "학생",
+          "count": 5
+        },
+        {
+          "text": "학교",
+          "count": 5
+        },
+        {
+          "text": "소재",
+          "count": 5
+        },
+        {
+          "text": "흑자",
+          "count": 5
+        },
+        {
+          "text": "진출기업",
+          "count": 5
+        },
+        {
+          "text": "서울세관",
+          "count": 5
+        },
+        {
+          "text": "수급",
+          "count": 5
+        },
+        {
+          "text": "침해",
+          "count": 5
+        },
+        {
+          "text": "특별단속",
+          "count": 5
+        },
+        {
+          "text": "군사우체국",
+          "count": 5
+        },
+        {
+          "text": "인도",
+          "count": 5
+        },
+        {
+          "text": "품목관세",
+          "count": 5
+        },
+        {
+          "text": "조미",
+          "count": 5
+        },
+        {
+          "text": "관세평가분류원",
+          "count": 4
+        },
+        {
+          "text": "사례",
+          "count": 4
+        },
+        {
+          "text": "공유",
+          "count": 4
+        },
+        {
+          "text": "지원방안",
+          "count": 4
+        },
+        {
+          "text": "제도",
+          "count": 4
+        },
+        {
+          "text": "이후",
+          "count": 4
+        },
+        {
+          "text": "공항",
+          "count": 4
+        },
+        {
+          "text": "내륙",
+          "count": 4
+        },
+        {
+          "text": "이중",
+          "count": 4
+        },
+        {
+          "text": "이날",
+          "count": 4
+        },
+        {
+          "text": "전년대비",
+          "count": 4
+        },
+        {
+          "text": "연속",
+          "count": 4
+        },
+        {
+          "text": "이광주",
+          "count": 4
+        },
+        {
+          "text": "교정시설",
+          "count": 4
+        },
+        {
+          "text": "인공지능",
+          "count": 4
+        },
+        {
+          "text": "전자상거래업자",
+          "count": 4
+        },
+        {
+          "text": "등록",
+          "count": 4
+        },
+        {
+          "text": "공급망",
+          "count": 4
+        },
+        {
+          "text": "행사",
+          "count": 4
+        },
+        {
+          "text": "체험",
+          "count": 4
+        },
+        {
+          "text": "서울",
+          "count": 4
+        },
+        {
+          "text": "대전",
+          "count": 4
+        },
+        {
+          "text": "총력",
+          "count": 4
+        },
+        {
+          "text": "캐나다",
+          "count": 4
+        },
+        {
+          "text": "세계관세기구",
+          "count": 4
+        },
+        {
+          "text": "아태지역",
+          "count": 4
+        },
+        {
+          "text": "한국",
+          "count": 4
+        },
+        {
+          "text": "탐지견",
+          "count": 4
+        },
+        {
+          "text": "대학",
+          "count": 4
+        },
+        {
+          "text": "집중",
+          "count": 4
+        },
+        {
+          "text": "인도네시아",
+          "count": 4
+        },
+        {
+          "text": "설명회",
+          "count": 4
+        },
+        {
+          "text": "참석",
+          "count": 4
+        },
+        {
+          "text": "관세당국",
+          "count": 4
+        },
+        {
+          "text": "보호",
+          "count": 4
+        },
+        {
+          "text": "유럽연합",
+          "count": 4
+        },
+        {
+          "text": "중국",
+          "count": 4
+        },
+        {
+          "text": "일본",
+          "count": 4
+        },
+        {
+          "text": "물류",
+          "count": 4
+        },
+        {
+          "text": "진출",
+          "count": 4
+        },
+        {
+          "text": "호르무즈",
+          "count": 4
+        },
+        {
+          "text": "통관국장",
+          "count": 4
+        },
+        {
+          "text": "수입업체",
+          "count": 4
+        },
+        {
+          "text": "관세조사",
+          "count": 4
+        },
+        {
+          "text": "품목",
+          "count": 4
+        },
+        {
+          "text": "주한",
+          "count": 4
+        },
+        {
+          "text": "앨버타",
+          "count": 4
+        },
+        {
+          "text": "군사우편물",
+          "count": 4
+        },
+        {
+          "text": "품목번호",
+          "count": 4
+        },
+        {
+          "text": "연계표",
+          "count": 4
+        },
+        {
+          "text": "무역",
+          "count": 4
+        },
+        {
+          "text": "제도개선",
+          "count": 3
+        },
+        {
+          "text": "결정",
+          "count": 3
+        },
+        {
+          "text": "최초",
+          "count": 3
+        },
+        {
+          "text": "발생",
+          "count": 3
+        },
+        {
+          "text": "생존",
+          "count": 3
+        },
+        {
+          "text": "활동",
+          "count": 3
+        },
+        {
+          "text": "관세환급",
+          "count": 3
+        },
+        {
+          "text": "환급",
+          "count": 3
+        },
+        {
+          "text": "원재료",
+          "count": 3
+        },
+        {
+          "text": "절차",
+          "count": 3
+        },
+        {
+          "text": "신속",
+          "count": 3
+        },
+        {
+          "text": "반영",
+          "count": 3
+        },
+        {
+          "text": "관세인",
+          "count": 3
+        },
+        {
+          "text": "선정",
+          "count": 3
+        },
+        {
+          "text": "필로폰",
           "count": 3
         }
       ]
