@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-30T13:49:02.513671+09:00",
-  "totalArticles": 1889,
+  "generated": "2026-05-30T14:49:06.722043+09:00",
+  "totalArticles": 1885,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 1889,
+      "articleCount": 1885,
       "words": [
         {
           "text": "논의",
-          "count": 347
+          "count": 346
         },
         {
           "text": "대응",
@@ -33,7 +33,7 @@
         },
         {
           "text": "기업",
-          "count": 231
+          "count": 229
         },
         {
           "text": "기술",
@@ -45,11 +45,11 @@
         },
         {
           "text": "안전",
-          "count": 200
+          "count": 198
         },
         {
           "text": "본격",
-          "count": 191
+          "count": 189
         },
         {
           "text": "참석",
@@ -89,7 +89,7 @@
         },
         {
           "text": "행사",
-          "count": 149
+          "count": 148
         },
         {
           "text": "선정",
@@ -109,7 +109,7 @@
         },
         {
           "text": "산업",
-          "count": 140
+          "count": 139
         },
         {
           "text": "예방",
@@ -144,16 +144,16 @@
           "count": 125
         },
         {
-          "text": "출범",
-          "count": 121
+          "text": "기관",
+          "count": 118
         },
         {
           "text": "기준",
-          "count": 120
+          "count": 118
         },
         {
-          "text": "기관",
-          "count": 118
+          "text": "출범",
+          "count": 117
         },
         {
           "text": "소재",
@@ -216,10 +216,6 @@
           "count": 107
         },
         {
-          "text": "환경",
-          "count": 105
-        },
-        {
           "text": "이후",
           "count": 103
         },
@@ -228,16 +224,20 @@
           "count": 103
         },
         {
-          "text": "연계",
-          "count": 103
-        },
-        {
-          "text": "다양",
+          "text": "환경",
           "count": 103
         },
         {
           "text": "외교부",
           "count": 103
+        },
+        {
+          "text": "다양",
+          "count": 102
+        },
+        {
+          "text": "연계",
+          "count": 101
         },
         {
           "text": "개인정보",
@@ -280,11 +280,11 @@
           "count": 92
         },
         {
-          "text": "규모",
-          "count": 92
+          "text": "전략",
+          "count": 91
         },
         {
-          "text": "전략",
+          "text": "규모",
           "count": 91
         },
         {
@@ -389,7 +389,7 @@
         },
         {
           "text": "맞춤",
-          "count": 76
+          "count": 75
         },
         {
           "text": "개정",
@@ -465,10 +465,6 @@
         },
         {
           "text": "활동",
-          "count": 69
-        },
-        {
-          "text": "새만금",
           "count": 69
         },
         {
@@ -604,11 +600,15 @@
           "count": 61
         },
         {
-          "text": "착수",
+          "text": "새만금",
           "count": 61
         },
         {
           "text": "사례",
+          "count": 60
+        },
+        {
+          "text": "착수",
           "count": 60
         },
         {
@@ -712,10 +712,6 @@
           "count": 54
         },
         {
-          "text": "공정",
-          "count": 54
-        },
-        {
           "text": "관계부처",
           "count": 54
         },
@@ -726,6 +722,10 @@
         {
           "text": "김민석",
           "count": 54
+        },
+        {
+          "text": "공정",
+          "count": 53
         },
         {
           "text": "직원",
@@ -14143,7 +14143,7 @@
     },
     "kmcc": {
       "label": "방송미디어통신위원회",
-      "articleCount": 37,
+      "articleCount": 36,
       "words": [
         {
           "text": "이사",
@@ -24569,612 +24569,6 @@
         }
       ]
     },
-    "nssc": {
-      "label": "원자력안전위원회",
-      "articleCount": 14,
-      "words": [
-        {
-          "text": "원안위",
-          "count": 35
-        },
-        {
-          "text": "최원호",
-          "count": 13
-        },
-        {
-          "text": "소형모듈원자로",
-          "count": 10
-        },
-        {
-          "text": "원전",
-          "count": 8
-        },
-        {
-          "text": "방류",
-          "count": 6
-        },
-        {
-          "text": "의결",
-          "count": 6
-        },
-        {
-          "text": "오염수",
-          "count": 5
-        },
-        {
-          "text": "대응",
-          "count": 5
-        },
-        {
-          "text": "심의",
-          "count": 5
-        },
-        {
-          "text": "검사",
-          "count": 5
-        },
-        {
-          "text": "소재",
-          "count": 5
-        },
-        {
-          "text": "원자력안전협의회",
-          "count": 5
-        },
-        {
-          "text": "간담회",
-          "count": 5
-        },
-        {
-          "text": "규제",
-          "count": 5
-        },
-        {
-          "text": "보고",
-          "count": 4
-        },
-        {
-          "text": "한빛",
-          "count": 4
-        },
-        {
-          "text": "임계",
-          "count": 4
-        },
-        {
-          "text": "원자로",
-          "count": 4
-        },
-        {
-          "text": "방사선발생장치",
-          "count": 4
-        },
-        {
-          "text": "피폭",
-          "count": 4
-        },
-        {
-          "text": "조사",
-          "count": 4
-        },
-        {
-          "text": "업체",
-          "count": 4
-        },
-        {
-          "text": "작업자",
-          "count": 4
-        },
-        {
-          "text": "사용",
-          "count": 4
-        },
-        {
-          "text": "원자력시설",
-          "count": 4
-        },
-        {
-          "text": "협의회",
-          "count": 4
-        },
-        {
-          "text": "방사선안전",
-          "count": 4
-        },
-        {
-          "text": "안전규제",
-          "count": 4
-        },
-        {
-          "text": "출범",
-          "count": 4
-        },
-        {
-          "text": "특별",
-          "count": 4
-        },
-        {
-          "text": "핵연료물질",
-          "count": 4
-        },
-        {
-          "text": "원자력안전법",
-          "count": 4
-        },
-        {
-          "text": "논의",
-          "count": 4
-        },
-        {
-          "text": "국무",
-          "count": 3
-        },
-        {
-          "text": "안건",
-          "count": 3
-        },
-        {
-          "text": "기준",
-          "count": 3
-        },
-        {
-          "text": "정기검사",
-          "count": 3
-        },
-        {
-          "text": "허용",
-          "count": 3
-        },
-        {
-          "text": "중성자",
-          "count": 3
-        },
-        {
-          "text": "생산허가기관",
-          "count": 3
-        },
-        {
-          "text": "의심",
-          "count": 3
-        },
-        {
-          "text": "착수",
-          "count": 3
-        },
-        {
-          "text": "주변",
-          "count": 3
-        },
-        {
-          "text": "소통",
-          "count": 3
-        },
-        {
-          "text": "소통간담회",
-          "count": 3
-        },
-        {
-          "text": "삼성서울병원",
-          "count": 3
-        },
-        {
-          "text": "의료기관",
-          "count": 3
-        },
-        {
-          "text": "발생",
-          "count": 3
-        },
-        {
-          "text": "여름철",
-          "count": 3
-        },
-        {
-          "text": "원자력이용시설",
-          "count": 3
-        },
-        {
-          "text": "특별점검",
-          "count": 3
-        },
-        {
-          "text": "자연재해",
-          "count": 3
-        },
-        {
-          "text": "시기",
-          "count": 3
-        },
-        {
-          "text": "파괴",
-          "count": 3
-        },
-        {
-          "text": "개정",
-          "count": 3
-        },
-        {
-          "text": "규제기관장",
-          "count": 3
-        },
-        {
-          "text": "현안",
-          "count": 3
-        },
-        {
-          "text": "국제원자력규제",
-          "count": 3
-        },
-        {
-          "text": "규제연구반",
-          "count": 3
-        },
-        {
-          "text": "국무조정실",
-          "count": 2
-        },
-        {
-          "text": "차장",
-          "count": 2
-        },
-        {
-          "text": "분석",
-          "count": 2
-        },
-        {
-          "text": "핵종",
-          "count": 2
-        },
-        {
-          "text": "삼중수소",
-          "count": 2
-        },
-        {
-          "text": "리터",
-          "count": 2
-        },
-        {
-          "text": "베크렐",
-          "count": 2
-        },
-        {
-          "text": "향후",
-          "count": 2
-        },
-        {
-          "text": "한국수력원자력",
-          "count": 2
-        },
-        {
-          "text": "한수원",
-          "count": 2
-        },
-        {
-          "text": "신청",
-          "count": 2
-        },
-        {
-          "text": "한울",
-          "count": 2
-        },
-        {
-          "text": "반영",
-          "count": 2
-        },
-        {
-          "text": "용접재료",
-          "count": 2
-        },
-        {
-          "text": "항목",
-          "count": 2
-        },
-        {
-          "text": "수행",
-          "count": 2
-        },
-        {
-          "text": "장치",
-          "count": 2
-        },
-        {
-          "text": "해당",
-          "count": 2
-        },
-        {
-          "text": "밀착",
-          "count": 2
-        },
-        {
-          "text": "위원장단",
-          "count": 2
-        },
-        {
-          "text": "고리",
-          "count": 2
-        },
-        {
-          "text": "새울",
-          "count": 2
-        },
-        {
-          "text": "부하",
-          "count": 2
-        },
-        {
-          "text": "의료분야",
-          "count": 2
-        },
-        {
-          "text": "관리",
-          "count": 2
-        },
-        {
-          "text": "경영진",
-          "count": 2
-        },
-        {
-          "text": "적극",
-          "count": 2
-        },
-        {
-          "text": "서울대병원",
-          "count": 2
-        },
-        {
-          "text": "서울아산병원",
-          "count": 2
-        },
-        {
-          "text": "집중호우",
-          "count": 2
-        },
-        {
-          "text": "태풍",
-          "count": 2
-        },
-        {
-          "text": "대비",
-          "count": 2
-        },
-        {
-          "text": "점검",
-          "count": 2
-        },
-        {
-          "text": "선제",
-          "count": 2
-        },
-        {
-          "text": "확립",
-          "count": 2
-        },
-        {
-          "text": "핵심성과",
-          "count": 2
-        },
-        {
-          "text": "국민주권정부",
-          "count": 2
-        },
-        {
-          "text": "인허가",
-          "count": 2
-        },
-        {
-          "text": "드론",
-          "count": 2
-        },
-        {
-          "text": "테러",
-          "count": 2
-        },
-        {
-          "text": "포상제도",
-          "count": 2
-        },
-        {
-          "text": "본격",
-          "count": 2
-        },
-        {
-          "text": "시행",
-          "count": 2
-        },
-        {
-          "text": "공무원",
-          "count": 2
-        },
-        {
-          "text": "포상",
-          "count": 2
-        },
-        {
-          "text": "규제체계",
-          "count": 2
-        },
-        {
-          "text": "초과피폭",
-          "count": 2
-        },
-        {
-          "text": "원안위원장",
-          "count": 2
-        },
-        {
-          "text": "스페인",
-          "count": 2
-        },
-        {
-          "text": "차세대",
-          "count": 2
-        },
-        {
-          "text": "개발자",
-          "count": 2
-        },
-        {
-          "text": "비경수",
-          "count": 2
-        },
-        {
-          "text": "소듐냉각고속로",
-          "count": 2
-        },
-        {
-          "text": "보도참고자료",
-          "count": 1
-        },
-        {
-          "text": "후쿠시마",
-          "count": 1
-        },
-        {
-          "text": "브리핑",
-          "count": 1
-        },
-        {
-          "text": "전반",
-          "count": 1
-        },
-        {
-          "text": "브리퍼",
-          "count": 1
-        },
-        {
-          "text": "김영수",
-          "count": 1
-        },
-        {
-          "text": "인사말씀",
-          "count": 1
-        },
-        {
-          "text": "방류계획",
-          "count": 1
-        },
-        {
-          "text": "도쿄전력",
-          "count": 1
-        },
-        {
-          "text": "일정",
-          "count": 1
-        },
-        {
-          "text": "농도",
-          "count": 1
-        },
-        {
-          "text": "미만",
-          "count": 1
-        },
-        {
-          "text": "희석",
-          "count": 1
-        },
-        {
-          "text": "이외",
-          "count": 1
-        },
-        {
-          "text": "측정",
-          "count": 1
-        },
-        {
-          "text": "평가",
-          "count": 1
-        },
-        {
-          "text": "고시",
-          "count": 1
-        },
-        {
-          "text": "원자로압력용기",
-          "count": 1
-        },
-        {
-          "text": "감시시험",
-          "count": 1
-        },
-        {
-          "text": "원자로냉각재펌프",
-          "count": 1
-        },
-        {
-          "text": "입출구",
-          "count": 1
-        },
-        {
-          "text": "노즐",
-          "count": 1
-        },
-        {
-          "text": "안전단",
-          "count": 1
-        },
-        {
-          "text": "연성천",
-          "count": 1
-        },
-        {
-          "text": "온도",
-          "count": 1
-        },
-        {
-          "text": "산정",
-          "count": 1
-        },
-        {
-          "text": "출력상승시험",
-          "count": 1
-        },
-        {
-          "text": "후속검사",
-          "count": 1
-        },
-        {
-          "text": "최종",
-          "count": 1
-        },
-        {
-          "text": "정기",
-          "count": 1
-        },
-        {
-          "text": "핵분열",
-          "count": 1
-        },
-        {
-          "text": "연쇄반응",
-          "count": 1
-        },
-        {
-          "text": "지속",
-          "count": 1
-        },
-        {
-          "text": "생성",
-          "count": 1
-        },
-        {
-          "text": "소멸",
-          "count": 1
-        },
-        {
-          "text": "평형",
-          "count": 1
-        },
-        {
-          "text": "상태",
-          "count": 1
-        },
-        {
-          "text": "경기도",
-          "count": 1
-        }
-      ]
-    },
     "kcg": {
       "label": "해양경찰청",
       "articleCount": 14,
@@ -26387,404 +25781,304 @@
         }
       ]
     },
-    "sda": {
-      "label": "새만금개발청",
+    "nssc": {
+      "label": "원자력안전위원회",
       "articleCount": 13,
       "words": [
         {
-          "text": "문성요",
-          "count": 14
+          "text": "원안위",
+          "count": 32
         },
         {
-          "text": "새만금청",
-          "count": 13
-        },
-        {
-          "text": "미래",
+          "text": "최원호",
           "count": 12
         },
         {
-          "text": "투자",
-          "count": 11
-        },
-        {
-          "text": "인공지능",
+          "text": "원전",
           "count": 8
         },
         {
-          "text": "규모",
-          "count": 8
-        },
-        {
-          "text": "상수도",
-          "count": 7
-        },
-        {
-          "text": "역량",
-          "count": 5
-        },
-        {
-          "text": "투자유치",
-          "count": 5
-        },
-        {
-          "text": "현대차그룹",
-          "count": 5
-        },
-        {
-          "text": "국가산업단지",
-          "count": 5
-        },
-        {
-          "text": "교통서비스",
-          "count": 5
-        },
-        {
-          "text": "광주지방국세청",
-          "count": 5
-        },
-        {
-          "text": "직무대리",
-          "count": 5
-        },
-        {
-          "text": "정인권",
-          "count": 5
-        },
-        {
-          "text": "아카데미",
-          "count": 5
-        },
-        {
-          "text": "정책기자단",
-          "count": 5
-        },
-        {
-          "text": "간선관로",
-          "count": 5
-        },
-        {
-          "text": "담당",
-          "count": 4
-        },
-        {
-          "text": "공무원",
-          "count": 4
-        },
-        {
-          "text": "안전관리",
-          "count": 4
-        },
-        {
-          "text": "로봇",
-          "count": 4
-        },
-        {
-          "text": "전략",
-          "count": 4
-        },
-        {
-          "text": "제조공장",
-          "count": 4
-        },
-        {
-          "text": "준공",
-          "count": 4
-        },
-        {
-          "text": "도시",
-          "count": 4
-        },
-        {
-          "text": "첨단",
-          "count": 4
-        },
-        {
-          "text": "본격",
-          "count": 4
-        },
-        {
-          "text": "공모전",
-          "count": 4
-        },
-        {
-          "text": "전환",
-          "count": 4
-        },
-        {
-          "text": "산단",
-          "count": 4
-        },
-        {
-          "text": "근로자",
-          "count": 4
-        },
-        {
-          "text": "발대식",
-          "count": 4
-        },
-        {
-          "text": "설치사업",
-          "count": 4
-        },
-        {
-          "text": "심의",
-          "count": 4
-        },
-        {
-          "text": "변경",
-          "count": 4
-        },
-        {
-          "text": "테크",
-          "count": 4
-        },
-        {
-          "text": "건설사업",
-          "count": 3
-        },
-        {
-          "text": "자문단",
-          "count": 3
-        },
-        {
-          "text": "해외분과",
-          "count": 3
-        },
-        {
-          "text": "새만금개발청장",
-          "count": 3
-        },
-        {
-          "text": "신속",
-          "count": 3
-        },
-        {
-          "text": "클러스터",
-          "count": 3
-        },
-        {
-          "text": "잭업바지선",
-          "count": 3
-        },
-        {
-          "text": "공구",
-          "count": 3
-        },
-        {
-          "text": "연계",
-          "count": 3
-        },
-        {
-          "text": "기관",
-          "count": 3
-        },
-        {
-          "text": "기업",
-          "count": 3
-        },
-        {
-          "text": "산업단지",
-          "count": 3
-        },
-        {
-          "text": "입주기업",
-          "count": 3
-        },
-        {
-          "text": "경쟁력",
-          "count": 3
-        },
-        {
-          "text": "스마트도시",
-          "count": 3
-        },
-        {
-          "text": "스포일러",
-          "count": 3
-        },
-        {
-          "text": "출범",
-          "count": 3
-        },
-        {
-          "text": "새만금위원회",
-          "count": 3
+          "text": "방류",
+          "count": 6
         },
         {
           "text": "의결",
+          "count": 6
+        },
+        {
+          "text": "오염수",
+          "count": 5
+        },
+        {
+          "text": "대응",
+          "count": 5
+        },
+        {
+          "text": "심의",
+          "count": 5
+        },
+        {
+          "text": "검사",
+          "count": 5
+        },
+        {
+          "text": "소재",
+          "count": 5
+        },
+        {
+          "text": "원자력안전협의회",
+          "count": 5
+        },
+        {
+          "text": "간담회",
+          "count": 5
+        },
+        {
+          "text": "소형모듈원자로",
+          "count": 5
+        },
+        {
+          "text": "규제",
+          "count": 5
+        },
+        {
+          "text": "보고",
+          "count": 4
+        },
+        {
+          "text": "한빛",
+          "count": 4
+        },
+        {
+          "text": "임계",
+          "count": 4
+        },
+        {
+          "text": "원자로",
+          "count": 4
+        },
+        {
+          "text": "방사선발생장치",
+          "count": 4
+        },
+        {
+          "text": "피폭",
+          "count": 4
+        },
+        {
+          "text": "조사",
+          "count": 4
+        },
+        {
+          "text": "업체",
+          "count": 4
+        },
+        {
+          "text": "작업자",
+          "count": 4
+        },
+        {
+          "text": "사용",
+          "count": 4
+        },
+        {
+          "text": "원자력시설",
+          "count": 4
+        },
+        {
+          "text": "협의회",
+          "count": 4
+        },
+        {
+          "text": "방사선안전",
+          "count": 4
+        },
+        {
+          "text": "안전규제",
+          "count": 4
+        },
+        {
+          "text": "특별",
+          "count": 4
+        },
+        {
+          "text": "핵연료물질",
+          "count": 4
+        },
+        {
+          "text": "원자력안전법",
+          "count": 4
+        },
+        {
+          "text": "국무",
           "count": 3
         },
         {
-          "text": "개발계획",
+          "text": "안건",
           "count": 3
         },
         {
-          "text": "푸드",
+          "text": "정기검사",
           "count": 3
         },
         {
-          "text": "허브",
+          "text": "허용",
           "count": 3
         },
         {
-          "text": "안전사고",
-          "count": 2
+          "text": "중성자",
+          "count": 3
         },
         {
-          "text": "교육",
-          "count": 2
+          "text": "생산허가기관",
+          "count": 3
         },
         {
-          "text": "진행",
-          "count": 2
+          "text": "의심",
+          "count": 3
         },
         {
-          "text": "태스크포스",
-          "count": 2
-        },
-        {
-          "text": "전문",
-          "count": 2
-        },
-        {
-          "text": "미래첨단산업",
-          "count": 2
-        },
-        {
-          "text": "활성",
-          "count": 2
-        },
-        {
-          "text": "머리",
-          "count": 2
-        },
-        {
-          "text": "자문회의",
-          "count": 2
-        },
-        {
-          "text": "산업",
-          "count": 2
-        },
-        {
-          "text": "체결",
-          "count": 2
-        },
-        {
-          "text": "이후",
-          "count": 2
-        },
-        {
-          "text": "예정지",
-          "count": 2
-        },
-        {
-          "text": "현장점검",
-          "count": 2
-        },
-        {
-          "text": "집중",
-          "count": 2
-        },
-        {
-          "text": "이행",
-          "count": 2
-        },
-        {
-          "text": "해양산업",
-          "count": 2
-        },
-        {
-          "text": "핵심부품",
-          "count": 2
-        },
-        {
-          "text": "공급망",
-          "count": 2
-        },
-        {
-          "text": "자립",
-          "count": 2
-        },
-        {
-          "text": "명일잭업해양",
-          "count": 2
-        },
-        {
-          "text": "군산",
-          "count": 2
-        },
-        {
-          "text": "준공식",
-          "count": 2
-        },
-        {
-          "text": "모빌리티",
-          "count": 2
-        },
-        {
-          "text": "출발",
-          "count": 2
-        },
-        {
-          "text": "연구용역",
-          "count": 2
-        },
-        {
-          "text": "맞춤",
-          "count": 2
-        },
-        {
-          "text": "현대자동차그룹",
-          "count": 2
-        },
-        {
-          "text": "참석",
-          "count": 2
-        },
-        {
-          "text": "착수보고회",
-          "count": 2
-        },
-        {
-          "text": "첨단산업",
-          "count": 2
-        },
-        {
-          "text": "중심지",
-          "count": 2
-        },
-        {
-          "text": "도약",
-          "count": 2
-        },
-        {
-          "text": "비전",
-          "count": 2
-        },
-        {
-          "text": "가능",
-          "count": 2
+          "text": "주변",
+          "count": 3
         },
         {
           "text": "소통",
+          "count": 3
+        },
+        {
+          "text": "소통간담회",
+          "count": 3
+        },
+        {
+          "text": "삼성서울병원",
+          "count": 3
+        },
+        {
+          "text": "의료기관",
+          "count": 3
+        },
+        {
+          "text": "발생",
+          "count": 3
+        },
+        {
+          "text": "여름철",
+          "count": 3
+        },
+        {
+          "text": "원자력이용시설",
+          "count": 3
+        },
+        {
+          "text": "특별점검",
+          "count": 3
+        },
+        {
+          "text": "자연재해",
+          "count": 3
+        },
+        {
+          "text": "시기",
+          "count": 3
+        },
+        {
+          "text": "파괴",
+          "count": 3
+        },
+        {
+          "text": "개정",
+          "count": 3
+        },
+        {
+          "text": "규제기관장",
+          "count": 3
+        },
+        {
+          "text": "현안",
+          "count": 3
+        },
+        {
+          "text": "논의",
+          "count": 3
+        },
+        {
+          "text": "국제원자력규제",
+          "count": 3
+        },
+        {
+          "text": "국무조정실",
           "count": 2
         },
         {
-          "text": "사령탑",
+          "text": "차장",
           "count": 2
         },
         {
-          "text": "취임",
+          "text": "분석",
           "count": 2
         },
         {
-          "text": "가치",
+          "text": "핵종",
           "count": 2
         },
         {
-          "text": "취임식",
+          "text": "삼중수소",
+          "count": 2
+        },
+        {
+          "text": "리터",
+          "count": 2
+        },
+        {
+          "text": "베크렐",
+          "count": 2
+        },
+        {
+          "text": "향후",
+          "count": 2
+        },
+        {
+          "text": "한국수력원자력",
+          "count": 2
+        },
+        {
+          "text": "한수원",
+          "count": 2
+        },
+        {
+          "text": "신청",
+          "count": 2
+        },
+        {
+          "text": "한울",
+          "count": 2
+        },
+        {
+          "text": "반영",
+          "count": 2
+        },
+        {
+          "text": "용접재료",
+          "count": 2
+        },
+        {
+          "text": "항목",
+          "count": 2
+        },
+        {
+          "text": "수행",
+          "count": 2
+        },
+        {
+          "text": "착수",
+          "count": 2
+        },
+        {
+          "text": "장치",
+          "count": 2
+        },
+        {
+          "text": "해당",
           "count": 2
         },
         {
@@ -26792,203 +26086,303 @@
           "count": 2
         },
         {
-          "text": "세정",
+          "text": "위원장단",
           "count": 2
         },
         {
-          "text": "세정업무",
+          "text": "고리",
           "count": 2
         },
         {
-          "text": "최초",
+          "text": "새울",
           "count": 2
         },
         {
-          "text": "협업",
+          "text": "부하",
           "count": 2
         },
         {
-          "text": "행정서비스",
+          "text": "의료분야",
           "count": 2
         },
         {
-          "text": "경기대학교",
+          "text": "관리",
           "count": 2
         },
         {
-          "text": "산업전략",
+          "text": "경영진",
           "count": 2
-        },
-        {
-          "text": "안정",
-          "count": 2
-        },
-        {
-          "text": "공급",
-          "count": 2
-        },
-        {
-          "text": "환경",
-          "count": 2
-        },
-        {
-          "text": "농생명",
-          "count": 2
-        },
-        {
-          "text": "식품",
-          "count": 2
-        },
-        {
-          "text": "민·관협의체",
-          "count": 2
-        },
-        {
-          "text": "스마트팜",
-          "count": 2
-        },
-        {
-          "text": "제로",
-          "count": 1
-        },
-        {
-          "text": "특별",
-          "count": 1
-        },
-        {
-          "text": "건설공사",
-          "count": 1
-        },
-        {
-          "text": "특별교육",
-          "count": 1
-        },
-        {
-          "text": "건설현장",
-          "count": 1
-        },
-        {
-          "text": "중대재해",
-          "count": 1
-        },
-        {
-          "text": "관심",
-          "count": 1
-        },
-        {
-          "text": "지난달",
-          "count": 1
-        },
-        {
-          "text": "정상",
-          "count": 1
-        },
-        {
-          "text": "재해",
-          "count": 1
-        },
-        {
-          "text": "재난분야",
-          "count": 1
-        },
-        {
-          "text": "후속조치",
-          "count": 1
-        },
-        {
-          "text": "발주기관",
-          "count": 1
-        },
-        {
-          "text": "책임자",
-          "count": 1
-        },
-        {
-          "text": "한국로봇산업진흥원",
-          "count": 1
-        },
-        {
-          "text": "새만금국가산단",
-          "count": 1
-        },
-        {
-          "text": "발전방향",
-          "count": 1
-        },
-        {
-          "text": "논의",
-          "count": 1
-        },
-        {
-          "text": "서울",
-          "count": 1
-        },
-        {
-          "text": "투자전시관",
-          "count": 1
-        },
-        {
-          "text": "새만금자문단",
-          "count": 1
-        },
-        {
-          "text": "전문가",
-          "count": 1
-        },
-        {
-          "text": "자문기능",
-          "count": 1
-        },
-        {
-          "text": "수행",
-          "count": 1
-        },
-        {
-          "text": "투자협약",
-          "count": 1
-        },
-        {
-          "text": "인프라",
-          "count": 1
-        },
-        {
-          "text": "적기",
-          "count": 1
-        },
-        {
-          "text": "원스톱",
-          "count": 1
-        },
-        {
-          "text": "인허가",
-          "count": 1
-        },
-        {
-          "text": "현대차",
-          "count": 1
         },
         {
           "text": "적극",
+          "count": 2
+        },
+        {
+          "text": "서울대병원",
+          "count": 2
+        },
+        {
+          "text": "서울아산병원",
+          "count": 2
+        },
+        {
+          "text": "집중호우",
+          "count": 2
+        },
+        {
+          "text": "태풍",
+          "count": 2
+        },
+        {
+          "text": "대비",
+          "count": 2
+        },
+        {
+          "text": "점검",
+          "count": 2
+        },
+        {
+          "text": "선제",
+          "count": 2
+        },
+        {
+          "text": "확립",
+          "count": 2
+        },
+        {
+          "text": "핵심성과",
+          "count": 2
+        },
+        {
+          "text": "국민주권정부",
+          "count": 2
+        },
+        {
+          "text": "출범",
+          "count": 2
+        },
+        {
+          "text": "인허가",
+          "count": 2
+        },
+        {
+          "text": "드론",
+          "count": 2
+        },
+        {
+          "text": "테러",
+          "count": 2
+        },
+        {
+          "text": "포상제도",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "시행",
+          "count": 2
+        },
+        {
+          "text": "공무원",
+          "count": 2
+        },
+        {
+          "text": "포상",
+          "count": 2
+        },
+        {
+          "text": "초과피폭",
+          "count": 2
+        },
+        {
+          "text": "원안위원장",
+          "count": 2
+        },
+        {
+          "text": "스페인",
+          "count": 2
+        },
+        {
+          "text": "보도참고자료",
           "count": 1
         },
         {
-          "text": "스마트",
+          "text": "후쿠시마",
           "count": 1
         },
         {
-          "text": "수변도시",
+          "text": "브리핑",
           "count": 1
         },
         {
-          "text": "주요사업",
+          "text": "전반",
           "count": 1
         },
         {
-          "text": "방문",
+          "text": "브리퍼",
           "count": 1
         },
         {
-          "text": "현지",
+          "text": "김영수",
+          "count": 1
+        },
+        {
+          "text": "인사말씀",
+          "count": 1
+        },
+        {
+          "text": "방류계획",
+          "count": 1
+        },
+        {
+          "text": "도쿄전력",
+          "count": 1
+        },
+        {
+          "text": "일정",
+          "count": 1
+        },
+        {
+          "text": "농도",
+          "count": 1
+        },
+        {
+          "text": "미만",
+          "count": 1
+        },
+        {
+          "text": "희석",
+          "count": 1
+        },
+        {
+          "text": "이외",
+          "count": 1
+        },
+        {
+          "text": "측정",
+          "count": 1
+        },
+        {
+          "text": "평가",
+          "count": 1
+        },
+        {
+          "text": "고시",
+          "count": 1
+        },
+        {
+          "text": "원자로압력용기",
+          "count": 1
+        },
+        {
+          "text": "감시시험",
+          "count": 1
+        },
+        {
+          "text": "원자로냉각재펌프",
+          "count": 1
+        },
+        {
+          "text": "입출구",
+          "count": 1
+        },
+        {
+          "text": "노즐",
+          "count": 1
+        },
+        {
+          "text": "안전단",
+          "count": 1
+        },
+        {
+          "text": "기준",
+          "count": 1
+        },
+        {
+          "text": "연성천",
+          "count": 1
+        },
+        {
+          "text": "온도",
+          "count": 1
+        },
+        {
+          "text": "산정",
+          "count": 1
+        },
+        {
+          "text": "출력상승시험",
+          "count": 1
+        },
+        {
+          "text": "후속검사",
+          "count": 1
+        },
+        {
+          "text": "최종",
+          "count": 1
+        },
+        {
+          "text": "정기",
+          "count": 1
+        },
+        {
+          "text": "핵분열",
+          "count": 1
+        },
+        {
+          "text": "연쇄반응",
+          "count": 1
+        },
+        {
+          "text": "지속",
+          "count": 1
+        },
+        {
+          "text": "생성",
+          "count": 1
+        },
+        {
+          "text": "소멸",
+          "count": 1
+        },
+        {
+          "text": "평형",
+          "count": 1
+        },
+        {
+          "text": "상태",
+          "count": 1
+        },
+        {
+          "text": "경기도",
+          "count": 1
+        },
+        {
+          "text": "방사선발생",
+          "count": 1
+        },
+        {
+          "text": "내부",
+          "count": 1
+        },
+        {
+          "text": "정밀조정작업",
+          "count": 1
+        },
+        {
+          "text": "도중",
+          "count": 1
+        },
+        {
+          "text": "작동",
+          "count": 1
+        },
+        {
+          "text": "수출",
           "count": 1
         }
       ]
@@ -27595,6 +26989,612 @@
         },
         {
           "text": "지진화산기술팀장",
+          "count": 1
+        }
+      ]
+    },
+    "sda": {
+      "label": "새만금개발청",
+      "articleCount": 11,
+      "words": [
+        {
+          "text": "문성요",
+          "count": 14
+        },
+        {
+          "text": "새만금청",
+          "count": 13
+        },
+        {
+          "text": "미래",
+          "count": 12
+        },
+        {
+          "text": "투자",
+          "count": 11
+        },
+        {
+          "text": "인공지능",
+          "count": 8
+        },
+        {
+          "text": "규모",
+          "count": 7
+        },
+        {
+          "text": "상수도",
+          "count": 7
+        },
+        {
+          "text": "역량",
+          "count": 5
+        },
+        {
+          "text": "투자유치",
+          "count": 5
+        },
+        {
+          "text": "현대차그룹",
+          "count": 5
+        },
+        {
+          "text": "교통서비스",
+          "count": 5
+        },
+        {
+          "text": "광주지방국세청",
+          "count": 5
+        },
+        {
+          "text": "아카데미",
+          "count": 5
+        },
+        {
+          "text": "정책기자단",
+          "count": 5
+        },
+        {
+          "text": "간선관로",
+          "count": 5
+        },
+        {
+          "text": "담당",
+          "count": 4
+        },
+        {
+          "text": "공무원",
+          "count": 4
+        },
+        {
+          "text": "안전관리",
+          "count": 4
+        },
+        {
+          "text": "로봇",
+          "count": 4
+        },
+        {
+          "text": "전략",
+          "count": 4
+        },
+        {
+          "text": "국가산업단지",
+          "count": 4
+        },
+        {
+          "text": "제조공장",
+          "count": 4
+        },
+        {
+          "text": "도시",
+          "count": 4
+        },
+        {
+          "text": "첨단",
+          "count": 4
+        },
+        {
+          "text": "공모전",
+          "count": 4
+        },
+        {
+          "text": "전환",
+          "count": 4
+        },
+        {
+          "text": "근로자",
+          "count": 4
+        },
+        {
+          "text": "발대식",
+          "count": 4
+        },
+        {
+          "text": "설치사업",
+          "count": 4
+        },
+        {
+          "text": "심의",
+          "count": 4
+        },
+        {
+          "text": "건설사업",
+          "count": 3
+        },
+        {
+          "text": "자문단",
+          "count": 3
+        },
+        {
+          "text": "해외분과",
+          "count": 3
+        },
+        {
+          "text": "새만금개발청장",
+          "count": 3
+        },
+        {
+          "text": "신속",
+          "count": 3
+        },
+        {
+          "text": "잭업바지선",
+          "count": 3
+        },
+        {
+          "text": "준공",
+          "count": 3
+        },
+        {
+          "text": "기관",
+          "count": 3
+        },
+        {
+          "text": "직무대리",
+          "count": 3
+        },
+        {
+          "text": "정인권",
+          "count": 3
+        },
+        {
+          "text": "경쟁력",
+          "count": 3
+        },
+        {
+          "text": "스마트도시",
+          "count": 3
+        },
+        {
+          "text": "스포일러",
+          "count": 3
+        },
+        {
+          "text": "새만금위원회",
+          "count": 3
+        },
+        {
+          "text": "의결",
+          "count": 3
+        },
+        {
+          "text": "안전사고",
+          "count": 2
+        },
+        {
+          "text": "교육",
+          "count": 2
+        },
+        {
+          "text": "진행",
+          "count": 2
+        },
+        {
+          "text": "태스크포스",
+          "count": 2
+        },
+        {
+          "text": "전문",
+          "count": 2
+        },
+        {
+          "text": "미래첨단산업",
+          "count": 2
+        },
+        {
+          "text": "활성",
+          "count": 2
+        },
+        {
+          "text": "머리",
+          "count": 2
+        },
+        {
+          "text": "자문회의",
+          "count": 2
+        },
+        {
+          "text": "체결",
+          "count": 2
+        },
+        {
+          "text": "이후",
+          "count": 2
+        },
+        {
+          "text": "예정지",
+          "count": 2
+        },
+        {
+          "text": "현장점검",
+          "count": 2
+        },
+        {
+          "text": "집중",
+          "count": 2
+        },
+        {
+          "text": "이행",
+          "count": 2
+        },
+        {
+          "text": "해양산업",
+          "count": 2
+        },
+        {
+          "text": "핵심부품",
+          "count": 2
+        },
+        {
+          "text": "공급망",
+          "count": 2
+        },
+        {
+          "text": "자립",
+          "count": 2
+        },
+        {
+          "text": "명일잭업해양",
+          "count": 2
+        },
+        {
+          "text": "준공식",
+          "count": 2
+        },
+        {
+          "text": "모빌리티",
+          "count": 2
+        },
+        {
+          "text": "출발",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "연구용역",
+          "count": 2
+        },
+        {
+          "text": "맞춤",
+          "count": 2
+        },
+        {
+          "text": "현대자동차그룹",
+          "count": 2
+        },
+        {
+          "text": "참석",
+          "count": 2
+        },
+        {
+          "text": "착수보고회",
+          "count": 2
+        },
+        {
+          "text": "첨단산업",
+          "count": 2
+        },
+        {
+          "text": "중심지",
+          "count": 2
+        },
+        {
+          "text": "도약",
+          "count": 2
+        },
+        {
+          "text": "비전",
+          "count": 2
+        },
+        {
+          "text": "가능",
+          "count": 2
+        },
+        {
+          "text": "소통",
+          "count": 2
+        },
+        {
+          "text": "사령탑",
+          "count": 2
+        },
+        {
+          "text": "취임",
+          "count": 2
+        },
+        {
+          "text": "가치",
+          "count": 2
+        },
+        {
+          "text": "취임식",
+          "count": 2
+        },
+        {
+          "text": "산단",
+          "count": 2
+        },
+        {
+          "text": "밀착",
+          "count": 2
+        },
+        {
+          "text": "세정",
+          "count": 2
+        },
+        {
+          "text": "세정업무",
+          "count": 2
+        },
+        {
+          "text": "최초",
+          "count": 2
+        },
+        {
+          "text": "협업",
+          "count": 2
+        },
+        {
+          "text": "행정서비스",
+          "count": 2
+        },
+        {
+          "text": "경기대학교",
+          "count": 2
+        },
+        {
+          "text": "산업전략",
+          "count": 2
+        },
+        {
+          "text": "안정",
+          "count": 2
+        },
+        {
+          "text": "공급",
+          "count": 2
+        },
+        {
+          "text": "제로",
+          "count": 1
+        },
+        {
+          "text": "특별",
+          "count": 1
+        },
+        {
+          "text": "건설공사",
+          "count": 1
+        },
+        {
+          "text": "특별교육",
+          "count": 1
+        },
+        {
+          "text": "건설현장",
+          "count": 1
+        },
+        {
+          "text": "중대재해",
+          "count": 1
+        },
+        {
+          "text": "관심",
+          "count": 1
+        },
+        {
+          "text": "지난달",
+          "count": 1
+        },
+        {
+          "text": "정상",
+          "count": 1
+        },
+        {
+          "text": "재해",
+          "count": 1
+        },
+        {
+          "text": "재난분야",
+          "count": 1
+        },
+        {
+          "text": "후속조치",
+          "count": 1
+        },
+        {
+          "text": "발주기관",
+          "count": 1
+        },
+        {
+          "text": "책임자",
+          "count": 1
+        },
+        {
+          "text": "한국로봇산업진흥원",
+          "count": 1
+        },
+        {
+          "text": "새만금국가산단",
+          "count": 1
+        },
+        {
+          "text": "발전방향",
+          "count": 1
+        },
+        {
+          "text": "논의",
+          "count": 1
+        },
+        {
+          "text": "서울",
+          "count": 1
+        },
+        {
+          "text": "투자전시관",
+          "count": 1
+        },
+        {
+          "text": "새만금자문단",
+          "count": 1
+        },
+        {
+          "text": "산업",
+          "count": 1
+        },
+        {
+          "text": "전문가",
+          "count": 1
+        },
+        {
+          "text": "자문기능",
+          "count": 1
+        },
+        {
+          "text": "수행",
+          "count": 1
+        },
+        {
+          "text": "투자협약",
+          "count": 1
+        },
+        {
+          "text": "인프라",
+          "count": 1
+        },
+        {
+          "text": "적기",
+          "count": 1
+        },
+        {
+          "text": "원스톱",
+          "count": 1
+        },
+        {
+          "text": "인허가",
+          "count": 1
+        },
+        {
+          "text": "현대차",
+          "count": 1
+        },
+        {
+          "text": "적극",
+          "count": 1
+        },
+        {
+          "text": "스마트",
+          "count": 1
+        },
+        {
+          "text": "수변도시",
+          "count": 1
+        },
+        {
+          "text": "주요사업",
+          "count": 1
+        },
+        {
+          "text": "방문",
+          "count": 1
+        },
+        {
+          "text": "현지",
+          "count": 1
+        },
+        {
+          "text": "상황",
+          "count": 1
+        },
+        {
+          "text": "협약",
+          "count": 1
+        },
+        {
+          "text": "부품",
+          "count": 1
+        },
+        {
+          "text": "클러스터",
+          "count": 1
+        },
+        {
+          "text": "데이터",
+          "count": 1
+        },
+        {
+          "text": "국제인증",
+          "count": 1
+        },
+        {
+          "text": "독자",
+          "count": 1
+        },
+        {
+          "text": "기술력",
+          "count": 1
+        },
+        {
+          "text": "공장",
+          "count": 1
+        },
+        {
+          "text": "행정지원",
+          "count": 1
+        },
+        {
+          "text": "뒷받침",
+          "count": 1
+        },
+        {
+          "text": "입주계약",
+          "count": 1
+        },
+        {
+          "text": "실현",
+          "count": 1
+        },
+        {
+          "text": "군산",
+          "count": 1
+        },
+        {
+          "text": "강소기업",
+          "count": 1
+        },
+        {
+          "text": "해양",
+          "count": 1
+        },
+        {
+          "text": "구조물",
+          "count": 1
+        },
+        {
+          "text": "생산시설",
           "count": 1
         }
       ]
