@@ -1,0 +1,88 @@
+name: stock-portfolio-ai-report
+
+# 개인 주식 포트폴리오 AI 리포트 생성 — private repo(sobjil/Stock-Portfolio)를 받아 실행 후 되돌려 쓴다.
+# News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
+# 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio-ai.yml 에 둔다.
+# 필요 시크릿(News_DB 저장소): STOCK_PORTFOLIO_PAT, GEMINI_API_KEY_1..5 (+ FINNHUB_TOKEN 선택)
+# 스케줄: UTC 월~금 23:00 = KST 화~토 08:00 (일·월요일 휴장이라 제외). 스크립트가 토요일=주간, 월초=월간 리포트도 생성.
+on:
+  schedule:
+    - cron: "0 23 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "수집 데이터만 출력(Gemini 호출 X)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: stock-portfolio-ai-report
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Guard
+        id: guard
+        env:
+          PAT: ${{ secrets.STOCK_PORTFOLIO_PAT }}
+        run: |
+          if [ -z "$PAT" ]; then
+            echo "STOCK_PORTFOLIO_PAT 미설정 — 건너뜀"
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout Stock-Portfolio (private)
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: sobjil/Stock-Portfolio
+          token: ${{ secrets.STOCK_PORTFOLIO_PAT }}
+          path: sp
+          fetch-depth: 0
+
+      - name: Setup Node
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate AI reports
+        if: steps.guard.outputs.ready == 'true'
+        working-directory: sp
+        env:
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+          AI_DRY_RUN: ${{ inputs.dry_run }}
+        run: node scripts/ai-reports.mjs
+
+      - name: Commit & push back
+        if: steps.guard.outputs.ready == 'true'
+        working-directory: sp
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git add data
+          git commit -m "chore: AI report $(date -u +%Y-%m-%dT%H:%MZ)"
+          # 원격 main 이 앞서 있으면(스냅샷 cron·내 코드 push) push 거부 → 최신 받아 rebase 후 재시도
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "push 성공 (시도 $i)"
+              exit 0
+            fi
+            echo "push 거부 — pull --rebase 후 재시도 ($i/5)"
+            git pull --rebase origin main || true
+          done
+          echo "push 5회 실패" >&2
+          exit 1
