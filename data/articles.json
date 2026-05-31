@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T23:31:24.053086+00:00",
-  "count": 1898,
+  "updated": "2026-05-31T23:51:05.414183+00:00",
+  "count": 1900,
   "retentionDays": 30,
   "agencies": [
     "개인정보보호위원회",
@@ -55,6 +55,30 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "김해국제공항에서 외국인 관광객 여러분을 환영·환송합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764579&call_from=rsslink",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-05-31T23:07:51+00:00",
+      "description": "김해국제공항에서 외국인 관광객 여러분을 환영·환송합니다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일(0601문체부보도자료_김해국제공항에서_외국인_관광객_환영_환송_추진.hwpx)을 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198478948&tblKey=GMN",
+          "filename": "0601문체부보도자료_김해국제공항에서_외국인_관광객_환영_환송_추진.hwpx"
+        }
+      ]
+    },
+    {
+      "title": "「치유관광산업법」 시행 원년, '케이-웰니스 관광' 본격 육성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764578&call_from=rsslink",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-05-31T23:06:44+00:00",
+      "description": "「치유관광산업법」 시행 원년, '케이-웰니스 관광' 본격 육성 관련 보도자료 내용입니다. 자세한 사항은 붙임파일(0601문체부보도자료_외래객_유치_특화_웰니스_관광지_20선_선정..hwpx)을 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "attachments": []
+    },
     {
       "title": "소방청, 국민주권 정부 출범 1년 핵심성과 및 향후 정책 방향",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764575&call_from=rsslink",
@@ -134,7 +158,13 @@
       "agencyCode": "msit",
       "pubDate": "2026-05-31T03:00:00+00:00",
       "description": "- 17 년 만의 부총리 부처 승격 , 과학기술 · 인공지능으로 대한민국 대도약 의 기틀 마련 - 독자 인공지능 모델의 우수한 성능을 앞세워 인공지능 경쟁력 세계 3 위 향해 순항 - 역대 최대 35.5 조 원 , 도전적 연구개발 생태계 로 대전환 및 현장 활력 회복 - 인공지능 시대 , 국민의 기본 통신권 보장 [자료제공 : (www.korea.kr) ]",
-      "attachments": []
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198478745&tblKey=GMN",
+          "filename": "260601 조간 (보도) 과학기술정보통신부, 국민주권정부 1년 성과 발표(수정).hwpx"
+        }
+      ]
     },
     {
       "title": "[국가과학기술자문회의] 국가과학기술자문회의, 자문의제 발굴을 위한 대국민 제안 수렴",
@@ -213,7 +243,23 @@
       "agencyCode": "mods",
       "pubDate": "2026-05-31T03:00:00+00:00",
       "description": "\"응답 부담 줄이고, 정확도는 높였다\"…내달 1일부터 경제총조사 - 국가데이터처, 2025년 기준 경제총조사 시행… AI·로봇·스마트공장 등 신규 항목 반영 - 행정 데이터 활용해 현장 조사 최소화 - 6월 1일부터 비대면 온라인 조사, 12일부터는 조사원 방문 면접 병행 ※ 보다 자세한 사항은 첨부파일을 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
-      "attachments": []
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198478771&tblKey=GMN",
+          "filename": "2025년 기준 경제총조사 시행 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198478770&tblKey=GMN",
+          "filename": "2025년 기준 경제총조사 시행 보도자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198478769&tblKey=GMN",
+          "filename": "2025년 기준 경제총조사 시행 보도자료.hwp"
+        }
+      ]
     },
     {
       "title": "\"유튜브 절세 꿀팁 믿어도 될까?\" 국세청, 「상속･증여세 오해 그리고 진실」 배포",
@@ -265,23 +311,7 @@
       "agencyCode": "ftc",
       "pubDate": "2026-05-31T03:00:00+00:00",
       "description": "'귀한족발' 가맹본부의 가맹사업법 및 표시광고법 위반행위 제재 - 납품 대가를 정보공개서에 기재하지 않거나 누락하고, 개설한 가맹점 개수를 부풀려 광고한 '㈜귀한사람들'에 시정명령 및 과징금(201백만 원) 부과 - 공정거래위원회(위원장 주병기, 이하 '공정위')는 족발·보쌈 등을 판매하는 가맹브랜드 '귀한족발'을 운영하는 ㈜귀한사람들*(이하 '귀한사람들')이 ①납품업체로부터 수취한 경제적 이익을 정보공개서에 기재하지 않거나 누락하고, ②홈페이지에 개설한 매장 수를 거짓으로 부풀려 가맹점 모집 광고를 한 행위에 대하여 시정명령과 함",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198478743&tblKey=GMN",
-          "filename": "260601(조간)_(주)귀한사람들의 가맹사업법 및 표시광고법 위반행위 제재.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198478744&tblKey=GMN",
-          "filename": "260601(조간)_(주)귀한사람들의 가맹사업법 및 표시광고법 위반행위 제재.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198478742&tblKey=GMN",
-          "filename": "260601(조간)_(주)귀한사람들의 가맹사업법 및 표시광고법 위반행위 제재.hwp"
-        }
-      ]
+      "attachments": []
     },
     {
       "title": "네이버 검색 인공지능 에이전트 서비스('AI Tab') 사전적정성 검토 결과 의결",
@@ -289,19 +319,7 @@
       "agency": "개인정보보호위원회",
       "agencyCode": "pipc",
       "pubDate": "2026-05-31T03:00:00+00:00",
-      "description": "네이버 검색 인공지능 에이전트 서비스('AI Tab') 사전적정성 검토 결과 의결 - 개인화 인공지능(AI) 에이전트 서비스의 개인정보 보호 기준 제시 개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 5월 27일(수) 제10회 전체회의를 열고, 네이버 주식회사(이하 '네이버')의 검색 인공지능(AI) 에이전트 서비스(이하 'AI Tab')에 대한 사전적정성 검토 결과를 심의·의결하였다. ※ 사전적정성 검토제란? ▸ 신청인이 인공지능(AI) 등 신기술·신서비스 기획·개발 단계에서 기존 법해석·집행 선례만으로는 명확한 개인정보",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198478764&tblKey=GMN",
-          "filename": "[260531 12시보도] 네이버 검색 인공지능 에이전트 서비스(‘AI Tab’) 사전적정성 검토 결과 의결(조사3팀).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198478763&tblKey=GMN",
-          "filename": "[260531 12시보도] 네이버 검색 인공지능 에이전트 서비스(‘AI Tab’) 사전적정성 검토 결과 의결(조사3팀).pdf"
-        }
-      ]
+      "description": "네이버 검색 인공지능 에이전트 서비스('AI Tab') 사전적정성 검토 결과 의결 - 개인화 인공지능(AI) 에이전트 서비스의 개인정보 보호 기준 제시 개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 5월 27일(수) 제10회 전체회의를 열고, 네이버 주식회사(이하 '네이버')의 검색 인공지능(AI) 에이전트 서비스(이하 'AI Tab')에 대한 사전적정성 검토 결과를 심의·의결하였다. ※ 사전적정성 검토제란? ▸ 신청인이 인공지능(AI) 등 신기술·신서비스 기획·개발 단계에서 기존 법해석·집행 선례만으로는 명확한 개인정보"
     },
     {
       "title": "\"글로벌 바이어 300명 대기 중\"…국내 중소기업 해외 진출, 한상 급행열차 뜬다",
