@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-02T07:59:53.631647+09:00",
-  "totalArticles": 2019,
+  "generated": "2026-06-02T08:59:50.186739+09:00",
+  "totalArticles": 2025,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2019,
+      "articleCount": 2025,
       "words": [
         {
           "text": "대응",
@@ -13,7 +13,7 @@
         },
         {
           "text": "논의",
-          "count": 347
+          "count": 349
         },
         {
           "text": "점검",
@@ -21,7 +21,7 @@
         },
         {
           "text": "인공지능",
-          "count": 288
+          "count": 290
         },
         {
           "text": "간담회",
@@ -61,7 +61,7 @@
         },
         {
           "text": "증가",
-          "count": 183
+          "count": 184
         },
         {
           "text": "청년",
@@ -76,16 +76,20 @@
           "count": 167
         },
         {
+          "text": "선정",
+          "count": 166
+        },
+        {
           "text": "중심",
           "count": 165
         },
         {
-          "text": "선정",
-          "count": 164
-        },
-        {
           "text": "행사",
           "count": 160
+        },
+        {
+          "text": "확산",
+          "count": 157
         },
         {
           "text": "산림청",
@@ -97,10 +101,6 @@
         },
         {
           "text": "예방",
-          "count": 155
-        },
-        {
-          "text": "확산",
           "count": 155
         },
         {
@@ -196,6 +196,10 @@
           "count": 118
         },
         {
+          "text": "이후",
+          "count": 116
+        },
+        {
           "text": "여름철",
           "count": 116
         },
@@ -210,10 +214,6 @@
         {
           "text": "보호",
           "count": 115
-        },
-        {
-          "text": "이후",
-          "count": 114
         },
         {
           "text": "청소년",
@@ -384,6 +384,14 @@
           "count": 82
         },
         {
+          "text": "발굴",
+          "count": 81
+        },
+        {
+          "text": "기후에너지환경부",
+          "count": 81
+        },
+        {
           "text": "집중",
           "count": 81
         },
@@ -400,10 +408,6 @@
           "count": 80
         },
         {
-          "text": "기후에너지환경부",
-          "count": 80
-        },
-        {
           "text": "국방부",
           "count": 80
         },
@@ -413,10 +417,6 @@
         },
         {
           "text": "송미령",
-          "count": 79
-        },
-        {
-          "text": "발굴",
           "count": 79
         },
         {
@@ -468,8 +468,16 @@
           "count": 75
         },
         {
+          "text": "보도참고",
+          "count": 75
+        },
+        {
           "text": "평가",
           "count": 75
+        },
+        {
+          "text": "감소",
+          "count": 74
         },
         {
           "text": "생태",
@@ -484,15 +492,7 @@
           "count": 74
         },
         {
-          "text": "감소",
-          "count": 73
-        },
-        {
           "text": "국정과제",
-          "count": 73
-        },
-        {
-          "text": "보도참고",
           "count": 73
         },
         {
@@ -536,12 +536,24 @@
           "count": 70
         },
         {
+          "text": "사례",
+          "count": 69
+        },
+        {
           "text": "시대",
           "count": 69
         },
         {
           "text": "국무총리",
           "count": 69
+        },
+        {
+          "text": "위험",
+          "count": 68
+        },
+        {
+          "text": "과기정통부",
+          "count": 68
         },
         {
           "text": "공모",
@@ -572,16 +584,8 @@
           "count": 67
         },
         {
-          "text": "위험",
-          "count": 67
-        },
-        {
           "text": "이날",
           "count": 67
-        },
-        {
-          "text": "과기정통부",
-          "count": 66
         },
         {
           "text": "시장",
@@ -597,10 +601,6 @@
         },
         {
           "text": "전문",
-          "count": 66
-        },
-        {
-          "text": "사례",
           "count": 66
         },
         {
@@ -654,6 +654,10 @@
         {
           "text": "해소",
           "count": 62
+        },
+        {
+          "text": "한반도",
+          "count": 61
         },
         {
           "text": "케이",
@@ -712,6 +716,10 @@
           "count": 59
         },
         {
+          "text": "바다",
+          "count": 58
+        },
+        {
           "text": "인재",
           "count": 58
         },
@@ -724,12 +732,12 @@
           "count": 58
         },
         {
-          "text": "한반도",
+          "text": "통일부",
           "count": 58
         },
         {
-          "text": "통일부",
-          "count": 58
+          "text": "사고",
+          "count": 57
         },
         {
           "text": "선제",
@@ -748,11 +756,11 @@
           "count": 57
         },
         {
-          "text": "관계부처",
+          "text": "김성환",
           "count": 56
         },
         {
-          "text": "바다",
+          "text": "관계부처",
           "count": 56
         },
         {
@@ -784,7 +792,7 @@
           "count": 55
         },
         {
-          "text": "김성환",
+          "text": "모델",
           "count": 55
         },
         {
@@ -792,19 +800,11 @@
           "count": 55
         },
         {
-          "text": "사고",
-          "count": 54
-        },
-        {
           "text": "시스템",
           "count": 54
         },
         {
           "text": "현지",
-          "count": 54
-        },
-        {
-          "text": "주제",
           "count": 54
         }
       ]
@@ -2023,15 +2023,15 @@
     },
     "msit": {
       "label": "과학기술정보통신부",
-      "articleCount": 83,
+      "articleCount": 85,
       "words": [
         {
           "text": "인공지능",
-          "count": 90
+          "count": 92
         },
         {
           "text": "논의",
-          "count": 18
+          "count": 20
         },
         {
           "text": "연구",
@@ -2042,12 +2042,12 @@
           "count": 12
         },
         {
-          "text": "데이터",
+          "text": "모델",
           "count": 12
         },
         {
-          "text": "모델",
-          "count": 10
+          "text": "데이터",
+          "count": 12
         },
         {
           "text": "대응",
@@ -2063,6 +2063,10 @@
         },
         {
           "text": "전환",
+          "count": 9
+        },
+        {
+          "text": "보도참고",
           "count": 9
         },
         {
@@ -2107,10 +2111,6 @@
         },
         {
           "text": "디지털",
-          "count": 7
-        },
-        {
-          "text": "보도참고",
           "count": 7
         },
         {
@@ -2172,6 +2172,10 @@
         {
           "text": "프로그램",
           "count": 6
+        },
+        {
+          "text": "비전",
+          "count": 5
         },
         {
           "text": "역량",
@@ -2240,6 +2244,14 @@
         {
           "text": "우리나라",
           "count": 5
+        },
+        {
+          "text": "양자",
+          "count": 4
+        },
+        {
+          "text": "미래상",
+          "count": 4
         },
         {
           "text": "행정",
@@ -2526,10 +2538,6 @@
           "count": 3
         },
         {
-          "text": "비전",
-          "count": 3
-        },
-        {
           "text": "모색",
           "count": 3
         },
@@ -2614,15 +2622,7 @@
           "count": 3
         },
         {
-          "text": "동향",
-          "count": 2
-        },
-        {
-          "text": "업무혁신",
-          "count": 2
-        },
-        {
-          "text": "대표",
+          "text": "혁명",
           "count": 2
         }
       ]
@@ -6265,7 +6265,7 @@
     },
     "molit": {
       "label": "국토교통부",
-      "articleCount": 66,
+      "articleCount": 67,
       "words": [
         {
           "text": "장관동정",
@@ -6308,6 +6308,10 @@
           "count": 8
         },
         {
+          "text": "사고",
+          "count": 6
+        },
+        {
           "text": "관광",
           "count": 6
         },
@@ -6342,6 +6346,10 @@
         {
           "text": "관리",
           "count": 6
+        },
+        {
+          "text": "배달",
+          "count": 4
         },
         {
           "text": "목소리",
@@ -6420,10 +6428,6 @@
           "count": 4
         },
         {
-          "text": "사고",
-          "count": 4
-        },
-        {
           "text": "정상",
           "count": 4
         },
@@ -6486,6 +6490,26 @@
         {
           "text": "도심",
           "count": 4
+        },
+        {
+          "text": "종사자",
+          "count": 2
+        },
+        {
+          "text": "유상운송",
+          "count": 2
+        },
+        {
+          "text": "보험",
+          "count": 2
+        },
+        {
+          "text": "가입",
+          "count": 2
+        },
+        {
+          "text": "의무",
+          "count": 2
         },
         {
           "text": "조직문화",
@@ -6842,40 +6866,16 @@
         {
           "text": "시공",
           "count": 2
-        },
-        {
-          "text": "속도감",
-          "count": 2
-        },
-        {
-          "text": "불편",
-          "count": 2
-        },
-        {
-          "text": "공공서비스",
-          "count": 2
-        },
-        {
-          "text": "가까이",
-          "count": 2
-        },
-        {
-          "text": "맞춤",
-          "count": 2
-        },
-        {
-          "text": "시범사업",
-          "count": 2
         }
       ]
     },
     "mcee": {
       "label": "기후에너지환경부",
-      "articleCount": 60,
+      "articleCount": 61,
       "words": [
         {
           "text": "김성환",
-          "count": 53
+          "count": 54
         },
         {
           "text": "소재",
@@ -7054,6 +7054,18 @@
           "count": 7
         },
         {
+          "text": "야생생물",
+          "count": 6
+        },
+        {
+          "text": "담비",
+          "count": 6
+        },
+        {
+          "text": "증가",
+          "count": 6
+        },
+        {
           "text": "체결",
           "count": 6
         },
@@ -7166,6 +7178,14 @@
           "count": 6
         },
         {
+          "text": "멸종위기",
+          "count": 5
+        },
+        {
+          "text": "선정",
+          "count": 5
+        },
+        {
           "text": "한중",
           "count": 5
         },
@@ -7211,10 +7231,6 @@
         },
         {
           "text": "이행",
-          "count": 5
-        },
-        {
-          "text": "증가",
           "count": 5
         },
         {
@@ -7284,6 +7300,14 @@
         {
           "text": "일자리",
           "count": 5
+        },
+        {
+          "text": "한반도",
+          "count": 4
+        },
+        {
+          "text": "서식",
+          "count": 4
         },
         {
           "text": "토론회",
@@ -7447,30 +7471,6 @@
         },
         {
           "text": "시대",
-          "count": 4
-        },
-        {
-          "text": "공모전",
-          "count": 4
-        },
-        {
-          "text": "모집",
-          "count": 4
-        },
-        {
-          "text": "우수환경산업체",
-          "count": 4
-        },
-        {
-          "text": "환경산업",
-          "count": 4
-        },
-        {
-          "text": "온실가스",
-          "count": 4
-        },
-        {
-          "text": "토양",
           "count": 4
         }
       ]
@@ -8689,7 +8689,7 @@
     },
     "moe": {
       "label": "교육부",
-      "articleCount": 51,
+      "articleCount": 52,
       "words": [
         {
           "text": "인공지능",
@@ -8742,6 +8742,22 @@
         {
           "text": "전공",
           "count": 5
+        },
+        {
+          "text": "외국인",
+          "count": 4
+        },
+        {
+          "text": "유학",
+          "count": 4
+        },
+        {
+          "text": "창업",
+          "count": 4
+        },
+        {
+          "text": "확산",
+          "count": 4
         },
         {
           "text": "우수사례",
@@ -8834,6 +8850,18 @@
         {
           "text": "신설학과",
           "count": 3
+        },
+        {
+          "text": "우수대학",
+          "count": 2
+        },
+        {
+          "text": "사례",
+          "count": 2
+        },
+        {
+          "text": "발굴",
+          "count": 2
         },
         {
           "text": "대학규제혁신",
@@ -8980,10 +9008,6 @@
           "count": 2
         },
         {
-          "text": "외국인",
-          "count": 2
-        },
-        {
           "text": "장학사업",
           "count": 2
         },
@@ -9085,10 +9109,6 @@
         },
         {
           "text": "열풍",
-          "count": 2
-        },
-        {
-          "text": "확산",
           "count": 2
         },
         {
@@ -9204,10 +9224,6 @@
           "count": 2
         },
         {
-          "text": "유학",
-          "count": 2
-        },
-        {
           "text": "육성",
           "count": 2
         },
@@ -9273,22 +9289,6 @@
         },
         {
           "text": "학부모",
-          "count": 2
-        },
-        {
-          "text": "교육정책",
-          "count": 2
-        },
-        {
-          "text": "모니터단",
-          "count": 2
-        },
-        {
-          "text": "파라과이한국교육원",
-          "count": 2
-        },
-        {
-          "text": "확장",
           "count": 2
         }
       ]
@@ -25913,6 +25913,612 @@
         }
       ]
     },
+    "kma": {
+      "label": "기상청",
+      "articleCount": 13,
+      "words": [
+        {
+          "text": "태풍",
+          "count": 10
+        },
+        {
+          "text": "폭염",
+          "count": 10
+        },
+        {
+          "text": "영향",
+          "count": 9
+        },
+        {
+          "text": "이미선",
+          "count": 9
+        },
+        {
+          "text": "여름철",
+          "count": 9
+        },
+        {
+          "text": "발생",
+          "count": 9
+        },
+        {
+          "text": "서비스",
+          "count": 8
+        },
+        {
+          "text": "평년",
+          "count": 7
+        },
+        {
+          "text": "강수량",
+          "count": 6
+        },
+        {
+          "text": "기후",
+          "count": 6
+        },
+        {
+          "text": "특보구역",
+          "count": 5
+        },
+        {
+          "text": "열질환자",
+          "count": 5
+        },
+        {
+          "text": "역대",
+          "count": 4
+        },
+        {
+          "text": "우리나라",
+          "count": 4
+        },
+        {
+          "text": "기후위기",
+          "count": 4
+        },
+        {
+          "text": "기상가뭄",
+          "count": 4
+        },
+        {
+          "text": "인사발령",
+          "count": 4
+        },
+        {
+          "text": "승진",
+          "count": 4
+        },
+        {
+          "text": "대응",
+          "count": 4
+        },
+        {
+          "text": "시작",
+          "count": 4
+        },
+        {
+          "text": "지진",
+          "count": 4
+        },
+        {
+          "text": "대국민",
+          "count": 4
+        },
+        {
+          "text": "피해",
+          "count": 4
+        },
+        {
+          "text": "방재기상업무",
+          "count": 4
+        },
+        {
+          "text": "선언식",
+          "count": 4
+        },
+        {
+          "text": "세분",
+          "count": 4
+        },
+        {
+          "text": "강수",
+          "count": 4
+        },
+        {
+          "text": "국민주권정부",
+          "count": 3
+        },
+        {
+          "text": "출범",
+          "count": 3
+        },
+        {
+          "text": "개편",
+          "count": 3
+        },
+        {
+          "text": "인공지능",
+          "count": 3
+        },
+        {
+          "text": "기술",
+          "count": 3
+        },
+        {
+          "text": "융합",
+          "count": 3
+        },
+        {
+          "text": "정보",
+          "count": 3
+        },
+        {
+          "text": "올여름",
+          "count": 3
+        },
+        {
+          "text": "기온",
+          "count": 3
+        },
+        {
+          "text": "가능",
+          "count": 3
+        },
+        {
+          "text": "기후테크센터",
+          "count": 3
+        },
+        {
+          "text": "미래",
+          "count": 3
+        },
+        {
+          "text": "산업",
+          "count": 3
+        },
+        {
+          "text": "지진화산국",
+          "count": 3
+        },
+        {
+          "text": "현장경보",
+          "count": 3
+        },
+        {
+          "text": "지진조기경보",
+          "count": 3
+        },
+        {
+          "text": "진앙",
+          "count": 3
+        },
+        {
+          "text": "인근",
+          "count": 3
+        },
+        {
+          "text": "발령",
+          "count": 3
+        },
+        {
+          "text": "안전",
+          "count": 3
+        },
+        {
+          "text": "건강",
+          "count": 3
+        },
+        {
+          "text": "영향예보",
+          "count": 3
+        },
+        {
+          "text": "폭염특보",
+          "count": 3
+        },
+        {
+          "text": "질병관리청",
+          "count": 3
+        },
+        {
+          "text": "상순",
+          "count": 3
+        },
+        {
+          "text": "중순",
+          "count": 3
+        },
+        {
+          "text": "이상고온",
+          "count": 3
+        },
+        {
+          "text": "하순",
+          "count": 3
+        },
+        {
+          "text": "건조",
+          "count": 3
+        },
+        {
+          "text": "이후",
+          "count": 2
+        },
+        {
+          "text": "한반도",
+          "count": 2
+        },
+        {
+          "text": "남해동부바깥",
+          "count": 2
+        },
+        {
+          "text": "바다",
+          "count": 2
+        },
+        {
+          "text": "태풍특보",
+          "count": 2
+        },
+        {
+          "text": "발효",
+          "count": 2
+        },
+        {
+          "text": "핵심성과",
+          "count": 2
+        },
+        {
+          "text": "특보",
+          "count": 2
+        },
+        {
+          "text": "재생에너지",
+          "count": 2
+        },
+        {
+          "text": "기상서비스",
+          "count": 2
+        },
+        {
+          "text": "생명",
+          "count": 2
+        },
+        {
+          "text": "나라",
+          "count": 2
+        },
+        {
+          "text": "감시",
+          "count": 2
+        },
+        {
+          "text": "예측",
+          "count": 2
+        },
+        {
+          "text": "해수면",
+          "count": 2
+        },
+        {
+          "text": "온도",
+          "count": 2
+        },
+        {
+          "text": "엘니뇨",
+          "count": 2
+        },
+        {
+          "text": "기준",
+          "count": 2
+        },
+        {
+          "text": "서울대",
+          "count": 2
+        },
+        {
+          "text": "토론회",
+          "count": 2
+        },
+        {
+          "text": "서울대학교",
+          "count": 2
+        },
+        {
+          "text": "경제",
+          "count": 2
+        },
+        {
+          "text": "전보",
+          "count": 2
+        },
+        {
+          "text": "경보",
+          "count": 2
+        },
+        {
+          "text": "지진현장경보",
+          "count": 2
+        },
+        {
+          "text": "위험",
+          "count": 2
+        },
+        {
+          "text": "시행",
+          "count": 2
+        },
+        {
+          "text": "위험기상",
+          "count": 2
+        },
+        {
+          "text": "폭염중대경보",
+          "count": 2
+        },
+        {
+          "text": "신설",
+          "count": 2
+        },
+        {
+          "text": "동안",
+          "count": 2
+        },
+        {
+          "text": "집중호우",
+          "count": 2
+        },
+        {
+          "text": "안부",
+          "count": 2
+        },
+        {
+          "text": "전화",
+          "count": 2
+        },
+        {
+          "text": "부모",
+          "count": 2
+        },
+        {
+          "text": "직접",
+          "count": 2
+        },
+        {
+          "text": "폭염일수",
+          "count": 2
+        },
+        {
+          "text": "증가",
+          "count": 2
+        },
+        {
+          "text": "예방",
+          "count": 2
+        },
+        {
+          "text": "기상가뭄정보",
+          "count": 2
+        },
+        {
+          "text": "고온",
+          "count": 2
+        },
+        {
+          "text": "기후변화",
+          "count": 2
+        },
+        {
+          "text": "평균",
+          "count": 2
+        },
+        {
+          "text": "예측정보",
+          "count": 2
+        },
+        {
+          "text": "열질환",
+          "count": 2
+        },
+        {
+          "text": "분석",
+          "count": 2
+        },
+        {
+          "text": "예측모델",
+          "count": 2
+        },
+        {
+          "text": "기후특성",
+          "count": 2
+        },
+        {
+          "text": "변동",
+          "count": 2
+        },
+        {
+          "text": "육상",
+          "count": 1
+        },
+        {
+          "text": "남해안",
+          "count": 1
+        },
+        {
+          "text": "제주도해안",
+          "count": 1
+        },
+        {
+          "text": "너울",
+          "count": 1
+        },
+        {
+          "text": "근접",
+          "count": 1
+        },
+        {
+          "text": "장미",
+          "count": 1
+        },
+        {
+          "text": "북상",
+          "count": 1
+        },
+        {
+          "text": "사례",
+          "count": 1
+        },
+        {
+          "text": "유무",
+          "count": 1
+        },
+        {
+          "text": "결정",
+          "count": 1
+        },
+        {
+          "text": "풍랑경보",
+          "count": 1
+        },
+        {
+          "text": "태풍경보",
+          "count": 1
+        },
+        {
+          "text": "변경",
+          "count": 1
+        },
+        {
+          "text": "재난문자",
+          "count": 1
+        },
+        {
+          "text": "자연재난",
+          "count": 1
+        },
+        {
+          "text": "안전망",
+          "count": 1
+        },
+        {
+          "text": "기자",
+          "count": 1
+        },
+        {
+          "text": "간담회",
+          "count": 1
+        },
+        {
+          "text": "주인",
+          "count": 1
+        },
+        {
+          "text": "행복",
+          "count": 1
+        },
+        {
+          "text": "대한민국",
+          "count": 1
+        },
+        {
+          "text": "개시",
+          "count": 1
+        },
+        {
+          "text": "한국",
+          "count": 1
+        },
+        {
+          "text": "수치모델",
+          "count": 1
+        },
+        {
+          "text": "현업",
+          "count": 1
+        },
+        {
+          "text": "기후위",
+          "count": 1
+        },
+        {
+          "text": "라니냐",
+          "count": 1
+        },
+        {
+          "text": "전환",
+          "count": 1
+        },
+        {
+          "text": "누적강수량",
+          "count": 1
+        },
+        {
+          "text": "기후예측모델",
+          "count": 1
+        },
+        {
+          "text": "대기",
+          "count": 1
+        },
+        {
+          "text": "해양",
+          "count": 1
+        },
+        {
+          "text": "해빙",
+          "count": 1
+        },
+        {
+          "text": "민현주",
+          "count": 1
+        },
+        {
+          "text": "예보국",
+          "count": 1
+        },
+        {
+          "text": "국가태풍센터장",
+          "count": 1
+        },
+        {
+          "text": "이시우",
+          "count": 1
+        },
+        {
+          "text": "데이터",
+          "count": 1
+        },
+        {
+          "text": "첨단",
+          "count": 1
+        },
+        {
+          "text": "시장",
+          "count": 1
+        },
+        {
+          "text": "모색",
+          "count": 1
+        },
+        {
+          "text": "전경련회관",
+          "count": 1
+        },
+        {
+          "text": "기후적응",
+          "count": 1
+        },
+        {
+          "text": "기후테크",
+          "count": 1
+        },
+        {
+          "text": "주제",
+          "count": 1
+        }
+      ]
+    },
     "nssc": {
       "label": "원자력안전위원회",
       "articleCount": 13,
@@ -26515,612 +27121,6 @@
         },
         {
           "text": "수출",
-          "count": 1
-        }
-      ]
-    },
-    "kma": {
-      "label": "기상청",
-      "articleCount": 12,
-      "words": [
-        {
-          "text": "폭염",
-          "count": 10
-        },
-        {
-          "text": "여름철",
-          "count": 9
-        },
-        {
-          "text": "발생",
-          "count": 9
-        },
-        {
-          "text": "이미선",
-          "count": 8
-        },
-        {
-          "text": "서비스",
-          "count": 8
-        },
-        {
-          "text": "평년",
-          "count": 7
-        },
-        {
-          "text": "강수량",
-          "count": 6
-        },
-        {
-          "text": "기후",
-          "count": 6
-        },
-        {
-          "text": "열질환자",
-          "count": 5
-        },
-        {
-          "text": "기후위기",
-          "count": 4
-        },
-        {
-          "text": "기상가뭄",
-          "count": 4
-        },
-        {
-          "text": "인사발령",
-          "count": 4
-        },
-        {
-          "text": "승진",
-          "count": 4
-        },
-        {
-          "text": "대응",
-          "count": 4
-        },
-        {
-          "text": "시작",
-          "count": 4
-        },
-        {
-          "text": "지진",
-          "count": 4
-        },
-        {
-          "text": "대국민",
-          "count": 4
-        },
-        {
-          "text": "피해",
-          "count": 4
-        },
-        {
-          "text": "방재기상업무",
-          "count": 4
-        },
-        {
-          "text": "선언식",
-          "count": 4
-        },
-        {
-          "text": "특보구역",
-          "count": 4
-        },
-        {
-          "text": "세분",
-          "count": 4
-        },
-        {
-          "text": "강수",
-          "count": 4
-        },
-        {
-          "text": "국민주권정부",
-          "count": 3
-        },
-        {
-          "text": "출범",
-          "count": 3
-        },
-        {
-          "text": "개편",
-          "count": 3
-        },
-        {
-          "text": "인공지능",
-          "count": 3
-        },
-        {
-          "text": "기술",
-          "count": 3
-        },
-        {
-          "text": "융합",
-          "count": 3
-        },
-        {
-          "text": "정보",
-          "count": 3
-        },
-        {
-          "text": "올여름",
-          "count": 3
-        },
-        {
-          "text": "기온",
-          "count": 3
-        },
-        {
-          "text": "가능",
-          "count": 3
-        },
-        {
-          "text": "태풍",
-          "count": 3
-        },
-        {
-          "text": "영향",
-          "count": 3
-        },
-        {
-          "text": "기후테크센터",
-          "count": 3
-        },
-        {
-          "text": "미래",
-          "count": 3
-        },
-        {
-          "text": "산업",
-          "count": 3
-        },
-        {
-          "text": "지진화산국",
-          "count": 3
-        },
-        {
-          "text": "현장경보",
-          "count": 3
-        },
-        {
-          "text": "지진조기경보",
-          "count": 3
-        },
-        {
-          "text": "진앙",
-          "count": 3
-        },
-        {
-          "text": "인근",
-          "count": 3
-        },
-        {
-          "text": "발령",
-          "count": 3
-        },
-        {
-          "text": "안전",
-          "count": 3
-        },
-        {
-          "text": "건강",
-          "count": 3
-        },
-        {
-          "text": "영향예보",
-          "count": 3
-        },
-        {
-          "text": "폭염특보",
-          "count": 3
-        },
-        {
-          "text": "질병관리청",
-          "count": 3
-        },
-        {
-          "text": "상순",
-          "count": 3
-        },
-        {
-          "text": "중순",
-          "count": 3
-        },
-        {
-          "text": "이상고온",
-          "count": 3
-        },
-        {
-          "text": "하순",
-          "count": 3
-        },
-        {
-          "text": "건조",
-          "count": 3
-        },
-        {
-          "text": "핵심성과",
-          "count": 2
-        },
-        {
-          "text": "특보",
-          "count": 2
-        },
-        {
-          "text": "재생에너지",
-          "count": 2
-        },
-        {
-          "text": "기상서비스",
-          "count": 2
-        },
-        {
-          "text": "생명",
-          "count": 2
-        },
-        {
-          "text": "나라",
-          "count": 2
-        },
-        {
-          "text": "감시",
-          "count": 2
-        },
-        {
-          "text": "예측",
-          "count": 2
-        },
-        {
-          "text": "해수면",
-          "count": 2
-        },
-        {
-          "text": "온도",
-          "count": 2
-        },
-        {
-          "text": "엘니뇨",
-          "count": 2
-        },
-        {
-          "text": "기준",
-          "count": 2
-        },
-        {
-          "text": "서울대",
-          "count": 2
-        },
-        {
-          "text": "토론회",
-          "count": 2
-        },
-        {
-          "text": "서울대학교",
-          "count": 2
-        },
-        {
-          "text": "경제",
-          "count": 2
-        },
-        {
-          "text": "전보",
-          "count": 2
-        },
-        {
-          "text": "경보",
-          "count": 2
-        },
-        {
-          "text": "지진현장경보",
-          "count": 2
-        },
-        {
-          "text": "위험",
-          "count": 2
-        },
-        {
-          "text": "시행",
-          "count": 2
-        },
-        {
-          "text": "위험기상",
-          "count": 2
-        },
-        {
-          "text": "폭염중대경보",
-          "count": 2
-        },
-        {
-          "text": "신설",
-          "count": 2
-        },
-        {
-          "text": "동안",
-          "count": 2
-        },
-        {
-          "text": "집중호우",
-          "count": 2
-        },
-        {
-          "text": "안부",
-          "count": 2
-        },
-        {
-          "text": "전화",
-          "count": 2
-        },
-        {
-          "text": "부모",
-          "count": 2
-        },
-        {
-          "text": "직접",
-          "count": 2
-        },
-        {
-          "text": "폭염일수",
-          "count": 2
-        },
-        {
-          "text": "증가",
-          "count": 2
-        },
-        {
-          "text": "예방",
-          "count": 2
-        },
-        {
-          "text": "기상가뭄정보",
-          "count": 2
-        },
-        {
-          "text": "고온",
-          "count": 2
-        },
-        {
-          "text": "기후변화",
-          "count": 2
-        },
-        {
-          "text": "평균",
-          "count": 2
-        },
-        {
-          "text": "예측정보",
-          "count": 2
-        },
-        {
-          "text": "열질환",
-          "count": 2
-        },
-        {
-          "text": "분석",
-          "count": 2
-        },
-        {
-          "text": "예측모델",
-          "count": 2
-        },
-        {
-          "text": "기후특성",
-          "count": 2
-        },
-        {
-          "text": "변동",
-          "count": 2
-        },
-        {
-          "text": "재난문자",
-          "count": 1
-        },
-        {
-          "text": "자연재난",
-          "count": 1
-        },
-        {
-          "text": "안전망",
-          "count": 1
-        },
-        {
-          "text": "기자",
-          "count": 1
-        },
-        {
-          "text": "간담회",
-          "count": 1
-        },
-        {
-          "text": "주인",
-          "count": 1
-        },
-        {
-          "text": "행복",
-          "count": 1
-        },
-        {
-          "text": "대한민국",
-          "count": 1
-        },
-        {
-          "text": "개시",
-          "count": 1
-        },
-        {
-          "text": "한국",
-          "count": 1
-        },
-        {
-          "text": "수치모델",
-          "count": 1
-        },
-        {
-          "text": "현업",
-          "count": 1
-        },
-        {
-          "text": "기후위",
-          "count": 1
-        },
-        {
-          "text": "라니냐",
-          "count": 1
-        },
-        {
-          "text": "전환",
-          "count": 1
-        },
-        {
-          "text": "누적강수량",
-          "count": 1
-        },
-        {
-          "text": "기후예측모델",
-          "count": 1
-        },
-        {
-          "text": "대기",
-          "count": 1
-        },
-        {
-          "text": "해양",
-          "count": 1
-        },
-        {
-          "text": "해빙",
-          "count": 1
-        },
-        {
-          "text": "민현주",
-          "count": 1
-        },
-        {
-          "text": "예보국",
-          "count": 1
-        },
-        {
-          "text": "국가태풍센터장",
-          "count": 1
-        },
-        {
-          "text": "이시우",
-          "count": 1
-        },
-        {
-          "text": "데이터",
-          "count": 1
-        },
-        {
-          "text": "첨단",
-          "count": 1
-        },
-        {
-          "text": "시장",
-          "count": 1
-        },
-        {
-          "text": "모색",
-          "count": 1
-        },
-        {
-          "text": "전경련회관",
-          "count": 1
-        },
-        {
-          "text": "기후적응",
-          "count": 1
-        },
-        {
-          "text": "기후테크",
-          "count": 1
-        },
-        {
-          "text": "주제",
-          "count": 1
-        },
-        {
-          "text": "포럼",
-          "count": 1
-        },
-        {
-          "text": "주최",
-          "count": 1
-        },
-        {
-          "text": "국가미래전략원",
-          "count": 1
-        },
-        {
-          "text": "정수종",
-          "count": 1
-        },
-        {
-          "text": "센터장",
-          "count": 1
-        },
-        {
-          "text": "기후정보",
-          "count": 1
-        },
-        {
-          "text": "가치",
-          "count": 1
-        },
-        {
-          "text": "기조",
-          "count": 1
-        },
-        {
-          "text": "강연",
-          "count": 1
-        },
-        {
-          "text": "박재필",
-          "count": 1
-        },
-        {
-          "text": "대표",
-          "count": 1
-        },
-        {
-          "text": "고공단",
-          "count": 1
-        },
-        {
-          "text": "고위공무원단",
-          "count": 1
-        },
-        {
-          "text": "강원지방기상청장",
-          "count": 1
-        },
-        {
-          "text": "김정희",
-          "count": 1
-        },
-        {
-          "text": "관측기반국",
-          "count": 1
-        },
-        {
-          "text": "관측정책과장",
-          "count": 1
-        },
-        {
-          "text": "박성찬",
-          "count": 1
-        },
-        {
-          "text": "지진화산정책과장",
-          "count": 1
-        },
-        {
-          "text": "박순천",
-          "count": 1
-        },
-        {
-          "text": "지진화산기술팀장",
           "count": 1
         }
       ]
