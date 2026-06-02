@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-03T02:44:44.050430+09:00",
-  "totalArticles": 2107,
+  "generated": "2026-06-03T03:44:46.846220+09:00",
+  "totalArticles": 2108,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2107,
+      "articleCount": 2108,
       "words": [
         {
           "text": "대응",
@@ -36,12 +36,12 @@
           "count": 249
         },
         {
-          "text": "발생",
+          "text": "기술",
           "count": 243
         },
         {
-          "text": "기술",
-          "count": 241
+          "text": "발생",
+          "count": 243
         },
         {
           "text": "안전",
@@ -72,12 +72,12 @@
           "count": 177
         },
         {
-          "text": "선정",
+          "text": "중심",
           "count": 170
         },
         {
-          "text": "중심",
-          "count": 169
+          "text": "선정",
+          "count": 170
         },
         {
           "text": "농촌진흥청",
@@ -500,6 +500,10 @@
           "count": 76
         },
         {
+          "text": "산업부",
+          "count": 75
+        },
+        {
           "text": "제품",
           "count": 75
         },
@@ -513,10 +517,6 @@
         },
         {
           "text": "공급",
-          "count": 74
-        },
-        {
-          "text": "산업부",
           "count": 74
         },
         {
@@ -596,6 +596,10 @@
           "count": 69
         },
         {
+          "text": "산업통상부",
+          "count": 68
+        },
+        {
           "text": "포럼",
           "count": 68
         },
@@ -632,10 +636,6 @@
           "count": 67
         },
         {
-          "text": "산업통상부",
-          "count": 67
-        },
-        {
           "text": "해소",
           "count": 66
         },
@@ -658,6 +658,10 @@
         {
           "text": "신고",
           "count": 65
+        },
+        {
+          "text": "반도체",
+          "count": 64
         },
         {
           "text": "적극",
@@ -701,10 +705,6 @@
         },
         {
           "text": "이행",
-          "count": 62
-        },
-        {
-          "text": "반도체",
           "count": 62
         },
         {
@@ -8081,6 +8081,612 @@
         }
       ]
     },
+    "motir": {
+      "label": "산업통상부",
+      "articleCount": 59,
+      "words": [
+        {
+          "text": "산업부",
+          "count": 56
+        },
+        {
+          "text": "김정관",
+          "count": 42
+        },
+        {
+          "text": "논의",
+          "count": 31
+        },
+        {
+          "text": "공급망",
+          "count": 26
+        },
+        {
+          "text": "제품",
+          "count": 20
+        },
+        {
+          "text": "기업",
+          "count": 18
+        },
+        {
+          "text": "간담회",
+          "count": 15
+        },
+        {
+          "text": "배터리",
+          "count": 15
+        },
+        {
+          "text": "제조",
+          "count": 14
+        },
+        {
+          "text": "수출",
+          "count": 14
+        },
+        {
+          "text": "원전",
+          "count": 14
+        },
+        {
+          "text": "기술",
+          "count": 13
+        },
+        {
+          "text": "반도체",
+          "count": 12
+        },
+        {
+          "text": "청년",
+          "count": 11
+        },
+        {
+          "text": "선정",
+          "count": 11
+        },
+        {
+          "text": "참고자료",
+          "count": 10
+        },
+        {
+          "text": "미래",
+          "count": 10
+        },
+        {
+          "text": "대한민국",
+          "count": 10
+        },
+        {
+          "text": "출범",
+          "count": 10
+        },
+        {
+          "text": "협상",
+          "count": 10
+        },
+        {
+          "text": "통상교섭본부장",
+          "count": 10
+        },
+        {
+          "text": "조선",
+          "count": 10
+        },
+        {
+          "text": "점검",
+          "count": 9
+        },
+        {
+          "text": "전환",
+          "count": 9
+        },
+        {
+          "text": "대응",
+          "count": 9
+        },
+        {
+          "text": "생태",
+          "count": 9
+        },
+        {
+          "text": "뉴딜",
+          "count": 9
+        },
+        {
+          "text": "아카데미",
+          "count": 9
+        },
+        {
+          "text": "안전",
+          "count": 9
+        },
+        {
+          "text": "참석",
+          "count": 8
+        },
+        {
+          "text": "공급",
+          "count": 8
+        },
+        {
+          "text": "양국",
+          "count": 8
+        },
+        {
+          "text": "동향",
+          "count": 8
+        },
+        {
+          "text": "모색",
+          "count": 8
+        },
+        {
+          "text": "시장",
+          "count": 8
+        },
+        {
+          "text": "투자",
+          "count": 8
+        },
+        {
+          "text": "여한구",
+          "count": 8
+        },
+        {
+          "text": "상생",
+          "count": 8
+        },
+        {
+          "text": "핵심",
+          "count": 7
+        },
+        {
+          "text": "장비",
+          "count": 7
+        },
+        {
+          "text": "최대",
+          "count": 7
+        },
+        {
+          "text": "의결",
+          "count": 7
+        },
+        {
+          "text": "에너지",
+          "count": 7
+        },
+        {
+          "text": "관리",
+          "count": 7
+        },
+        {
+          "text": "한국",
+          "count": 7
+        },
+        {
+          "text": "표준",
+          "count": 7
+        },
+        {
+          "text": "매출",
+          "count": 7
+        },
+        {
+          "text": "경제",
+          "count": 7
+        },
+        {
+          "text": "국가기술표준원",
+          "count": 7
+        },
+        {
+          "text": "국표원",
+          "count": 7
+        },
+        {
+          "text": "중국",
+          "count": 7
+        },
+        {
+          "text": "본격",
+          "count": 7
+        },
+        {
+          "text": "조사",
+          "count": 7
+        },
+        {
+          "text": "최초",
+          "count": 7
+        },
+        {
+          "text": "주유소",
+          "count": 7
+        },
+        {
+          "text": "방문",
+          "count": 6
+        },
+        {
+          "text": "자원",
+          "count": 6
+        },
+        {
+          "text": "경제협력",
+          "count": 6
+        },
+        {
+          "text": "면담",
+          "count": 6
+        },
+        {
+          "text": "안정",
+          "count": 6
+        },
+        {
+          "text": "분과",
+          "count": 6
+        },
+        {
+          "text": "선점",
+          "count": 6
+        },
+        {
+          "text": "첨단산업",
+          "count": 6
+        },
+        {
+          "text": "생산",
+          "count": 6
+        },
+        {
+          "text": "회원국",
+          "count": 6
+        },
+        {
+          "text": "위기",
+          "count": 6
+        },
+        {
+          "text": "온라인",
+          "count": 6
+        },
+        {
+          "text": "협력방안",
+          "count": 6
+        },
+        {
+          "text": "협의",
+          "count": 6
+        },
+        {
+          "text": "일본",
+          "count": 6
+        },
+        {
+          "text": "김대자",
+          "count": 6
+        },
+        {
+          "text": "인도",
+          "count": 6
+        },
+        {
+          "text": "계기",
+          "count": 6
+        },
+        {
+          "text": "구매대행",
+          "count": 6
+        },
+        {
+          "text": "울산",
+          "count": 6
+        },
+        {
+          "text": "교역",
+          "count": 5
+        },
+        {
+          "text": "지속",
+          "count": 5
+        },
+        {
+          "text": "노동부",
+          "count": 5
+        },
+        {
+          "text": "로봇",
+          "count": 5
+        },
+        {
+          "text": "전기기기",
+          "count": 5
+        },
+        {
+          "text": "인프라",
+          "count": 5
+        },
+        {
+          "text": "규모",
+          "count": 5
+        },
+        {
+          "text": "활성",
+          "count": 5
+        },
+        {
+          "text": "승인",
+          "count": 5
+        },
+        {
+          "text": "철강",
+          "count": 5
+        },
+        {
+          "text": "제조업",
+          "count": 5
+        },
+        {
+          "text": "얼라이언스",
+          "count": 5
+        },
+        {
+          "text": "성심당",
+          "count": 5
+        },
+        {
+          "text": "다양",
+          "count": 5
+        },
+        {
+          "text": "증가",
+          "count": 5
+        },
+        {
+          "text": "기자재",
+          "count": 5
+        },
+        {
+          "text": "최고가격",
+          "count": 5
+        },
+        {
+          "text": "서울",
+          "count": 5
+        },
+        {
+          "text": "사용후",
+          "count": 5
+        },
+        {
+          "text": "자동차",
+          "count": 5
+        },
+        {
+          "text": "기준",
+          "count": 5
+        },
+        {
+          "text": "장쑤성",
+          "count": 5
+        },
+        {
+          "text": "해체",
+          "count": 5
+        },
+        {
+          "text": "아세안",
+          "count": 5
+        },
+        {
+          "text": "저울",
+          "count": 5
+        },
+        {
+          "text": "최종",
+          "count": 4
+        },
+        {
+          "text": "중심",
+          "count": 4
+        },
+        {
+          "text": "공정",
+          "count": 4
+        },
+        {
+          "text": "국무회의",
+          "count": 4
+        },
+        {
+          "text": "첨단산업협력",
+          "count": 4
+        },
+        {
+          "text": "단순",
+          "count": 4
+        },
+        {
+          "text": "도약",
+          "count": 4
+        },
+        {
+          "text": "가속",
+          "count": 4
+        },
+        {
+          "text": "화상",
+          "count": 4
+        },
+        {
+          "text": "탤런트",
+          "count": 4
+        },
+        {
+          "text": "페어",
+          "count": 4
+        },
+        {
+          "text": "수출입",
+          "count": 4
+        },
+        {
+          "text": "재편",
+          "count": 4
+        },
+        {
+          "text": "과정",
+          "count": 4
+        },
+        {
+          "text": "체제",
+          "count": 4
+        },
+        {
+          "text": "대표",
+          "count": 4
+        },
+        {
+          "text": "대전환",
+          "count": 4
+        },
+        {
+          "text": "돌파",
+          "count": 4
+        },
+        {
+          "text": "유턴",
+          "count": 4
+        },
+        {
+          "text": "국민성장펀드",
+          "count": 4
+        },
+        {
+          "text": "중견기업",
+          "count": 4
+        },
+        {
+          "text": "가전",
+          "count": 4
+        },
+        {
+          "text": "오프라인",
+          "count": 4
+        },
+        {
+          "text": "중소조선",
+          "count": 4
+        },
+        {
+          "text": "핵심광물",
+          "count": 4
+        },
+        {
+          "text": "경제안보",
+          "count": 4
+        },
+        {
+          "text": "산업융합",
+          "count": 4
+        },
+        {
+          "text": "규제",
+          "count": 4
+        },
+        {
+          "text": "애로",
+          "count": 4
+        },
+        {
+          "text": "무역기술장벽",
+          "count": 4
+        },
+        {
+          "text": "정상회담",
+          "count": 4
+        },
+        {
+          "text": "재개",
+          "count": 4
+        },
+        {
+          "text": "공식",
+          "count": 4
+        },
+        {
+          "text": "통상장관회의",
+          "count": 4
+        },
+        {
+          "text": "일부",
+          "count": 4
+        },
+        {
+          "text": "석유",
+          "count": 4
+        },
+        {
+          "text": "확대방안",
+          "count": 4
+        },
+        {
+          "text": "자유무역지역",
+          "count": 4
+        },
+        {
+          "text": "판매",
+          "count": 4
+        },
+        {
+          "text": "원팀",
+          "count": 4
+        },
+        {
+          "text": "대한상공회의소",
+          "count": 4
+        },
+        {
+          "text": "아이디어",
+          "count": 4
+        },
+        {
+          "text": "보증",
+          "count": 4
+        },
+        {
+          "text": "국제표준",
+          "count": 4
+        },
+        {
+          "text": "중소",
+          "count": 4
+        },
+        {
+          "text": "적합",
+          "count": 4
+        },
+        {
+          "text": "수도",
+          "count": 4
+        },
+        {
+          "text": "시판품",
+          "count": 4
+        },
+        {
+          "text": "그룹",
+          "count": 4
+        },
+        {
+          "text": "국산",
+          "count": 3
+        }
+      ]
+    },
     "mss": {
       "label": "중소벤처기업부",
       "articleCount": 58,
@@ -8684,612 +9290,6 @@
         {
           "text": "생계",
           "count": 4
-        }
-      ]
-    },
-    "motir": {
-      "label": "산업통상부",
-      "articleCount": 58,
-      "words": [
-        {
-          "text": "산업부",
-          "count": 55
-        },
-        {
-          "text": "김정관",
-          "count": 41
-        },
-        {
-          "text": "논의",
-          "count": 31
-        },
-        {
-          "text": "공급망",
-          "count": 26
-        },
-        {
-          "text": "제품",
-          "count": 20
-        },
-        {
-          "text": "기업",
-          "count": 18
-        },
-        {
-          "text": "간담회",
-          "count": 15
-        },
-        {
-          "text": "배터리",
-          "count": 15
-        },
-        {
-          "text": "제조",
-          "count": 14
-        },
-        {
-          "text": "수출",
-          "count": 14
-        },
-        {
-          "text": "원전",
-          "count": 14
-        },
-        {
-          "text": "청년",
-          "count": 11
-        },
-        {
-          "text": "기술",
-          "count": 11
-        },
-        {
-          "text": "선정",
-          "count": 11
-        },
-        {
-          "text": "반도체",
-          "count": 10
-        },
-        {
-          "text": "미래",
-          "count": 10
-        },
-        {
-          "text": "대한민국",
-          "count": 10
-        },
-        {
-          "text": "출범",
-          "count": 10
-        },
-        {
-          "text": "협상",
-          "count": 10
-        },
-        {
-          "text": "통상교섭본부장",
-          "count": 10
-        },
-        {
-          "text": "조선",
-          "count": 10
-        },
-        {
-          "text": "참고자료",
-          "count": 9
-        },
-        {
-          "text": "점검",
-          "count": 9
-        },
-        {
-          "text": "전환",
-          "count": 9
-        },
-        {
-          "text": "대응",
-          "count": 9
-        },
-        {
-          "text": "생태",
-          "count": 9
-        },
-        {
-          "text": "뉴딜",
-          "count": 9
-        },
-        {
-          "text": "아카데미",
-          "count": 9
-        },
-        {
-          "text": "안전",
-          "count": 9
-        },
-        {
-          "text": "참석",
-          "count": 8
-        },
-        {
-          "text": "공급",
-          "count": 8
-        },
-        {
-          "text": "양국",
-          "count": 8
-        },
-        {
-          "text": "동향",
-          "count": 8
-        },
-        {
-          "text": "모색",
-          "count": 8
-        },
-        {
-          "text": "시장",
-          "count": 8
-        },
-        {
-          "text": "투자",
-          "count": 8
-        },
-        {
-          "text": "여한구",
-          "count": 8
-        },
-        {
-          "text": "상생",
-          "count": 8
-        },
-        {
-          "text": "핵심",
-          "count": 7
-        },
-        {
-          "text": "장비",
-          "count": 7
-        },
-        {
-          "text": "최대",
-          "count": 7
-        },
-        {
-          "text": "의결",
-          "count": 7
-        },
-        {
-          "text": "에너지",
-          "count": 7
-        },
-        {
-          "text": "관리",
-          "count": 7
-        },
-        {
-          "text": "한국",
-          "count": 7
-        },
-        {
-          "text": "표준",
-          "count": 7
-        },
-        {
-          "text": "매출",
-          "count": 7
-        },
-        {
-          "text": "경제",
-          "count": 7
-        },
-        {
-          "text": "국가기술표준원",
-          "count": 7
-        },
-        {
-          "text": "국표원",
-          "count": 7
-        },
-        {
-          "text": "중국",
-          "count": 7
-        },
-        {
-          "text": "본격",
-          "count": 7
-        },
-        {
-          "text": "조사",
-          "count": 7
-        },
-        {
-          "text": "최초",
-          "count": 7
-        },
-        {
-          "text": "주유소",
-          "count": 7
-        },
-        {
-          "text": "방문",
-          "count": 6
-        },
-        {
-          "text": "자원",
-          "count": 6
-        },
-        {
-          "text": "경제협력",
-          "count": 6
-        },
-        {
-          "text": "면담",
-          "count": 6
-        },
-        {
-          "text": "안정",
-          "count": 6
-        },
-        {
-          "text": "분과",
-          "count": 6
-        },
-        {
-          "text": "선점",
-          "count": 6
-        },
-        {
-          "text": "첨단산업",
-          "count": 6
-        },
-        {
-          "text": "생산",
-          "count": 6
-        },
-        {
-          "text": "회원국",
-          "count": 6
-        },
-        {
-          "text": "위기",
-          "count": 6
-        },
-        {
-          "text": "온라인",
-          "count": 6
-        },
-        {
-          "text": "협력방안",
-          "count": 6
-        },
-        {
-          "text": "협의",
-          "count": 6
-        },
-        {
-          "text": "일본",
-          "count": 6
-        },
-        {
-          "text": "김대자",
-          "count": 6
-        },
-        {
-          "text": "인도",
-          "count": 6
-        },
-        {
-          "text": "계기",
-          "count": 6
-        },
-        {
-          "text": "구매대행",
-          "count": 6
-        },
-        {
-          "text": "울산",
-          "count": 6
-        },
-        {
-          "text": "교역",
-          "count": 5
-        },
-        {
-          "text": "지속",
-          "count": 5
-        },
-        {
-          "text": "노동부",
-          "count": 5
-        },
-        {
-          "text": "로봇",
-          "count": 5
-        },
-        {
-          "text": "전기기기",
-          "count": 5
-        },
-        {
-          "text": "인프라",
-          "count": 5
-        },
-        {
-          "text": "규모",
-          "count": 5
-        },
-        {
-          "text": "활성",
-          "count": 5
-        },
-        {
-          "text": "승인",
-          "count": 5
-        },
-        {
-          "text": "철강",
-          "count": 5
-        },
-        {
-          "text": "제조업",
-          "count": 5
-        },
-        {
-          "text": "얼라이언스",
-          "count": 5
-        },
-        {
-          "text": "성심당",
-          "count": 5
-        },
-        {
-          "text": "다양",
-          "count": 5
-        },
-        {
-          "text": "증가",
-          "count": 5
-        },
-        {
-          "text": "기자재",
-          "count": 5
-        },
-        {
-          "text": "최고가격",
-          "count": 5
-        },
-        {
-          "text": "서울",
-          "count": 5
-        },
-        {
-          "text": "사용후",
-          "count": 5
-        },
-        {
-          "text": "자동차",
-          "count": 5
-        },
-        {
-          "text": "기준",
-          "count": 5
-        },
-        {
-          "text": "장쑤성",
-          "count": 5
-        },
-        {
-          "text": "해체",
-          "count": 5
-        },
-        {
-          "text": "아세안",
-          "count": 5
-        },
-        {
-          "text": "저울",
-          "count": 5
-        },
-        {
-          "text": "공정",
-          "count": 4
-        },
-        {
-          "text": "국무회의",
-          "count": 4
-        },
-        {
-          "text": "첨단산업협력",
-          "count": 4
-        },
-        {
-          "text": "단순",
-          "count": 4
-        },
-        {
-          "text": "도약",
-          "count": 4
-        },
-        {
-          "text": "가속",
-          "count": 4
-        },
-        {
-          "text": "화상",
-          "count": 4
-        },
-        {
-          "text": "탤런트",
-          "count": 4
-        },
-        {
-          "text": "페어",
-          "count": 4
-        },
-        {
-          "text": "수출입",
-          "count": 4
-        },
-        {
-          "text": "재편",
-          "count": 4
-        },
-        {
-          "text": "과정",
-          "count": 4
-        },
-        {
-          "text": "체제",
-          "count": 4
-        },
-        {
-          "text": "대표",
-          "count": 4
-        },
-        {
-          "text": "대전환",
-          "count": 4
-        },
-        {
-          "text": "돌파",
-          "count": 4
-        },
-        {
-          "text": "유턴",
-          "count": 4
-        },
-        {
-          "text": "국민성장펀드",
-          "count": 4
-        },
-        {
-          "text": "중견기업",
-          "count": 4
-        },
-        {
-          "text": "가전",
-          "count": 4
-        },
-        {
-          "text": "오프라인",
-          "count": 4
-        },
-        {
-          "text": "중소조선",
-          "count": 4
-        },
-        {
-          "text": "핵심광물",
-          "count": 4
-        },
-        {
-          "text": "경제안보",
-          "count": 4
-        },
-        {
-          "text": "산업융합",
-          "count": 4
-        },
-        {
-          "text": "규제",
-          "count": 4
-        },
-        {
-          "text": "애로",
-          "count": 4
-        },
-        {
-          "text": "무역기술장벽",
-          "count": 4
-        },
-        {
-          "text": "정상회담",
-          "count": 4
-        },
-        {
-          "text": "재개",
-          "count": 4
-        },
-        {
-          "text": "공식",
-          "count": 4
-        },
-        {
-          "text": "통상장관회의",
-          "count": 4
-        },
-        {
-          "text": "일부",
-          "count": 4
-        },
-        {
-          "text": "석유",
-          "count": 4
-        },
-        {
-          "text": "확대방안",
-          "count": 4
-        },
-        {
-          "text": "자유무역지역",
-          "count": 4
-        },
-        {
-          "text": "판매",
-          "count": 4
-        },
-        {
-          "text": "원팀",
-          "count": 4
-        },
-        {
-          "text": "대한상공회의소",
-          "count": 4
-        },
-        {
-          "text": "아이디어",
-          "count": 4
-        },
-        {
-          "text": "보증",
-          "count": 4
-        },
-        {
-          "text": "국제표준",
-          "count": 4
-        },
-        {
-          "text": "중소",
-          "count": 4
-        },
-        {
-          "text": "적합",
-          "count": 4
-        },
-        {
-          "text": "수도",
-          "count": 4
-        },
-        {
-          "text": "시판품",
-          "count": 4
-        },
-        {
-          "text": "그룹",
-          "count": 4
-        },
-        {
-          "text": "절차",
-          "count": 3
-        },
-        {
-          "text": "비철금속",
-          "count": 3
-        },
-        {
-          "text": "파트너십",
-          "count": 3
         }
       ]
     },
