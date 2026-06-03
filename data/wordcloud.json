@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-03T16:39:33.652987+09:00",
-  "totalArticles": 2107,
+  "generated": "2026-06-03T17:39:34.739240+09:00",
+  "totalArticles": 2103,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2107,
+      "articleCount": 2103,
       "words": [
         {
           "text": "대응",
@@ -17,7 +17,7 @@
         },
         {
           "text": "점검",
-          "count": 311
+          "count": 307
         },
         {
           "text": "인공지능",
@@ -29,7 +29,7 @@
         },
         {
           "text": "방문",
-          "count": 263
+          "count": 260
         },
         {
           "text": "기업",
@@ -65,7 +65,7 @@
         },
         {
           "text": "대비",
-          "count": 178
+          "count": 177
         },
         {
           "text": "청년",
@@ -116,12 +116,12 @@
           "count": 152
         },
         {
-          "text": "한국",
+          "text": "전문가",
           "count": 150
         },
         {
-          "text": "전문가",
-          "count": 150
+          "text": "한국",
+          "count": 149
         },
         {
           "text": "관리",
@@ -221,7 +221,7 @@
         },
         {
           "text": "시작",
-          "count": 120
+          "count": 119
         },
         {
           "text": "다양",
@@ -244,11 +244,11 @@
           "count": 109
         },
         {
-          "text": "환경",
-          "count": 109
+          "text": "역량",
+          "count": 108
         },
         {
-          "text": "역량",
+          "text": "환경",
           "count": 108
         },
         {
@@ -369,7 +369,7 @@
         },
         {
           "text": "전략",
-          "count": 89
+          "count": 88
         },
         {
           "text": "개정",
@@ -385,10 +385,6 @@
         },
         {
           "text": "과제",
-          "count": 84
-        },
-        {
-          "text": "프로그램",
           "count": 84
         },
         {
@@ -410,6 +406,10 @@
         {
           "text": "지정",
           "count": 83
+        },
+        {
+          "text": "프로그램",
+          "count": 82
         },
         {
           "text": "의결",
@@ -624,11 +624,11 @@
           "count": 68
         },
         {
-          "text": "중요",
-          "count": 67
+          "text": "가족",
+          "count": 66
         },
         {
-          "text": "가족",
+          "text": "중요",
           "count": 66
         },
         {
@@ -15353,612 +15353,6 @@
         }
       ]
     },
-    "kmcc": {
-      "label": "방송미디어통신위원회",
-      "articleCount": 39,
-      "words": [
-        {
-          "text": "대응",
-          "count": 12
-        },
-        {
-          "text": "이사",
-          "count": 11
-        },
-        {
-          "text": "추천단체",
-          "count": 11
-        },
-        {
-          "text": "김종철",
-          "count": 10
-        },
-        {
-          "text": "인공지능",
-          "count": 9
-        },
-        {
-          "text": "공영방송",
-          "count": 9
-        },
-        {
-          "text": "선정",
-          "count": 9
-        },
-        {
-          "text": "이용자",
-          "count": 9
-        },
-        {
-          "text": "의결",
-          "count": 8
-        },
-        {
-          "text": "홈쇼핑",
-          "count": 8
-        },
-        {
-          "text": "허위",
-          "count": 7
-        },
-        {
-          "text": "온라인",
-          "count": 7
-        },
-        {
-          "text": "디지털윤리",
-          "count": 7
-        },
-        {
-          "text": "유료방송",
-          "count": 7
-        },
-        {
-          "text": "의견",
-          "count": 7
-        },
-        {
-          "text": "시각",
-          "count": 7
-        },
-        {
-          "text": "활력",
-          "count": 7
-        },
-        {
-          "text": "공모전",
-          "count": 6
-        },
-        {
-          "text": "사업자",
-          "count": 6
-        },
-        {
-          "text": "보호",
-          "count": 6
-        },
-        {
-          "text": "가입자",
-          "count": 6
-        },
-        {
-          "text": "가짜뉴스",
-          "count": 6
-        },
-        {
-          "text": "논의",
-          "count": 6
-        },
-        {
-          "text": "상생",
-          "count": 6
-        },
-        {
-          "text": "총력",
-          "count": 5
-        },
-        {
-          "text": "산업",
-          "count": 5
-        },
-        {
-          "text": "삭제",
-          "count": 5
-        },
-        {
-          "text": "아동",
-          "count": 5
-        },
-        {
-          "text": "청소년",
-          "count": 5
-        },
-        {
-          "text": "심사",
-          "count": 5
-        },
-        {
-          "text": "피해",
-          "count": 5
-        },
-        {
-          "text": "보이스피싱",
-          "count": 5
-        },
-        {
-          "text": "구독",
-          "count": 5
-        },
-        {
-          "text": "서비스",
-          "count": 5
-        },
-        {
-          "text": "안내서",
-          "count": 5
-        },
-        {
-          "text": "제고",
-          "count": 5
-        },
-        {
-          "text": "의약품",
-          "count": 4
-        },
-        {
-          "text": "서면심의",
-          "count": 4
-        },
-        {
-          "text": "신속",
-          "count": 4
-        },
-        {
-          "text": "정상",
-          "count": 4
-        },
-        {
-          "text": "출범",
-          "count": 4
-        },
-        {
-          "text": "방미통위",
-          "count": 4
-        },
-        {
-          "text": "확산",
-          "count": 4
-        },
-        {
-          "text": "콘텐츠",
-          "count": 4
-        },
-        {
-          "text": "디지털",
-          "count": 4
-        },
-        {
-          "text": "디지털크리에이터",
-          "count": 4
-        },
-        {
-          "text": "기업",
-          "count": 4
-        },
-        {
-          "text": "규모",
-          "count": 4
-        },
-        {
-          "text": "안건",
-          "count": 4
-        },
-        {
-          "text": "하반기",
-          "count": 4
-        },
-        {
-          "text": "합동",
-          "count": 4
-        },
-        {
-          "text": "주재",
-          "count": 4
-        },
-        {
-          "text": "학부모",
-          "count": 4
-        },
-        {
-          "text": "교사",
-          "count": 4
-        },
-        {
-          "text": "신종",
-          "count": 4
-        },
-        {
-          "text": "스캠범죄",
-          "count": 4
-        },
-        {
-          "text": "사항",
-          "count": 4
-        },
-        {
-          "text": "위반",
-          "count": 4
-        },
-        {
-          "text": "발간",
-          "count": 4
-        },
-        {
-          "text": "청각장애인",
-          "count": 4
-        },
-        {
-          "text": "접수",
-          "count": 4
-        },
-        {
-          "text": "과징금",
-          "count": 4
-        },
-        {
-          "text": "부과",
-          "count": 4
-        },
-        {
-          "text": "관계부처합동",
-          "count": 4
-        },
-        {
-          "text": "인공지능서비스",
-          "count": 4
-        },
-        {
-          "text": "제도개선",
-          "count": 4
-        },
-        {
-          "text": "광고",
-          "count": 3
-        },
-        {
-          "text": "국무회의",
-          "count": 3
-        },
-        {
-          "text": "가능",
-          "count": 3
-        },
-        {
-          "text": "침해",
-          "count": 3
-        },
-        {
-          "text": "이후",
-          "count": 3
-        },
-        {
-          "text": "시대",
-          "count": 3
-        },
-        {
-          "text": "의식",
-          "count": 3
-        },
-        {
-          "text": "창작콘텐츠",
-          "count": 3
-        },
-        {
-          "text": "학습",
-          "count": 3
-        },
-        {
-          "text": "제작",
-          "count": 3
-        },
-        {
-          "text": "유통",
-          "count": 3
-        },
-        {
-          "text": "참가",
-          "count": 3
-        },
-        {
-          "text": "방송통신발전기금",
-          "count": 3
-        },
-        {
-          "text": "한국",
-          "count": 3
-        },
-        {
-          "text": "인터넷멀티미디어방송",
-          "count": 3
-        },
-        {
-          "text": "종합유선방송",
-          "count": 3
-        },
-        {
-          "text": "청취",
-          "count": 3
-        },
-        {
-          "text": "실태",
-          "count": 3
-        },
-        {
-          "text": "사회관계망서비스",
-          "count": 3
-        },
-        {
-          "text": "기준",
-          "count": 3
-        },
-        {
-          "text": "법령",
-          "count": 3
-        },
-        {
-          "text": "규제",
-          "count": 3
-        },
-        {
-          "text": "이날",
-          "count": 3
-        },
-        {
-          "text": "티브이",
-          "count": 3
-        },
-        {
-          "text": "분리",
-          "count": 3
-        },
-        {
-          "text": "변경승인",
-          "count": 3
-        },
-        {
-          "text": "방송법",
-          "count": 3
-        },
-        {
-          "text": "생태",
-          "count": 3
-        },
-        {
-          "text": "과장광고",
-          "count": 2
-        },
-        {
-          "text": "차단",
-          "count": 2
-        },
-        {
-          "text": "식품",
-          "count": 2
-        },
-        {
-          "text": "화장품",
-          "count": 2
-        },
-        {
-          "text": "의료기기",
-          "count": 2
-        },
-        {
-          "text": "안전",
-          "count": 2
-        },
-        {
-          "text": "설치",
-          "count": 2
-        },
-        {
-          "text": "법률",
-          "count": 2
-        },
-        {
-          "text": "통신분야",
-          "count": 2
-        },
-        {
-          "text": "박차",
-          "count": 2
-        },
-        {
-          "text": "누적",
-          "count": 2
-        },
-        {
-          "text": "각종",
-          "count": 2
-        },
-        {
-          "text": "현안",
-          "count": 2
-        },
-        {
-          "text": "해소",
-          "count": 2
-        },
-        {
-          "text": "기조",
-          "count": 2
-        },
-        {
-          "text": "보고",
-          "count": 2
-        },
-        {
-          "text": "협업",
-          "count": 2
-        },
-        {
-          "text": "무대",
-          "count": 2
-        },
-        {
-          "text": "매칭",
-          "count": 2
-        },
-        {
-          "text": "계약",
-          "count": 2
-        },
-        {
-          "text": "상담",
-          "count": 2
-        },
-        {
-          "text": "심사위원회",
-          "count": 2
-        },
-        {
-          "text": "최종",
-          "count": 2
-        },
-        {
-          "text": "전체회의",
-          "count": 2
-        },
-        {
-          "text": "한국방송공사",
-          "count": 2
-        },
-        {
-          "text": "단체",
-          "count": 2
-        },
-        {
-          "text": "예산안",
-          "count": 2
-        },
-        {
-          "text": "운용계획안",
-          "count": 2
-        },
-        {
-          "text": "시장점유",
-          "count": 2
-        },
-        {
-          "text": "위성방송",
-          "count": 2
-        },
-        {
-          "text": "증가",
-          "count": 2
-        },
-        {
-          "text": "관계부처",
-          "count": 2
-        },
-        {
-          "text": "참정",
-          "count": 2
-        },
-        {
-          "text": "위협",
-          "count": 2
-        },
-        {
-          "text": "실시간",
-          "count": 2
-        },
-        {
-          "text": "김민재",
-          "count": 2
-        },
-        {
-          "text": "행정안전부",
-          "count": 2
-        },
-        {
-          "text": "실무회의",
-          "count": 2
-        },
-        {
-          "text": "윤호중",
-          "count": 2
-        },
-        {
-          "text": "정부서울청사",
-          "count": 2
-        },
-        {
-          "text": "기관",
-          "count": 2
-        },
-        {
-          "text": "간담회",
-          "count": 2
-        },
-        {
-          "text": "학교",
-          "count": 2
-        },
-        {
-          "text": "가정",
-          "count": 2
-        },
-        {
-          "text": "실효",
-          "count": 2
-        },
-        {
-          "text": "개인위치정보사업",
-          "count": 2
-        },
-        {
-          "text": "등록",
-          "count": 2
-        },
-        {
-          "text": "인가",
-          "count": 2
-        },
-        {
-          "text": "고시",
-          "count": 2
-        },
-        {
-          "text": "일부",
-          "count": 2
-        },
-        {
-          "text": "불법촬영물",
-          "count": 2
-        },
-        {
-          "text": "신고",
-          "count": 2
-        },
-        {
-          "text": "연속",
-          "count": 2
-        },
-        {
-          "text": "감소",
-          "count": 2
-        },
-        {
-          "text": "종합대책",
-          "count": 2
-        },
-        {
-          "text": "맞춤",
-          "count": 2
-        }
-      ]
-    },
     "opm": {
       "label": "국무조정실",
       "articleCount": 39,
@@ -16562,6 +15956,612 @@
         {
           "text": "복지",
           "count": 3
+        }
+      ]
+    },
+    "kmcc": {
+      "label": "방송미디어통신위원회",
+      "articleCount": 38,
+      "words": [
+        {
+          "text": "대응",
+          "count": 12
+        },
+        {
+          "text": "이사",
+          "count": 11
+        },
+        {
+          "text": "추천단체",
+          "count": 11
+        },
+        {
+          "text": "김종철",
+          "count": 10
+        },
+        {
+          "text": "인공지능",
+          "count": 9
+        },
+        {
+          "text": "공영방송",
+          "count": 9
+        },
+        {
+          "text": "선정",
+          "count": 9
+        },
+        {
+          "text": "이용자",
+          "count": 9
+        },
+        {
+          "text": "의결",
+          "count": 8
+        },
+        {
+          "text": "홈쇼핑",
+          "count": 8
+        },
+        {
+          "text": "허위",
+          "count": 7
+        },
+        {
+          "text": "온라인",
+          "count": 7
+        },
+        {
+          "text": "디지털윤리",
+          "count": 7
+        },
+        {
+          "text": "유료방송",
+          "count": 7
+        },
+        {
+          "text": "의견",
+          "count": 7
+        },
+        {
+          "text": "시각",
+          "count": 7
+        },
+        {
+          "text": "활력",
+          "count": 7
+        },
+        {
+          "text": "공모전",
+          "count": 6
+        },
+        {
+          "text": "사업자",
+          "count": 6
+        },
+        {
+          "text": "보호",
+          "count": 6
+        },
+        {
+          "text": "가입자",
+          "count": 6
+        },
+        {
+          "text": "가짜뉴스",
+          "count": 6
+        },
+        {
+          "text": "논의",
+          "count": 6
+        },
+        {
+          "text": "상생",
+          "count": 6
+        },
+        {
+          "text": "총력",
+          "count": 5
+        },
+        {
+          "text": "산업",
+          "count": 5
+        },
+        {
+          "text": "삭제",
+          "count": 5
+        },
+        {
+          "text": "아동",
+          "count": 5
+        },
+        {
+          "text": "청소년",
+          "count": 5
+        },
+        {
+          "text": "심사",
+          "count": 5
+        },
+        {
+          "text": "피해",
+          "count": 5
+        },
+        {
+          "text": "보이스피싱",
+          "count": 5
+        },
+        {
+          "text": "구독",
+          "count": 5
+        },
+        {
+          "text": "서비스",
+          "count": 5
+        },
+        {
+          "text": "안내서",
+          "count": 5
+        },
+        {
+          "text": "제고",
+          "count": 5
+        },
+        {
+          "text": "의약품",
+          "count": 4
+        },
+        {
+          "text": "서면심의",
+          "count": 4
+        },
+        {
+          "text": "신속",
+          "count": 4
+        },
+        {
+          "text": "정상",
+          "count": 4
+        },
+        {
+          "text": "출범",
+          "count": 4
+        },
+        {
+          "text": "방미통위",
+          "count": 4
+        },
+        {
+          "text": "확산",
+          "count": 4
+        },
+        {
+          "text": "콘텐츠",
+          "count": 4
+        },
+        {
+          "text": "디지털",
+          "count": 4
+        },
+        {
+          "text": "디지털크리에이터",
+          "count": 4
+        },
+        {
+          "text": "기업",
+          "count": 4
+        },
+        {
+          "text": "규모",
+          "count": 4
+        },
+        {
+          "text": "안건",
+          "count": 4
+        },
+        {
+          "text": "하반기",
+          "count": 4
+        },
+        {
+          "text": "합동",
+          "count": 4
+        },
+        {
+          "text": "주재",
+          "count": 4
+        },
+        {
+          "text": "학부모",
+          "count": 4
+        },
+        {
+          "text": "교사",
+          "count": 4
+        },
+        {
+          "text": "신종",
+          "count": 4
+        },
+        {
+          "text": "스캠범죄",
+          "count": 4
+        },
+        {
+          "text": "사항",
+          "count": 4
+        },
+        {
+          "text": "위반",
+          "count": 4
+        },
+        {
+          "text": "발간",
+          "count": 4
+        },
+        {
+          "text": "청각장애인",
+          "count": 4
+        },
+        {
+          "text": "접수",
+          "count": 4
+        },
+        {
+          "text": "과징금",
+          "count": 4
+        },
+        {
+          "text": "부과",
+          "count": 4
+        },
+        {
+          "text": "관계부처합동",
+          "count": 4
+        },
+        {
+          "text": "인공지능서비스",
+          "count": 4
+        },
+        {
+          "text": "제도개선",
+          "count": 4
+        },
+        {
+          "text": "광고",
+          "count": 3
+        },
+        {
+          "text": "국무회의",
+          "count": 3
+        },
+        {
+          "text": "가능",
+          "count": 3
+        },
+        {
+          "text": "침해",
+          "count": 3
+        },
+        {
+          "text": "이후",
+          "count": 3
+        },
+        {
+          "text": "시대",
+          "count": 3
+        },
+        {
+          "text": "의식",
+          "count": 3
+        },
+        {
+          "text": "창작콘텐츠",
+          "count": 3
+        },
+        {
+          "text": "학습",
+          "count": 3
+        },
+        {
+          "text": "제작",
+          "count": 3
+        },
+        {
+          "text": "유통",
+          "count": 3
+        },
+        {
+          "text": "참가",
+          "count": 3
+        },
+        {
+          "text": "방송통신발전기금",
+          "count": 3
+        },
+        {
+          "text": "한국",
+          "count": 3
+        },
+        {
+          "text": "인터넷멀티미디어방송",
+          "count": 3
+        },
+        {
+          "text": "종합유선방송",
+          "count": 3
+        },
+        {
+          "text": "청취",
+          "count": 3
+        },
+        {
+          "text": "실태",
+          "count": 3
+        },
+        {
+          "text": "사회관계망서비스",
+          "count": 3
+        },
+        {
+          "text": "기준",
+          "count": 3
+        },
+        {
+          "text": "법령",
+          "count": 3
+        },
+        {
+          "text": "규제",
+          "count": 3
+        },
+        {
+          "text": "이날",
+          "count": 3
+        },
+        {
+          "text": "티브이",
+          "count": 3
+        },
+        {
+          "text": "분리",
+          "count": 3
+        },
+        {
+          "text": "변경승인",
+          "count": 3
+        },
+        {
+          "text": "방송법",
+          "count": 3
+        },
+        {
+          "text": "생태",
+          "count": 3
+        },
+        {
+          "text": "과장광고",
+          "count": 2
+        },
+        {
+          "text": "차단",
+          "count": 2
+        },
+        {
+          "text": "식품",
+          "count": 2
+        },
+        {
+          "text": "화장품",
+          "count": 2
+        },
+        {
+          "text": "의료기기",
+          "count": 2
+        },
+        {
+          "text": "안전",
+          "count": 2
+        },
+        {
+          "text": "설치",
+          "count": 2
+        },
+        {
+          "text": "법률",
+          "count": 2
+        },
+        {
+          "text": "통신분야",
+          "count": 2
+        },
+        {
+          "text": "박차",
+          "count": 2
+        },
+        {
+          "text": "누적",
+          "count": 2
+        },
+        {
+          "text": "각종",
+          "count": 2
+        },
+        {
+          "text": "현안",
+          "count": 2
+        },
+        {
+          "text": "해소",
+          "count": 2
+        },
+        {
+          "text": "기조",
+          "count": 2
+        },
+        {
+          "text": "보고",
+          "count": 2
+        },
+        {
+          "text": "협업",
+          "count": 2
+        },
+        {
+          "text": "무대",
+          "count": 2
+        },
+        {
+          "text": "매칭",
+          "count": 2
+        },
+        {
+          "text": "계약",
+          "count": 2
+        },
+        {
+          "text": "상담",
+          "count": 2
+        },
+        {
+          "text": "심사위원회",
+          "count": 2
+        },
+        {
+          "text": "최종",
+          "count": 2
+        },
+        {
+          "text": "전체회의",
+          "count": 2
+        },
+        {
+          "text": "한국방송공사",
+          "count": 2
+        },
+        {
+          "text": "단체",
+          "count": 2
+        },
+        {
+          "text": "예산안",
+          "count": 2
+        },
+        {
+          "text": "운용계획안",
+          "count": 2
+        },
+        {
+          "text": "시장점유",
+          "count": 2
+        },
+        {
+          "text": "위성방송",
+          "count": 2
+        },
+        {
+          "text": "증가",
+          "count": 2
+        },
+        {
+          "text": "관계부처",
+          "count": 2
+        },
+        {
+          "text": "참정",
+          "count": 2
+        },
+        {
+          "text": "위협",
+          "count": 2
+        },
+        {
+          "text": "실시간",
+          "count": 2
+        },
+        {
+          "text": "김민재",
+          "count": 2
+        },
+        {
+          "text": "행정안전부",
+          "count": 2
+        },
+        {
+          "text": "실무회의",
+          "count": 2
+        },
+        {
+          "text": "윤호중",
+          "count": 2
+        },
+        {
+          "text": "정부서울청사",
+          "count": 2
+        },
+        {
+          "text": "기관",
+          "count": 2
+        },
+        {
+          "text": "간담회",
+          "count": 2
+        },
+        {
+          "text": "학교",
+          "count": 2
+        },
+        {
+          "text": "가정",
+          "count": 2
+        },
+        {
+          "text": "실효",
+          "count": 2
+        },
+        {
+          "text": "개인위치정보사업",
+          "count": 2
+        },
+        {
+          "text": "등록",
+          "count": 2
+        },
+        {
+          "text": "인가",
+          "count": 2
+        },
+        {
+          "text": "고시",
+          "count": 2
+        },
+        {
+          "text": "일부",
+          "count": 2
+        },
+        {
+          "text": "불법촬영물",
+          "count": 2
+        },
+        {
+          "text": "신고",
+          "count": 2
+        },
+        {
+          "text": "연속",
+          "count": 2
+        },
+        {
+          "text": "감소",
+          "count": 2
+        },
+        {
+          "text": "종합대책",
+          "count": 2
+        },
+        {
+          "text": "맞춤",
+          "count": 2
         }
       ]
     },
@@ -18385,15 +18385,15 @@
     },
     "mnd": {
       "label": "국방부",
-      "articleCount": 34,
+      "articleCount": 33,
       "words": [
         {
           "text": "국방부장관",
-          "count": 24
+          "count": 21
         },
         {
           "text": "안규백",
-          "count": 22
+          "count": 20
         },
         {
           "text": "한미",
@@ -18401,14 +18401,10 @@
         },
         {
           "text": "드론",
-          "count": 15
+          "count": 14
         },
         {
           "text": "우수",
-          "count": 11
-        },
-        {
-          "text": "장병",
           "count": 11
         },
         {
@@ -18417,6 +18413,10 @@
         },
         {
           "text": "업무협약",
+          "count": 10
+        },
+        {
+          "text": "장병",
           "count": 10
         },
         {
@@ -18445,10 +18445,6 @@
         },
         {
           "text": "양국",
-          "count": 8
-        },
-        {
-          "text": "방문",
           "count": 8
         },
         {
@@ -18500,7 +18496,7 @@
           "count": 6
         },
         {
-          "text": "점검",
+          "text": "방문",
           "count": 6
         },
         {
@@ -18612,10 +18608,6 @@
           "count": 5
         },
         {
-          "text": "특정경비지구",
-          "count": 5
-        },
-        {
           "text": "스웨덴",
           "count": 4
         },
@@ -18632,19 +18624,7 @@
           "count": 4
         },
         {
-          "text": "대비태세",
-          "count": 4
-        },
-        {
           "text": "교직원",
-          "count": 4
-        },
-        {
-          "text": "격려",
-          "count": 4
-        },
-        {
-          "text": "중요",
           "count": 4
         },
         {
@@ -18776,6 +18756,14 @@
           "count": 3
         },
         {
+          "text": "격려",
+          "count": 3
+        },
+        {
+          "text": "중요",
+          "count": 3
+        },
+        {
           "text": "제도",
           "count": 3
         },
@@ -18808,10 +18796,6 @@
           "count": 3
         },
         {
-          "text": "전략",
-          "count": 3
-        },
-        {
           "text": "양성",
           "count": 3
         },
@@ -18825,10 +18809,6 @@
         },
         {
           "text": "상호",
-          "count": 3
-        },
-        {
-          "text": "위협",
           "count": 3
         },
         {
@@ -18964,10 +18944,6 @@
           "count": 3
         },
         {
-          "text": "경호",
-          "count": 3
-        },
-        {
           "text": "청사",
           "count": 2
         },
@@ -18985,6 +18961,30 @@
         },
         {
           "text": "안보환경",
+          "count": 2
+        },
+        {
+          "text": "대비태세",
+          "count": 2
+        },
+        {
+          "text": "합동작전",
+          "count": 2
+        },
+        {
+          "text": "수행능력",
+          "count": 2
+        },
+        {
+          "text": "의지",
+          "count": 2
+        },
+        {
+          "text": "보육",
+          "count": 2
+        },
+        {
+          "text": "시스템",
           "count": 2
         }
       ]
@@ -20201,612 +20201,6 @@
         }
       ]
     },
-    "unikorea": {
-      "label": "통일부",
-      "articleCount": 26,
-      "words": [
-        {
-          "text": "한반도",
-          "count": 31
-        },
-        {
-          "text": "평화",
-          "count": 25
-        },
-        {
-          "text": "평화공존",
-          "count": 20
-        },
-        {
-          "text": "국정과제",
-          "count": 14
-        },
-        {
-          "text": "북향민",
-          "count": 13
-        },
-        {
-          "text": "하나원",
-          "count": 10
-        },
-        {
-          "text": "행사",
-          "count": 9
-        },
-        {
-          "text": "이산가족",
-          "count": 9
-        },
-        {
-          "text": "면담",
-          "count": 8
-        },
-        {
-          "text": "부이사관",
-          "count": 8
-        },
-        {
-          "text": "북한자료",
-          "count": 7
-        },
-        {
-          "text": "통일정책",
-          "count": 7
-        },
-        {
-          "text": "평화통일교육주간",
-          "count": 7
-        },
-        {
-          "text": "이재명",
-          "count": 7
-        },
-        {
-          "text": "정동영",
-          "count": 6
-        },
-        {
-          "text": "국립평화통일민주교육원",
-          "count": 6
-        },
-        {
-          "text": "노동신문",
-          "count": 6
-        },
-        {
-          "text": "피스트레인",
-          "count": 6
-        },
-        {
-          "text": "뮤직",
-          "count": 6
-        },
-        {
-          "text": "페스티벌",
-          "count": 6
-        },
-        {
-          "text": "청소년",
-          "count": 6
-        },
-        {
-          "text": "개관",
-          "count": 6
-        },
-        {
-          "text": "공개",
-          "count": 5
-        },
-        {
-          "text": "일일",
-          "count": 5
-        },
-        {
-          "text": "평화통일교사",
-          "count": 5
-        },
-        {
-          "text": "남북관계",
-          "count": 5
-        },
-        {
-          "text": "문제",
-          "count": 5
-        },
-        {
-          "text": "미래",
-          "count": 5
-        },
-        {
-          "text": "화천분소장",
-          "count": 5
-        },
-        {
-          "text": "청년",
-          "count": 5
-        },
-        {
-          "text": "남북회담본부",
-          "count": 5
-        },
-        {
-          "text": "호주",
-          "count": 5
-        },
-        {
-          "text": "아동",
-          "count": 5
-        },
-        {
-          "text": "대화",
-          "count": 5
-        },
-        {
-          "text": "남북통합문화센터",
-          "count": 5
-        },
-        {
-          "text": "자문위원회",
-          "count": 4
-        },
-        {
-          "text": "활동",
-          "count": 4
-        },
-        {
-          "text": "소통",
-          "count": 4
-        },
-        {
-          "text": "민주시민교육",
-          "count": 4
-        },
-        {
-          "text": "공동성장",
-          "count": 4
-        },
-        {
-          "text": "논의",
-          "count": 4
-        },
-        {
-          "text": "관심",
-          "count": 4
-        },
-        {
-          "text": "평화통일",
-          "count": 4
-        },
-        {
-          "text": "평화통일교육",
-          "count": 4
-        },
-        {
-          "text": "제도",
-          "count": 4
-        },
-        {
-          "text": "분단고통",
-          "count": 4
-        },
-        {
-          "text": "해소",
-          "count": 4
-        },
-        {
-          "text": "인도",
-          "count": 4
-        },
-        {
-          "text": "해결",
-          "count": 4
-        },
-        {
-          "text": "평화경제",
-          "count": 4
-        },
-        {
-          "text": "동탄호수공원",
-          "count": 4
-        },
-        {
-          "text": "평화온",
-          "count": 4
-        },
-        {
-          "text": "지역주민",
-          "count": 4
-        },
-        {
-          "text": "프로그램",
-          "count": 4
-        },
-        {
-          "text": "건강지원",
-          "count": 4
-        },
-        {
-          "text": "주민",
-          "count": 4
-        },
-        {
-          "text": "증진",
-          "count": 4
-        },
-        {
-          "text": "과장급",
-          "count": 4
-        },
-        {
-          "text": "인사발령",
-          "count": 4
-        },
-        {
-          "text": "인사",
-          "count": 4
-        },
-        {
-          "text": "대상자",
-          "count": 4
-        },
-        {
-          "text": "약력",
-          "count": 4
-        },
-        {
-          "text": "북한",
-          "count": 4
-        },
-        {
-          "text": "기자단",
-          "count": 4
-        },
-        {
-          "text": "유니콘",
-          "count": 4
-        },
-        {
-          "text": "법무부",
-          "count": 4
-        },
-        {
-          "text": "통일백서",
-          "count": 4
-        },
-        {
-          "text": "발간",
-          "count": 4
-        },
-        {
-          "text": "기록",
-          "count": 4
-        },
-        {
-          "text": "위로",
-          "count": 4
-        },
-        {
-          "text": "협업",
-          "count": 4
-        },
-        {
-          "text": "고석정",
-          "count": 4
-        },
-        {
-          "text": "격려",
-          "count": 4
-        },
-        {
-          "text": "착수보고회",
-          "count": 4
-        },
-        {
-          "text": "승진",
-          "count": 4
-        },
-        {
-          "text": "라비니아",
-          "count": 4
-        },
-        {
-          "text": "마이어",
-          "count": 4
-        },
-        {
-          "text": "음악회",
-          "count": 4
-        },
-        {
-          "text": "대국민",
-          "count": 3
-        },
-        {
-          "text": "김남중",
-          "count": 3
-        },
-        {
-          "text": "모교",
-          "count": 3
-        },
-        {
-          "text": "전주고등학교",
-          "count": 3
-        },
-        {
-          "text": "방문",
-          "count": 3
-        },
-        {
-          "text": "학생",
-          "count": 3
-        },
-        {
-          "text": "의회",
-          "count": 3
-        },
-        {
-          "text": "모델",
-          "count": 3
-        },
-        {
-          "text": "국민대",
-          "count": 3
-        },
-        {
-          "text": "이해",
-          "count": 3
-        },
-        {
-          "text": "화해",
-          "count": 3
-        },
-        {
-          "text": "정립",
-          "count": 3
-        },
-        {
-          "text": "공감",
-          "count": 3
-        },
-        {
-          "text": "출범",
-          "count": 3
-        },
-        {
-          "text": "동탄",
-          "count": 3
-        },
-        {
-          "text": "부스",
-          "count": 3
-        },
-        {
-          "text": "협력방안",
-          "count": 3
-        },
-        {
-          "text": "화천분소",
-          "count": 3
-        },
-        {
-          "text": "시리즈",
-          "count": 3
-        },
-        {
-          "text": "발대식",
-          "count": 3
-        },
-        {
-          "text": "단식",
-          "count": 3
-        },
-        {
-          "text": "씨앗",
-          "count": 3
-        },
-        {
-          "text": "공감대",
-          "count": 3
-        },
-        {
-          "text": "제고",
-          "count": 3
-        },
-        {
-          "text": "전문가",
-          "count": 3
-        },
-        {
-          "text": "정세",
-          "count": 3
-        },
-        {
-          "text": "간담회",
-          "count": 3
-        },
-        {
-          "text": "마음",
-          "count": 3
-        },
-        {
-          "text": "장애인",
-          "count": 3
-        },
-        {
-          "text": "진행",
-          "count": 3
-        },
-        {
-          "text": "초청",
-          "count": 3
-        },
-        {
-          "text": "전남지역",
-          "count": 3
-        },
-        {
-          "text": "음악",
-          "count": 3
-        },
-        {
-          "text": "가정",
-          "count": 3
-        },
-        {
-          "text": "남북",
-          "count": 3
-        },
-        {
-          "text": "유엔",
-          "count": 3
-        },
-        {
-          "text": "인권최고대표",
-          "count": 3
-        },
-        {
-          "text": "축제",
-          "count": 3
-        },
-        {
-          "text": "플랫폼",
-          "count": 3
-        },
-        {
-          "text": "상담센터",
-          "count": 3
-        },
-        {
-          "text": "마음숲",
-          "count": 3
-        },
-        {
-          "text": "중부",
-          "count": 3
-        },
-        {
-          "text": "전문",
-          "count": 3
-        },
-        {
-          "text": "하피스트",
-          "count": 3
-        },
-        {
-          "text": "희망",
-          "count": 3
-        },
-        {
-          "text": "전체회의",
-          "count": 2
-        },
-        {
-          "text": "발족",
-          "count": 2
-        },
-        {
-          "text": "정부서울청사",
-          "count": 2
-        },
-        {
-          "text": "회의실",
-          "count": 2
-        },
-        {
-          "text": "주재",
-          "count": 2
-        },
-        {
-          "text": "미래세대",
-          "count": 2
-        },
-        {
-          "text": "계기",
-          "count": 2
-        },
-        {
-          "text": "특강",
-          "count": 2
-        },
-        {
-          "text": "가치",
-          "count": 2
-        },
-        {
-          "text": "한반도관계대표단",
-          "count": 2
-        },
-        {
-          "text": "지속",
-          "count": 2
-        },
-        {
-          "text": "평가",
-          "count": 2
-        },
-        {
-          "text": "선도대학",
-          "count": 2
-        },
-        {
-          "text": "일환",
-          "count": 2
-        },
-        {
-          "text": "시작",
-          "count": 2
-        },
-        {
-          "text": "의미",
-          "count": 2
-        },
-        {
-          "text": "화천군수",
-          "count": 2
-        },
-        {
-          "text": "최문순",
-          "count": 2
-        },
-        {
-          "text": "지역사회",
-          "count": 2
-        },
-        {
-          "text": "전보",
-          "count": 2
-        },
-        {
-          "text": "베테랑",
-          "count": 2
-        },
-        {
-          "text": "연구자",
-          "count": 2
-        },
-        {
-          "text": "전환",
-          "count": 2
-        },
-        {
-          "text": "시각",
-          "count": 2
-        },
-        {
-          "text": "대북정책",
-          "count": 2
-        },
-        {
-          "text": "주한",
-          "count": 2
-        },
-        {
-          "text": "석좌",
-          "count": 2
-        }
-      ]
-    },
     "mpva": {
       "label": "국가보훈부",
       "articleCount": 25,
@@ -21229,6 +20623,612 @@
         },
         {
           "text": "의결",
+          "count": 2
+        }
+      ]
+    },
+    "unikorea": {
+      "label": "통일부",
+      "articleCount": 25,
+      "words": [
+        {
+          "text": "한반도",
+          "count": 31
+        },
+        {
+          "text": "평화",
+          "count": 25
+        },
+        {
+          "text": "평화공존",
+          "count": 20
+        },
+        {
+          "text": "국정과제",
+          "count": 14
+        },
+        {
+          "text": "북향민",
+          "count": 12
+        },
+        {
+          "text": "행사",
+          "count": 9
+        },
+        {
+          "text": "이산가족",
+          "count": 9
+        },
+        {
+          "text": "면담",
+          "count": 8
+        },
+        {
+          "text": "부이사관",
+          "count": 8
+        },
+        {
+          "text": "북한자료",
+          "count": 7
+        },
+        {
+          "text": "통일정책",
+          "count": 7
+        },
+        {
+          "text": "평화통일교육주간",
+          "count": 7
+        },
+        {
+          "text": "이재명",
+          "count": 7
+        },
+        {
+          "text": "정동영",
+          "count": 6
+        },
+        {
+          "text": "국립평화통일민주교육원",
+          "count": 6
+        },
+        {
+          "text": "노동신문",
+          "count": 6
+        },
+        {
+          "text": "피스트레인",
+          "count": 6
+        },
+        {
+          "text": "뮤직",
+          "count": 6
+        },
+        {
+          "text": "페스티벌",
+          "count": 6
+        },
+        {
+          "text": "청소년",
+          "count": 6
+        },
+        {
+          "text": "개관",
+          "count": 6
+        },
+        {
+          "text": "공개",
+          "count": 5
+        },
+        {
+          "text": "일일",
+          "count": 5
+        },
+        {
+          "text": "평화통일교사",
+          "count": 5
+        },
+        {
+          "text": "남북관계",
+          "count": 5
+        },
+        {
+          "text": "문제",
+          "count": 5
+        },
+        {
+          "text": "미래",
+          "count": 5
+        },
+        {
+          "text": "하나원",
+          "count": 5
+        },
+        {
+          "text": "화천분소장",
+          "count": 5
+        },
+        {
+          "text": "청년",
+          "count": 5
+        },
+        {
+          "text": "남북회담본부",
+          "count": 5
+        },
+        {
+          "text": "호주",
+          "count": 5
+        },
+        {
+          "text": "아동",
+          "count": 5
+        },
+        {
+          "text": "대화",
+          "count": 5
+        },
+        {
+          "text": "남북통합문화센터",
+          "count": 5
+        },
+        {
+          "text": "자문위원회",
+          "count": 4
+        },
+        {
+          "text": "활동",
+          "count": 4
+        },
+        {
+          "text": "소통",
+          "count": 4
+        },
+        {
+          "text": "민주시민교육",
+          "count": 4
+        },
+        {
+          "text": "공동성장",
+          "count": 4
+        },
+        {
+          "text": "논의",
+          "count": 4
+        },
+        {
+          "text": "관심",
+          "count": 4
+        },
+        {
+          "text": "평화통일",
+          "count": 4
+        },
+        {
+          "text": "평화통일교육",
+          "count": 4
+        },
+        {
+          "text": "제도",
+          "count": 4
+        },
+        {
+          "text": "분단고통",
+          "count": 4
+        },
+        {
+          "text": "해소",
+          "count": 4
+        },
+        {
+          "text": "인도",
+          "count": 4
+        },
+        {
+          "text": "해결",
+          "count": 4
+        },
+        {
+          "text": "평화경제",
+          "count": 4
+        },
+        {
+          "text": "동탄호수공원",
+          "count": 4
+        },
+        {
+          "text": "평화온",
+          "count": 4
+        },
+        {
+          "text": "지역주민",
+          "count": 4
+        },
+        {
+          "text": "프로그램",
+          "count": 4
+        },
+        {
+          "text": "건강지원",
+          "count": 4
+        },
+        {
+          "text": "주민",
+          "count": 4
+        },
+        {
+          "text": "증진",
+          "count": 4
+        },
+        {
+          "text": "과장급",
+          "count": 4
+        },
+        {
+          "text": "인사발령",
+          "count": 4
+        },
+        {
+          "text": "인사",
+          "count": 4
+        },
+        {
+          "text": "대상자",
+          "count": 4
+        },
+        {
+          "text": "약력",
+          "count": 4
+        },
+        {
+          "text": "북한",
+          "count": 4
+        },
+        {
+          "text": "기자단",
+          "count": 4
+        },
+        {
+          "text": "유니콘",
+          "count": 4
+        },
+        {
+          "text": "법무부",
+          "count": 4
+        },
+        {
+          "text": "통일백서",
+          "count": 4
+        },
+        {
+          "text": "발간",
+          "count": 4
+        },
+        {
+          "text": "기록",
+          "count": 4
+        },
+        {
+          "text": "협업",
+          "count": 4
+        },
+        {
+          "text": "고석정",
+          "count": 4
+        },
+        {
+          "text": "격려",
+          "count": 4
+        },
+        {
+          "text": "착수보고회",
+          "count": 4
+        },
+        {
+          "text": "승진",
+          "count": 4
+        },
+        {
+          "text": "대국민",
+          "count": 3
+        },
+        {
+          "text": "김남중",
+          "count": 3
+        },
+        {
+          "text": "모교",
+          "count": 3
+        },
+        {
+          "text": "전주고등학교",
+          "count": 3
+        },
+        {
+          "text": "학생",
+          "count": 3
+        },
+        {
+          "text": "의회",
+          "count": 3
+        },
+        {
+          "text": "모델",
+          "count": 3
+        },
+        {
+          "text": "국민대",
+          "count": 3
+        },
+        {
+          "text": "이해",
+          "count": 3
+        },
+        {
+          "text": "화해",
+          "count": 3
+        },
+        {
+          "text": "정립",
+          "count": 3
+        },
+        {
+          "text": "공감",
+          "count": 3
+        },
+        {
+          "text": "출범",
+          "count": 3
+        },
+        {
+          "text": "동탄",
+          "count": 3
+        },
+        {
+          "text": "부스",
+          "count": 3
+        },
+        {
+          "text": "협력방안",
+          "count": 3
+        },
+        {
+          "text": "화천분소",
+          "count": 3
+        },
+        {
+          "text": "시리즈",
+          "count": 3
+        },
+        {
+          "text": "발대식",
+          "count": 3
+        },
+        {
+          "text": "단식",
+          "count": 3
+        },
+        {
+          "text": "씨앗",
+          "count": 3
+        },
+        {
+          "text": "공감대",
+          "count": 3
+        },
+        {
+          "text": "제고",
+          "count": 3
+        },
+        {
+          "text": "전문가",
+          "count": 3
+        },
+        {
+          "text": "정세",
+          "count": 3
+        },
+        {
+          "text": "간담회",
+          "count": 3
+        },
+        {
+          "text": "마음",
+          "count": 3
+        },
+        {
+          "text": "장애인",
+          "count": 3
+        },
+        {
+          "text": "진행",
+          "count": 3
+        },
+        {
+          "text": "전남지역",
+          "count": 3
+        },
+        {
+          "text": "가정",
+          "count": 3
+        },
+        {
+          "text": "남북",
+          "count": 3
+        },
+        {
+          "text": "유엔",
+          "count": 3
+        },
+        {
+          "text": "인권최고대표",
+          "count": 3
+        },
+        {
+          "text": "축제",
+          "count": 3
+        },
+        {
+          "text": "플랫폼",
+          "count": 3
+        },
+        {
+          "text": "상담센터",
+          "count": 3
+        },
+        {
+          "text": "마음숲",
+          "count": 3
+        },
+        {
+          "text": "중부",
+          "count": 3
+        },
+        {
+          "text": "전문",
+          "count": 3
+        },
+        {
+          "text": "전체회의",
+          "count": 2
+        },
+        {
+          "text": "발족",
+          "count": 2
+        },
+        {
+          "text": "정부서울청사",
+          "count": 2
+        },
+        {
+          "text": "회의실",
+          "count": 2
+        },
+        {
+          "text": "주재",
+          "count": 2
+        },
+        {
+          "text": "미래세대",
+          "count": 2
+        },
+        {
+          "text": "계기",
+          "count": 2
+        },
+        {
+          "text": "특강",
+          "count": 2
+        },
+        {
+          "text": "방문",
+          "count": 2
+        },
+        {
+          "text": "가치",
+          "count": 2
+        },
+        {
+          "text": "한반도관계대표단",
+          "count": 2
+        },
+        {
+          "text": "지속",
+          "count": 2
+        },
+        {
+          "text": "평가",
+          "count": 2
+        },
+        {
+          "text": "선도대학",
+          "count": 2
+        },
+        {
+          "text": "일환",
+          "count": 2
+        },
+        {
+          "text": "의미",
+          "count": 2
+        },
+        {
+          "text": "화천군수",
+          "count": 2
+        },
+        {
+          "text": "최문순",
+          "count": 2
+        },
+        {
+          "text": "지역사회",
+          "count": 2
+        },
+        {
+          "text": "전보",
+          "count": 2
+        },
+        {
+          "text": "베테랑",
+          "count": 2
+        },
+        {
+          "text": "연구자",
+          "count": 2
+        },
+        {
+          "text": "전환",
+          "count": 2
+        },
+        {
+          "text": "시각",
+          "count": 2
+        },
+        {
+          "text": "대북정책",
+          "count": 2
+        },
+        {
+          "text": "석좌",
+          "count": 2
+        },
+        {
+          "text": "연구소",
+          "count": 2
+        },
+        {
+          "text": "교정시설",
+          "count": 2
+        },
+        {
+          "text": "메시지",
+          "count": 2
+        },
+        {
+          "text": "소년",
+          "count": 2
+        },
+        {
+          "text": "확산",
+          "count": 2
+        },
+        {
+          "text": "만델라",
+          "count": 2
+        },
+        {
+          "text": "소년학교",
+          "count": 2
+        },
+        {
+          "text": "컬러링북",
+          "count": 2
+        },
+        {
+          "text": "교육부",
+          "count": 2
+        },
+        {
+          "text": "다양",
           "count": 2
         }
       ]
