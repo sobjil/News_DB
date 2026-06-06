@@ -300,10 +300,19 @@ def main():
         time.sleep(INTER_REQUEST_SLEEP)
 
     # 3) merge — URL 기준 중복 제거 (신규 데이터 우선)
+    #    ★ 단, 기존 entry 의 첨부 추출 상태(attachments, _attFails)는 보존한다.
+    #    RSS item 은 attachments 필드가 없으므로 그대로 덮어쓰면, 아직 RSS 에 떠 있는
+    #    최근 기사는 매 run 첨부가 사라져(통째 교체) 영영 "수집 중" 으로 리셋되는 버그.
+    #    → 메타(title·desc·pubDate)는 새 RSS 로 갱신하되 첨부 상태만 이어받는다.
     merged = {}
     for a in existing:
         merged[a["url"]] = a
     for a in new_items:
+        prev = merged.get(a["url"])
+        if prev:
+            for k in ("attachments", "_attFails"):
+                if k in prev:
+                    a[k] = prev[k]
         merged[a["url"]] = a
 
     # 3.5) URL path 필터 — 보도자료 (pressReleaseView.do) 만 통과
