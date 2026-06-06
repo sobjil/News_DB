@@ -349,14 +349,18 @@ def main():
     if migrated:
         print(f"[migrate] hwpxUrl -> attachments 마이그레이션: {migrated} entry 재추출 대상")
 
-    # 5) 첨부 다중 추출 (hwpx/pdf/hwp) — attachments 필드 없는 entry 중 최신순 max N건
+    # 5) 첨부 다중 추출 (hwpx/pdf/hwp) — attachments 필드 없는 entry 중 max N건
     #    Cloudflare Workers fetch 는 korea.kr SSL 차단 (525) — 사전 추출이 유일한 길.
     #    이전 hwpxUrl 필드 → attachments 배열로 전환 (다중 첨부 지원, ext 다양화).
-    # 실패 적은 것 우선(아직 시도 안 한 것 먼저), 그다음 오래된 pending 우선 — backlog 가 영영 안 닿는 starvation 방지
-    need_atts = sorted(
-        [a for a in kept if "attachments" not in a],
-        key=lambda a: (a.get("_attFails", 0), a["pubDate"]),
-    )
+    # 우선순위: ① 아직 시도 안 한 것(_attFails 적은 순) ② 최신 보도자료 먼저.
+    #   뉴스 도구라 사용자가 보는 건 "이번 주" 보도자료 → 최신부터 채운다.
+    #   (오래된 것 먼저였던 band-aid 는 크롤이 korea.kr 차단으로 거의 안 돌 때의 starvation 방지용.
+    #    이제 프록시로 30건/run·120건/시간 처리 ≫ 신규 ~100건/일 이라 starvation 없음 → 최신 우선이 맞음.
+    #    backlog 도 16시간이면 전부 닿고, 30일 retention 안에서 소진됨.)
+    # 안정정렬 2단계: 최신순(desc) 정렬 후 _attFails 로 안정정렬 → 각 _attFails 그룹 안에서 최신 우선 유지.
+    need_atts = [a for a in kept if "attachments" not in a]
+    need_atts.sort(key=lambda a: a["pubDate"], reverse=True)   # ② 최신 보도자료 먼저
+    need_atts.sort(key=lambda a: a.get("_attFails", 0))        # ① 시도 안 한 것 먼저(안정)
     batch = need_atts[:HWPX_URL_BATCH_PER_RUN]
     att_found = 0    # 최소 1개 이상 첨부 있는 entry
     att_none = 0     # 첨부 0개
