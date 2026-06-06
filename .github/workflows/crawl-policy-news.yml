@@ -1,13 +1,12 @@
 name: Crawl Korea.kr Press Releases
 
-# 10분마다 자동 크롤 (PUBLIC repo 라 GitHub Actions 무제한 무료)
-# 실제 변경이 있는 cron 만 commit 발생 (idempotent — 빈도 ↑ 부담 X)
-# GitHub Actions cron 은 5~15분 지연 가능 (best effort)
-# 수동 실행도 가능 (Actions 탭의 [Run workflow] 버튼)
+# 트리거(2026-06-06): 종전 GitHub schedule(*/10) + AISpace(30분) 이중 트리거 →
+#   run 들이 겹쳐서 (a) korea.kr 502 버스트(동시 다발 요청 throttle) (b) push 충돌
+#   (non-fast-forward) 빈발. → schedule 제거하고 AISpace(항상 켜짐, server.js)가
+#   15분마다 단독 트리거. cancel-in-progress:false + run 3~4분 → 겹침 X = 충돌 X.
+#   실제 변경 있을 때만 commit (idempotent). 수동 실행도 가능([Run workflow]).
 on:
-  schedule:
-    - cron: '*/10 * * * *'   # 10분마다
-  workflow_dispatch: {}      # 수동 트리거
+  workflow_dispatch: {}      # 수동 + AISpace workflow_dispatch 트리거
 
 permissions:
   contents: write           # data/articles.json auto-commit 위해 필요
@@ -52,4 +51,12 @@ jobs:
           fi
           COUNT=$(python -c "import json; print(json.load(open('data/articles.json','r',encoding='utf-8'))['count'])")
           git commit -m "chore(crawl): articles.json 자동 갱신 — ${COUNT}건 (UTC $(date -u +%Y-%m-%dT%H:%MZ))"
-          git push
+          # 만약 다른 push(스냅샷/AI 워크플로 등)가 먼저 들어와 non-fast-forward 면 최신 받아
+          # rebase(생성 파일은 ours 우선) 후 재시도. 단독 트리거라 충돌은 드물지만 안전망.
+          for i in 1 2 3 4 5; do
+            if git push; then echo "push 성공 (시도 $i)"; exit 0; fi
+            echo "push 거부 — pull --rebase(ours) 후 재시도 ($i/5)"
+            git pull --rebase -X ours origin main || true
+          done
+          echo "push 5회 실패" >&2
+          exit 1
