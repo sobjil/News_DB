@@ -4,9 +4,12 @@ name: stock-portfolio-snapshot
 # News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
 # 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio.yml 에 둔다.
 # 필요 시크릿(News_DB 저장소에 등록): STOCK_PORTFOLIO_PAT, FINNHUB_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+#
+# 트리거(2026-06-06): GitHub schedule(*/15) 의 throttling 으로 1~3시간 지연되어 가격 알림이
+#   늦게 오던 문제 → schedule 제거. AISpace(항상 켜진 server.js)가 15분마다 workflow_dispatch
+#   로 정시 트리거(지연 X). 장기 스냅샷은 슬롯(08:00/20:00 KST)당 하루 1회 idempotent,
+#   알림은 concurrency 로 순차 실행 → 중복 트리거 안전.
 on:
-  schedule:
-    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       test_telegram:
