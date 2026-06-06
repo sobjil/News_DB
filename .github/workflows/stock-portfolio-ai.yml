@@ -4,11 +4,15 @@ name: stock-portfolio-ai-report
 # News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
 # 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio-ai.yml 에 둔다.
 # 필요 시크릿(News_DB 저장소): STOCK_PORTFOLIO_PAT, GEMINI_API_KEY_1..5 (+ FINNHUB_TOKEN 선택)
-# 스케줄: UTC 월~금 23:37 = KST 화~토 08:37 (일·월요일 휴장이라 제외). 스크립트가 토요일=주간, 월초=월간 리포트도 생성.
-# (분을 :37 로 둔 이유 = ① 매시 정각 직후(:00~:10) GitHub 스케줄 혼잡대를 피하고 ② 매 15분(:00/:15/:30/:45) 스냅샷 cron 과도 겹치지 않게 해 push 충돌·지연·스킵을 줄임)
+# 스케줄: KST 화~토 06:30/07:00/07:30 에 여러 번 시도(일·월요일 휴장 제외).
+#   GitHub Actions cron 은 정시 보장이 아니라 1~3시간 지연될 수 있어, 이른 시각에 여러 번 트리거하고
+#   ai-reports.mjs 가 "오늘 이미 생성했으면 건너뛰기"(idempotent) 처리 → 가장 일찍 실행된 트리거가 생성, 나머지는 스킵.
+#   목표: 오전 7~8시 사이 생성. (UTC 월~금 21:30/22:00/22:30 = KST 화~토 06:30/07:00/07:30, 미국 장마감 후라 데이터 OK)
 on:
   schedule:
-    - cron: "37 23 * * 1-5"
+    - cron: "30 21 * * 1-5"
+    - cron: "0 22 * * 1-5"
+    - cron: "30 22 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:
