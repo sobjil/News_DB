@@ -114,7 +114,8 @@ INTER_REQUEST_SLEEP = 0.5  # 부처 간 / hwpxUrl fetch 간 딜레이 (rate limi
 DESCRIPTION_MAX = 300      # description 길이 한도 (메타만 유지 원칙)
 # 매 run 마다 본문 페이지 fetch 해서 hwpxUrl 추출하는 최대 건수.
 # 점진 처리 — 한 번에 너무 많이 안 받고 cron 마다 N건씩 쌓음 (사이트 부담 ↓ + workflow timeout 안전망).
-HWPX_URL_BATCH_PER_RUN = 10
+HWPX_URL_BATCH_PER_RUN = 30
+ATT_MAX_FAILS = 5          # 첨부 fetch 실패 시 재시도 한도(초과하면 첨부없음으로 확정)
 # korea.kr 의 RSS 에는 보도자료 + 정책뉴스 + 사실은 + 카드뉴스 등 4가지 카테고리가 섞여 있음.
 # WeeklyBrief 사용자는 '보도자료' 만 필요 (HWPX 첨부 + 정부 공식 발표 패턴).
 # URL path 로 구분 — /briefing/pressReleaseView.do 만 통과.
@@ -196,17 +197,17 @@ def fetch_attachments_for_article(article_url):
     try:
         with urlopen(req, timeout=REQUEST_TIMEOUT) as r:
             if r.status != 200:
-                return []
+                return None
             html = r.read().decode("utf-8", errors="ignore")
     except HTTPError as e:
         print(f"    [WARN] hwpxUrl HTTP {e.code}", file=sys.stderr)
-        return []
+        return None
     except URLError as e:
         print(f"    [WARN] 첨부 URLError: {e.reason}", file=sys.stderr)
-        return []
+        return None
     except Exception as e:
         print(f"    [WARN] 첨부 추출 실패: {e}", file=sys.stderr)
-        return []
+        return None
     return extract_attachments(html, article_url)
 
 def fetch_rss(code, name):
@@ -321,10 +322,10 @@ def main():
     # 5) 첨부 다중 추출 (hwpx/pdf/hwp) — attachments 필드 없는 entry 중 최신순 max N건
     #    Cloudflare Workers fetch 는 korea.kr SSL 차단 (525) — 사전 추출이 유일한 길.
     #    이전 hwpxUrl 필드 → attachments 배열로 전환 (다중 첨부 지원, ext 다양화).
+    # 실패 적은 것 우선(아직 시도 안 한 것 먼저), 그다음 오래된 pending 우선 — backlog 가 영영 안 닿는 starvation 방지
     need_atts = sorted(
         [a for a in kept if "attachments" not in a],
-        key=lambda a: a["pubDate"],
-        reverse=True,
+        key=lambda a: (a.get("_attFails", 0), a["pubDate"]),
     )
     batch = need_atts[:HWPX_URL_BATCH_PER_RUN]
     att_found = 0    # 최소 1개 이상 첨부 있는 entry
@@ -334,7 +335,13 @@ def main():
         print(f"\n[attachments] 추출 {len(batch)} of {len(need_atts)} pending")
         for i, a in enumerate(batch, 1):
             atts = fetch_attachments_for_article(a["url"])
-            a["attachments"] = atts  # 빈 리스트도 박아둠 (재시도 안 함)
+            if atts is None:
+                # fetch 실패(차단/timeout) — pending 유지하고 다음 실행에 재시도. 한도 초과 시 포기(첨부없음).
+                a["_attFails"] = a.get("_attFails", 0) + 1
+                if a["_attFails"] >= ATT_MAX_FAILS:
+                    a["attachments"] = []; a.pop("_attFails", None); att_none += 1
+                time.sleep(INTER_REQUEST_SLEEP); continue
+            a["attachments"] = atts; a.pop("_attFails", None)
             if atts:
                 att_found += 1
                 for x in atts:
