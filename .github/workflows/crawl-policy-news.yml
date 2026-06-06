@@ -33,6 +33,12 @@ jobs:
           python-version: '3.11'
 
       - name: Run korea.kr crawler
+        # korea.kr 은 GitHub 미국 IP 를 SSL handshake timeout 으로 막는다.
+        # AISpace(한국 IP) 프록시 경유로 우회 — KOREA_PROXY_URL 은 공개 URL(비밀 X),
+        # KOREA_PROXY_KEY 는 선택(설정 시 프록시 인증, 미설정이면 allowlist 만으로 동작).
+        env:
+          KOREA_PROXY_URL: https://sobjil-gdi-apps.mycafe24.ai/api/proxy/korea
+          KOREA_PROXY_KEY: ${{ secrets.KOREA_PROXY_KEY }}
         run: python .github/scripts/crawl_korea_kr.py
 
       - name: Commit & push articles.json (if changed)
