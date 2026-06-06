@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:36:42.457974+00:00",
+  "updated": "2026-06-06T09:51:23.792024+00:00",
   "count": 2252,
   "retentionDays": 30,
   "agencies": [
@@ -17591,7 +17591,19 @@
       "agency": "식품의약품안전처",
       "agencyCode": "mfds",
       "pubDate": "2026-05-11T00:05:56+00:00",
-      "description": "식약처, 마약 성분 의심 해외직구 식품 정기 검사로 안전망 강화 [자료제공 : (www.korea.kr) ]"
+      "description": "식약처, 마약 성분 의심 해외직구 식품 정기 검사로 안전망 강화 [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198456699&tblKey=GMN",
+          "filename": "5.11 수입유통안전과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198456698&tblKey=GMN",
+          "filename": "5.11 수입유통안전과.pdf"
+        }
+      ]
     },
     {
       "title": "[보도참고] 식약처, '26년 의약품 특허대응전략 컨설팅 지원 사업 실시",
