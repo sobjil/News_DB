@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T05:59:10.926974+00:00",
-  "count": 2270,
+  "updated": "2026-06-06T06:04:17.281866+00:00",
+  "count": 2269,
   "retentionDays": 30,
   "agencies": [
     "개인정보보호위원회",
@@ -19073,7 +19073,18 @@
       "agencyCode": "mpva",
       "pubDate": "2026-05-07T06:23:05+00:00",
       "description": "정부 무연고 전사자 전수조사로 국가유공자 지정 등 추진 ※ 자세한 사항은 붙임의 보도자료를 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
-      "_attFails": 1
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198454726&tblKey=GMN",
+          "filename": "260507 관계부처 합동 보도자료(정부 무연고 전사자 전수조사로 국가유공자 지정 등 추진)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198454727&tblKey=GMN",
+          "filename": "260507 관계부처 합동 보도자료(정부 무연고 전사자 전수조사로 국가유공자 지정 등 추진)최종.pdf"
+        }
+      ]
     },
     {
       "title": "제15회 변호사시험 합격자 및 경력법조인 출신 총 134명 신임검사 임관식 개최",
@@ -19107,46 +19118,6 @@
           "ext": "hwpx",
           "url": "https://www.korea.kr/common/download.do?fileId=198453617&tblKey=GMN",
           "filename": "260507 (국방부 보도자료) 제7기 국방부 혁신어벤져스 및 제3기 2030청년자문단 합동발대식_게시.hwpx"
-        }
-      ]
-    },
-    {
-      "title": "중기부 1,2차관, ｢모두의 창업｣ 청년 창업 열기 확산 위해 전국 누빈다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156760257&call_from=rsslink",
-      "agency": "중소벤처기업부",
-      "agencyCode": "mss",
-      "pubDate": "2026-05-07T05:58:29+00:00",
-      "description": "중소벤처기업부(이하 중기부)는 「모두의 창업」 프로젝트 확산을 위해 노용석 중기부 제1차관과 이병권 중기부 제2차관이 각각 현장을 방문해 청년들과 소통을 이어가고 있다고 밝혔다. 먼저, 노용석 중기부 제1차관은 5월 7일(수) 광주과학기술원(이하 GIST)을 방문했다. GIST는 인공지능, 반도체 등 첨단기술 분야의 우수한 연구성과를 바탕으로 기술 창업과 연구성과 사업화가 활발한 이공계 특성화 대학이다. 노용석 중기부 제1차관은 기술창업에 관심 있는 학생들과 간담회를 갖고, 창업 준비 과정에서의 애로사항과 정책 개선 의견을 청취했다",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198453571&tblKey=GMN",
-          "filename": "260508_중기부_1,2차관,_｢모두의_창업｣_청년_창업_열기_확산_위해_전국_누빈다.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198453572&tblKey=GMN",
-          "filename": "260508_중기부_1,2차관,_｢모두의_창업｣_청년_창업_열기_확산_위해_전국_누빈다.pdf"
-        }
-      ]
-    },
-    {
-      "title": "제15회 변호사시험 합격자 및 경력법조인 출신 총 134명 신임검사 임관식 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156760254&call_from=rsslink",
-      "agency": "법무부",
-      "agencyCode": "moj",
-      "pubDate": "2026-05-07T05:56:11+00:00",
-      "description": "제15회 변호사시험 합격자 및 경력법조인 출신 총 134명 신임검사 임관식 개최 - 제15회 변호사시험 합격자 86명 및 경력법조인 48명 신임검사 임용 - 법무부(장관 정성호)는 2026. 5. 7.(목) 10:00 제15회 변호사시험 합격자 86명 및 경력법조인 출신 48명 등 총 134명을 검사로 임용하고 임관식을 거행하였습니다. [※ 상세내용 첨부파일 참조] [자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198453560&tblKey=GMN",
-          "filename": "(보도자료) 제15회 변호사시험 합격자 및 경력법조인 출신 총 134명 신임검사 임관식 개최 (배포즉시보도).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198453559&tblKey=GMN",
-          "filename": "(보도자료) 제15회 변호사시험 합격자 및 경력법조인 출신 총 134명 신임검사 임관식 개최 (배포즉시보도).pdf"
         }
       ]
     }
