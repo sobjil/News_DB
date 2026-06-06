@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:06:26.255353+00:00",
+  "updated": "2026-06-06T09:21:11.772705+00:00",
   "count": 2252,
   "retentionDays": 30,
   "agencies": [
@@ -17607,7 +17607,19 @@
       "agency": "식품의약품안전처",
       "agencyCode": "mfds",
       "pubDate": "2026-05-11T00:05:09+00:00",
-      "description": "(보도참고) 안전한 어린이 의약정보 홍보 캠페인, '의약품안전나라'에서 참여하세요 [자료제공 : (www.korea.kr) ]"
+      "description": "(보도참고) 안전한 어린이 의약정보 홍보 캠페인, '의약품안전나라'에서 참여하세요 [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198456705&tblKey=GMN",
+          "filename": "5.11 (보도참고) 바이오의약품정책과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198456704&tblKey=GMN",
+          "filename": "5.11 (보도참고) 바이오의약품정책과.pdf"
+        }
+      ]
     },
     {
       "title": "[보도참고] 식약처, 신약 등 의료제품 허가·심사 혁신방안(안) 마련·의견수렴",
