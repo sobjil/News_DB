@@ -4,17 +4,17 @@ name: stock-portfolio-ai-report
 # News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
 # 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio-ai.yml 에 둔다.
 # 필요 시크릿(News_DB 저장소): STOCK_PORTFOLIO_PAT, GEMINI_API_KEY_1..5 (+ FINNHUB_TOKEN 선택)
-# 스케줄: KST 화~토 06:30/07:00/07:30 에 여러 번 시도(일·월요일 휴장 제외).
-#   GitHub Actions cron 은 정시 보장이 아니라 1~3시간 지연될 수 있어, 이른 시각에 여러 번 트리거하고
-#   ai-reports.mjs 가 "오늘 이미 생성했으면 건너뛰기"(idempotent) 처리 → 가장 일찍 실행된 트리거가 생성, 나머지는 스킵.
-#   목표: 오전 7~8시 사이 생성. (UTC 월~금 21:30/22:00/22:30 = KST 화~토 06:30/07:00/07:30, 미국 장마감 후라 데이터 OK)
+# 트리거: AISpace(항상 켜진 server.js)가 workflow_dispatch 로 정시 호출(지연 X). schedule cron 미사용.
+#   - mode=us_portfolio : KST 07:00 (미국 종목 리포트 + 포트폴리오/주간/월간). 화~토(스크립트가 일·월 휴장 판단)
+#   - mode=krhk         : KST 19:00 (한국·홍콩 종목 리포트). 월~금(스크립트가 토·일 휴장 판단)
+#   ai-reports.mjs 가 모드별 idempotent 처리(오늘 이미 실행 시 스킵).
 on:
-  schedule:
-    - cron: "30 21 * * 1-5"
-    - cron: "0 22 * * 1-5"
-    - cron: "30 22 * * 1-5"
   workflow_dispatch:
     inputs:
+      mode:
+        description: "us_portfolio(미국+포트폴리오) / krhk(한국·홍콩) / all"
+        type: string
+        default: us_portfolio
       dry_run:
         description: "수집 데이터만 출력(Gemini 호출 X)"
         type: boolean
@@ -66,6 +66,7 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
           AI_DRY_RUN: ${{ inputs.dry_run }}
+          AI_MODE: ${{ inputs.mode }}
         run: node scripts/ai-reports.mjs
 
       - name: Commit & push back
