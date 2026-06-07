@@ -7,7 +7,7 @@ import fs from 'fs';
 const AGENCIES = ['농림축산식품부', '해양수산부', '행정안전부', '기후에너지환경부', '기상청', '산림청'];
 const KEYS = [1, 2, 3, 4, 5].map(i => process.env['GEMINI_API_KEY_' + i]).filter(Boolean);
 const MODELS = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
-const RETAIN_DAYS = 7, MAX_NEW = 14;
+const RETAIN_DAYS = 7, MAX_CALLS = 40;
 // AI의 direction → 게임 이벤트 kind(engine/events.js가 효과 수치 매핑)
 const DIR_KIND = { 지원금: '지원금', 판매가상승: '시세호재', 판매가하락: '시세악재', 비용증가: '시세악재', 재해: '재해', 중립: '중립' };
 const EMOJI = { 지원금: '💰', 시세호재: '🌾', 시세악재: '🥀', 재해: '🌀', 중립: '📰' };
@@ -40,7 +40,7 @@ const cutoff = Date.now() - RETAIN_DAYS * 86400000;
 // 기존 풀 로드 + 7일 지난 것 제거
 let pool = [];
 try { pool = JSON.parse(fs.readFileSync('data/farmstory-events.json', 'utf8')).events || []; } catch { }
-pool = pool.filter(e => ts(e.pubDate) >= cutoff);
+pool = pool.filter(e => ts(e.pubDate) >= cutoff && e.scope !== '무관'); // 7일 보존 + 농장 무관 제거
 const have = new Set(pool.map(e => e.id));
 
 // 농업 관련 부처 + 최근 7일 + 아직 분류 안 한 것 (최신순)
@@ -50,9 +50,9 @@ const cand = articles
 
 if (!KEYS.length) { console.error('GEMINI_API_KEY 없음 — 분류 생략(기존 풀 유지)'); }
 
-let added = 0;
+let added = 0, calls = 0;
 for (const a of cand) {
-  if (added >= MAX_NEW || !KEYS.length) break;
+  if (calls >= MAX_CALLS || !KEYS.length) break;
   const prompt = `당신은 '경북 귀농 농장 경영 게임'의 이벤트 작가입니다.
 아래 정부 보도자료가 플레이어의 농장(농사·축산·어업·가공·직판)에 줄 영향을 분류하세요.
 
@@ -64,10 +64,12 @@ for (const a of cand) {
 {"sector":"농사|축산|어업|가공|직판|전체|무관","direction":"지원금|판매가상승|판매가하락|비용증가|재해|중립","strength":"약|중|강","flavor":"이 정책이 내 농장에 반영된 모습을 친근한 1문장(예: 우리 농장에도 정착지원금이 들어왔어요!)"}
 규칙: 농업·수산·임업·농촌·재해·기상과 무관하면 sector=무관·direction=중립. 보도자료 내용에 근거(환각 금지). flavor는 한국어 한 문장.`;
   const cl = await gemini(prompt);
+  calls++;
   if (!cl) continue;
+  const scope = ['농사', '축산', '어업', '가공', '직판', '전체', '무관'].includes(cl.sector) ? cl.sector : '전체';
+  if (scope === '무관') continue; // 농장과 무관한 정책은 게임에 안 띄움(밋밋 방지)
   const kind = DIR_KIND[cl.direction] || '중립';
   const strength = ['약', '중', '강'].includes(cl.strength) ? cl.strength : '중';
-  const scope = ['농사', '축산', '어업', '가공', '직판', '전체', '무관'].includes(cl.sector) ? cl.sector : '전체';
   pool.push({
     id: idOf(a), agency: a.agency, title: a.title, url: a.url, pubDate: a.pubDate,
     scope, kind, strength, emoji: EMOJI[kind] || '📰',
