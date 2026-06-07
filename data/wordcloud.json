@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T18:27:44.093260+09:00",
-  "totalArticles": 2226,
+  "generated": "2026-06-07T18:45:13.034953+09:00",
+  "totalArticles": 2227,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2226,
+      "articleCount": 2227,
       "words": [
         {
           "text": "대응",
@@ -176,6 +176,10 @@
           "count": 133
         },
         {
+          "text": "체결",
+          "count": 132
+        },
+        {
           "text": "이승돈",
           "count": 132
         },
@@ -190,10 +194,6 @@
         {
           "text": "이후",
           "count": 131
-        },
-        {
-          "text": "체결",
-          "count": 130
         },
         {
           "text": "환경",
@@ -22461,6 +22461,448 @@
         }
       ]
     },
+    "nts": {
+      "label": "국세청",
+      "articleCount": 19,
+      "words": [
+        {
+          "text": "체납관리단",
+          "count": 6
+        },
+        {
+          "text": "신고",
+          "count": 6
+        },
+        {
+          "text": "라이베리아",
+          "count": 4
+        },
+        {
+          "text": "정보교환",
+          "count": 4
+        },
+        {
+          "text": "징수공조",
+          "count": 4
+        },
+        {
+          "text": "고액체납자",
+          "count": 4
+        },
+        {
+          "text": "국세청장",
+          "count": 4
+        },
+        {
+          "text": "준비상황",
+          "count": 4
+        },
+        {
+          "text": "점검",
+          "count": 4
+        },
+        {
+          "text": "발급",
+          "count": 4
+        },
+        {
+          "text": "세무조사",
+          "count": 4
+        },
+        {
+          "text": "공익법인",
+          "count": 4
+        },
+        {
+          "text": "동시",
+          "count": 4
+        },
+        {
+          "text": "채용",
+          "count": 4
+        },
+        {
+          "text": "체결",
+          "count": 2
+        },
+        {
+          "text": "재산",
+          "count": 2
+        },
+        {
+          "text": "요청",
+          "count": 2
+        },
+        {
+          "text": "중부청",
+          "count": 2
+        },
+        {
+          "text": "격려",
+          "count": 2
+        },
+        {
+          "text": "세무서",
+          "count": 2
+        },
+        {
+          "text": "해외자산",
+          "count": 2
+        },
+        {
+          "text": "작년",
+          "count": 2
+        },
+        {
+          "text": "보유",
+          "count": 2
+        },
+        {
+          "text": "해외금융계좌",
+          "count": 2
+        },
+        {
+          "text": "해외신탁",
+          "count": 2
+        },
+        {
+          "text": "유료",
+          "count": 2
+        },
+        {
+          "text": "인증서",
+          "count": 2
+        },
+        {
+          "text": "세금",
+          "count": 2
+        },
+        {
+          "text": "계산서",
+          "count": 2
+        },
+        {
+          "text": "서울대학교",
+          "count": 2
+        },
+        {
+          "text": "국세행정",
+          "count": 2
+        },
+        {
+          "text": "유튜브",
+          "count": 2
+        },
+        {
+          "text": "절세",
+          "count": 2
+        },
+        {
+          "text": "꿀팁",
+          "count": 2
+        },
+        {
+          "text": "상속",
+          "count": 2
+        },
+        {
+          "text": "증여세",
+          "count": 2
+        },
+        {
+          "text": "오해",
+          "count": 2
+        },
+        {
+          "text": "진실",
+          "count": 2
+        },
+        {
+          "text": "배포",
+          "count": 2
+        },
+        {
+          "text": "슈퍼카",
+          "count": 2
+        },
+        {
+          "text": "탈세",
+          "count": 2
+        },
+        {
+          "text": "근절",
+          "count": 2
+        },
+        {
+          "text": "법인소유",
+          "count": 2
+        },
+        {
+          "text": "차량",
+          "count": 2
+        },
+        {
+          "text": "사용",
+          "count": 2
+        },
+        {
+          "text": "혐의",
+          "count": 2
+        },
+        {
+          "text": "세무관서장",
+          "count": 2
+        },
+        {
+          "text": "한자리",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "가동",
+          "count": 2
+        },
+        {
+          "text": "우리",
+          "count": 2
+        },
+        {
+          "text": "아시아",
+          "count": 2
+        },
+        {
+          "text": "최대",
+          "count": 2
+        },
+        {
+          "text": "무대",
+          "count": 2
+        },
+        {
+          "text": "깃발",
+          "count": 2
+        },
+        {
+          "text": "영수증",
+          "count": 2
+        },
+        {
+          "text": "현금영수증",
+          "count": 2
+        },
+        {
+          "text": "숏폼",
+          "count": 2
+        },
+        {
+          "text": "공모전",
+          "count": 2
+        },
+        {
+          "text": "실태",
+          "count": 2
+        },
+        {
+          "text": "분석",
+          "count": 2
+        },
+        {
+          "text": "연차보고서",
+          "count": 2
+        },
+        {
+          "text": "최초",
+          "count": 2
+        },
+        {
+          "text": "발간",
+          "count": 2
+        },
+        {
+          "text": "국민성장펀드",
+          "count": 2
+        },
+        {
+          "text": "가입",
+          "count": 2
+        },
+        {
+          "text": "필수",
+          "count": 2
+        },
+        {
+          "text": "서류",
+          "count": 2
+        },
+        {
+          "text": "대출규제",
+          "count": 2
+        },
+        {
+          "text": "현금부자",
+          "count": 2
+        },
+        {
+          "text": "시세차익",
+          "count": 2
+        },
+        {
+          "text": "다주택자",
+          "count": 2
+        },
+        {
+          "text": "부동산",
+          "count": 2
+        },
+        {
+          "text": "탈세혐의자",
+          "count": 2
+        },
+        {
+          "text": "자금형성과정",
+          "count": 2
+        },
+        {
+          "text": "검증",
+          "count": 2
+        },
+        {
+          "text": "해외진출",
+          "count": 2
+        },
+        {
+          "text": "중소기업",
+          "count": 2
+        },
+        {
+          "text": "세무지원",
+          "count": 2
+        },
+        {
+          "text": "지방국세청",
+          "count": 2
+        },
+        {
+          "text": "산업단지",
+          "count": 2
+        },
+        {
+          "text": "세무강연회",
+          "count": 2
+        },
+        {
+          "text": "야구장",
+          "count": 2
+        },
+        {
+          "text": "응원",
+          "count": 2
+        },
+        {
+          "text": "식물원",
+          "count": 2
+        },
+        {
+          "text": "미술관",
+          "count": 2
+        },
+        {
+          "text": "나들이",
+          "count": 2
+        },
+        {
+          "text": "세금포인트",
+          "count": 2
+        },
+        {
+          "text": "힐링포인트",
+          "count": 2
+        },
+        {
+          "text": "강원",
+          "count": 2
+        },
+        {
+          "text": "제주",
+          "count": 2
+        },
+        {
+          "text": "전국단위",
+          "count": 2
+        },
+        {
+          "text": "근로자",
+          "count": 2
+        },
+        {
+          "text": "체납",
+          "count": 2
+        },
+        {
+          "text": "실태확인",
+          "count": 2
+        },
+        {
+          "text": "외국상공회의소",
+          "count": 2
+        },
+        {
+          "text": "합동",
+          "count": 2
+        },
+        {
+          "text": "간담회",
+          "count": 2
+        },
+        {
+          "text": "연말정산",
+          "count": 2
+        },
+        {
+          "text": "공제",
+          "count": 2
+        },
+        {
+          "text": "실수",
+          "count": 2
+        },
+        {
+          "text": "종합소득세",
+          "count": 2
+        },
+        {
+          "text": "해결",
+          "count": 2
+        },
+        {
+          "text": "임광현",
+          "count": 2
+        },
+        {
+          "text": "유럽",
+          "count": 2
+        },
+        {
+          "text": "체납세금",
+          "count": 2
+        },
+        {
+          "text": "신속",
+          "count": 2
+        },
+        {
+          "text": "합의",
+          "count": 2
+        },
+        {
+          "text": "논의",
+          "count": 2
+        }
+      ]
+    },
     "dapa": {
       "label": "방위사업청",
       "articleCount": 19,
@@ -23063,428 +23505,6 @@
         },
         {
           "text": "인정",
-          "count": 2
-        }
-      ]
-    },
-    "nts": {
-      "label": "국세청",
-      "articleCount": 18,
-      "words": [
-        {
-          "text": "체납관리단",
-          "count": 6
-        },
-        {
-          "text": "신고",
-          "count": 6
-        },
-        {
-          "text": "국세청장",
-          "count": 4
-        },
-        {
-          "text": "준비상황",
-          "count": 4
-        },
-        {
-          "text": "점검",
-          "count": 4
-        },
-        {
-          "text": "발급",
-          "count": 4
-        },
-        {
-          "text": "세무조사",
-          "count": 4
-        },
-        {
-          "text": "공익법인",
-          "count": 4
-        },
-        {
-          "text": "동시",
-          "count": 4
-        },
-        {
-          "text": "채용",
-          "count": 4
-        },
-        {
-          "text": "중부청",
-          "count": 2
-        },
-        {
-          "text": "격려",
-          "count": 2
-        },
-        {
-          "text": "세무서",
-          "count": 2
-        },
-        {
-          "text": "해외자산",
-          "count": 2
-        },
-        {
-          "text": "작년",
-          "count": 2
-        },
-        {
-          "text": "보유",
-          "count": 2
-        },
-        {
-          "text": "해외금융계좌",
-          "count": 2
-        },
-        {
-          "text": "해외신탁",
-          "count": 2
-        },
-        {
-          "text": "유료",
-          "count": 2
-        },
-        {
-          "text": "인증서",
-          "count": 2
-        },
-        {
-          "text": "세금",
-          "count": 2
-        },
-        {
-          "text": "계산서",
-          "count": 2
-        },
-        {
-          "text": "서울대학교",
-          "count": 2
-        },
-        {
-          "text": "국세행정",
-          "count": 2
-        },
-        {
-          "text": "유튜브",
-          "count": 2
-        },
-        {
-          "text": "절세",
-          "count": 2
-        },
-        {
-          "text": "꿀팁",
-          "count": 2
-        },
-        {
-          "text": "상속",
-          "count": 2
-        },
-        {
-          "text": "증여세",
-          "count": 2
-        },
-        {
-          "text": "오해",
-          "count": 2
-        },
-        {
-          "text": "진실",
-          "count": 2
-        },
-        {
-          "text": "배포",
-          "count": 2
-        },
-        {
-          "text": "슈퍼카",
-          "count": 2
-        },
-        {
-          "text": "탈세",
-          "count": 2
-        },
-        {
-          "text": "근절",
-          "count": 2
-        },
-        {
-          "text": "법인소유",
-          "count": 2
-        },
-        {
-          "text": "차량",
-          "count": 2
-        },
-        {
-          "text": "사용",
-          "count": 2
-        },
-        {
-          "text": "혐의",
-          "count": 2
-        },
-        {
-          "text": "세무관서장",
-          "count": 2
-        },
-        {
-          "text": "한자리",
-          "count": 2
-        },
-        {
-          "text": "본격",
-          "count": 2
-        },
-        {
-          "text": "가동",
-          "count": 2
-        },
-        {
-          "text": "우리",
-          "count": 2
-        },
-        {
-          "text": "아시아",
-          "count": 2
-        },
-        {
-          "text": "최대",
-          "count": 2
-        },
-        {
-          "text": "무대",
-          "count": 2
-        },
-        {
-          "text": "깃발",
-          "count": 2
-        },
-        {
-          "text": "영수증",
-          "count": 2
-        },
-        {
-          "text": "현금영수증",
-          "count": 2
-        },
-        {
-          "text": "숏폼",
-          "count": 2
-        },
-        {
-          "text": "공모전",
-          "count": 2
-        },
-        {
-          "text": "실태",
-          "count": 2
-        },
-        {
-          "text": "분석",
-          "count": 2
-        },
-        {
-          "text": "연차보고서",
-          "count": 2
-        },
-        {
-          "text": "최초",
-          "count": 2
-        },
-        {
-          "text": "발간",
-          "count": 2
-        },
-        {
-          "text": "국민성장펀드",
-          "count": 2
-        },
-        {
-          "text": "가입",
-          "count": 2
-        },
-        {
-          "text": "필수",
-          "count": 2
-        },
-        {
-          "text": "서류",
-          "count": 2
-        },
-        {
-          "text": "대출규제",
-          "count": 2
-        },
-        {
-          "text": "현금부자",
-          "count": 2
-        },
-        {
-          "text": "시세차익",
-          "count": 2
-        },
-        {
-          "text": "다주택자",
-          "count": 2
-        },
-        {
-          "text": "부동산",
-          "count": 2
-        },
-        {
-          "text": "탈세혐의자",
-          "count": 2
-        },
-        {
-          "text": "자금형성과정",
-          "count": 2
-        },
-        {
-          "text": "검증",
-          "count": 2
-        },
-        {
-          "text": "해외진출",
-          "count": 2
-        },
-        {
-          "text": "중소기업",
-          "count": 2
-        },
-        {
-          "text": "세무지원",
-          "count": 2
-        },
-        {
-          "text": "지방국세청",
-          "count": 2
-        },
-        {
-          "text": "산업단지",
-          "count": 2
-        },
-        {
-          "text": "세무강연회",
-          "count": 2
-        },
-        {
-          "text": "야구장",
-          "count": 2
-        },
-        {
-          "text": "응원",
-          "count": 2
-        },
-        {
-          "text": "식물원",
-          "count": 2
-        },
-        {
-          "text": "미술관",
-          "count": 2
-        },
-        {
-          "text": "나들이",
-          "count": 2
-        },
-        {
-          "text": "세금포인트",
-          "count": 2
-        },
-        {
-          "text": "힐링포인트",
-          "count": 2
-        },
-        {
-          "text": "강원",
-          "count": 2
-        },
-        {
-          "text": "제주",
-          "count": 2
-        },
-        {
-          "text": "전국단위",
-          "count": 2
-        },
-        {
-          "text": "근로자",
-          "count": 2
-        },
-        {
-          "text": "체납",
-          "count": 2
-        },
-        {
-          "text": "실태확인",
-          "count": 2
-        },
-        {
-          "text": "외국상공회의소",
-          "count": 2
-        },
-        {
-          "text": "합동",
-          "count": 2
-        },
-        {
-          "text": "간담회",
-          "count": 2
-        },
-        {
-          "text": "연말정산",
-          "count": 2
-        },
-        {
-          "text": "공제",
-          "count": 2
-        },
-        {
-          "text": "실수",
-          "count": 2
-        },
-        {
-          "text": "종합소득세",
-          "count": 2
-        },
-        {
-          "text": "해결",
-          "count": 2
-        },
-        {
-          "text": "임광현",
-          "count": 2
-        },
-        {
-          "text": "유럽",
-          "count": 2
-        },
-        {
-          "text": "체납세금",
-          "count": 2
-        },
-        {
-          "text": "징수공조",
-          "count": 2
-        },
-        {
-          "text": "신속",
-          "count": 2
-        },
-        {
-          "text": "합의",
-          "count": 2
-        },
-        {
-          "text": "고액체납자",
-          "count": 2
-        },
-        {
-          "text": "논의",
           "count": 2
         }
       ]
