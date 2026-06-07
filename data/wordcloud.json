@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T14:26:57.596977+09:00",
-  "totalArticles": 2231,
+  "generated": "2026-06-07T14:42:50.823629+09:00",
+  "totalArticles": 2230,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2231,
+      "articleCount": 2230,
       "words": [
         {
           "text": "대응",
@@ -17,7 +17,7 @@
         },
         {
           "text": "점검",
-          "count": 358
+          "count": 357
         },
         {
           "text": "인공지능",
@@ -512,16 +512,16 @@
           "count": 81
         },
         {
-          "text": "신규",
-          "count": 79
-        },
-        {
           "text": "감소",
           "count": 79
         },
         {
           "text": "생태",
           "count": 79
+        },
+        {
+          "text": "신규",
+          "count": 78
         },
         {
           "text": "모색",
@@ -628,10 +628,6 @@
           "count": 71
         },
         {
-          "text": "접수",
-          "count": 71
-        },
-        {
           "text": "사례",
           "count": 71
         },
@@ -648,7 +644,7 @@
           "count": 70
         },
         {
-          "text": "국민권익위",
+          "text": "접수",
           "count": 70
         },
         {
@@ -665,6 +661,10 @@
         },
         {
           "text": "차단",
+          "count": 69
+        },
+        {
+          "text": "국민권익위",
           "count": 69
         },
         {
@@ -17173,11 +17173,11 @@
     },
     "acrc": {
       "label": "국민권익위원회",
-      "articleCount": 34,
+      "articleCount": 33,
       "words": [
         {
           "text": "정일연",
-          "count": 33
+          "count": 32
         },
         {
           "text": "지급",
@@ -17185,7 +17185,7 @@
         },
         {
           "text": "민원",
-          "count": 16
+          "count": 15
         },
         {
           "text": "지방정부",
@@ -17260,10 +17260,6 @@
           "count": 6
         },
         {
-          "text": "제도개선",
-          "count": 6
-        },
-        {
           "text": "권고",
           "count": 6
         },
@@ -17313,6 +17309,10 @@
         },
         {
           "text": "장려금",
+          "count": 5
+        },
+        {
+          "text": "제도개선",
           "count": 5
         },
         {
@@ -17552,10 +17552,6 @@
           "count": 4
         },
         {
-          "text": "정상",
-          "count": 4
-        },
-        {
           "text": "각계",
           "count": 3
         },
@@ -17773,6 +17769,10 @@
         },
         {
           "text": "산업현장",
+          "count": 3
+        },
+        {
+          "text": "지정",
           "count": 3
         }
       ]
