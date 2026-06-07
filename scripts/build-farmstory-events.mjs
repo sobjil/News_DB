@@ -40,7 +40,7 @@ const cutoff = Date.now() - RETAIN_DAYS * 86400000;
 // 기존 풀 로드 + 7일 지난 것 제거
 let pool = [];
 try { pool = JSON.parse(fs.readFileSync('data/farmstory-events.json', 'utf8')).events || []; } catch { }
-pool = pool.filter(e => ts(e.pubDate) >= cutoff && e.scope !== '무관'); // 7일 보존 + 농장 무관 제거
+pool = pool.filter(e => ts(e.pubDate) >= cutoff); // 7일 보존(무관도 보존해 재분류 방지 — 게임이 표시 단계에서 제외)
 const have = new Set(pool.map(e => e.id));
 
 // 농업 관련 부처 + 최근 7일 + 아직 분류 안 한 것 (최신순)
@@ -67,14 +67,13 @@ for (const a of cand) {
   calls++;
   if (!cl) continue;
   const scope = ['농사', '축산', '어업', '가공', '직판', '전체', '무관'].includes(cl.sector) ? cl.sector : '전체';
-  if (scope === '무관') continue; // 농장과 무관한 정책은 게임에 안 띄움(밋밋 방지)
   const kind = DIR_KIND[cl.direction] || '중립';
   const strength = ['약', '중', '강'].includes(cl.strength) ? cl.strength : '중';
   pool.push({
     id: idOf(a), agency: a.agency, title: a.title, url: a.url, pubDate: a.pubDate,
     scope, kind, strength, emoji: EMOJI[kind] || '📰',
     flavor: String(cl.flavor || '').slice(0, 120),
-    weight: kind === '중립' ? 2 : 5
+    weight: scope === '무관' ? 1 : (kind === '중립' ? 2 : 5) // 무관은 게임이 거름(weight 무의미)
   });
   added++;
 }
