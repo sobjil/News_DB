@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T10:00:46.272148+09:00",
-  "totalArticles": 2239,
+  "generated": "2026-06-07T10:22:22.165683+09:00",
+  "totalArticles": 2238,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2239,
+      "articleCount": 2238,
       "words": [
         {
           "text": "대응",
@@ -241,7 +241,7 @@
         },
         {
           "text": "사항",
-          "count": 120
+          "count": 119
         },
         {
           "text": "행정안전부",
@@ -276,15 +276,15 @@
           "count": 112
         },
         {
-          "text": "청소년",
-          "count": 112
-        },
-        {
           "text": "연계",
           "count": 111
         },
         {
           "text": "상황",
+          "count": 110
+        },
+        {
+          "text": "청소년",
           "count": 110
         },
         {
@@ -20203,11 +20203,11 @@
     },
     "mpva": {
       "label": "국가보훈부",
-      "articleCount": 26,
+      "articleCount": 25,
       "words": [
         {
           "text": "사항",
-          "count": 26
+          "count": 25
         },
         {
           "text": "거행",
@@ -20239,14 +20239,6 @@
         },
         {
           "text": "인도",
-          "count": 4
-        },
-        {
-          "text": "국외",
-          "count": 4
-        },
-        {
-          "text": "보훈사적지",
           "count": 4
         },
         {
@@ -20578,6 +20570,14 @@
           "count": 2
         },
         {
+          "text": "국외",
+          "count": 2
+        },
+        {
+          "text": "보훈사적지",
+          "count": 2
+        },
+        {
           "text": "보존관리",
           "count": 2
         },
@@ -20639,18 +20639,6 @@
         },
         {
           "text": "개시",
-          "count": 2
-        },
-        {
-          "text": "청소년",
-          "count": 2
-        },
-        {
-          "text": "답사단",
-          "count": 2
-        },
-        {
-          "text": "발대",
           "count": 2
         }
       ]
