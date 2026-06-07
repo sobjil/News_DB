@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T13:39:40.069544+09:00",
-  "totalArticles": 2236,
+  "generated": "2026-06-07T13:50:11.959474+09:00",
+  "totalArticles": 2234,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2236,
+      "articleCount": 2234,
       "words": [
         {
           "text": "대응",
@@ -145,15 +145,15 @@
         },
         {
           "text": "진행",
-          "count": 152
-        },
-        {
-          "text": "주재",
-          "count": 150
+          "count": 151
         },
         {
           "text": "교육",
           "count": 150
+        },
+        {
+          "text": "주재",
+          "count": 149
         },
         {
           "text": "외교부",
@@ -288,10 +288,6 @@
           "count": 111
         },
         {
-          "text": "조사",
-          "count": 109
-        },
-        {
           "text": "농림축산식품부",
           "count": 109
         },
@@ -328,11 +324,11 @@
           "count": 103
         },
         {
-          "text": "해양수산부",
+          "text": "조사",
           "count": 103
         },
         {
-          "text": "법무부",
+          "text": "해양수산부",
           "count": 103
         },
         {
@@ -341,6 +337,10 @@
         },
         {
           "text": "피해",
+          "count": 102
+        },
+        {
+          "text": "법무부",
           "count": 102
         },
         {
@@ -516,10 +516,6 @@
           "count": 79
         },
         {
-          "text": "조치",
-          "count": 79
-        },
-        {
           "text": "감소",
           "count": 79
         },
@@ -566,6 +562,10 @@
         {
           "text": "시장",
           "count": 77
+        },
+        {
+          "text": "조치",
+          "count": 76
         },
         {
           "text": "제품",
@@ -680,10 +680,6 @@
           "count": 68
         },
         {
-          "text": "해결",
-          "count": 67
-        },
-        {
           "text": "디지털",
           "count": 67
         },
@@ -713,6 +709,10 @@
         },
         {
           "text": "관계부처",
+          "count": 65
+        },
+        {
+          "text": "해결",
           "count": 65
         },
         {
@@ -12325,15 +12325,15 @@
     },
     "moj": {
       "label": "법무부",
-      "articleCount": 45,
+      "articleCount": 44,
       "words": [
         {
           "text": "정성호",
-          "count": 35
+          "count": 34
         },
         {
           "text": "참조",
-          "count": 32
+          "count": 31
         },
         {
           "text": "마약",
@@ -12560,14 +12560,6 @@
           "count": 5
         },
         {
-          "text": "만델라",
-          "count": 5
-        },
-        {
-          "text": "소년학교",
-          "count": 5
-        },
-        {
           "text": "해법",
           "count": 5
         },
@@ -12756,10 +12748,6 @@
           "count": 4
         },
         {
-          "text": "검정고시",
-          "count": 4
-        },
-        {
           "text": "희생",
           "count": 3
         },
@@ -12793,10 +12781,6 @@
         },
         {
           "text": "관계부처",
-          "count": 3
-        },
-        {
-          "text": "역사",
           "count": 3
         },
         {
@@ -12925,6 +12909,22 @@
         },
         {
           "text": "집중",
+          "count": 3
+        },
+        {
+          "text": "통과",
+          "count": 3
+        },
+        {
+          "text": "전환",
+          "count": 3
+        },
+        {
+          "text": "가속",
+          "count": 3
+        },
+        {
+          "text": "이후",
           "count": 3
         }
       ]
@@ -23067,612 +23067,6 @@
         }
       ]
     },
-    "oka": {
-      "label": "재외동포청",
-      "articleCount": 18,
-      "words": [
-        {
-          "text": "민원",
-          "count": 20
-        },
-        {
-          "text": "김경협",
-          "count": 15
-        },
-        {
-          "text": "입양동포",
-          "count": 12
-        },
-        {
-          "text": "모국",
-          "count": 11
-        },
-        {
-          "text": "서울",
-          "count": 9
-        },
-        {
-          "text": "행사",
-          "count": 9
-        },
-        {
-          "text": "중국동포",
-          "count": 7
-        },
-        {
-          "text": "조치",
-          "count": 6
-        },
-        {
-          "text": "연결",
-          "count": 6
-        },
-        {
-          "text": "러시아",
-          "count": 6
-        },
-        {
-          "text": "국민연금",
-          "count": 6
-        },
-        {
-          "text": "상담",
-          "count": 6
-        },
-        {
-          "text": "조사",
-          "count": 6
-        },
-        {
-          "text": "출범",
-          "count": 5
-        },
-        {
-          "text": "해결",
-          "count": 5
-        },
-        {
-          "text": "최태성",
-          "count": 5
-        },
-        {
-          "text": "차세대",
-          "count": 5
-        },
-        {
-          "text": "평화교육",
-          "count": 5
-        },
-        {
-          "text": "업무협약",
-          "count": 5
-        },
-        {
-          "text": "체결",
-          "count": 5
-        },
-        {
-          "text": "시작",
-          "count": 5
-        },
-        {
-          "text": "동포사회",
-          "count": 5
-        },
-        {
-          "text": "거주",
-          "count": 5
-        },
-        {
-          "text": "후속",
-          "count": 5
-        },
-        {
-          "text": "사할린동포",
-          "count": 5
-        },
-        {
-          "text": "가정",
-          "count": 5
-        },
-        {
-          "text": "최재형",
-          "count": 5
-        },
-        {
-          "text": "금융위임장",
-          "count": 5
-        },
-        {
-          "text": "총회",
-          "count": 5
-        },
-        {
-          "text": "목소리",
-          "count": 4
-        },
-        {
-          "text": "홍보대사",
-          "count": 4
-        },
-        {
-          "text": "평화",
-          "count": 4
-        },
-        {
-          "text": "확산",
-          "count": 4
-        },
-        {
-          "text": "이후",
-          "count": 4
-        },
-        {
-          "text": "인천",
-          "count": 4
-        },
-        {
-          "text": "본격",
-          "count": 4
-        },
-        {
-          "text": "불편",
-          "count": 4
-        },
-        {
-          "text": "참가",
-          "count": 4
-        },
-        {
-          "text": "상대회",
-          "count": 4
-        },
-        {
-          "text": "중심",
-          "count": 4
-        },
-        {
-          "text": "한인회",
-          "count": 4
-        },
-        {
-          "text": "세계한인입양동포대회",
-          "count": 4
-        },
-        {
-          "text": "리더",
-          "count": 4
-        },
-        {
-          "text": "귀환",
-          "count": 4
-        },
-        {
-          "text": "연해주",
-          "count": 4
-        },
-        {
-          "text": "한인사회",
-          "count": 4
-        },
-        {
-          "text": "독립운동가",
-          "count": 4
-        },
-        {
-          "text": "선생",
-          "count": 4
-        },
-        {
-          "text": "서비스",
-          "count": 4
-        },
-        {
-          "text": "이야기",
-          "count": 4
-        },
-        {
-          "text": "온라인",
-          "count": 3
-        },
-        {
-          "text": "간담회",
-          "count": 3
-        },
-        {
-          "text": "기념행사",
-          "count": 3
-        },
-        {
-          "text": "출신",
-          "count": 3
-        },
-        {
-          "text": "큰별쌤",
-          "count": 3
-        },
-        {
-          "text": "한반도",
-          "count": 3
-        },
-        {
-          "text": "민주평통",
-          "count": 3
-        },
-        {
-          "text": "일부",
-          "count": 3
-        },
-        {
-          "text": "장소",
-          "count": 3
-        },
-        {
-          "text": "진행",
-          "count": 3
-        },
-        {
-          "text": "후속조치",
-          "count": 3
-        },
-        {
-          "text": "건의사항",
-          "count": 3
-        },
-        {
-          "text": "바이어",
-          "count": 3
-        },
-        {
-          "text": "세계한상대회",
-          "count": 3
-        },
-        {
-          "text": "강연",
-          "count": 3
-        },
-        {
-          "text": "참석",
-          "count": 3
-        },
-        {
-          "text": "이날",
-          "count": 3
-        },
-        {
-          "text": "지속",
-          "count": 3
-        },
-        {
-          "text": "후손",
-          "count": 3
-        },
-        {
-          "text": "중국동포단체",
-          "count": 3
-        },
-        {
-          "text": "대림동",
-          "count": 3
-        },
-        {
-          "text": "설명회",
-          "count": 3
-        },
-        {
-          "text": "처리",
-          "count": 3
-        },
-        {
-          "text": "방문",
-          "count": 3
-        },
-        {
-          "text": "공감",
-          "count": 3
-        },
-        {
-          "text": "전자",
-          "count": 3
-        },
-        {
-          "text": "국제우편",
-          "count": 3
-        },
-        {
-          "text": "은행",
-          "count": 3
-        },
-        {
-          "text": "초대",
-          "count": 3
-        },
-        {
-          "text": "하경서",
-          "count": 3
-        },
-        {
-          "text": "바다",
-          "count": 2
-        },
-        {
-          "text": "건너",
-          "count": 2
-        },
-        {
-          "text": "포럼",
-          "count": 2
-        },
-        {
-          "text": "의견",
-          "count": 2
-        },
-        {
-          "text": "산다라",
-          "count": 2
-        },
-        {
-          "text": "위촉",
-          "count": 2
-        },
-        {
-          "text": "산다라박",
-          "count": 2
-        },
-        {
-          "text": "역사",
-          "count": 2
-        },
-        {
-          "text": "연수구",
-          "count": 2
-        },
-        {
-          "text": "수여",
-          "count": 2
-        },
-        {
-          "text": "활성",
-          "count": 2
-        },
-        {
-          "text": "체험",
-          "count": 2
-        },
-        {
-          "text": "민주평화통일자문회의",
-          "count": 2
-        },
-        {
-          "text": "입장",
-          "count": 2
-        },
-        {
-          "text": "규모",
-          "count": 2
-        },
-        {
-          "text": "해소",
-          "count": 2
-        },
-        {
-          "text": "인증",
-          "count": 2
-        },
-        {
-          "text": "주재",
-          "count": 2
-        },
-        {
-          "text": "재중한국인간담회",
-          "count": 2
-        },
-        {
-          "text": "협의",
-          "count": 2
-        },
-        {
-          "text": "대기",
-          "count": 2
-        },
-        {
-          "text": "중소기업",
-          "count": 2
-        },
-        {
-          "text": "진출",
-          "count": 2
-        },
-        {
-          "text": "급행열차",
-          "count": 2
-        },
-        {
-          "text": "등록",
-          "count": 2
-        },
-        {
-          "text": "대표",
-          "count": 2
-        },
-        {
-          "text": "연대",
-          "count": 2
-        },
-        {
-          "text": "조직",
-          "count": 2
-        },
-        {
-          "text": "소통",
-          "count": 2
-        },
-        {
-          "text": "연합회",
-          "count": 2
-        },
-        {
-          "text": "한인공동체",
-          "count": 2
-        },
-        {
-          "text": "중요",
-          "count": 2
-        },
-        {
-          "text": "구성원",
-          "count": 2
-        },
-        {
-          "text": "요청",
-          "count": 2
-        },
-        {
-          "text": "파주",
-          "count": 2
-        },
-        {
-          "text": "동행",
-          "count": 2
-        },
-        {
-          "text": "단체",
-          "count": 2
-        },
-        {
-          "text": "과정",
-          "count": 2
-        },
-        {
-          "text": "함박마을",
-          "count": 2
-        },
-        {
-          "text": "제기",
-          "count": 2
-        },
-        {
-          "text": "모국방문",
-          "count": 2
-        },
-        {
-          "text": "입국",
-          "count": 2
-        },
-        {
-          "text": "문화",
-          "count": 2
-        },
-        {
-          "text": "방문자",
-          "count": 2
-        },
-        {
-          "text": "이웃",
-          "count": 2
-        },
-        {
-          "text": "온정",
-          "count": 2
-        },
-        {
-          "text": "취약가정",
-          "count": 2
-        },
-        {
-          "text": "생필품",
-          "count": 2
-        },
-        {
-          "text": "마음연합총회",
-          "count": 2
-        },
-        {
-          "text": "어려움",
-          "count": 2
-        },
-        {
-          "text": "나눔",
-          "count": 2
-        },
-        {
-          "text": "이달",
-          "count": 2
-        },
-        {
-          "text": "선정",
-          "count": 2
-        },
-        {
-          "text": "재외공관",
-          "count": 2
-        },
-        {
-          "text": "디지털",
-          "count": 2
-        },
-        {
-          "text": "영사인증",
-          "count": 2
-        },
-        {
-          "text": "누적",
-          "count": 2
-        },
-        {
-          "text": "조회",
-          "count": 2
-        },
-        {
-          "text": "돌파",
-          "count": 2
-        },
-        {
-          "text": "현지",
-          "count": 2
-        },
-        {
-          "text": "콘텐츠",
-          "count": 2
-        },
-        {
-          "text": "정보",
-          "count": 2
-        },
-        {
-          "text": "임명",
-          "count": 2
-        },
-        {
-          "text": "엘살바도르",
-          "count": 2
-        },
-        {
-          "text": "카이사",
-          "count": 2
-        },
-        {
-          "text": "그룹",
-          "count": 2
-        },
-        {
-          "text": "문턱",
-          "count": 2
-        },
-        {
-          "text": "국민연금공단",
-          "count": 2
-        },
-        {
-          "text": "보장",
-          "count": 2
-        },
-        {
-          "text": "공유",
-          "count": 1
-        }
-      ]
-    },
     "nts": {
       "label": "국세청",
       "articleCount": 18,
@@ -24092,6 +23486,612 @@
         {
           "text": "논의",
           "count": 2
+        }
+      ]
+    },
+    "oka": {
+      "label": "재외동포청",
+      "articleCount": 17,
+      "words": [
+        {
+          "text": "김경협",
+          "count": 14
+        },
+        {
+          "text": "민원",
+          "count": 12
+        },
+        {
+          "text": "입양동포",
+          "count": 12
+        },
+        {
+          "text": "모국",
+          "count": 11
+        },
+        {
+          "text": "서울",
+          "count": 9
+        },
+        {
+          "text": "행사",
+          "count": 9
+        },
+        {
+          "text": "중국동포",
+          "count": 7
+        },
+        {
+          "text": "연결",
+          "count": 6
+        },
+        {
+          "text": "러시아",
+          "count": 6
+        },
+        {
+          "text": "국민연금",
+          "count": 6
+        },
+        {
+          "text": "상담",
+          "count": 6
+        },
+        {
+          "text": "출범",
+          "count": 5
+        },
+        {
+          "text": "최태성",
+          "count": 5
+        },
+        {
+          "text": "차세대",
+          "count": 5
+        },
+        {
+          "text": "평화교육",
+          "count": 5
+        },
+        {
+          "text": "업무협약",
+          "count": 5
+        },
+        {
+          "text": "체결",
+          "count": 5
+        },
+        {
+          "text": "시작",
+          "count": 5
+        },
+        {
+          "text": "거주",
+          "count": 5
+        },
+        {
+          "text": "사할린동포",
+          "count": 5
+        },
+        {
+          "text": "가정",
+          "count": 5
+        },
+        {
+          "text": "최재형",
+          "count": 5
+        },
+        {
+          "text": "금융위임장",
+          "count": 5
+        },
+        {
+          "text": "총회",
+          "count": 5
+        },
+        {
+          "text": "목소리",
+          "count": 4
+        },
+        {
+          "text": "홍보대사",
+          "count": 4
+        },
+        {
+          "text": "평화",
+          "count": 4
+        },
+        {
+          "text": "확산",
+          "count": 4
+        },
+        {
+          "text": "이후",
+          "count": 4
+        },
+        {
+          "text": "인천",
+          "count": 4
+        },
+        {
+          "text": "본격",
+          "count": 4
+        },
+        {
+          "text": "동포사회",
+          "count": 4
+        },
+        {
+          "text": "불편",
+          "count": 4
+        },
+        {
+          "text": "참가",
+          "count": 4
+        },
+        {
+          "text": "상대회",
+          "count": 4
+        },
+        {
+          "text": "중심",
+          "count": 4
+        },
+        {
+          "text": "한인회",
+          "count": 4
+        },
+        {
+          "text": "세계한인입양동포대회",
+          "count": 4
+        },
+        {
+          "text": "리더",
+          "count": 4
+        },
+        {
+          "text": "귀환",
+          "count": 4
+        },
+        {
+          "text": "연해주",
+          "count": 4
+        },
+        {
+          "text": "한인사회",
+          "count": 4
+        },
+        {
+          "text": "독립운동가",
+          "count": 4
+        },
+        {
+          "text": "선생",
+          "count": 4
+        },
+        {
+          "text": "서비스",
+          "count": 4
+        },
+        {
+          "text": "이야기",
+          "count": 4
+        },
+        {
+          "text": "온라인",
+          "count": 3
+        },
+        {
+          "text": "간담회",
+          "count": 3
+        },
+        {
+          "text": "해결",
+          "count": 3
+        },
+        {
+          "text": "기념행사",
+          "count": 3
+        },
+        {
+          "text": "출신",
+          "count": 3
+        },
+        {
+          "text": "큰별쌤",
+          "count": 3
+        },
+        {
+          "text": "한반도",
+          "count": 3
+        },
+        {
+          "text": "민주평통",
+          "count": 3
+        },
+        {
+          "text": "일부",
+          "count": 3
+        },
+        {
+          "text": "장소",
+          "count": 3
+        },
+        {
+          "text": "후속조치",
+          "count": 3
+        },
+        {
+          "text": "후속",
+          "count": 3
+        },
+        {
+          "text": "조치",
+          "count": 3
+        },
+        {
+          "text": "바이어",
+          "count": 3
+        },
+        {
+          "text": "세계한상대회",
+          "count": 3
+        },
+        {
+          "text": "강연",
+          "count": 3
+        },
+        {
+          "text": "참석",
+          "count": 3
+        },
+        {
+          "text": "이날",
+          "count": 3
+        },
+        {
+          "text": "지속",
+          "count": 3
+        },
+        {
+          "text": "후손",
+          "count": 3
+        },
+        {
+          "text": "중국동포단체",
+          "count": 3
+        },
+        {
+          "text": "대림동",
+          "count": 3
+        },
+        {
+          "text": "설명회",
+          "count": 3
+        },
+        {
+          "text": "처리",
+          "count": 3
+        },
+        {
+          "text": "방문",
+          "count": 3
+        },
+        {
+          "text": "공감",
+          "count": 3
+        },
+        {
+          "text": "전자",
+          "count": 3
+        },
+        {
+          "text": "국제우편",
+          "count": 3
+        },
+        {
+          "text": "은행",
+          "count": 3
+        },
+        {
+          "text": "초대",
+          "count": 3
+        },
+        {
+          "text": "하경서",
+          "count": 3
+        },
+        {
+          "text": "바다",
+          "count": 2
+        },
+        {
+          "text": "건너",
+          "count": 2
+        },
+        {
+          "text": "포럼",
+          "count": 2
+        },
+        {
+          "text": "의견",
+          "count": 2
+        },
+        {
+          "text": "산다라",
+          "count": 2
+        },
+        {
+          "text": "위촉",
+          "count": 2
+        },
+        {
+          "text": "산다라박",
+          "count": 2
+        },
+        {
+          "text": "역사",
+          "count": 2
+        },
+        {
+          "text": "연수구",
+          "count": 2
+        },
+        {
+          "text": "수여",
+          "count": 2
+        },
+        {
+          "text": "활성",
+          "count": 2
+        },
+        {
+          "text": "체험",
+          "count": 2
+        },
+        {
+          "text": "민주평화통일자문회의",
+          "count": 2
+        },
+        {
+          "text": "입장",
+          "count": 2
+        },
+        {
+          "text": "진행",
+          "count": 2
+        },
+        {
+          "text": "규모",
+          "count": 2
+        },
+        {
+          "text": "해소",
+          "count": 2
+        },
+        {
+          "text": "인증",
+          "count": 2
+        },
+        {
+          "text": "건의사항",
+          "count": 2
+        },
+        {
+          "text": "대기",
+          "count": 2
+        },
+        {
+          "text": "중소기업",
+          "count": 2
+        },
+        {
+          "text": "진출",
+          "count": 2
+        },
+        {
+          "text": "급행열차",
+          "count": 2
+        },
+        {
+          "text": "등록",
+          "count": 2
+        },
+        {
+          "text": "대표",
+          "count": 2
+        },
+        {
+          "text": "연대",
+          "count": 2
+        },
+        {
+          "text": "조직",
+          "count": 2
+        },
+        {
+          "text": "소통",
+          "count": 2
+        },
+        {
+          "text": "연합회",
+          "count": 2
+        },
+        {
+          "text": "한인공동체",
+          "count": 2
+        },
+        {
+          "text": "중요",
+          "count": 2
+        },
+        {
+          "text": "구성원",
+          "count": 2
+        },
+        {
+          "text": "요청",
+          "count": 2
+        },
+        {
+          "text": "파주",
+          "count": 2
+        },
+        {
+          "text": "동행",
+          "count": 2
+        },
+        {
+          "text": "단체",
+          "count": 2
+        },
+        {
+          "text": "과정",
+          "count": 2
+        },
+        {
+          "text": "함박마을",
+          "count": 2
+        },
+        {
+          "text": "제기",
+          "count": 2
+        },
+        {
+          "text": "모국방문",
+          "count": 2
+        },
+        {
+          "text": "입국",
+          "count": 2
+        },
+        {
+          "text": "문화",
+          "count": 2
+        },
+        {
+          "text": "방문자",
+          "count": 2
+        },
+        {
+          "text": "이웃",
+          "count": 2
+        },
+        {
+          "text": "온정",
+          "count": 2
+        },
+        {
+          "text": "취약가정",
+          "count": 2
+        },
+        {
+          "text": "생필품",
+          "count": 2
+        },
+        {
+          "text": "마음연합총회",
+          "count": 2
+        },
+        {
+          "text": "어려움",
+          "count": 2
+        },
+        {
+          "text": "나눔",
+          "count": 2
+        },
+        {
+          "text": "이달",
+          "count": 2
+        },
+        {
+          "text": "선정",
+          "count": 2
+        },
+        {
+          "text": "디지털",
+          "count": 2
+        },
+        {
+          "text": "영사인증",
+          "count": 2
+        },
+        {
+          "text": "누적",
+          "count": 2
+        },
+        {
+          "text": "조회",
+          "count": 2
+        },
+        {
+          "text": "돌파",
+          "count": 2
+        },
+        {
+          "text": "현지",
+          "count": 2
+        },
+        {
+          "text": "콘텐츠",
+          "count": 2
+        },
+        {
+          "text": "정보",
+          "count": 2
+        },
+        {
+          "text": "임명",
+          "count": 2
+        },
+        {
+          "text": "엘살바도르",
+          "count": 2
+        },
+        {
+          "text": "카이사",
+          "count": 2
+        },
+        {
+          "text": "그룹",
+          "count": 2
+        },
+        {
+          "text": "문턱",
+          "count": 2
+        },
+        {
+          "text": "국민연금공단",
+          "count": 2
+        },
+        {
+          "text": "보장",
+          "count": 2
+        },
+        {
+          "text": "공유",
+          "count": 1
+        },
+        {
+          "text": "청취",
+          "count": 1
+        },
+        {
+          "text": "학술포럼",
+          "count": 1
+        },
+        {
+          "text": "과제",
+          "count": 1
+        },
+        {
+          "text": "미래",
+          "count": 1
+        },
+        {
+          "text": "논의",
+          "count": 1
         }
       ]
     },
