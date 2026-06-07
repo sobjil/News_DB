@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T13:04:12.812715+09:00",
-  "totalArticles": 2239,
+  "generated": "2026-06-07T13:09:58.277841+09:00",
+  "totalArticles": 2237,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2239,
+      "articleCount": 2237,
       "words": [
         {
           "text": "대응",
@@ -41,7 +41,7 @@
         },
         {
           "text": "안전",
-          "count": 268
+          "count": 266
         },
         {
           "text": "기업",
@@ -173,7 +173,7 @@
         },
         {
           "text": "기준",
-          "count": 135
+          "count": 133
         },
         {
           "text": "이후",
@@ -305,7 +305,7 @@
         },
         {
           "text": "규모",
-          "count": 109
+          "count": 107
         },
         {
           "text": "지속",
@@ -14749,7 +14749,7 @@
     },
     "kmcc": {
       "label": "방송미디어통신위원회",
-      "articleCount": 37,
+      "articleCount": 36,
       "words": [
         {
           "text": "김종철",
@@ -15004,10 +15004,6 @@
           "count": 4
         },
         {
-          "text": "규모",
-          "count": 4
-        },
-        {
           "text": "하반기",
           "count": 4
         },
@@ -15204,10 +15200,6 @@
           "count": 3
         },
         {
-          "text": "기준",
-          "count": 3
-        },
-        {
           "text": "피해",
           "count": 3
         },
@@ -15349,6 +15341,14 @@
         },
         {
           "text": "한국수어",
+          "count": 2
+        },
+        {
+          "text": "통역사",
+          "count": 2
+        },
+        {
+          "text": "배치",
           "count": 2
         }
       ]
@@ -17777,612 +17777,6 @@
         }
       ]
     },
-    "npa": {
-      "label": "경찰청",
-      "articleCount": 32,
-      "words": [
-        {
-          "text": "대응",
-          "count": 13
-        },
-        {
-          "text": "재난",
-          "count": 6
-        },
-        {
-          "text": "대비",
-          "count": 6
-        },
-        {
-          "text": "전국동시지방선거",
-          "count": 6
-        },
-        {
-          "text": "업무협약",
-          "count": 6
-        },
-        {
-          "text": "체결",
-          "count": 6
-        },
-        {
-          "text": "단속",
-          "count": 6
-        },
-        {
-          "text": "범죄",
-          "count": 6
-        },
-        {
-          "text": "본격",
-          "count": 4
-        },
-        {
-          "text": "선거사범",
-          "count": 4
-        },
-        {
-          "text": "수사",
-          "count": 4
-        },
-        {
-          "text": "안전",
-          "count": 4
-        },
-        {
-          "text": "예방",
-          "count": 4
-        },
-        {
-          "text": "사이버",
-          "count": 4
-        },
-        {
-          "text": "위협",
-          "count": 4
-        },
-        {
-          "text": "특별",
-          "count": 4
-        },
-        {
-          "text": "케이",
-          "count": 4
-        },
-        {
-          "text": "치안",
-          "count": 4
-        },
-        {
-          "text": "캄보디아",
-          "count": 4
-        },
-        {
-          "text": "직무대행",
-          "count": 3
-        },
-        {
-          "text": "교통",
-          "count": 3
-        },
-        {
-          "text": "시행",
-          "count": 3
-        },
-        {
-          "text": "특별단속",
-          "count": 3
-        },
-        {
-          "text": "경찰청장",
-          "count": 2
-        },
-        {
-          "text": "장마철",
-          "count": 2
-        },
-        {
-          "text": "현장점검",
-          "count": 2
-        },
-        {
-          "text": "대한민국",
-          "count": 2
-        },
-        {
-          "text": "가상자산사업자",
-          "count": 2
-        },
-        {
-          "text": "피싱범죄",
-          "count": 2
-        },
-        {
-          "text": "코인",
-          "count": 2
-        },
-        {
-          "text": "세탁",
-          "count": 2
-        },
-        {
-          "text": "사전",
-          "count": 2
-        },
-        {
-          "text": "차단",
-          "count": 2
-        },
-        {
-          "text": "방위",
-          "count": 2
-        },
-        {
-          "text": "시체팔",
-          "count": 2
-        },
-        {
-          "text": "대국민",
-          "count": 2
-        },
-        {
-          "text": "사기극",
-          "count": 2
-        },
-        {
-          "text": "더미",
-          "count": 2
-        },
-        {
-          "text": "시체놀이",
-          "count": 2
-        },
-        {
-          "text": "도배",
-          "count": 2
-        },
-        {
-          "text": "KB금융그룹",
-          "count": 2
-        },
-        {
-          "text": "신용회복위원회",
-          "count": 2
-        },
-        {
-          "text": "질서",
-          "count": 2
-        },
-        {
-          "text": "행위",
-          "count": 2
-        },
-        {
-          "text": "집중",
-          "count": 2
-        },
-        {
-          "text": "토스뱅크",
-          "count": 2
-        },
-        {
-          "text": "우리",
-          "count": 2
-        },
-        {
-          "text": "동네",
-          "count": 2
-        },
-        {
-          "text": "금융사기예방관",
-          "count": 2
-        },
-        {
-          "text": "호우",
-          "count": 2
-        },
-        {
-          "text": "태풍",
-          "count": 2
-        },
-        {
-          "text": "여름철",
-          "count": 2
-        },
-        {
-          "text": "태세",
-          "count": 2
-        },
-        {
-          "text": "점검",
-          "count": 2
-        },
-        {
-          "text": "역량",
-          "count": 2
-        },
-        {
-          "text": "해킹",
-          "count": 2
-        },
-        {
-          "text": "전자우편",
-          "count": 2
-        },
-        {
-          "text": "훈련",
-          "count": 2
-        },
-        {
-          "text": "화물차",
-          "count": 2
-        },
-        {
-          "text": "불법행위",
-          "count": 2
-        },
-        {
-          "text": "집중단속",
-          "count": 2
-        },
-        {
-          "text": "영문",
-          "count": 2
-        },
-        {
-          "text": "누리집",
-          "count": 2
-        },
-        {
-          "text": "전면",
-          "count": 2
-        },
-        {
-          "text": "개편",
-          "count": 2
-        },
-        {
-          "text": "상표",
-          "count": 2
-        },
-        {
-          "text": "가치",
-          "count": 2
-        },
-        {
-          "text": "고령",
-          "count": 2
-        },
-        {
-          "text": "운전자",
-          "count": 2
-        },
-        {
-          "text": "안전운전",
-          "count": 2
-        },
-        {
-          "text": "페달",
-          "count": 2
-        },
-        {
-          "text": "오조작",
-          "count": 2
-        },
-        {
-          "text": "방지",
-          "count": 2
-        },
-        {
-          "text": "장치",
-          "count": 2
-        },
-        {
-          "text": "보급",
-          "count": 2
-        },
-        {
-          "text": "경찰관서",
-          "count": 2
-        },
-        {
-          "text": "선거경비통합상황실",
-          "count": 2
-        },
-        {
-          "text": "감식",
-          "count": 2
-        },
-        {
-          "text": "과학수사",
-          "count": 2
-        },
-        {
-          "text": "표준",
-          "count": 2
-        },
-        {
-          "text": "최초",
-          "count": 2
-        },
-        {
-          "text": "충청",
-          "count": 2
-        },
-        {
-          "text": "담당",
-          "count": 2
-        },
-        {
-          "text": "경찰관",
-          "count": 2
-        },
-        {
-          "text": "재난안전교육",
-          "count": 2
-        },
-        {
-          "text": "남양유업",
-          "count": 2
-        },
-        {
-          "text": "우유",
-          "count": 2
-        },
-        {
-          "text": "가정폭력",
-          "count": 2
-        },
-        {
-          "text": "메시지",
-          "count": 2
-        },
-        {
-          "text": "베트남",
-          "count": 2
-        },
-        {
-          "text": "공안부",
-          "count": 2
-        },
-        {
-          "text": "민주",
-          "count": 2
-        },
-        {
-          "text": "운동",
-          "count": 2
-        },
-        {
-          "text": "국립서울현충원",
-          "count": 2
-        },
-        {
-          "text": "안병하",
-          "count": 2
-        },
-        {
-          "text": "치안감",
-          "count": 2
-        },
-        {
-          "text": "묘역",
-          "count": 2
-        },
-        {
-          "text": "참배",
-          "count": 2
-        },
-        {
-          "text": "관계",
-          "count": 2
-        },
-        {
-          "text": "피해자",
-          "count": 2
-        },
-        {
-          "text": "보호",
-          "count": 2
-        },
-        {
-          "text": "성평등부",
-          "count": 2
-        },
-        {
-          "text": "상담소",
-          "count": 2
-        },
-        {
-          "text": "공동대응체계",
-          "count": 2
-        },
-        {
-          "text": "코리아전담반",
-          "count": 2
-        },
-        {
-          "text": "현지",
-          "count": 2
-        },
-        {
-          "text": "공조",
-          "count": 2
-        },
-        {
-          "text": "감금",
-          "count": 2
-        },
-        {
-          "text": "피해",
-          "count": 2
-        },
-        {
-          "text": "구조",
-          "count": 2
-        },
-        {
-          "text": "서민경제",
-          "count": 2
-        },
-        {
-          "text": "불법사금융",
-          "count": 2
-        },
-        {
-          "text": "청소년",
-          "count": 2
-        },
-        {
-          "text": "도박",
-          "count": 2
-        },
-        {
-          "text": "신고",
-          "count": 2
-        },
-        {
-          "text": "부패",
-          "count": 2
-        },
-        {
-          "text": "포상금",
-          "count": 2
-        },
-        {
-          "text": "주인공",
-          "count": 2
-        },
-        {
-          "text": "경찰대학",
-          "count": 2
-        },
-        {
-          "text": "데이터 사이언스",
-          "count": 2
-        },
-        {
-          "text": "학술대회",
-          "count": 2
-        },
-        {
-          "text": "매크로",
-          "count": 2
-        },
-        {
-          "text": "암표",
-          "count": 2
-        },
-        {
-          "text": "추적",
-          "count": 2
-        },
-        {
-          "text": "예매처",
-          "count": 2
-        },
-        {
-          "text": "동남아",
-          "count": 2
-        },
-        {
-          "text": "스캠",
-          "count": 2
-        },
-        {
-          "text": "라오스",
-          "count": 2
-        },
-        {
-          "text": "초청",
-          "count": 2
-        },
-        {
-          "text": "연수",
-          "count": 2
-        },
-        {
-          "text": "집회",
-          "count": 2
-        },
-        {
-          "text": "시위",
-          "count": 2
-        },
-        {
-          "text": "문화",
-          "count": 2
-        },
-        {
-          "text": "토론회",
-          "count": 2
-        },
-        {
-          "text": "인터폴",
-          "count": 2
-        },
-        {
-          "text": "전산망",
-          "count": 2
-        },
-        {
-          "text": "이행안",
-          "count": 2
-        },
-        {
-          "text": "가동",
-          "count": 2
-        },
-        {
-          "text": "체납",
-          "count": 2
-        },
-        {
-          "text": "과태료",
-          "count": 2
-        },
-        {
-          "text": "총력",
-          "count": 2
-        },
-        {
-          "text": "인권",
-          "count": 2
-        },
-        {
-          "text": "수호",
-          "count": 2
-        },
-        {
-          "text": "첫걸음",
-          "count": 2
-        },
-        {
-          "text": "바퀴",
-          "count": 1
-        },
-        {
-          "text": "장기",
-          "count": 1
-        },
-        {
-          "text": "강제징수",
-          "count": 1
-        },
-        {
-          "text": "면허",
-          "count": 1
-        },
-        {
-          "text": "취소",
-          "count": 1
-        },
-        {
-          "text": "엄정",
-          "count": 1
-        }
-      ]
-    },
     "nfa": {
       "label": "소방청",
       "articleCount": 32,
@@ -18986,6 +18380,612 @@
         {
           "text": "내무부",
           "count": 3
+        }
+      ]
+    },
+    "npa": {
+      "label": "경찰청",
+      "articleCount": 31,
+      "words": [
+        {
+          "text": "대응",
+          "count": 13
+        },
+        {
+          "text": "재난",
+          "count": 6
+        },
+        {
+          "text": "대비",
+          "count": 6
+        },
+        {
+          "text": "전국동시지방선거",
+          "count": 6
+        },
+        {
+          "text": "업무협약",
+          "count": 6
+        },
+        {
+          "text": "체결",
+          "count": 6
+        },
+        {
+          "text": "단속",
+          "count": 6
+        },
+        {
+          "text": "범죄",
+          "count": 6
+        },
+        {
+          "text": "본격",
+          "count": 4
+        },
+        {
+          "text": "선거사범",
+          "count": 4
+        },
+        {
+          "text": "수사",
+          "count": 4
+        },
+        {
+          "text": "예방",
+          "count": 4
+        },
+        {
+          "text": "사이버",
+          "count": 4
+        },
+        {
+          "text": "위협",
+          "count": 4
+        },
+        {
+          "text": "특별",
+          "count": 4
+        },
+        {
+          "text": "케이",
+          "count": 4
+        },
+        {
+          "text": "치안",
+          "count": 4
+        },
+        {
+          "text": "캄보디아",
+          "count": 4
+        },
+        {
+          "text": "직무대행",
+          "count": 3
+        },
+        {
+          "text": "교통",
+          "count": 3
+        },
+        {
+          "text": "시행",
+          "count": 3
+        },
+        {
+          "text": "특별단속",
+          "count": 3
+        },
+        {
+          "text": "경찰청장",
+          "count": 2
+        },
+        {
+          "text": "장마철",
+          "count": 2
+        },
+        {
+          "text": "현장점검",
+          "count": 2
+        },
+        {
+          "text": "안전",
+          "count": 2
+        },
+        {
+          "text": "대한민국",
+          "count": 2
+        },
+        {
+          "text": "가상자산사업자",
+          "count": 2
+        },
+        {
+          "text": "피싱범죄",
+          "count": 2
+        },
+        {
+          "text": "코인",
+          "count": 2
+        },
+        {
+          "text": "세탁",
+          "count": 2
+        },
+        {
+          "text": "사전",
+          "count": 2
+        },
+        {
+          "text": "차단",
+          "count": 2
+        },
+        {
+          "text": "방위",
+          "count": 2
+        },
+        {
+          "text": "시체팔",
+          "count": 2
+        },
+        {
+          "text": "대국민",
+          "count": 2
+        },
+        {
+          "text": "사기극",
+          "count": 2
+        },
+        {
+          "text": "더미",
+          "count": 2
+        },
+        {
+          "text": "시체놀이",
+          "count": 2
+        },
+        {
+          "text": "도배",
+          "count": 2
+        },
+        {
+          "text": "KB금융그룹",
+          "count": 2
+        },
+        {
+          "text": "신용회복위원회",
+          "count": 2
+        },
+        {
+          "text": "질서",
+          "count": 2
+        },
+        {
+          "text": "행위",
+          "count": 2
+        },
+        {
+          "text": "집중",
+          "count": 2
+        },
+        {
+          "text": "토스뱅크",
+          "count": 2
+        },
+        {
+          "text": "우리",
+          "count": 2
+        },
+        {
+          "text": "동네",
+          "count": 2
+        },
+        {
+          "text": "금융사기예방관",
+          "count": 2
+        },
+        {
+          "text": "호우",
+          "count": 2
+        },
+        {
+          "text": "태풍",
+          "count": 2
+        },
+        {
+          "text": "여름철",
+          "count": 2
+        },
+        {
+          "text": "태세",
+          "count": 2
+        },
+        {
+          "text": "점검",
+          "count": 2
+        },
+        {
+          "text": "역량",
+          "count": 2
+        },
+        {
+          "text": "해킹",
+          "count": 2
+        },
+        {
+          "text": "전자우편",
+          "count": 2
+        },
+        {
+          "text": "훈련",
+          "count": 2
+        },
+        {
+          "text": "화물차",
+          "count": 2
+        },
+        {
+          "text": "불법행위",
+          "count": 2
+        },
+        {
+          "text": "집중단속",
+          "count": 2
+        },
+        {
+          "text": "영문",
+          "count": 2
+        },
+        {
+          "text": "누리집",
+          "count": 2
+        },
+        {
+          "text": "전면",
+          "count": 2
+        },
+        {
+          "text": "개편",
+          "count": 2
+        },
+        {
+          "text": "상표",
+          "count": 2
+        },
+        {
+          "text": "가치",
+          "count": 2
+        },
+        {
+          "text": "고령",
+          "count": 2
+        },
+        {
+          "text": "운전자",
+          "count": 2
+        },
+        {
+          "text": "안전운전",
+          "count": 2
+        },
+        {
+          "text": "페달",
+          "count": 2
+        },
+        {
+          "text": "오조작",
+          "count": 2
+        },
+        {
+          "text": "방지",
+          "count": 2
+        },
+        {
+          "text": "장치",
+          "count": 2
+        },
+        {
+          "text": "보급",
+          "count": 2
+        },
+        {
+          "text": "경찰관서",
+          "count": 2
+        },
+        {
+          "text": "선거경비통합상황실",
+          "count": 2
+        },
+        {
+          "text": "감식",
+          "count": 2
+        },
+        {
+          "text": "과학수사",
+          "count": 2
+        },
+        {
+          "text": "표준",
+          "count": 2
+        },
+        {
+          "text": "최초",
+          "count": 2
+        },
+        {
+          "text": "충청",
+          "count": 2
+        },
+        {
+          "text": "담당",
+          "count": 2
+        },
+        {
+          "text": "경찰관",
+          "count": 2
+        },
+        {
+          "text": "재난안전교육",
+          "count": 2
+        },
+        {
+          "text": "남양유업",
+          "count": 2
+        },
+        {
+          "text": "우유",
+          "count": 2
+        },
+        {
+          "text": "가정폭력",
+          "count": 2
+        },
+        {
+          "text": "메시지",
+          "count": 2
+        },
+        {
+          "text": "베트남",
+          "count": 2
+        },
+        {
+          "text": "공안부",
+          "count": 2
+        },
+        {
+          "text": "민주",
+          "count": 2
+        },
+        {
+          "text": "운동",
+          "count": 2
+        },
+        {
+          "text": "국립서울현충원",
+          "count": 2
+        },
+        {
+          "text": "안병하",
+          "count": 2
+        },
+        {
+          "text": "치안감",
+          "count": 2
+        },
+        {
+          "text": "묘역",
+          "count": 2
+        },
+        {
+          "text": "참배",
+          "count": 2
+        },
+        {
+          "text": "관계",
+          "count": 2
+        },
+        {
+          "text": "피해자",
+          "count": 2
+        },
+        {
+          "text": "보호",
+          "count": 2
+        },
+        {
+          "text": "성평등부",
+          "count": 2
+        },
+        {
+          "text": "상담소",
+          "count": 2
+        },
+        {
+          "text": "공동대응체계",
+          "count": 2
+        },
+        {
+          "text": "코리아전담반",
+          "count": 2
+        },
+        {
+          "text": "현지",
+          "count": 2
+        },
+        {
+          "text": "공조",
+          "count": 2
+        },
+        {
+          "text": "감금",
+          "count": 2
+        },
+        {
+          "text": "피해",
+          "count": 2
+        },
+        {
+          "text": "구조",
+          "count": 2
+        },
+        {
+          "text": "서민경제",
+          "count": 2
+        },
+        {
+          "text": "불법사금융",
+          "count": 2
+        },
+        {
+          "text": "청소년",
+          "count": 2
+        },
+        {
+          "text": "도박",
+          "count": 2
+        },
+        {
+          "text": "신고",
+          "count": 2
+        },
+        {
+          "text": "부패",
+          "count": 2
+        },
+        {
+          "text": "포상금",
+          "count": 2
+        },
+        {
+          "text": "주인공",
+          "count": 2
+        },
+        {
+          "text": "경찰대학",
+          "count": 2
+        },
+        {
+          "text": "데이터 사이언스",
+          "count": 2
+        },
+        {
+          "text": "학술대회",
+          "count": 2
+        },
+        {
+          "text": "매크로",
+          "count": 2
+        },
+        {
+          "text": "암표",
+          "count": 2
+        },
+        {
+          "text": "추적",
+          "count": 2
+        },
+        {
+          "text": "예매처",
+          "count": 2
+        },
+        {
+          "text": "동남아",
+          "count": 2
+        },
+        {
+          "text": "스캠",
+          "count": 2
+        },
+        {
+          "text": "라오스",
+          "count": 2
+        },
+        {
+          "text": "초청",
+          "count": 2
+        },
+        {
+          "text": "연수",
+          "count": 2
+        },
+        {
+          "text": "집회",
+          "count": 2
+        },
+        {
+          "text": "시위",
+          "count": 2
+        },
+        {
+          "text": "문화",
+          "count": 2
+        },
+        {
+          "text": "토론회",
+          "count": 2
+        },
+        {
+          "text": "인터폴",
+          "count": 2
+        },
+        {
+          "text": "전산망",
+          "count": 2
+        },
+        {
+          "text": "이행안",
+          "count": 2
+        },
+        {
+          "text": "가동",
+          "count": 2
+        },
+        {
+          "text": "체납",
+          "count": 2
+        },
+        {
+          "text": "과태료",
+          "count": 2
+        },
+        {
+          "text": "총력",
+          "count": 2
+        },
+        {
+          "text": "바퀴",
+          "count": 1
+        },
+        {
+          "text": "장기",
+          "count": 1
+        },
+        {
+          "text": "강제징수",
+          "count": 1
+        },
+        {
+          "text": "면허",
+          "count": 1
+        },
+        {
+          "text": "취소",
+          "count": 1
+        },
+        {
+          "text": "엄정",
+          "count": 1
+        },
+        {
+          "text": "유재성",
+          "count": 1
+        },
+        {
+          "text": "신호위반",
+          "count": 1
+        },
+        {
+          "text": "끼어들기",
+          "count": 1
         }
       ]
     },
