@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-07T12:56:41.221739+09:00",
-  "totalArticles": 2244,
+  "generated": "2026-06-07T13:04:12.812715+09:00",
+  "totalArticles": 2239,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2244,
+      "articleCount": 2239,
       "words": [
         {
           "text": "대응",
-          "count": 418
+          "count": 414
         },
         {
           "text": "논의",
@@ -17,7 +17,7 @@
         },
         {
           "text": "점검",
-          "count": 361
+          "count": 359
         },
         {
           "text": "인공지능",
@@ -33,7 +33,7 @@
         },
         {
           "text": "방문",
-          "count": 287
+          "count": 283
         },
         {
           "text": "발생",
@@ -53,7 +53,7 @@
         },
         {
           "text": "본격",
-          "count": 225
+          "count": 224
         },
         {
           "text": "서울",
@@ -65,7 +65,7 @@
         },
         {
           "text": "대비",
-          "count": 208
+          "count": 207
         },
         {
           "text": "증가",
@@ -101,7 +101,7 @@
         },
         {
           "text": "제도",
-          "count": 169
+          "count": 167
         },
         {
           "text": "예방",
@@ -117,15 +117,15 @@
         },
         {
           "text": "시행",
-          "count": 162
-        },
-        {
-          "text": "관리",
-          "count": 158
+          "count": 160
         },
         {
           "text": "여름철",
           "count": 158
+        },
+        {
+          "text": "관리",
+          "count": 157
         },
         {
           "text": "전문가",
@@ -204,15 +204,15 @@
           "count": 130
         },
         {
-          "text": "의견",
-          "count": 129
-        },
-        {
           "text": "다양",
           "count": 128
         },
         {
           "text": "공유",
+          "count": 128
+        },
+        {
+          "text": "의견",
           "count": 128
         },
         {
@@ -289,14 +289,14 @@
         },
         {
           "text": "조사",
-          "count": 110
-        },
-        {
-          "text": "상황",
-          "count": 110
+          "count": 109
         },
         {
           "text": "농림축산식품부",
+          "count": 109
+        },
+        {
+          "text": "상황",
           "count": 109
         },
         {
@@ -324,15 +324,15 @@
           "count": 104
         },
         {
-          "text": "법무부",
-          "count": 104
-        },
-        {
           "text": "정은경",
           "count": 103
         },
         {
           "text": "해양수산부",
+          "count": 103
+        },
+        {
+          "text": "법무부",
           "count": 103
         },
         {
@@ -368,11 +368,11 @@
           "count": 97
         },
         {
-          "text": "소통",
-          "count": 96
+          "text": "송미령",
+          "count": 95
         },
         {
-          "text": "송미령",
+          "text": "소통",
           "count": 95
         },
         {
@@ -469,7 +469,7 @@
         },
         {
           "text": "청취",
-          "count": 85
+          "count": 84
         },
         {
           "text": "국정과제",
@@ -716,10 +716,6 @@
           "count": 65
         },
         {
-          "text": "이행",
-          "count": 65
-        },
-        {
           "text": "새만금",
           "count": 64
         },
@@ -729,6 +725,10 @@
         },
         {
           "text": "가족",
+          "count": 64
+        },
+        {
+          "text": "이행",
           "count": 64
         },
         {
@@ -12325,15 +12325,15 @@
     },
     "moj": {
       "label": "법무부",
-      "articleCount": 46,
+      "articleCount": 45,
       "words": [
         {
           "text": "정성호",
-          "count": 36
+          "count": 35
         },
         {
           "text": "참조",
-          "count": 33
+          "count": 32
         },
         {
           "text": "마약",
@@ -12388,10 +12388,6 @@
           "count": 9
         },
         {
-          "text": "소년원",
-          "count": 9
-        },
-        {
           "text": "공개",
           "count": 8
         },
@@ -12433,10 +12429,6 @@
         },
         {
           "text": "이민정책",
-          "count": 7
-        },
-        {
-          "text": "검정고시",
           "count": 7
         },
         {
@@ -12497,10 +12489,6 @@
         },
         {
           "text": "시범",
-          "count": 6
-        },
-        {
-          "text": "합격",
           "count": 6
         },
         {
@@ -12585,6 +12573,10 @@
         },
         {
           "text": "계절근로",
+          "count": 5
+        },
+        {
+          "text": "소년원",
           "count": 5
         },
         {
@@ -12760,11 +12752,11 @@
           "count": 4
         },
         {
-          "text": "학생",
+          "text": "고용특례",
           "count": 4
         },
         {
-          "text": "고용특례",
+          "text": "검정고시",
           "count": 4
         },
         {
@@ -12926,612 +12918,14 @@
         {
           "text": "아픔",
           "count": 3
-        }
-      ]
-    },
-    "kmcc": {
-      "label": "방송미디어통신위원회",
-      "articleCount": 40,
-      "words": [
-        {
-          "text": "김종철",
-          "count": 16
-        },
-        {
-          "text": "의결",
-          "count": 13
-        },
-        {
-          "text": "대응",
-          "count": 12
-        },
-        {
-          "text": "인공지능",
-          "count": 11
-        },
-        {
-          "text": "방미통위",
-          "count": 11
-        },
-        {
-          "text": "이사",
-          "count": 11
-        },
-        {
-          "text": "추천단체",
-          "count": 11
-        },
-        {
-          "text": "의견",
-          "count": 10
-        },
-        {
-          "text": "공영방송",
-          "count": 10
-        },
-        {
-          "text": "허가",
-          "count": 9
-        },
-        {
-          "text": "선정",
-          "count": 9
-        },
-        {
-          "text": "이용자",
-          "count": 9
-        },
-        {
-          "text": "사업자",
-          "count": 8
-        },
-        {
-          "text": "홈쇼핑",
-          "count": 8
-        },
-        {
-          "text": "심사",
-          "count": 7
-        },
-        {
-          "text": "서비스",
-          "count": 7
-        },
-        {
-          "text": "허위",
-          "count": 7
-        },
-        {
-          "text": "온라인",
-          "count": 7
-        },
-        {
-          "text": "디지털윤리",
-          "count": 7
-        },
-        {
-          "text": "유료방송",
-          "count": 7
-        },
-        {
-          "text": "활력",
-          "count": 7
-        },
-        {
-          "text": "보이스피싱",
-          "count": 6
-        },
-        {
-          "text": "위반",
-          "count": 6
-        },
-        {
-          "text": "보호",
-          "count": 6
-        },
-        {
-          "text": "가입자",
-          "count": 6
-        },
-        {
-          "text": "가짜뉴스",
-          "count": 6
-        },
-        {
-          "text": "논의",
-          "count": 6
-        },
-        {
-          "text": "상생",
-          "count": 6
-        },
-        {
-          "text": "필요",
-          "count": 5
-        },
-        {
-          "text": "케이티스카이라이프",
-          "count": 5
-        },
-        {
-          "text": "안건",
-          "count": 5
-        },
-        {
-          "text": "부과",
-          "count": 5
-        },
-        {
-          "text": "방송사",
-          "count": 5
-        },
-        {
-          "text": "기업",
-          "count": 5
-        },
-        {
-          "text": "광고",
-          "count": 5
-        },
-        {
-          "text": "티브이",
-          "count": 5
-        },
-        {
-          "text": "확산",
-          "count": 5
-        },
-        {
-          "text": "사항",
-          "count": 5
-        },
-        {
-          "text": "총력",
-          "count": 5
-        },
-        {
-          "text": "참가",
-          "count": 5
-        },
-        {
-          "text": "산업",
-          "count": 5
-        },
-        {
-          "text": "삭제",
-          "count": 5
-        },
-        {
-          "text": "아동",
-          "count": 5
-        },
-        {
-          "text": "청소년",
-          "count": 5
-        },
-        {
-          "text": "구독",
-          "count": 5
-        },
-        {
-          "text": "안내서",
-          "count": 5
-        },
-        {
-          "text": "시각",
-          "count": 5
-        },
-        {
-          "text": "제고",
-          "count": 5
-        },
-        {
-          "text": "정보",
-          "count": 4
-        },
-        {
-          "text": "위성방송사업자",
-          "count": 4
-        },
-        {
-          "text": "전체회의",
-          "count": 4
-        },
-        {
-          "text": "이후",
-          "count": 4
-        },
-        {
-          "text": "방송법",
-          "count": 4
-        },
-        {
-          "text": "삼성전자",
-          "count": 4
-        },
-        {
-          "text": "실시간",
-          "count": 4
-        },
-        {
-          "text": "조치",
-          "count": 4
-        },
-        {
-          "text": "제도",
-          "count": 4
-        },
-        {
-          "text": "불법촬영물",
-          "count": 4
-        },
-        {
-          "text": "시행",
-          "count": 4
-        },
-        {
-          "text": "청취",
-          "count": 4
-        },
-        {
-          "text": "시청",
-          "count": 4
-        },
-        {
-          "text": "의약품",
-          "count": 4
-        },
-        {
-          "text": "서면심의",
-          "count": 4
-        },
-        {
-          "text": "신속",
-          "count": 4
-        },
-        {
-          "text": "정상",
-          "count": 4
-        },
-        {
-          "text": "공모전",
-          "count": 4
-        },
-        {
-          "text": "디지털크리에이터",
-          "count": 4
-        },
-        {
-          "text": "규모",
-          "count": 4
-        },
-        {
-          "text": "하반기",
-          "count": 4
-        },
-        {
-          "text": "주재",
-          "count": 4
-        },
-        {
-          "text": "학부모",
-          "count": 4
-        },
-        {
-          "text": "교사",
-          "count": 4
-        },
-        {
-          "text": "신종",
-          "count": 4
-        },
-        {
-          "text": "스캠범죄",
-          "count": 4
-        },
-        {
-          "text": "발간",
-          "count": 4
-        },
-        {
-          "text": "청각장애인",
-          "count": 4
-        },
-        {
-          "text": "접수",
-          "count": 4
-        },
-        {
-          "text": "과징금",
-          "count": 4
-        },
-        {
-          "text": "드라마",
-          "count": 4
-        },
-        {
-          "text": "투자설명회",
-          "count": 4
-        },
-        {
-          "text": "인공지능서비스",
-          "count": 4
-        },
-        {
-          "text": "제도개선",
-          "count": 4
         },
         {
-          "text": "차단",
+          "text": "시행령",
           "count": 3
         },
         {
-          "text": "안전",
+          "text": "집중",
           "count": 3
-        },
-        {
-          "text": "케이티",
-          "count": 3
-        },
-        {
-          "text": "결정",
-          "count": 3
-        },
-        {
-          "text": "심의",
-          "count": 3
-        },
-        {
-          "text": "진행",
-          "count": 3
-        },
-        {
-          "text": "시정명령",
-          "count": 3
-        },
-        {
-          "text": "지속",
-          "count": 3
-        },
-        {
-          "text": "공정",
-          "count": 3
-        },
-        {
-          "text": "시장",
-          "count": 3
-        },
-        {
-          "text": "소통",
-          "count": 3
-        },
-        {
-          "text": "콘텐츠",
-          "count": 3
-        },
-        {
-          "text": "간담회",
-          "count": 3
-        },
-        {
-          "text": "무료",
-          "count": 3
-        },
-        {
-          "text": "자리",
-          "count": 3
-        },
-        {
-          "text": "유통방지",
-          "count": 3
-        },
-        {
-          "text": "수렴",
-          "count": 3
-        },
-        {
-          "text": "장애인",
-          "count": 3
-        },
-        {
-          "text": "개정",
-          "count": 3
-        },
-        {
-          "text": "비용",
-          "count": 3
-        },
-        {
-          "text": "국무회의",
-          "count": 3
-        },
-        {
-          "text": "가능",
-          "count": 3
-        },
-        {
-          "text": "침해",
-          "count": 3
-        },
-        {
-          "text": "시대",
-          "count": 3
-        },
-        {
-          "text": "의식",
-          "count": 3
-        },
-        {
-          "text": "창작콘텐츠",
-          "count": 3
-        },
-        {
-          "text": "상담",
-          "count": 3
-        },
-        {
-          "text": "제작",
-          "count": 3
-        },
-        {
-          "text": "유통",
-          "count": 3
-        },
-        {
-          "text": "방송통신발전기금",
-          "count": 3
-        },
-        {
-          "text": "한국",
-          "count": 3
-        },
-        {
-          "text": "인터넷멀티미디어방송",
-          "count": 3
-        },
-        {
-          "text": "종합유선방송",
-          "count": 3
-        },
-        {
-          "text": "실태",
-          "count": 3
-        },
-        {
-          "text": "사회관계망서비스",
-          "count": 3
-        },
-        {
-          "text": "기준",
-          "count": 3
-        },
-        {
-          "text": "피해",
-          "count": 3
-        },
-        {
-          "text": "법령",
-          "count": 3
-        },
-        {
-          "text": "규제",
-          "count": 3
-        },
-        {
-          "text": "이날",
-          "count": 3
-        },
-        {
-          "text": "분리",
-          "count": 3
-        },
-        {
-          "text": "변경승인",
-          "count": 3
-        },
-        {
-          "text": "생태",
-          "count": 3
-        },
-        {
-          "text": "꿀팁",
-          "count": 2
-        },
-        {
-          "text": "이동통신3사",
-          "count": 2
-        },
-        {
-          "text": "유용",
-          "count": 2
-        },
-        {
-          "text": "연재",
-          "count": 2
-        },
-        {
-          "text": "사용",
-          "count": 2
-        },
-        {
-          "text": "생활",
-          "count": 2
-        },
-        {
-          "text": "유효기간",
-          "count": 2
-        },
-        {
-          "text": "여부",
-          "count": 2
-        },
-        {
-          "text": "유료방송사업자",
-          "count": 2
-        },
-        {
-          "text": "역외",
-          "count": 2
-        },
-        {
-          "text": "송신",
-          "count": 2
-        },
-        {
-          "text": "승인",
-          "count": 2
-        },
-        {
-          "text": "경남기업",
-          "count": 2
-        },
-        {
-          "text": "관계기관",
-          "count": 2
-        },
-        {
-          "text": "확립",
-          "count": 2
-        },
-        {
-          "text": "선점",
-          "count": 2
-        },
-        {
-          "text": "경쟁력",
-          "count": 2
-        },
-        {
-          "text": "불법촬영",
-          "count": 2
-        },
-        {
-          "text": "설명회",
-          "count": 2
-        },
-        {
-          "text": "기존",
-          "count": 2
-        },
-        {
-          "text": "서울",
-          "count": 2
-        },
-        {
-          "text": "플랫폼",
-          "count": 2
-        },
-        {
-          "text": "이해",
-          "count": 2
-        },
-        {
-          "text": "설명자료",
-          "count": 2
-        },
-        {
-          "text": "보편",
-          "count": 2
         }
       ]
     },
@@ -14749,43 +14143,39 @@
     },
     "kdca": {
       "label": "질병관리청",
-      "articleCount": 38,
+      "articleCount": 37,
       "words": [
         {
           "text": "임승관",
-          "count": 31
-        },
-        {
-          "text": "방문",
-          "count": 27
+          "count": 30
         },
         {
           "text": "발생",
           "count": 25
         },
         {
+          "text": "방문",
+          "count": 23
+        },
+        {
           "text": "감염병",
           "count": 21
-        },
-        {
-          "text": "대응",
-          "count": 20
-        },
-        {
-          "text": "점검",
-          "count": 19
         },
         {
           "text": "열질환",
           "count": 18
         },
         {
+          "text": "점검",
+          "count": 17
+        },
+        {
           "text": "대비",
           "count": 17
         },
         {
-          "text": "질병관리청장",
-          "count": 14
+          "text": "대응",
+          "count": 16
         },
         {
           "text": "위험",
@@ -14809,6 +14199,10 @@
         },
         {
           "text": "증가",
+          "count": 11
+        },
+        {
+          "text": "질병관리청장",
           "count": 11
         },
         {
@@ -14944,10 +14338,6 @@
           "count": 6
         },
         {
-          "text": "조사",
-          "count": 6
-        },
-        {
           "text": "가정",
           "count": 6
         },
@@ -14984,10 +14374,6 @@
           "count": 6
         },
         {
-          "text": "소통",
-          "count": 6
-        },
-        {
           "text": "환아",
           "count": 6
         },
@@ -15004,11 +14390,11 @@
           "count": 6
         },
         {
-          "text": "항생제",
-          "count": 6
+          "text": "근거",
+          "count": 5
         },
         {
-          "text": "근거",
+          "text": "조사",
           "count": 5
         },
         {
@@ -15052,6 +14438,10 @@
           "count": 5
         },
         {
+          "text": "소통",
+          "count": 5
+        },
+        {
           "text": "급성심장정지",
           "count": 5
         },
@@ -15080,10 +14470,6 @@
           "count": 5
         },
         {
-          "text": "내성",
-          "count": 5
-        },
-        {
           "text": "건강정책",
           "count": 4
         },
@@ -15093,10 +14479,6 @@
         },
         {
           "text": "위생관리",
-          "count": 4
-        },
-        {
-          "text": "대응체계",
           "count": 4
         },
         {
@@ -15176,10 +14558,6 @@
           "count": 4
         },
         {
-          "text": "본격",
-          "count": 4
-        },
-        {
           "text": "위기관리체계",
           "count": 4
         },
@@ -15209,10 +14587,6 @@
         },
         {
           "text": "절기",
-          "count": 4
-        },
-        {
-          "text": "청취",
           "count": 4
         },
         {
@@ -15268,14 +14642,6 @@
           "count": 4
         },
         {
-          "text": "의료현장",
-          "count": 4
-        },
-        {
-          "text": "실태",
-          "count": 3
-        },
-        {
           "text": "파악",
           "count": 3
         },
@@ -15309,6 +14675,10 @@
         },
         {
           "text": "가능",
+          "count": 3
+        },
+        {
+          "text": "대응체계",
           "count": 3
         },
         {
@@ -15350,6 +14720,636 @@
         {
           "text": "인간",
           "count": 3
+        },
+        {
+          "text": "담배제품",
+          "count": 3
+        },
+        {
+          "text": "다양",
+          "count": 3
+        },
+        {
+          "text": "궐련",
+          "count": 3
+        },
+        {
+          "text": "해외유입상황평가회의",
+          "count": 3
+        },
+        {
+          "text": "이후",
+          "count": 3
+        },
+        {
+          "text": "정밀",
+          "count": 3
+        }
+      ]
+    },
+    "kmcc": {
+      "label": "방송미디어통신위원회",
+      "articleCount": 37,
+      "words": [
+        {
+          "text": "김종철",
+          "count": 16
+        },
+        {
+          "text": "의결",
+          "count": 13
+        },
+        {
+          "text": "대응",
+          "count": 12
+        },
+        {
+          "text": "인공지능",
+          "count": 11
+        },
+        {
+          "text": "방미통위",
+          "count": 11
+        },
+        {
+          "text": "이사",
+          "count": 11
+        },
+        {
+          "text": "추천단체",
+          "count": 11
+        },
+        {
+          "text": "의견",
+          "count": 10
+        },
+        {
+          "text": "공영방송",
+          "count": 10
+        },
+        {
+          "text": "허가",
+          "count": 9
+        },
+        {
+          "text": "선정",
+          "count": 9
+        },
+        {
+          "text": "이용자",
+          "count": 9
+        },
+        {
+          "text": "사업자",
+          "count": 8
+        },
+        {
+          "text": "홈쇼핑",
+          "count": 8
+        },
+        {
+          "text": "심사",
+          "count": 7
+        },
+        {
+          "text": "서비스",
+          "count": 7
+        },
+        {
+          "text": "허위",
+          "count": 7
+        },
+        {
+          "text": "온라인",
+          "count": 7
+        },
+        {
+          "text": "디지털윤리",
+          "count": 7
+        },
+        {
+          "text": "유료방송",
+          "count": 7
+        },
+        {
+          "text": "활력",
+          "count": 7
+        },
+        {
+          "text": "보이스피싱",
+          "count": 6
+        },
+        {
+          "text": "위반",
+          "count": 6
+        },
+        {
+          "text": "보호",
+          "count": 6
+        },
+        {
+          "text": "가입자",
+          "count": 6
+        },
+        {
+          "text": "가짜뉴스",
+          "count": 6
+        },
+        {
+          "text": "논의",
+          "count": 6
+        },
+        {
+          "text": "상생",
+          "count": 6
+        },
+        {
+          "text": "필요",
+          "count": 5
+        },
+        {
+          "text": "케이티스카이라이프",
+          "count": 5
+        },
+        {
+          "text": "안건",
+          "count": 5
+        },
+        {
+          "text": "방송사",
+          "count": 5
+        },
+        {
+          "text": "기업",
+          "count": 5
+        },
+        {
+          "text": "광고",
+          "count": 5
+        },
+        {
+          "text": "티브이",
+          "count": 5
+        },
+        {
+          "text": "확산",
+          "count": 5
+        },
+        {
+          "text": "사항",
+          "count": 5
+        },
+        {
+          "text": "총력",
+          "count": 5
+        },
+        {
+          "text": "참가",
+          "count": 5
+        },
+        {
+          "text": "산업",
+          "count": 5
+        },
+        {
+          "text": "아동",
+          "count": 5
+        },
+        {
+          "text": "청소년",
+          "count": 5
+        },
+        {
+          "text": "구독",
+          "count": 5
+        },
+        {
+          "text": "안내서",
+          "count": 5
+        },
+        {
+          "text": "시각",
+          "count": 5
+        },
+        {
+          "text": "제고",
+          "count": 5
+        },
+        {
+          "text": "정보",
+          "count": 4
+        },
+        {
+          "text": "위성방송사업자",
+          "count": 4
+        },
+        {
+          "text": "전체회의",
+          "count": 4
+        },
+        {
+          "text": "이후",
+          "count": 4
+        },
+        {
+          "text": "방송법",
+          "count": 4
+        },
+        {
+          "text": "삼성전자",
+          "count": 4
+        },
+        {
+          "text": "실시간",
+          "count": 4
+        },
+        {
+          "text": "조치",
+          "count": 4
+        },
+        {
+          "text": "불법촬영물",
+          "count": 4
+        },
+        {
+          "text": "청취",
+          "count": 4
+        },
+        {
+          "text": "시청",
+          "count": 4
+        },
+        {
+          "text": "의약품",
+          "count": 4
+        },
+        {
+          "text": "서면심의",
+          "count": 4
+        },
+        {
+          "text": "신속",
+          "count": 4
+        },
+        {
+          "text": "정상",
+          "count": 4
+        },
+        {
+          "text": "공모전",
+          "count": 4
+        },
+        {
+          "text": "디지털크리에이터",
+          "count": 4
+        },
+        {
+          "text": "규모",
+          "count": 4
+        },
+        {
+          "text": "하반기",
+          "count": 4
+        },
+        {
+          "text": "주재",
+          "count": 4
+        },
+        {
+          "text": "학부모",
+          "count": 4
+        },
+        {
+          "text": "교사",
+          "count": 4
+        },
+        {
+          "text": "신종",
+          "count": 4
+        },
+        {
+          "text": "스캠범죄",
+          "count": 4
+        },
+        {
+          "text": "발간",
+          "count": 4
+        },
+        {
+          "text": "청각장애인",
+          "count": 4
+        },
+        {
+          "text": "접수",
+          "count": 4
+        },
+        {
+          "text": "드라마",
+          "count": 4
+        },
+        {
+          "text": "투자설명회",
+          "count": 4
+        },
+        {
+          "text": "인공지능서비스",
+          "count": 4
+        },
+        {
+          "text": "제도개선",
+          "count": 4
+        },
+        {
+          "text": "차단",
+          "count": 3
+        },
+        {
+          "text": "안전",
+          "count": 3
+        },
+        {
+          "text": "결정",
+          "count": 3
+        },
+        {
+          "text": "심의",
+          "count": 3
+        },
+        {
+          "text": "진행",
+          "count": 3
+        },
+        {
+          "text": "시정명령",
+          "count": 3
+        },
+        {
+          "text": "부과",
+          "count": 3
+        },
+        {
+          "text": "지속",
+          "count": 3
+        },
+        {
+          "text": "공정",
+          "count": 3
+        },
+        {
+          "text": "시장",
+          "count": 3
+        },
+        {
+          "text": "소통",
+          "count": 3
+        },
+        {
+          "text": "콘텐츠",
+          "count": 3
+        },
+        {
+          "text": "간담회",
+          "count": 3
+        },
+        {
+          "text": "무료",
+          "count": 3
+        },
+        {
+          "text": "자리",
+          "count": 3
+        },
+        {
+          "text": "유통방지",
+          "count": 3
+        },
+        {
+          "text": "수렴",
+          "count": 3
+        },
+        {
+          "text": "장애인",
+          "count": 3
+        },
+        {
+          "text": "개정",
+          "count": 3
+        },
+        {
+          "text": "비용",
+          "count": 3
+        },
+        {
+          "text": "국무회의",
+          "count": 3
+        },
+        {
+          "text": "가능",
+          "count": 3
+        },
+        {
+          "text": "침해",
+          "count": 3
+        },
+        {
+          "text": "시대",
+          "count": 3
+        },
+        {
+          "text": "의식",
+          "count": 3
+        },
+        {
+          "text": "창작콘텐츠",
+          "count": 3
+        },
+        {
+          "text": "상담",
+          "count": 3
+        },
+        {
+          "text": "제작",
+          "count": 3
+        },
+        {
+          "text": "유통",
+          "count": 3
+        },
+        {
+          "text": "방송통신발전기금",
+          "count": 3
+        },
+        {
+          "text": "한국",
+          "count": 3
+        },
+        {
+          "text": "인터넷멀티미디어방송",
+          "count": 3
+        },
+        {
+          "text": "종합유선방송",
+          "count": 3
+        },
+        {
+          "text": "삭제",
+          "count": 3
+        },
+        {
+          "text": "실태",
+          "count": 3
+        },
+        {
+          "text": "사회관계망서비스",
+          "count": 3
+        },
+        {
+          "text": "기준",
+          "count": 3
+        },
+        {
+          "text": "피해",
+          "count": 3
+        },
+        {
+          "text": "법령",
+          "count": 3
+        },
+        {
+          "text": "규제",
+          "count": 3
+        },
+        {
+          "text": "이날",
+          "count": 3
+        },
+        {
+          "text": "변경승인",
+          "count": 3
+        },
+        {
+          "text": "생태",
+          "count": 3
+        },
+        {
+          "text": "꿀팁",
+          "count": 2
+        },
+        {
+          "text": "이동통신3사",
+          "count": 2
+        },
+        {
+          "text": "유용",
+          "count": 2
+        },
+        {
+          "text": "연재",
+          "count": 2
+        },
+        {
+          "text": "사용",
+          "count": 2
+        },
+        {
+          "text": "생활",
+          "count": 2
+        },
+        {
+          "text": "유효기간",
+          "count": 2
+        },
+        {
+          "text": "여부",
+          "count": 2
+        },
+        {
+          "text": "유료방송사업자",
+          "count": 2
+        },
+        {
+          "text": "역외",
+          "count": 2
+        },
+        {
+          "text": "송신",
+          "count": 2
+        },
+        {
+          "text": "승인",
+          "count": 2
+        },
+        {
+          "text": "경남기업",
+          "count": 2
+        },
+        {
+          "text": "관계기관",
+          "count": 2
+        },
+        {
+          "text": "확립",
+          "count": 2
+        },
+        {
+          "text": "선점",
+          "count": 2
+        },
+        {
+          "text": "경쟁력",
+          "count": 2
+        },
+        {
+          "text": "불법촬영",
+          "count": 2
+        },
+        {
+          "text": "제도",
+          "count": 2
+        },
+        {
+          "text": "설명회",
+          "count": 2
+        },
+        {
+          "text": "기존",
+          "count": 2
+        },
+        {
+          "text": "시행",
+          "count": 2
+        },
+        {
+          "text": "서울",
+          "count": 2
+        },
+        {
+          "text": "플랫폼",
+          "count": 2
+        },
+        {
+          "text": "이해",
+          "count": 2
+        },
+        {
+          "text": "설명자료",
+          "count": 2
+        },
+        {
+          "text": "보편",
+          "count": 2
+        },
+        {
+          "text": "선거방송",
+          "count": 2
+        },
+        {
+          "text": "전반",
+          "count": 2
+        },
+        {
+          "text": "한국수어",
+          "count": 2
         }
       ]
     },
