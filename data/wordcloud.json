@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T19:30:29.385480+09:00",
-  "totalArticles": 2227,
+  "generated": "2026-06-07T19:36:53.902482+09:00",
+  "totalArticles": 2226,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2227,
+      "articleCount": 2226,
       "words": [
         {
           "text": "대응",
@@ -25,7 +25,7 @@
         },
         {
           "text": "간담회",
-          "count": 292
+          "count": 289
         },
         {
           "text": "기술",
@@ -45,7 +45,7 @@
         },
         {
           "text": "기업",
-          "count": 264
+          "count": 262
         },
         {
           "text": "참석",
@@ -176,10 +176,6 @@
           "count": 133
         },
         {
-          "text": "체결",
-          "count": 132
-        },
-        {
           "text": "이승돈",
           "count": 132
         },
@@ -202,6 +198,10 @@
         {
           "text": "중기부",
           "count": 130
+        },
+        {
+          "text": "체결",
+          "count": 129
         },
         {
           "text": "다양",
@@ -488,10 +488,6 @@
           "count": 82
         },
         {
-          "text": "청취",
-          "count": 82
-        },
-        {
           "text": "소방청",
           "count": 82
         },
@@ -501,6 +497,10 @@
         },
         {
           "text": "지정",
+          "count": 81
+        },
+        {
+          "text": "청취",
           "count": 81
         },
         {
@@ -596,12 +596,12 @@
           "count": 75
         },
         {
-          "text": "진출",
+          "text": "국방부",
           "count": 75
         },
         {
-          "text": "국방부",
-          "count": 75
+          "text": "진출",
+          "count": 74
         },
         {
           "text": "모집",
@@ -14747,612 +14747,6 @@
         }
       ]
     },
-    "ftc": {
-      "label": "공정거래위원회",
-      "articleCount": 35,
-      "words": [
-        {
-          "text": "제재",
-          "count": 28
-        },
-        {
-          "text": "주병기",
-          "count": 27
-        },
-        {
-          "text": "시정명령",
-          "count": 22
-        },
-        {
-          "text": "위반행위",
-          "count": 21
-        },
-        {
-          "text": "과징금",
-          "count": 21
-        },
-        {
-          "text": "부과",
-          "count": 18
-        },
-        {
-          "text": "하도급법",
-          "count": 18
-        },
-        {
-          "text": "행위",
-          "count": 18
-        },
-        {
-          "text": "한국공정거래조정원",
-          "count": 10
-        },
-        {
-          "text": "수급사업자",
-          "count": 10
-        },
-        {
-          "text": "결정",
-          "count": 10
-        },
-        {
-          "text": "소비자",
-          "count": 10
-        },
-        {
-          "text": "광고",
-          "count": 10
-        },
-        {
-          "text": "개정",
-          "count": 10
-        },
-        {
-          "text": "담합",
-          "count": 10
-        },
-        {
-          "text": "시장",
-          "count": 9
-        },
-        {
-          "text": "하도급대금",
-          "count": 9
-        },
-        {
-          "text": "표시",
-          "count": 9
-        },
-        {
-          "text": "부당",
-          "count": 9
-        },
-        {
-          "text": "근절",
-          "count": 8
-        },
-        {
-          "text": "지급",
-          "count": 8
-        },
-        {
-          "text": "위반",
-          "count": 8
-        },
-        {
-          "text": "서면",
-          "count": 8
-        },
-        {
-          "text": "가맹본부",
-          "count": 8
-        },
-        {
-          "text": "조정원",
-          "count": 8
-        },
-        {
-          "text": "실태조사",
-          "count": 8
-        },
-        {
-          "text": "온라인",
-          "count": 8
-        },
-        {
-          "text": "상임위원",
-          "count": 7
-        },
-        {
-          "text": "서비스",
-          "count": 7
-        },
-        {
-          "text": "금리",
-          "count": 7
-        },
-        {
-          "text": "간담회",
-          "count": 6
-        },
-        {
-          "text": "체결",
-          "count": 6
-        },
-        {
-          "text": "법률",
-          "count": 6
-        },
-        {
-          "text": "트립닷컴",
-          "count": 6
-        },
-        {
-          "text": "판매",
-          "count": 6
-        },
-        {
-          "text": "일본",
-          "count": 6
-        },
-        {
-          "text": "사례",
-          "count": 6
-        },
-        {
-          "text": "바가지요금",
-          "count": 6
-        },
-        {
-          "text": "대비",
-          "count": 6
-        },
-        {
-          "text": "연동",
-          "count": 6
-        },
-        {
-          "text": "설정",
-          "count": 6
-        },
-        {
-          "text": "한국소비자원",
-          "count": 5
-        },
-        {
-          "text": "윤수현",
-          "count": 5
-        },
-        {
-          "text": "보령",
-          "count": 5
-        },
-        {
-          "text": "세화학원",
-          "count": 5
-        },
-        {
-          "text": "시티건설",
-          "count": 5
-        },
-        {
-          "text": "기재",
-          "count": 5
-        },
-        {
-          "text": "심사지침",
-          "count": 5
-        },
-        {
-          "text": "가맹사업법",
-          "count": 5
-        },
-        {
-          "text": "김정기",
-          "count": 5
-        },
-        {
-          "text": "카페",
-          "count": 5
-        },
-        {
-          "text": "차음료",
-          "count": 5
-        },
-        {
-          "text": "가격",
-          "count": 5
-        },
-        {
-          "text": "부당특약",
-          "count": 5
-        },
-        {
-          "text": "포상금",
-          "count": 5
-        },
-        {
-          "text": "분쟁조정",
-          "count": 5
-        },
-        {
-          "text": "접수",
-          "count": 5
-        },
-        {
-          "text": "광고대행",
-          "count": 5
-        },
-        {
-          "text": "수사의뢰",
-          "count": 5
-        },
-        {
-          "text": "사고",
-          "count": 5
-        },
-        {
-          "text": "촬영업종",
-          "count": 4
-        },
-        {
-          "text": "사업자단체",
-          "count": 4
-        },
-        {
-          "text": "항암제",
-          "count": 4
-        },
-        {
-          "text": "시정조치",
-          "count": 4
-        },
-        {
-          "text": "우진산전",
-          "count": 4
-        },
-        {
-          "text": "기술자료",
-          "count": 4
-        },
-        {
-          "text": "하도급거래",
-          "count": 4
-        },
-        {
-          "text": "적발",
-          "count": 4
-        },
-        {
-          "text": "위탁",
-          "count": 4
-        },
-        {
-          "text": "학교법인",
-          "count": 4
-        },
-        {
-          "text": "계약",
-          "count": 4
-        },
-        {
-          "text": "전자상거래법",
-          "count": 4
-        },
-        {
-          "text": "신고",
-          "count": 4
-        },
-        {
-          "text": "이행",
-          "count": 4
-        },
-        {
-          "text": "추천",
-          "count": 4
-        },
-        {
-          "text": "보증",
-          "count": 4
-        },
-        {
-          "text": "사람",
-          "count": 4
-        },
-        {
-          "text": "가맹점",
-          "count": 4
-        },
-        {
-          "text": "동향",
-          "count": 4
-        },
-        {
-          "text": "발령",
-          "count": 4
-        },
-        {
-          "text": "숙박",
-          "count": 4
-        },
-        {
-          "text": "요금",
-          "count": 4
-        },
-        {
-          "text": "카르텔조사국장",
-          "count": 4
-        },
-        {
-          "text": "대응",
-          "count": 4
-        },
-        {
-          "text": "최대",
-          "count": 4
-        },
-        {
-          "text": "사업자",
-          "count": 4
-        },
-        {
-          "text": "규정",
-          "count": 4
-        },
-        {
-          "text": "설명회",
-          "count": 4
-        },
-        {
-          "text": "제분사",
-          "count": 4
-        },
-        {
-          "text": "밀가루",
-          "count": 4
-        },
-        {
-          "text": "쇼핑몰",
-          "count": 4
-        },
-        {
-          "text": "할인",
-          "count": 4
-        },
-        {
-          "text": "기준가격",
-          "count": 4
-        },
-        {
-          "text": "특약",
-          "count": 4
-        },
-        {
-          "text": "조사관리관",
-          "count": 4
-        },
-        {
-          "text": "협회",
-          "count": 4
-        },
-        {
-          "text": "산란",
-          "count": 4
-        },
-        {
-          "text": "증가",
-          "count": 4
-        },
-        {
-          "text": "대방건설",
-          "count": 4
-        },
-        {
-          "text": "수중조사용역",
-          "count": 4
-        },
-        {
-          "text": "입찰",
-          "count": 4
-        },
-        {
-          "text": "불법행위",
-          "count": 4
-        },
-        {
-          "text": "영유아",
-          "count": 4
-        },
-        {
-          "text": "두산",
-          "count": 4
-        },
-        {
-          "text": "정책자금",
-          "count": 4
-        },
-        {
-          "text": "명륜당",
-          "count": 4
-        },
-        {
-          "text": "경쟁당국",
-          "count": 4
-        },
-        {
-          "text": "공개",
-          "count": 3
-        },
-        {
-          "text": "안내",
-          "count": 3
-        },
-        {
-          "text": "권고",
-          "count": 3
-        },
-        {
-          "text": "정보",
-          "count": 3
-        },
-        {
-          "text": "탁소텔",
-          "count": 3
-        },
-        {
-          "text": "도세탁셀",
-          "count": 3
-        },
-        {
-          "text": "성분",
-          "count": 3
-        },
-        {
-          "text": "주식회사",
-          "count": 3
-        },
-        {
-          "text": "교부",
-          "count": 3
-        },
-        {
-          "text": "합의",
-          "count": 3
-        },
-        {
-          "text": "설립",
-          "count": 3
-        },
-        {
-          "text": "원사업자",
-          "count": 3
-        },
-        {
-          "text": "조치",
-          "count": 3
-        },
-        {
-          "text": "싱가포르",
-          "count": 3
-        },
-        {
-          "text": "청약철회",
-          "count": 3
-        },
-        {
-          "text": "과태료",
-          "count": 3
-        },
-        {
-          "text": "시행",
-          "count": 3
-        },
-        {
-          "text": "거짓",
-          "count": 3
-        },
-        {
-          "text": "기만",
-          "count": 3
-        },
-        {
-          "text": "공연",
-          "count": 3
-        },
-        {
-          "text": "주의",
-          "count": 3
-        },
-        {
-          "text": "취임",
-          "count": 3
-        },
-        {
-          "text": "신임",
-          "count": 3
-        },
-        {
-          "text": "합격",
-          "count": 3
-        },
-        {
-          "text": "공직",
-          "count": 3
-        },
-        {
-          "text": "입문",
-          "count": 3
-        },
-        {
-          "text": "의견",
-          "count": 3
-        },
-        {
-          "text": "프랜차이즈",
-          "count": 3
-        },
-        {
-          "text": "밀크티",
-          "count": 3
-        },
-        {
-          "text": "공정거래위원장",
-          "count": 3
-        },
-        {
-          "text": "건설업",
-          "count": 3
-        },
-        {
-          "text": "관행",
-          "count": 3
-        },
-        {
-          "text": "제이비인터내셔널",
-          "count": 3
-        },
-        {
-          "text": "올댓",
-          "count": 3
-        },
-        {
-          "text": "공정거래법",
-          "count": 3
-        },
-        {
-          "text": "신고자",
-          "count": 3
-        },
-        {
-          "text": "개정안",
-          "count": 3
-        },
-        {
-          "text": "행정예고",
-          "count": 3
-        },
-        {
-          "text": "신고포상금",
-          "count": 3
-        },
-        {
-          "text": "공시대상기업집단",
-          "count": 3
-        },
-        {
-          "text": "공시제도",
-          "count": 3
-        },
-        {
-          "text": "용역",
-          "count": 3
-        },
-        {
-          "text": "가격할인",
-          "count": 3
-        }
-      ]
-    },
     "kmcc": {
       "label": "방송미디어통신위원회",
       "articleCount": 35,
@@ -17168,6 +16562,612 @@
         {
           "text": "공포",
           "count": 2
+        }
+      ]
+    },
+    "ftc": {
+      "label": "공정거래위원회",
+      "articleCount": 34,
+      "words": [
+        {
+          "text": "제재",
+          "count": 28
+        },
+        {
+          "text": "주병기",
+          "count": 25
+        },
+        {
+          "text": "시정명령",
+          "count": 22
+        },
+        {
+          "text": "위반행위",
+          "count": 21
+        },
+        {
+          "text": "과징금",
+          "count": 21
+        },
+        {
+          "text": "부과",
+          "count": 18
+        },
+        {
+          "text": "하도급법",
+          "count": 18
+        },
+        {
+          "text": "행위",
+          "count": 18
+        },
+        {
+          "text": "한국공정거래조정원",
+          "count": 10
+        },
+        {
+          "text": "수급사업자",
+          "count": 10
+        },
+        {
+          "text": "결정",
+          "count": 10
+        },
+        {
+          "text": "소비자",
+          "count": 10
+        },
+        {
+          "text": "광고",
+          "count": 10
+        },
+        {
+          "text": "개정",
+          "count": 10
+        },
+        {
+          "text": "담합",
+          "count": 10
+        },
+        {
+          "text": "시장",
+          "count": 9
+        },
+        {
+          "text": "하도급대금",
+          "count": 9
+        },
+        {
+          "text": "표시",
+          "count": 9
+        },
+        {
+          "text": "부당",
+          "count": 9
+        },
+        {
+          "text": "근절",
+          "count": 8
+        },
+        {
+          "text": "지급",
+          "count": 8
+        },
+        {
+          "text": "위반",
+          "count": 8
+        },
+        {
+          "text": "서면",
+          "count": 8
+        },
+        {
+          "text": "가맹본부",
+          "count": 8
+        },
+        {
+          "text": "조정원",
+          "count": 8
+        },
+        {
+          "text": "실태조사",
+          "count": 8
+        },
+        {
+          "text": "온라인",
+          "count": 8
+        },
+        {
+          "text": "상임위원",
+          "count": 7
+        },
+        {
+          "text": "서비스",
+          "count": 7
+        },
+        {
+          "text": "금리",
+          "count": 7
+        },
+        {
+          "text": "법률",
+          "count": 6
+        },
+        {
+          "text": "트립닷컴",
+          "count": 6
+        },
+        {
+          "text": "판매",
+          "count": 6
+        },
+        {
+          "text": "일본",
+          "count": 6
+        },
+        {
+          "text": "사례",
+          "count": 6
+        },
+        {
+          "text": "바가지요금",
+          "count": 6
+        },
+        {
+          "text": "대비",
+          "count": 6
+        },
+        {
+          "text": "연동",
+          "count": 6
+        },
+        {
+          "text": "설정",
+          "count": 6
+        },
+        {
+          "text": "한국소비자원",
+          "count": 5
+        },
+        {
+          "text": "윤수현",
+          "count": 5
+        },
+        {
+          "text": "보령",
+          "count": 5
+        },
+        {
+          "text": "세화학원",
+          "count": 5
+        },
+        {
+          "text": "시티건설",
+          "count": 5
+        },
+        {
+          "text": "기재",
+          "count": 5
+        },
+        {
+          "text": "심사지침",
+          "count": 5
+        },
+        {
+          "text": "가맹사업법",
+          "count": 5
+        },
+        {
+          "text": "김정기",
+          "count": 5
+        },
+        {
+          "text": "카페",
+          "count": 5
+        },
+        {
+          "text": "차음료",
+          "count": 5
+        },
+        {
+          "text": "가격",
+          "count": 5
+        },
+        {
+          "text": "부당특약",
+          "count": 5
+        },
+        {
+          "text": "포상금",
+          "count": 5
+        },
+        {
+          "text": "분쟁조정",
+          "count": 5
+        },
+        {
+          "text": "접수",
+          "count": 5
+        },
+        {
+          "text": "광고대행",
+          "count": 5
+        },
+        {
+          "text": "수사의뢰",
+          "count": 5
+        },
+        {
+          "text": "사고",
+          "count": 5
+        },
+        {
+          "text": "촬영업종",
+          "count": 4
+        },
+        {
+          "text": "사업자단체",
+          "count": 4
+        },
+        {
+          "text": "항암제",
+          "count": 4
+        },
+        {
+          "text": "시정조치",
+          "count": 4
+        },
+        {
+          "text": "우진산전",
+          "count": 4
+        },
+        {
+          "text": "기술자료",
+          "count": 4
+        },
+        {
+          "text": "하도급거래",
+          "count": 4
+        },
+        {
+          "text": "적발",
+          "count": 4
+        },
+        {
+          "text": "위탁",
+          "count": 4
+        },
+        {
+          "text": "학교법인",
+          "count": 4
+        },
+        {
+          "text": "계약",
+          "count": 4
+        },
+        {
+          "text": "전자상거래법",
+          "count": 4
+        },
+        {
+          "text": "신고",
+          "count": 4
+        },
+        {
+          "text": "이행",
+          "count": 4
+        },
+        {
+          "text": "추천",
+          "count": 4
+        },
+        {
+          "text": "보증",
+          "count": 4
+        },
+        {
+          "text": "사람",
+          "count": 4
+        },
+        {
+          "text": "가맹점",
+          "count": 4
+        },
+        {
+          "text": "동향",
+          "count": 4
+        },
+        {
+          "text": "발령",
+          "count": 4
+        },
+        {
+          "text": "숙박",
+          "count": 4
+        },
+        {
+          "text": "요금",
+          "count": 4
+        },
+        {
+          "text": "카르텔조사국장",
+          "count": 4
+        },
+        {
+          "text": "대응",
+          "count": 4
+        },
+        {
+          "text": "최대",
+          "count": 4
+        },
+        {
+          "text": "사업자",
+          "count": 4
+        },
+        {
+          "text": "규정",
+          "count": 4
+        },
+        {
+          "text": "설명회",
+          "count": 4
+        },
+        {
+          "text": "제분사",
+          "count": 4
+        },
+        {
+          "text": "밀가루",
+          "count": 4
+        },
+        {
+          "text": "쇼핑몰",
+          "count": 4
+        },
+        {
+          "text": "할인",
+          "count": 4
+        },
+        {
+          "text": "기준가격",
+          "count": 4
+        },
+        {
+          "text": "특약",
+          "count": 4
+        },
+        {
+          "text": "조사관리관",
+          "count": 4
+        },
+        {
+          "text": "협회",
+          "count": 4
+        },
+        {
+          "text": "산란",
+          "count": 4
+        },
+        {
+          "text": "증가",
+          "count": 4
+        },
+        {
+          "text": "대방건설",
+          "count": 4
+        },
+        {
+          "text": "수중조사용역",
+          "count": 4
+        },
+        {
+          "text": "입찰",
+          "count": 4
+        },
+        {
+          "text": "불법행위",
+          "count": 4
+        },
+        {
+          "text": "영유아",
+          "count": 4
+        },
+        {
+          "text": "두산",
+          "count": 4
+        },
+        {
+          "text": "정책자금",
+          "count": 4
+        },
+        {
+          "text": "명륜당",
+          "count": 4
+        },
+        {
+          "text": "공개",
+          "count": 3
+        },
+        {
+          "text": "간담회",
+          "count": 3
+        },
+        {
+          "text": "안내",
+          "count": 3
+        },
+        {
+          "text": "권고",
+          "count": 3
+        },
+        {
+          "text": "정보",
+          "count": 3
+        },
+        {
+          "text": "탁소텔",
+          "count": 3
+        },
+        {
+          "text": "도세탁셀",
+          "count": 3
+        },
+        {
+          "text": "성분",
+          "count": 3
+        },
+        {
+          "text": "주식회사",
+          "count": 3
+        },
+        {
+          "text": "교부",
+          "count": 3
+        },
+        {
+          "text": "체결",
+          "count": 3
+        },
+        {
+          "text": "합의",
+          "count": 3
+        },
+        {
+          "text": "설립",
+          "count": 3
+        },
+        {
+          "text": "원사업자",
+          "count": 3
+        },
+        {
+          "text": "조치",
+          "count": 3
+        },
+        {
+          "text": "싱가포르",
+          "count": 3
+        },
+        {
+          "text": "청약철회",
+          "count": 3
+        },
+        {
+          "text": "과태료",
+          "count": 3
+        },
+        {
+          "text": "시행",
+          "count": 3
+        },
+        {
+          "text": "거짓",
+          "count": 3
+        },
+        {
+          "text": "기만",
+          "count": 3
+        },
+        {
+          "text": "공연",
+          "count": 3
+        },
+        {
+          "text": "주의",
+          "count": 3
+        },
+        {
+          "text": "취임",
+          "count": 3
+        },
+        {
+          "text": "신임",
+          "count": 3
+        },
+        {
+          "text": "합격",
+          "count": 3
+        },
+        {
+          "text": "공직",
+          "count": 3
+        },
+        {
+          "text": "입문",
+          "count": 3
+        },
+        {
+          "text": "의견",
+          "count": 3
+        },
+        {
+          "text": "프랜차이즈",
+          "count": 3
+        },
+        {
+          "text": "밀크티",
+          "count": 3
+        },
+        {
+          "text": "공정거래위원장",
+          "count": 3
+        },
+        {
+          "text": "건설업",
+          "count": 3
+        },
+        {
+          "text": "관행",
+          "count": 3
+        },
+        {
+          "text": "제이비인터내셔널",
+          "count": 3
+        },
+        {
+          "text": "올댓",
+          "count": 3
+        },
+        {
+          "text": "공정거래법",
+          "count": 3
+        },
+        {
+          "text": "신고자",
+          "count": 3
+        },
+        {
+          "text": "개정안",
+          "count": 3
+        },
+        {
+          "text": "행정예고",
+          "count": 3
+        },
+        {
+          "text": "신고포상금",
+          "count": 3
+        },
+        {
+          "text": "공시대상기업집단",
+          "count": 3
+        },
+        {
+          "text": "공시제도",
+          "count": 3
+        },
+        {
+          "text": "용역",
+          "count": 3
+        },
+        {
+          "text": "가격할인",
+          "count": 3
+        },
+        {
+          "text": "발급",
+          "count": 3
         }
       ]
     },
