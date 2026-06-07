@@ -1,0 +1,40 @@
+# 경북귀농일기 정책 돌발 이벤트 풀 — 매일 정부 보도자료를 Gemini로 분류·서사 생성.
+# 결과 data/farmstory-events.json 은 게임이 정적 fetch (사용자 키 불필요).
+# 필요 시크릿: GEMINI_API_KEY_1..5 (stock-portfolio-ai 와 공유, 추가 설정 불필요)
+name: farmstory-policy-events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 21 * * *" # 매일 06:30 KST (UTC 21:30)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: farmstory-policy-events
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build policy event pool
+        env:
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+        run: node scripts/build-farmstory-events.mjs
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/farmstory-events.json
+          git diff --cached --quiet || git commit -m "farmstory policy events $(date -u +%F)"
+          git push || (git pull --rebase --autostash && git push)
