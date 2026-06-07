@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T09:33:59.525718+09:00",
-  "totalArticles": 2240,
+  "generated": "2026-06-07T09:38:23.912871+09:00",
+  "totalArticles": 2239,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2240,
+      "articleCount": 2239,
       "words": [
         {
           "text": "대응",
@@ -84,11 +84,11 @@
           "count": 176
         },
         {
-          "text": "출범",
-          "count": 176
+          "text": "확산",
+          "count": 175
         },
         {
-          "text": "확산",
+          "text": "출범",
           "count": 175
         },
         {
@@ -30013,7 +30013,7 @@
     },
     "k_cohesion": {
       "label": "국민통합위원회",
-      "articleCount": 3,
+      "articleCount": 2,
       "words": [
         {
           "text": "홍보대사",
@@ -30045,26 +30045,6 @@
         },
         {
           "text": "휘호",
-          "count": 1
-        },
-        {
-          "text": "대·중소기업",
-          "count": 1
-        },
-        {
-          "text": "상공인",
-          "count": 1
-        },
-        {
-          "text": "상생동반",
-          "count": 1
-        },
-        {
-          "text": "협의체",
-          "count": 1
-        },
-        {
-          "text": "출범",
           "count": 1
         }
       ]
