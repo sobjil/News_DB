@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-08T18:52:31.163141+09:00",
-  "totalArticles": 2325,
+  "generated": "2026-06-08T19:52:29.868846+09:00",
+  "totalArticles": 2327,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2325,
+      "articleCount": 2327,
       "words": [
         {
           "text": "대응",
@@ -69,7 +69,7 @@
         },
         {
           "text": "선정",
-          "count": 201
+          "count": 203
         },
         {
           "text": "증가",
@@ -304,16 +304,16 @@
           "count": 113
         },
         {
+          "text": "규모",
+          "count": 112
+        },
+        {
           "text": "보건복지부",
           "count": 112
         },
         {
           "text": "청소년",
           "count": 112
-        },
-        {
-          "text": "규모",
-          "count": 110
         },
         {
           "text": "법무부",
@@ -340,15 +340,15 @@
           "count": 106
         },
         {
+          "text": "기후에너지환경부",
+          "count": 105
+        },
+        {
           "text": "보도참고",
           "count": 105
         },
         {
           "text": "정은경",
-          "count": 104
-        },
-        {
-          "text": "기후에너지환경부",
           "count": 104
         },
         {
@@ -420,6 +420,10 @@
           "count": 94
         },
         {
+          "text": "사용",
+          "count": 93
+        },
+        {
           "text": "프로그램",
           "count": 93
         },
@@ -429,10 +433,6 @@
         },
         {
           "text": "지방정부",
-          "count": 92
-        },
-        {
-          "text": "사용",
           "count": 92
         },
         {
@@ -664,12 +664,12 @@
           "count": 73
         },
         {
-          "text": "해소",
+          "text": "김성환",
           "count": 72
         },
         {
-          "text": "김성환",
-          "count": 71
+          "text": "해소",
+          "count": 72
         },
         {
           "text": "국가유산청",
@@ -736,6 +736,10 @@
           "count": 66
         },
         {
+          "text": "안전관리",
+          "count": 65
+        },
+        {
           "text": "한성숙",
           "count": 65
         },
@@ -765,10 +769,6 @@
         },
         {
           "text": "통일부",
-          "count": 64
-        },
-        {
-          "text": "안전관리",
           "count": 64
         },
         {
@@ -2023,7 +2023,7 @@
     },
     "msit": {
       "label": "과학기술정보통신부",
-      "articleCount": 103,
+      "articleCount": 104,
       "words": [
         {
           "text": "인공지능",
@@ -2034,12 +2034,12 @@
           "count": 21
         },
         {
-          "text": "모델",
-          "count": 16
+          "text": "선정",
+          "count": 17
         },
         {
-          "text": "선정",
-          "count": 15
+          "text": "모델",
+          "count": 16
         },
         {
           "text": "연구개발",
@@ -2204,6 +2204,10 @@
         {
           "text": "프로그램",
           "count": 6
+        },
+        {
+          "text": "규모",
+          "count": 5
         },
         {
           "text": "배경후",
@@ -2599,10 +2603,6 @@
         },
         {
           "text": "게재",
-          "count": 3
-        },
-        {
-          "text": "규모",
           "count": 3
         },
         {
@@ -6871,11 +6871,11 @@
     },
     "mcee": {
       "label": "기후에너지환경부",
-      "articleCount": 78,
+      "articleCount": 79,
       "words": [
         {
           "text": "김성환",
-          "count": 68
+          "count": 69
         },
         {
           "text": "소재",
@@ -6990,6 +6990,10 @@
           "count": 10
         },
         {
+          "text": "사용",
+          "count": 9
+        },
+        {
           "text": "자원",
           "count": 9
         },
@@ -7032,10 +7036,6 @@
         {
           "text": "기업",
           "count": 9
-        },
-        {
-          "text": "사용",
-          "count": 8
         },
         {
           "text": "기술개발",
