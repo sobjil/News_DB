@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-08T20:24:44.799569+09:00",
-  "totalArticles": 2327,
+  "generated": "2026-06-08T20:52:30.818273+09:00",
+  "totalArticles": 2328,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2327,
+      "articleCount": 2328,
       "words": [
         {
           "text": "대응",
@@ -13,7 +13,7 @@
         },
         {
           "text": "논의",
-          "count": 400
+          "count": 401
         },
         {
           "text": "점검",
@@ -317,7 +317,7 @@
         },
         {
           "text": "법무부",
-          "count": 109
+          "count": 111
         },
         {
           "text": "가능",
@@ -352,16 +352,16 @@
           "count": 104
         },
         {
+          "text": "신속",
+          "count": 103
+        },
+        {
           "text": "고용노동부",
           "count": 103
         },
         {
           "text": "조사",
           "count": 103
-        },
-        {
-          "text": "신속",
-          "count": 102
         },
         {
           "text": "국무총리",
@@ -444,6 +444,10 @@
           "count": 91
         },
         {
+          "text": "양국",
+          "count": 90
+        },
+        {
           "text": "평가",
           "count": 90
         },
@@ -457,10 +461,6 @@
         },
         {
           "text": "산업부",
-          "count": 89
-        },
-        {
-          "text": "양국",
           "count": 89
         },
         {
@@ -480,6 +480,10 @@
           "count": 87
         },
         {
+          "text": "면담",
+          "count": 86
+        },
+        {
           "text": "소방청",
           "count": 86
         },
@@ -490,10 +494,6 @@
         {
           "text": "지정",
           "count": 86
-        },
-        {
-          "text": "면담",
-          "count": 85
         },
         {
           "text": "공모",
@@ -664,6 +664,10 @@
           "count": 73
         },
         {
+          "text": "미국",
+          "count": 72
+        },
+        {
           "text": "김성환",
           "count": 72
         },
@@ -705,10 +709,6 @@
         },
         {
           "text": "주제",
-          "count": 69
-        },
-        {
-          "text": "미국",
           "count": 69
         },
         {
@@ -12323,6 +12323,612 @@
         }
       ]
     },
+    "moj": {
+      "label": "법무부",
+      "articleCount": 47,
+      "words": [
+        {
+          "text": "정성호",
+          "count": 39
+        },
+        {
+          "text": "참조",
+          "count": 33
+        },
+        {
+          "text": "출입국",
+          "count": 19
+        },
+        {
+          "text": "외국인",
+          "count": 15
+        },
+        {
+          "text": "마약",
+          "count": 15
+        },
+        {
+          "text": "시행",
+          "count": 14
+        },
+        {
+          "text": "관리비",
+          "count": 12
+        },
+        {
+          "text": "이민정책",
+          "count": 11
+        },
+        {
+          "text": "비자",
+          "count": 11
+        },
+        {
+          "text": "가해자",
+          "count": 10
+        },
+        {
+          "text": "법률",
+          "count": 10
+        },
+        {
+          "text": "대응",
+          "count": 10
+        },
+        {
+          "text": "본격",
+          "count": 10
+        },
+        {
+          "text": "피해자",
+          "count": 10
+        },
+        {
+          "text": "범죄",
+          "count": 9
+        },
+        {
+          "text": "기업",
+          "count": 9
+        },
+        {
+          "text": "부족",
+          "count": 9
+        },
+        {
+          "text": "치료",
+          "count": 8
+        },
+        {
+          "text": "재활",
+          "count": 8
+        },
+        {
+          "text": "공개",
+          "count": 8
+        },
+        {
+          "text": "예방",
+          "count": 8
+        },
+        {
+          "text": "면담",
+          "count": 7
+        },
+        {
+          "text": "회복",
+          "count": 7
+        },
+        {
+          "text": "교정",
+          "count": 7
+        },
+        {
+          "text": "국민주권정부",
+          "count": 7
+        },
+        {
+          "text": "신설",
+          "count": 7
+        },
+        {
+          "text": "사건",
+          "count": 7
+        },
+        {
+          "text": "성폭력",
+          "count": 7
+        },
+        {
+          "text": "스토킹",
+          "count": 7
+        },
+        {
+          "text": "인권",
+          "count": 7
+        },
+        {
+          "text": "교류",
+          "count": 7
+        },
+        {
+          "text": "양국",
+          "count": 6
+        },
+        {
+          "text": "방문",
+          "count": 6
+        },
+        {
+          "text": "출범",
+          "count": 6
+        },
+        {
+          "text": "상공인",
+          "count": 6
+        },
+        {
+          "text": "과학기술",
+          "count": 6
+        },
+        {
+          "text": "유치",
+          "count": 6
+        },
+        {
+          "text": "톱티어",
+          "count": 6
+        },
+        {
+          "text": "보완수사",
+          "count": 6
+        },
+        {
+          "text": "진출",
+          "count": 6
+        },
+        {
+          "text": "시작",
+          "count": 6
+        },
+        {
+          "text": "제도",
+          "count": 6
+        },
+        {
+          "text": "차단",
+          "count": 6
+        },
+        {
+          "text": "검찰",
+          "count": 6
+        },
+        {
+          "text": "최고",
+          "count": 6
+        },
+        {
+          "text": "내역",
+          "count": 6
+        },
+        {
+          "text": "의무",
+          "count": 6
+        },
+        {
+          "text": "투입",
+          "count": 6
+        },
+        {
+          "text": "주한",
+          "count": 6
+        },
+        {
+          "text": "시범",
+          "count": 6
+        },
+        {
+          "text": "신속",
+          "count": 5
+        },
+        {
+          "text": "고용특례",
+          "count": 5
+        },
+        {
+          "text": "인도네시아",
+          "count": 5
+        },
+        {
+          "text": "단체관광객",
+          "count": 5
+        },
+        {
+          "text": "위치",
+          "count": 5
+        },
+        {
+          "text": "법무부장관",
+          "count": 5
+        },
+        {
+          "text": "여성",
+          "count": 5
+        },
+        {
+          "text": "실무",
+          "count": 5
+        },
+        {
+          "text": "교정시설",
+          "count": 5
+        },
+        {
+          "text": "고용",
+          "count": 5
+        },
+        {
+          "text": "노동자",
+          "count": 5
+        },
+        {
+          "text": "이전",
+          "count": 5
+        },
+        {
+          "text": "안전",
+          "count": 5
+        },
+        {
+          "text": "교정공무원",
+          "count": 5
+        },
+        {
+          "text": "동포체류지원센터",
+          "count": 5
+        },
+        {
+          "text": "몽골",
+          "count": 5
+        },
+        {
+          "text": "해법",
+          "count": 5
+        },
+        {
+          "text": "계절근로",
+          "count": 5
+        },
+        {
+          "text": "소년원",
+          "count": 5
+        },
+        {
+          "text": "한·미",
+          "count": 4
+        },
+        {
+          "text": "불법이민",
+          "count": 4
+        },
+        {
+          "text": "점검",
+          "count": 4
+        },
+        {
+          "text": "중심",
+          "count": 4
+        },
+        {
+          "text": "민생경제",
+          "count": 4
+        },
+        {
+          "text": "인구감소지역",
+          "count": 4
+        },
+        {
+          "text": "인재",
+          "count": 4
+        },
+        {
+          "text": "관광",
+          "count": 4
+        },
+        {
+          "text": "활성",
+          "count": 4
+        },
+        {
+          "text": "교정본부",
+          "count": 4
+        },
+        {
+          "text": "교도관",
+          "count": 4
+        },
+        {
+          "text": "살인",
+          "count": 4
+        },
+        {
+          "text": "기소",
+          "count": 4
+        },
+        {
+          "text": "호주",
+          "count": 4
+        },
+        {
+          "text": "해외진출기업",
+          "count": 4
+        },
+        {
+          "text": "발간",
+          "count": 4
+        },
+        {
+          "text": "리스크",
+          "count": 4
+        },
+        {
+          "text": "친일",
+          "count": 4
+        },
+        {
+          "text": "부당",
+          "count": 4
+        },
+        {
+          "text": "장애인",
+          "count": 4
+        },
+        {
+          "text": "인사",
+          "count": 4
+        },
+        {
+          "text": "사각지대",
+          "count": 4
+        },
+        {
+          "text": "보호",
+          "count": 4
+        },
+        {
+          "text": "권익",
+          "count": 4
+        },
+        {
+          "text": "송환",
+          "count": 4
+        },
+        {
+          "text": "일잘러",
+          "count": 4
+        },
+        {
+          "text": "저스티스",
+          "count": 4
+        },
+        {
+          "text": "서포터스",
+          "count": 4
+        },
+        {
+          "text": "깜깜이",
+          "count": 4
+        },
+        {
+          "text": "과거",
+          "count": 4
+        },
+        {
+          "text": "시민",
+          "count": 4
+        },
+        {
+          "text": "개정",
+          "count": 4
+        },
+        {
+          "text": "의견",
+          "count": 4
+        },
+        {
+          "text": "사증",
+          "count": 4
+        },
+        {
+          "text": "대행기관",
+          "count": 4
+        },
+        {
+          "text": "유튜브",
+          "count": 4
+        },
+        {
+          "text": "검사",
+          "count": 4
+        },
+        {
+          "text": "중계",
+          "count": 4
+        },
+        {
+          "text": "국가배상금",
+          "count": 4
+        },
+        {
+          "text": "지급",
+          "count": 4
+        },
+        {
+          "text": "다양",
+          "count": 4
+        },
+        {
+          "text": "태국대사",
+          "count": 4
+        },
+        {
+          "text": "중앙",
+          "count": 4
+        },
+        {
+          "text": "전문기관",
+          "count": 4
+        },
+        {
+          "text": "해킹",
+          "count": 4
+        },
+        {
+          "text": "원격의료",
+          "count": 4
+        },
+        {
+          "text": "심사",
+          "count": 3
+        },
+        {
+          "text": "외국인정책본부장",
+          "count": 3
+        },
+        {
+          "text": "미국",
+          "count": 3
+        },
+        {
+          "text": "논의",
+          "count": 3
+        },
+        {
+          "text": "유일",
+          "count": 3
+        },
+        {
+          "text": "소망교도소",
+          "count": 3
+        },
+        {
+          "text": "프로그램",
+          "count": 3
+        },
+        {
+          "text": "수용관리",
+          "count": 3
+        },
+        {
+          "text": "지역활력",
+          "count": 3
+        },
+        {
+          "text": "인력난",
+          "count": 3
+        },
+        {
+          "text": "해소",
+          "count": 3
+        },
+        {
+          "text": "계절근로자",
+          "count": 3
+        },
+        {
+          "text": "희생",
+          "count": 3
+        },
+        {
+          "text": "추모",
+          "count": 3
+        },
+        {
+          "text": "참배",
+          "count": 3
+        },
+        {
+          "text": "혐의",
+          "count": 3
+        },
+        {
+          "text": "직장",
+          "count": 3
+        },
+        {
+          "text": "제정안",
+          "count": 3
+        },
+        {
+          "text": "공포",
+          "count": 3
+        },
+        {
+          "text": "관계부처",
+          "count": 3
+        },
+        {
+          "text": "재범",
+          "count": 3
+        },
+        {
+          "text": "농어촌",
+          "count": 3
+        },
+        {
+          "text": "숙련인력",
+          "count": 3
+        },
+        {
+          "text": "한도",
+          "count": 3
+        },
+        {
+          "text": "이직",
+          "count": 3
+        },
+        {
+          "text": "경력",
+          "count": 3
+        },
+        {
+          "text": "인정",
+          "count": 3
+        },
+        {
+          "text": "허용",
+          "count": 3
+        },
+        {
+          "text": "총력",
+          "count": 3
+        },
+        {
+          "text": "전방위",
+          "count": 3
+        },
+        {
+          "text": "지속",
+          "count": 3
+        },
+        {
+          "text": "약자",
+          "count": 3
+        },
+        {
+          "text": "아동",
+          "count": 3
+        },
+        {
+          "text": "범죄예방정책국장",
+          "count": 3
+        },
+        {
+          "text": "이민자",
+          "count": 3
+        }
+      ]
+    },
     "khs": {
       "label": "국가유산청",
       "articleCount": 46,
@@ -12925,612 +13531,6 @@
         },
         {
           "text": "대통령기록관",
-          "count": 3
-        }
-      ]
-    },
-    "moj": {
-      "label": "법무부",
-      "articleCount": 46,
-      "words": [
-        {
-          "text": "정성호",
-          "count": 38
-        },
-        {
-          "text": "참조",
-          "count": 32
-        },
-        {
-          "text": "출입국",
-          "count": 15
-        },
-        {
-          "text": "외국인",
-          "count": 15
-        },
-        {
-          "text": "마약",
-          "count": 15
-        },
-        {
-          "text": "시행",
-          "count": 14
-        },
-        {
-          "text": "관리비",
-          "count": 12
-        },
-        {
-          "text": "비자",
-          "count": 11
-        },
-        {
-          "text": "이민정책",
-          "count": 10
-        },
-        {
-          "text": "가해자",
-          "count": 10
-        },
-        {
-          "text": "법률",
-          "count": 10
-        },
-        {
-          "text": "대응",
-          "count": 10
-        },
-        {
-          "text": "본격",
-          "count": 10
-        },
-        {
-          "text": "피해자",
-          "count": 10
-        },
-        {
-          "text": "범죄",
-          "count": 9
-        },
-        {
-          "text": "기업",
-          "count": 9
-        },
-        {
-          "text": "부족",
-          "count": 9
-        },
-        {
-          "text": "치료",
-          "count": 8
-        },
-        {
-          "text": "재활",
-          "count": 8
-        },
-        {
-          "text": "공개",
-          "count": 8
-        },
-        {
-          "text": "예방",
-          "count": 8
-        },
-        {
-          "text": "회복",
-          "count": 7
-        },
-        {
-          "text": "교정",
-          "count": 7
-        },
-        {
-          "text": "국민주권정부",
-          "count": 7
-        },
-        {
-          "text": "신설",
-          "count": 7
-        },
-        {
-          "text": "사건",
-          "count": 7
-        },
-        {
-          "text": "성폭력",
-          "count": 7
-        },
-        {
-          "text": "스토킹",
-          "count": 7
-        },
-        {
-          "text": "인권",
-          "count": 7
-        },
-        {
-          "text": "교류",
-          "count": 7
-        },
-        {
-          "text": "방문",
-          "count": 6
-        },
-        {
-          "text": "출범",
-          "count": 6
-        },
-        {
-          "text": "상공인",
-          "count": 6
-        },
-        {
-          "text": "과학기술",
-          "count": 6
-        },
-        {
-          "text": "유치",
-          "count": 6
-        },
-        {
-          "text": "톱티어",
-          "count": 6
-        },
-        {
-          "text": "보완수사",
-          "count": 6
-        },
-        {
-          "text": "진출",
-          "count": 6
-        },
-        {
-          "text": "시작",
-          "count": 6
-        },
-        {
-          "text": "제도",
-          "count": 6
-        },
-        {
-          "text": "차단",
-          "count": 6
-        },
-        {
-          "text": "검찰",
-          "count": 6
-        },
-        {
-          "text": "최고",
-          "count": 6
-        },
-        {
-          "text": "내역",
-          "count": 6
-        },
-        {
-          "text": "의무",
-          "count": 6
-        },
-        {
-          "text": "투입",
-          "count": 6
-        },
-        {
-          "text": "주한",
-          "count": 6
-        },
-        {
-          "text": "면담",
-          "count": 6
-        },
-        {
-          "text": "시범",
-          "count": 6
-        },
-        {
-          "text": "고용특례",
-          "count": 5
-        },
-        {
-          "text": "인도네시아",
-          "count": 5
-        },
-        {
-          "text": "단체관광객",
-          "count": 5
-        },
-        {
-          "text": "위치",
-          "count": 5
-        },
-        {
-          "text": "법무부장관",
-          "count": 5
-        },
-        {
-          "text": "여성",
-          "count": 5
-        },
-        {
-          "text": "실무",
-          "count": 5
-        },
-        {
-          "text": "교정시설",
-          "count": 5
-        },
-        {
-          "text": "고용",
-          "count": 5
-        },
-        {
-          "text": "노동자",
-          "count": 5
-        },
-        {
-          "text": "이전",
-          "count": 5
-        },
-        {
-          "text": "안전",
-          "count": 5
-        },
-        {
-          "text": "교정공무원",
-          "count": 5
-        },
-        {
-          "text": "양국",
-          "count": 5
-        },
-        {
-          "text": "동포체류지원센터",
-          "count": 5
-        },
-        {
-          "text": "몽골",
-          "count": 5
-        },
-        {
-          "text": "해법",
-          "count": 5
-        },
-        {
-          "text": "계절근로",
-          "count": 5
-        },
-        {
-          "text": "소년원",
-          "count": 5
-        },
-        {
-          "text": "점검",
-          "count": 4
-        },
-        {
-          "text": "중심",
-          "count": 4
-        },
-        {
-          "text": "민생경제",
-          "count": 4
-        },
-        {
-          "text": "인구감소지역",
-          "count": 4
-        },
-        {
-          "text": "인재",
-          "count": 4
-        },
-        {
-          "text": "관광",
-          "count": 4
-        },
-        {
-          "text": "활성",
-          "count": 4
-        },
-        {
-          "text": "교정본부",
-          "count": 4
-        },
-        {
-          "text": "교도관",
-          "count": 4
-        },
-        {
-          "text": "살인",
-          "count": 4
-        },
-        {
-          "text": "기소",
-          "count": 4
-        },
-        {
-          "text": "호주",
-          "count": 4
-        },
-        {
-          "text": "해외진출기업",
-          "count": 4
-        },
-        {
-          "text": "발간",
-          "count": 4
-        },
-        {
-          "text": "리스크",
-          "count": 4
-        },
-        {
-          "text": "친일",
-          "count": 4
-        },
-        {
-          "text": "부당",
-          "count": 4
-        },
-        {
-          "text": "장애인",
-          "count": 4
-        },
-        {
-          "text": "인사",
-          "count": 4
-        },
-        {
-          "text": "사각지대",
-          "count": 4
-        },
-        {
-          "text": "보호",
-          "count": 4
-        },
-        {
-          "text": "권익",
-          "count": 4
-        },
-        {
-          "text": "송환",
-          "count": 4
-        },
-        {
-          "text": "일잘러",
-          "count": 4
-        },
-        {
-          "text": "저스티스",
-          "count": 4
-        },
-        {
-          "text": "서포터스",
-          "count": 4
-        },
-        {
-          "text": "깜깜이",
-          "count": 4
-        },
-        {
-          "text": "과거",
-          "count": 4
-        },
-        {
-          "text": "시민",
-          "count": 4
-        },
-        {
-          "text": "개정",
-          "count": 4
-        },
-        {
-          "text": "의견",
-          "count": 4
-        },
-        {
-          "text": "사증",
-          "count": 4
-        },
-        {
-          "text": "대행기관",
-          "count": 4
-        },
-        {
-          "text": "신속",
-          "count": 4
-        },
-        {
-          "text": "유튜브",
-          "count": 4
-        },
-        {
-          "text": "검사",
-          "count": 4
-        },
-        {
-          "text": "중계",
-          "count": 4
-        },
-        {
-          "text": "국가배상금",
-          "count": 4
-        },
-        {
-          "text": "지급",
-          "count": 4
-        },
-        {
-          "text": "다양",
-          "count": 4
-        },
-        {
-          "text": "태국대사",
-          "count": 4
-        },
-        {
-          "text": "중앙",
-          "count": 4
-        },
-        {
-          "text": "전문기관",
-          "count": 4
-        },
-        {
-          "text": "해킹",
-          "count": 4
-        },
-        {
-          "text": "원격의료",
-          "count": 4
-        },
-        {
-          "text": "유일",
-          "count": 3
-        },
-        {
-          "text": "소망교도소",
-          "count": 3
-        },
-        {
-          "text": "프로그램",
-          "count": 3
-        },
-        {
-          "text": "수용관리",
-          "count": 3
-        },
-        {
-          "text": "지역활력",
-          "count": 3
-        },
-        {
-          "text": "인력난",
-          "count": 3
-        },
-        {
-          "text": "해소",
-          "count": 3
-        },
-        {
-          "text": "계절근로자",
-          "count": 3
-        },
-        {
-          "text": "희생",
-          "count": 3
-        },
-        {
-          "text": "추모",
-          "count": 3
-        },
-        {
-          "text": "참배",
-          "count": 3
-        },
-        {
-          "text": "혐의",
-          "count": 3
-        },
-        {
-          "text": "직장",
-          "count": 3
-        },
-        {
-          "text": "제정안",
-          "count": 3
-        },
-        {
-          "text": "공포",
-          "count": 3
-        },
-        {
-          "text": "관계부처",
-          "count": 3
-        },
-        {
-          "text": "재범",
-          "count": 3
-        },
-        {
-          "text": "농어촌",
-          "count": 3
-        },
-        {
-          "text": "숙련인력",
-          "count": 3
-        },
-        {
-          "text": "한도",
-          "count": 3
-        },
-        {
-          "text": "이직",
-          "count": 3
-        },
-        {
-          "text": "경력",
-          "count": 3
-        },
-        {
-          "text": "인정",
-          "count": 3
-        },
-        {
-          "text": "허용",
-          "count": 3
-        },
-        {
-          "text": "총력",
-          "count": 3
-        },
-        {
-          "text": "전방위",
-          "count": 3
-        },
-        {
-          "text": "지속",
-          "count": 3
-        },
-        {
-          "text": "약자",
-          "count": 3
-        },
-        {
-          "text": "아동",
-          "count": 3
-        },
-        {
-          "text": "범죄예방정책국장",
-          "count": 3
-        },
-        {
-          "text": "이민자",
-          "count": 3
-        },
-        {
-          "text": "권익팀",
-          "count": 3
-        },
-        {
-          "text": "과정",
-          "count": 3
-        },
-        {
-          "text": "실질",
-          "count": 3
-        },
-        {
-          "text": "과기정통부",
-          "count": 3
-        },
-        {
-          "text": "국제형사과",
-          "count": 3
-        },
-        {
-          "text": "효율러",
           "count": 3
         }
       ]
