@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T10:36:13.213312+00:00",
-  "count": 2325,
+  "updated": "2026-06-08T10:51:15.752006+00:00",
+  "count": 2327,
   "retentionDays": 30,
   "agencies": [
     "개인정보보호위원회",
@@ -55,6 +55,21 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "정부 GPU 확보·구축·운용지원 사업(2.08조 원 규모) 참여 사업자 선정 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765608&call_from=rsslink",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-06-08T09:38:44+00:00",
+      "description": "정부 GPU 확보·구축·운용지원 사업(2.08조 원 규모) 참여 사업자 선정 결과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다. ※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198485217&tblKey=GMN",
+          "filename": "260608 즉시 (보도) 26년 GPU 확보 구축 운용지원사업(2.08조원 규모) 참여 사업자 선정 결과.hwpx"
+        }
+      ]
+    },
     {
       "title": "중부지방산림청, 근로자의 생명을 지키기 위한 비상대응훈련 실시",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765606&call_from=rsslink",
@@ -112,6 +127,26 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198485200&tblKey=GMN",
           "filename": "(유통소비정책관-농식품시장관리과) 농식품부 공급 확대 및 할인지원으로 농축산물 수급 안정에 전력 보도자료(6.8. 배포 시).hwp"
+        }
+      ]
+    },
+    {
+      "title": "2026년 수소발전입찰시장 개설물량 행정예고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765607&call_from=rsslink",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-06-08T09:00:00+00:00",
+      "description": "▷ 2026년 청정수소발전시장 500GWh, 일반수소발전시장 930GWh 개설 기후에너지환경부(장관 김성환)는 '수소발전 입찰시장 연도별 구매량 산정 등에 관한 고시(이하 고시)' 개정안을 6월 10일부터 30일까지 행정예고한다고 밝혔다. 이 고시는 '수소경제 육성 및 수소 안전관리에 관한 법률' 제25조의 6에 따른 '수소발전 입찰시장'의 세부사항을 규정하고 있으며, 이번 고시 개정안은 올해(2026년) 수소발전 입찰시장 개설물량을 설정하는 것을 주요 내용으로 한다. 수소발전 입찰시장은 수소 또는 수소화합물을 발전 연료로 사용하여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198485248&tblKey=GMN",
+          "filename": "2026년 수소발전입찰시장 개설물량 행정예고(보도자료)(수소경제 6.8).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198485249&tblKey=GMN",
+          "filename": "2026년 수소발전입찰시장 개설물량 행정예고(보도자료)(수소경제 6.8).pdf"
         }
       ]
     },
