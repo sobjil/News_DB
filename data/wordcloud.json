@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-09T23:44:22.008203+09:00",
-  "totalArticles": 2462,
+  "generated": "2026-06-10T00:37:12.385695+09:00",
+  "totalArticles": 2460,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2462,
+      "articleCount": 2460,
       "words": [
         {
           "text": "대응",
@@ -33,7 +33,7 @@
         },
         {
           "text": "방문",
-          "count": 303
+          "count": 302
         },
         {
           "text": "안전",
@@ -161,7 +161,7 @@
         },
         {
           "text": "보호",
-          "count": 155
+          "count": 153
         },
         {
           "text": "데이터",
@@ -264,10 +264,6 @@
           "count": 127
         },
         {
-          "text": "연계",
-          "count": 126
-        },
-        {
           "text": "대표",
           "count": 126
         },
@@ -288,10 +284,6 @@
           "count": 123
         },
         {
-          "text": "필요",
-          "count": 122
-        },
-        {
           "text": "활성",
           "count": 122
         },
@@ -300,7 +292,15 @@
           "count": 122
         },
         {
+          "text": "연계",
+          "count": 121
+        },
+        {
           "text": "규모",
+          "count": 120
+        },
+        {
+          "text": "필요",
           "count": 120
         },
         {
@@ -388,10 +388,6 @@
           "count": 105
         },
         {
-          "text": "집중",
-          "count": 104
-        },
-        {
           "text": "전략",
           "count": 104
         },
@@ -405,6 +401,10 @@
         },
         {
           "text": "조사",
+          "count": 103
+        },
+        {
+          "text": "집중",
           "count": 103
         },
         {
@@ -696,19 +696,11 @@
           "count": 74
         },
         {
-          "text": "사례",
-          "count": 73
-        },
-        {
           "text": "선제",
           "count": 73
         },
         {
           "text": "관계부처",
-          "count": 73
-        },
-        {
-          "text": "차단",
           "count": 73
         },
         {
@@ -720,11 +712,19 @@
           "count": 72
         },
         {
+          "text": "차단",
+          "count": 71
+        },
+        {
           "text": "반도체",
           "count": 71
         },
         {
           "text": "위험",
+          "count": 70
+        },
+        {
+          "text": "사례",
           "count": 70
         },
         {
@@ -11717,612 +11717,6 @@
         }
       ]
     },
-    "fsc": {
-      "label": "금융위원회",
-      "articleCount": 52,
-      "words": [
-        {
-          "text": "국민성장펀드",
-          "count": 42
-        },
-        {
-          "text": "국민참여",
-          "count": 29
-        },
-        {
-          "text": "판매",
-          "count": 23
-        },
-        {
-          "text": "전환",
-          "count": 17
-        },
-        {
-          "text": "청년미래적금",
-          "count": 16
-        },
-        {
-          "text": "출시",
-          "count": 16
-        },
-        {
-          "text": "논의",
-          "count": 15
-        },
-        {
-          "text": "증권사",
-          "count": 15
-        },
-        {
-          "text": "가입",
-          "count": 14
-        },
-        {
-          "text": "간담회",
-          "count": 14
-        },
-        {
-          "text": "상품",
-          "count": 14
-        },
-        {
-          "text": "은행",
-          "count": 13
-        },
-        {
-          "text": "점검",
-          "count": 13
-        },
-        {
-          "text": "대응",
-          "count": 13
-        },
-        {
-          "text": "금리",
-          "count": 13
-        },
-        {
-          "text": "주재",
-          "count": 12
-        },
-        {
-          "text": "생산",
-          "count": 12
-        },
-        {
-          "text": "국민참여성장펀드",
-          "count": 11
-        },
-        {
-          "text": "청년",
-          "count": 10
-        },
-        {
-          "text": "출범",
-          "count": 10
-        },
-        {
-          "text": "본격",
-          "count": 10
-        },
-        {
-          "text": "개정",
-          "count": 9
-        },
-        {
-          "text": "금융위원장",
-          "count": 9
-        },
-        {
-          "text": "개정안",
-          "count": 9
-        },
-        {
-          "text": "전문가",
-          "count": 9
-        },
-        {
-          "text": "보험사기",
-          "count": 9
-        },
-        {
-          "text": "규제",
-          "count": 9
-        },
-        {
-          "text": "의결",
-          "count": 9
-        },
-        {
-          "text": "필요",
-          "count": 9
-        },
-        {
-          "text": "회계부정",
-          "count": 9
-        },
-        {
-          "text": "취급기관",
-          "count": 8
-        },
-        {
-          "text": "공인회계사",
-          "count": 8
-        },
-        {
-          "text": "개요",
-          "count": 8
-        },
-        {
-          "text": "포함",
-          "count": 8
-        },
-        {
-          "text": "승인",
-          "count": 8
-        },
-        {
-          "text": "잔여물량",
-          "count": 8
-        },
-        {
-          "text": "보이스피싱",
-          "count": 8
-        },
-        {
-          "text": "아파트",
-          "count": 8
-        },
-        {
-          "text": "공급",
-          "count": 8
-        },
-        {
-          "text": "시행령",
-          "count": 7
-        },
-        {
-          "text": "감리",
-          "count": 7
-        },
-        {
-          "text": "근절",
-          "count": 7
-        },
-        {
-          "text": "구조",
-          "count": 7
-        },
-        {
-          "text": "단일종목",
-          "count": 7
-        },
-        {
-          "text": "미래",
-          "count": 7
-        },
-        {
-          "text": "자본시장",
-          "count": 6
-        },
-        {
-          "text": "합동",
-          "count": 6
-        },
-        {
-          "text": "방문",
-          "count": 6
-        },
-        {
-          "text": "기술자문단",
-          "count": 6
-        },
-        {
-          "text": "보안",
-          "count": 6
-        },
-        {
-          "text": "품질관리",
-          "count": 6
-        },
-        {
-          "text": "도약기금",
-          "count": 6
-        },
-        {
-          "text": "협의체",
-          "count": 6
-        },
-        {
-          "text": "조치",
-          "count": 6
-        },
-        {
-          "text": "레버리지",
-          "count": 6
-        },
-        {
-          "text": "펀드",
-          "count": 6
-        },
-        {
-          "text": "제도",
-          "count": 6
-        },
-        {
-          "text": "토큰증권",
-          "count": 6
-        },
-        {
-          "text": "상록수",
-          "count": 6
-        },
-        {
-          "text": "실손",
-          "count": 6
-        },
-        {
-          "text": "최대",
-          "count": 5
-        },
-        {
-          "text": "스튜어드",
-          "count": 5
-        },
-        {
-          "text": "코드",
-          "count": 5
-        },
-        {
-          "text": "참석",
-          "count": 5
-        },
-        {
-          "text": "시장",
-          "count": 5
-        },
-        {
-          "text": "생태",
-          "count": 5
-        },
-        {
-          "text": "법률",
-          "count": 5
-        },
-        {
-          "text": "매입",
-          "count": 5
-        },
-        {
-          "text": "통합연금포털",
-          "count": 5
-        },
-        {
-          "text": "완화",
-          "count": 5
-        },
-        {
-          "text": "성능",
-          "count": 5
-        },
-        {
-          "text": "보안위협",
-          "count": 5
-        },
-        {
-          "text": "망분리",
-          "count": 5
-        },
-        {
-          "text": "공개",
-          "count": 5
-        },
-        {
-          "text": "증권선물위원회",
-          "count": 5
-        },
-        {
-          "text": "첨단산업",
-          "count": 5
-        },
-        {
-          "text": "퓨리오사",
-          "count": 5
-        },
-        {
-          "text": "보유",
-          "count": 5
-        },
-        {
-          "text": "채권",
-          "count": 5
-        },
-        {
-          "text": "공시",
-          "count": 5
-        },
-        {
-          "text": "안내",
-          "count": 5
-        },
-        {
-          "text": "모집금액",
-          "count": 5
-        },
-        {
-          "text": "모집",
-          "count": 5
-        },
-        {
-          "text": "차단",
-          "count": 5
-        },
-        {
-          "text": "포용",
-          "count": 5
-        },
-        {
-          "text": "투자자",
-          "count": 5
-        },
-        {
-          "text": "중동상황",
-          "count": 5
-        },
-        {
-          "text": "불법사금융",
-          "count": 5
-        },
-        {
-          "text": "기업",
-          "count": 5
-        },
-        {
-          "text": "유동",
-          "count": 5
-        },
-        {
-          "text": "금융위임장",
-          "count": 5
-        },
-        {
-          "text": "연계",
-          "count": 5
-        },
-        {
-          "text": "정책자금",
-          "count": 5
-        },
-        {
-          "text": "가맹본부",
-          "count": 5
-        },
-        {
-          "text": "가입신청",
-          "count": 4
-        },
-        {
-          "text": "한국",
-          "count": 4
-        },
-        {
-          "text": "코스피",
-          "count": 4
-        },
-        {
-          "text": "지수",
-          "count": 4
-        },
-        {
-          "text": "총회",
-          "count": 4
-        },
-        {
-          "text": "안정",
-          "count": 4
-        },
-        {
-          "text": "신용협동조합법",
-          "count": 4
-        },
-        {
-          "text": "구체",
-          "count": 4
-        },
-        {
-          "text": "시행",
-          "count": 4
-        },
-        {
-          "text": "사항",
-          "count": 4
-        },
-        {
-          "text": "시대",
-          "count": 4
-        },
-        {
-          "text": "정보",
-          "count": 4
-        },
-        {
-          "text": "집중",
-          "count": 4
-        },
-        {
-          "text": "이용자",
-          "count": 4
-        },
-        {
-          "text": "노후",
-          "count": 4
-        },
-        {
-          "text": "연금",
-          "count": 4
-        },
-        {
-          "text": "관리",
-          "count": 4
-        },
-        {
-          "text": "수습처",
-          "count": 4
-        },
-        {
-          "text": "자격",
-          "count": 4
-        },
-        {
-          "text": "징계위원회",
-          "count": 4
-        },
-        {
-          "text": "부위원장",
-          "count": 4
-        },
-        {
-          "text": "고도",
-          "count": 4
-        },
-        {
-          "text": "가동",
-          "count": 4
-        },
-        {
-          "text": "전문",
-          "count": 4
-        },
-        {
-          "text": "금융감독원",
-          "count": 4
-        },
-        {
-          "text": "회계법인",
-          "count": 4
-        },
-        {
-          "text": "개선권고사항",
-          "count": 4
-        },
-        {
-          "text": "일부",
-          "count": 4
-        },
-        {
-          "text": "반도체",
-          "count": 4
-        },
-        {
-          "text": "농협자산관리회사",
-          "count": 4
-        },
-        {
-          "text": "상호금융",
-          "count": 4
-        },
-        {
-          "text": "연체채권",
-          "count": 4
-        },
-        {
-          "text": "장기",
-          "count": 4
-        },
-        {
-          "text": "연체",
-          "count": 4
-        },
-        {
-          "text": "개인",
-          "count": 4
-        },
-        {
-          "text": "물량",
-          "count": 4
-        },
-        {
-          "text": "협의회",
-          "count": 4
-        },
-        {
-          "text": "신속",
-          "count": 4
-        },
-        {
-          "text": "추심",
-          "count": 4
-        },
-        {
-          "text": "설계",
-          "count": 4
-        },
-        {
-          "text": "규모",
-          "count": 4
-        },
-        {
-          "text": "국정과제",
-          "count": 4
-        },
-        {
-          "text": "경영개선계획",
-          "count": 4
-        },
-        {
-          "text": "정례회의",
-          "count": 4
-        },
-        {
-          "text": "신종",
-          "count": 4
-        },
-        {
-          "text": "스캠범죄",
-          "count": 4
-        },
-        {
-          "text": "보완",
-          "count": 4
-        },
-        {
-          "text": "금융분야",
-          "count": 4
-        },
-        {
-          "text": "투자",
-          "count": 4
-        },
-        {
-          "text": "유의사항",
-          "count": 4
-        },
-        {
-          "text": "상장",
-          "count": 4
-        },
-        {
-          "text": "향후",
-          "count": 4
-        },
-        {
-          "text": "제재",
-          "count": 4
-        },
-        {
-          "text": "임원",
-          "count": 4
-        },
-        {
-          "text": "경제",
-          "count": 4
-        },
-        {
-          "text": "해운업",
-          "count": 4
-        }
-      ]
-    },
     "moip": {
       "label": "지식재산처",
       "articleCount": 51,
@@ -13532,6 +12926,612 @@
         {
           "text": "추모",
           "count": 3
+        }
+      ]
+    },
+    "fsc": {
+      "label": "금융위원회",
+      "articleCount": 50,
+      "words": [
+        {
+          "text": "국민성장펀드",
+          "count": 42
+        },
+        {
+          "text": "국민참여",
+          "count": 29
+        },
+        {
+          "text": "판매",
+          "count": 23
+        },
+        {
+          "text": "전환",
+          "count": 17
+        },
+        {
+          "text": "청년미래적금",
+          "count": 16
+        },
+        {
+          "text": "출시",
+          "count": 16
+        },
+        {
+          "text": "논의",
+          "count": 15
+        },
+        {
+          "text": "증권사",
+          "count": 15
+        },
+        {
+          "text": "가입",
+          "count": 14
+        },
+        {
+          "text": "간담회",
+          "count": 14
+        },
+        {
+          "text": "상품",
+          "count": 14
+        },
+        {
+          "text": "은행",
+          "count": 13
+        },
+        {
+          "text": "점검",
+          "count": 13
+        },
+        {
+          "text": "대응",
+          "count": 13
+        },
+        {
+          "text": "주재",
+          "count": 12
+        },
+        {
+          "text": "생산",
+          "count": 12
+        },
+        {
+          "text": "국민참여성장펀드",
+          "count": 11
+        },
+        {
+          "text": "청년",
+          "count": 10
+        },
+        {
+          "text": "출범",
+          "count": 10
+        },
+        {
+          "text": "본격",
+          "count": 10
+        },
+        {
+          "text": "개정",
+          "count": 9
+        },
+        {
+          "text": "금융위원장",
+          "count": 9
+        },
+        {
+          "text": "개정안",
+          "count": 9
+        },
+        {
+          "text": "전문가",
+          "count": 9
+        },
+        {
+          "text": "보험사기",
+          "count": 9
+        },
+        {
+          "text": "규제",
+          "count": 9
+        },
+        {
+          "text": "의결",
+          "count": 9
+        },
+        {
+          "text": "회계부정",
+          "count": 9
+        },
+        {
+          "text": "취급기관",
+          "count": 8
+        },
+        {
+          "text": "공인회계사",
+          "count": 8
+        },
+        {
+          "text": "개요",
+          "count": 8
+        },
+        {
+          "text": "포함",
+          "count": 8
+        },
+        {
+          "text": "승인",
+          "count": 8
+        },
+        {
+          "text": "금리",
+          "count": 8
+        },
+        {
+          "text": "잔여물량",
+          "count": 8
+        },
+        {
+          "text": "보이스피싱",
+          "count": 8
+        },
+        {
+          "text": "아파트",
+          "count": 8
+        },
+        {
+          "text": "공급",
+          "count": 8
+        },
+        {
+          "text": "시행령",
+          "count": 7
+        },
+        {
+          "text": "감리",
+          "count": 7
+        },
+        {
+          "text": "필요",
+          "count": 7
+        },
+        {
+          "text": "근절",
+          "count": 7
+        },
+        {
+          "text": "단일종목",
+          "count": 7
+        },
+        {
+          "text": "미래",
+          "count": 7
+        },
+        {
+          "text": "자본시장",
+          "count": 6
+        },
+        {
+          "text": "합동",
+          "count": 6
+        },
+        {
+          "text": "기술자문단",
+          "count": 6
+        },
+        {
+          "text": "보안",
+          "count": 6
+        },
+        {
+          "text": "품질관리",
+          "count": 6
+        },
+        {
+          "text": "도약기금",
+          "count": 6
+        },
+        {
+          "text": "협의체",
+          "count": 6
+        },
+        {
+          "text": "조치",
+          "count": 6
+        },
+        {
+          "text": "레버리지",
+          "count": 6
+        },
+        {
+          "text": "펀드",
+          "count": 6
+        },
+        {
+          "text": "제도",
+          "count": 6
+        },
+        {
+          "text": "토큰증권",
+          "count": 6
+        },
+        {
+          "text": "상록수",
+          "count": 6
+        },
+        {
+          "text": "최대",
+          "count": 5
+        },
+        {
+          "text": "스튜어드",
+          "count": 5
+        },
+        {
+          "text": "코드",
+          "count": 5
+        },
+        {
+          "text": "참석",
+          "count": 5
+        },
+        {
+          "text": "시장",
+          "count": 5
+        },
+        {
+          "text": "생태",
+          "count": 5
+        },
+        {
+          "text": "방문",
+          "count": 5
+        },
+        {
+          "text": "법률",
+          "count": 5
+        },
+        {
+          "text": "매입",
+          "count": 5
+        },
+        {
+          "text": "통합연금포털",
+          "count": 5
+        },
+        {
+          "text": "완화",
+          "count": 5
+        },
+        {
+          "text": "성능",
+          "count": 5
+        },
+        {
+          "text": "보안위협",
+          "count": 5
+        },
+        {
+          "text": "망분리",
+          "count": 5
+        },
+        {
+          "text": "공개",
+          "count": 5
+        },
+        {
+          "text": "증권선물위원회",
+          "count": 5
+        },
+        {
+          "text": "첨단산업",
+          "count": 5
+        },
+        {
+          "text": "퓨리오사",
+          "count": 5
+        },
+        {
+          "text": "보유",
+          "count": 5
+        },
+        {
+          "text": "채권",
+          "count": 5
+        },
+        {
+          "text": "공시",
+          "count": 5
+        },
+        {
+          "text": "안내",
+          "count": 5
+        },
+        {
+          "text": "모집금액",
+          "count": 5
+        },
+        {
+          "text": "모집",
+          "count": 5
+        },
+        {
+          "text": "구조",
+          "count": 5
+        },
+        {
+          "text": "포용",
+          "count": 5
+        },
+        {
+          "text": "투자자",
+          "count": 5
+        },
+        {
+          "text": "중동상황",
+          "count": 5
+        },
+        {
+          "text": "불법사금융",
+          "count": 5
+        },
+        {
+          "text": "기업",
+          "count": 5
+        },
+        {
+          "text": "유동",
+          "count": 5
+        },
+        {
+          "text": "금융위임장",
+          "count": 5
+        },
+        {
+          "text": "가입신청",
+          "count": 4
+        },
+        {
+          "text": "한국",
+          "count": 4
+        },
+        {
+          "text": "코스피",
+          "count": 4
+        },
+        {
+          "text": "지수",
+          "count": 4
+        },
+        {
+          "text": "총회",
+          "count": 4
+        },
+        {
+          "text": "안정",
+          "count": 4
+        },
+        {
+          "text": "신용협동조합법",
+          "count": 4
+        },
+        {
+          "text": "구체",
+          "count": 4
+        },
+        {
+          "text": "시행",
+          "count": 4
+        },
+        {
+          "text": "사항",
+          "count": 4
+        },
+        {
+          "text": "시대",
+          "count": 4
+        },
+        {
+          "text": "정보",
+          "count": 4
+        },
+        {
+          "text": "이용자",
+          "count": 4
+        },
+        {
+          "text": "노후",
+          "count": 4
+        },
+        {
+          "text": "연금",
+          "count": 4
+        },
+        {
+          "text": "관리",
+          "count": 4
+        },
+        {
+          "text": "수습처",
+          "count": 4
+        },
+        {
+          "text": "자격",
+          "count": 4
+        },
+        {
+          "text": "징계위원회",
+          "count": 4
+        },
+        {
+          "text": "부위원장",
+          "count": 4
+        },
+        {
+          "text": "고도",
+          "count": 4
+        },
+        {
+          "text": "가동",
+          "count": 4
+        },
+        {
+          "text": "전문",
+          "count": 4
+        },
+        {
+          "text": "금융감독원",
+          "count": 4
+        },
+        {
+          "text": "회계법인",
+          "count": 4
+        },
+        {
+          "text": "개선권고사항",
+          "count": 4
+        },
+        {
+          "text": "일부",
+          "count": 4
+        },
+        {
+          "text": "반도체",
+          "count": 4
+        },
+        {
+          "text": "농협자산관리회사",
+          "count": 4
+        },
+        {
+          "text": "상호금융",
+          "count": 4
+        },
+        {
+          "text": "연체채권",
+          "count": 4
+        },
+        {
+          "text": "장기",
+          "count": 4
+        },
+        {
+          "text": "연체",
+          "count": 4
+        },
+        {
+          "text": "개인",
+          "count": 4
+        },
+        {
+          "text": "물량",
+          "count": 4
+        },
+        {
+          "text": "협의회",
+          "count": 4
+        },
+        {
+          "text": "신속",
+          "count": 4
+        },
+        {
+          "text": "추심",
+          "count": 4
+        },
+        {
+          "text": "설계",
+          "count": 4
+        },
+        {
+          "text": "규모",
+          "count": 4
+        },
+        {
+          "text": "국정과제",
+          "count": 4
+        },
+        {
+          "text": "경영개선계획",
+          "count": 4
+        },
+        {
+          "text": "정례회의",
+          "count": 4
+        },
+        {
+          "text": "신종",
+          "count": 4
+        },
+        {
+          "text": "스캠범죄",
+          "count": 4
+        },
+        {
+          "text": "보완",
+          "count": 4
+        },
+        {
+          "text": "금융분야",
+          "count": 4
+        },
+        {
+          "text": "투자",
+          "count": 4
+        },
+        {
+          "text": "유의사항",
+          "count": 4
+        },
+        {
+          "text": "상장",
+          "count": 4
+        },
+        {
+          "text": "향후",
+          "count": 4
+        },
+        {
+          "text": "제재",
+          "count": 4
+        },
+        {
+          "text": "임원",
+          "count": 4
+        },
+        {
+          "text": "경제",
+          "count": 4
+        },
+        {
+          "text": "해운업",
+          "count": 4
+        },
+        {
+          "text": "산업",
+          "count": 4
+        },
+        {
+          "text": "의견",
+          "count": 4
+        },
+        {
+          "text": "리스크",
+          "count": 4
+        },
+        {
+          "text": "적용",
+          "count": 4
+        },
+        {
+          "text": "조치안",
+          "count": 4
+        },
+        {
+          "text": "재외동포",
+          "count": 4
         }
       ]
     },
