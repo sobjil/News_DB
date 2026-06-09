@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-10T00:44:21.531906+09:00",
-  "totalArticles": 2460,
+  "generated": "2026-06-10T01:44:17.824156+09:00",
+  "totalArticles": 2459,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2460,
+      "articleCount": 2459,
       "words": [
         {
           "text": "대응",
@@ -124,11 +124,11 @@
           "count": 177
         },
         {
-          "text": "미래",
-          "count": 176
+          "text": "진행",
+          "count": 174
         },
         {
-          "text": "진행",
+          "text": "미래",
           "count": 174
         },
         {
@@ -5053,7 +5053,7 @@
     },
     "mfds": {
       "label": "식품의약품안전처",
-      "articleCount": 100,
+      "articleCount": 99,
       "words": [
         {
           "text": "보도참고",
@@ -5076,15 +5076,15 @@
           "count": 12
         },
         {
-          "text": "식품안전",
-          "count": 12
-        },
-        {
           "text": "동향",
           "count": 10
         },
         {
           "text": "판매",
+          "count": 10
+        },
+        {
+          "text": "식품안전",
           "count": 10
         },
         {
@@ -5281,10 +5281,6 @@
         },
         {
           "text": "기준",
-          "count": 4
-        },
-        {
-          "text": "푸드",
           "count": 4
         },
         {
@@ -5653,6 +5649,10 @@
         },
         {
           "text": "중금속",
+          "count": 2
+        },
+        {
+          "text": "초과",
           "count": 2
         }
       ]
