@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-10T20:44:24.704916+09:00",
-  "totalArticles": 2516,
+  "generated": "2026-06-10T21:44:21.513283+09:00",
+  "totalArticles": 2515,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2516,
+      "articleCount": 2515,
       "words": [
         {
           "text": "대응",
@@ -13,7 +13,7 @@
         },
         {
           "text": "논의",
-          "count": 444
+          "count": 443
         },
         {
           "text": "점검",
@@ -28,12 +28,12 @@
           "count": 330
         },
         {
-          "text": "간담회",
-          "count": 323
-        },
-        {
           "text": "방문",
           "count": 322
+        },
+        {
+          "text": "간담회",
+          "count": 321
         },
         {
           "text": "안전",
@@ -3841,7 +3841,7 @@
     },
     "mofa": {
       "label": "외교부",
-      "articleCount": 107,
+      "articleCount": 106,
       "words": [
         {
           "text": "참석",
@@ -3857,11 +3857,11 @@
         },
         {
           "text": "공관",
-          "count": 34
+          "count": 33
         },
         {
           "text": "외교장관",
-          "count": 32
+          "count": 31
         },
         {
           "text": "면담",
@@ -3872,12 +3872,12 @@
           "count": 26
         },
         {
-          "text": "논의",
+          "text": "대응",
           "count": 26
         },
         {
-          "text": "대응",
-          "count": 26
+          "text": "논의",
+          "count": 25
         },
         {
           "text": "외교장관회의",
@@ -3916,10 +3916,6 @@
           "count": 18
         },
         {
-          "text": "조현",
-          "count": 18
-        },
-        {
           "text": "중남미",
           "count": 17
         },
@@ -3933,6 +3929,10 @@
         },
         {
           "text": "정세",
+          "count": 17
+        },
+        {
+          "text": "조현",
           "count": 17
         },
         {
@@ -3980,10 +3980,6 @@
           "count": 15
         },
         {
-          "text": "정상회의",
-          "count": 14
-        },
-        {
           "text": "양측",
           "count": 14
         },
@@ -3992,7 +3988,7 @@
           "count": 14
         },
         {
-          "text": "간담회",
+          "text": "정상회의",
           "count": 13
         },
         {
@@ -4029,6 +4025,10 @@
         },
         {
           "text": "지속",
+          "count": 11
+        },
+        {
+          "text": "간담회",
           "count": 11
         },
         {
@@ -4205,10 +4205,6 @@
         },
         {
           "text": "김진아",
-          "count": 8
-        },
-        {
-          "text": "대사",
           "count": 8
         },
         {
@@ -4441,6 +4437,10 @@
         },
         {
           "text": "글로벌펀드",
+          "count": 6
+        },
+        {
+          "text": "조정",
           "count": 6
         }
       ]
