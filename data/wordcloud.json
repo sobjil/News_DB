@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-12T07:45:34.557810+09:00",
-  "totalArticles": 2580,
+  "generated": "2026-06-12T08:48:39.635533+09:00",
+  "totalArticles": 2582,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2580,
+      "articleCount": 2582,
       "words": [
         {
           "text": "대응",
@@ -17,7 +17,7 @@
         },
         {
           "text": "논의",
-          "count": 453
+          "count": 455
         },
         {
           "text": "인공지능",
@@ -77,7 +77,7 @@
         },
         {
           "text": "증가",
-          "count": 216
+          "count": 215
         },
         {
           "text": "예방",
@@ -88,12 +88,12 @@
           "count": 210
         },
         {
-          "text": "청년",
+          "text": "미래",
           "count": 204
         },
         {
-          "text": "미래",
-          "count": 202
+          "text": "청년",
+          "count": 203
         },
         {
           "text": "출범",
@@ -144,16 +144,16 @@
           "count": 179
         },
         {
+          "text": "산업",
+          "count": 177
+        },
+        {
           "text": "진행",
           "count": 177
         },
         {
-          "text": "산업",
-          "count": 176
-        },
-        {
           "text": "외교부",
-          "count": 171
+          "count": 172
         },
         {
           "text": "주재",
@@ -224,12 +224,16 @@
           "count": 141
         },
         {
+          "text": "사항",
+          "count": 140
+        },
+        {
           "text": "대한민국",
           "count": 140
         },
         {
-          "text": "사항",
-          "count": 139
+          "text": "안정",
+          "count": 138
         },
         {
           "text": "상황",
@@ -240,16 +244,12 @@
           "count": 138
         },
         {
-          "text": "법무부",
-          "count": 136
-        },
-        {
           "text": "시작",
           "count": 136
         },
         {
-          "text": "안정",
-          "count": 136
+          "text": "법무부",
+          "count": 135
         },
         {
           "text": "합동",
@@ -320,12 +320,12 @@
           "count": 122
         },
         {
-          "text": "피해",
+          "text": "해양수산부",
           "count": 121
         },
         {
-          "text": "해양수산부",
-          "count": 120
+          "text": "피해",
+          "count": 121
         },
         {
           "text": "마약",
@@ -428,6 +428,10 @@
           "count": 105
         },
         {
+          "text": "면담",
+          "count": 104
+        },
+        {
           "text": "디지털",
           "count": 104
         },
@@ -464,11 +468,11 @@
           "count": 100
         },
         {
-          "text": "핵심",
+          "text": "황종우",
           "count": 100
         },
         {
-          "text": "면담",
+          "text": "핵심",
           "count": 100
         },
         {
@@ -500,10 +504,6 @@
           "count": 97
         },
         {
-          "text": "황종우",
-          "count": 97
-        },
-        {
           "text": "시대",
           "count": 96
         },
@@ -526,6 +526,10 @@
         {
           "text": "과정",
           "count": 93
+        },
+        {
+          "text": "총력",
+          "count": 92
         },
         {
           "text": "시장",
@@ -556,15 +560,7 @@
           "count": 91
         },
         {
-          "text": "감소",
-          "count": 90
-        },
-        {
           "text": "진출",
-          "count": 90
-        },
-        {
-          "text": "총력",
           "count": 90
         },
         {
@@ -578,6 +574,10 @@
         {
           "text": "포럼",
           "count": 90
+        },
+        {
+          "text": "감소",
+          "count": 89
         },
         {
           "text": "신규",
@@ -696,6 +696,10 @@
           "count": 75
         },
         {
+          "text": "경쟁력",
+          "count": 74
+        },
+        {
           "text": "사고",
           "count": 74
         },
@@ -756,7 +760,7 @@
           "count": 72
         },
         {
-          "text": "경쟁력",
+          "text": "케이",
           "count": 71
         },
         {
@@ -772,7 +776,7 @@
           "count": 70
         },
         {
-          "text": "경찰청",
+          "text": "기대",
           "count": 70
         },
         {
@@ -782,6 +786,10 @@
         {
           "text": "소방",
           "count": 70
+        },
+        {
+          "text": "경찰청",
+          "count": 69
         },
         {
           "text": "이행",
@@ -796,15 +804,7 @@
           "count": 69
         },
         {
-          "text": "기대",
-          "count": 69
-        },
-        {
           "text": "농촌",
-          "count": 69
-        },
-        {
-          "text": "김정관",
           "count": 69
         }
       ]
@@ -3839,6 +3839,612 @@
         }
       ]
     },
+    "mofa": {
+      "label": "외교부",
+      "articleCount": 110,
+      "words": [
+        {
+          "text": "참석",
+          "count": 64
+        },
+        {
+          "text": "아프리카",
+          "count": 53
+        },
+        {
+          "text": "양국",
+          "count": 45
+        },
+        {
+          "text": "공관",
+          "count": 34
+        },
+        {
+          "text": "외교장관",
+          "count": 31
+        },
+        {
+          "text": "대응",
+          "count": 28
+        },
+        {
+          "text": "면담",
+          "count": 28
+        },
+        {
+          "text": "한국",
+          "count": 26
+        },
+        {
+          "text": "논의",
+          "count": 25
+        },
+        {
+          "text": "의견",
+          "count": 23
+        },
+        {
+          "text": "외교장관회의",
+          "count": 23
+        },
+        {
+          "text": "주재",
+          "count": 22
+        },
+        {
+          "text": "교환",
+          "count": 22
+        },
+        {
+          "text": "서울",
+          "count": 21
+        },
+        {
+          "text": "금번",
+          "count": 20
+        },
+        {
+          "text": "정세",
+          "count": 19
+        },
+        {
+          "text": "기업",
+          "count": 19
+        },
+        {
+          "text": "계기",
+          "count": 18
+        },
+        {
+          "text": "포럼",
+          "count": 18
+        },
+        {
+          "text": "방한",
+          "count": 18
+        },
+        {
+          "text": "관계",
+          "count": 18
+        },
+        {
+          "text": "중남미",
+          "count": 17
+        },
+        {
+          "text": "볼리비아",
+          "count": 17
+        },
+        {
+          "text": "조현",
+          "count": 17
+        },
+        {
+          "text": "안전",
+          "count": 16
+        },
+        {
+          "text": "박윤주",
+          "count": 16
+        },
+        {
+          "text": "여권",
+          "count": 15
+        },
+        {
+          "text": "증진",
+          "count": 15
+        },
+        {
+          "text": "평가",
+          "count": 15
+        },
+        {
+          "text": "경제",
+          "count": 15
+        },
+        {
+          "text": "방문",
+          "count": 15
+        },
+        {
+          "text": "한미",
+          "count": 15
+        },
+        {
+          "text": "싱가포르",
+          "count": 15
+        },
+        {
+          "text": "재외공관",
+          "count": 15
+        },
+        {
+          "text": "본부",
+          "count": 14
+        },
+        {
+          "text": "미국",
+          "count": 14
+        },
+        {
+          "text": "간담회",
+          "count": 14
+        },
+        {
+          "text": "양측",
+          "count": 14
+        },
+        {
+          "text": "수석대표",
+          "count": 13
+        },
+        {
+          "text": "행사",
+          "count": 13
+        },
+        {
+          "text": "정상회의",
+          "count": 13
+        },
+        {
+          "text": "현안",
+          "count": 13
+        },
+        {
+          "text": "진행",
+          "count": 13
+        },
+        {
+          "text": "에너지",
+          "count": 13
+        },
+        {
+          "text": "중동",
+          "count": 12
+        },
+        {
+          "text": "고위관리회의",
+          "count": 12
+        },
+        {
+          "text": "여행경보",
+          "count": 12
+        },
+        {
+          "text": "기후변화",
+          "count": 11
+        },
+        {
+          "text": "대한민국",
+          "count": 11
+        },
+        {
+          "text": "환영",
+          "count": 11
+        },
+        {
+          "text": "청년",
+          "count": 11
+        },
+        {
+          "text": "진출",
+          "count": 11
+        },
+        {
+          "text": "포함",
+          "count": 11
+        },
+        {
+          "text": "지속",
+          "count": 11
+        },
+        {
+          "text": "동향",
+          "count": 11
+        },
+        {
+          "text": "확산",
+          "count": 11
+        },
+        {
+          "text": "인사",
+          "count": 10
+        },
+        {
+          "text": "현지",
+          "count": 10
+        },
+        {
+          "text": "신청",
+          "count": 10
+        },
+        {
+          "text": "전략",
+          "count": 10
+        },
+        {
+          "text": "한반도",
+          "count": 10
+        },
+        {
+          "text": "파트너십",
+          "count": 10
+        },
+        {
+          "text": "대표",
+          "count": 10
+        },
+        {
+          "text": "협의",
+          "count": 10
+        },
+        {
+          "text": "주제",
+          "count": 9
+        },
+        {
+          "text": "소통",
+          "count": 9
+        },
+        {
+          "text": "아세안",
+          "count": 9
+        },
+        {
+          "text": "차관보",
+          "count": 9
+        },
+        {
+          "text": "규모",
+          "count": 9
+        },
+        {
+          "text": "교류",
+          "count": 9
+        },
+        {
+          "text": "공급망",
+          "count": 9
+        },
+        {
+          "text": "외교장관회담",
+          "count": 9
+        },
+        {
+          "text": "발효",
+          "count": 9
+        },
+        {
+          "text": "유엔",
+          "count": 9
+        },
+        {
+          "text": "안보",
+          "count": 9
+        },
+        {
+          "text": "정상회담",
+          "count": 9
+        },
+        {
+          "text": "부장관",
+          "count": 9
+        },
+        {
+          "text": "기존",
+          "count": 9
+        },
+        {
+          "text": "발령",
+          "count": 9
+        },
+        {
+          "text": "국제개발협력",
+          "count": 9
+        },
+        {
+          "text": "점검",
+          "count": 8
+        },
+        {
+          "text": "일부",
+          "count": 8
+        },
+        {
+          "text": "미래",
+          "count": 8
+        },
+        {
+          "text": "중요",
+          "count": 8
+        },
+        {
+          "text": "미래협력",
+          "count": 8
+        },
+        {
+          "text": "초청",
+          "count": 8
+        },
+        {
+          "text": "이후",
+          "count": 8
+        },
+        {
+          "text": "수교",
+          "count": 8
+        },
+        {
+          "text": "협정",
+          "count": 8
+        },
+        {
+          "text": "월드컵",
+          "count": 8
+        },
+        {
+          "text": "우리나라",
+          "count": 8
+        },
+        {
+          "text": "고위급",
+          "count": 8
+        },
+        {
+          "text": "김진아",
+          "count": 8
+        },
+        {
+          "text": "후커",
+          "count": 8
+        },
+        {
+          "text": "정무차관",
+          "count": 8
+        },
+        {
+          "text": "공유",
+          "count": 8
+        },
+        {
+          "text": "중심",
+          "count": 8
+        },
+        {
+          "text": "에볼라바이러스병",
+          "count": 8
+        },
+        {
+          "text": "중동전쟁",
+          "count": 8
+        },
+        {
+          "text": "중국",
+          "count": 8
+        },
+        {
+          "text": "국가범죄",
+          "count": 8
+        },
+        {
+          "text": "합동",
+          "count": 7
+        },
+        {
+          "text": "상황점검회의",
+          "count": 7
+        },
+        {
+          "text": "상황",
+          "count": 7
+        },
+        {
+          "text": "전문가",
+          "count": 7
+        },
+        {
+          "text": "환경",
+          "count": 7
+        },
+        {
+          "text": "멕시코",
+          "count": 7
+        },
+        {
+          "text": "평화",
+          "count": 7
+        },
+        {
+          "text": "인도네시아",
+          "count": 7
+        },
+        {
+          "text": "정의혜",
+          "count": 7
+        },
+        {
+          "text": "최대",
+          "count": 7
+        },
+        {
+          "text": "몽골",
+          "count": 7
+        },
+        {
+          "text": "보건",
+          "count": 7
+        },
+        {
+          "text": "작년",
+          "count": 7
+        },
+        {
+          "text": "보호",
+          "count": 7
+        },
+        {
+          "text": "이행",
+          "count": 7
+        },
+        {
+          "text": "국무부",
+          "count": 7
+        },
+        {
+          "text": "셰르파회의",
+          "count": 7
+        },
+        {
+          "text": "일본",
+          "count": 7
+        },
+        {
+          "text": "콩고민주공화국",
+          "count": 7
+        },
+        {
+          "text": "공공외교",
+          "count": 7
+        },
+        {
+          "text": "공공데이터",
+          "count": 7
+        },
+        {
+          "text": "공관장",
+          "count": 6
+        },
+        {
+          "text": "페루",
+          "count": 6
+        },
+        {
+          "text": "산업통상부",
+          "count": 6
+        },
+        {
+          "text": "이란",
+          "count": 6
+        },
+        {
+          "text": "발급",
+          "count": 6
+        },
+        {
+          "text": "키르기스스탄",
+          "count": 6
+        },
+        {
+          "text": "실질협력",
+          "count": 6
+        },
+        {
+          "text": "북한",
+          "count": 6
+        },
+        {
+          "text": "대화",
+          "count": 6
+        },
+        {
+          "text": "위기",
+          "count": 6
+        },
+        {
+          "text": "경제외교조정관",
+          "count": 6
+        },
+        {
+          "text": "기대",
+          "count": 6
+        },
+        {
+          "text": "세미나",
+          "count": 6
+        },
+        {
+          "text": "회원국",
+          "count": 6
+        },
+        {
+          "text": "실질",
+          "count": 6
+        },
+        {
+          "text": "문화",
+          "count": 6
+        },
+        {
+          "text": "국방부",
+          "count": 6
+        },
+        {
+          "text": "동반자",
+          "count": 6
+        },
+        {
+          "text": "투자",
+          "count": 6
+        },
+        {
+          "text": "다양",
+          "count": 6
+        },
+        {
+          "text": "포괄",
+          "count": 6
+        },
+        {
+          "text": "북중미",
+          "count": 6
+        },
+        {
+          "text": "해외안전기획관",
+          "count": 6
+        },
+        {
+          "text": "직원",
+          "count": 6
+        },
+        {
+          "text": "발생",
+          "count": 6
+        },
+        {
+          "text": "경우",
+          "count": 6
+        },
+        {
+          "text": "사무총장",
+          "count": 6
+        },
+        {
+          "text": "이사국",
+          "count": 6
+        }
+      ]
+    },
     "pps": {
       "label": "조달청",
       "articleCount": 110,
@@ -4442,612 +5048,6 @@
         {
           "text": "시범사업",
           "count": 5
-        }
-      ]
-    },
-    "mofa": {
-      "label": "외교부",
-      "articleCount": 109,
-      "words": [
-        {
-          "text": "참석",
-          "count": 64
-        },
-        {
-          "text": "아프리카",
-          "count": 53
-        },
-        {
-          "text": "양국",
-          "count": 45
-        },
-        {
-          "text": "공관",
-          "count": 34
-        },
-        {
-          "text": "외교장관",
-          "count": 31
-        },
-        {
-          "text": "대응",
-          "count": 28
-        },
-        {
-          "text": "면담",
-          "count": 28
-        },
-        {
-          "text": "한국",
-          "count": 26
-        },
-        {
-          "text": "논의",
-          "count": 25
-        },
-        {
-          "text": "의견",
-          "count": 23
-        },
-        {
-          "text": "외교장관회의",
-          "count": 23
-        },
-        {
-          "text": "주재",
-          "count": 22
-        },
-        {
-          "text": "교환",
-          "count": 22
-        },
-        {
-          "text": "서울",
-          "count": 21
-        },
-        {
-          "text": "금번",
-          "count": 20
-        },
-        {
-          "text": "정세",
-          "count": 19
-        },
-        {
-          "text": "기업",
-          "count": 19
-        },
-        {
-          "text": "계기",
-          "count": 18
-        },
-        {
-          "text": "포럼",
-          "count": 18
-        },
-        {
-          "text": "방한",
-          "count": 18
-        },
-        {
-          "text": "관계",
-          "count": 18
-        },
-        {
-          "text": "중남미",
-          "count": 17
-        },
-        {
-          "text": "볼리비아",
-          "count": 17
-        },
-        {
-          "text": "조현",
-          "count": 17
-        },
-        {
-          "text": "안전",
-          "count": 16
-        },
-        {
-          "text": "박윤주",
-          "count": 16
-        },
-        {
-          "text": "여권",
-          "count": 15
-        },
-        {
-          "text": "증진",
-          "count": 15
-        },
-        {
-          "text": "평가",
-          "count": 15
-        },
-        {
-          "text": "경제",
-          "count": 15
-        },
-        {
-          "text": "방문",
-          "count": 15
-        },
-        {
-          "text": "한미",
-          "count": 15
-        },
-        {
-          "text": "싱가포르",
-          "count": 15
-        },
-        {
-          "text": "재외공관",
-          "count": 15
-        },
-        {
-          "text": "본부",
-          "count": 14
-        },
-        {
-          "text": "미국",
-          "count": 14
-        },
-        {
-          "text": "간담회",
-          "count": 14
-        },
-        {
-          "text": "양측",
-          "count": 14
-        },
-        {
-          "text": "수석대표",
-          "count": 13
-        },
-        {
-          "text": "행사",
-          "count": 13
-        },
-        {
-          "text": "정상회의",
-          "count": 13
-        },
-        {
-          "text": "현안",
-          "count": 13
-        },
-        {
-          "text": "진행",
-          "count": 13
-        },
-        {
-          "text": "에너지",
-          "count": 13
-        },
-        {
-          "text": "중동",
-          "count": 12
-        },
-        {
-          "text": "고위관리회의",
-          "count": 12
-        },
-        {
-          "text": "여행경보",
-          "count": 12
-        },
-        {
-          "text": "기후변화",
-          "count": 11
-        },
-        {
-          "text": "대한민국",
-          "count": 11
-        },
-        {
-          "text": "환영",
-          "count": 11
-        },
-        {
-          "text": "청년",
-          "count": 11
-        },
-        {
-          "text": "진출",
-          "count": 11
-        },
-        {
-          "text": "포함",
-          "count": 11
-        },
-        {
-          "text": "지속",
-          "count": 11
-        },
-        {
-          "text": "동향",
-          "count": 11
-        },
-        {
-          "text": "확산",
-          "count": 11
-        },
-        {
-          "text": "현지",
-          "count": 10
-        },
-        {
-          "text": "신청",
-          "count": 10
-        },
-        {
-          "text": "전략",
-          "count": 10
-        },
-        {
-          "text": "한반도",
-          "count": 10
-        },
-        {
-          "text": "파트너십",
-          "count": 10
-        },
-        {
-          "text": "대표",
-          "count": 10
-        },
-        {
-          "text": "협의",
-          "count": 10
-        },
-        {
-          "text": "주제",
-          "count": 9
-        },
-        {
-          "text": "소통",
-          "count": 9
-        },
-        {
-          "text": "아세안",
-          "count": 9
-        },
-        {
-          "text": "차관보",
-          "count": 9
-        },
-        {
-          "text": "규모",
-          "count": 9
-        },
-        {
-          "text": "인사",
-          "count": 9
-        },
-        {
-          "text": "교류",
-          "count": 9
-        },
-        {
-          "text": "공급망",
-          "count": 9
-        },
-        {
-          "text": "외교장관회담",
-          "count": 9
-        },
-        {
-          "text": "발효",
-          "count": 9
-        },
-        {
-          "text": "유엔",
-          "count": 9
-        },
-        {
-          "text": "안보",
-          "count": 9
-        },
-        {
-          "text": "정상회담",
-          "count": 9
-        },
-        {
-          "text": "부장관",
-          "count": 9
-        },
-        {
-          "text": "기존",
-          "count": 9
-        },
-        {
-          "text": "발령",
-          "count": 9
-        },
-        {
-          "text": "국제개발협력",
-          "count": 9
-        },
-        {
-          "text": "점검",
-          "count": 8
-        },
-        {
-          "text": "일부",
-          "count": 8
-        },
-        {
-          "text": "미래",
-          "count": 8
-        },
-        {
-          "text": "중요",
-          "count": 8
-        },
-        {
-          "text": "미래협력",
-          "count": 8
-        },
-        {
-          "text": "초청",
-          "count": 8
-        },
-        {
-          "text": "이후",
-          "count": 8
-        },
-        {
-          "text": "수교",
-          "count": 8
-        },
-        {
-          "text": "협정",
-          "count": 8
-        },
-        {
-          "text": "월드컵",
-          "count": 8
-        },
-        {
-          "text": "우리나라",
-          "count": 8
-        },
-        {
-          "text": "고위급",
-          "count": 8
-        },
-        {
-          "text": "김진아",
-          "count": 8
-        },
-        {
-          "text": "후커",
-          "count": 8
-        },
-        {
-          "text": "정무차관",
-          "count": 8
-        },
-        {
-          "text": "공유",
-          "count": 8
-        },
-        {
-          "text": "중심",
-          "count": 8
-        },
-        {
-          "text": "에볼라바이러스병",
-          "count": 8
-        },
-        {
-          "text": "중동전쟁",
-          "count": 8
-        },
-        {
-          "text": "중국",
-          "count": 8
-        },
-        {
-          "text": "국가범죄",
-          "count": 8
-        },
-        {
-          "text": "합동",
-          "count": 7
-        },
-        {
-          "text": "상황점검회의",
-          "count": 7
-        },
-        {
-          "text": "상황",
-          "count": 7
-        },
-        {
-          "text": "전문가",
-          "count": 7
-        },
-        {
-          "text": "환경",
-          "count": 7
-        },
-        {
-          "text": "멕시코",
-          "count": 7
-        },
-        {
-          "text": "평화",
-          "count": 7
-        },
-        {
-          "text": "인도네시아",
-          "count": 7
-        },
-        {
-          "text": "정의혜",
-          "count": 7
-        },
-        {
-          "text": "최대",
-          "count": 7
-        },
-        {
-          "text": "몽골",
-          "count": 7
-        },
-        {
-          "text": "보건",
-          "count": 7
-        },
-        {
-          "text": "작년",
-          "count": 7
-        },
-        {
-          "text": "보호",
-          "count": 7
-        },
-        {
-          "text": "이행",
-          "count": 7
-        },
-        {
-          "text": "국무부",
-          "count": 7
-        },
-        {
-          "text": "셰르파회의",
-          "count": 7
-        },
-        {
-          "text": "일본",
-          "count": 7
-        },
-        {
-          "text": "콩고민주공화국",
-          "count": 7
-        },
-        {
-          "text": "공공외교",
-          "count": 7
-        },
-        {
-          "text": "공공데이터",
-          "count": 7
-        },
-        {
-          "text": "페루",
-          "count": 6
-        },
-        {
-          "text": "산업통상부",
-          "count": 6
-        },
-        {
-          "text": "이란",
-          "count": 6
-        },
-        {
-          "text": "발급",
-          "count": 6
-        },
-        {
-          "text": "키르기스스탄",
-          "count": 6
-        },
-        {
-          "text": "실질협력",
-          "count": 6
-        },
-        {
-          "text": "북한",
-          "count": 6
-        },
-        {
-          "text": "대화",
-          "count": 6
-        },
-        {
-          "text": "위기",
-          "count": 6
-        },
-        {
-          "text": "경제외교조정관",
-          "count": 6
-        },
-        {
-          "text": "기대",
-          "count": 6
-        },
-        {
-          "text": "세미나",
-          "count": 6
-        },
-        {
-          "text": "회원국",
-          "count": 6
-        },
-        {
-          "text": "실질",
-          "count": 6
-        },
-        {
-          "text": "문화",
-          "count": 6
-        },
-        {
-          "text": "국방부",
-          "count": 6
-        },
-        {
-          "text": "동반자",
-          "count": 6
-        },
-        {
-          "text": "투자",
-          "count": 6
-        },
-        {
-          "text": "다양",
-          "count": 6
-        },
-        {
-          "text": "포괄",
-          "count": 6
-        },
-        {
-          "text": "북중미",
-          "count": 6
-        },
-        {
-          "text": "해외안전기획관",
-          "count": 6
-        },
-        {
-          "text": "직원",
-          "count": 6
-        },
-        {
-          "text": "발생",
-          "count": 6
-        },
-        {
-          "text": "경우",
-          "count": 6
-        },
-        {
-          "text": "사무총장",
-          "count": 6
-        },
-        {
-          "text": "이사국",
-          "count": 6
-        },
-        {
-          "text": "기관",
-          "count": 6
         }
       ]
     },
@@ -6265,7 +6265,7 @@
     },
     "molit": {
       "label": "국토교통부",
-      "articleCount": 95,
+      "articleCount": 96,
       "words": [
         {
           "text": "차관동정",
@@ -6300,6 +6300,10 @@
           "count": 12
         },
         {
+          "text": "총력",
+          "count": 10
+        },
+        {
           "text": "전세사기",
           "count": 10
         },
@@ -6313,10 +6317,6 @@
         },
         {
           "text": "점검",
-          "count": 8
-        },
-        {
-          "text": "총력",
           "count": 8
         },
         {
@@ -6394,6 +6394,14 @@
         {
           "text": "관리",
           "count": 6
+        },
+        {
+          "text": "안정",
+          "count": 4
+        },
+        {
+          "text": "미래",
+          "count": 4
         },
         {
           "text": "김용석",
@@ -6584,6 +6592,30 @@
           "count": 4
         },
         {
+          "text": "물가",
+          "count": 2
+        },
+        {
+          "text": "고용",
+          "count": 2
+        },
+        {
+          "text": "혁신경제",
+          "count": 2
+        },
+        {
+          "text": "프로젝트",
+          "count": 2
+        },
+        {
+          "text": "성장동력",
+          "count": 2
+        },
+        {
+          "text": "육성",
+          "count": 2
+        },
+        {
           "text": "신안산선",
           "count": 2
         },
@@ -6645,10 +6677,6 @@
         },
         {
           "text": "시장",
-          "count": 2
-        },
-        {
-          "text": "안정",
           "count": 2
         },
         {
@@ -6837,34 +6865,6 @@
         },
         {
           "text": "운전실",
-          "count": 2
-        },
-        {
-          "text": "설치",
-          "count": 2
-        },
-        {
-          "text": "무궁화",
-          "count": 2
-        },
-        {
-          "text": "국민불편",
-          "count": 2
-        },
-        {
-          "text": "터널",
-          "count": 2
-        },
-        {
-          "text": "사고조사위원회",
-          "count": 2
-        },
-        {
-          "text": "조사기간",
-          "count": 2
-        },
-        {
-          "text": "불법자동차",
           "count": 2
         }
       ]
@@ -8083,11 +8083,11 @@
     },
     "mof": {
       "label": "해양수산부",
-      "articleCount": 82,
+      "articleCount": 83,
       "words": [
         {
           "text": "황종우",
-          "count": 92
+          "count": 95
         },
         {
           "text": "바다",
@@ -8098,15 +8098,15 @@
           "count": 25
         },
         {
+          "text": "부산",
+          "count": 24
+        },
+        {
           "text": "안전",
           "count": 24
         },
         {
           "text": "점검",
-          "count": 23
-        },
-        {
-          "text": "부산",
           "count": 23
         },
         {
@@ -8170,6 +8170,10 @@
           "count": 13
         },
         {
+          "text": "동정",
+          "count": 12
+        },
+        {
           "text": "본격",
           "count": 12
         },
@@ -8180,10 +8184,6 @@
         {
           "text": "민관",
           "count": 12
-        },
-        {
-          "text": "동정",
-          "count": 11
         },
         {
           "text": "관계기관",
@@ -8390,6 +8390,10 @@
           "count": 7
         },
         {
+          "text": "자리",
+          "count": 6
+        },
+        {
           "text": "하천",
           "count": 6
         },
@@ -8570,11 +8574,15 @@
           "count": 6
         },
         {
-          "text": "낙동강",
+          "text": "페로제도",
           "count": 5
         },
         {
-          "text": "자리",
+          "text": "면담",
+          "count": 5
+        },
+        {
+          "text": "낙동강",
           "count": 5
         },
         {
@@ -8675,14 +8683,6 @@
         },
         {
           "text": "적조",
-          "count": 5
-        },
-        {
-          "text": "합리",
-          "count": 5
-        },
-        {
-          "text": "확산",
           "count": 5
         }
       ]
@@ -9295,19 +9295,19 @@
     },
     "mcst": {
       "label": "문화체육관광부",
-      "articleCount": 60,
+      "articleCount": 61,
       "words": [
         {
           "text": "사항",
-          "count": 60
+          "count": 61
         },
         {
           "text": "문체부보도자료",
-          "count": 43
+          "count": 44
         },
         {
           "text": "케이",
-          "count": 18
+          "count": 20
         },
         {
           "text": "붙임파일",
@@ -9338,6 +9338,10 @@
           "count": 9
         },
         {
+          "text": "논의",
+          "count": 8
+        },
+        {
           "text": "저작",
           "count": 7
         },
@@ -9352,10 +9356,6 @@
         {
           "text": "한국",
           "count": 7
-        },
-        {
-          "text": "논의",
-          "count": 6
         },
         {
           "text": "수상",
@@ -9430,6 +9430,10 @@
           "count": 5
         },
         {
+          "text": "문화예술정책자문위원회",
+          "count": 4
+        },
+        {
           "text": "문해",
           "count": 4
         },
@@ -9472,6 +9476,14 @@
         {
           "text": "확산",
           "count": 4
+        },
+        {
+          "text": "애니메이션",
+          "count": 3
+        },
+        {
+          "text": "분과",
+          "count": 3
         },
         {
           "text": "핸드볼경기장",
@@ -9539,10 +9551,6 @@
         },
         {
           "text": "프로그램",
-          "count": 3
-        },
-        {
-          "text": "문화예술정책자문위원회",
           "count": 3
         },
         {
@@ -9842,6 +9850,10 @@
           "count": 3
         },
         {
+          "text": "경쟁력",
+          "count": 2
+        },
+        {
           "text": "위기",
           "count": 2
         },
@@ -9883,18 +9895,6 @@
         },
         {
           "text": "침해",
-          "count": 2
-        },
-        {
-          "text": "작전",
-          "count": 2
-        },
-        {
-          "text": "보호",
-          "count": 2
-        },
-        {
-          "text": "정부합동",
           "count": 2
         }
       ]
@@ -11719,15 +11719,15 @@
     },
     "moj": {
       "label": "법무부",
-      "articleCount": 50,
+      "articleCount": 49,
       "words": [
         {
           "text": "정성호",
-          "count": 43
+          "count": 42
         },
         {
           "text": "참조",
-          "count": 33
+          "count": 32
         },
         {
           "text": "출입국",
@@ -11798,10 +11798,6 @@
           "count": 9
         },
         {
-          "text": "범죄",
-          "count": 9
-        },
-        {
           "text": "기업",
           "count": 9
         },
@@ -11822,6 +11818,10 @@
           "count": 8
         },
         {
+          "text": "범죄",
+          "count": 8
+        },
+        {
           "text": "부족",
           "count": 8
         },
@@ -11831,10 +11831,6 @@
         },
         {
           "text": "논의",
-          "count": 7
-        },
-        {
-          "text": "피해자",
           "count": 7
         },
         {
@@ -11854,15 +11850,7 @@
           "count": 7
         },
         {
-          "text": "송환",
-          "count": 6
-        },
-        {
           "text": "외국인노동자",
-          "count": 6
-        },
-        {
-          "text": "경찰청",
           "count": 6
         },
         {
@@ -11871,6 +11859,10 @@
         },
         {
           "text": "신속",
+          "count": 6
+        },
+        {
+          "text": "피해자",
           "count": 6
         },
         {
@@ -11934,7 +11926,7 @@
           "count": 6
         },
         {
-          "text": "범죄인인도",
+          "text": "송환",
           "count": 5
         },
         {
@@ -11951,6 +11943,10 @@
         },
         {
           "text": "인권침해",
+          "count": 5
+        },
+        {
+          "text": "경찰청",
           "count": 5
         },
         {
@@ -12238,10 +12234,6 @@
           "count": 4
         },
         {
-          "text": "해킹",
-          "count": 4
-        },
-        {
           "text": "불법복제",
           "count": 3
         },
@@ -12255,6 +12247,10 @@
         },
         {
           "text": "당국",
+          "count": 3
+        },
+        {
+          "text": "범죄인인도",
           "count": 3
         },
         {
@@ -12319,6 +12315,10 @@
         },
         {
           "text": "중독",
+          "count": 3
+        },
+        {
+          "text": "참석",
           "count": 3
         }
       ]
@@ -20681,19 +20681,19 @@
     },
     "mods": {
       "label": "국가데이터처",
-      "articleCount": 26,
+      "articleCount": 25,
       "words": [
         {
           "text": "증가",
-          "count": 46
+          "count": 45
         },
         {
           "text": "감소",
-          "count": 24
+          "count": 23
         },
         {
           "text": "전년동월대비",
-          "count": 22
+          "count": 18
         },
         {
           "text": "통계",
@@ -20701,11 +20701,11 @@
         },
         {
           "text": "상승",
-          "count": 14
+          "count": 12
         },
         {
           "text": "전월대비",
-          "count": 12
+          "count": 11
         },
         {
           "text": "전년대비",
@@ -20742,10 +20742,6 @@
         {
           "text": "기준",
           "count": 7
-        },
-        {
-          "text": "실업",
-          "count": 6
         },
         {
           "text": "경제총조사",
@@ -20793,14 +20789,6 @@
         },
         {
           "text": "한국",
-          "count": 4
-        },
-        {
-          "text": "고용동향",
-          "count": 4
-        },
-        {
-          "text": "동일",
           "count": 4
         },
         {
@@ -20868,6 +20856,14 @@
           "count": 3
         },
         {
+          "text": "실업",
+          "count": 3
+        },
+        {
+          "text": "동일",
+          "count": 3
+        },
+        {
           "text": "일자리",
           "count": 3
         },
@@ -20901,10 +20897,6 @@
         },
         {
           "text": "모바일쇼핑",
-          "count": 3
-        },
-        {
-          "text": "전년동월",
           "count": 3
         },
         {
@@ -21016,35 +21008,7 @@
           "count": 2
         },
         {
-          "text": "고용",
-          "count": 2
-        },
-        {
-          "text": "비교기준",
-          "count": 2
-        },
-        {
-          "text": "하락",
-          "count": 2
-        },
-        {
-          "text": "실업자",
-          "count": 2
-        },
-        {
-          "text": "청년",
-          "count": 2
-        },
-        {
-          "text": "계절조정",
-          "count": 2
-        },
-        {
-          "text": "취업자",
-          "count": 2
-        },
-        {
-          "text": "본문",
+          "text": "고용동향",
           "count": 2
         },
         {
@@ -21093,6 +21057,10 @@
         },
         {
           "text": "식료품",
+          "count": 2
+        },
+        {
+          "text": "전년동월",
           "count": 2
         },
         {
@@ -21281,6 +21249,38 @@
         },
         {
           "text": "지역경제동향",
+          "count": 2
+        },
+        {
+          "text": "인천",
+          "count": 2
+        },
+        {
+          "text": "제주",
+          "count": 2
+        },
+        {
+          "text": "임금근로",
+          "count": 2
+        },
+        {
+          "text": "근로자",
+          "count": 2
+        },
+        {
+          "text": "지역공급사용표",
+          "count": 2
+        },
+        {
+          "text": "구조",
+          "count": 2
+        },
+        {
+          "text": "호남",
+          "count": 2
+        },
+        {
+          "text": "대경",
           "count": 2
         }
       ]
