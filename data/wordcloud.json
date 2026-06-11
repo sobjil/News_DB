@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-11T20:30:23.027605+09:00",
-  "totalArticles": 2582,
+  "generated": "2026-06-11T21:29:41.411534+09:00",
+  "totalArticles": 2584,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2582,
+      "articleCount": 2584,
       "words": [
         {
           "text": "대응",
@@ -13,11 +13,11 @@
         },
         {
           "text": "점검",
-          "count": 465
+          "count": 466
         },
         {
           "text": "논의",
-          "count": 453
+          "count": 455
         },
         {
           "text": "인공지능",
@@ -41,7 +41,7 @@
         },
         {
           "text": "안전",
-          "count": 310
+          "count": 311
         },
         {
           "text": "참석",
@@ -152,12 +152,12 @@
           "count": 176
         },
         {
-          "text": "주재",
-          "count": 167
+          "text": "외교부",
+          "count": 168
         },
         {
-          "text": "외교부",
-          "count": 166
+          "text": "주재",
+          "count": 168
         },
         {
           "text": "행정안전부",
@@ -224,6 +224,10 @@
           "count": 141
         },
         {
+          "text": "사항",
+          "count": 139
+        },
+        {
           "text": "대한민국",
           "count": 139
         },
@@ -232,7 +236,7 @@
           "count": 139
         },
         {
-          "text": "사항",
+          "text": "상황",
           "count": 138
         },
         {
@@ -240,8 +244,8 @@
           "count": 138
         },
         {
-          "text": "상황",
-          "count": 137
+          "text": "합동",
+          "count": 136
         },
         {
           "text": "안정",
@@ -262,10 +266,6 @@
         {
           "text": "중기부",
           "count": 135
-        },
-        {
-          "text": "합동",
-          "count": 134
         },
         {
           "text": "대표",
@@ -636,6 +636,10 @@
           "count": 83
         },
         {
+          "text": "미국",
+          "count": 82
+        },
+        {
           "text": "주제",
           "count": 82
         },
@@ -650,10 +654,6 @@
         {
           "text": "공급",
           "count": 82
-        },
-        {
-          "text": "미국",
-          "count": 81
         },
         {
           "text": "공모전",
@@ -4447,7 +4447,7 @@
     },
     "mofa": {
       "label": "외교부",
-      "articleCount": 107,
+      "articleCount": 108,
       "words": [
         {
           "text": "참석",
@@ -4462,11 +4462,11 @@
           "count": 43
         },
         {
-          "text": "외교장관",
-          "count": 31
+          "text": "공관",
+          "count": 34
         },
         {
-          "text": "공관",
+          "text": "외교장관",
           "count": 31
         },
         {
@@ -4494,12 +4494,12 @@
           "count": 23
         },
         {
-          "text": "교환",
+          "text": "주재",
           "count": 22
         },
         {
-          "text": "주재",
-          "count": 21
+          "text": "교환",
+          "count": 22
         },
         {
           "text": "서울",
@@ -4508,6 +4508,10 @@
         {
           "text": "금번",
           "count": 20
+        },
+        {
+          "text": "정세",
+          "count": 19
         },
         {
           "text": "기업",
@@ -4538,12 +4542,12 @@
           "count": 17
         },
         {
-          "text": "정세",
+          "text": "조현",
           "count": 17
         },
         {
-          "text": "조현",
-          "count": 17
+          "text": "안전",
+          "count": 16
         },
         {
           "text": "박윤주",
@@ -4566,10 +4570,6 @@
           "count": 15
         },
         {
-          "text": "안전",
-          "count": 15
-        },
-        {
           "text": "방문",
           "count": 15
         },
@@ -4584,6 +4584,14 @@
         {
           "text": "재외공관",
           "count": 15
+        },
+        {
+          "text": "본부",
+          "count": 14
+        },
+        {
+          "text": "미국",
+          "count": 14
         },
         {
           "text": "간담회",
@@ -4614,8 +4622,8 @@
           "count": 13
         },
         {
-          "text": "미국",
-          "count": 13
+          "text": "중동",
+          "count": 12
         },
         {
           "text": "수석대표",
@@ -4623,10 +4631,6 @@
         },
         {
           "text": "고위관리회의",
-          "count": 12
-        },
-        {
-          "text": "본부",
           "count": 12
         },
         {
@@ -4662,6 +4666,10 @@
           "count": 11
         },
         {
+          "text": "현지",
+          "count": 10
+        },
+        {
           "text": "대한민국",
           "count": 10
         },
@@ -4691,10 +4699,6 @@
         },
         {
           "text": "주제",
-          "count": 9
-        },
-        {
-          "text": "현지",
           "count": 9
         },
         {
@@ -4734,10 +4738,6 @@
           "count": 9
         },
         {
-          "text": "중동",
-          "count": 9
-        },
-        {
           "text": "유엔",
           "count": 9
         },
@@ -4764,6 +4764,14 @@
         {
           "text": "국제개발협력",
           "count": 9
+        },
+        {
+          "text": "점검",
+          "count": 8
+        },
+        {
+          "text": "일부",
+          "count": 8
         },
         {
           "text": "미래",
@@ -4842,6 +4850,18 @@
           "count": 8
         },
         {
+          "text": "합동",
+          "count": 7
+        },
+        {
+          "text": "상황점검회의",
+          "count": 7
+        },
+        {
+          "text": "상황",
+          "count": 7
+        },
+        {
           "text": "전문가",
           "count": 7
         },
@@ -4863,10 +4883,6 @@
         },
         {
           "text": "정의혜",
-          "count": 7
-        },
-        {
-          "text": "점검",
           "count": 7
         },
         {
@@ -4902,10 +4918,6 @@
           "count": 7
         },
         {
-          "text": "일부",
-          "count": 7
-        },
-        {
           "text": "일본",
           "count": 7
         },
@@ -4920,6 +4932,10 @@
         {
           "text": "공공데이터",
           "count": 7
+        },
+        {
+          "text": "이란",
+          "count": 6
         },
         {
           "text": "발급",
@@ -5031,22 +5047,6 @@
         },
         {
           "text": "양자",
-          "count": 6
-        },
-        {
-          "text": "공동설명자료",
-          "count": 6
-        },
-        {
-          "text": "상황",
-          "count": 6
-        },
-        {
-          "text": "리비아",
-          "count": 6
-        },
-        {
-          "text": "글로벌펀드",
           "count": 6
         }
       ]
@@ -9293,6 +9293,612 @@
         }
       ]
     },
+    "mcst": {
+      "label": "문화체육관광부",
+      "articleCount": 60,
+      "words": [
+        {
+          "text": "사항",
+          "count": 60
+        },
+        {
+          "text": "문체부보도자료",
+          "count": 43
+        },
+        {
+          "text": "케이",
+          "count": 18
+        },
+        {
+          "text": "붙임파일",
+          "count": 12
+        },
+        {
+          "text": "활성",
+          "count": 11
+        },
+        {
+          "text": "콘텐츠",
+          "count": 11
+        },
+        {
+          "text": "모색",
+          "count": 10
+        },
+        {
+          "text": "지역관광",
+          "count": 10
+        },
+        {
+          "text": "방한",
+          "count": 9
+        },
+        {
+          "text": "태국",
+          "count": 9
+        },
+        {
+          "text": "저작",
+          "count": 7
+        },
+        {
+          "text": "선정",
+          "count": 7
+        },
+        {
+          "text": "외국인",
+          "count": 7
+        },
+        {
+          "text": "한국",
+          "count": 7
+        },
+        {
+          "text": "논의",
+          "count": 6
+        },
+        {
+          "text": "수상",
+          "count": 6
+        },
+        {
+          "text": "인문학",
+          "count": 6
+        },
+        {
+          "text": "여행",
+          "count": 6
+        },
+        {
+          "text": "축전",
+          "count": 6
+        },
+        {
+          "text": "공모",
+          "count": 6
+        },
+        {
+          "text": "주간",
+          "count": 6
+        },
+        {
+          "text": "베트남",
+          "count": 6
+        },
+        {
+          "text": "사범",
+          "count": 5
+        },
+        {
+          "text": "미디어",
+          "count": 5
+        },
+        {
+          "text": "교육",
+          "count": 5
+        },
+        {
+          "text": "관광지",
+          "count": 5
+        },
+        {
+          "text": "검거",
+          "count": 5
+        },
+        {
+          "text": "연극",
+          "count": 5
+        },
+        {
+          "text": "제도",
+          "count": 5
+        },
+        {
+          "text": "출범",
+          "count": 5
+        },
+        {
+          "text": "제작",
+          "count": 5
+        },
+        {
+          "text": "전시",
+          "count": 5
+        },
+        {
+          "text": "문화예술교육",
+          "count": 5
+        },
+        {
+          "text": "문해",
+          "count": 4
+        },
+        {
+          "text": "인구감소지역",
+          "count": 4
+        },
+        {
+          "text": "축제",
+          "count": 4
+        },
+        {
+          "text": "컬처",
+          "count": 4
+        },
+        {
+          "text": "역대",
+          "count": 4
+        },
+        {
+          "text": "관광객",
+          "count": 4
+        },
+        {
+          "text": "시행",
+          "count": 4
+        },
+        {
+          "text": "할인",
+          "count": 4
+        },
+        {
+          "text": "방한객",
+          "count": 4
+        },
+        {
+          "text": "기관",
+          "count": 4
+        },
+        {
+          "text": "확산",
+          "count": 4
+        },
+        {
+          "text": "핸드볼경기장",
+          "count": 3
+        },
+        {
+          "text": "입주",
+          "count": 3
+        },
+        {
+          "text": "종목단체",
+          "count": 3
+        },
+        {
+          "text": "불법복제",
+          "count": 3
+        },
+        {
+          "text": "만화",
+          "count": 3
+        },
+        {
+          "text": "공유사이트",
+          "count": 3
+        },
+        {
+          "text": "송환",
+          "count": 3
+        },
+        {
+          "text": "이재명",
+          "count": 3
+        },
+        {
+          "text": "문화요일",
+          "count": 3
+        },
+        {
+          "text": "홍보영상",
+          "count": 3
+        },
+        {
+          "text": "청와대",
+          "count": 3
+        },
+        {
+          "text": "캠프",
+          "count": 3
+        },
+        {
+          "text": "해운대시장",
+          "count": 3
+        },
+        {
+          "text": "실무",
+          "count": 3
+        },
+        {
+          "text": "마약",
+          "count": 3
+        },
+        {
+          "text": "대책협의회",
+          "count": 3
+        },
+        {
+          "text": "프로그램",
+          "count": 3
+        },
+        {
+          "text": "문화예술정책자문위원회",
+          "count": 3
+        },
+        {
+          "text": "디지털관광주민증",
+          "count": 3
+        },
+        {
+          "text": "관광두레",
+          "count": 3
+        },
+        {
+          "text": "예술활동증명",
+          "count": 3
+        },
+        {
+          "text": "게임물관리위원회",
+          "count": 3
+        },
+        {
+          "text": "위촉",
+          "count": 3
+        },
+        {
+          "text": "국악",
+          "count": 3
+        },
+        {
+          "text": "월드컵",
+          "count": 3
+        },
+        {
+          "text": "계기",
+          "count": 3
+        },
+        {
+          "text": "멕시코",
+          "count": 3
+        },
+        {
+          "text": "한국문화",
+          "count": 3
+        },
+        {
+          "text": "행사",
+          "count": 3
+        },
+        {
+          "text": "디엠지",
+          "count": 3
+        },
+        {
+          "text": "평화",
+          "count": 3
+        },
+        {
+          "text": "국민주권정부",
+          "count": 3
+        },
+        {
+          "text": "전자도서관",
+          "count": 3
+        },
+        {
+          "text": "김해국제공항",
+          "count": 3
+        },
+        {
+          "text": "환영",
+          "count": 3
+        },
+        {
+          "text": "환송",
+          "count": 3
+        },
+        {
+          "text": "웰니스",
+          "count": 3
+        },
+        {
+          "text": "육성",
+          "count": 3
+        },
+        {
+          "text": "외래객",
+          "count": 3
+        },
+        {
+          "text": "영화",
+          "count": 3
+        },
+        {
+          "text": "지방공항",
+          "count": 3
+        },
+        {
+          "text": "다국어",
+          "count": 3
+        },
+        {
+          "text": "교통정보",
+          "count": 3
+        },
+        {
+          "text": "바가지요금",
+          "count": 3
+        },
+        {
+          "text": "근절",
+          "count": 3
+        },
+        {
+          "text": "지역특화",
+          "count": 3
+        },
+        {
+          "text": "소재",
+          "count": 3
+        },
+        {
+          "text": "웹툰",
+          "count": 3
+        },
+        {
+          "text": "아메리칸",
+          "count": 3
+        },
+        {
+          "text": "뮤직",
+          "count": 3
+        },
+        {
+          "text": "어워즈",
+          "count": 3
+        },
+        {
+          "text": "케이팝",
+          "count": 3
+        },
+        {
+          "text": "가수",
+          "count": 3
+        },
+        {
+          "text": "국민체력인증센터",
+          "count": 3
+        },
+        {
+          "text": "신규",
+          "count": 3
+        },
+        {
+          "text": "웹하드",
+          "count": 3
+        },
+        {
+          "text": "대량게시",
+          "count": 3
+        },
+        {
+          "text": "방콕",
+          "count": 3
+        },
+        {
+          "text": "문학관",
+          "count": 3
+        },
+        {
+          "text": "모집",
+          "count": 3
+        },
+        {
+          "text": "국제영화제",
+          "count": 3
+        },
+        {
+          "text": "진미송",
+          "count": 3
+        },
+        {
+          "text": "감독",
+          "count": 3
+        },
+        {
+          "text": "미국",
+          "count": 3
+        },
+        {
+          "text": "전국소년체육대회",
+          "count": 3
+        },
+        {
+          "text": "학교",
+          "count": 3
+        },
+        {
+          "text": "문화다양",
+          "count": 3
+        },
+        {
+          "text": "정보",
+          "count": 3
+        },
+        {
+          "text": "수어",
+          "count": 3
+        },
+        {
+          "text": "공연",
+          "count": 3
+        },
+        {
+          "text": "정상회담",
+          "count": 3
+        },
+        {
+          "text": "개최지",
+          "count": 3
+        },
+        {
+          "text": "코리아시즌",
+          "count": 3
+        },
+        {
+          "text": "개막",
+          "count": 3
+        },
+        {
+          "text": "노동자",
+          "count": 3
+        },
+        {
+          "text": "한국어교육",
+          "count": 3
+        },
+        {
+          "text": "국립현대무용단",
+          "count": 3
+        },
+        {
+          "text": "예술감독",
+          "count": 3
+        },
+        {
+          "text": "임명",
+          "count": 3
+        },
+        {
+          "text": "유네스코",
+          "count": 3
+        },
+        {
+          "text": "전남도청",
+          "count": 3
+        },
+        {
+          "text": "관광특구",
+          "count": 3
+        },
+        {
+          "text": "글로벌축제",
+          "count": 3
+        },
+        {
+          "text": "생성",
+          "count": 3
+        },
+        {
+          "text": "인공지능",
+          "count": 3
+        },
+        {
+          "text": "저작물",
+          "count": 3
+        },
+        {
+          "text": "학습",
+          "count": 3
+        },
+        {
+          "text": "공정이용",
+          "count": 3
+        },
+        {
+          "text": "안내서",
+          "count": 3
+        },
+        {
+          "text": "영문",
+          "count": 3
+        },
+        {
+          "text": "발간",
+          "count": 3
+        },
+        {
+          "text": "도서전",
+          "count": 3
+        },
+        {
+          "text": "위기",
+          "count": 2
+        },
+        {
+          "text": "역내",
+          "count": 2
+        },
+        {
+          "text": "핵심",
+          "count": 2
+        },
+        {
+          "text": "엄마",
+          "count": 2
+        },
+        {
+          "text": "수요일",
+          "count": 2
+        },
+        {
+          "text": "사랑채",
+          "count": 2
+        },
+        {
+          "text": "기원",
+          "count": 2
+        },
+        {
+          "text": "가족",
+          "count": 2
+        },
+        {
+          "text": "부산",
+          "count": 2
+        },
+        {
+          "text": "법집행기관",
+          "count": 2
+        },
+        {
+          "text": "침해",
+          "count": 2
+        },
+        {
+          "text": "작전",
+          "count": 2
+        },
+        {
+          "text": "보호",
+          "count": 2
+        },
+        {
+          "text": "정부합동",
+          "count": 2
+        }
+      ]
+    },
     "mss": {
       "label": "중소벤처기업부",
       "articleCount": 60,
@@ -10501,612 +11107,6 @@
         },
         {
           "text": "한-미",
-          "count": 2
-        }
-      ]
-    },
-    "mcst": {
-      "label": "문화체육관광부",
-      "articleCount": 59,
-      "words": [
-        {
-          "text": "사항",
-          "count": 59
-        },
-        {
-          "text": "문체부보도자료",
-          "count": 43
-        },
-        {
-          "text": "케이",
-          "count": 18
-        },
-        {
-          "text": "붙임파일",
-          "count": 12
-        },
-        {
-          "text": "활성",
-          "count": 11
-        },
-        {
-          "text": "콘텐츠",
-          "count": 11
-        },
-        {
-          "text": "모색",
-          "count": 10
-        },
-        {
-          "text": "지역관광",
-          "count": 10
-        },
-        {
-          "text": "방한",
-          "count": 9
-        },
-        {
-          "text": "태국",
-          "count": 9
-        },
-        {
-          "text": "저작",
-          "count": 7
-        },
-        {
-          "text": "선정",
-          "count": 7
-        },
-        {
-          "text": "외국인",
-          "count": 7
-        },
-        {
-          "text": "한국",
-          "count": 7
-        },
-        {
-          "text": "수상",
-          "count": 6
-        },
-        {
-          "text": "인문학",
-          "count": 6
-        },
-        {
-          "text": "여행",
-          "count": 6
-        },
-        {
-          "text": "축전",
-          "count": 6
-        },
-        {
-          "text": "공모",
-          "count": 6
-        },
-        {
-          "text": "주간",
-          "count": 6
-        },
-        {
-          "text": "베트남",
-          "count": 6
-        },
-        {
-          "text": "사범",
-          "count": 5
-        },
-        {
-          "text": "미디어",
-          "count": 5
-        },
-        {
-          "text": "교육",
-          "count": 5
-        },
-        {
-          "text": "관광지",
-          "count": 5
-        },
-        {
-          "text": "검거",
-          "count": 5
-        },
-        {
-          "text": "연극",
-          "count": 5
-        },
-        {
-          "text": "제도",
-          "count": 5
-        },
-        {
-          "text": "출범",
-          "count": 5
-        },
-        {
-          "text": "제작",
-          "count": 5
-        },
-        {
-          "text": "전시",
-          "count": 5
-        },
-        {
-          "text": "문화예술교육",
-          "count": 5
-        },
-        {
-          "text": "문해",
-          "count": 4
-        },
-        {
-          "text": "논의",
-          "count": 4
-        },
-        {
-          "text": "인구감소지역",
-          "count": 4
-        },
-        {
-          "text": "축제",
-          "count": 4
-        },
-        {
-          "text": "컬처",
-          "count": 4
-        },
-        {
-          "text": "역대",
-          "count": 4
-        },
-        {
-          "text": "관광객",
-          "count": 4
-        },
-        {
-          "text": "시행",
-          "count": 4
-        },
-        {
-          "text": "할인",
-          "count": 4
-        },
-        {
-          "text": "방한객",
-          "count": 4
-        },
-        {
-          "text": "기관",
-          "count": 4
-        },
-        {
-          "text": "확산",
-          "count": 4
-        },
-        {
-          "text": "불법복제",
-          "count": 3
-        },
-        {
-          "text": "만화",
-          "count": 3
-        },
-        {
-          "text": "공유사이트",
-          "count": 3
-        },
-        {
-          "text": "송환",
-          "count": 3
-        },
-        {
-          "text": "이재명",
-          "count": 3
-        },
-        {
-          "text": "문화요일",
-          "count": 3
-        },
-        {
-          "text": "홍보영상",
-          "count": 3
-        },
-        {
-          "text": "청와대",
-          "count": 3
-        },
-        {
-          "text": "캠프",
-          "count": 3
-        },
-        {
-          "text": "해운대시장",
-          "count": 3
-        },
-        {
-          "text": "실무",
-          "count": 3
-        },
-        {
-          "text": "마약",
-          "count": 3
-        },
-        {
-          "text": "대책협의회",
-          "count": 3
-        },
-        {
-          "text": "프로그램",
-          "count": 3
-        },
-        {
-          "text": "문화예술정책자문위원회",
-          "count": 3
-        },
-        {
-          "text": "디지털관광주민증",
-          "count": 3
-        },
-        {
-          "text": "관광두레",
-          "count": 3
-        },
-        {
-          "text": "예술활동증명",
-          "count": 3
-        },
-        {
-          "text": "게임물관리위원회",
-          "count": 3
-        },
-        {
-          "text": "위촉",
-          "count": 3
-        },
-        {
-          "text": "국악",
-          "count": 3
-        },
-        {
-          "text": "월드컵",
-          "count": 3
-        },
-        {
-          "text": "계기",
-          "count": 3
-        },
-        {
-          "text": "멕시코",
-          "count": 3
-        },
-        {
-          "text": "한국문화",
-          "count": 3
-        },
-        {
-          "text": "행사",
-          "count": 3
-        },
-        {
-          "text": "디엠지",
-          "count": 3
-        },
-        {
-          "text": "평화",
-          "count": 3
-        },
-        {
-          "text": "국민주권정부",
-          "count": 3
-        },
-        {
-          "text": "전자도서관",
-          "count": 3
-        },
-        {
-          "text": "김해국제공항",
-          "count": 3
-        },
-        {
-          "text": "환영",
-          "count": 3
-        },
-        {
-          "text": "환송",
-          "count": 3
-        },
-        {
-          "text": "웰니스",
-          "count": 3
-        },
-        {
-          "text": "육성",
-          "count": 3
-        },
-        {
-          "text": "외래객",
-          "count": 3
-        },
-        {
-          "text": "영화",
-          "count": 3
-        },
-        {
-          "text": "지방공항",
-          "count": 3
-        },
-        {
-          "text": "다국어",
-          "count": 3
-        },
-        {
-          "text": "교통정보",
-          "count": 3
-        },
-        {
-          "text": "바가지요금",
-          "count": 3
-        },
-        {
-          "text": "근절",
-          "count": 3
-        },
-        {
-          "text": "지역특화",
-          "count": 3
-        },
-        {
-          "text": "소재",
-          "count": 3
-        },
-        {
-          "text": "웹툰",
-          "count": 3
-        },
-        {
-          "text": "아메리칸",
-          "count": 3
-        },
-        {
-          "text": "뮤직",
-          "count": 3
-        },
-        {
-          "text": "어워즈",
-          "count": 3
-        },
-        {
-          "text": "케이팝",
-          "count": 3
-        },
-        {
-          "text": "가수",
-          "count": 3
-        },
-        {
-          "text": "국민체력인증센터",
-          "count": 3
-        },
-        {
-          "text": "신규",
-          "count": 3
-        },
-        {
-          "text": "웹하드",
-          "count": 3
-        },
-        {
-          "text": "대량게시",
-          "count": 3
-        },
-        {
-          "text": "방콕",
-          "count": 3
-        },
-        {
-          "text": "문학관",
-          "count": 3
-        },
-        {
-          "text": "모집",
-          "count": 3
-        },
-        {
-          "text": "국제영화제",
-          "count": 3
-        },
-        {
-          "text": "진미송",
-          "count": 3
-        },
-        {
-          "text": "감독",
-          "count": 3
-        },
-        {
-          "text": "미국",
-          "count": 3
-        },
-        {
-          "text": "전국소년체육대회",
-          "count": 3
-        },
-        {
-          "text": "학교",
-          "count": 3
-        },
-        {
-          "text": "문화다양",
-          "count": 3
-        },
-        {
-          "text": "정보",
-          "count": 3
-        },
-        {
-          "text": "수어",
-          "count": 3
-        },
-        {
-          "text": "공연",
-          "count": 3
-        },
-        {
-          "text": "정상회담",
-          "count": 3
-        },
-        {
-          "text": "개최지",
-          "count": 3
-        },
-        {
-          "text": "코리아시즌",
-          "count": 3
-        },
-        {
-          "text": "개막",
-          "count": 3
-        },
-        {
-          "text": "노동자",
-          "count": 3
-        },
-        {
-          "text": "한국어교육",
-          "count": 3
-        },
-        {
-          "text": "국립현대무용단",
-          "count": 3
-        },
-        {
-          "text": "예술감독",
-          "count": 3
-        },
-        {
-          "text": "임명",
-          "count": 3
-        },
-        {
-          "text": "유네스코",
-          "count": 3
-        },
-        {
-          "text": "전남도청",
-          "count": 3
-        },
-        {
-          "text": "관광특구",
-          "count": 3
-        },
-        {
-          "text": "글로벌축제",
-          "count": 3
-        },
-        {
-          "text": "생성",
-          "count": 3
-        },
-        {
-          "text": "인공지능",
-          "count": 3
-        },
-        {
-          "text": "저작물",
-          "count": 3
-        },
-        {
-          "text": "학습",
-          "count": 3
-        },
-        {
-          "text": "공정이용",
-          "count": 3
-        },
-        {
-          "text": "안내서",
-          "count": 3
-        },
-        {
-          "text": "영문",
-          "count": 3
-        },
-        {
-          "text": "발간",
-          "count": 3
-        },
-        {
-          "text": "도서전",
-          "count": 3
-        },
-        {
-          "text": "위기",
-          "count": 2
-        },
-        {
-          "text": "역내",
-          "count": 2
-        },
-        {
-          "text": "핵심",
-          "count": 2
-        },
-        {
-          "text": "엄마",
-          "count": 2
-        },
-        {
-          "text": "수요일",
-          "count": 2
-        },
-        {
-          "text": "사랑채",
-          "count": 2
-        },
-        {
-          "text": "기원",
-          "count": 2
-        },
-        {
-          "text": "가족",
-          "count": 2
-        },
-        {
-          "text": "부산",
-          "count": 2
-        },
-        {
-          "text": "법집행기관",
-          "count": 2
-        },
-        {
-          "text": "침해",
-          "count": 2
-        },
-        {
-          "text": "작전",
-          "count": 2
-        },
-        {
-          "text": "보호",
-          "count": 2
-        },
-        {
-          "text": "정부합동",
-          "count": 2
-        },
-        {
-          "text": "일상",
-          "count": 2
-        },
-        {
-          "text": "지혜학교",
-          "count": 2
-        },
-        {
-          "text": "운영기관",
           "count": 2
         }
       ]
