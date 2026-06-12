@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-13T02:27:25.355211+09:00",
-  "totalArticles": 2581,
+  "generated": "2026-06-13T03:27:25.049090+09:00",
+  "totalArticles": 2580,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2581,
+      "articleCount": 2580,
       "words": [
         {
           "text": "대응",
@@ -181,7 +181,7 @@
         },
         {
           "text": "생산",
-          "count": 152
+          "count": 150
         },
         {
           "text": "이후",
@@ -408,15 +408,15 @@
           "count": 108
         },
         {
-          "text": "보도참고",
-          "count": 108
-        },
-        {
           "text": "면담",
           "count": 106
         },
         {
           "text": "온라인",
+          "count": 106
+        },
+        {
+          "text": "보도참고",
           "count": 106
         },
         {
@@ -6871,11 +6871,11 @@
     },
     "mfds": {
       "label": "식품의약품안전처",
-      "articleCount": 92,
+      "articleCount": 91,
       "words": [
         {
           "text": "보도참고",
-          "count": 93
+          "count": 91
         },
         {
           "text": "적발",
@@ -6890,23 +6890,11 @@
           "count": 13
         },
         {
-          "text": "동향",
-          "count": 12
-        },
-        {
           "text": "화장품",
           "count": 12
         },
         {
-          "text": "주사기",
-          "count": 10
-        },
-        {
-          "text": "생산",
-          "count": 10
-        },
-        {
-          "text": "수급",
+          "text": "동향",
           "count": 10
         },
         {
@@ -6919,6 +6907,18 @@
         },
         {
           "text": "부당광고",
+          "count": 8
+        },
+        {
+          "text": "주사기",
+          "count": 8
+        },
+        {
+          "text": "생산",
+          "count": 8
+        },
+        {
+          "text": "수급",
           "count": 8
         },
         {
