@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-13T00:45:49.575404+09:00",
-  "totalArticles": 2583,
+  "generated": "2026-06-13T01:27:25.297502+09:00",
+  "totalArticles": 2581,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2583,
+      "articleCount": 2581,
       "words": [
         {
           "text": "대응",
@@ -232,10 +232,6 @@
           "count": 140
         },
         {
-          "text": "대한민국",
-          "count": 140
-        },
-        {
           "text": "기준",
           "count": 140
         },
@@ -245,6 +241,10 @@
         },
         {
           "text": "연계",
+          "count": 138
+        },
+        {
+          "text": "대한민국",
           "count": 138
         },
         {
@@ -388,10 +388,6 @@
           "count": 111
         },
         {
-          "text": "보도참고",
-          "count": 110
-        },
-        {
           "text": "집중",
           "count": 109
         },
@@ -409,6 +405,10 @@
         },
         {
           "text": "신속",
+          "count": 108
+        },
+        {
+          "text": "보도참고",
           "count": 108
         },
         {
@@ -6263,612 +6263,6 @@
         }
       ]
     },
-    "mfds": {
-      "label": "식품의약품안전처",
-      "articleCount": 94,
-      "words": [
-        {
-          "text": "보도참고",
-          "count": 95
-        },
-        {
-          "text": "적발",
-          "count": 18
-        },
-        {
-          "text": "마약",
-          "count": 16
-        },
-        {
-          "text": "부처합동",
-          "count": 13
-        },
-        {
-          "text": "동향",
-          "count": 12
-        },
-        {
-          "text": "화장품",
-          "count": 12
-        },
-        {
-          "text": "주사기",
-          "count": 10
-        },
-        {
-          "text": "생산",
-          "count": 10
-        },
-        {
-          "text": "수급",
-          "count": 10
-        },
-        {
-          "text": "의료기기",
-          "count": 10
-        },
-        {
-          "text": "판매",
-          "count": 10
-        },
-        {
-          "text": "식품안전",
-          "count": 10
-        },
-        {
-          "text": "부당광고",
-          "count": 8
-        },
-        {
-          "text": "여름철",
-          "count": 8
-        },
-        {
-          "text": "설명회",
-          "count": 8
-        },
-        {
-          "text": "평가",
-          "count": 6
-        },
-        {
-          "text": "정부합동",
-          "count": 6
-        },
-        {
-          "text": "논의",
-          "count": 6
-        },
-        {
-          "text": "안전관리",
-          "count": 6
-        },
-        {
-          "text": "대비",
-          "count": 6
-        },
-        {
-          "text": "허가",
-          "count": 6
-        },
-        {
-          "text": "의료",
-          "count": 6
-        },
-        {
-          "text": "온라인",
-          "count": 6
-        },
-        {
-          "text": "회수",
-          "count": 6
-        },
-        {
-          "text": "조치",
-          "count": 6
-        },
-        {
-          "text": "건강",
-          "count": 6
-        },
-        {
-          "text": "검사",
-          "count": 6
-        },
-        {
-          "text": "디지털의료기기",
-          "count": 4
-        },
-        {
-          "text": "활성",
-          "count": 4
-        },
-        {
-          "text": "식약처장",
-          "count": 4
-        },
-        {
-          "text": "가이드라인",
-          "count": 4
-        },
-        {
-          "text": "개정",
-          "count": 4
-        },
-        {
-          "text": "마당",
-          "count": 4
-        },
-        {
-          "text": "푸드",
-          "count": 4
-        },
-        {
-          "text": "상당",
-          "count": 4
-        },
-        {
-          "text": "발간",
-          "count": 4
-        },
-        {
-          "text": "실무",
-          "count": 4
-        },
-        {
-          "text": "대책협의회",
-          "count": 4
-        },
-        {
-          "text": "제품",
-          "count": 4
-        },
-        {
-          "text": "선정",
-          "count": 4
-        },
-        {
-          "text": "시행규칙",
-          "count": 4
-        },
-        {
-          "text": "수출",
-          "count": 4
-        },
-        {
-          "text": "최신",
-          "count": 4
-        },
-        {
-          "text": "업계",
-          "count": 4
-        },
-        {
-          "text": "임상시험",
-          "count": 4
-        },
-        {
-          "text": "축산물",
-          "count": 4
-        },
-        {
-          "text": "수입식품",
-          "count": 4
-        },
-        {
-          "text": "환자",
-          "count": 4
-        },
-        {
-          "text": "사용",
-          "count": 4
-        },
-        {
-          "text": "민관",
-          "count": 4
-        },
-        {
-          "text": "국가필수의약품",
-          "count": 4
-        },
-        {
-          "text": "점검결과",
-          "count": 4
-        },
-        {
-          "text": "교육",
-          "count": 4
-        },
-        {
-          "text": "지정",
-          "count": 4
-        },
-        {
-          "text": "기준",
-          "count": 4
-        },
-        {
-          "text": "총력",
-          "count": 4
-        },
-        {
-          "text": "대응",
-          "count": 4
-        },
-        {
-          "text": "근절",
-          "count": 4
-        },
-        {
-          "text": "청소년",
-          "count": 4
-        },
-        {
-          "text": "무역수지",
-          "count": 4
-        },
-        {
-          "text": "흑자",
-          "count": 4
-        },
-        {
-          "text": "달성",
-          "count": 4
-        },
-        {
-          "text": "청년",
-          "count": 4
-        },
-        {
-          "text": "우려",
-          "count": 4
-        },
-        {
-          "text": "수거",
-          "count": 4
-        },
-        {
-          "text": "허가심사",
-          "count": 4
-        },
-        {
-          "text": "독감백신",
-          "count": 2
-        },
-        {
-          "text": "국가출하승인",
-          "count": 2
-        },
-        {
-          "text": "신속출하",
-          "count": 2
-        },
-        {
-          "text": "진단보조",
-          "count": 2
-        },
-        {
-          "text": "중심",
-          "count": 2
-        },
-        {
-          "text": "부작용",
-          "count": 2
-        },
-        {
-          "text": "피해구제",
-          "count": 2
-        },
-        {
-          "text": "의료현장",
-          "count": 2
-        },
-        {
-          "text": "홍보",
-          "count": 2
-        },
-        {
-          "text": "오성규",
-          "count": 2
-        },
-        {
-          "text": "애국지사",
-          "count": 2
-        },
-        {
-          "text": "보훈원",
-          "count": 2
-        },
-        {
-          "text": "국가유공자",
-          "count": 2
-        },
-        {
-          "text": "위문",
-          "count": 2
-        },
-        {
-          "text": "항산화",
-          "count": 2
-        },
-        {
-          "text": "속노화",
-          "count": 2
-        },
-        {
-          "text": "하스카프베리",
-          "count": 2
-        },
-        {
-          "text": "표시기재",
-          "count": 2
-        },
-        {
-          "text": "소통",
-          "count": 2
-        },
-        {
-          "text": "중기부",
-          "count": 2
-        },
-        {
-          "text": "농식품부",
-          "count": 2
-        },
-        {
-          "text": "산업",
-          "count": 2
-        },
-        {
-          "text": "제조혁신",
-          "count": 2
-        },
-        {
-          "text": "진출",
-          "count": 2
-        },
-        {
-          "text": "가짜",
-          "count": 2
-        },
-        {
-          "text": "의사",
-          "count": 2
-        },
-        {
-          "text": "과대광고",
-          "count": 2
-        },
-        {
-          "text": "판매업체",
-          "count": 2
-        },
-        {
-          "text": "검찰",
-          "count": 2
-        },
-        {
-          "text": "송치",
-          "count": 2
-        },
-        {
-          "text": "첨단바이오의약품",
-          "count": 2
-        },
-        {
-          "text": "바이오챌린저",
-          "count": 2
-        },
-        {
-          "text": "관리법",
-          "count": 2
-        },
-        {
-          "text": "시행령",
-          "count": 2
-        },
-        {
-          "text": "개정안",
-          "count": 2
-        },
-        {
-          "text": "입법예고",
-          "count": 2
-        },
-        {
-          "text": "뷰티",
-          "count": 2
-        },
-        {
-          "text": "할랄",
-          "count": 2
-        },
-        {
-          "text": "경쟁력",
-          "count": 2
-        },
-        {
-          "text": "소비자",
-          "count": 2
-        },
-        {
-          "text": "안전교실",
-          "count": 2
-        },
-        {
-          "text": "본격",
-          "count": 2
-        },
-        {
-          "text": "아세안",
-          "count": 2
-        },
-        {
-          "text": "규제",
-          "count": 2
-        },
-        {
-          "text": "규제혁신",
-          "count": 2
-        },
-        {
-          "text": "다소비",
-          "count": 2
-        },
-        {
-          "text": "집중",
-          "count": 2
-        },
-        {
-          "text": "점검",
-          "count": 2
-        },
-        {
-          "text": "인도네시아",
-          "count": 2
-        },
-        {
-          "text": "할랄인증",
-          "count": 2
-        },
-        {
-          "text": "의무",
-          "count": 2
-        },
-        {
-          "text": "수출기업",
-          "count": 2
-        },
-        {
-          "text": "혈압",
-          "count": 2
-        },
-        {
-          "text": "신장신경",
-          "count": 2
-        },
-        {
-          "text": "차단",
-          "count": 2
-        },
-        {
-          "text": "초음파수술기",
-          "count": 2
-        },
-        {
-          "text": "개발의료기기",
-          "count": 2
-        },
-        {
-          "text": "자외선차단제",
-          "count": 2
-        },
-        {
-          "text": "고압가스",
-          "count": 2
-        },
-        {
-          "text": "신청",
-          "count": 2
-        },
-        {
-          "text": "제출자료",
-          "count": 2
-        },
-        {
-          "text": "간소",
-          "count": 2
-        },
-        {
-          "text": "민관협의체",
-          "count": 2
-        },
-        {
-          "text": "규제과학",
-          "count": 2
-        },
-        {
-          "text": "혁신포럼",
-          "count": 2
-        },
-        {
-          "text": "감기",
-          "count": 2
-        },
-        {
-          "text": "예방",
-          "count": 2
-        },
-        {
-          "text": "면역력",
-          "count": 2
-        },
-        {
-          "text": "알레르기",
-          "count": 2
-        },
-        {
-          "text": "유발물질",
-          "count": 2
-        },
-        {
-          "text": "미표시",
-          "count": 2
-        },
-        {
-          "text": "기타가공품",
-          "count": 2
-        },
-        {
-          "text": "식품영양",
-          "count": 2
-        },
-        {
-          "text": "식생활",
-          "count": 2
-        },
-        {
-          "text": "불순물",
-          "count": 2
-        },
-        {
-          "text": "저감",
-          "count": 2
-        },
-        {
-          "text": "사례집",
-          "count": 2
-        },
-        {
-          "text": "민원서비스",
-          "count": 2
-        },
-        {
-          "text": "산업활성",
-          "count": 2
-        },
-        {
-          "text": "건강기능식품법",
-          "count": 2
-        },
-        {
-          "text": "안내",
-          "count": 2
-        },
-        {
-          "text": "주문제조",
-          "count": 2
-        },
-        {
-          "text": "악성",
-          "count": 2
-        },
-        {
-          "text": "흑색종",
-          "count": 2
-        }
-      ]
-    },
     "mcee": {
       "label": "기후에너지환경부",
       "articleCount": 94,
@@ -7472,6 +6866,612 @@
         {
           "text": "남광우",
           "count": 5
+        }
+      ]
+    },
+    "mfds": {
+      "label": "식품의약품안전처",
+      "articleCount": 92,
+      "words": [
+        {
+          "text": "보도참고",
+          "count": 93
+        },
+        {
+          "text": "적발",
+          "count": 18
+        },
+        {
+          "text": "마약",
+          "count": 16
+        },
+        {
+          "text": "부처합동",
+          "count": 13
+        },
+        {
+          "text": "동향",
+          "count": 12
+        },
+        {
+          "text": "화장품",
+          "count": 12
+        },
+        {
+          "text": "주사기",
+          "count": 10
+        },
+        {
+          "text": "생산",
+          "count": 10
+        },
+        {
+          "text": "수급",
+          "count": 10
+        },
+        {
+          "text": "의료기기",
+          "count": 10
+        },
+        {
+          "text": "판매",
+          "count": 10
+        },
+        {
+          "text": "부당광고",
+          "count": 8
+        },
+        {
+          "text": "여름철",
+          "count": 8
+        },
+        {
+          "text": "설명회",
+          "count": 8
+        },
+        {
+          "text": "평가",
+          "count": 6
+        },
+        {
+          "text": "정부합동",
+          "count": 6
+        },
+        {
+          "text": "논의",
+          "count": 6
+        },
+        {
+          "text": "안전관리",
+          "count": 6
+        },
+        {
+          "text": "대비",
+          "count": 6
+        },
+        {
+          "text": "허가",
+          "count": 6
+        },
+        {
+          "text": "의료",
+          "count": 6
+        },
+        {
+          "text": "온라인",
+          "count": 6
+        },
+        {
+          "text": "회수",
+          "count": 6
+        },
+        {
+          "text": "조치",
+          "count": 6
+        },
+        {
+          "text": "식품안전",
+          "count": 6
+        },
+        {
+          "text": "검사",
+          "count": 6
+        },
+        {
+          "text": "디지털의료기기",
+          "count": 4
+        },
+        {
+          "text": "활성",
+          "count": 4
+        },
+        {
+          "text": "식약처장",
+          "count": 4
+        },
+        {
+          "text": "가이드라인",
+          "count": 4
+        },
+        {
+          "text": "개정",
+          "count": 4
+        },
+        {
+          "text": "마당",
+          "count": 4
+        },
+        {
+          "text": "푸드",
+          "count": 4
+        },
+        {
+          "text": "상당",
+          "count": 4
+        },
+        {
+          "text": "발간",
+          "count": 4
+        },
+        {
+          "text": "실무",
+          "count": 4
+        },
+        {
+          "text": "대책협의회",
+          "count": 4
+        },
+        {
+          "text": "제품",
+          "count": 4
+        },
+        {
+          "text": "선정",
+          "count": 4
+        },
+        {
+          "text": "시행규칙",
+          "count": 4
+        },
+        {
+          "text": "수출",
+          "count": 4
+        },
+        {
+          "text": "최신",
+          "count": 4
+        },
+        {
+          "text": "업계",
+          "count": 4
+        },
+        {
+          "text": "임상시험",
+          "count": 4
+        },
+        {
+          "text": "축산물",
+          "count": 4
+        },
+        {
+          "text": "수입식품",
+          "count": 4
+        },
+        {
+          "text": "환자",
+          "count": 4
+        },
+        {
+          "text": "사용",
+          "count": 4
+        },
+        {
+          "text": "민관",
+          "count": 4
+        },
+        {
+          "text": "건강",
+          "count": 4
+        },
+        {
+          "text": "국가필수의약품",
+          "count": 4
+        },
+        {
+          "text": "점검결과",
+          "count": 4
+        },
+        {
+          "text": "교육",
+          "count": 4
+        },
+        {
+          "text": "지정",
+          "count": 4
+        },
+        {
+          "text": "기준",
+          "count": 4
+        },
+        {
+          "text": "총력",
+          "count": 4
+        },
+        {
+          "text": "대응",
+          "count": 4
+        },
+        {
+          "text": "근절",
+          "count": 4
+        },
+        {
+          "text": "청소년",
+          "count": 4
+        },
+        {
+          "text": "무역수지",
+          "count": 4
+        },
+        {
+          "text": "흑자",
+          "count": 4
+        },
+        {
+          "text": "달성",
+          "count": 4
+        },
+        {
+          "text": "청년",
+          "count": 4
+        },
+        {
+          "text": "우려",
+          "count": 4
+        },
+        {
+          "text": "수거",
+          "count": 4
+        },
+        {
+          "text": "허가심사",
+          "count": 4
+        },
+        {
+          "text": "독감백신",
+          "count": 2
+        },
+        {
+          "text": "국가출하승인",
+          "count": 2
+        },
+        {
+          "text": "신속출하",
+          "count": 2
+        },
+        {
+          "text": "진단보조",
+          "count": 2
+        },
+        {
+          "text": "중심",
+          "count": 2
+        },
+        {
+          "text": "부작용",
+          "count": 2
+        },
+        {
+          "text": "피해구제",
+          "count": 2
+        },
+        {
+          "text": "의료현장",
+          "count": 2
+        },
+        {
+          "text": "홍보",
+          "count": 2
+        },
+        {
+          "text": "오성규",
+          "count": 2
+        },
+        {
+          "text": "애국지사",
+          "count": 2
+        },
+        {
+          "text": "보훈원",
+          "count": 2
+        },
+        {
+          "text": "국가유공자",
+          "count": 2
+        },
+        {
+          "text": "위문",
+          "count": 2
+        },
+        {
+          "text": "항산화",
+          "count": 2
+        },
+        {
+          "text": "속노화",
+          "count": 2
+        },
+        {
+          "text": "하스카프베리",
+          "count": 2
+        },
+        {
+          "text": "표시기재",
+          "count": 2
+        },
+        {
+          "text": "소통",
+          "count": 2
+        },
+        {
+          "text": "중기부",
+          "count": 2
+        },
+        {
+          "text": "농식품부",
+          "count": 2
+        },
+        {
+          "text": "산업",
+          "count": 2
+        },
+        {
+          "text": "제조혁신",
+          "count": 2
+        },
+        {
+          "text": "진출",
+          "count": 2
+        },
+        {
+          "text": "가짜",
+          "count": 2
+        },
+        {
+          "text": "의사",
+          "count": 2
+        },
+        {
+          "text": "과대광고",
+          "count": 2
+        },
+        {
+          "text": "판매업체",
+          "count": 2
+        },
+        {
+          "text": "검찰",
+          "count": 2
+        },
+        {
+          "text": "송치",
+          "count": 2
+        },
+        {
+          "text": "첨단바이오의약품",
+          "count": 2
+        },
+        {
+          "text": "바이오챌린저",
+          "count": 2
+        },
+        {
+          "text": "관리법",
+          "count": 2
+        },
+        {
+          "text": "시행령",
+          "count": 2
+        },
+        {
+          "text": "개정안",
+          "count": 2
+        },
+        {
+          "text": "입법예고",
+          "count": 2
+        },
+        {
+          "text": "뷰티",
+          "count": 2
+        },
+        {
+          "text": "할랄",
+          "count": 2
+        },
+        {
+          "text": "경쟁력",
+          "count": 2
+        },
+        {
+          "text": "소비자",
+          "count": 2
+        },
+        {
+          "text": "안전교실",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "아세안",
+          "count": 2
+        },
+        {
+          "text": "규제",
+          "count": 2
+        },
+        {
+          "text": "규제혁신",
+          "count": 2
+        },
+        {
+          "text": "다소비",
+          "count": 2
+        },
+        {
+          "text": "집중",
+          "count": 2
+        },
+        {
+          "text": "점검",
+          "count": 2
+        },
+        {
+          "text": "인도네시아",
+          "count": 2
+        },
+        {
+          "text": "할랄인증",
+          "count": 2
+        },
+        {
+          "text": "의무",
+          "count": 2
+        },
+        {
+          "text": "수출기업",
+          "count": 2
+        },
+        {
+          "text": "혈압",
+          "count": 2
+        },
+        {
+          "text": "신장신경",
+          "count": 2
+        },
+        {
+          "text": "차단",
+          "count": 2
+        },
+        {
+          "text": "초음파수술기",
+          "count": 2
+        },
+        {
+          "text": "개발의료기기",
+          "count": 2
+        },
+        {
+          "text": "자외선차단제",
+          "count": 2
+        },
+        {
+          "text": "고압가스",
+          "count": 2
+        },
+        {
+          "text": "신청",
+          "count": 2
+        },
+        {
+          "text": "제출자료",
+          "count": 2
+        },
+        {
+          "text": "간소",
+          "count": 2
+        },
+        {
+          "text": "민관협의체",
+          "count": 2
+        },
+        {
+          "text": "규제과학",
+          "count": 2
+        },
+        {
+          "text": "혁신포럼",
+          "count": 2
+        },
+        {
+          "text": "감기",
+          "count": 2
+        },
+        {
+          "text": "예방",
+          "count": 2
+        },
+        {
+          "text": "면역력",
+          "count": 2
+        },
+        {
+          "text": "알레르기",
+          "count": 2
+        },
+        {
+          "text": "유발물질",
+          "count": 2
+        },
+        {
+          "text": "미표시",
+          "count": 2
+        },
+        {
+          "text": "기타가공품",
+          "count": 2
+        },
+        {
+          "text": "식품영양",
+          "count": 2
+        },
+        {
+          "text": "식생활",
+          "count": 2
+        },
+        {
+          "text": "불순물",
+          "count": 2
+        },
+        {
+          "text": "저감",
+          "count": 2
+        },
+        {
+          "text": "사례집",
+          "count": 2
+        },
+        {
+          "text": "민원서비스",
+          "count": 2
+        },
+        {
+          "text": "산업활성",
+          "count": 2
+        },
+        {
+          "text": "건강기능식품법",
+          "count": 2
+        },
+        {
+          "text": "안내",
+          "count": 2
+        },
+        {
+          "text": "주문제조",
+          "count": 2
+        },
+        {
+          "text": "악성",
+          "count": 2
+        },
+        {
+          "text": "흑색종",
+          "count": 2
         }
       ]
     },
