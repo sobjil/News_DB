@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-12",
+  "updated": "2026-06-13",
   "retentionDays": 7,
-  "count": 135,
+  "count": 136,
   "events": [
     {
       "id": "156765457",
@@ -417,19 +417,6 @@
       "strength": "약",
       "emoji": "📰",
       "flavor": "한·일 폐기물 통계 공동연구 결과가 발표되었지만, 우리 농장 운영에는 직접적인 영향이 없겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156765483",
-      "agency": "기후에너지환경부",
-      "title": "기후위기 시대 글로벌 물안보 협력 주도, 유네스코에서 'K-물관리' 확산 본격화",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765483&call_from=rsslink",
-      "pubDate": "2026-06-06T00:00:00+00:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "세계적인 물관리 협력 소식이 들려오지만, 우리 농장의 물길은 오늘도 평화롭게 흘러가고 있어요.",
       "weight": 1
     },
     {
@@ -1757,6 +1744,32 @@
       "emoji": "📰",
       "flavor": "덴마크 페로제도와의 해양수산 협력 소식이 들려오니, 우리 어장도 세계로 뻗어나갈 준비를 해야겠어요!",
       "weight": 2
+    },
+    {
+      "id": "156766390",
+      "agency": "행정안전부",
+      "title": "올여름 폭염 대비 무더위 쉼터 운영 현장점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766390&call_from=rsslink",
+      "pubDate": "2026-06-13T03:00:00+00:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "도시의 무더위 쉼터 점검 소식이 들려오는 것을 보니, 우리 농장도 올여름 폭염에 미리 대비해야겠어요.",
+      "weight": 1
+    },
+    {
+      "id": "156766380",
+      "agency": "산림청",
+      "title": "양산국유림관리소, 농경지와 산림 동시발생 돌발해충 협업방제 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766380&call_from=rsslink",
+      "pubDate": "2026-06-13T00:16:34+00:00",
+      "scope": "농사",
+      "kind": "재해",
+      "strength": "약",
+      "emoji": "🌀",
+      "flavor": "과수원에 그을음병을 옮기는 미국선녀벌레 소식에 가슴이 철렁했지만, 다행히 정부와 이웃들이 힘을 합쳐 방제에 나선대요!",
+      "weight": 5
     }
   ]
 }
