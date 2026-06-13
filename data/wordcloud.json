@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-14T06:50:40.541387+09:00",
-  "totalArticles": 2467,
+  "generated": "2026-06-14T07:50:41.740959+09:00",
+  "totalArticles": 2466,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2467,
+      "articleCount": 2466,
       "words": [
         {
           "text": "대응",
@@ -25,7 +25,7 @@
         },
         {
           "text": "기술",
-          "count": 323
+          "count": 322
         },
         {
           "text": "방문",
@@ -129,15 +129,15 @@
         },
         {
           "text": "제도",
-          "count": 177
-        },
-        {
-          "text": "한국",
-          "count": 175
+          "count": 176
         },
         {
           "text": "농식품부",
           "count": 174
+        },
+        {
+          "text": "한국",
+          "count": 172
         },
         {
           "text": "산업",
@@ -165,7 +165,7 @@
         },
         {
           "text": "체결",
-          "count": 157
+          "count": 155
         },
         {
           "text": "데이터",
@@ -224,10 +224,6 @@
           "count": 135
         },
         {
-          "text": "공유",
-          "count": 134
-        },
-        {
           "text": "의견",
           "count": 134
         },
@@ -238,6 +234,10 @@
         {
           "text": "대한민국",
           "count": 134
+        },
+        {
+          "text": "공유",
+          "count": 133
         },
         {
           "text": "기준",
@@ -272,12 +272,12 @@
           "count": 125
         },
         {
-          "text": "활성",
+          "text": "규모",
           "count": 124
         },
         {
-          "text": "규모",
-          "count": 124
+          "text": "활성",
+          "count": 123
         },
         {
           "text": "기후에너지환경부",
@@ -412,10 +412,6 @@
           "count": 102
         },
         {
-          "text": "전략",
-          "count": 101
-        },
-        {
           "text": "평가",
           "count": 101
         },
@@ -425,6 +421,10 @@
         },
         {
           "text": "핵심",
+          "count": 100
+        },
+        {
+          "text": "전략",
           "count": 100
         },
         {
@@ -488,10 +488,6 @@
           "count": 92
         },
         {
-          "text": "소방청",
-          "count": 91
-        },
-        {
           "text": "산업통상부",
           "count": 91
         },
@@ -506,6 +502,10 @@
         {
           "text": "과제",
           "count": 89
+        },
+        {
+          "text": "소방청",
+          "count": 88
         },
         {
           "text": "산업부",
@@ -572,15 +572,15 @@
           "count": 85
         },
         {
-          "text": "진출",
-          "count": 84
-        },
-        {
           "text": "신규",
           "count": 84
         },
         {
           "text": "미국",
+          "count": 83
+        },
+        {
+          "text": "진출",
           "count": 83
         },
         {
@@ -700,16 +700,16 @@
           "count": 72
         },
         {
-          "text": "소방",
-          "count": 72
-        },
-        {
           "text": "산사태",
           "count": 72
         },
         {
           "text": "국립산림과학원",
           "count": 72
+        },
+        {
+          "text": "소방",
+          "count": 71
         },
         {
           "text": "국무회의",
@@ -732,10 +732,6 @@
           "count": 70
         },
         {
-          "text": "케이",
-          "count": 70
-        },
-        {
           "text": "공급",
           "count": 70
         },
@@ -746,6 +742,10 @@
         {
           "text": "품질",
           "count": 70
+        },
+        {
+          "text": "케이",
+          "count": 69
         },
         {
           "text": "적용",
@@ -17777,612 +17777,6 @@
         }
       ]
     },
-    "nfa": {
-      "label": "소방청",
-      "articleCount": 33,
-      "words": [
-        {
-          "text": "김승룡",
-          "count": 28
-        },
-        {
-          "text": "소방산업",
-          "count": 17
-        },
-        {
-          "text": "케이",
-          "count": 14
-        },
-        {
-          "text": "플랫폼",
-          "count": 13
-        },
-        {
-          "text": "대구",
-          "count": 13
-        },
-        {
-          "text": "데이터",
-          "count": 12
-        },
-        {
-          "text": "빅데이터",
-          "count": 12
-        },
-        {
-          "text": "재난",
-          "count": 12
-        },
-        {
-          "text": "소방안전",
-          "count": 11
-        },
-        {
-          "text": "대응",
-          "count": 11
-        },
-        {
-          "text": "지능",
-          "count": 11
-        },
-        {
-          "text": "안전",
-          "count": 11
-        },
-        {
-          "text": "체결",
-          "count": 11
-        },
-        {
-          "text": "엑스코",
-          "count": 11
-        },
-        {
-          "text": "논의",
-          "count": 11
-        },
-        {
-          "text": "국제구조대",
-          "count": 10
-        },
-        {
-          "text": "인공",
-          "count": 10
-        },
-        {
-          "text": "국제소방안전박람회",
-          "count": 10
-        },
-        {
-          "text": "베트남",
-          "count": 10
-        },
-        {
-          "text": "기술",
-          "count": 9
-        },
-        {
-          "text": "국립소방연구원",
-          "count": 9
-        },
-        {
-          "text": "재난관리",
-          "count": 9
-        },
-        {
-          "text": "진출",
-          "count": 9
-        },
-        {
-          "text": "생명",
-          "count": 8
-        },
-        {
-          "text": "통신",
-          "count": 8
-        },
-        {
-          "text": "이달",
-          "count": 8
-        },
-        {
-          "text": "공모",
-          "count": 8
-        },
-        {
-          "text": "중심",
-          "count": 8
-        },
-        {
-          "text": "소방청장",
-          "count": 8
-        },
-        {
-          "text": "구조",
-          "count": 8
-        },
-        {
-          "text": "조직문화",
-          "count": 8
-        },
-        {
-          "text": "본격",
-          "count": 7
-        },
-        {
-          "text": "역량",
-          "count": 7
-        },
-        {
-          "text": "활성",
-          "count": 7
-        },
-        {
-          "text": "화재",
-          "count": 7
-        },
-        {
-          "text": "토론회",
-          "count": 7
-        },
-        {
-          "text": "간담회",
-          "count": 7
-        },
-        {
-          "text": "시스템",
-          "count": 7
-        },
-        {
-          "text": "소방공무원",
-          "count": 6
-        },
-        {
-          "text": "서비스",
-          "count": 6
-        },
-        {
-          "text": "규모",
-          "count": 6
-        },
-        {
-          "text": "정보",
-          "count": 6
-        },
-        {
-          "text": "첨단",
-          "count": 6
-        },
-        {
-          "text": "예방",
-          "count": 6
-        },
-        {
-          "text": "공유",
-          "count": 6
-        },
-        {
-          "text": "필리핀",
-          "count": 6
-        },
-        {
-          "text": "한국",
-          "count": 6
-        },
-        {
-          "text": "조사",
-          "count": 6
-        },
-        {
-          "text": "차장",
-          "count": 5
-        },
-        {
-          "text": "최용철",
-          "count": 5
-        },
-        {
-          "text": "제작물",
-          "count": 5
-        },
-        {
-          "text": "콘텐츠",
-          "count": 5
-        },
-        {
-          "text": "대비",
-          "count": 5
-        },
-        {
-          "text": "최대",
-          "count": 5
-        },
-        {
-          "text": "출동",
-          "count": 5
-        },
-        {
-          "text": "우수",
-          "count": 5
-        },
-        {
-          "text": "대한민국",
-          "count": 5
-        },
-        {
-          "text": "세미나",
-          "count": 5
-        },
-        {
-          "text": "미래",
-          "count": 5
-        },
-        {
-          "text": "전문",
-          "count": 5
-        },
-        {
-          "text": "국가기관",
-          "count": 5
-        },
-        {
-          "text": "소방장비",
-          "count": 5
-        },
-        {
-          "text": "진압",
-          "count": 5
-        },
-        {
-          "text": "전환",
-          "count": 5
-        },
-        {
-          "text": "교육",
-          "count": 5
-        },
-        {
-          "text": "산업",
-          "count": 5
-        },
-        {
-          "text": "양해각서",
-          "count": 5
-        },
-        {
-          "text": "안전사고",
-          "count": 5
-        },
-        {
-          "text": "전략",
-          "count": 5
-        },
-        {
-          "text": "향상",
-          "count": 5
-        },
-        {
-          "text": "학술지",
-          "count": 5
-        },
-        {
-          "text": "중앙소방전문치료센터",
-          "count": 4
-        },
-        {
-          "text": "지정",
-          "count": 4
-        },
-        {
-          "text": "도약",
-          "count": 4
-        },
-        {
-          "text": "긴급구조",
-          "count": 4
-        },
-        {
-          "text": "접속",
-          "count": 4
-        },
-        {
-          "text": "상황",
-          "count": 4
-        },
-        {
-          "text": "훈련",
-          "count": 4
-        },
-        {
-          "text": "청년",
-          "count": 4
-        },
-        {
-          "text": "활동",
-          "count": 4
-        },
-        {
-          "text": "소방기술",
-          "count": 4
-        },
-        {
-          "text": "발굴",
-          "count": 4
-        },
-        {
-          "text": "발표회",
-          "count": 4
-        },
-        {
-          "text": "로봇",
-          "count": 4
-        },
-        {
-          "text": "드론",
-          "count": 4
-        },
-        {
-          "text": "소방헬기",
-          "count": 4
-        },
-        {
-          "text": "항공보험",
-          "count": 4
-        },
-        {
-          "text": "설계",
-          "count": 4
-        },
-        {
-          "text": "주도",
-          "count": 4
-        },
-        {
-          "text": "무인소방로봇",
-          "count": 4
-        },
-        {
-          "text": "실증",
-          "count": 4
-        },
-        {
-          "text": "에어",
-          "count": 4
-        },
-        {
-          "text": "앰뷸런스",
-          "count": 4
-        },
-        {
-          "text": "중증외상환자",
-          "count": 4
-        },
-        {
-          "text": "이송",
-          "count": 4
-        },
-        {
-          "text": "재난대응",
-          "count": 4
-        },
-        {
-          "text": "업무",
-          "count": 4
-        },
-        {
-          "text": "급성심장정지",
-          "count": 4
-        },
-        {
-          "text": "소방안전연구",
-          "count": 4
-        },
-        {
-          "text": "공안부",
-          "count": 4
-        },
-        {
-          "text": "소방정감",
-          "count": 3
-        },
-        {
-          "text": "임명",
-          "count": 3
-        },
-        {
-          "text": "국립소방병원",
-          "count": 3
-        },
-        {
-          "text": "상용",
-          "count": 3
-        },
-        {
-          "text": "소방관",
-          "count": 3
-        },
-        {
-          "text": "기대",
-          "count": 3
-        },
-        {
-          "text": "우선",
-          "count": 3
-        },
-        {
-          "text": "가동",
-          "count": 3
-        },
-        {
-          "text": "신고",
-          "count": 3
-        },
-        {
-          "text": "대형",
-          "count": 3
-        },
-        {
-          "text": "인력",
-          "count": 3
-        },
-        {
-          "text": "상반기",
-          "count": 3
-        },
-        {
-          "text": "현안",
-          "count": 3
-        },
-        {
-          "text": "해결",
-          "count": 3
-        },
-        {
-          "text": "생각",
-          "count": 3
-        },
-        {
-          "text": "아이디어",
-          "count": 3
-        },
-        {
-          "text": "영상제작",
-          "count": 3
-        },
-        {
-          "text": "프레임",
-          "count": 3
-        },
-        {
-          "text": "소통",
-          "count": 3
-        },
-        {
-          "text": "디지털",
-          "count": 3
-        },
-        {
-          "text": "소방산업대상",
-          "count": 3
-        },
-        {
-          "text": "박람회",
-          "count": 3
-        },
-        {
-          "text": "한자리",
-          "count": 3
-        },
-        {
-          "text": "순직",
-          "count": 3
-        },
-        {
-          "text": "충혼탑",
-          "count": 3
-        },
-        {
-          "text": "참석",
-          "count": 3
-        },
-        {
-          "text": "서울",
-          "count": 3
-        },
-        {
-          "text": "봉안",
-          "count": 3
-        },
-        {
-          "text": "보호",
-          "count": 3
-        },
-        {
-          "text": "국민주권",
-          "count": 3
-        },
-        {
-          "text": "출범",
-          "count": 3
-        },
-        {
-          "text": "시행",
-          "count": 3
-        },
-        {
-          "text": "엔진",
-          "count": 3
-        },
-        {
-          "text": "농연",
-          "count": 3
-        },
-        {
-          "text": "터널",
-          "count": 3
-        },
-        {
-          "text": "소방장비관리법",
-          "count": 3
-        },
-        {
-          "text": "가속",
-          "count": 3
-        },
-        {
-          "text": "병원",
-          "count": 3
-        },
-        {
-          "text": "과학기술",
-          "count": 3
-        },
-        {
-          "text": "레스큐",
-          "count": 3
-        },
-        {
-          "text": "포럼",
-          "count": 3
-        },
-        {
-          "text": "연구",
-          "count": 3
-        },
-        {
-          "text": "의견",
-          "count": 3
-        },
-        {
-          "text": "김연상",
-          "count": 3
-        },
-        {
-          "text": "양성",
-          "count": 3
-        },
-        {
-          "text": "교육훈련",
-          "count": 3
-        },
-        {
-          "text": "실질",
-          "count": 3
-        },
-        {
-          "text": "교류",
-          "count": 3
-        },
-        {
-          "text": "경험",
-          "count": 3
-        },
-        {
-          "text": "우즈베키스탄",
-          "count": 3
-        }
-      ]
-    },
     "kdca": {
       "label": "질병관리청",
       "articleCount": 33,
@@ -18985,6 +18379,612 @@
         },
         {
           "text": "중독",
+          "count": 3
+        }
+      ]
+    },
+    "nfa": {
+      "label": "소방청",
+      "articleCount": 32,
+      "words": [
+        {
+          "text": "김승룡",
+          "count": 27
+        },
+        {
+          "text": "소방산업",
+          "count": 16
+        },
+        {
+          "text": "플랫폼",
+          "count": 13
+        },
+        {
+          "text": "케이",
+          "count": 13
+        },
+        {
+          "text": "대구",
+          "count": 13
+        },
+        {
+          "text": "데이터",
+          "count": 12
+        },
+        {
+          "text": "빅데이터",
+          "count": 12
+        },
+        {
+          "text": "재난",
+          "count": 12
+        },
+        {
+          "text": "소방안전",
+          "count": 11
+        },
+        {
+          "text": "대응",
+          "count": 11
+        },
+        {
+          "text": "지능",
+          "count": 11
+        },
+        {
+          "text": "안전",
+          "count": 11
+        },
+        {
+          "text": "엑스코",
+          "count": 11
+        },
+        {
+          "text": "논의",
+          "count": 11
+        },
+        {
+          "text": "국제구조대",
+          "count": 10
+        },
+        {
+          "text": "인공",
+          "count": 10
+        },
+        {
+          "text": "국제소방안전박람회",
+          "count": 10
+        },
+        {
+          "text": "베트남",
+          "count": 10
+        },
+        {
+          "text": "체결",
+          "count": 9
+        },
+        {
+          "text": "국립소방연구원",
+          "count": 9
+        },
+        {
+          "text": "생명",
+          "count": 8
+        },
+        {
+          "text": "통신",
+          "count": 8
+        },
+        {
+          "text": "이달",
+          "count": 8
+        },
+        {
+          "text": "공모",
+          "count": 8
+        },
+        {
+          "text": "기술",
+          "count": 8
+        },
+        {
+          "text": "중심",
+          "count": 8
+        },
+        {
+          "text": "소방청장",
+          "count": 8
+        },
+        {
+          "text": "구조",
+          "count": 8
+        },
+        {
+          "text": "조직문화",
+          "count": 8
+        },
+        {
+          "text": "진출",
+          "count": 8
+        },
+        {
+          "text": "본격",
+          "count": 7
+        },
+        {
+          "text": "역량",
+          "count": 7
+        },
+        {
+          "text": "화재",
+          "count": 7
+        },
+        {
+          "text": "토론회",
+          "count": 7
+        },
+        {
+          "text": "간담회",
+          "count": 7
+        },
+        {
+          "text": "소방공무원",
+          "count": 6
+        },
+        {
+          "text": "서비스",
+          "count": 6
+        },
+        {
+          "text": "규모",
+          "count": 6
+        },
+        {
+          "text": "정보",
+          "count": 6
+        },
+        {
+          "text": "활성",
+          "count": 6
+        },
+        {
+          "text": "첨단",
+          "count": 6
+        },
+        {
+          "text": "예방",
+          "count": 6
+        },
+        {
+          "text": "필리핀",
+          "count": 6
+        },
+        {
+          "text": "재난관리",
+          "count": 6
+        },
+        {
+          "text": "조사",
+          "count": 6
+        },
+        {
+          "text": "차장",
+          "count": 5
+        },
+        {
+          "text": "최용철",
+          "count": 5
+        },
+        {
+          "text": "제작물",
+          "count": 5
+        },
+        {
+          "text": "콘텐츠",
+          "count": 5
+        },
+        {
+          "text": "대비",
+          "count": 5
+        },
+        {
+          "text": "최대",
+          "count": 5
+        },
+        {
+          "text": "출동",
+          "count": 5
+        },
+        {
+          "text": "우수",
+          "count": 5
+        },
+        {
+          "text": "대한민국",
+          "count": 5
+        },
+        {
+          "text": "세미나",
+          "count": 5
+        },
+        {
+          "text": "미래",
+          "count": 5
+        },
+        {
+          "text": "전문",
+          "count": 5
+        },
+        {
+          "text": "국가기관",
+          "count": 5
+        },
+        {
+          "text": "소방장비",
+          "count": 5
+        },
+        {
+          "text": "진압",
+          "count": 5
+        },
+        {
+          "text": "전환",
+          "count": 5
+        },
+        {
+          "text": "공유",
+          "count": 5
+        },
+        {
+          "text": "교육",
+          "count": 5
+        },
+        {
+          "text": "산업",
+          "count": 5
+        },
+        {
+          "text": "양해각서",
+          "count": 5
+        },
+        {
+          "text": "안전사고",
+          "count": 5
+        },
+        {
+          "text": "향상",
+          "count": 5
+        },
+        {
+          "text": "학술지",
+          "count": 5
+        },
+        {
+          "text": "중앙소방전문치료센터",
+          "count": 4
+        },
+        {
+          "text": "지정",
+          "count": 4
+        },
+        {
+          "text": "도약",
+          "count": 4
+        },
+        {
+          "text": "긴급구조",
+          "count": 4
+        },
+        {
+          "text": "접속",
+          "count": 4
+        },
+        {
+          "text": "상황",
+          "count": 4
+        },
+        {
+          "text": "훈련",
+          "count": 4
+        },
+        {
+          "text": "청년",
+          "count": 4
+        },
+        {
+          "text": "활동",
+          "count": 4
+        },
+        {
+          "text": "소방기술",
+          "count": 4
+        },
+        {
+          "text": "발굴",
+          "count": 4
+        },
+        {
+          "text": "발표회",
+          "count": 4
+        },
+        {
+          "text": "로봇",
+          "count": 4
+        },
+        {
+          "text": "드론",
+          "count": 4
+        },
+        {
+          "text": "소방헬기",
+          "count": 4
+        },
+        {
+          "text": "항공보험",
+          "count": 4
+        },
+        {
+          "text": "설계",
+          "count": 4
+        },
+        {
+          "text": "주도",
+          "count": 4
+        },
+        {
+          "text": "무인소방로봇",
+          "count": 4
+        },
+        {
+          "text": "실증",
+          "count": 4
+        },
+        {
+          "text": "에어",
+          "count": 4
+        },
+        {
+          "text": "앰뷸런스",
+          "count": 4
+        },
+        {
+          "text": "중증외상환자",
+          "count": 4
+        },
+        {
+          "text": "이송",
+          "count": 4
+        },
+        {
+          "text": "전략",
+          "count": 4
+        },
+        {
+          "text": "시스템",
+          "count": 4
+        },
+        {
+          "text": "업무",
+          "count": 4
+        },
+        {
+          "text": "급성심장정지",
+          "count": 4
+        },
+        {
+          "text": "소방안전연구",
+          "count": 4
+        },
+        {
+          "text": "공안부",
+          "count": 4
+        },
+        {
+          "text": "소방정감",
+          "count": 3
+        },
+        {
+          "text": "임명",
+          "count": 3
+        },
+        {
+          "text": "국립소방병원",
+          "count": 3
+        },
+        {
+          "text": "상용",
+          "count": 3
+        },
+        {
+          "text": "소방관",
+          "count": 3
+        },
+        {
+          "text": "기대",
+          "count": 3
+        },
+        {
+          "text": "우선",
+          "count": 3
+        },
+        {
+          "text": "가동",
+          "count": 3
+        },
+        {
+          "text": "신고",
+          "count": 3
+        },
+        {
+          "text": "대형",
+          "count": 3
+        },
+        {
+          "text": "인력",
+          "count": 3
+        },
+        {
+          "text": "상반기",
+          "count": 3
+        },
+        {
+          "text": "현안",
+          "count": 3
+        },
+        {
+          "text": "해결",
+          "count": 3
+        },
+        {
+          "text": "생각",
+          "count": 3
+        },
+        {
+          "text": "아이디어",
+          "count": 3
+        },
+        {
+          "text": "영상제작",
+          "count": 3
+        },
+        {
+          "text": "프레임",
+          "count": 3
+        },
+        {
+          "text": "소통",
+          "count": 3
+        },
+        {
+          "text": "디지털",
+          "count": 3
+        },
+        {
+          "text": "소방산업대상",
+          "count": 3
+        },
+        {
+          "text": "박람회",
+          "count": 3
+        },
+        {
+          "text": "한자리",
+          "count": 3
+        },
+        {
+          "text": "순직",
+          "count": 3
+        },
+        {
+          "text": "충혼탑",
+          "count": 3
+        },
+        {
+          "text": "참석",
+          "count": 3
+        },
+        {
+          "text": "서울",
+          "count": 3
+        },
+        {
+          "text": "봉안",
+          "count": 3
+        },
+        {
+          "text": "보호",
+          "count": 3
+        },
+        {
+          "text": "국민주권",
+          "count": 3
+        },
+        {
+          "text": "출범",
+          "count": 3
+        },
+        {
+          "text": "시행",
+          "count": 3
+        },
+        {
+          "text": "엔진",
+          "count": 3
+        },
+        {
+          "text": "농연",
+          "count": 3
+        },
+        {
+          "text": "터널",
+          "count": 3
+        },
+        {
+          "text": "소방장비관리법",
+          "count": 3
+        },
+        {
+          "text": "가속",
+          "count": 3
+        },
+        {
+          "text": "병원",
+          "count": 3
+        },
+        {
+          "text": "과학기술",
+          "count": 3
+        },
+        {
+          "text": "레스큐",
+          "count": 3
+        },
+        {
+          "text": "포럼",
+          "count": 3
+        },
+        {
+          "text": "연구",
+          "count": 3
+        },
+        {
+          "text": "의견",
+          "count": 3
+        },
+        {
+          "text": "김연상",
+          "count": 3
+        },
+        {
+          "text": "양성",
+          "count": 3
+        },
+        {
+          "text": "재난대응",
+          "count": 3
+        },
+        {
+          "text": "교육훈련",
+          "count": 3
+        },
+        {
+          "text": "실질",
+          "count": 3
+        },
+        {
+          "text": "한국",
+          "count": 3
+        },
+        {
+          "text": "우즈베키스탄",
+          "count": 3
+        },
+        {
+          "text": "대표자",
+          "count": 3
+        },
+        {
+          "text": "수출",
           "count": 3
         }
       ]
