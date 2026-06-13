@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T03:31:44.582364+00:00",
+  "updated": "2026-06-13T03:45:38.251830+00:00",
   "count": 2531,
   "retentionDays": 30,
   "agencies": [
@@ -55,6 +55,26 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "올여름 폭염 대비 무더위 쉼터 운영 현장점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766390&call_from=rsslink",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-06-13T03:00:00+00:00",
+      "description": "- 김광용 재난안전관리본부장, 대전지역 스마트쉼터·이동노동자 쉼터 현장점검 행정안전부(장관 윤호중) 김광용 재난안전관리본부장은 6월 13일(토) 대전광역시를 방문해 무더위 쉼터의 운영관리 실태를 점검하고 폭염 취약계층 보호대책을 살폈다. 이번 점검은 올해 때 이른 무더위가 시작되고 평년보다 높은 기온이 전망됨에 따라, 무더위 쉼터가 현장에서 얼마나 실효성 있게 운영되고 있는지 확인하고 폭염 피해 예방대책을 점검하기 위해 마련됐다. 먼저, 김광용 본부장은 주민들이 자주 이용하는 공원 내 스마트 쉼터를 방문해 운영상황을 점검했다. 해당",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198488640&tblKey=GMN",
+          "filename": "260613 (12시) 올여름 폭염 대비 무더위 쉼터 운영 현장점검(기후재난관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198488641&tblKey=GMN",
+          "filename": "260613 (12시) 올여름 폭염 대비 무더위 쉼터 운영 현장점검(기후재난관리과).pdf"
+        }
+      ]
+    },
     {
       "title": "양산국유림관리소, 농경지와 산림 동시발생 돌발해충 협업방제 실시",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766380&call_from=rsslink",
@@ -51329,31 +51349,6 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198461203&tblKey=GMN",
           "filename": "(보도자료) 박홍근 장관-신현송 한은 총재 회동_F.hwp"
-        }
-      ]
-    },
-    {
-      "title": "연말정산 공제 실수, 종합소득세 신고로 해결하세요",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761544&call_from=rsslink",
-      "agency": "국세청",
-      "agencyCode": "nts",
-      "pubDate": "2026-05-14T03:39:00+00:00",
-      "description": "연말정산 공제 실수, 종합소득세 신고로 해결하세요 관련 보도자료 내용입니다. [자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198461162&tblKey=GMN",
-          "filename": "260514 연말정산 공제실수, 종합소득세 신고로 해결하세요.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198461164&tblKey=GMN",
-          "filename": "260514 연말정산 공제실수, 종합소득세 신고로 해결하세요.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198461163&tblKey=GMN",
-          "filename": "260514 연말정산 공제실수, 종합소득세 신고로 해결하세요.hwp"
         }
       ]
     }
