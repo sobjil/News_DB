@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T12:32:51.037606+09:00",
+  "generated": "2026-06-13T12:46:31.450475+09:00",
   "totalArticles": 2531,
   "retentionDays": 30,
   "agencies": {
@@ -13,7 +13,7 @@
         },
         {
           "text": "점검",
-          "count": 474
+          "count": 478
         },
         {
           "text": "논의",
@@ -29,7 +29,7 @@
         },
         {
           "text": "방문",
-          "count": 330
+          "count": 332
         },
         {
           "text": "안전",
@@ -69,7 +69,7 @@
         },
         {
           "text": "대비",
-          "count": 231
+          "count": 232
         },
         {
           "text": "선정",
@@ -157,7 +157,7 @@
         },
         {
           "text": "행정안전부",
-          "count": 164
+          "count": 165
         },
         {
           "text": "외교부",
@@ -264,12 +264,12 @@
           "count": 131
         },
         {
-          "text": "개인정보",
+          "text": "시작",
           "count": 130
         },
         {
-          "text": "시작",
-          "count": 129
+          "text": "개인정보",
+          "count": 130
         },
         {
           "text": "활성",
@@ -300,11 +300,11 @@
           "count": 122
         },
         {
-          "text": "해양수산부",
-          "count": 120
+          "text": "피해",
+          "count": 121
         },
         {
-          "text": "피해",
+          "text": "해양수산부",
           "count": 120
         },
         {
@@ -337,7 +337,7 @@
         },
         {
           "text": "윤호중",
-          "count": 115
+          "count": 116
         },
         {
           "text": "필요",
@@ -500,6 +500,10 @@
           "count": 94
         },
         {
+          "text": "폭염",
+          "count": 93
+        },
+        {
           "text": "산업통상부",
           "count": 93
         },
@@ -532,14 +536,6 @@
           "count": 90
         },
         {
-          "text": "신고",
-          "count": 90
-        },
-        {
-          "text": "폭염",
-          "count": 90
-        },
-        {
           "text": "감소",
           "count": 89
         },
@@ -557,6 +553,10 @@
         },
         {
           "text": "진출",
+          "count": 88
+        },
+        {
+          "text": "신고",
           "count": 88
         },
         {
@@ -732,6 +732,10 @@
           "count": 72
         },
         {
+          "text": "주민",
+          "count": 71
+        },
+        {
           "text": "국무회의",
           "count": 71
         },
@@ -740,15 +744,7 @@
           "count": 71
         },
         {
-          "text": "해결",
-          "count": 71
-        },
-        {
           "text": "이행",
-          "count": 70
-        },
-        {
-          "text": "주민",
           "count": 70
         },
         {
@@ -781,6 +777,10 @@
         },
         {
           "text": "재난",
+          "count": 69
+        },
+        {
+          "text": "해결",
           "count": 69
         },
         {
@@ -2629,15 +2629,15 @@
     },
     "mois": {
       "label": "행정안전부",
-      "articleCount": 118,
+      "articleCount": 119,
       "words": [
         {
           "text": "윤호중",
-          "count": 108
+          "count": 109
         },
         {
           "text": "점검",
-          "count": 55
+          "count": 59
         },
         {
           "text": "신청",
@@ -2649,11 +2649,11 @@
         },
         {
           "text": "대비",
-          "count": 38
+          "count": 39
         },
         {
           "text": "방문",
-          "count": 36
+          "count": 38
         },
         {
           "text": "기준",
@@ -2692,6 +2692,10 @@
           "count": 23
         },
         {
+          "text": "주민",
+          "count": 22
+        },
+        {
           "text": "안전관리",
           "count": 21
         },
@@ -2701,10 +2705,6 @@
         },
         {
           "text": "재난",
-          "count": 21
-        },
-        {
-          "text": "주민",
           "count": 21
         },
         {
@@ -2718,6 +2718,10 @@
         {
           "text": "김민재",
           "count": 19
+        },
+        {
+          "text": "시작",
+          "count": 18
         },
         {
           "text": "서울",
@@ -2736,12 +2740,12 @@
           "count": 18
         },
         {
-          "text": "시작",
+          "text": "피해지원금",
           "count": 17
         },
         {
-          "text": "피해지원금",
-          "count": 17
+          "text": "폭염",
+          "count": 16
         },
         {
           "text": "서비스",
@@ -2808,10 +2812,6 @@
           "count": 13
         },
         {
-          "text": "폭염",
-          "count": 13
-        },
-        {
           "text": "선거",
           "count": 13
         },
@@ -2826,6 +2826,18 @@
         {
           "text": "사고",
           "count": 12
+        },
+        {
+          "text": "현장점검",
+          "count": 11
+        },
+        {
+          "text": "김광",
+          "count": 11
+        },
+        {
+          "text": "재난안전관리본부장",
+          "count": 11
         },
         {
           "text": "사회연대경제",
@@ -2900,14 +2912,6 @@
           "count": 9
         },
         {
-          "text": "김광",
-          "count": 9
-        },
-        {
-          "text": "재난안전관리본부장",
-          "count": 9
-        },
-        {
           "text": "참석",
           "count": 9
         },
@@ -2960,12 +2964,12 @@
           "count": 9
         },
         {
-          "text": "현장점검",
+          "text": "현수막",
           "count": 9
         },
         {
-          "text": "현수막",
-          "count": 9
+          "text": "무더위",
+          "count": 8
         },
         {
           "text": "경찰",
@@ -3018,6 +3022,14 @@
         {
           "text": "빗물받이",
           "count": 8
+        },
+        {
+          "text": "취약계층",
+          "count": 7
+        },
+        {
+          "text": "피해",
+          "count": 7
         },
         {
           "text": "점검회의",
@@ -3106,6 +3118,18 @@
         {
           "text": "이용통계",
           "count": 7
+        },
+        {
+          "text": "여름",
+          "count": 6
+        },
+        {
+          "text": "쉼터",
+          "count": 6
+        },
+        {
+          "text": "실태",
+          "count": 6
         },
         {
           "text": "인파",
@@ -3205,30 +3229,6 @@
         },
         {
           "text": "주도",
-          "count": 6
-        },
-        {
-          "text": "마을",
-          "count": 6
-        },
-        {
-          "text": "회복",
-          "count": 6
-        },
-        {
-          "text": "감소",
-          "count": 6
-        },
-        {
-          "text": "에너지",
-          "count": 6
-        },
-        {
-          "text": "의결",
-          "count": 6
-        },
-        {
-          "text": "구현",
           "count": 6
         }
       ]
@@ -22501,444 +22501,6 @@
         }
       ]
     },
-    "nts": {
-      "label": "국세청",
-      "articleCount": 20,
-      "words": [
-        {
-          "text": "신고",
-          "count": 8
-        },
-        {
-          "text": "체납관리단",
-          "count": 6
-        },
-        {
-          "text": "국세행정",
-          "count": 4
-        },
-        {
-          "text": "증여세",
-          "count": 4
-        },
-        {
-          "text": "라이베리아",
-          "count": 4
-        },
-        {
-          "text": "정보교환",
-          "count": 4
-        },
-        {
-          "text": "준비상황",
-          "count": 4
-        },
-        {
-          "text": "점검",
-          "count": 4
-        },
-        {
-          "text": "발급",
-          "count": 4
-        },
-        {
-          "text": "공익법인",
-          "count": 4
-        },
-        {
-          "text": "채용",
-          "count": 4
-        },
-        {
-          "text": "국민주권정부",
-          "count": 2
-        },
-        {
-          "text": "기대",
-          "count": 2
-        },
-        {
-          "text": "창출",
-          "count": 2
-        },
-        {
-          "text": "일감몰아주기",
-          "count": 2
-        },
-        {
-          "text": "일감",
-          "count": 2
-        },
-        {
-          "text": "징수공조",
-          "count": 2
-        },
-        {
-          "text": "체결",
-          "count": 2
-        },
-        {
-          "text": "재산",
-          "count": 2
-        },
-        {
-          "text": "고액체납자",
-          "count": 2
-        },
-        {
-          "text": "요청",
-          "count": 2
-        },
-        {
-          "text": "국세청장",
-          "count": 2
-        },
-        {
-          "text": "중부청",
-          "count": 2
-        },
-        {
-          "text": "격려",
-          "count": 2
-        },
-        {
-          "text": "세무서",
-          "count": 2
-        },
-        {
-          "text": "해외자산",
-          "count": 2
-        },
-        {
-          "text": "작년",
-          "count": 2
-        },
-        {
-          "text": "보유",
-          "count": 2
-        },
-        {
-          "text": "해외금융계좌",
-          "count": 2
-        },
-        {
-          "text": "해외신탁",
-          "count": 2
-        },
-        {
-          "text": "유료",
-          "count": 2
-        },
-        {
-          "text": "인증서",
-          "count": 2
-        },
-        {
-          "text": "세금",
-          "count": 2
-        },
-        {
-          "text": "계산서",
-          "count": 2
-        },
-        {
-          "text": "서울대학교",
-          "count": 2
-        },
-        {
-          "text": "유튜브",
-          "count": 2
-        },
-        {
-          "text": "절세",
-          "count": 2
-        },
-        {
-          "text": "꿀팁",
-          "count": 2
-        },
-        {
-          "text": "상속",
-          "count": 2
-        },
-        {
-          "text": "오해",
-          "count": 2
-        },
-        {
-          "text": "진실",
-          "count": 2
-        },
-        {
-          "text": "배포",
-          "count": 2
-        },
-        {
-          "text": "슈퍼카",
-          "count": 2
-        },
-        {
-          "text": "탈세",
-          "count": 2
-        },
-        {
-          "text": "근절",
-          "count": 2
-        },
-        {
-          "text": "법인소유",
-          "count": 2
-        },
-        {
-          "text": "차량",
-          "count": 2
-        },
-        {
-          "text": "사용",
-          "count": 2
-        },
-        {
-          "text": "혐의",
-          "count": 2
-        },
-        {
-          "text": "세무조사",
-          "count": 2
-        },
-        {
-          "text": "세무관서장",
-          "count": 2
-        },
-        {
-          "text": "한자리",
-          "count": 2
-        },
-        {
-          "text": "본격",
-          "count": 2
-        },
-        {
-          "text": "가동",
-          "count": 2
-        },
-        {
-          "text": "우리",
-          "count": 2
-        },
-        {
-          "text": "아시아",
-          "count": 2
-        },
-        {
-          "text": "최대",
-          "count": 2
-        },
-        {
-          "text": "무대",
-          "count": 2
-        },
-        {
-          "text": "깃발",
-          "count": 2
-        },
-        {
-          "text": "영수증",
-          "count": 2
-        },
-        {
-          "text": "현금영수증",
-          "count": 2
-        },
-        {
-          "text": "숏폼",
-          "count": 2
-        },
-        {
-          "text": "공모전",
-          "count": 2
-        },
-        {
-          "text": "실태",
-          "count": 2
-        },
-        {
-          "text": "분석",
-          "count": 2
-        },
-        {
-          "text": "연차보고서",
-          "count": 2
-        },
-        {
-          "text": "최초",
-          "count": 2
-        },
-        {
-          "text": "발간",
-          "count": 2
-        },
-        {
-          "text": "국민성장펀드",
-          "count": 2
-        },
-        {
-          "text": "가입",
-          "count": 2
-        },
-        {
-          "text": "필수",
-          "count": 2
-        },
-        {
-          "text": "서류",
-          "count": 2
-        },
-        {
-          "text": "대출규제",
-          "count": 2
-        },
-        {
-          "text": "현금부자",
-          "count": 2
-        },
-        {
-          "text": "시세차익",
-          "count": 2
-        },
-        {
-          "text": "다주택자",
-          "count": 2
-        },
-        {
-          "text": "부동산",
-          "count": 2
-        },
-        {
-          "text": "탈세혐의자",
-          "count": 2
-        },
-        {
-          "text": "자금형성과정",
-          "count": 2
-        },
-        {
-          "text": "검증",
-          "count": 2
-        },
-        {
-          "text": "해외진출",
-          "count": 2
-        },
-        {
-          "text": "중소기업",
-          "count": 2
-        },
-        {
-          "text": "세무지원",
-          "count": 2
-        },
-        {
-          "text": "지방국세청",
-          "count": 2
-        },
-        {
-          "text": "산업단지",
-          "count": 2
-        },
-        {
-          "text": "동시",
-          "count": 2
-        },
-        {
-          "text": "세무강연회",
-          "count": 2
-        },
-        {
-          "text": "야구장",
-          "count": 2
-        },
-        {
-          "text": "응원",
-          "count": 2
-        },
-        {
-          "text": "식물원",
-          "count": 2
-        },
-        {
-          "text": "미술관",
-          "count": 2
-        },
-        {
-          "text": "나들이",
-          "count": 2
-        },
-        {
-          "text": "세금포인트",
-          "count": 2
-        },
-        {
-          "text": "힐링포인트",
-          "count": 2
-        },
-        {
-          "text": "강원",
-          "count": 2
-        },
-        {
-          "text": "제주",
-          "count": 2
-        },
-        {
-          "text": "전국단위",
-          "count": 2
-        },
-        {
-          "text": "근로자",
-          "count": 2
-        },
-        {
-          "text": "체납",
-          "count": 2
-        },
-        {
-          "text": "실태확인",
-          "count": 2
-        },
-        {
-          "text": "외국상공회의소",
-          "count": 2
-        },
-        {
-          "text": "합동",
-          "count": 2
-        },
-        {
-          "text": "간담회",
-          "count": 2
-        },
-        {
-          "text": "연말정산",
-          "count": 2
-        },
-        {
-          "text": "공제",
-          "count": 2
-        },
-        {
-          "text": "실수",
-          "count": 2
-        },
-        {
-          "text": "종합소득세",
-          "count": 2
-        },
-        {
-          "text": "해결",
-          "count": 2
-        }
-      ]
-    },
     "sda": {
       "label": "새만금개발청",
       "articleCount": 19,
@@ -23541,6 +23103,424 @@
         },
         {
           "text": "해양산업",
+          "count": 2
+        }
+      ]
+    },
+    "nts": {
+      "label": "국세청",
+      "articleCount": 19,
+      "words": [
+        {
+          "text": "신고",
+          "count": 6
+        },
+        {
+          "text": "체납관리단",
+          "count": 6
+        },
+        {
+          "text": "국세행정",
+          "count": 4
+        },
+        {
+          "text": "증여세",
+          "count": 4
+        },
+        {
+          "text": "라이베리아",
+          "count": 4
+        },
+        {
+          "text": "정보교환",
+          "count": 4
+        },
+        {
+          "text": "준비상황",
+          "count": 4
+        },
+        {
+          "text": "점검",
+          "count": 4
+        },
+        {
+          "text": "발급",
+          "count": 4
+        },
+        {
+          "text": "공익법인",
+          "count": 4
+        },
+        {
+          "text": "채용",
+          "count": 4
+        },
+        {
+          "text": "국민주권정부",
+          "count": 2
+        },
+        {
+          "text": "기대",
+          "count": 2
+        },
+        {
+          "text": "창출",
+          "count": 2
+        },
+        {
+          "text": "일감몰아주기",
+          "count": 2
+        },
+        {
+          "text": "일감",
+          "count": 2
+        },
+        {
+          "text": "징수공조",
+          "count": 2
+        },
+        {
+          "text": "체결",
+          "count": 2
+        },
+        {
+          "text": "재산",
+          "count": 2
+        },
+        {
+          "text": "고액체납자",
+          "count": 2
+        },
+        {
+          "text": "요청",
+          "count": 2
+        },
+        {
+          "text": "국세청장",
+          "count": 2
+        },
+        {
+          "text": "중부청",
+          "count": 2
+        },
+        {
+          "text": "격려",
+          "count": 2
+        },
+        {
+          "text": "세무서",
+          "count": 2
+        },
+        {
+          "text": "해외자산",
+          "count": 2
+        },
+        {
+          "text": "작년",
+          "count": 2
+        },
+        {
+          "text": "보유",
+          "count": 2
+        },
+        {
+          "text": "해외금융계좌",
+          "count": 2
+        },
+        {
+          "text": "해외신탁",
+          "count": 2
+        },
+        {
+          "text": "유료",
+          "count": 2
+        },
+        {
+          "text": "인증서",
+          "count": 2
+        },
+        {
+          "text": "세금",
+          "count": 2
+        },
+        {
+          "text": "계산서",
+          "count": 2
+        },
+        {
+          "text": "서울대학교",
+          "count": 2
+        },
+        {
+          "text": "유튜브",
+          "count": 2
+        },
+        {
+          "text": "절세",
+          "count": 2
+        },
+        {
+          "text": "꿀팁",
+          "count": 2
+        },
+        {
+          "text": "상속",
+          "count": 2
+        },
+        {
+          "text": "오해",
+          "count": 2
+        },
+        {
+          "text": "진실",
+          "count": 2
+        },
+        {
+          "text": "배포",
+          "count": 2
+        },
+        {
+          "text": "슈퍼카",
+          "count": 2
+        },
+        {
+          "text": "탈세",
+          "count": 2
+        },
+        {
+          "text": "근절",
+          "count": 2
+        },
+        {
+          "text": "법인소유",
+          "count": 2
+        },
+        {
+          "text": "차량",
+          "count": 2
+        },
+        {
+          "text": "사용",
+          "count": 2
+        },
+        {
+          "text": "혐의",
+          "count": 2
+        },
+        {
+          "text": "세무조사",
+          "count": 2
+        },
+        {
+          "text": "세무관서장",
+          "count": 2
+        },
+        {
+          "text": "한자리",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "가동",
+          "count": 2
+        },
+        {
+          "text": "우리",
+          "count": 2
+        },
+        {
+          "text": "아시아",
+          "count": 2
+        },
+        {
+          "text": "최대",
+          "count": 2
+        },
+        {
+          "text": "무대",
+          "count": 2
+        },
+        {
+          "text": "깃발",
+          "count": 2
+        },
+        {
+          "text": "영수증",
+          "count": 2
+        },
+        {
+          "text": "현금영수증",
+          "count": 2
+        },
+        {
+          "text": "숏폼",
+          "count": 2
+        },
+        {
+          "text": "공모전",
+          "count": 2
+        },
+        {
+          "text": "실태",
+          "count": 2
+        },
+        {
+          "text": "분석",
+          "count": 2
+        },
+        {
+          "text": "연차보고서",
+          "count": 2
+        },
+        {
+          "text": "최초",
+          "count": 2
+        },
+        {
+          "text": "발간",
+          "count": 2
+        },
+        {
+          "text": "국민성장펀드",
+          "count": 2
+        },
+        {
+          "text": "가입",
+          "count": 2
+        },
+        {
+          "text": "필수",
+          "count": 2
+        },
+        {
+          "text": "서류",
+          "count": 2
+        },
+        {
+          "text": "대출규제",
+          "count": 2
+        },
+        {
+          "text": "현금부자",
+          "count": 2
+        },
+        {
+          "text": "시세차익",
+          "count": 2
+        },
+        {
+          "text": "다주택자",
+          "count": 2
+        },
+        {
+          "text": "부동산",
+          "count": 2
+        },
+        {
+          "text": "탈세혐의자",
+          "count": 2
+        },
+        {
+          "text": "자금형성과정",
+          "count": 2
+        },
+        {
+          "text": "검증",
+          "count": 2
+        },
+        {
+          "text": "해외진출",
+          "count": 2
+        },
+        {
+          "text": "중소기업",
+          "count": 2
+        },
+        {
+          "text": "세무지원",
+          "count": 2
+        },
+        {
+          "text": "지방국세청",
+          "count": 2
+        },
+        {
+          "text": "산업단지",
+          "count": 2
+        },
+        {
+          "text": "동시",
+          "count": 2
+        },
+        {
+          "text": "세무강연회",
+          "count": 2
+        },
+        {
+          "text": "야구장",
+          "count": 2
+        },
+        {
+          "text": "응원",
+          "count": 2
+        },
+        {
+          "text": "식물원",
+          "count": 2
+        },
+        {
+          "text": "미술관",
+          "count": 2
+        },
+        {
+          "text": "나들이",
+          "count": 2
+        },
+        {
+          "text": "세금포인트",
+          "count": 2
+        },
+        {
+          "text": "힐링포인트",
+          "count": 2
+        },
+        {
+          "text": "강원",
+          "count": 2
+        },
+        {
+          "text": "제주",
+          "count": 2
+        },
+        {
+          "text": "전국단위",
+          "count": 2
+        },
+        {
+          "text": "근로자",
+          "count": 2
+        },
+        {
+          "text": "체납",
+          "count": 2
+        },
+        {
+          "text": "실태확인",
+          "count": 2
+        },
+        {
+          "text": "외국상공회의소",
+          "count": 2
+        },
+        {
+          "text": "합동",
+          "count": 2
+        },
+        {
+          "text": "간담회",
           "count": 2
         }
       ]
