@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-14T05:50:42.342351+09:00",
-  "totalArticles": 2469,
+  "generated": "2026-06-14T06:50:40.541387+09:00",
+  "totalArticles": 2467,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2469,
+      "articleCount": 2467,
       "words": [
         {
           "text": "대응",
@@ -76,12 +76,12 @@
           "count": 212
         },
         {
-          "text": "예방",
-          "count": 207
-        },
-        {
           "text": "중심",
           "count": 206
+        },
+        {
+          "text": "예방",
+          "count": 205
         },
         {
           "text": "증가",
@@ -108,12 +108,12 @@
           "count": 188
         },
         {
-          "text": "시행",
-          "count": 186
-        },
-        {
           "text": "청년",
           "count": 185
+        },
+        {
+          "text": "시행",
+          "count": 184
         },
         {
           "text": "교육",
@@ -344,16 +344,16 @@
           "count": 111
         },
         {
-          "text": "조사",
-          "count": 111
-        },
-        {
           "text": "필요",
           "count": 111
         },
         {
           "text": "지급",
           "count": 111
+        },
+        {
+          "text": "조사",
+          "count": 110
         },
         {
           "text": "맞춤",
@@ -5659,7 +5659,7 @@
     },
     "molit": {
       "label": "국토교통부",
-      "articleCount": 95,
+      "articleCount": 94,
       "words": [
         {
           "text": "차관동정",
@@ -5698,15 +5698,11 @@
           "count": 10
         },
         {
-          "text": "전세사기",
-          "count": 10
-        },
-        {
-          "text": "시행",
-          "count": 10
-        },
-        {
           "text": "점검",
+          "count": 8
+        },
+        {
+          "text": "전세사기",
           "count": 8
         },
         {
@@ -5723,6 +5719,10 @@
         },
         {
           "text": "착수",
+          "count": 8
+        },
+        {
+          "text": "시행",
           "count": 8
         },
         {
@@ -5747,10 +5747,6 @@
         },
         {
           "text": "우선",
-          "count": 6
-        },
-        {
-          "text": "예방",
           "count": 6
         },
         {
@@ -5831,6 +5827,10 @@
         },
         {
           "text": "민자철도",
+          "count": 4
+        },
+        {
+          "text": "예방",
           "count": 4
         },
         {
@@ -5955,10 +5955,6 @@
         },
         {
           "text": "현장점검",
-          "count": 4
-        },
-        {
-          "text": "컨설팅",
           "count": 4
         },
         {
@@ -6259,6 +6255,10 @@
         },
         {
           "text": "진단",
+          "count": 2
+        },
+        {
+          "text": "열차사고",
           "count": 2
         }
       ]
@@ -17171,612 +17171,6 @@
         }
       ]
     },
-    "kdca": {
-      "label": "질병관리청",
-      "articleCount": 34,
-      "words": [
-        {
-          "text": "임승관",
-          "count": 28
-        },
-        {
-          "text": "감염병",
-          "count": 25
-        },
-        {
-          "text": "방문",
-          "count": 25
-        },
-        {
-          "text": "대응",
-          "count": 17
-        },
-        {
-          "text": "발생",
-          "count": 14
-        },
-        {
-          "text": "에볼라바이러스병",
-          "count": 13
-        },
-        {
-          "text": "위험",
-          "count": 13
-        },
-        {
-          "text": "점검",
-          "count": 13
-        },
-        {
-          "text": "아프리카",
-          "count": 12
-        },
-        {
-          "text": "검역",
-          "count": 12
-        },
-        {
-          "text": "진단",
-          "count": 11
-        },
-        {
-          "text": "논의",
-          "count": 11
-        },
-        {
-          "text": "대비",
-          "count": 10
-        },
-        {
-          "text": "우간다",
-          "count": 10
-        },
-        {
-          "text": "연구",
-          "count": 9
-        },
-        {
-          "text": "치료",
-          "count": 9
-        },
-        {
-          "text": "의료기관",
-          "count": 9
-        },
-        {
-          "text": "항생제",
-          "count": 9
-        },
-        {
-          "text": "내성",
-          "count": 9
-        },
-        {
-          "text": "청소년",
-          "count": 9
-        },
-        {
-          "text": "환자",
-          "count": 9
-        },
-        {
-          "text": "질병관리청장",
-          "count": 9
-        },
-        {
-          "text": "사용",
-          "count": 9
-        },
-        {
-          "text": "혈압",
-          "count": 9
-        },
-        {
-          "text": "시작",
-          "count": 8
-        },
-        {
-          "text": "유전자",
-          "count": 8
-        },
-        {
-          "text": "예방수칙",
-          "count": 8
-        },
-        {
-          "text": "준수",
-          "count": 8
-        },
-        {
-          "text": "영유아",
-          "count": 8
-        },
-        {
-          "text": "증가",
-          "count": 8
-        },
-        {
-          "text": "질병청",
-          "count": 8
-        },
-        {
-          "text": "전자담배",
-          "count": 8
-        },
-        {
-          "text": "국립보건연구원",
-          "count": 7
-        },
-        {
-          "text": "에볼라",
-          "count": 7
-        },
-        {
-          "text": "기술",
-          "count": 7
-        },
-        {
-          "text": "위기",
-          "count": 7
-        },
-        {
-          "text": "콩고민주공화국",
-          "count": 7
-        },
-        {
-          "text": "필요",
-          "count": 7
-        },
-        {
-          "text": "손상",
-          "count": 7
-        },
-        {
-          "text": "지방간",
-          "count": 7
-        },
-        {
-          "text": "백신",
-          "count": 7
-        },
-        {
-          "text": "열질환",
-          "count": 7
-        },
-        {
-          "text": "본격",
-          "count": 6
-        },
-        {
-          "text": "분석",
-          "count": 6
-        },
-        {
-          "text": "역량",
-          "count": 6
-        },
-        {
-          "text": "유행지역",
-          "count": 6
-        },
-        {
-          "text": "신고",
-          "count": 6
-        },
-        {
-          "text": "조간",
-          "count": 6
-        },
-        {
-          "text": "건강행태",
-          "count": 6
-        },
-        {
-          "text": "유입",
-          "count": 6
-        },
-        {
-          "text": "중심",
-          "count": 6
-        },
-        {
-          "text": "지역사회건강조사",
-          "count": 6
-        },
-        {
-          "text": "보관",
-          "count": 6
-        },
-        {
-          "text": "가향담배",
-          "count": 6
-        },
-        {
-          "text": "공공데이터",
-          "count": 6
-        },
-        {
-          "text": "남재환",
-          "count": 5
-        },
-        {
-          "text": "맞춤",
-          "count": 5
-        },
-        {
-          "text": "희귀질환",
-          "count": 5
-        },
-        {
-          "text": "검사",
-          "count": 5
-        },
-        {
-          "text": "병원",
-          "count": 5
-        },
-        {
-          "text": "이후",
-          "count": 5
-        },
-        {
-          "text": "위기관리체계",
-          "count": 5
-        },
-        {
-          "text": "민·관",
-          "count": 5
-        },
-        {
-          "text": "국정과제",
-          "count": 5
-        },
-        {
-          "text": "조사",
-          "count": 5
-        },
-        {
-          "text": "수칙",
-          "count": 5
-        },
-        {
-          "text": "결핵환자",
-          "count": 5
-        },
-        {
-          "text": "마이크로바이옴",
-          "count": 5
-        },
-        {
-          "text": "흡연",
-          "count": 5
-        },
-        {
-          "text": "가족",
-          "count": 5
-        },
-        {
-          "text": "급성심장정지",
-          "count": 5
-        },
-        {
-          "text": "인플루엔자",
-          "count": 5
-        },
-        {
-          "text": "줄기세포",
-          "count": 4
-        },
-        {
-          "text": "분양",
-          "count": 4
-        },
-        {
-          "text": "다양",
-          "count": 4
-        },
-        {
-          "text": "신속유전체",
-          "count": 4
-        },
-        {
-          "text": "연계",
-          "count": 4
-        },
-        {
-          "text": "임상시험",
-          "count": 4
-        },
-        {
-          "text": "미국",
-          "count": 4
-        },
-        {
-          "text": "보건소",
-          "count": 4
-        },
-        {
-          "text": "자제",
-          "count": 4
-        },
-        {
-          "text": "철저",
-          "count": 4
-        },
-        {
-          "text": "안전",
-          "count": 4
-        },
-        {
-          "text": "고도",
-          "count": 4
-        },
-        {
-          "text": "질환자",
-          "count": 4
-        },
-        {
-          "text": "단백",
-          "count": 4
-        },
-        {
-          "text": "즉석밥",
-          "count": 4
-        },
-        {
-          "text": "한국희귀",
-          "count": 4
-        },
-        {
-          "text": "난치",
-          "count": 4
-        },
-        {
-          "text": "질환연합회",
-          "count": 4
-        },
-        {
-          "text": "한국보건복지인재원",
-          "count": 4
-        },
-        {
-          "text": "건강정책",
-          "count": 4
-        },
-        {
-          "text": "청소년건강행태조사",
-          "count": 4
-        },
-        {
-          "text": "위생관리",
-          "count": 4
-        },
-        {
-          "text": "난도",
-          "count": 4
-        },
-        {
-          "text": "국립목포병원",
-          "count": 4
-        },
-        {
-          "text": "향상",
-          "count": 4
-        },
-        {
-          "text": "차장",
-          "count": 4
-        },
-        {
-          "text": "실천",
-          "count": 4
-        },
-        {
-          "text": "과제",
-          "count": 4
-        },
-        {
-          "text": "지속",
-          "count": 4
-        },
-        {
-          "text": "합동",
-          "count": 4
-        },
-        {
-          "text": "중요",
-          "count": 4
-        },
-        {
-          "text": "국가예방접종",
-          "count": 4
-        },
-        {
-          "text": "안내",
-          "count": 4
-        },
-        {
-          "text": "소통",
-          "count": 4
-        },
-        {
-          "text": "청소년건강패널조사",
-          "count": 4
-        },
-        {
-          "text": "사망자",
-          "count": 4
-        },
-        {
-          "text": "병무청",
-          "count": 4
-        },
-        {
-          "text": "방위사업청",
-          "count": 4
-        },
-        {
-          "text": "절기",
-          "count": 4
-        },
-        {
-          "text": "국가줄기세포은행",
-          "count": 3
-        },
-        {
-          "text": "세포치료제",
-          "count": 3
-        },
-        {
-          "text": "원료",
-          "count": 3
-        },
-        {
-          "text": "공급",
-          "count": 3
-        },
-        {
-          "text": "실제",
-          "count": 3
-        },
-        {
-          "text": "인체",
-          "count": 3
-        },
-        {
-          "text": "가능",
-          "count": 3
-        },
-        {
-          "text": "국립감염병연구소",
-          "count": 3
-        },
-        {
-          "text": "증상",
-          "count": 3
-        },
-        {
-          "text": "의사환자",
-          "count": 3
-        },
-        {
-          "text": "에볼라바이러스",
-          "count": 3
-        },
-        {
-          "text": "접촉",
-          "count": 3
-        },
-        {
-          "text": "금지",
-          "count": 3
-        },
-        {
-          "text": "검출",
-          "count": 3
-        },
-        {
-          "text": "평가",
-          "count": 3
-        },
-        {
-          "text": "효율",
-          "count": 3
-        },
-        {
-          "text": "미래",
-          "count": 3
-        },
-        {
-          "text": "구매",
-          "count": 3
-        },
-        {
-          "text": "지원체계",
-          "count": 3
-        },
-        {
-          "text": "근거",
-          "count": 3
-        },
-        {
-          "text": "파악",
-          "count": 3
-        },
-        {
-          "text": "수족구병",
-          "count": 3
-        },
-        {
-          "text": "가정",
-          "count": 3
-        },
-        {
-          "text": "국립인천공항검역소",
-          "count": 3
-        },
-        {
-          "text": "현장방문",
-          "count": 3
-        },
-        {
-          "text": "콩고",
-          "count": 3
-        },
-        {
-          "text": "대응체계",
-          "count": 3
-        },
-        {
-          "text": "장소",
-          "count": 3
-        },
-        {
-          "text": "전문의료기관",
-          "count": 3
-        },
-        {
-          "text": "북중미",
-          "count": 3
-        },
-        {
-          "text": "월드컵",
-          "count": 3
-        },
-        {
-          "text": "예방접종",
-          "count": 3
-        },
-        {
-          "text": "주의",
-          "count": 3
-        },
-        {
-          "text": "위협",
-          "count": 3
-        },
-        {
-          "text": "일상",
-          "count": 3
-        },
-        {
-          "text": "인간",
-          "count": 3
-        },
-        {
-          "text": "서울",
-          "count": 3
-        },
-        {
-          "text": "담배제품",
-          "count": 3
-        },
-        {
-          "text": "궐련",
-          "count": 3
-        }
-      ]
-    },
     "khs": {
       "label": "국가유산청",
       "articleCount": 34,
@@ -18985,6 +18379,612 @@
         },
         {
           "text": "우즈베키스탄",
+          "count": 3
+        }
+      ]
+    },
+    "kdca": {
+      "label": "질병관리청",
+      "articleCount": 33,
+      "words": [
+        {
+          "text": "임승관",
+          "count": 27
+        },
+        {
+          "text": "감염병",
+          "count": 25
+        },
+        {
+          "text": "방문",
+          "count": 25
+        },
+        {
+          "text": "대응",
+          "count": 17
+        },
+        {
+          "text": "발생",
+          "count": 14
+        },
+        {
+          "text": "에볼라바이러스병",
+          "count": 13
+        },
+        {
+          "text": "위험",
+          "count": 13
+        },
+        {
+          "text": "점검",
+          "count": 13
+        },
+        {
+          "text": "아프리카",
+          "count": 12
+        },
+        {
+          "text": "검역",
+          "count": 12
+        },
+        {
+          "text": "진단",
+          "count": 11
+        },
+        {
+          "text": "논의",
+          "count": 11
+        },
+        {
+          "text": "대비",
+          "count": 10
+        },
+        {
+          "text": "우간다",
+          "count": 10
+        },
+        {
+          "text": "연구",
+          "count": 9
+        },
+        {
+          "text": "치료",
+          "count": 9
+        },
+        {
+          "text": "의료기관",
+          "count": 9
+        },
+        {
+          "text": "항생제",
+          "count": 9
+        },
+        {
+          "text": "내성",
+          "count": 9
+        },
+        {
+          "text": "청소년",
+          "count": 9
+        },
+        {
+          "text": "환자",
+          "count": 9
+        },
+        {
+          "text": "질병관리청장",
+          "count": 9
+        },
+        {
+          "text": "사용",
+          "count": 9
+        },
+        {
+          "text": "혈압",
+          "count": 9
+        },
+        {
+          "text": "시작",
+          "count": 8
+        },
+        {
+          "text": "유전자",
+          "count": 8
+        },
+        {
+          "text": "예방수칙",
+          "count": 8
+        },
+        {
+          "text": "준수",
+          "count": 8
+        },
+        {
+          "text": "영유아",
+          "count": 8
+        },
+        {
+          "text": "증가",
+          "count": 8
+        },
+        {
+          "text": "질병청",
+          "count": 8
+        },
+        {
+          "text": "전자담배",
+          "count": 8
+        },
+        {
+          "text": "국립보건연구원",
+          "count": 7
+        },
+        {
+          "text": "에볼라",
+          "count": 7
+        },
+        {
+          "text": "기술",
+          "count": 7
+        },
+        {
+          "text": "위기",
+          "count": 7
+        },
+        {
+          "text": "콩고민주공화국",
+          "count": 7
+        },
+        {
+          "text": "필요",
+          "count": 7
+        },
+        {
+          "text": "손상",
+          "count": 7
+        },
+        {
+          "text": "지방간",
+          "count": 7
+        },
+        {
+          "text": "백신",
+          "count": 7
+        },
+        {
+          "text": "열질환",
+          "count": 7
+        },
+        {
+          "text": "본격",
+          "count": 6
+        },
+        {
+          "text": "분석",
+          "count": 6
+        },
+        {
+          "text": "역량",
+          "count": 6
+        },
+        {
+          "text": "유행지역",
+          "count": 6
+        },
+        {
+          "text": "신고",
+          "count": 6
+        },
+        {
+          "text": "조간",
+          "count": 6
+        },
+        {
+          "text": "유입",
+          "count": 6
+        },
+        {
+          "text": "중심",
+          "count": 6
+        },
+        {
+          "text": "보관",
+          "count": 6
+        },
+        {
+          "text": "가향담배",
+          "count": 6
+        },
+        {
+          "text": "공공데이터",
+          "count": 6
+        },
+        {
+          "text": "남재환",
+          "count": 5
+        },
+        {
+          "text": "맞춤",
+          "count": 5
+        },
+        {
+          "text": "희귀질환",
+          "count": 5
+        },
+        {
+          "text": "검사",
+          "count": 5
+        },
+        {
+          "text": "병원",
+          "count": 5
+        },
+        {
+          "text": "이후",
+          "count": 5
+        },
+        {
+          "text": "위기관리체계",
+          "count": 5
+        },
+        {
+          "text": "민·관",
+          "count": 5
+        },
+        {
+          "text": "국정과제",
+          "count": 5
+        },
+        {
+          "text": "건강행태",
+          "count": 5
+        },
+        {
+          "text": "수칙",
+          "count": 5
+        },
+        {
+          "text": "결핵환자",
+          "count": 5
+        },
+        {
+          "text": "마이크로바이옴",
+          "count": 5
+        },
+        {
+          "text": "흡연",
+          "count": 5
+        },
+        {
+          "text": "가족",
+          "count": 5
+        },
+        {
+          "text": "급성심장정지",
+          "count": 5
+        },
+        {
+          "text": "인플루엔자",
+          "count": 5
+        },
+        {
+          "text": "줄기세포",
+          "count": 4
+        },
+        {
+          "text": "분양",
+          "count": 4
+        },
+        {
+          "text": "다양",
+          "count": 4
+        },
+        {
+          "text": "신속유전체",
+          "count": 4
+        },
+        {
+          "text": "연계",
+          "count": 4
+        },
+        {
+          "text": "임상시험",
+          "count": 4
+        },
+        {
+          "text": "미국",
+          "count": 4
+        },
+        {
+          "text": "자제",
+          "count": 4
+        },
+        {
+          "text": "철저",
+          "count": 4
+        },
+        {
+          "text": "안전",
+          "count": 4
+        },
+        {
+          "text": "고도",
+          "count": 4
+        },
+        {
+          "text": "질환자",
+          "count": 4
+        },
+        {
+          "text": "단백",
+          "count": 4
+        },
+        {
+          "text": "즉석밥",
+          "count": 4
+        },
+        {
+          "text": "한국희귀",
+          "count": 4
+        },
+        {
+          "text": "난치",
+          "count": 4
+        },
+        {
+          "text": "질환연합회",
+          "count": 4
+        },
+        {
+          "text": "한국보건복지인재원",
+          "count": 4
+        },
+        {
+          "text": "청소년건강행태조사",
+          "count": 4
+        },
+        {
+          "text": "조사",
+          "count": 4
+        },
+        {
+          "text": "위생관리",
+          "count": 4
+        },
+        {
+          "text": "난도",
+          "count": 4
+        },
+        {
+          "text": "국립목포병원",
+          "count": 4
+        },
+        {
+          "text": "향상",
+          "count": 4
+        },
+        {
+          "text": "차장",
+          "count": 4
+        },
+        {
+          "text": "실천",
+          "count": 4
+        },
+        {
+          "text": "과제",
+          "count": 4
+        },
+        {
+          "text": "지속",
+          "count": 4
+        },
+        {
+          "text": "합동",
+          "count": 4
+        },
+        {
+          "text": "중요",
+          "count": 4
+        },
+        {
+          "text": "국가예방접종",
+          "count": 4
+        },
+        {
+          "text": "안내",
+          "count": 4
+        },
+        {
+          "text": "소통",
+          "count": 4
+        },
+        {
+          "text": "청소년건강패널조사",
+          "count": 4
+        },
+        {
+          "text": "사망자",
+          "count": 4
+        },
+        {
+          "text": "병무청",
+          "count": 4
+        },
+        {
+          "text": "방위사업청",
+          "count": 4
+        },
+        {
+          "text": "절기",
+          "count": 4
+        },
+        {
+          "text": "국가줄기세포은행",
+          "count": 3
+        },
+        {
+          "text": "세포치료제",
+          "count": 3
+        },
+        {
+          "text": "원료",
+          "count": 3
+        },
+        {
+          "text": "공급",
+          "count": 3
+        },
+        {
+          "text": "실제",
+          "count": 3
+        },
+        {
+          "text": "인체",
+          "count": 3
+        },
+        {
+          "text": "가능",
+          "count": 3
+        },
+        {
+          "text": "국립감염병연구소",
+          "count": 3
+        },
+        {
+          "text": "증상",
+          "count": 3
+        },
+        {
+          "text": "의사환자",
+          "count": 3
+        },
+        {
+          "text": "에볼라바이러스",
+          "count": 3
+        },
+        {
+          "text": "접촉",
+          "count": 3
+        },
+        {
+          "text": "금지",
+          "count": 3
+        },
+        {
+          "text": "검출",
+          "count": 3
+        },
+        {
+          "text": "평가",
+          "count": 3
+        },
+        {
+          "text": "효율",
+          "count": 3
+        },
+        {
+          "text": "미래",
+          "count": 3
+        },
+        {
+          "text": "구매",
+          "count": 3
+        },
+        {
+          "text": "지원체계",
+          "count": 3
+        },
+        {
+          "text": "근거",
+          "count": 3
+        },
+        {
+          "text": "수족구병",
+          "count": 3
+        },
+        {
+          "text": "가정",
+          "count": 3
+        },
+        {
+          "text": "국립인천공항검역소",
+          "count": 3
+        },
+        {
+          "text": "현장방문",
+          "count": 3
+        },
+        {
+          "text": "콩고",
+          "count": 3
+        },
+        {
+          "text": "대응체계",
+          "count": 3
+        },
+        {
+          "text": "장소",
+          "count": 3
+        },
+        {
+          "text": "전문의료기관",
+          "count": 3
+        },
+        {
+          "text": "북중미",
+          "count": 3
+        },
+        {
+          "text": "월드컵",
+          "count": 3
+        },
+        {
+          "text": "예방접종",
+          "count": 3
+        },
+        {
+          "text": "주의",
+          "count": 3
+        },
+        {
+          "text": "위협",
+          "count": 3
+        },
+        {
+          "text": "일상",
+          "count": 3
+        },
+        {
+          "text": "인간",
+          "count": 3
+        },
+        {
+          "text": "서울",
+          "count": 3
+        },
+        {
+          "text": "담배제품",
+          "count": 3
+        },
+        {
+          "text": "궐련",
+          "count": 3
+        },
+        {
+          "text": "환경",
+          "count": 3
+        },
+        {
+          "text": "해외유입상황평가회의",
+          "count": 3
+        },
+        {
+          "text": "정밀",
+          "count": 3
+        },
+        {
+          "text": "중독",
           "count": 3
         }
       ]
