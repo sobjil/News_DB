@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-14T13:28:11.150609+09:00",
-  "totalArticles": 2432,
+  "generated": "2026-06-14T13:41:43.548017+09:00",
+  "totalArticles": 2431,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2432,
+      "articleCount": 2431,
       "words": [
         {
           "text": "대응",
@@ -29,7 +29,7 @@
         },
         {
           "text": "방문",
-          "count": 303
+          "count": 302
         },
         {
           "text": "안전",
@@ -592,10 +592,6 @@
           "count": 81
         },
         {
-          "text": "국민주권정부",
-          "count": 81
-        },
-        {
           "text": "접수",
           "count": 80
         },
@@ -617,6 +613,10 @@
         },
         {
           "text": "관세청",
+          "count": 79
+        },
+        {
+          "text": "국민주권정부",
           "count": 79
         },
         {
@@ -11113,15 +11113,15 @@
     },
     "moj": {
       "label": "법무부",
-      "articleCount": 52,
+      "articleCount": 51,
       "words": [
         {
           "text": "정성호",
-          "count": 48
+          "count": 46
         },
         {
           "text": "참조",
-          "count": 34
+          "count": 33
         },
         {
           "text": "출입국",
@@ -11172,16 +11172,12 @@
           "count": 11
         },
         {
-          "text": "방문",
-          "count": 10
-        },
-        {
-          "text": "검찰",
-          "count": 10
-        },
-        {
           "text": "사건",
           "count": 10
+        },
+        {
+          "text": "방문",
+          "count": 9
         },
         {
           "text": "보호",
@@ -11228,6 +11224,10 @@
           "count": 7
         },
         {
+          "text": "검찰",
+          "count": 7
+        },
+        {
           "text": "총력",
           "count": 7
         },
@@ -11245,10 +11245,6 @@
         },
         {
           "text": "교정",
-          "count": 7
-        },
-        {
-          "text": "국민주권정부",
           "count": 7
         },
         {
@@ -11336,10 +11332,6 @@
           "count": 5
         },
         {
-          "text": "법무부장관",
-          "count": 5
-        },
-        {
           "text": "송환",
           "count": 5
         },
@@ -11365,6 +11357,10 @@
         },
         {
           "text": "미국",
+          "count": 5
+        },
+        {
+          "text": "국민주권정부",
           "count": 5
         },
         {
@@ -11449,6 +11445,10 @@
         },
         {
           "text": "교정공무원",
+          "count": 4
+        },
+        {
+          "text": "법무부장관",
           "count": 4
         },
         {
