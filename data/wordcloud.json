@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-14T12:18:02.128155+09:00",
-  "totalArticles": 2429,
+  "generated": "2026-06-14T12:28:13.561045+09:00",
+  "totalArticles": 2428,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2429,
+      "articleCount": 2428,
       "words": [
         {
           "text": "대응",
@@ -12931,7 +12931,7 @@
     },
     "kmcc": {
       "label": "방송미디어통신위원회",
-      "articleCount": 43,
+      "articleCount": 42,
       "words": [
         {
           "text": "김종철",
@@ -13250,10 +13250,6 @@
           "count": 4
         },
         {
-          "text": "정체",
-          "count": 4
-        },
-        {
           "text": "평가",
           "count": 4
         },
@@ -13531,6 +13527,10 @@
         },
         {
           "text": "자리",
+          "count": 3
+        },
+        {
+          "text": "수렴",
           "count": 3
         }
       ]
