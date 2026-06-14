@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T00:34:42.566250+00:00",
+  "updated": "2026-06-14T00:49:31.430187+00:00",
   "count": 2447,
   "retentionDays": 30,
   "agencies": [
@@ -55,6 +55,26 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "데이터로 읽는 우리 교육 제7호 발간 : 숫자로 보는 우리나라 대학의 오늘",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766393&call_from=rsslink",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-06-14T00:00:00+00:00",
+      "description": "<데이터로 읽는 우리 교육> 제7호 발간 : 숫자로 보는 우리나라 대학의 오늘 [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198488751&tblKey=GMN",
+          "filename": "[교육부 06-15(월) 조간 보도참고자료] ?데이터로 읽는 우리 교육? 제7호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198488752&tblKey=GMN",
+          "filename": "[별첨] 「데이터로 읽는 우리 교육」 2026년 제7호_숫자로 보는 우리나라 대학의 오늘.pdf"
+        }
+      ]
+    },
     {
       "title": "한미일 사무국 운영이사회 및 북한 관련 한미일 협의 개최(6.12.)",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766392&call_from=rsslink",
@@ -49569,26 +49589,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198462420&tblKey=GMN",
           "filename": "260515_중소벤처기업부_창업벤처혁신실장에_목승환_서울대_기술지주_대표_임용.pdf"
-        }
-      ]
-    },
-    {
-      "title": "\"Drive Innovation Forward\" 인공아체세포 재생치료 연구성과교류회 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761751&call_from=rsslink",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-05-15T00:35:00+00:00",
-      "description": "\"Drive Innovation Forward\" 인공아체세포 재생치료 연구성과교류회 개최 - 도전적 연구성과 공유 및 차세대 재생치료 전략 논의- 보건복지부(장관 정은경, 이하 '복지부)와 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 '과기정통부')는 5월 15일(금) 오전 9시 30분 서울 서초구 엘타워에서 인공아체세포 기반 재생치료 기술개발사업 2026년도 연구성과교류회를 개최하였다. '인공아체세포 기반 재생치료 기술개발사업'은 복지부와 과기정통부가 공동으로 2024년부터 2029년까지 6년간 총 374억 7100",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198465041&tblKey=GMN",
-          "filename": "[5.15.금 행사 시작(9시30분)이후] “Drive Innovation Forward” 인공아체세포 재생치료 연구성과교류회 개최.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198465042&tblKey=GMN",
-          "filename": "[5.15.금 행사 시작(9시30분)이후] “Drive Innovation Forward” 인공아체세포 재생치료 연구성과교류회 개최.pdf"
         }
       ]
     }
