@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-17T02:30:21.983873+09:00",
-  "totalArticles": 2604,
+  "generated": "2026-06-17T03:13:10.129015+09:00",
+  "totalArticles": 2603,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2604,
+      "articleCount": 2603,
       "words": [
         {
           "text": "대응",
@@ -33,7 +33,7 @@
         },
         {
           "text": "안전",
-          "count": 319
+          "count": 317
         },
         {
           "text": "발생",
@@ -348,16 +348,16 @@
           "count": 115
         },
         {
-          "text": "정보",
-          "count": 115
-        },
-        {
           "text": "양국",
           "count": 115
         },
         {
           "text": "조사",
           "count": 114
+        },
+        {
+          "text": "정보",
+          "count": 113
         },
         {
           "text": "지급",
@@ -412,10 +412,6 @@
           "count": 107
         },
         {
-          "text": "보도참고",
-          "count": 107
-        },
-        {
           "text": "지방정부",
           "count": 106
         },
@@ -425,6 +421,10 @@
         },
         {
           "text": "개정",
+          "count": 105
+        },
+        {
+          "text": "보도참고",
           "count": 105
         },
         {
@@ -7477,11 +7477,11 @@
     },
     "mfds": {
       "label": "식품의약품안전처",
-      "articleCount": 91,
+      "articleCount": 90,
       "words": [
         {
           "text": "보도참고",
-          "count": 91
+          "count": 89
         },
         {
           "text": "적발",
