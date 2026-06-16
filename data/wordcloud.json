@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-17T06:24:49.342025+09:00",
-  "totalArticles": 2602,
+  "generated": "2026-06-17T07:13:08.422917+09:00",
+  "totalArticles": 2599,
   "retentionDays": 30,
   "agencies": {
     "all": {
       "label": "전체",
-      "articleCount": 2602,
+      "articleCount": 2599,
       "words": [
         {
           "text": "대응",
@@ -52,11 +52,11 @@
           "count": 262
         },
         {
-          "text": "기업",
-          "count": 262
+          "text": "참석",
+          "count": 261
         },
         {
-          "text": "참석",
+          "text": "기업",
           "count": 261
         },
         {
@@ -173,11 +173,11 @@
         },
         {
           "text": "체결",
-          "count": 157
+          "count": 156
         },
         {
           "text": "보호",
-          "count": 157
+          "count": 155
         },
         {
           "text": "전문가",
@@ -296,15 +296,15 @@
           "count": 127
         },
         {
+          "text": "윤호중",
+          "count": 124
+        },
+        {
           "text": "피해",
-          "count": 126
+          "count": 124
         },
         {
           "text": "규모",
-          "count": 125
-        },
-        {
-          "text": "윤호중",
           "count": 124
         },
         {
@@ -372,10 +372,6 @@
           "count": 111
         },
         {
-          "text": "최대",
-          "count": 110
-        },
-        {
           "text": "프로그램",
           "count": 110
         },
@@ -389,6 +385,10 @@
         },
         {
           "text": "송미령",
+          "count": 107
+        },
+        {
+          "text": "최대",
           "count": 107
         },
         {
@@ -412,15 +412,15 @@
           "count": 106
         },
         {
-          "text": "업무협약",
-          "count": 106
-        },
-        {
           "text": "국방부",
           "count": 106
         },
         {
           "text": "개정",
+          "count": 105
+        },
+        {
+          "text": "업무협약",
           "count": 105
         },
         {
@@ -716,10 +716,6 @@
           "count": 75
         },
         {
-          "text": "전문",
-          "count": 75
-        },
-        {
           "text": "기존",
           "count": 75
         },
@@ -749,6 +745,10 @@
         },
         {
           "text": "캠페인",
+          "count": 73
+        },
+        {
+          "text": "전문",
           "count": 73
         },
         {
@@ -17171,612 +17171,6 @@
         }
       ]
     },
-    "npa": {
-      "label": "경찰청",
-      "articleCount": 35,
-      "words": [
-        {
-          "text": "대응",
-          "count": 14
-        },
-        {
-          "text": "업무협약",
-          "count": 8
-        },
-        {
-          "text": "체결",
-          "count": 8
-        },
-        {
-          "text": "수사",
-          "count": 8
-        },
-        {
-          "text": "집중단속",
-          "count": 6
-        },
-        {
-          "text": "범죄",
-          "count": 6
-        },
-        {
-          "text": "재난",
-          "count": 6
-        },
-        {
-          "text": "대비",
-          "count": 6
-        },
-        {
-          "text": "공모전",
-          "count": 4
-        },
-        {
-          "text": "경찰대학",
-          "count": 4
-        },
-        {
-          "text": "케이",
-          "count": 4
-        },
-        {
-          "text": "치안",
-          "count": 4
-        },
-        {
-          "text": "불법행위",
-          "count": 4
-        },
-        {
-          "text": "특별",
-          "count": 4
-        },
-        {
-          "text": "안전",
-          "count": 4
-        },
-        {
-          "text": "수사지원",
-          "count": 4
-        },
-        {
-          "text": "품질",
-          "count": 4
-        },
-        {
-          "text": "향상",
-          "count": 4
-        },
-        {
-          "text": "기대",
-          "count": 4
-        },
-        {
-          "text": "점검",
-          "count": 4
-        },
-        {
-          "text": "전국동시지방선거",
-          "count": 4
-        },
-        {
-          "text": "예방",
-          "count": 4
-        },
-        {
-          "text": "사이버성폭력",
-          "count": 2
-        },
-        {
-          "text": "중간성과",
-          "count": 2
-        },
-        {
-          "text": "향후",
-          "count": 2
-        },
-        {
-          "text": "추진계획",
-          "count": 2
-        },
-        {
-          "text": "안보지킴이",
-          "count": 2
-        },
-        {
-          "text": "상금",
-          "count": 2
-        },
-        {
-          "text": "상향",
-          "count": 2
-        },
-        {
-          "text": "청람장학회",
-          "count": 2
-        },
-        {
-          "text": "희망",
-          "count": 2
-        },
-        {
-          "text": "나눔",
-          "count": 2
-        },
-        {
-          "text": "교육",
-          "count": 2
-        },
-        {
-          "text": "중심",
-          "count": 2
-        },
-        {
-          "text": "국제경찰교육훈련센터",
-          "count": 2
-        },
-        {
-          "text": "개소",
-          "count": 2
-        },
-        {
-          "text": "허위",
-          "count": 2
-        },
-        {
-          "text": "온라인",
-          "count": 2
-        },
-        {
-          "text": "공중협박",
-          "count": 2
-        },
-        {
-          "text": "손해",
-          "count": 2
-        },
-        {
-          "text": "배상",
-          "count": 2
-        },
-        {
-          "text": "청구",
-          "count": 2
-        },
-        {
-          "text": "소송",
-          "count": 2
-        },
-        {
-          "text": "제기",
-          "count": 2
-        },
-        {
-          "text": "결정",
-          "count": 2
-        },
-        {
-          "text": "과학치안",
-          "count": 2
-        },
-        {
-          "text": "아이디어",
-          "count": 2
-        },
-        {
-          "text": "교통사고",
-          "count": 2
-        },
-        {
-          "text": "보험사기",
-          "count": 2
-        },
-        {
-          "text": "생명",
-          "count": 2
-        },
-        {
-          "text": "비전",
-          "count": 2
-        },
-        {
-          "text": "선포식",
-          "count": 2
-        },
-        {
-          "text": "모바일",
-          "count": 2
-        },
-        {
-          "text": "백화점",
-          "count": 2
-        },
-        {
-          "text": "상품권",
-          "count": 2
-        },
-        {
-          "text": "거래",
-          "count": 2
-        },
-        {
-          "text": "금리",
-          "count": 2
-        },
-        {
-          "text": "신종",
-          "count": 2
-        },
-        {
-          "text": "불법사금융",
-          "count": 2
-        },
-        {
-          "text": "검거",
-          "count": 2
-        },
-        {
-          "text": "수사팀",
-          "count": 2
-        },
-        {
-          "text": "포상금",
-          "count": 2
-        },
-        {
-          "text": "수상",
-          "count": 2
-        },
-        {
-          "text": "스토킹",
-          "count": 2
-        },
-        {
-          "text": "가해자",
-          "count": 2
-        },
-        {
-          "text": "이동",
-          "count": 2
-        },
-        {
-          "text": "경로",
-          "count": 2
-        },
-        {
-          "text": "법무부",
-          "count": 2
-        },
-        {
-          "text": "실시간",
-          "count": 2
-        },
-        {
-          "text": "위치추적",
-          "count": 2
-        },
-        {
-          "text": "시스템",
-          "count": 2
-        },
-        {
-          "text": "착수",
-          "count": 2
-        },
-        {
-          "text": "인터폴",
-          "count": 2
-        },
-        {
-          "text": "서울",
-          "count": 2
-        },
-        {
-          "text": "국가범죄",
-          "count": 2
-        },
-        {
-          "text": "공동작전회의",
-          "count": 2
-        },
-        {
-          "text": "통학로",
-          "count": 2
-        },
-        {
-          "text": "경비업체",
-          "count": 2
-        },
-        {
-          "text": "정책자문단",
-          "count": 2
-        },
-        {
-          "text": "출범",
-          "count": 2
-        },
-        {
-          "text": "완성도",
-          "count": 2
-        },
-        {
-          "text": "제고",
-          "count": 2
-        },
-        {
-          "text": "국가수사본부",
-          "count": 2
-        },
-        {
-          "text": "부서",
-          "count": 2
-        },
-        {
-          "text": "상시",
-          "count": 2
-        },
-        {
-          "text": "지도",
-          "count": 2
-        },
-        {
-          "text": "장기사건",
-          "count": 2
-        },
-        {
-          "text": "신속",
-          "count": 2
-        },
-        {
-          "text": "처리",
-          "count": 2
-        },
-        {
-          "text": "경찰청장",
-          "count": 2
-        },
-        {
-          "text": "직무대행",
-          "count": 2
-        },
-        {
-          "text": "본격",
-          "count": 2
-        },
-        {
-          "text": "장마철",
-          "count": 2
-        },
-        {
-          "text": "현장점검",
-          "count": 2
-        },
-        {
-          "text": "선거사범",
-          "count": 2
-        },
-        {
-          "text": "대한민국",
-          "count": 2
-        },
-        {
-          "text": "가상자산사업자",
-          "count": 2
-        },
-        {
-          "text": "피싱범죄",
-          "count": 2
-        },
-        {
-          "text": "코인",
-          "count": 2
-        },
-        {
-          "text": "세탁",
-          "count": 2
-        },
-        {
-          "text": "사전",
-          "count": 2
-        },
-        {
-          "text": "차단",
-          "count": 2
-        },
-        {
-          "text": "방위",
-          "count": 2
-        },
-        {
-          "text": "시체팔",
-          "count": 2
-        },
-        {
-          "text": "대국민",
-          "count": 2
-        },
-        {
-          "text": "사기극",
-          "count": 2
-        },
-        {
-          "text": "더미",
-          "count": 2
-        },
-        {
-          "text": "시체놀이",
-          "count": 2
-        },
-        {
-          "text": "도배",
-          "count": 2
-        },
-        {
-          "text": "KB금융그룹",
-          "count": 2
-        },
-        {
-          "text": "신용회복위원회",
-          "count": 2
-        },
-        {
-          "text": "교통",
-          "count": 2
-        },
-        {
-          "text": "질서",
-          "count": 2
-        },
-        {
-          "text": "행위",
-          "count": 2
-        },
-        {
-          "text": "집중",
-          "count": 2
-        },
-        {
-          "text": "단속",
-          "count": 2
-        },
-        {
-          "text": "토스뱅크",
-          "count": 2
-        },
-        {
-          "text": "우리",
-          "count": 2
-        },
-        {
-          "text": "동네",
-          "count": 2
-        },
-        {
-          "text": "금융사기예방관",
-          "count": 2
-        },
-        {
-          "text": "호우",
-          "count": 2
-        },
-        {
-          "text": "태풍",
-          "count": 2
-        },
-        {
-          "text": "여름철",
-          "count": 2
-        },
-        {
-          "text": "태세",
-          "count": 2
-        },
-        {
-          "text": "사이버",
-          "count": 2
-        },
-        {
-          "text": "위협",
-          "count": 2
-        },
-        {
-          "text": "역량",
-          "count": 2
-        },
-        {
-          "text": "해킹",
-          "count": 2
-        },
-        {
-          "text": "전자우편",
-          "count": 2
-        },
-        {
-          "text": "훈련",
-          "count": 2
-        },
-        {
-          "text": "화물차",
-          "count": 2
-        },
-        {
-          "text": "영문",
-          "count": 2
-        },
-        {
-          "text": "누리집",
-          "count": 2
-        },
-        {
-          "text": "전면",
-          "count": 2
-        },
-        {
-          "text": "개편",
-          "count": 2
-        },
-        {
-          "text": "상표",
-          "count": 2
-        },
-        {
-          "text": "가치",
-          "count": 2
-        },
-        {
-          "text": "고령",
-          "count": 2
-        },
-        {
-          "text": "운전자",
-          "count": 2
-        },
-        {
-          "text": "안전운전",
-          "count": 2
-        },
-        {
-          "text": "페달",
-          "count": 2
-        },
-        {
-          "text": "오조작",
-          "count": 2
-        },
-        {
-          "text": "방지",
-          "count": 2
-        },
-        {
-          "text": "장치",
-          "count": 2
-        },
-        {
-          "text": "보급",
-          "count": 2
-        },
-        {
-          "text": "시행",
-          "count": 2
-        },
-        {
-          "text": "경찰관서",
-          "count": 2
-        },
-        {
-          "text": "선거경비통합상황실",
-          "count": 2
-        },
-        {
-          "text": "감식",
-          "count": 2
-        },
-        {
-          "text": "과학수사",
-          "count": 2
-        }
-      ]
-    },
     "ftc": {
       "label": "공정거래위원회",
       "articleCount": 34,
@@ -18383,9 +17777,615 @@
         }
       ]
     },
+    "npa": {
+      "label": "경찰청",
+      "articleCount": 33,
+      "words": [
+        {
+          "text": "대응",
+          "count": 14
+        },
+        {
+          "text": "업무협약",
+          "count": 8
+        },
+        {
+          "text": "체결",
+          "count": 8
+        },
+        {
+          "text": "수사",
+          "count": 8
+        },
+        {
+          "text": "집중단속",
+          "count": 6
+        },
+        {
+          "text": "재난",
+          "count": 6
+        },
+        {
+          "text": "대비",
+          "count": 6
+        },
+        {
+          "text": "공모전",
+          "count": 4
+        },
+        {
+          "text": "경찰대학",
+          "count": 4
+        },
+        {
+          "text": "케이",
+          "count": 4
+        },
+        {
+          "text": "치안",
+          "count": 4
+        },
+        {
+          "text": "범죄",
+          "count": 4
+        },
+        {
+          "text": "불법행위",
+          "count": 4
+        },
+        {
+          "text": "특별",
+          "count": 4
+        },
+        {
+          "text": "안전",
+          "count": 4
+        },
+        {
+          "text": "수사지원",
+          "count": 4
+        },
+        {
+          "text": "품질",
+          "count": 4
+        },
+        {
+          "text": "향상",
+          "count": 4
+        },
+        {
+          "text": "기대",
+          "count": 4
+        },
+        {
+          "text": "점검",
+          "count": 4
+        },
+        {
+          "text": "전국동시지방선거",
+          "count": 4
+        },
+        {
+          "text": "예방",
+          "count": 4
+        },
+        {
+          "text": "사이버성폭력",
+          "count": 2
+        },
+        {
+          "text": "중간성과",
+          "count": 2
+        },
+        {
+          "text": "향후",
+          "count": 2
+        },
+        {
+          "text": "추진계획",
+          "count": 2
+        },
+        {
+          "text": "안보지킴이",
+          "count": 2
+        },
+        {
+          "text": "상금",
+          "count": 2
+        },
+        {
+          "text": "상향",
+          "count": 2
+        },
+        {
+          "text": "청람장학회",
+          "count": 2
+        },
+        {
+          "text": "희망",
+          "count": 2
+        },
+        {
+          "text": "나눔",
+          "count": 2
+        },
+        {
+          "text": "교육",
+          "count": 2
+        },
+        {
+          "text": "중심",
+          "count": 2
+        },
+        {
+          "text": "국제경찰교육훈련센터",
+          "count": 2
+        },
+        {
+          "text": "개소",
+          "count": 2
+        },
+        {
+          "text": "허위",
+          "count": 2
+        },
+        {
+          "text": "온라인",
+          "count": 2
+        },
+        {
+          "text": "공중협박",
+          "count": 2
+        },
+        {
+          "text": "손해",
+          "count": 2
+        },
+        {
+          "text": "배상",
+          "count": 2
+        },
+        {
+          "text": "청구",
+          "count": 2
+        },
+        {
+          "text": "소송",
+          "count": 2
+        },
+        {
+          "text": "제기",
+          "count": 2
+        },
+        {
+          "text": "결정",
+          "count": 2
+        },
+        {
+          "text": "과학치안",
+          "count": 2
+        },
+        {
+          "text": "아이디어",
+          "count": 2
+        },
+        {
+          "text": "교통사고",
+          "count": 2
+        },
+        {
+          "text": "보험사기",
+          "count": 2
+        },
+        {
+          "text": "생명",
+          "count": 2
+        },
+        {
+          "text": "비전",
+          "count": 2
+        },
+        {
+          "text": "선포식",
+          "count": 2
+        },
+        {
+          "text": "모바일",
+          "count": 2
+        },
+        {
+          "text": "백화점",
+          "count": 2
+        },
+        {
+          "text": "상품권",
+          "count": 2
+        },
+        {
+          "text": "거래",
+          "count": 2
+        },
+        {
+          "text": "금리",
+          "count": 2
+        },
+        {
+          "text": "신종",
+          "count": 2
+        },
+        {
+          "text": "불법사금융",
+          "count": 2
+        },
+        {
+          "text": "검거",
+          "count": 2
+        },
+        {
+          "text": "수사팀",
+          "count": 2
+        },
+        {
+          "text": "포상금",
+          "count": 2
+        },
+        {
+          "text": "수상",
+          "count": 2
+        },
+        {
+          "text": "스토킹",
+          "count": 2
+        },
+        {
+          "text": "가해자",
+          "count": 2
+        },
+        {
+          "text": "이동",
+          "count": 2
+        },
+        {
+          "text": "경로",
+          "count": 2
+        },
+        {
+          "text": "법무부",
+          "count": 2
+        },
+        {
+          "text": "실시간",
+          "count": 2
+        },
+        {
+          "text": "위치추적",
+          "count": 2
+        },
+        {
+          "text": "시스템",
+          "count": 2
+        },
+        {
+          "text": "착수",
+          "count": 2
+        },
+        {
+          "text": "인터폴",
+          "count": 2
+        },
+        {
+          "text": "서울",
+          "count": 2
+        },
+        {
+          "text": "국가범죄",
+          "count": 2
+        },
+        {
+          "text": "공동작전회의",
+          "count": 2
+        },
+        {
+          "text": "통학로",
+          "count": 2
+        },
+        {
+          "text": "경비업체",
+          "count": 2
+        },
+        {
+          "text": "정책자문단",
+          "count": 2
+        },
+        {
+          "text": "출범",
+          "count": 2
+        },
+        {
+          "text": "완성도",
+          "count": 2
+        },
+        {
+          "text": "제고",
+          "count": 2
+        },
+        {
+          "text": "국가수사본부",
+          "count": 2
+        },
+        {
+          "text": "부서",
+          "count": 2
+        },
+        {
+          "text": "상시",
+          "count": 2
+        },
+        {
+          "text": "지도",
+          "count": 2
+        },
+        {
+          "text": "장기사건",
+          "count": 2
+        },
+        {
+          "text": "신속",
+          "count": 2
+        },
+        {
+          "text": "처리",
+          "count": 2
+        },
+        {
+          "text": "경찰청장",
+          "count": 2
+        },
+        {
+          "text": "직무대행",
+          "count": 2
+        },
+        {
+          "text": "본격",
+          "count": 2
+        },
+        {
+          "text": "장마철",
+          "count": 2
+        },
+        {
+          "text": "현장점검",
+          "count": 2
+        },
+        {
+          "text": "선거사범",
+          "count": 2
+        },
+        {
+          "text": "대한민국",
+          "count": 2
+        },
+        {
+          "text": "가상자산사업자",
+          "count": 2
+        },
+        {
+          "text": "피싱범죄",
+          "count": 2
+        },
+        {
+          "text": "코인",
+          "count": 2
+        },
+        {
+          "text": "세탁",
+          "count": 2
+        },
+        {
+          "text": "사전",
+          "count": 2
+        },
+        {
+          "text": "차단",
+          "count": 2
+        },
+        {
+          "text": "방위",
+          "count": 2
+        },
+        {
+          "text": "시체팔",
+          "count": 2
+        },
+        {
+          "text": "대국민",
+          "count": 2
+        },
+        {
+          "text": "사기극",
+          "count": 2
+        },
+        {
+          "text": "더미",
+          "count": 2
+        },
+        {
+          "text": "시체놀이",
+          "count": 2
+        },
+        {
+          "text": "도배",
+          "count": 2
+        },
+        {
+          "text": "KB금융그룹",
+          "count": 2
+        },
+        {
+          "text": "신용회복위원회",
+          "count": 2
+        },
+        {
+          "text": "교통",
+          "count": 2
+        },
+        {
+          "text": "질서",
+          "count": 2
+        },
+        {
+          "text": "행위",
+          "count": 2
+        },
+        {
+          "text": "집중",
+          "count": 2
+        },
+        {
+          "text": "단속",
+          "count": 2
+        },
+        {
+          "text": "토스뱅크",
+          "count": 2
+        },
+        {
+          "text": "우리",
+          "count": 2
+        },
+        {
+          "text": "동네",
+          "count": 2
+        },
+        {
+          "text": "금융사기예방관",
+          "count": 2
+        },
+        {
+          "text": "호우",
+          "count": 2
+        },
+        {
+          "text": "태풍",
+          "count": 2
+        },
+        {
+          "text": "여름철",
+          "count": 2
+        },
+        {
+          "text": "태세",
+          "count": 2
+        },
+        {
+          "text": "사이버",
+          "count": 2
+        },
+        {
+          "text": "위협",
+          "count": 2
+        },
+        {
+          "text": "역량",
+          "count": 2
+        },
+        {
+          "text": "해킹",
+          "count": 2
+        },
+        {
+          "text": "전자우편",
+          "count": 2
+        },
+        {
+          "text": "훈련",
+          "count": 2
+        },
+        {
+          "text": "화물차",
+          "count": 2
+        },
+        {
+          "text": "영문",
+          "count": 2
+        },
+        {
+          "text": "누리집",
+          "count": 2
+        },
+        {
+          "text": "전면",
+          "count": 2
+        },
+        {
+          "text": "개편",
+          "count": 2
+        },
+        {
+          "text": "상표",
+          "count": 2
+        },
+        {
+          "text": "가치",
+          "count": 2
+        },
+        {
+          "text": "고령",
+          "count": 2
+        },
+        {
+          "text": "운전자",
+          "count": 2
+        },
+        {
+          "text": "안전운전",
+          "count": 2
+        },
+        {
+          "text": "페달",
+          "count": 2
+        },
+        {
+          "text": "오조작",
+          "count": 2
+        },
+        {
+          "text": "방지",
+          "count": 2
+        },
+        {
+          "text": "장치",
+          "count": 2
+        },
+        {
+          "text": "보급",
+          "count": 2
+        },
+        {
+          "text": "시행",
+          "count": 2
+        },
+        {
+          "text": "경찰관서",
+          "count": 2
+        },
+        {
+          "text": "선거경비통합상황실",
+          "count": 2
+        },
+        {
+          "text": "감식",
+          "count": 2
+        },
+        {
+          "text": "과학수사",
+          "count": 2
+        }
+      ]
+    },
     "nfa": {
       "label": "소방청",
-      "articleCount": 32,
+      "articleCount": 31,
       "words": [
         {
           "text": "김승룡",
@@ -18393,14 +18393,6 @@
         },
         {
           "text": "플랫폼",
-          "count": 13
-        },
-        {
-          "text": "소방산업",
-          "count": 13
-        },
-        {
-          "text": "대구",
           "count": 13
         },
         {
@@ -18432,11 +18424,7 @@
           "count": 11
         },
         {
-          "text": "지능",
-          "count": 11
-        },
-        {
-          "text": "엑스코",
+          "text": "소방산업",
           "count": 11
         },
         {
@@ -18448,12 +18436,20 @@
           "count": 10
         },
         {
-          "text": "인공",
+          "text": "지능",
           "count": 10
         },
         {
-          "text": "국제소방안전박람회",
+          "text": "대구",
           "count": 10
+        },
+        {
+          "text": "엑스코",
+          "count": 10
+        },
+        {
+          "text": "인공",
+          "count": 9
         },
         {
           "text": "국립소방연구원",
@@ -18488,6 +18484,10 @@
           "count": 8
         },
         {
+          "text": "국제소방안전박람회",
+          "count": 8
+        },
+        {
           "text": "소방청장",
           "count": 8
         },
@@ -18504,10 +18504,6 @@
           "count": 7
         },
         {
-          "text": "체결",
-          "count": 7
-        },
-        {
           "text": "토론회",
           "count": 7
         },
@@ -18520,15 +18516,7 @@
           "count": 7
         },
         {
-          "text": "최대",
-          "count": 6
-        },
-        {
           "text": "서비스",
-          "count": 6
-        },
-        {
-          "text": "규모",
           "count": 6
         },
         {
@@ -18544,15 +18532,15 @@
           "count": 6
         },
         {
+          "text": "체결",
+          "count": 6
+        },
+        {
           "text": "예방",
           "count": 6
         },
         {
           "text": "구조",
-          "count": 6
-        },
-        {
-          "text": "필리핀",
           "count": 6
         },
         {
@@ -18584,6 +18572,10 @@
           "count": 5
         },
         {
+          "text": "규모",
+          "count": 5
+        },
+        {
           "text": "대비",
           "count": 5
         },
@@ -18604,15 +18596,7 @@
           "count": 5
         },
         {
-          "text": "첨단",
-          "count": 5
-        },
-        {
           "text": "미래",
-          "count": 5
-        },
-        {
-          "text": "전문",
           "count": 5
         },
         {
@@ -18637,6 +18621,10 @@
         },
         {
           "text": "교육",
+          "count": 5
+        },
+        {
+          "text": "필리핀",
           "count": 5
         },
         {
@@ -18704,10 +18692,6 @@
           "count": 4
         },
         {
-          "text": "소방기술",
-          "count": 4
-        },
-        {
           "text": "발굴",
           "count": 4
         },
@@ -18716,11 +18700,7 @@
           "count": 4
         },
         {
-          "text": "로봇",
-          "count": 4
-        },
-        {
-          "text": "드론",
+          "text": "첨단",
           "count": 4
         },
         {
@@ -18808,6 +18788,10 @@
           "count": 3
         },
         {
+          "text": "최대",
+          "count": 3
+        },
+        {
           "text": "소방정감",
           "count": 3
         },
@@ -18888,11 +18872,19 @@
           "count": 3
         },
         {
-          "text": "박람회",
+          "text": "소방기술",
           "count": 3
         },
         {
-          "text": "한자리",
+          "text": "로봇",
+          "count": 3
+        },
+        {
+          "text": "드론",
+          "count": 3
+        },
+        {
+          "text": "전문",
           "count": 3
         },
         {
@@ -18985,6 +18977,14 @@
         },
         {
           "text": "한국",
+          "count": 3
+        },
+        {
+          "text": "우즈베키스탄",
+          "count": 3
+        },
+        {
+          "text": "대표자",
           "count": 3
         }
       ]
