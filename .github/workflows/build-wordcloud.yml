@@ -40,6 +40,11 @@ jobs:
           pip install kiwipiepy
 
       - name: Build wordcloud.json
+        env:
+          # ★ Gemini 의미 선별(A) — 멀티키 리볼빙. 줄바꿈/콤마로 키 여러 개 등록 권장.
+          #   미설정 시 자동 폴백(확장 불용어 + keyness)이라 빌드는 깨지지 않음.
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python .github/scripts/build_wordcloud.py
 
       - name: Commit & push wordcloud.json (if changed)
