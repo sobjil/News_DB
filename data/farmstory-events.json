@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "retentionDays": 7,
-  "count": 135,
+  "count": 134,
   "events": [
     {
       "id": "156766052",
@@ -314,19 +314,6 @@
       "emoji": "📰",
       "flavor": "기상청에서 기상관측장비사전을 발간했다는데, 날씨 공부를 해서 우리 농장 경영에 조금이나마 보탬이 되도록 해봐야겠어요!",
       "weight": 2
-    },
-    {
-      "id": "156765870",
-      "agency": "산림청",
-      "title": "산림청 무주국유림관리소, 국유림 이용실태 점검 나선다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765870&call_from=rsslink",
-      "pubDate": "2026-06-10T00:08:37+00:00",
-      "scope": "농사",
-      "kind": "시세악재",
-      "strength": "약",
-      "emoji": "🥀",
-      "flavor": "국유림 대부지 실태조사가 시작된다고 하니, 혹시 우리 산나물 재배지에 위반 사항이 없는지 꼼꼼히 점검해봐야겠어요!",
-      "weight": 5
     },
     {
       "id": "156766224",
