@@ -5,7 +5,14 @@
 import fs from 'fs';
 
 const AGENCIES = ['농림축산식품부', '해양수산부', '행정안전부', '기후에너지환경부', '기상청', '산림청'];
-const KEYS = [1, 2, 3, 4, 5].map(i => process.env['GEMINI_API_KEY_' + i]).filter(Boolean);
+// Gemini 키: GEMINI_API_KEYS(줄바꿈/콤마, 여러 개) 우선 + GEMINI_API_KEY_1..20(레거시) + GEMINI_API_KEY(단일). 중복 제거.
+const KEYS = (() => {
+  const out = [];
+  for (const k of (process.env.GEMINI_API_KEYS || '').split(/[\n,\s]+/)) { const t = k.trim(); if (t) out.push(t); }
+  for (let i = 1; i <= 20; i++) { const v = (process.env['GEMINI_API_KEY_' + i] || '').trim(); if (v) out.push(v); }
+  const single = (process.env.GEMINI_API_KEY || '').trim(); if (single) out.push(single);
+  return [...new Set(out)];
+})();
 const MODELS = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
 const RETAIN_DAYS = 7, MAX_CALLS = 40;
 // AI의 direction → 게임 이벤트 kind(engine/events.js가 효과 수치 매핑)
@@ -48,7 +55,7 @@ const cand = articles
   .filter(a => AGENCIES.includes(a.agency) && ts(a.pubDate) >= cutoff && !have.has(idOf(a)))
   .sort((a, b) => ts(b.pubDate) - ts(a.pubDate));
 
-if (!KEYS.length) { console.error('GEMINI_API_KEY 없음 — 분류 생략(기존 풀 유지)'); }
+if (!KEYS.length) { console.error('GEMINI_API_KEYS 없음 — 분류 생략(기존 풀 유지)'); }
 
 let added = 0, calls = 0;
 for (const a of cand) {

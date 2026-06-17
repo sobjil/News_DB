@@ -158,9 +158,23 @@ PROMPT_HEADER = (
 
 
 def load_gemini_keys():
-    """GEMINI_API_KEYS(줄바꿈/콤마/공백 구분) 우선, 없으면 GEMINI_API_KEY. 중복 제거(순서 보존)."""
-    raw = os.environ.get("GEMINI_API_KEYS") or os.environ.get("GEMINI_API_KEY") or ""
-    keys = [k.strip() for k in re.split(r"[\n,\s]+", raw) if k.strip()]
+    """
+    Gemini 키 수집(우선순위 합집합, 중복 제거·순서 보존):
+      1) GEMINI_API_KEYS  — 줄바꿈/콤마/공백 구분, 여러 개
+      2) GEMINI_API_KEY_1..20 — ★ News_DB 의 stock-portfolio·farmstory 워크플로와 공유하는
+         기존 컨벤션. 이미 등록된 키를 추가 설정 없이 그대로 재사용.
+      3) GEMINI_API_KEY   — 단일
+    """
+    keys = []
+    raw = os.environ.get("GEMINI_API_KEYS") or ""
+    keys += [k.strip() for k in re.split(r"[\n,\s]+", raw) if k.strip()]
+    for i in range(1, 21):
+        v = (os.environ.get(f"GEMINI_API_KEY_{i}") or "").strip()
+        if v:
+            keys.append(v)
+    single = (os.environ.get("GEMINI_API_KEY") or "").strip()
+    if single:
+        keys.append(single)
     seen, out = set(), []
     for k in keys:
         if k not in seen:
