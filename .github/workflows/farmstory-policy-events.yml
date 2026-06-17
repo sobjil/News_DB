@@ -1,6 +1,6 @@
 # 경북귀농일기 정책 돌발 이벤트 풀 — 매일 정부 보도자료를 Gemini로 분류·서사 생성.
 # 결과 data/farmstory-events.json 은 게임이 정적 fetch (사용자 키 불필요).
-# 필요 시크릿: GEMINI_API_KEY_1..5 (stock-portfolio-ai 와 공유, 추가 설정 불필요)
+# 필요 시크릿: GEMINI_API_KEYS (줄바꿈/콤마로 키 여러 개 — 저장소 공용 멀티키)
 name: farmstory-policy-events
 
 on:
@@ -25,11 +25,7 @@ jobs:
           node-version: "20"
       - name: Build policy event pool
         env:
-          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
-          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
-          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
-          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
-          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
         run: node scripts/build-farmstory-events.mjs
       - name: Commit & push
         run: |
