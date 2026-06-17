@@ -4,8 +4,7 @@ name: stock-portfolio-ai-report
 # News_DB 는 public repo 라 Actions 무제한 무료. 데이터는 public 에 올라가지 않는다.
 # 이 파일은 sobjil/News_DB 저장소의 .github/workflows/stock-portfolio-ai.yml 에 둔다.
 # 필요 시크릿(News_DB 저장소): STOCK_PORTFOLIO_PAT, GEMINI_API_KEYS (+ FINNHUB_TOKEN 선택)
-#   ★ ai-reports.mjs(private repo)는 GEMINI_API_KEY_1..N 을 읽으므로, 아래 step 에서
-#     GEMINI_API_KEYS(줄바꿈/콤마)를 GEMINI_API_KEY_1..N 으로 분해해 주입(private 스크립트 무수정).
+#   ai-reports.mjs(private repo)가 GEMINI_API_KEYS 를 직접 읽음(번호 키·단일 키 폴백 내장).
 # 트리거: AISpace(항상 켜진 server.js)가 workflow_dispatch 로 정시 호출(지연 X). schedule cron 미사용.
 #   - mode=us_portfolio : KST 07:00 (미국 종목 리포트 + 포트폴리오/주간/월간). 화~토(스크립트가 일·월 휴장 판단)
 #   - mode=krhk         : KST 19:00 (한국·홍콩 종목 리포트). 월~금(스크립트가 토·일 휴장 판단)
@@ -65,19 +64,7 @@ jobs:
           FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
           AI_DRY_RUN: ${{ inputs.dry_run }}
           AI_MODE: ${{ inputs.mode }}
-        run: |
-          # GEMINI_API_KEYS(줄바꿈/콤마) → GEMINI_API_KEY_1..N (private ai-reports.mjs 가 번호 키를 읽음)
-          # mapfile + 프로세스 치환(서브셸 X)이라 export 가 node 실행까지 유지됨.
-          mapfile -t _LINES < <(printf '%s' "$GEMINI_API_KEYS" | tr ',' '\n')
-          i=0
-          for k in "${_LINES[@]}"; do
-            k="$(printf '%s' "$k" | tr -d '[:space:]')"
-            if [ -z "$k" ]; then continue; fi
-            i=$((i+1))
-            export "GEMINI_API_KEY_$i=$k"
-          done
-          echo "synthesized $i Gemini key(s) from GEMINI_API_KEYS"
-          node scripts/ai-reports.mjs
+        run: node scripts/ai-reports.mjs
 
       - name: Commit & push back
         if: steps.guard.outputs.ready == 'true'
