@@ -3,14 +3,15 @@ name: Build Wordcloud
 # GDI-Apps WeeklyBrief 의 "최근 한 달간의 주요 이슈" 워드클라우드 데이터 빌드.
 # data/articles.json 의 30일치 기사를 kiwipiepy 로 형태소 분석 → data/wordcloud.json 생성.
 #
-# 메인 trigger: AISpace nodejs (server.js) 의 setInterval (매시간 workflow_dispatch).
-# 안전망: GHA schedule 매 6시간 (server.js cron 작동 X 시 build).
+# 트리거: GHA schedule 하루 2회 — KST 12:00·00:00 (UTC 03:00·15:00).
+#   ★ Gemini 키 사용량 절감 위해 하루 2회로 제한(2026-06-17, 사용자 요청). 매시간 server.js 트리거 폐지.
+#   GHA cron 은 재배포·재시작에 영향받지 않아 정확히 하루 2회만 실행됨(서버 setInterval 의 부팅 재실행 문제 X).
 # 수동 트리거: Actions 탭 [Run workflow].
 
 on:
   schedule:
-    - cron: '33 */6 * * *'   # 매 6시간 33분 (안전망 — 메인은 server.js setInterval)
-  workflow_dispatch: {}      # 메인 트리거 (server.js 가 호출)
+    - cron: '0 3,15 * * *'   # UTC 03:00·15:00 = KST 12:00·00:00 (하루 2회)
+  workflow_dispatch: {}      # 수동 트리거
 
 permissions:
   contents: write          # data/wordcloud.json auto-commit 위해 필요
