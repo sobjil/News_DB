@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T10:36:06.998953+00:00",
-  "count": 2718,
+  "updated": "2026-06-24T10:51:08.671795+00:00",
+  "count": 2719,
   "retentionDays": 30,
   "agencies": [
     "개인정보보호위원회",
@@ -55,6 +55,26 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "연기금투자풀, 연기금용 국민성장펀드 최단기간 내 누적모집금액 1,100억 달성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767959&call_from=rsslink",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-06-24T09:55:48+00:00",
+      "description": "자세한 내용은 첨부파일을 확인해 주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198495776&tblKey=GMN",
+          "filename": "(보도자료) 연기금투자풀 국민성장펀드 1100억원 달성.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198495775&tblKey=GMN",
+          "filename": "(보도자료) 연기금투자풀 국민성장펀드 1100억원 달성.pdf"
+        }
+      ]
+    },
     {
       "title": "품종에서 가공까지! 다래 그린바이오 산업화 - 국립산림과학원, 「5극3특」 지역활성화 연계해 다래 산업 전 주기 기술 공유 -",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767958&call_from=rsslink",
@@ -841,7 +861,7 @@
       ]
     },
     {
-      "title": "정부, 소프트웨어(SW) 공급망 보안 로드맵 발표",
+      "title": "정부, 소프트웨어(SW) 공급망 보안 단계별 이행안(로드맵) 발표",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767904&call_from=rsslink",
       "agency": "과학기술정보통신부",
       "agencyCode": "msit",
