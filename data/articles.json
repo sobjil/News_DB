@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:36:02.169712+00:00",
+  "updated": "2026-06-27T09:50:46.311874+00:00",
   "count": 2562,
   "retentionDays": 30,
   "agencies": [
@@ -55,6 +55,26 @@
     "행정안전부"
   ],
   "articles": [
+    {
+      "title": "[설명] 정부는 9.7대책 올해 목표 26.8만호 달성을 위해 전방위적인 노력을 다하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768412&call_from=rsslink",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-06-27T09:24:00+00:00",
+      "description": "[설명] 정부는 9.7대책 올해 목표 26.8만호 달성을 위해 전방위적인 노력을 다하고 있습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198497549&tblKey=GMN",
+          "filename": "260627(설명) 정부는 9.7대책 올해 목표 26.8만호 달성을 위해 전방위적인 노력을 다하고 있습니다.(주택공급정책과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198497550&tblKey=GMN",
+          "filename": "260627(설명) 정부는 9.7대책 올해 목표 26.8만호 달성을 위해 전방위적인 노력을 다하고 있습니다.(주택공급정책과 등).pdf"
+        }
+      ]
+    },
     {
       "title": "김진아 2차관, 「제2차 팍스 실리카 서밋」 참석",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768404&call_from=rsslink",
@@ -52157,26 +52177,6 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198477887&tblKey=GMN",
           "filename": "260529(보도참고)「국민참여형 국민성장펀드」전체 모집금액 6 000억원 완판(5.29일).hwp"
-        }
-      ]
-    },
-    {
-      "title": "볼리비아 전역 여행경보 상향 조정",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764148&call_from=rsslink",
-      "agency": "외교부",
-      "agencyCode": "mofa",
-      "pubDate": "2026-05-28T09:46:02+00:00",
-      "description": "외교부는 최근 볼리비아 전역에서 시위 및 도로 봉쇄가 지속되는 등 치안 상황이 악화되어 우리 국민 안전이 우려됨에 따라, 5.28.(목) 19:00부로 볼리비아 라파스 주에 여행경보 3단계(출국권고), 그 외 기존 2단계(여행자제) 발령 지역에 특별여행주의보를 발령한다. 태양의 섬에 대한 기존 3단계 여행경보는 그대로 유지된다. ※ 금번 조정 후 볼리비아 여행경보 현황 - 3단계(출국권고) : 라파스 주, 태양의 섬 - 특별여행주의보 : 3단계 지정 지역 외 전역 이에 따라, 외교부는 볼리비아를 여행할 예정인 우리 국민은 방문을 취",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198476464&tblKey=GMN",
-          "filename": "[26-431](보도자료) 볼리비아 전역 여행경보 상향 조정.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198476465&tblKey=GMN",
-          "filename": "[26-431](보도자료) 볼리비아 전역 여행경보 상향 조정.pdf"
         }
       ]
     }
