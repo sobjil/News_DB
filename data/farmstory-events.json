@@ -1,47 +1,8 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "retentionDays": 7,
   "count": 119,
   "events": [
-    {
-      "id": "156770446",
-      "agency": "행정안전부",
-      "title": "폭염 대비 우수사례 현장 예방정책에 적극 활용한다!",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156770446",
-      "pubDate": "2026-07-11T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "정부에서 배포한 폭염 대비 우수사례집 덕분에 올여름 무더위 예방 대책을 우리 농장에도 든든하게 적용해 볼 수 있겠어요!",
-      "weight": 2
-    },
-    {
-      "id": "156770456",
-      "agency": "행정안전부",
-      "title": "재난안전관리본부장, 폭염 취약계층 보호 위해 동자동 쪽방촌 방문",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156770456",
-      "pubDate": "2026-07-11T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "서울 쪽방촌의 폭염 대비 지원 소식이 들려오지만, 우리 경북 농장에는 직접적인 영향이 없어요.",
-      "weight": 1
-    },
-    {
-      "id": "156770457",
-      "agency": "농림축산식품부",
-      "title": "전북 순창 한우농장 럼피스킨 발생",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156770457",
-      "pubDate": "2026-07-11T00:00:00+09:00",
-      "scope": "축산",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "이웃 동네 전북에서 럼피스킨이 발생했다는 소식에 우리 농장 한우들도 아프지 않게 방역을 단단히 해야겠어요.",
-      "weight": 5
-    },
     {
       "id": "156770461",
       "agency": "행정안전부",
@@ -1548,6 +1509,45 @@
       "strength": "중",
       "emoji": "💰",
       "flavor": "정부에서 농어촌 기본소득과 비료, 사료비 지원금을 보내주어 우리 농장 살림에 큰 도움이 되었어요!",
+      "weight": 5
+    },
+    {
+      "id": "156771204",
+      "agency": "농림축산식품부",
+      "title": "(농촌소득에너지정책관-농업재해지원팀) 농식품부, 제헌절 연휴 집중호우 대비 상황 긴급점검(7.17 배포 시)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771204",
+      "pubDate": "2026-07-17T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "재해",
+      "strength": "강",
+      "emoji": "🌀",
+      "flavor": "제헌절 연휴 동안 전국적으로 매우 강한 집중호우가 예보되었으니, 우리 농장에 피해가 없도록 시설물을 미리 꼼꼼히 점검해야겠어요!",
+      "weight": 5
+    },
+    {
+      "id": "156771208",
+      "agency": "행정안전부",
+      "title": "윤호중 장관, 연휴 기간 호우 대응 공백 없도록 관계기관 긴급회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771208",
+      "pubDate": "2026-07-17T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "재해",
+      "strength": "중",
+      "emoji": "🌀",
+      "flavor": "올여름 가장 많은 비가 내린다고 하니, 우리 농장도 배수로를 미리 점검해서 비 피해가 없도록 단단히 대비해야겠어요!",
+      "weight": 5
+    },
+    {
+      "id": "156771211",
+      "agency": "기상청",
+      "title": "올해 첫 ´재난성호우 긴급재난문자´ 발송",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771211",
+      "pubDate": "2026-07-17T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "재해",
+      "strength": "강",
+      "emoji": "🌀",
+      "flavor": "하늘에 구멍이 뚫린 듯한 기록적인 폭우 예보에 긴급재난문자까지 울리니, 얼른 농장 주변 배수로를 점검하고 대비해야겠어요!",
       "weight": 5
     }
   ]
