@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:43:48.599136+00:00",
+  "updated": "2026-07-19T22:58:57.692824+00:00",
   "count": 2757,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -132,6 +132,26 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198510261&tblKey=GMN",
           "filename": "(7. 20. 조간 보도자료) 대한민국 밧줄(로프)구조 세계적 경쟁력 강화…국제 기술교류 합동훈련 개최.hwp"
+        }
+      ]
+    },
+    {
+      "title": "'국민의 안전' 을 지키는 새로운 법무부…정성호 법무부 취임 1년 성적표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771278",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-07-20T00:00:00+09:00",
+      "description": "'국민의 안전' 을 지키는 새로운 법무부…정성호 법무부 취임 1년 성적표 - 민생범죄 집중 단속…보이스피싱·마약·가상자산 범죄 강력 대응 - 상법 개정·담합 적발…경제질서 확립·주주권 보호 확대 - 피해자 지원·과거사 정리 병행…\"인권·정의 회복\" 강조 - 민생 법안 38건 통과' 역대 최다… 정성호 법무부 '일하는 부처' 우뚝 법무부는 정성호 장관 취임 1주년을 맞아 △범죄로부터 안전한 나라, △경제활성화를 지원하는 실용 법무행정, △인권의 가치를 존중하는 사회, △과거를 바로 세우고 미래를 향한 법무 혁신 등 4대 분야 주요 성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510266&tblKey=GMN",
+          "filename": "(보도자료) ‘국민의 안전&#039;을 지키는 새로운 법무부…정성호 법무부 취임 1년 성적표(배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510265&tblKey=GMN",
+          "filename": "(보도자료) ‘국민의 안전&#039;을 지키는 새로운 법무부…정성호 법무부 취임 1년 성적표(배포즉시보도).pdf"
         }
       ]
     },
@@ -56660,26 +56680,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198493261&tblKey=GMN",
           "filename": "[6.20.토 토론회 시작(14시) 이후] 지역 의료의 길, 주민과 전공의에게 묻는다.pdf"
-        }
-      ]
-    },
-    {
-      "title": "중동평화 정부대표, 유엔 사무총장 중동특사 화상 면담",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767375&call_from=rsslink",
-      "agency": "외교부",
-      "agencyCode": "mofa",
-      "pubDate": "2026-06-19T22:58:19+00:00",
-      "description": "이경철 외교부 중동평화 정부대표는 6.19.(금) 저녁 장 아르노(Jean Arnault) 유엔 사무총장 중동특사(Personal Envoy of the UN Secretary-General on the Middle East Conflict and its Consequences, 3.25.(수) 임명)와 화상 면담을 갖고, 중동지역 분쟁 상황 및 최근 미국-이란 간 양해각서(MOU) 서명 등 주요 동향에 관해 의견을 교환하였다. 이 대표와 아르노 특사는 향후 중동지역의 평화와 안정의 조속한 실현을 희망하는 한편, 관련 사안에 대해 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198493242&tblKey=GMN",
-          "filename": "[26-501](보도자료) 중동평화 정부대표, 유엔 사무총장 중동특사 화상 면담.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198493243&tblKey=GMN",
-          "filename": "[26-501](보도자료) 중동평화 정부대표, 유엔 사무총장 중동특사 화상 면담.pdf"
         }
       ]
     }
