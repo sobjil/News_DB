@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T21:58:47.750354+00:00",
-  "count": 2755,
+  "updated": "2026-07-19T22:13:53.122728+00:00",
+  "count": 2757,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -97,6 +97,41 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198510254&tblKey=GMN",
           "filename": "동물실험 줄이고 현장 적응 높인다...대체시험 교육자료 10종 추가 공개(보도자료)(과학원 7.20).pdf"
+        }
+      ]
+    },
+    {
+      "title": "'26년 ?토착비리 특별단속? 중간성과및 확대 추진 계획",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771277",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-07-20T00:00:00+09:00",
+      "description": "'26년 토착비리 특별단속 중간성과및 확대 추진 계획 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510263&tblKey=GMN",
+          "filename": "260720(조간용) 26년 토착비리 특별단속 중간성과 및 확대 추진 계획(반부패공공범죄).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510262&tblKey=GMN",
+          "filename": "260720(조간용) 26년 토착비리 특별단속 중간성과 및 확대 추진 계획(반부패공공범죄).pdf"
+        }
+      ]
+    },
+    {
+      "title": "대한민국 밧줄(로프)구조 세계적 경쟁력 강화…국제 기술교류 합동훈련 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771276",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-07-20T00:00:00+09:00",
+      "description": "﻿﻿﻿대한민국 밧줄(로프)구조 세계적 경쟁력 강화... 국제 기술교류 합동훈련 개최 - 소방청, 전국 25개 기관 160명의 구조대원 참여…실습 중심 2박 3일 집중 훈련- 일본 밧줄(로프)구조 전문가 특별 초청 합동훈련 및 국제 구조기술 선도□ 소방청 중앙119구조본부는 이달 20일(월)부터 22일(수)까지 3일간 전남 화순 호남119특수구조대 및 전남 영암 국제 자동차 경기장에서 '케이(K)-로프 레스큐(ROPE RESCUE)' 국제기술 교류 합동훈련을 개최한다고 밝혔다. ○ 이번 훈련은 국내 밧줄(로프)구조 기술의 국제 경쟁력",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510261&tblKey=GMN",
+          "filename": "(7. 20. 조간 보도자료) 대한민국 밧줄(로프)구조 세계적 경쟁력 강화…국제 기술교류 합동훈련 개최.hwp"
         }
       ]
     },
