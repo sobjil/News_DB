@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T09:58:51.660964+00:00",
-  "count": 2757,
+  "updated": "2026-07-19T10:13:52.368795+00:00",
+  "count": 2758,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -342,6 +342,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198510217&tblKey=GMN",
           "filename": "(국문 사진자료) 0719 국내 최초 ‘제48차 유네스코 세계유산위원회’, 부산 벡스코에서 성공적으로 개회(붙임).pdf"
+        }
+      ]
+    },
+    {
+      "title": "외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771271",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-07-19T00:00:00+09:00",
+      "description": "외교부는 7.19.(일) 오후 김진아 2차관 주재로 중동 지역 17개 공관*과 본부-공관 합동 상황점검회의를 개최하여 중동 지역 정세를 평가하고 현지 우리 국민과 선박의 안전 대책을 점검했다.* 주이란대사관, 주이스라엘대사관, 주쿠웨이트대사관, 주요르단대사관, 주바레인대사관, 주사우디대사관, 주젯다총영사관, 주이라크대사관, 주아르빌분관, 주레바논대사관, 주카타르대사관, 주오만대사관, 주아랍에미리트대사관, 주두바이총영사관, 주예멘대사관, 주이집트대사관, 주에티오피아대사관 김 차관은 \"호르무즈 해협 문제로 재개된 미국과 이란 간 무력 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510225&tblKey=GMN",
+          "filename": "[26-597](보도자료) 외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510226&tblKey=GMN",
+          "filename": "[26-597](보도자료) 외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최.pdf"
         }
       ]
     },
