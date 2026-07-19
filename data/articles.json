@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T09:43:49.233696+00:00",
-  "count": 2756,
+  "updated": "2026-07-19T09:58:51.660964+00:00",
+  "count": 2757,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -322,6 +322,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198510174&tblKey=GMN",
           "filename": "260719_한성숙 국무총리 주재 중소기업협단체 오찬 간담회 보도자료.pdf"
+        }
+      ]
+    },
+    {
+      "title": "국내 최초 '제48차 유네스코 세계유산위원회', 부산 벡스코에서 성공적으로 개회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771269",
+      "agency": "국가유산청",
+      "agencyCode": "khs",
+      "pubDate": "2026-07-19T00:00:00+09:00",
+      "description": "- 이재명 대통령, 칼레드 엘에나니 유네스코 사무총장 등 참석해 국제 협력과 문화의 힘 강조… 개회식(7.19.)- 오는 29일까지 11일간의 여정 시작… 개최국 공식 전시관 '대한민국관' 운영 및 세계유산 매거진·지도 온라인 배포 국가유산청(청장 허민)은 유네스코와 함께 7월 19일 오후 6시 부산 벡스코에서 열린 '제48차 유네스코 세계유산위원회(이하 '위원회')'의 개회식을 통해 국내 최초로 개최되는 위원회의 시작을 알렸다. 개회식은 이재명 대통령, 칼레드 엘에나니(Khaled El-Enany) 유네스코 사무총장, 허민 국가유",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510218&tblKey=GMN",
+          "filename": "(국문 보도자료) 0719 국내 최초 ‘제48차 유네스코 세계유산위원회’, 부산 벡스코에서 성공적으로 개회(본문).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510217&tblKey=GMN",
+          "filename": "(국문 사진자료) 0719 국내 최초 ‘제48차 유네스코 세계유산위원회’, 부산 벡스코에서 성공적으로 개회(붙임).pdf"
         }
       ]
     },
