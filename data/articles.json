@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T20:58:49.051469+00:00",
-  "count": 2753,
+  "updated": "2026-07-19T21:13:54.869967+00:00",
+  "count": 2755,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -60,6 +60,46 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "신축매입임대 자금조달 부담 완화 등 전면 시행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771274",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-07-20T00:00:00+09:00",
+      "description": "신축매입임대 자금조달 부담 완화 등 전면 시행 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510251&tblKey=GMN",
+          "filename": "260720(석간) 신축매입임대 자금조달 부담 완화 등 전면 시행(주거복지지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510252&tblKey=GMN",
+          "filename": "260720(석간) 신축매입임대 자금조달 부담 완화 등 전면 시행(주거복지지원과).pdf"
+        }
+      ]
+    },
+    {
+      "title": "동물실험 줄이고 현장 적응 높인다… 대체시험 교육자료 10종 추가 공개",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771275",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-07-20T00:00:00+09:00",
+      "description": "▷ 동물대체시험법의 원리부터 적용까지 담은 전자책 9종과 실험동영상 1종 공개기후에너지환경부 소속 국립환경과학원(원장 박연재)은 국내 산업계 및 학계 현장 실무자의 동물대체시험법 역량 강화를 위해 동물대체시험법의 원리, 절차, 독성 판정 방법 등을 안내하는 교육자료 10종을 7월 20일 공개한다고 밝혔다. 이번 교육자료는 기후에너지환경부가 추진 중인 '동물대체시험 활성화 계획(2022~2030)'의 주요 과제인 '현장 맞춤형 기반(인프라) 구축'을 이행하기 위해 국립환경과학원의 전문 연구역량을 유기적으로 활용하여 마련됐다.국립환경과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510253&tblKey=GMN",
+          "filename": "동물실험 줄이고 현장 적응 높인다...대체시험 교육자료 10종 추가 공개(보도자료)(과학원 7.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198510254&tblKey=GMN",
+          "filename": "동물실험 줄이고 현장 적응 높인다...대체시험 교육자료 10종 추가 공개(보도자료)(과학원 7.20).pdf"
+        }
+      ]
+    },
     {
       "title": "600만 이용자 감사 이벤트 「모두의카드」와 함께한 이야기를 들려주세요!",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771224",
