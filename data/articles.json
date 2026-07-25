@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T03:57:46.693307+00:00",
-  "count": 2831,
+  "updated": "2026-07-25T04:12:47.201460+00:00",
+  "count": 2830,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -58325,31 +58325,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198496160&tblKey=GMN",
           "filename": "[6.25.보도참고자료] 국립보건연구원, 바이러스 치료제 개발 역량 강화를 위한 연구 교류회 개최.pdf"
-        }
-      ]
-    },
-    {
-      "title": "일하는 저소득 가구에 근로·자녀장려금 1조 8천억 원 지급",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768062&call_from=rsslink",
-      "agency": "국세청",
-      "agencyCode": "nts",
-      "pubDate": "2026-06-25T04:08:00+00:00",
-      "description": "일하는 저소득 가구에 근로·자녀장려금 1조 8천억 원 지급 관련 보도자료 내용입니다. [자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496169&tblKey=GMN",
-          "filename": "(260625)일하는 저소득 가구에 근로·자녀장려금 1조 8천억원 지급.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496171&tblKey=GMN",
-          "filename": "(260625)일하는 저소득 가구에 근로·자녀장려금 1조 8천억원 지급.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496170&tblKey=GMN",
-          "filename": "(260625)일하는 저소득 가구에 근로·자녀장려금 1조 8천억원 지급.hwp"
         }
       ]
     }
