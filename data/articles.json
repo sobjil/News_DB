@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T05:57:48.182763+00:00",
-  "count": 2775,
+  "updated": "2026-07-25T06:12:51.133482+00:00",
+  "count": 2773,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514200&tblKey=GMN",
           "filename": "(국영문 동시배포) 0725 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.)(붙임).pdf"
+        }
+      ]
+    },
+    {
+      "title": "「한국의 갯벌」 2단계, 유네스코 세계유산 등재됐다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772136",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-07-25T00:00:00+09:00",
+      "description": "「한국의 갯벌」 2단계, 유네스코 세계유산 등재됐다 - 제48차 세계유산위원회에서 최종 등재 … 여수·고흥·무안·서산갯벌 포함 해양수산부(장관 황종우)는 제48차 세계유산위원회*에서「한국의 갯벌(Getbol, Korean Tidal Flats)」 2단계가 유네스코 세계유산에 등재되었다고 밝혔다. * 세계유산의 신규 등재와 위험유산의 관리방안, 세계유산기금 운영 등을 결정하는 유네스코의 최고 의사결정기구로서, 7월 19일~29일간 부산에서 진행 이번 결정은 2021년 제44차 세계유산위원회에서 세계유산으로 등재된 「한국의 갯벌」의 경",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514222&tblKey=GMN",
+          "filename": "260725(등재시) 「한국의 갯벌」 2단계 유네스코 세계유산 등재됐다(해양생태과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514221&tblKey=GMN",
+          "filename": "260725(등재시) 「한국의 갯벌」 2단계 유네스코 세계유산 등재됐다(해양생태과).pdf"
         }
       ]
     },
@@ -57032,81 +57052,6 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198496473&tblKey=GMN",
           "filename": "25-3_(즉시보도_통전지)전남_고흥만_풀무치_집단_발생,_공동방제_긴급돌입(지원국).hwp"
-        }
-      ]
-    },
-    {
-      "title": "생명의 시작에서 돌봄의 마지막까지, 걱정없는 기본의료 구현",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768162&call_from=rsslink",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-06-25T06:03:53+00:00",
-      "description": "생명의 시작에서 돌봄의 마지막까지, 걱정없는 기본의료 구현 - 제7차 의료혁신위원회 개최(6.25) - - 간호·간병 서비스, 고위험 산모·신생아 진료 개선 위한 방안 논의 - 정부는 6월 25일(목) 오전 10시 코리아나 호텔(서울 중구 소재)에서 정기현 위원장 주재로 제7차 의료혁신위원회*(이하 '위원회')를 개최하고 간호·간병 개선을 위한 대정부 권고안과 고위험 산모·신생아 진료 개선을 위한 대정부 권고안 등에 대해 논의하였다. * 국민 참여를 통한 의료분야 제도개선 및 의료 혁신을 효과적으로 추진하기 위해 국무총리 소속으로 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496466&tblKey=GMN",
-          "filename": "[6.25.목 브리핑 시작(15시) 이후] 생명의 시작에서 돌봄의 마지막까지, 걱정없는 기본의료 구현.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496467&tblKey=GMN",
-          "filename": "[6.25.목 브리핑 시작(15시) 이후] 생명의 시작에서 돌봄의 마지막까지, 걱정없는 기본의료 구현.pdf"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496468&tblKey=GMN",
-          "filename": "(별첨) 제7차 의료혁신위원회 안건.pdf"
-        }
-      ]
-    },
-    {
-      "title": "농식품부, 정부 비축 국산 콩 공급을 통해 식품기업 원료 수급 안정 추진",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768146&call_from=rsslink",
-      "agency": "조달청",
-      "agencyCode": "pps",
-      "pubDate": "2026-06-25T06:00:00+00:00",
-      "description": "농림축산식품부 ( 장관 송미령 , 이하 ' 농식품부 ') 는 6 월 25 일 서울 aT 센터에서 정부 공급 국산 콩을 사용하는 주요 두부 · 두유 제조업체를 대상으로 ' 국산 콩 사용 확대를 위한 제조업체 간담회 ' 를 개최하였다 . 이번 간담회는 식품업계의 국산 콩 사용 확대를 지원하고 정부 비축 국 산 콩의 안정적인 공급과 유통관리를 위해 마련되었다 . 농식품부는 올해 정부 비축 국산 콩을 활용하여 두부 · 두유 등을 제조하 는 식품기업에 국산 콩 공급을 추진하고 있으며 , 이를 통해 식품기업의 원료 수급 안정을 지원하고 국산 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496418&tblKey=GMN",
-          "filename": "(식량정책관-전략작물육성팀) 농식품부 정부 비축 국산 콩 공급을 통해 식품기업 원료 수급 안정 추진 보도자료(6.26. 조간).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496417&tblKey=GMN",
-          "filename": "(식량정책관-전략작물육성팀) 농식품부 정부 비축 국산 콩 공급을 통해 식품기업 원료 수급 안정 추진 보도자료(6.26. 조간).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496419&tblKey=GMN",
-          "filename": "(식량정책관-전략작물육성팀) 농식품부 정부 비축 국산 콩 공급을 통해 식품기업 원료 수급 안정 추진 보도자료(6.26. 조간).hwp"
-        }
-      ]
-    },
-    {
-      "title": "공정거래위원회-한국공정거래학회 공동 학술대회 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768145&call_from=rsslink",
-      "agency": "공정거래위원회",
-      "agencyCode": "ftc",
-      "pubDate": "2026-06-25T06:00:00+00:00",
-      "description": "공정거래위원회-한국공정거래학회 공동 학술대회 개최 - 공정거래법상 시정조치 제도의 실효성 제고 방안 모색 - · 일 시 : 2026.6.25.(목) 14:00~17:20 · 장 소 : 서울 포스트타워 10층 · 주 최 : 공정거래위원회, 한국공정거래학회 · 주 제 : 공정거래법상 시정조치의 실효성 제고 방안 모색 공정거래위원회(위원장 주병기, 이하 '공정위')는 오늘 한국공정거래학회(학회장 임영재)와 함께 '공정거래법상 시정조치 제도의 실효성 제고 방안 모색'을 주제로 공동학술대회를 개최하였다. 이번 공동 학술대회는 공정위 사건처리",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496415&tblKey=GMN",
-          "filename": "260625(참고) 공정거래위원회-한국공정거래학회 공동 학술대회 개최.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496416&tblKey=GMN",
-          "filename": "260625(참고) 공정거래위원회-한국공정거래학회 공동 학술대회 개최.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496414&tblKey=GMN",
-          "filename": "260625(참고) 공정거래위원회-한국공정거래학회 공동 학술대회 개최.hwp"
         }
       ]
     }
