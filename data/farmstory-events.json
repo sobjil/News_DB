@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "retentionDays": 7,
-  "count": 135,
+  "count": 128,
   "events": [
     {
       "id": "156771275",
@@ -15,58 +15,6 @@
       "emoji": "📰",
       "flavor": "동물대체시험법 교육자료 배포 소식은 우리 농장의 농사나 축산 경영에는 직접적인 영향을 주지 않네요.",
       "weight": 1
-    },
-    {
-      "id": "156771234",
-      "agency": "기후에너지환경부",
-      "title": "'지하수 생태계 생물 탐사대' 1기 모집",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771234",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리 동네 낙동강에서 지하수 생물 탐사대를 모집한다는데, 바쁜 농사일 때문에 멀리서 응원만 보냅니다.",
-      "weight": 1
-    },
-    {
-      "id": "156771233",
-      "agency": "기후에너지환경부",
-      "title": "지연·허수 발전사업 관리 강화…한정된 전력망 이용 효율 높인다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771233",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "전력망 이용 규정이 엄격해졌지만, 다행히 우리 농장의 하루는 큰 영향 없이 평화롭게 흘러가고 있어요.",
-      "weight": 1
-    },
-    {
-      "id": "156771232",
-      "agency": "기후에너지환경부",
-      "title": "수질원격감시 데이터 활용 우수사례 공모… 데이터 기반 과학적 수질관리 확산",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771232",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "정부에서 수질원격감시 데이터 우수사례를 공모한다는데, 우리 농장과는 크게 상관없는 먼 나라 이야기 같네요.",
-      "weight": 1
-    },
-    {
-      "id": "156771244",
-      "agency": "행정안전부",
-      "title": "윤호중 중앙재난안전대책본부장 긴급 지시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771244",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "경북 지역에 내린 집중호우로 인한 피해 복구와 추가 산사태 대비를 위해 정부의 긴급 대응이 시작되었어요!",
-      "weight": 5
     },
     {
       "id": "156771280",
@@ -470,71 +418,6 @@
       "emoji": "📰",
       "flavor": "동해안에서 부상당한 돌고래 '안목이'가 무사히 구조되었다는 따뜻한 소식이 들려왔지만, 우리 농장 경영에는 별다른 영향이 없어요.",
       "weight": 1
-    },
-    {
-      "id": "156771281",
-      "agency": "해양수산부",
-      "title": "\"여름 휴가철 수산물, 안심하고 즐기세요!\"... 원산지 표시 특별점검 실시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771281",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "여름철 수산물 원산지 특별점검 소식에 우리 양식장의 민물장어와 미꾸라지도 원산지 표시판을 한 번 더 꼼꼼히 확인했어요!",
-      "weight": 2
-    },
-    {
-      "id": "156771291",
-      "agency": "해양수산부",
-      "title": "해양 종사자의 사이버안전 역량, 선택이 아닌 필수입니다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771291",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리 어선의 안전한 운항을 위해 해양수산부에서 무료 사이버 안전 교육 참여자를 모집하고 있어요!",
-      "weight": 2
-    },
-    {
-      "id": "156771290",
-      "agency": "해양수산부",
-      "title": "해수부, 세계유산위원회에서 한국 갯벌 가치와 K-씨푸드 우수성 알린다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771290",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "시세호재",
-      "strength": "약",
-      "emoji": "🌾",
-      "flavor": "세계유산위원회에서 K-씨푸드가 대대적으로 홍보된다니, 우리 어장의 수산물 몸값도 덩달아 올라가겠어요!",
-      "weight": 5
-    },
-    {
-      "id": "156771289",
-      "agency": "해양수산부",
-      "title": "제2차 우리동네 새단장 해양쓰레기 정화활동 펼친다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771289",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "바다가 깨끗하게 청소되니 우리 어장의 물고기들이 더 건강하게 자랄 수 있겠어요!",
-      "weight": 2
-    },
-    {
-      "id": "156771288",
-      "agency": "해양수산부",
-      "title": "\"현장 혼선 줄이고, 실효성 높인다\" 선내 안전·보건 기준 개정",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771288",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "선원 안전과 보건 기준이 현장에 맞게 합리적으로 바뀌어 우리 배에서도 한결 편리하고 안전하게 조업을 준비할 수 있게 되었어요!",
-      "weight": 2
     },
     {
       "id": "156771623",
@@ -1757,6 +1640,32 @@
       "emoji": "📰",
       "flavor": "산림청이 드론으로 인근 벌채지를 꼼꼼히 점검해 준 덕분에 여름철 집중호우에도 산사태 걱정 없이 안심하고 농장을 운영할 수 있겠어요!",
       "weight": 2
+    },
+    {
+      "id": "156772136",
+      "agency": "해양수산부",
+      "title": "「한국의 갯벌」 2단계, 유네스코 세계유산 등재됐다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772136",
+      "pubDate": "2026-07-25T00:00:00+09:00",
+      "scope": "어업",
+      "kind": "시세호재",
+      "strength": "약",
+      "emoji": "🌾",
+      "flavor": "우리나라 갯벌이 유네스코 세계유산에 등재되면서 청정 갯벌에서 자란 수산물들의 브랜드 가치가 올라가고 있어요!",
+      "weight": 5
+    },
+    {
+      "id": "156772138",
+      "agency": "행정안전부",
+      "title": "본격적인 폭염 대비 현장 대응상황 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772138",
+      "pubDate": "2026-07-25T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "재해",
+      "strength": "강",
+      "emoji": "🌀",
+      "flavor": "대구와 경북 지역에 본격적인 폭염 중대경보가 내려져 우리 농장도 더위 피해가 없도록 단단히 대비해야겠어요!",
+      "weight": 5
     }
   ]
 }
