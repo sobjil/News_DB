@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T03:27:48.915629+00:00",
-  "count": 2831,
+  "updated": "2026-07-25T03:42:52.842597+00:00",
+  "count": 2832,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -60,6 +60,31 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "「한국의 갯벌」 2단계, 유네스코 세계유산 확대 등재 (7.25.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772132",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-07-25T00:00:00+09:00",
+      "description": "「한국의 갯벌(Getbol, Korean Tidal Flats)」 2단계가 유네스코 세계유산에 등재되었다. 7월 19일부터 부산에서 열리고 있는 제48차 세계유산위원회(7.19.~7.29.)는 7월 25일 오전 회의에서 「한국의 갯벌」의 2단계 확대 등재를 최종 결정하였다. 이번 결정은 2021년 제44차 세계유산위원회에서 세계유산으로 등재된 「한국의 갯벌」에 ▲ 여수갯벌, ▲ 고흥갯벌, ▲ 무안갯벌, ▲ 서산갯벌을 추가하고, 기존에 등재된 유산의 경계를 확대하는 중대한 경계 변경을 승인한 것이다. 이에 따라 「한국의 갯벌」은 기존",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514167&tblKey=GMN",
+          "filename": "[26-630](공동보도자료) 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.).hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514169&tblKey=GMN",
+          "filename": "(붙임) 사진자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514168&tblKey=GMN",
+          "filename": "[26-630](공동보도자료) 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.).pdf"
+        }
+      ]
+    },
     {
       "title": "스마트도시산업 통계 특수분류 제정으로 산업육성 토대 마련한다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772008",
