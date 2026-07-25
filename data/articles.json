@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T05:27:49.885128+00:00",
+  "updated": "2026-07-25T05:42:52.831239+00:00",
   "count": 2786,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -82,6 +82,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514168&tblKey=GMN",
           "filename": "[26-630](공동보도자료) 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.).pdf"
+        }
+      ]
+    },
+    {
+      "title": "(국영문 동시배포) 「한국의 갯벌」 2단계, 유네스코 세계유산 확대 등재 (7.25.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772134",
+      "agency": "국가유산청",
+      "agencyCode": "khs",
+      "pubDate": "2026-07-25T00:00:00+09:00",
+      "description": "「한국의 갯벌(Getbol, Korean Tidal Flats)」 2단계가 유네스코 세계유산에 등재되었다. 7월 19일부터 부산에서 열리고 있는 제48차 세계유산위원회(7.19.~7.29.)는 7월 25일 오전 회의에서 「한국의 갯벌」의 2단계 확대 등재를 최종 결정하였다. 이번 결정은 2021년 제44차 세계유산위원회에서 세계유산으로 등재된 「한국의 갯벌」에 ▲ 여수갯벌, ▲ 고흥갯벌, ▲ 무안갯벌, ▲ 서산갯벌을 추가하고, 기존에 등재된 유산의 경계를 확대하는 중대한 경계 변경을 승인한 것이다. 이에 따라 「한국의 갯벌」은 기존",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514201&tblKey=GMN",
+          "filename": "(국영문 동시배포) 0725 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.)(본문).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514200&tblKey=GMN",
+          "filename": "(국영문 동시배포) 0725 「한국의 갯벌」 2단계 유네스코 세계유산 확대 등재 (7.25.)(붙임).pdf"
         }
       ]
     },
@@ -57357,31 +57377,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198496406&tblKey=GMN",
           "filename": "[26-513](보도자료) 외교부-글로벌펀드, 우리 바이오기업 대상 조달포럼 개최.pdf"
-        }
-      ]
-    },
-    {
-      "title": "2026 국가데이터연구 심포지엄 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768137&call_from=rsslink",
-      "agency": "국가데이터처",
-      "agencyCode": "mods",
-      "pubDate": "2026-06-25T05:30:00+00:00",
-      "description": "국가데이터처(처장 안형준)는 6월 25일(목) 대전 통계센터에서 「2026 국가데이터연구 심포지엄」을 개최하였다. 2011년부터 개최된 동 심포지엄은 작년 국가데이터연구원 출범을 계기로, 국가통계 방법론뿐만 아니라 데이터와 인공지능 전반으로 주제를 넓혀서 다양한 연구성과와 전문지식을 공유·소통하는 장(場)으로 확대되었다. 'AI시대, 국가통계·데이터의 새로운 가치와 활용'을 주제로 열린 이번 행사에서는, 인공지능 대전환이 가속화되는 환경 속에서 인공지능 핵심 자원인 데이터의 가치와 품질·통합 등을 재조명하고, 국가통계 혁신을 위한 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496412&tblKey=GMN",
-          "filename": "국가데이터연구 심포지엄 보도자료.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496413&tblKey=GMN",
-          "filename": "국가데이터연구 심포지엄 보도자료.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496411&tblKey=GMN",
-          "filename": "국가데이터연구 심포지엄 보도자료.hwp"
         }
       ]
     }
