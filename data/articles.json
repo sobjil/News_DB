@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T03:42:52.842597+00:00",
-  "count": 2832,
+  "updated": "2026-07-25T03:57:46.693307+00:00",
+  "count": 2831,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -58350,31 +58350,6 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198496170&tblKey=GMN",
           "filename": "(260625)일하는 저소득 가구에 근로·자녀장려금 1조 8천억원 지급.hwp"
-        }
-      ]
-    },
-    {
-      "title": "산림청, 2026년 소나무재선충병 방제 결과 발표",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768059&call_from=rsslink",
-      "agency": "산림청",
-      "agencyCode": "forest",
-      "pubDate": "2026-06-25T03:43:01+00:00",
-      "description": "산림청, 2026년 소나무재선충병 방제 결과 발표 - 피해고사목 177만그루 발생, 309만그루 제거, 수종전환 3,126ha - 산림청(청장 박은식)은 2025년 6월 1일부터 2026년 5월 31일까지 전국 16개 시·도(166개 시·군·구)의 '2026년 소나무재선충병 방제 결과'를 발표했다. 이번 방제기간 동안 전국에서 소나무재선충병 피해고사목은 177만 그루가 발생했고, 소나무재선충병이 집단·반복 발생하거나 산불 등으로 피해우려가 큰 특별방제구역은 19만 헥타르(이하 ha)로 확대됐다. 이는 전년 대비해 피해고사목이 28만",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496135&tblKey=GMN",
-          "filename": "(260625)보도자료-소나무재선충병_발생_및_방제_결과발표.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496137&tblKey=GMN",
-          "filename": "(260625)보도자료-소나무재선충병_발생_및_방제_결과발표.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198496136&tblKey=GMN",
-          "filename": "(260625)보도자료-소나무재선충병_발생_및_방제_결과발표.hwp"
         }
       ]
     }
