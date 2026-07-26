@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T22:56:16.628308+00:00",
-  "count": 2631,
+  "updated": "2026-07-26T23:11:20.267026+00:00",
+  "count": 2633,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -97,6 +97,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514550&tblKey=GMN",
           "filename": "260727-중기부_100년을_이어갈_지역_대표_백년가게_백년소상공인_300개사_신규_지정.pdf"
+        }
+      ]
+    },
+    {
+      "title": "글로벌 TOP 벤처캐피털(VC)과 함께하는 '실리콘밸리 벤처투자 밋업' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772183",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "중소벤처기업부(장관직무대행 제1차관 노용석, 이하 중기부)는 현지시간 7월 25일(토), 미국 샌프란시스코 실리콘밸리에서, 이재명 대통령이 주재하고 실리콘밸리를 대표하는 톱(TOP) 벤처캐피털(이하 VC)이 참여하는 「실리콘밸리 벤처투자 밋업」을 개최했다고 밝혔다. 이번 행사에서는 1부에서 국민연금공단과 6개 실리콘밸리 VC가 투자협력 양해각서(MOU)를 체결하고, 2부에서는 한국과 미국의 벤처투자 생태계 현황과 글로벌 투자 협력 방안을 논의하는 라운드테이블이 진행됐다. 행사에는 앤드리슨 호로위츠, 제너럴 캐털리스트, 코슬라 벤처스",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514554&tblKey=GMN",
+          "filename": "260726_글로벌_TOP_벤처캐피털VC과_함께하는_‘실리콘밸리_벤처투자_밋업’_개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514555&tblKey=GMN",
+          "filename": "260726_글로벌_TOP_벤처캐피털VC과_함께하는_‘실리콘밸리_벤처투자_밋업’_개최.pdf"
         }
       ]
     },
@@ -402,6 +422,31 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198514348&tblKey=GMN",
           "filename": "260727(조간) 파형관 입찰담합 제재.hwp"
+        }
+      ]
+    },
+    {
+      "title": "기상청 인사발령(4급 승진)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772182",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-07-26T00:00:00+09:00",
+      "description": "기상청 인사발령- 2026년 7월 27일 자 -□ 4급 승진ㅇ 수도권기상청 관측과장이혁제",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514551&tblKey=GMN",
+          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514553&tblKey=GMN",
+          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514552&tblKey=GMN",
+          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).hwp"
         }
       ]
     },
