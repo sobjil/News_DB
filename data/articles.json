@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T23:41:14.185893+00:00",
-  "count": 2637,
+  "updated": "2026-07-26T23:56:18.089910+00:00",
+  "count": 2638,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -192,6 +192,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514556&tblKey=GMN",
           "filename": "[0727]문체부보도자료-제3회 대한민국 저작권 보호 대상 후보자 공모.pdf"
+        }
+      ]
+    },
+    {
+      "title": "한국, 드론 사이버보안 국제표준 주도",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772189",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "한국, 드론 사이버보안 국제표준 주도- 국제표준화기구(ISO) 드론 사이버보안 작업반 초대 의장 수임 한국이 드론 사이버보안의 국제표준 논의를 주도하게 되었다. 국제표준화기구 ISO는 7월 24일 벨기에 브뤼셀에서 열린 ISO/TC20/SC16 분과위원회* 제21차 총회에서 드론 사이버보안 표준 작업반(WG10)의 신규 설립을 승인하고, 한국의 이종혁 교수(세종대 정보보호학과)를 초대 의장으로 선임하였다. * ISO/TC20/SC16 Uncrewed Aircraft Systems(무인기(드론)) Subcommittee, 한국/미국/",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514578&tblKey=GMN",
+          "filename": "0724(27조간)기계융합산업표준과, 한국, 드론 사이버보안 국제표준 주도.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514577&tblKey=GMN",
+          "filename": "0724(27조간)기계융합산업표준과, 한국, 드론 사이버보안 국제표준 주도.pdf"
         }
       ]
     },
