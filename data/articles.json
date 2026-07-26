@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T08:42:46.839721+00:00",
-  "count": 2641,
+  "updated": "2026-07-26T08:57:46.791778+00:00",
+  "count": 2640,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -54353,21 +54353,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198497426&tblKey=GMN",
           "filename": "260626 (즉시) 베네수엘라 강진 계기 국내 지진 대응체계 점검(지진방재관리과).pdf"
-        }
-      ]
-    },
-    {
-      "title": "해경청, 총경 승진심사 결과 알림",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768385&call_from=rsslink",
-      "agency": "해양경찰청",
-      "agencyCode": "kcg",
-      "pubDate": "2026-06-26T08:48:54+00:00",
-      "description": "[자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198497408&tblKey=GMN",
-          "filename": "260626+(보도자료)+해양경찰청,+2026년+총경+승진심사+결과+알림.hwp"
         }
       ]
     }
