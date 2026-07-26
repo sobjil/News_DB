@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T22:26:15.109242+00:00",
-  "count": 2630,
+  "updated": "2026-07-26T22:41:17.188178+00:00",
+  "count": 2631,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -77,6 +77,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514540&tblKey=GMN",
           "filename": "(안전원 7.27) 주민과 함께 만드는 지역 화학안전… 시민학교 경남권·수도권 확대(보도자료).pdf"
+        }
+      ]
+    },
+    {
+      "title": "중기부, 100년을 이어갈 지역 대표 '백년가게·백년소공인' 300개사 신규 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772181",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 7월 27일(월), 오랜 경험과 기술을 바탕으로 지역사회 발전에 기여해 온 우수 소상공인의 성공모델을 육성·확산하기 위해 2026년 백년소상공인 300개사(백년가게 150개사, 백년소공인 150개사)를 신규 지정했다고 밝혔다. 백년소상공인은 장기간 사업을 운영하며 지역사회 발전에 기여하고, 축적된 경험과 기술을 바탕으로 지속적인 성장이 기대되는 소상공인을 말한다. 이 가운데 '백년가게'는 30년 이상 음식점·도소매업 등을 운영하며 신뢰를 쌓아온 소상공인을 대상으로 하며,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514549&tblKey=GMN",
+          "filename": "260727-중기부_100년을_이어갈_지역_대표_백년가게_백년소상공인_300개사_신규_지정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514550&tblKey=GMN",
+          "filename": "260727-중기부_100년을_이어갈_지역_대표_백년가게_백년소상공인_300개사_신규_지정.pdf"
         }
       ]
     },
