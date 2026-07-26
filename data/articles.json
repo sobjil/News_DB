@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T02:13:04.978580+00:00",
-  "count": 2682,
+  "updated": "2026-07-26T02:27:48.461905+00:00",
+  "count": 2681,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -55163,26 +55163,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198497125&tblKey=GMN",
           "filename": "[260626 즉시보도] AI 범죄 대응 범부처 협의체 출범(부처합동).pdf"
-        }
-      ]
-    },
-    {
-      "title": "한울 2호기, 정기검사 중 임계 허용",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768326&call_from=rsslink",
-      "agency": "원자력안전위원회",
-      "agencyCode": "nssc",
-      "pubDate": "2026-06-26T02:25:50+00:00",
-      "description": "한울 2 호기 , 정기검사 중 임계 허용 - 화재방호체 및 수소재결합기 관련 기술기준 만족 확인 - 원자력안전위원회 ( 위원장 최원호 , 이하 원안위 ) 는 '26 년 5 월 20 일부터 정기 검사를 실시한 한울 2 호기의 임계 * 를 ' 26 년 6 월 26 일 허용 하였다 . * 원자로에서 핵분열 연쇄반응이 지속적으로 일어나 , 이로 인해 생성되는 중성자와 소멸되는 중성자가 같아 중성자 수가 평형을 이루는 상태 이번 정기검사에서 총 95 개 항목 중 임계 전까지 수행해야 할 85 개 항목 에 대한 검사를 실시한 결과 , 향후 원",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198497122&tblKey=GMN",
-          "filename": "260626_한울 2호기, 정기검사 중 임계 허용_보도자료.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198497123&tblKey=GMN",
-          "filename": "260626_한울 2호기, 정기검사 중 임계 허용_보도자료.pdf"
         }
       ]
     }
