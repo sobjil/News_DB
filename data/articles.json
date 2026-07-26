@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T21:11:14.405628+00:00",
-  "count": 2630,
+  "updated": "2026-07-26T21:26:21.246281+00:00",
+  "count": 2631,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -60,6 +60,26 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "주민과 함께 만드는 지역 화학안전… 시민학교, 경남권·수도권 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772180",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "▷ 지난해 전남·전북 시범운영에 이어 올해 경남권·수도권으로 확대▷ 주민 참여형 화학안전 교육으로 협치(거버넌스) 참여 인재 양성기후에너지환경부 소속 화학물질안전원(원장 박봉균)은 주민 참여형 화학안전 교육과정인 '화학안전 시민학교'를 경남권과 수도권에서 8월부터 두 달 동안 운영하며, 7월 27일부터 교육생을 무료로 모집한다고 밝혔다.'화학안전 시민학교'는 화학물질안전원와 시민사회 네트워크*와 함께 주최하는 화학안전 교육 과정으로 지난해 전남·전북 지역에서 시범운영을 시작한 바 있다.* 시민사회 네트워크: 화학물질안전원과 협약(`",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514539&tblKey=GMN",
+          "filename": "(안전원 7.27) 주민과 함께 만드는 지역 화학안전… 시민학교 경남권·수도권 확대(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514540&tblKey=GMN",
+          "filename": "(안전원 7.27) 주민과 함께 만드는 지역 화학안전… 시민학교 경남권·수도권 확대(보도자료).pdf"
+        }
+      ]
+    },
     {
       "title": "데이터로 읽는 우리 교육 제10호 발간: 진로교육 현황조사 10년, 무엇이 달라졌나",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772143",
