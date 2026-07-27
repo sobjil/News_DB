@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T01:41:23.550669+00:00",
-  "count": 2673,
+  "updated": "2026-07-27T01:56:19.478847+00:00",
+  "count": 2674,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -906,6 +906,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514767&tblKey=GMN",
           "filename": "260727 천명지킴 생명대사 노브레인, 펑크로 지키는 가정 소중한 가치, 생명.pdf"
+        }
+      ]
+    },
+    {
+      "title": "인공지능이 만들어준 아이디어, 내가 특허받을 수 있을까",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772242",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "인공지능이 만들어준 아이디어, 내가 특허받을 수 있을까 - 산·학·연·관 지재권 분야 석학 한자리에...'지식재산 전략포럼' 출범 - - 27일 제1회 공개 토론회 개최, '인공지능 활용 기술개발의 특허 보호' 등 핵심현안 논의 - 인공지능이 만들어준 아이디어를 사람이 그대로 특허로 출원했을 때, 특허를 받을 수 있을까 인공지능 기술의 급격한 발전으로 나타나는 이런 질문에 답하기 위해 지식재산처(처장 김용선)와 한국공학한림원(회장 윤의준)은 7. 27.(월) 오전 7시 조선팰리스(서울 강남구)에서 지식재산 민관협력 장인 「지식재산 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514790&tblKey=GMN",
+          "filename": "242 [지식재산처] 인공지능이 만들어준 아이디어, 내가 특허받을 수 있을까.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514791&tblKey=GMN",
+          "filename": "242 [지식재산처] 인공지능이 만들어준 아이디어, 내가 특허받을 수 있을까.pdf"
         }
       ]
     },
