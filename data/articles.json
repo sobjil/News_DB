@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T07:41:24.144095+00:00",
-  "count": 2721,
+  "updated": "2026-07-27T07:56:19.164958+00:00",
+  "count": 2722,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1900,6 +1900,31 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198515077&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 양평 임도사업장 현장점검... “2차 피해 예방·온열질환 관리 총력”.hwp"
+        }
+      ]
+    },
+    {
+      "title": "산림청, 제18회 청소년 숲리더 전국대회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772307",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "산림청, 제18회 청소년 숲리더 전국대회 개최- 한국숲사랑청소년단과 함께 생물다양성과 숲의 가치 배운다 - 산림청(청장 박은식)은 오는 7월 27일부터 29일까지 2박 3일간 국립횡성숲체원에서 \"제18회 청소년 숲리더 전국대회\"를 개최한다고 27일 밝혔다. 올해 대회에는 전국 25개교에서 선발된 한국숲사랑청소년단 대원과 지도교사 등 200여 명이 참가하며, '생물다양성과 숲의 가치'를 주제로 다양한 체험형 프로그램이 제공된다. *한국숲사랑청소년단은 '포휴' 앱을 통해 가입할 수 있으며, 2026년 7월 현재 총 8,648명이 선발·",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198515101&tblKey=GMN",
+          "filename": "(260727)보도자료-산림청，_제18회_청소년_숲리더_전국대회_개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198515103&tblKey=GMN",
+          "filename": "(260727)보도자료-산림청，_제18회_청소년_숲리더_전국대회_개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198515102&tblKey=GMN",
+          "filename": "(260727)보도자료-산림청，_제18회_청소년_숲리더_전국대회_개최.hwp"
         }
       ]
     },
