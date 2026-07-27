@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T00:11:30.401072+00:00",
-  "count": 2643,
+  "updated": "2026-07-27T00:26:27.224680+00:00",
+  "count": 2648,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -312,6 +312,116 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514583&tblKey=GMN",
           "filename": "0724(27석간)중견기업정책과, 중견기업 전용 프로그램 「라이징 리더스 300」 하반기 공고.pdf"
+        }
+      ]
+    },
+    {
+      "title": "[인사] 산림청 인사발령(2026년 7월 27일자)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772203",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "[인사] 산림청 인사발령- 2026년 7월 27일자 -□ 국장급 전보▲동부지방산림청장일반직고위공무원남송희(南松熙)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514611&tblKey=GMN",
+          "filename": "(260726)보도자료-산림청_인사발령_26.7.27.자.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514613&tblKey=GMN",
+          "filename": "(260726)보도자료-산림청_인사발령_26.7.27.자.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514612&tblKey=GMN",
+          "filename": "(260726)보도자료-산림청_인사발령_26.7.27.자.hwp"
+        }
+      ]
+    },
+    {
+      "title": "제16차 장기 천연가스 수급계획 공고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772201",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "제16차 장기 천연가스 수급계획 공고 산업통상부(장관 김정관, 이하 산업부)는 '26년부터 '38년까지 천연가스 수요전망과 이에 따른 천연가스 자원안보, 도입·수급관리 및 인프라 확충계획을 포함한 ｢제16차 장기 천연가스 수급계획｣을 확정하여 공고하였다. 장기 천연가스 수급계획은 우리나라의 천연가스 수급 안정을 위해 「도시가스사업법」에 따라 정부, 민간전문가 등으로 구성된 가스수급위원회 및 분야별 실무위원회(수요전망, 시설계획)를 통해 마련되었으며 주요 내용은 다음과 같다. 수요전망 총 천연가스 수요(기준수요)는 '26년 4,591",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514604&tblKey=GMN",
+          "filename": "0724(27석간, 27일(월) 09시엠바고)가스산업과, 제16차 장기 천연가스 수급계획 공고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514603&tblKey=GMN",
+          "filename": "0724(27석간, 27일(월) 09시엠바고)가스산업과, 제16차 장기 천연가스 수급계획 공고.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514605&tblKey=GMN",
+          "filename": "[별첨] 제16차 장기 천연가스 수급계획(2026~2038).pdf"
+        }
+      ]
+    },
+    {
+      "title": "경찰, 5개월간 대포차 1,928대 적발, 380명 검거",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772200",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "경찰, 5개월간 대포차 1,928대 적발, 380명 검거 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514601&tblKey=GMN",
+          "filename": "260727(조간용) 대포차 집중수사 결과보고(강력범죄수사).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514602&tblKey=GMN",
+          "filename": "260727(조간용) 대포차 집중수사 결과보고(강력범죄수사).pdf"
+        }
+      ]
+    },
+    {
+      "title": "시원한 물놀이, 안전수칙 지키며 즐겨요!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772199",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 최근 5년간 물놀이 사망자 104명, 7월말・8월초에 56명 집중 발생- 물놀이, 다슬기 채취와 해루질 등을 할 때도 반드시 구명조끼 착용 행정안전부(장관 윤호중)는 여름방학과 함께 본격적인 하계 휴가철이 시작됨에 따라, 물놀이 안전사고 위험이 높아지는 만큼 예방에 각별한 주의를 당부했다. 최근 5년('21~'25)간 발생한 물놀이 사고 사망자는 총 104명으로, 전체 사고의 54%(56명)가 여름방학과 휴가가 집중되는 7월 말에서 8월 초에 발생했다. 장소별로는 하천(강)이 32명(31%)으로 가장 많았고, 계곡 28명(27%",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514599&tblKey=GMN",
+          "filename": "260727 (조간) 시원한 물놀이 안전수칙 지키며 즐겨요!(예방안전제도과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514600&tblKey=GMN",
+          "filename": "260727 (조간) 시원한 물놀이 안전수칙 지키며 즐겨요!(예방안전제도과).pdf"
+        }
+      ]
+    },
+    {
+      "title": "'그날의 의병, 오늘의 우리' 주제로, ｢제16회 의병의 날 기념식｣ 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772197",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 7월 27일 충북 제천예술의전당 및 동명 광장 일원에서 진행 - 역사적 가치와 의미를 되새기고, 미래 세대와 함께 계승·발전의 계기 행정안전부(장관 윤호중)가 주최하고 충청북도 제천시가 주관하는 「제16회 의병의 날 기념식」이 7월 27일(월) 오후 2시, 충청북도 제천시 예술의전당 및 동명 광장 일원에서 개최된다. '그날의 의병, 오늘의 우리'를 주제로 열리는 이번 기념식에는 전국 의병단체 대표와 의병 후손, 지역 주민 등이 참석한다. 의병의 날 기념행사는 나라가 위기에 처했을 때 자발적으로 일어나 국권 수호에 헌신한 의병의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514595&tblKey=GMN",
+          "filename": "260727 (16시) ’그날의 의병 오늘의 우리‘ 주제로 7월 27일 ｢제16회 의병의 날 기념식｣ 개최(사회통합지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514596&tblKey=GMN",
+          "filename": "260727 (16시) ’그날의 의병 오늘의 우리‘ 주제로 7월 27일 ｢제16회 의병의 날 기념식｣ 개최(사회통합지원과).pdf"
         }
       ]
     },
