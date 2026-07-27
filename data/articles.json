@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T04:26:23.379266+00:00",
-  "count": 2703,
+  "updated": "2026-07-27T04:41:19.104156+00:00",
+  "count": 2704,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1500,6 +1500,26 @@
           "ext": "hwpx",
           "url": "https://www.korea.kr/common/download.do?fileId=198514944&tblKey=GMN",
           "filename": "260728 조간 (보도) [연구행정 혁신+-④]원하는 연구장비 검색부터 예약까지.hwpx"
+        }
+      ]
+    },
+    {
+      "title": "광화문 현판, 국민이 하루 종일 머리 맞댔다... 첫 '모두의 토론회' 마무리",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772280",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 국민 200명, 전문가와 함께 '광화문 한글 현판 병기'를 주제로 활발한 토론- 토론회와 온라인에서 나온 의견 균형 있게 살펴 정책 방향 모색 행정안전부(장관 윤호중, 이하 행안부)와 문화체육관광부(장관 최휘영, 이하 문체부)는 7월 26일(일), 국민과 전문가가 함께 참여하는 대국민 숙의 토론회 '모두의 토론회'를 처음 열어 '광화문 한글 현판 병기'에 대한 폭넓은 의견을 수렴했다. '모두의 토론회'는 정책 수요자인 국민이 토론과 숙의 과정에 직접 참여해 다양한 관점과 경험을 공유하고, 사회적 공감대를 바탕으로 정책 방향을 함",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514948&tblKey=GMN",
+          "filename": "260727 (월 12시 보도가능) 광화문 현판 국민이 하루 종일 머리 맞댔다... 첫 ‘모두의 토론회’ 마무리(국민참여정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514949&tblKey=GMN",
+          "filename": "260727 (월 12시 보도가능) 광화문 현판 국민이 하루 종일 머리 맞댔다... 첫 ‘모두의 토론회’ 마무리(국민참여정책과).pdf"
         }
       ]
     },
