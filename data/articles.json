@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T05:11:31.088574+00:00",
-  "count": 2712,
+  "updated": "2026-07-27T05:26:20.371354+00:00",
+  "count": 2713,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1690,6 +1690,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514978&tblKey=GMN",
           "filename": "260726_보도자료_고용노동부_한국기술교육대학교 전 국민 AI역량 강화를 위한 교육과정 제공.pdf"
+        }
+      ]
+    },
+    {
+      "title": "청년들, 현대차그룹 K-뉴딜 아카데미에서 미래 모빌리티 분야 전문성 키운다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772292",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 노동부와 현대자동차그룹, 청년 도약 위해 함께 힘 모으기로- 김영훈 노동부장관, 현대차그룹 K-뉴딜 아카데미 합동 입교식에 참석하여 격려고용노동부 김영훈 장관은 7월 27일(월), 현대자동차그룹(이하 \"현대차그룹\") 인재개발원 경주캠퍼스에서 열린 현대자동차그룹의 K-뉴딜 아카데미 과정인 「HINT(HMG Incubation of New Talent)」 합동 입교식에 참석하여 아카데미 개설을 축하하고 교육생들을 격려했다. K-뉴딜 아카데미는 대기업 등이 주도하여 해당 기업에 특화된 분야의 직업능력개발훈련 및 다양한 프로그램을 설계",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514995&tblKey=GMN",
+          "filename": "260727_보도자료_k-뉴딜아카데미 개소식 방문(현대자동차 HINT).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514994&tblKey=GMN",
+          "filename": "260727_보도자료_k-뉴딜아카데미 개소식 방문(현대자동차 HINT).pdf"
         }
       ]
     },
