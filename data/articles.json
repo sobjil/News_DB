@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T04:41:19.104156+00:00",
-  "count": 2704,
+  "updated": "2026-07-27T04:56:20.553500+00:00",
+  "count": 2706,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1520,6 +1520,56 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514949&tblKey=GMN",
           "filename": "260727 (월 12시 보도가능) 광화문 현판 국민이 하루 종일 머리 맞댔다... 첫 ‘모두의 토론회’ 마무리(국민참여정책과).pdf"
+        }
+      ]
+    },
+    {
+      "title": "새만금 국가산단 지원시설용지 공급 본격 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772283",
+      "agency": "새만금개발청",
+      "agencyCode": "sda",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "새만금 국가산단 지원시설용지 공급 본격 추진- 새만금 국가산단 1·2공구 내 조성토지 공급계획 승인 -□ 새만금개발청(청장 문성요)은 새만금 국가산업단지 1·2공구 내 조성토지* 공급계획을 승인하고, 올해 하반기부터 업무용지와 주차장용지에 대한 본격적인 분양 절차를 추진한다고 밝혔다. * 총 3필지 27,289.1㎡, 1공구 업무용지 1필지 17,262.1㎡, 2공구 주차장 2필지 10,027㎡ ㅇ 이번 공급계획은 「새만금사업 추진 및 지원에 관한 특별법」 제22조(조성토지의 공급)에 따라 사업시행자인 한국농어촌공사의 요청을 받아 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514964&tblKey=GMN",
+          "filename": "260727 새만금 국가산단 지원시설용지 공급 본격 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514965&tblKey=GMN",
+          "filename": "260727 새만금 국가산단 지원시설용지 공급 본격 추진.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514963&tblKey=GMN",
+          "filename": "260727 새만금 국가산단 지원시설용지 공급 본격 추진.hwp"
+        }
+      ]
+    },
+    {
+      "title": "국세청, '2026 K-SUUL AWARDS' 개최 … 국가대표 우리 술 발굴해 세계시장 개척 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772282",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "국세청, '2026 K-SUUL AWARDS' 개최 … 국가대표 우리 술 발굴해 세계시장 개척 지원 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514960&tblKey=GMN",
+          "filename": "★260727 국세청, ‘2026 K-SUUL AWARDS’ 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514962&tblKey=GMN",
+          "filename": "★260727 국세청, ‘2026 K-SUUL AWARDS’ 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514961&tblKey=GMN",
+          "filename": "★260727 국세청, ‘2026 K-SUUL AWARDS’ 개최.hwp"
         }
       ]
     },
