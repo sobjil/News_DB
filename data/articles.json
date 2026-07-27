@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T05:26:20.371354+00:00",
-  "count": 2713,
+  "updated": "2026-07-27T05:41:18.403473+00:00",
+  "count": 2714,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1710,6 +1710,26 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198514994&tblKey=GMN",
           "filename": "260727_보도자료_k-뉴딜아카데미 개소식 방문(현대자동차 HINT).pdf"
+        }
+      ]
+    },
+    {
+      "title": "폭염 위기경보 심각 격상 중앙재난안전대책본부 가동해 총력대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772294",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 취약계층 보호 활동 강화, 무더위쉼터 및 폭염 저감시설 연장 운영- 폭염 중대경보 발표지역 인명피해 예방 최소화 당부 행정안전부(장관 윤호중)는 7월 27일(월) 15시부로 폭염 재난 위기경보를 '심각' 단계로 격상하고, 행정안전부장관을 본부장으로 하는 중앙재난안전대책본부(이하 중대본)를 가동하여 총력 대응에 나선다. 기상청에 따르면, 7월 장마 종료 이후 폭염이 본격화됨에 따라 전국 대부분 지역에서 폭염특보가 발효되는 등 무더위와 열대야가 당분간 지속될 것으로 전망된다. 이에, 행정안전부장관은 관계기관과 지방정부에 국민의 생명",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198515002&tblKey=GMN",
+          "filename": "260727 (14시) 폭염 위기경보 심각 격상 중앙재난안전대책본부 가동해 총력대응(기후재난관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198515003&tblKey=GMN",
+          "filename": "260727 (14시) 폭염 위기경보 심각 격상 중앙재난안전대책본부 가동해 총력대응(기후재난관리과).pdf"
         }
       ]
     },
