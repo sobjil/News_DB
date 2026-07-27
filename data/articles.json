@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T03:11:33.390424+00:00",
-  "count": 2693,
+  "updated": "2026-07-27T03:26:30.740002+00:00",
+  "count": 2700,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1331,6 +1331,120 @@
           "ext": "hwp",
           "url": "https://www.korea.kr/common/download.do?fileId=198514874&tblKey=GMN",
           "filename": "260728(조간) (주)라인건설의 하도급법 위반행위 제재.hwp"
+        }
+      ]
+    },
+    {
+      "title": "행안부-복지부, 호우 피해자 '재난심리회복지원' 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772275",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "- 현장 심리상담부터 고위험군 전문 치료 연계까지 통합 지원- 경북지역 산불·호우 피해 이재민 심리 집중 지원 행정안전부(장관 윤호중)와 보건복지부(장관 정은경)는 7월 호우 피해 대응을 위한 ｢복구대책지원본부｣ 내 ｢심리지원반｣ 이 구성·가동됨에 따라, 호우로 인한 일시 대피자와 이재민의 심리적 안정을 돕기 위해 부처 간 협력 체계를 가동하고, 재난심리회복지원을 강화한다고 밝혔다. 이번 대책은 호우 피해자의 심리적 충격을 완화하고 조속한 일상 회복을 지원하기 위해 마련됐다. 양 부처는 '찾아가는 심리상담'을 통해 피해 주민의 심리",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514909&tblKey=GMN",
+          "filename": "260728 (조간) 행안부-복지부 호우 피해자 ‘재난심리회복지원’ 강화(재난현장지원총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514910&tblKey=GMN",
+          "filename": "260728 (조간) 행안부-복지부 호우 피해자 ‘재난심리회복지원’ 강화(재난현장지원총괄과).pdf"
+        }
+      ]
+    },
+    {
+      "title": "교육부, 태국 등 3개국에 인공지능(AI) 교육혁신 사례 전파",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772273",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "교육부, 태국 등 3개국에 인공지능(AI) 교육혁신 사례 전파",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514906&tblKey=GMN",
+          "filename": "[교육부 07-28(화) 조간보도자료] 교육부 태국 등 3개국에 인공지능 교육혁신 사례 전파.hwpx"
+        }
+      ]
+    },
+    {
+      "title": "교육부, 외국인 유학생 취·창업 지원 우수대학 6개교 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772272",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "교육부, 외국인 유학생 취·창업 지원 우수대학 6개교 선정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514905&tblKey=GMN",
+          "filename": "[교육부 07-28(화) 조간보도자료] 교육부 외국인 유학생 취창업 지원 우수대학 6개교 선정.hwpx"
+        }
+      ]
+    },
+    {
+      "title": "제17회 북한배경학생 교육 우수사례 공모전 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772271",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "제17회 북한배경학생 교육 우수사례 공모전 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514904&tblKey=GMN",
+          "filename": "[교육부 07-28(화) 조간보도자료] 제17회 북한배경학생 교육 우수사례 공모전 개최.hwpx"
+        }
+      ]
+    },
+    {
+      "title": "기후부·농식품부, 가축분뇨를 전기와 열로… 바이오매스 고체연료 기술개발 본격 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772269",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "▷ 기후에너지환경부농림축산식품부, 가축분뇨(우분) 바이오매스 고체연료 생산 및 이용 기술개발에 올해부터 2029년까지 298억 원 투자▷ 7월 28일 착수보고회를 통해 과제 수행 계획 공유 및 연계협력 방안 모색기후에너지환경부(장관 김성환)와 농림축산식품부(장관 송미령)는 7월 28일 써밋원서울역점(서울 중구 소재)에서 가축분뇨(우분)를 고체연료로 생산하여 전기·열로 활용하기 위한 '바이오매스 고체연료 생산 및 이용 기술개발' 착수 보고회를 개최한다고 밝혔다.그간 가축분뇨(우분)는 대부분 퇴비화되었으나, 농경지 면적 감소 및 과잉 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514900&tblKey=GMN",
+          "filename": "(폐자원 7.27) 기후부·농식품부 가축분뇨를 전기와 열로(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514901&tblKey=GMN",
+          "filename": "(폐자원 7.27) 기후부·농식품부 가축분뇨를 전기와 열로(보도자료).pdf"
+        }
+      ]
+    },
+    {
+      "title": "기후부-육군 맞손, 올바른 분리배출로 '고품질 재활용' 앞장선다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772268",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "▷ 군부대 내 재활용 활성화를 위해 민·관·군 업무협약 체결▷ 군부대 맞춤형 분리배출 물품 지원부터 우수부대 포상까지, 자원순환 협력 강화기후에너지환경부(장관 김성환)는 7월 28일 오후 기후에너지환경부 별관(청암빌딩, 세종시 소재)에서 육군본부, 한국순환자원유통지원센터와 함께 '육군의 자원 재활용 활성화를 위한 업무협약'을 체결＊한다고 밝혔다.＊ 협약기간은 1년 단위이며, 향후 별도의 종료 의사가 없을 경우 1년 단위로 자동 연장이번 협약은 지난 2016년 최초 협약 이후 다져온 협력 체계를 더욱 공고히 하고, 군 장병들이 병영생",
+      "attachments": []
+    },
+    {
+      "title": "국립낙동강생물자원관, 2026년 특별전 '개와 고양이: 두 갈래 길' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772270",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-07-27T00:00:00+09:00",
+      "description": "▷ 야생 동물에서 반려동물로의 진화까지, 우리가 몰랐던 개와 고양이 이야기기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 개와 고양이의 진화적 차이와 인간과의 공존을 다룬 특별전 '개와 고양이: 두 갈래 길'을 올해 7월 28일부터 내년 5월 30일까지 국립낙동강생물자원관 생물누리관 2층 특별전시실(경북 상주시 소재)에서 개최한다고 밝혔다.이번 특별전에서는 약 5천만 년 전 공통조상에서 갈라져 나온 개과 및 고양이과가 서로 다른 환경에 적응하며 독자적인 생존 전략을 갖추게 된 과정을 영상과 계통수*, 박제 표본, 체험 콘텐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514902&tblKey=GMN",
+          "filename": "(낙동강생물 7.27) 국립낙동강생물자원관 2026년 특별전 ‘개와 고양이 두 갈래 길’ 개최(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198514903&tblKey=GMN",
+          "filename": "(낙동강생물 7.27) 국립낙동강생물자원관 2026년 특별전 ‘개와 고양이 두 갈래 길’ 개최(보도자료).pdf"
         }
       ]
     },
