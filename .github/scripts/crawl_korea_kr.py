@@ -77,6 +77,15 @@ KST = timezone(timedelta(hours=9))
 # 매 run 마다 view 페이지 fetch 해서 첨부 추출하는 최대 건수 (점진 처리).
 HWPX_URL_BATCH_PER_RUN = 30
 ATT_MAX_FAILS = 5           # 첨부 fetch 실패 재시도 한도
+
+# ─── 첨부 링크 재확인 ────────────────────────────────────────────────
+# korea.kr 은 기사를 올린 뒤 파일을 다시 올리는 일이 잦다(석간·조간 엠바고 기사에서 특히).
+# 그때 fileId 가 새로 발급돼 먼저 수집해 둔 download.do 링크가 죽는다
+# (파일명은 그대로인데 열면 '없는 자료'). 그래서 첨부를 한 번 뽑고 끝내지 말고
+# 기사당 몇 번만 다시 긁어 최신 링크로 덮어쓴다.
+ATT_REFRESH_MAX = 3         # 기사당 재확인 횟수 상한
+ATT_REFRESH_MIN_HOURS = 6   # 재확인 간격
+ATT_REFRESH_BATCH_PER_RUN = 30
 ALLOWED_URL_PATH = "/briefing/pressReleaseView.do"   # 보도자료만 통과(안전망)
 
 # ─── korea.kr 한국 IP 프록시 (GitHub 미국 IP 차단 우회) ──────────────
@@ -111,6 +120,14 @@ def clean_text(s):
     s = HTML_TAG_RE.sub(" ", s)
     s = html_mod.unescape(s)
     return WHITESPACE_RE.sub(" ", s).strip()
+
+def parse_kst(s):
+    """ISO 8601 문자열 → tz 있는 datetime (naive 면 KST 로 간주). 실패 시 None."""
+    try:
+        d = datetime.fromisoformat(s)
+    except (ValueError, TypeError):
+        return None
+    return d.replace(tzinfo=KST) if d.tzinfo is None else d
 
 def parse_list_date(s):
     """'2026.07.09' → ISO 8601 (KST, 날짜 기준). 실패 시 None."""
@@ -254,7 +271,8 @@ def main():
             print(f"[WARN] 기존 {DATA_FILE} 읽기 실패 — 빈 상태로 시작: {e}", file=sys.stderr)
 
     existing_urls = {a["url"] for a in existing}
-    cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=RETENTION_DAYS)
 
     # 2) 보도자료 목록 페이징 스크래핑
     #    - 신규(기존에 없던) 항목이 하나도 없는 페이지를 만나면 캐치업 완료 → 중단.
@@ -296,14 +314,14 @@ def main():
             break
         time.sleep(INTER_REQUEST_SLEEP)
 
-    # 3) merge — URL 기준 중복 제거. 기존 첨부 상태(attachments,_attFails)는 보존.
+    # 3) merge — URL 기준 중복 제거. 기존 첨부 상태(attachments,_attFails,_attAt,_attRev)는 보존.
     merged = {}
     for a in existing:
         merged[a["url"]] = a
     for a in new_items:
         prev = merged.get(a["url"])
         if prev:
-            for k in ("attachments", "_attFails"):
+            for k in ("attachments", "_attFails", "_attAt", "_attRev"):
                 if k in prev:
                     a[k] = prev[k]
         merged[a["url"]] = a
@@ -319,14 +337,8 @@ def main():
     kept = []
     expired = 0
     for a in merged.values():
-        try:
-            d = datetime.fromisoformat(a["pubDate"])
-        except (ValueError, TypeError):
-            expired += 1
-            continue
-        if d.tzinfo is None:
-            d = d.replace(tzinfo=KST)
-        if d >= cutoff:
+        d = parse_kst(a.get("pubDate"))
+        if d is not None and d >= cutoff:
             kept.append(a)
         else:
             expired += 1
@@ -352,6 +364,7 @@ def main():
                     a["attachments"] = []; a.pop("_attFails", None); att_none += 1
                 time.sleep(INTER_REQUEST_SLEEP); continue
             a["attachments"] = atts; a.pop("_attFails", None)
+            a["_attAt"] = now.isoformat()
             if atts:
                 att_found += 1
                 for x in atts:
@@ -361,6 +374,36 @@ def main():
             time.sleep(INTER_REQUEST_SLEEP)
         ext_str = ", ".join(f"{k}:{v}" for k, v in sorted(ext_counter.items()))
         print(f"  done - found {att_found}, none {att_none} ({ext_str})")
+
+    # 5.5) 첨부 재확인 — 나중에 파일이 다시 올라가면 fileId 가 바뀌어 먼저 수집한
+    #      링크가 죽는다(위 ATT_REFRESH_* 주석). 기사당 최대 ATT_REFRESH_MAX 번,
+    #      ATT_REFRESH_MIN_HOURS 간격으로 다시 긁어 바뀐 링크만 덮어쓴다.
+    refresh_cut = now - timedelta(hours=ATT_REFRESH_MIN_HOURS)
+    can_refresh = []
+    for a in kept:
+        if "attachments" not in a:
+            continue                                    # 아직 최초 추출 전 (위 5))
+        if a.get("_attRev", 0) >= ATT_REFRESH_MAX:
+            continue
+        last = parse_kst(a.get("_attAt")) or parse_kst(a.get("pubDate"))
+        if last is not None and last > refresh_cut:
+            continue                                    # 최근에 확인함
+        can_refresh.append(a)
+    can_refresh.sort(key=lambda a: a["pubDate"], reverse=True)   # 최신 기사 먼저
+    rebatch = can_refresh[:ATT_REFRESH_BATCH_PER_RUN]
+    if rebatch:
+        print(f"\n[attachments] 재확인 {len(rebatch)} of {len(can_refresh)} due")
+        changed = 0
+        for a in rebatch:
+            atts = fetch_attachments_for_article(a["url"])
+            a["_attRev"] = a.get("_attRev", 0) + 1
+            a["_attAt"] = now.isoformat()
+            # atts is None = fetch 실패 / [] = 파싱 결과 없음 → 기존 첨부 유지(퇴행 방지)
+            if atts and atts != a["attachments"]:
+                a["attachments"] = atts
+                changed += 1
+            time.sleep(INTER_REQUEST_SLEEP)
+        print(f"  done - 링크 갱신 {changed}")
 
     # 6) 발행일 내림차순 정렬
     kept.sort(key=lambda a: a["pubDate"], reverse=True)
