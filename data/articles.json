@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T01:41:21.322758+00:00",
-  "count": 2071,
+  "updated": "2026-07-31T01:56:14.340504+00:00",
+  "count": 2069,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -46751,55 +46751,6 @@
       ],
       "_attRev": 2,
       "_attAt": "2026-07-31T00:11:12.877023+00:00"
-    },
-    {
-      "title": "2026년 6월 및 상반기 수출입 동향",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769043&call_from=rsslink",
-      "agency": "산업통상부",
-      "agencyCode": "motir",
-      "pubDate": "2026-07-01T01:54:39+00:00",
-      "description": "2026년 6월 및 상반기 수출입동향 보도자료입니다. [자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198500309&tblKey=GMN",
-          "filename": "2026년 6월 수출입동향_3보_최종(1100).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198500308&tblKey=GMN",
-          "filename": "2026년 6월 수출입동향_3보_최종(1100).hwp"
-        }
-      ],
-      "_attRev": 2,
-      "_attAt": "2026-07-31T00:11:12.877023+00:00"
-    },
-    {
-      "title": "산림청, 산림생명자원 통합관리시스템 7월부터 시범운영",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769035&call_from=rsslink",
-      "agency": "산림청",
-      "agencyCode": "forest",
-      "pubDate": "2026-07-01T01:45:01+00:00",
-      "description": "산림청, 산림생명자원 통합관리시스템 7월부터 시범운영 - 산림생명자원 검색부터 분양 신청까지 온라인 원스톱 지원 - 산림청(청장 박은식)은 산림생명자원 분야의 정보접근 및 활용 편의성을 높이고 디지털 기반의 관리체계를 구축하기 위해 '산림생명자원 통합관리시스템'을 7월 1일부터 6개월간 시범운영 한다고 밝혔다. 이번 시범운영은 시스템의 안정성과 이용 편의성을 점검·정비하기 위한 것으로, 운영 결과를 반영해 기능을 보완한 뒤 2027년부터 정식 서비스를 제공할 계획이다. 산림생명자원 통합관리시스템(누리집 주소: open.nature.",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198500323&tblKey=GMN",
-          "filename": "(260701)보도자료-산림청，_산림생명자원_통합관리시스템_7월부터_시범운영.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198500325&tblKey=GMN",
-          "filename": "(260701)보도자료-산림청，_산림생명자원_통합관리시스템_7월부터_시범운영.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198500324&tblKey=GMN",
-          "filename": "(260701)보도자료-산림청，_산림생명자원_통합관리시스템_7월부터_시범운영.hwp"
-        }
-      ],
-      "_attRev": 2,
-      "_attAt": "2026-07-31T00:26:20.765268+00:00"
     }
   ]
 }
