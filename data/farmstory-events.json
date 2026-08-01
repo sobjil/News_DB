@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "retentionDays": 7,
-  "count": 37,
+  "count": 26,
   "events": [
     {
       "id": "156772180",
@@ -14,136 +14,6 @@
       "strength": "약",
       "emoji": "📰",
       "flavor": "이번 화학안전 교육은 경남권과 수도권 대상이라 경북에 있는 우리 농장에는 별다른 영향이 없겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156772149",
-      "agency": "해양수산부",
-      "title": "친환경인증선박 보급지원사업 참여 선사 모집",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772149",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "지원금",
-      "strength": "중",
-      "emoji": "💰",
-      "flavor": "친환경 선박 건조 지원금 덕분에 우리 바다를 지킬 깨끗한 배를 더 저렴하게 맞이할 기회가 생겼어요!",
-      "weight": 5
-    },
-    {
-      "id": "156772148",
-      "agency": "해양수산부",
-      "title": "미래 과학자 꿈 키우는 북극 청소년 체험단 출발",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772148",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "북극으로 떠나는 청소년 체험단 소식이 들려왔지만, 우리 농장 경영에는 아무런 영향이 없이 평화롭네요.",
-      "weight": 1
-    },
-    {
-      "id": "156772147",
-      "agency": "농림축산식품부",
-      "title": "세계를 사로잡을 국가대표 김치 선발",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772147",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "가공",
-      "kind": "시세호재",
-      "strength": "약",
-      "emoji": "🌾",
-      "flavor": "국산 원료로 정성껏 만든 우리 농장 김치가 명품으로 인정받아 주문이 쏟아지고 있어요!",
-      "weight": 5
-    },
-    {
-      "id": "156772146",
-      "agency": "농림축산식품부",
-      "title": "농식품부, 홍콩과 닭고기 등 수출 재개 협상 완료!",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772146",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "축산",
-      "kind": "시세호재",
-      "strength": "중",
-      "emoji": "🌾",
-      "flavor": "홍콩으로 닭고기와 달걀 수출길이 다시 열려서 우리 농장 가금류의 가치도 껑충 뛰겠어요!",
-      "weight": 5
-    },
-    {
-      "id": "156772145",
-      "agency": "농림축산식품부",
-      "title": "농식품부, 지난 4월 저온 피해 등 농업재해 피해 농가에 재해복구비 지원",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772145",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "지원금",
-      "strength": "중",
-      "emoji": "💰",
-      "flavor": "지난 봄 갑작스러운 이상 기후와 우박으로 가슴을 졸였는데, 다행히 우리 농장에도 재해복구비와 금융 지원이 나온대요!",
-      "weight": 5
-    },
-    {
-      "id": "156772144",
-      "agency": "농림축산식품부",
-      "title": "농촌 교통도 AI 시대 '농촌 특화 수요맞춤형 교통모델' 실증 착수",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772144",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리 농촌 마을에도 AI 맞춤형 버스가 도입되어 읍내나 이웃 마을로 이동하기가 훨씬 편해졌어요!",
-      "weight": 2
-    },
-    {
-      "id": "156772156",
-      "agency": "기후에너지환경부",
-      "title": "국립공원공단, 여름철 물놀이 안전관리 강화",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772156",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "국립공원 물놀이 안전관리 소식이라 우리 농장에는 별다른 영향이 없지만, 올여름도 안전하고 건강하게 보내야겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156772155",
-      "agency": "기후에너지환경부",
-      "title": "여러분의 '탈플라스틱' 일상을 30초에 담아 주세요",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772155",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "탈플라스틱 영상 공모전 소식이 들려오지만, 우리 농장 경영에는 직접적인 영향이 없네요.",
-      "weight": 1
-    },
-    {
-      "id": "156772154",
-      "agency": "기후에너지환경부",
-      "title": "승촌보, 죽산보 개방으로 영산강의 물흐름 하나로 연결한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772154",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "전라도 영산강의 보를 개방한다는 소식이라 경북에 있는 우리 농장에는 별다른 영향이 없겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156772153",
-      "agency": "기후에너지환경부",
-      "title": "기후부, 서울시 강북아리수정수센터에 국내 최초 정수장 위생안전 인증 부여",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772153",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "서울 정수장의 위생안전 인증 소식이 들려왔지만, 우리 경북 농장에는 특별한 영향 없이 조용히 지나가네요.",
       "weight": 1
     },
     {
@@ -470,19 +340,6 @@
       "emoji": "📰",
       "flavor": "찌는 듯한 폭염 속에서 풀베기 작업을 하던 중, 안전 점검과 함께 시원한 이온음료를 지원받아 한숨 돌렸어요!",
       "weight": 2
-    },
-    {
-      "id": "156772182",
-      "agency": "기상청",
-      "title": "기상청 인사발령(4급 승진)",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772182",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "기상청의 단순한 내부 인사 발령 소식이라 우리 농장 경영에는 아무런 영향이 없겠어요.",
-      "weight": 1
     }
   ]
 }
