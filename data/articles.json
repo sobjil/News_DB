@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T01:26:13.257903+00:00",
-  "count": 1824,
+  "updated": "2026-08-01T01:41:20.032498+00:00",
+  "count": 1823,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -41210,28 +41210,6 @@
           "ext": "pdf",
           "url": "https://www.korea.kr/common/download.do?fileId=198501987&tblKey=GMN",
           "filename": "260702[별첨] 금융위원장 모두발언.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-31T04:26:19.057062+00:00"
-    },
-    {
-      "title": "정치분야 현장형 국민대화 권역별 토론회",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769268&call_from=rsslink",
-      "agency": "국민통합위원회",
-      "agencyCode": "k_cohesion",
-      "pubDate": "2026-07-02T01:30:40+00:00",
-      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다. [자료제공 : (www.korea.kr) ]",
-      "attachments": [
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198501251&tblKey=GMN",
-          "filename": "정치분야 현장형 국민대화 권역별 토론회.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198501250&tblKey=GMN",
-          "filename": "정치분야 현장형 국민대화 권역별 토론회.hwp"
         }
       ],
       "_attRev": 3,
