@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T23:17:23.723335+00:00",
-  "count": 2273,
+  "updated": "2026-08-04T23:31:05.331858+00:00",
+  "count": 2275,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -160,6 +160,48 @@
         }
       ],
       "_attAt": "2026-08-04T23:16:04.731961+00:00"
+    },
+    {
+      "title": "문화요일 수요일 저녁, 동네서점에서 책과 문화 즐기세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773377",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "문화요일 수요일 저녁, 동네서점에서 책과 문화 즐기세요 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0805]문체부보도자료-하반기 문화요일 수요일 심야책방 운영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520243&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-하반기 문화요일 수요일 심야책방 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520242&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-하반기 문화요일 수요일 심야책방 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-08-04T23:30:59.170630+00:00"
+    },
+    {
+      "title": "'꿈의 예술단' 아동·청소년 단원, '꿈의 페스티벌로' 하나 된다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773376",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "'꿈의 예술단' 아동·청소년 단원, '꿈의 페스티벌로' 하나 된다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0805]문체부보도자료-평창과 밀양에서 2026 꿈의 페스티벌 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520241&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-평창과 밀양에서 2026 꿈의 페스티벌 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520240&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-평창과 밀양에서 2026 꿈의 페스티벌 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-04T23:30:59.170630+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
