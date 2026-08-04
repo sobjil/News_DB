@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T04:46:01.027905+00:00",
-  "count": 2323,
+  "updated": "2026-08-04T05:01:08.653075+00:00",
+  "count": 2327,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -862,6 +862,85 @@
         }
       ],
       "_attAt": "2026-08-04T04:31:07.474466+00:00"
+    },
+    {
+      "title": "(설명) 서울신문, 8.4.(화)\"40도 폭염을 팝니다, 월세 25만원에\" 기사 관련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773301",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-04T00:00:00+09:00",
+      "description": "8.4.(화) 서울신문, \"40도 폭염을 팝니다, 월세 25만원에\"문 의: 외국인력수급대응TF 김형우(044-202-7735)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519916&tblKey=GMN",
+          "filename": "260804_보도설명_서울신문_40도 폭염을 팝니다 월세 25만원에.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519917&tblKey=GMN",
+          "filename": "260804_보도설명_서울신문_40도 폭염을 팝니다 월세 25만원에.pdf"
+        }
+      ],
+      "_attAt": "2026-08-04T05:01:01.360711+00:00"
+    },
+    {
+      "title": "\"인공지능 전환(AX)에 필요한 모든 정보를 한눈에\" 인공지능 전환 일괄(AX 원스톱) 지원포털 『AX360°』 서비스 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773302",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-04T00:00:00+09:00",
+      "description": "- 정부 인공지능 전환(AX) 사업부터 그래픽 처리 장치(GPU)·인공지능(AI) 모델·데이터 등 핵심 정보를 한곳에서 확인 - 기술·업종별 맞춤 검색으로 최적의 인공지능 기업과 해결책(솔루션)을 손쉽게 탐색",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519918&tblKey=GMN",
+          "filename": "260804 즉시 (보도) AX 원스톱 지원포털 「AX360˚」 서비스 개시.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-04T05:01:01.360711+00:00"
+    },
+    {
+      "title": "'초기보호아동 원가정 복귀 지원사업' 인천 이어 두 번째, 경남까지 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773300",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-04T00:00:00+09:00",
+      "description": "'초기보호아동 원가정 복귀 지원사업' 인천 이어 두 번째, 경남까지 확대- 경상남도 광역지방정부 단위 초기보호체계 모델 마련, 8월 중 사업 착수 - 【관련 국정과제】87-3. 아동보호 국가책임 강화 보건복지부(장관 정은경)는 8월 4일(화) '초기보호아동 원가정 복귀 지원 시범사업'에 새롭게 참여할 광역지방정부로 경상남도를 선정했다고 밝혔다. 이에 따라 시범사업 시행지역은 인천광역시('25.7.~)를 포함해 2개 시도로 확대된다. 학대, 부모의 사망 등으로 원가정에서 분리된 아동들은 시·군·구의 중장기 보호조치(입양, 가정위탁, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519914&tblKey=GMN",
+          "filename": "[보도참고자료] ‘초기보호아동 원가정 복귀 지원사업’ 인천 이어 두 번째, 경남까지 확대.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519915&tblKey=GMN",
+          "filename": "[보도참고자료] ‘초기보호아동 원가정 복귀 지원사업’ 인천 이어 두 번째, 경남까지 확대.pdf"
+        }
+      ],
+      "_attAt": "2026-08-04T05:01:01.360711+00:00"
+    },
+    {
+      "title": "AI가 뇌졸중？파킨슨？유방암 진단 돕는다 AX-Sprint 사업 6개 분야 컨소시엄 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773299",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-04T00:00:00+09:00",
+      "description": "AI가 뇌졸중파킨슨유방암 진단 돕는다 AX-Sprint 사업 6개 분야 컨소시엄 선정- 복지부·보산진, 「AI 응용제품 신속 상용화 지원사업(AX-Sprint)」 본격 착수 -- 정부-개발기업-의료기관 간 협력으로 임상 실증부터 시장 진입까지 밀착 지원 - AI 응용제품 신속상용화 지원사업(AX-Sprint) 디지털 의료기기 분야의 총 6개 운영 컨소시엄이 최종 선정되었다. 뇌질환 예측, 암진단, 심혈관 예측 등 다양한 분야에 지원이 이루어질 예정이며, 이에 따라 국내 의료 인공지능(AI)이 단순 개발 단계를 넘어 실제 의료 현장의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519912&tblKey=GMN",
+          "filename": "[보도참고자료] AI가 뇌졸중？파킨슨？유방암 진단 돕는다 AX-Sprint 사업 6개 분야 컨소시엄 선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198519913&tblKey=GMN",
+          "filename": "[보도참고자료] AI가 뇌졸중？파킨슨？유방암 진단 돕는다 AX-Sprint 사업 6개 분야 컨소시엄 선정.pdf"
+        }
+      ],
+      "_attAt": "2026-08-04T05:01:01.360711+00:00"
     },
     {
       "title": "제4차 한-우즈베키스탄 영사협의회 개최",
