@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T09:28:57.153116+00:00",
-  "count": 2343,
+  "updated": "2026-08-05T09:43:35.983411+00:00",
+  "count": 2344,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1687,6 +1687,27 @@
         }
       ],
       "_attAt": "2026-08-05T09:28:40.184124+00:00"
+    },
+    {
+      "title": "법제로 완성하는 국가대전환",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773491",
+      "agency": "법제처",
+      "agencyCode": "moleg",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "법제로 완성하는 국가대전환- 국민과 대통령께 오늘(8.5.) 법제처 제2차 업무보고 진행 - 입법전략 수립부터 정책 집행까지 국정의 속도를 높이는 법제지원 약속 법제처(처장 조원철)는 8월 5일(수) 청와대 영빈관에서 「법제로 완성하는 국가대전환」을 주제로 이재명 정부 제2차 업무보고를 진행하였습니다. 법제처는 올해 하반기 국민주권정부가 더 빨리 국정성과를 창출해낼 수 있도록 입법전략 수립부터 정책의 집행까지 정책 추진 전 과정에 걸친 법제지원을 집중적으로 추진할 계획입니다. 이에 따라 법제처는 ① 국정성과의 속도를 높이는 입법전략",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520778&tblKey=GMN",
+          "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520779&tblKey=GMN",
+          "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T09:43:32.645580+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
