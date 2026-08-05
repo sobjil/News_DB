@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T23:13:34.000911+00:00",
-  "count": 2229,
+  "updated": "2026-08-05T23:28:41.096877+00:00",
+  "count": 2233,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -97,6 +97,90 @@
         }
       ],
       "_attAt": "2026-08-05T22:13:30.748586+00:00"
+    },
+    {
+      "title": "전 세계 11개국 청년 40명, '올바른 한국' 알린다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773502",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "전 세계 11개국 청년 40명, '올바른 한국' 알린다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0806]문체부보도자료-제21기 대한민국 바로알림단 발대식 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520858&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-제21기 대한민국 바로알림단 발대식 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520857&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-제21기 대한민국 바로알림단 발대식 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T23:28:31.068584+00:00"
+    },
+    {
+      "title": "'케이-컬처' 열풍, 서구권·원거리 방한 시장도 사로잡았다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773501",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "'케이-컬처' 열풍, 서구권·원거리 방한 시장도 사로잡았다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0806]문체부보도자료-구미·대양주 방한객 증가.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520856&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-구미·대양주 방한객 증가.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520855&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-구미·대양주 방한객 증가.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T23:28:31.068584+00:00"
+    },
+    {
+      "title": "9월부터 공연 관람료 1만 원 현장할인에 참여할 비수도권 문예회관 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773500",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "9월부터 공연 관람료 1만 원 현장할인에 참여할 비수도권 문예회관 모집 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0806]문체부보도자료-공연 관람료 현장 할인 참여 비수도권 문예회관 모집.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520854&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-공연 관람료 현장 할인 참여 비수도권 문예회관 모집.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520853&tblKey=GMN",
+          "filename": "[0806]문체부보도자료-공연 관람료 현장 할인 참여 비수도권 문예회관 모집.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T23:28:31.068584+00:00"
+    },
+    {
+      "title": "[보도참고] \"스테비아 토마토\", 농산물이 아닌 가공식품입니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773503",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "[보도참고] \"스테비아 토마토\", 농산물이 아닌 가공식품입니다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520859&tblKey=GMN",
+          "filename": "[26.8.6.(목) 보도참고자료] “스테비아 토마토”, 농산물이 아닌 가공식품입니다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520860&tblKey=GMN",
+          "filename": "[26.8.6.(목) 보도참고자료] “스테비아 토마토”, 농산물이 아닌 가공식품입니다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T23:28:31.068584+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
