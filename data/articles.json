@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:29:02.024114+00:00",
+  "updated": "2026-08-05T15:43:47.216260+00:00",
   "count": 2226,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1748,16 +1748,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520778&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520798&tblKey=GMN",
           "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520779&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520799&tblKey=GMN",
           "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.pdf"
         }
       ],
-      "_attAt": "2026-08-05T09:43:32.645580+00:00"
+      "_attAt": "2026-08-05T15:43:40.382148+00:00",
+      "_attRev": 1
     },
     {
       "title": "소방청, 현장 대응력 높이고 국민이 체감하는 안전정책 강화",
