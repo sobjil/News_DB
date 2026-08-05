@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:58:56.647178+00:00",
-  "count": 2333,
+  "updated": "2026-08-05T08:13:42.956625+00:00",
+  "count": 2336,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -533,16 +533,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520386&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520425&tblKey=GMN",
           "filename": "260805 (동정) 고수온 비상대책본부 상황점검회의 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520385&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520426&tblKey=GMN",
           "filename": "260805 (동정) 고수온 비상대책본부 상황점검회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-08-05T01:58:34.186473+00:00"
+      "_attAt": "2026-08-05T08:13:32.597271+00:00",
+      "_attRev": 1
     },
     {
       "title": "관계 기관이 함께, 한 번에 처리 가능한선박 입출항 민원신고 체계를 마련한다",
@@ -1415,7 +1416,19 @@
       "agencyCode": "khs",
       "pubDate": "2026-08-05T00:00:00+09:00",
       "description": "- 세계유산위 '부산 선언' 지속 공유·발전, 「한지문화」 유네스코 인류무형유산 등재 결정(12월)- 대형 산불 등 선제적 화재 대응을 위한 산불용 자동 물뿌리개(스프링클러) 시범설치(5개소) 사업 추진- 국립고궁박물관 '문화유산 속 결혼식' 등 국가유산 열린 공간 조성- 지난 20년간 동결되었던 '궁능 관람료' 현실화 추진국가유산청(청장 허민)은 8월 5일, '국민과 함께 지키고, 미래와 세계로 나아가는 국가유산'을 비전으로 「2026년 하반기 핵심 추진과제」를 발표하였다.지난 7월, 제48차 유네스코 세계유산위원회를 성공적으로 ",
-      "_attFails": 1
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520642&tblKey=GMN",
+          "filename": "0805 국민과 함께 지키고, 미래와 세계로 나아가는 국가유산(본문).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520641&tblKey=GMN",
+          "filename": "0805 국민과 함께 지키고, 미래와 세계로 나아가는 국가유산(붙임).pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T08:13:32.597271+00:00"
     },
     {
       "title": "'대체불가 K-방산'으로의 도약",
@@ -1437,6 +1450,69 @@
         }
       ],
       "_attAt": "2026-08-05T07:58:30.964721+00:00"
+    },
+    {
+      "title": "병무청, 청년 병역이행 지원 등 역점 추진과제 보고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773456",
+      "agency": "병무청",
+      "agencyCode": "mma",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "병무청(청장 홍소영)은 8월 5일 청와대에서 개최된 대통령 주재 부처 업무보고에서 '대체불가 대한민국'을 위해 병무청이 추진해 나갈 역점 과제 등에 대해 보고했다. 주요 추진방향은 ①병역의 공정성 강화 ②청년의 병역이행 지원 ③ AI 기반 병무행정 구현 및 전시 동원태세 확립이며, 내용은 다음과 같다. 1. 병역의 공정성 강화 ✔ 군 복무부적합자 선별 강화를 위한 심리검사 도구 개선 ✔ 인터넷 상 병역면탈 조장정보 단속 대상 확대 등 병역면탈 예방·단속 강화 ✔ 제도 악용 예방 등을 위한 입영연기제도 합리적 개선 ㅇ 정신·심리적 문",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520645&tblKey=GMN",
+          "filename": "20260804(최종배포)병무청, 청년 병역이행 지원 등 역점추진과제 보고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520646&tblKey=GMN",
+          "filename": "20260804(최종배포)병무청, 청년 병역이행 지원 등 역점추진과제 보고.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T08:13:32.597271+00:00"
+    },
+    {
+      "title": "'일상을 안전하게, 변화는 확실하게'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773457",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "'일상을 안전하게, 변화는 확실하게'- 법무부 2026년도 하반기 업무계획 보고 -법무부(장관 정성호)는 8월 5일(수) 청와대 영빈관에서 '26년 상반기 주요 성과와 하반기 주요정책 추진계획을 보고하였습니다. [※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520648&tblKey=GMN",
+          "filename": "(보도자료) ‘일상을 안전하게, 변화는 확실하게’ (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520647&tblKey=GMN",
+          "filename": "(보도자료) ‘일상을 안전하게, 변화는 확실하게’ (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T08:13:32.597271+00:00"
+    },
+    {
+      "title": "(동정) 남재헌 해수부 차관, 수산식품 업계와 현장 애로사항 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773455",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "남재헌 해수부 차관, 수산식품 업계와 현장 애로사항 논의 - 업계·유관기관 현장 애로사항·건의사항 청취, 개선방안 등 논의 남재헌 해양수산부 차관은 8월 5일(수) 수산식품 수출업계와 유관기관 관계자들과 만나 업계의 현장 애로사항을 청취하고, 품목별 수급판로 관련 현안을 논의했다. 이번 간담회는 차관 취임 이후 수출업계와 첫 만남으로, 김·굴·넙치·전복·어묵 등 품목별 업계와 원양산업협회 등 유관기관이 참석했다. 참석자들은 중동 정세 장기화에 따른 물류비 등 부담, 주요국의 관세·비관세장벽 등 업계가 현장에서 겪고 있는 애로사항과 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520644&tblKey=GMN",
+          "filename": "260805 (동정) 남재헌 해수부 차관, 수산식품 업계와 현장 애로사항 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520643&tblKey=GMN",
+          "filename": "260805 (동정) 남재헌 해수부 차관, 수산식품 업계와 현장 애로사항 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T08:13:32.597271+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
