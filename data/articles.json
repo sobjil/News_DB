@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T01:43:44.457004+00:00",
-  "count": 2290,
+  "updated": "2026-08-05T01:58:38.061639+00:00",
+  "count": 2291,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -500,6 +500,27 @@
         }
       ],
       "_attAt": "2026-08-05T01:43:40.442084+00:00"
+    },
+    {
+      "title": "(동정) 황종우 해양수산부 장관, 고수온 비상대책본부 상황점검회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773401",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "황종우 해양수산부 장관, 고수온 비상대책본부 상황점검회의 개최- 고수온 특보 발령 해역 7개 지방정부 등 관계기관 대응상황 점검 황종우 해양수산부 장관은 8월 5일(수) 해양수산부 청사에서 지방정부, 관계기관과 함께 고수온에 따른 어업재해 대응 상황을 점검하고 피해 최소화 방안을 논의하기 위해 「고수온 비상대책본부 상황점검회의」를 개최했다. 황 장관은 그간 적조·고수온 발생에 대비한 실전형 해상훈련에 참여하고, 고수온 우려지역의 양식어가를 방문하여 대응 계획을 점검하는 등 피해예방을 위한 현장점검을 실시해 왔다. 그러나 최근 연이은",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520386&tblKey=GMN",
+          "filename": "260805 (동정) 고수온 비상대책본부 상황점검회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520385&tblKey=GMN",
+          "filename": "260805 (동정) 고수온 비상대책본부 상황점검회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T01:58:34.186473+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
