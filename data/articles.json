@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:44:35.538390+00:00",
-  "count": 2331,
+  "updated": "2026-08-05T07:58:56.647178+00:00",
+  "count": 2333,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -511,16 +511,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520377&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520392&tblKey=GMN",
           "filename": "보도자료(서부지방산림청장, 산불진화차·드론 활용 폭염 피해 예방 총력).hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520376&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520391&tblKey=GMN",
           "filename": "보도자료(서부지방산림청장, 산불진화차·드론 활용 폭염 피해 예방 총력).hwp"
         }
       ],
-      "_attAt": "2026-08-05T01:43:40.442084+00:00"
+      "_attAt": "2026-08-05T07:58:30.964721+00:00",
+      "_attRev": 1
     },
     {
       "title": "(동정) 황종우 해양수산부 장관, 고수온 비상대책본부 상황점검회의 개최",
@@ -1406,6 +1407,36 @@
         }
       ],
       "_attAt": "2026-08-05T07:28:33.412784+00:00"
+    },
+    {
+      "title": "국민과 함께 지키고, 미래와 세계로 나아가는 국가유산",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773451",
+      "agency": "국가유산청",
+      "agencyCode": "khs",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 세계유산위 '부산 선언' 지속 공유·발전, 「한지문화」 유네스코 인류무형유산 등재 결정(12월)- 대형 산불 등 선제적 화재 대응을 위한 산불용 자동 물뿌리개(스프링클러) 시범설치(5개소) 사업 추진- 국립고궁박물관 '문화유산 속 결혼식' 등 국가유산 열린 공간 조성- 지난 20년간 동결되었던 '궁능 관람료' 현실화 추진국가유산청(청장 허민)은 8월 5일, '국민과 함께 지키고, 미래와 세계로 나아가는 국가유산'을 비전으로 「2026년 하반기 핵심 추진과제」를 발표하였다.지난 7월, 제48차 유네스코 세계유산위원회를 성공적으로 ",
+      "_attFails": 1
+    },
+    {
+      "title": "'대체불가 K-방산'으로의 도약",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773452",
+      "agency": "방위사업청",
+      "agencyCode": "dapa",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 방위사업청, 대통령 주재 부처 업무보고를 통해 하반기 핵심 추진과제 발표 -방위사업청(청장 이용철)은 8월 5일(수) 청와대 영빈관에서 국방부 및 병무청과 함께 '나라의 평화, 국민의 자부심 대체불가 대한민국'을 주제로 2026년 하반기 대통령 업무보고를 진행했습니다.방위사업청은 이번 업무보고를 통해 '26년 상반기 주요 성과 및 하반기 5대 핵심 추진과제를 발표했습니다.【 하반기 5대 핵심 추진과제 】① 자주국방을 위한 핵심전력 확보전작권 전환에 필요한 전력과 인공지능(AI)·유무인체계 등 핵심전력을 적기에 확보하고, 핵추진잠",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520629&tblKey=GMN",
+          "filename": "260805 [방사청 보도자료] &#039;대체불가 K-방산&#039;으로의 도약.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520630&tblKey=GMN",
+          "filename": "260805 [방사청 보도자료] &#039;대체불가 K-방산&#039;으로의 도약.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T07:58:30.964721+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
