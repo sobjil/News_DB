@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T01:58:38.061639+00:00",
-  "count": 2291,
+  "updated": "2026-08-05T02:14:02.362140+00:00",
+  "count": 2297,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -521,6 +521,147 @@
         }
       ],
       "_attAt": "2026-08-05T01:58:34.186473+00:00"
+    },
+    {
+      "title": "관계 기관이 함께, 한 번에 처리 가능한선박 입출항 민원신고 체계를 마련한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773405",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "관계 기관이 함께, 한 번에 처리 가능한선박 입출항 민원신고 체계를 마련한다 - 해수부·법무부·관세청·질병관리청 협업을 통한 선박 입출항 통합 신고체계 마련 추진 해양수산부(장관 황종우)는 8월 6일(목) 법무부·관세청·질병관리청과 함께 「선박 입출항 관련 기관 통합 민원 신고체계 마련을 위한 연구용역」에 착수한다고 밝혔다. 현재는 외항선이 입항하거나 출항할 때 관계 법령에 따라 해양수산부(해운항만물류정보시스템, PORT-MIS), 법무부(출입국관리정보시스템), 관세청(전자통관시스템, UNI-PASS), 질병관리청(방역통합정보시스템",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520407&tblKey=GMN",
+          "filename": "260806(조간) 관계 기관이 함께, 한 번에 처리 가능한선박 입출항 민원신고 체계를 마련한다(항만물류산업과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520406&tblKey=GMN",
+          "filename": "260806(조간) 관계 기관이 함께, 한 번에 처리 가능한선박 입출항 민원신고 체계를 마련한다(항만물류산업과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "\"쌀의 유전자지문을 찾아라\" 경북도 미래인력 '종자전쟁 속 CSI 수사' 펼쳤다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773404",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "국립종자원(원장 양주필)은 '종자전쟁 속 CSI 수사이야기'라는 학교 밖 교육과정을 8.3~4일간 경상북도의 일반고등학교 학생을 대상으로 운영하였다. * CSI: Crime Scene Investigator(범죄 현장에서 증거를 과학적으로 수집·분석하는 전문가) 동 교육과정은 국립종자원 국제종자생명교육센터(이하 '교육센터')와 경상북도 교육청(이하 '경북교육청')이 도내 고등학생들의 이공계 진로탐색, 과학역량 강화 및 종자·생명산업에 대한 관심 제고를 위해 지난 3월 23일 체결한 '노벨과학의 꿈 캠퍼스 운영을 위한 업무협약'의 일",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520404&tblKey=GMN",
+          "filename": "(국립종자원) &#039;쌀의 유전자지문을 찾아라&#039; 경북도 미래인력 종자전쟁속 CSI 수사이야기(8.5 11시 온라인).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520403&tblKey=GMN",
+          "filename": "(국립종자원) &#039;쌀의 유전자지문을 찾아라&#039; 경북도 미래인력 종자전쟁속 CSI 수사이야기(8.5 11시 온라인).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520405&tblKey=GMN",
+          "filename": "(국립종자원) &#039;쌀의 유전자지문을 찾아라&#039; 경북도 미래인력 종자전쟁속 CSI 수사이야기(8.5 11시 온라인).hwp"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "바람을 읽는 기술, 5년간의 한반도 바람을 1km 해상도, 10분 간격으로 재현하다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773406",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "바람을 읽는 기술, 5년간의 한반도 바람을 1km 해상도, 10분 간격으로 재현하다- 인공지능(AI)과 수치예보의 융합기술로 최근 5년(2021.6.∼2026.5.)바람 분석정보 제공 기상청(청장 이미선)은 자체 개발한 인공지능(AI)과 수치예보기술을 융합한 인공지능(AI)-변분자료동화 기술로 최근 5년(2021.6.~2026.5.)간의 한반도 바람 분석정보(재현바람장)를 1km 공간해상도, 10분 간격으로 생산하여 제공한다.* 인공지능(AI)-변분자료동화: 불규칙하게 분포한 관측자료와 수치예보모델 결과를 수학적으로 결합해 특정 시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520410&tblKey=GMN",
+          "filename": "20260805_보도자료_바람을 읽는 기술, 5년간의 한반도 바람을 1km 해상도, 10분 간격으로 재현하다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520412&tblKey=GMN",
+          "filename": "20260805_보도자료_바람을 읽는 기술, 5년간의 한반도 바람을 1km 해상도, 10분 간격으로 재현하다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520411&tblKey=GMN",
+          "filename": "20260805_보도자료_바람을 읽는 기술, 5년간의 한반도 바람을 1km 해상도, 10분 간격으로 재현하다.hwp"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "대체불가 외교강국, 세계가 찾는 대한민국",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773407",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "외교부와 재외동포청은 8월 5일(수) 10시 청와대 영빈관에서 주요 업무를 보고하였다.업무보고 개요· (일시/장소) 8.5.(수) 10:00~11:40/청와대 영빈관 (KTV 생방송)· (참석자) 약 164명ㅇ 외교부 장관, 1･2차관, 외교전략정보본부장, 재외동포청장, 한국국제교류재단 이사장, 한국국제협력단 이사장 대행 등· (주요 내용) 기관별 '26년 상반기 주요 성과 및 향후 핵심 추진과제 오늘 보고는 작년 12월 있었던 새 정부 첫 업무보고에 이은 것으로서 외교부와 재외동포청은 '26년 상반기 주요 성과 및 향후 핵심 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520413&tblKey=GMN",
+          "filename": "[26-650](공동보도자료) 대체불가 외교강국, 세계가 찾는 대한민국.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520414&tblKey=GMN",
+          "filename": "[26-650](공동보도자료) 대체불가 외교강국, 세계가 찾는 대한민국.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520415&tblKey=GMN",
+          "filename": "(별첨1) 외교부_재외동포청_업무보고_PPT.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520417&tblKey=GMN",
+          "filename": "(별첨2) 외교부_재외동포청_서면 업무보고 자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520416&tblKey=GMN",
+          "filename": "(별첨2) 외교부_재외동포청_서면 업무보고 자료.hwp"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "'제72회 전국과학전람회' 지역에서 시작된 과학탐구, 전국무대로 이어진다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773403",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 지역대회 출품작 3,479점 중 우수작품 301점 전국대회 진출 - 9월 18일부터 전국대회 출품작 전시...국민 누구나 관람 가능",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520400&tblKey=GMN",
+          "filename": "260805 즉시 (보도) ‘제72회 전국과학전람회’ 지역에서 시작된 과학탐구, 전국무대로 이어진다.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "태양이 사라진 뒤, 별똥별이 쏟아진다 -국립과천과학관, 지구를 잇는 6시간 우주탐험 생중계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773402",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 121년 만에 스페인 개기일식, 페르세우스 유성우 극대기 샙방송(라이브) - 하룻밤 두 번의 우주쇼...한국·스페인·하와이 3원 연속(릴레이) 생중계 - 한여름 밤, 단 하루, 두 개의 우주쇼를 방구석에서 만난다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520398&tblKey=GMN",
+          "filename": "260805 즉시 (보도) 태양이 사라진 뒤, 별똥별이 쏟아진다-국립과천과학관, 지구를 잇는 6시간 우주탐험 생중계.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-05T02:13:38.362683+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
@@ -2010,8 +2151,8 @@
           "filename": "(별첨1)산업통상부 하반기 업무보고.hwp"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "가장 먼저 미래사회로, 대체불가 대한민국",
@@ -2032,8 +2173,8 @@
           "filename": "가장 먼저 미래사회로 대체불가 대한민국(2026 하반기 업무보고)(기후에너지환경부 보도자료).pdf"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "동부지방산림청장, 대관령 대규모 풍력발전단지 현장점검 실시",
@@ -2049,8 +2190,8 @@
           "filename": "(260804)보도자료(동부지방산림청장, 대관령 대규모 풍력발전단지 현장점검 실시).hwpx"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "중수청, 직제·임용령 제정 및 청사 확보 등 개청 준비 본격화",
@@ -2071,8 +2212,8 @@
           "filename": "260805 (16시30분) 중수청 직제·임용령 제정 및 청사 확보 등 개청 준비 본격화(중수청개청준비단).pdf"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "'소총에서 위성까지'... 국방과학연구소, 창립 56돌 맞았다",
@@ -2093,8 +2234,8 @@
           "filename": "260804 [국과연 보도자료] 창립 56주년 기념식 개최.pdf"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "(참고자료)한-방글라데시 CEPA 원칙적 타결",
@@ -2115,8 +2256,8 @@
           "filename": "(참고자료)통상협정협상총괄과, 한-방글라데시 CEPA 원칙적 타결.pdf"
         }
       ],
-      "_attAt": "2026-08-04T20:01:14.997495+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T02:13:38.362683+00:00",
+      "_attRev": 3
     },
     {
       "title": "8.31.(월)까지 법인세 중간예납 신고·납부 하세요",
