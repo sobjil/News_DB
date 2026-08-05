@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T02:14:02.362140+00:00",
-  "count": 2297,
+  "updated": "2026-08-05T02:28:35.693793+00:00",
+  "count": 2298,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -662,6 +662,27 @@
         }
       ],
       "_attAt": "2026-08-05T02:13:38.362683+00:00"
+    },
+    {
+      "title": "제147차 국제행사심사위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773408",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "기획예산처는 '26.8.5.(수) 오전 10시 무역보험공사 11층 대회의실에서 조용범 차관 주재로 제147차 국제행사심사위원회를 개최하였습니다. 자세한 내용은 첨부파일을 참조바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520424&tblKey=GMN",
+          "filename": "260805 제147차 국제행사심사위원회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520423&tblKey=GMN",
+          "filename": "260805 제147차 국제행사심사위원회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T02:28:31.887944+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
