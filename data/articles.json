@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:13:59.761816+00:00",
-  "count": 2329,
+  "updated": "2026-08-05T07:28:39.155696+00:00",
+  "count": 2331,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1359,6 +1359,53 @@
         }
       ],
       "_attAt": "2026-08-05T07:13:39.997138+00:00"
+    },
+    {
+      "title": "문체부 하반기 업무보고, 케이-문화·체육·관광으로 '대체불가 문화강국' 도약",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773448",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "문체부 하반기 업무보고, 케이-문화·체육·관광으로 '대체불가 문화강국' 도약 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0805]문체부보도자료-2026년 문체부 하반기 업무보고.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520602&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-2026년 문체부 하반기 업무보고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520601&tblKey=GMN",
+          "filename": "[0805]문체부보도자료-2026년 문체부 하반기 업무보고.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520603&tblKey=GMN",
+          "filename": "업무보고 서면자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520604&tblKey=GMN",
+          "filename": "업무보고 발표자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T07:28:33.412784+00:00"
+    },
+    {
+      "title": "[보도자료] 국가교육위원회 2026년 대통령 업무보고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773447",
+      "agency": "국가교육위원회",
+      "agencyCode": "",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "□ 국가교육위원회(위원장 : 차정인)는 8월 5일(수) 14시 교육부, 문화체육관광부, 국가유산청과 합동으로 주요 업무를 보고하였다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520600&tblKey=GMN",
+          "filename": "[국교위 8-5(수) 보도자료] 국가교육위원회 2026년 대통령 업무보고.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-05T07:28:33.412784+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
