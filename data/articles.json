@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T06:13:42.734617+00:00",
-  "count": 2324,
+  "updated": "2026-08-05T06:28:37.548792+00:00",
+  "count": 2325,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1226,6 +1226,32 @@
         }
       ],
       "_attAt": "2026-08-05T06:13:31.867759+00:00"
+    },
+    {
+      "title": "'모두의 미래를 위한 교육'으로 '대체불가 인재강국' 도약",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773442",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "'모두의 미래를 위한 교육'으로 '대체불가 인재강국' 도약- 오늘(8.5.) 국민과 대통령께 2026년 하반기 교육부 업무계획 보고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520576&tblKey=GMN",
+          "filename": "[교육부 08-05(수) 보고종료시(별도안내)보도자료] 모두의 미래를 위한 교육으로 대체불가 인재강국 도약.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520577&tblKey=GMN",
+          "filename": "[별첨1] (교육부) 업무보고자료 서면자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520578&tblKey=GMN",
+          "filename": "[별첨2] (교육부) 업무보고자료 발표자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T06:28:33.717840+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
