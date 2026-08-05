@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T08:28:49.654416+00:00",
-  "count": 2339,
+  "updated": "2026-08-05T08:43:37.775172+00:00",
+  "count": 2341,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1583,6 +1583,53 @@
         }
       ],
       "_attAt": "2026-08-05T08:28:33.825054+00:00"
+    },
+    {
+      "title": "이석연 위원장, 경주·울산 방문… \"국민통합의 힘은 현장에서 시작됩니다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773463",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520677&tblKey=GMN",
+          "filename": "이석연 위원장, 경주·울산 방문… 국민통합의 힘은 현장에서 시작됩니다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520676&tblKey=GMN",
+          "filename": "이석연 위원장, 경주·울산 방문… 국민통합의 힘은 현장에서 시작됩니다.hwp"
+        }
+      ],
+      "_attAt": "2026-08-05T08:43:32.662574+00:00"
+    },
+    {
+      "title": "모두의 행복, 모두의 안전, 국민 삶을 플러스+ 하겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773465",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 국정운영 중추부처로서 생명안전·민생회복·AI전환·균형성장 핵심성과 창출- 7대 역점과제와 개혁·성장·정상화·체감과제 신속 추진으로 국민 삶 변화 본격화 행정안전부(장관 윤호중)는 8월 5일 「정부와 국민이 함께하는 업무보고」를 통해 지난 6개월간의 주요 성과를 되짚어보고, 하반기에 신속히 추진하여 국민이 체감할 수 있는 핵심 과제들을 발표했다. 상반기 주요 성과 행정안전부는 지난 6개월 동안 국민의 생명과 안전을 지키는데 총력을 기울여 왔다. 대설과 산불로 인한 인명피해는 물론 대규모 행사에서도 인파사고 '제로(0)'라는 값진 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520685&tblKey=GMN",
+          "filename": "[보도자료] 260805 (업무보고 종료 시) 모두의 행복 모두의 안전 국민 삶을 플러스+ 하겠습니다(기획재정담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520686&tblKey=GMN",
+          "filename": "[보도자료] 260805 (업무보고 종료 시) 모두의 행복 모두의 안전 국민 삶을 플러스+ 하겠습니다(기획재정담당관).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520687&tblKey=GMN",
+          "filename": "행정안전부 업무보고.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T08:43:32.662574+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
