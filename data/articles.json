@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T02:28:35.693793+00:00",
-  "count": 2298,
+  "updated": "2026-08-05T02:43:42.326141+00:00",
+  "count": 2299,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -683,6 +683,27 @@
         }
       ],
       "_attAt": "2026-08-05T02:28:31.887944+00:00"
+    },
+    {
+      "title": "원안위, 원자력이용시설 폭염 대응 현황 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773409",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "원안위, 원자력이용시설 폭염 대응 현황 점검원전 등 원자력이용시설 폭염 영향 대비 철저 모니터링 및 신속 대응 요구 원자력안전위원회(위원장 최원호, 이하 원안위)는 전국적으로 연일 폭염이 지속됨에 따라 원자력이용시설*의 안전성 및 대응 상황을 긴급 점검하였다.* 원자력발전소, 중저준위방사성폐기물 처분시설, 연구용 원자로 등 이날 점검은 최원호 위원장 주재로 원자력이용시설이 위치한 전국 6개 원안위 지역사무소(고리, 월성, 한빛, 한울, 새울, 대전)와 안전규제 전문기관(한국원자력안전기술원, 한국원자력통제기술원), 한국수력원자력㈜ 등",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520438&tblKey=GMN",
+          "filename": "260805_원안위, 원자력이용시설 폭염 대응 현황 점검_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520439&tblKey=GMN",
+          "filename": "260805_원안위, 원자력이용시설 폭염 대응 현황 점검_보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T02:43:38.147888+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
