@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T20:58:36.966812+00:00",
-  "count": 2226,
+  "updated": "2026-08-05T21:13:39.656355+00:00",
+  "count": 2227,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "현대·기아 등 자발적 시정조치(리콜)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773496",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "현대·기아 등 자발적 시정조치(리콜) 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520842&tblKey=GMN",
+          "filename": "260806(석간)_현대·기아_등_자발적_시정조치(자동차정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520843&tblKey=GMN",
+          "filename": "260806(석간)_현대·기아_등_자발적_시정조치(자동차정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T21:13:34.423253+00:00"
+    },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773371",
@@ -733,8 +754,8 @@
           "filename": "260805_원안위, 원자력이용시설 폭염 대응 현황 점검_보도자료.pdf"
         }
       ],
-      "_attAt": "2026-08-05T14:58:38.577931+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-05T21:13:34.423253+00:00",
+      "_attRev": 3
     },
     {
       "title": "노인일자리 안전전담인력 613명 신규 배치",
