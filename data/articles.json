@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T04:58:32.171825+00:00",
-  "count": 2311,
+  "updated": "2026-08-05T05:13:39.491498+00:00",
+  "count": 2313,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -963,6 +963,43 @@
         }
       ],
       "_attAt": "2026-08-05T04:43:30.896063+00:00"
+    },
+    {
+      "title": "과기정통부, 산·학 협력으로 블록체인 고급인재 양성 본격화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773425",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "- 2개 연합체(컨소시엄)·5개 대학 참여, 블록체인 특성화 대학(원) 출범- 「2026년 블록체인 특성화 대학(원) 지원사업」 선정 대학 중심으로 블록체인 교과과정 개설 및 산·학 연계과정 운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520496&tblKey=GMN",
+          "filename": "260806 조간 (보도) 과기정통부 산·학 협력으로 블록체인 고급인재 양성 본격화 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-05T05:13:33.928524+00:00"
+    },
+    {
+      "title": "국가보훈부 2026년 하반기 업무보고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773424",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-08-05T00:00:00+09:00",
+      "description": "국가보훈부 2026년 하반기 업무보고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520494&tblKey=GMN",
+          "filename": "260805 보도자료(국가보훈부 2026년 하반기 업무보고)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520495&tblKey=GMN",
+          "filename": "260805 보도자료(국가보훈부 2026년 하반기 업무보고)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-08-05T05:13:33.928524+00:00"
     },
     {
       "title": "'튼튼머니', 생활체육 참여 문화 확산 이끈다",
