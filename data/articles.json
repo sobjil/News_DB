@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T03:28:36.862571+00:00",
-  "count": 2270,
+  "updated": "2026-08-06T03:43:39.352661+00:00",
+  "count": 2271,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1008,6 +1008,32 @@
         }
       ],
       "_attAt": "2026-08-06T03:28:32.142150+00:00"
+    },
+    {
+      "title": "2025년 기준 운수업조사 및 기업활동조사 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773552",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "국가데이터처는 8월 6일(목)부터 8월 27일(목)까지 전국 약 3만1천개 기업체를 대상으로 ｢2025년 기준 운수업조사 및 기업활동조사｣를 실시한다. 본 조사는 우리나라 산업구조 변화와 기업 경영활동 실태 등을 파악하기 위해 매년 시행하는 조사로, 기업체의 응답부담 경감을 위해 2종의 경제통계조사를 동시에 진행한다. 이번 조사 대상 기업체는 조사원이 기업체를 직접 방문하는 대면 조사와 응답자 편의를 위한 다양한 비대면 조사* 중 원하는 방식을 선택하여 참여할 수 있다. * 인터넷, 이메일, 팩스, 전화 등 조사 결과는 우리나라 각",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521147&tblKey=GMN",
+          "filename": "2025년 기준 운수업조사 및 기업활동조사 실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521146&tblKey=GMN",
+          "filename": "2025년 기준 운수업조사 및 기업활동조사 실시.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521148&tblKey=GMN",
+          "filename": "2025년 기준 운수업조사 및 기업활동조사 실시.hwp"
+        }
+      ],
+      "_attAt": "2026-08-06T03:43:32.555411+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
@@ -2647,22 +2673,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520772&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520921&tblKey=GMN",
           "filename": "(축산정책관-축산정책과) 김종구 농식품부 차관 폭염 대비 산란계·젖소 농장 점검(8.5 18시 온라인) 수정본.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520771&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520920&tblKey=GMN",
           "filename": "(축산정책관-축산정책과) 김종구 농식품부 차관 폭염 대비 산란계·젖소 농장 점검(8.5 18시 온라인) 수정본.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520773&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520922&tblKey=GMN",
           "filename": "(축산정책관-축산정책과) 김종구 농식품부 차관 폭염 대비 산란계·젖소 농장 점검(8.5 18시 온라인) 수정본.hwp"
         }
       ],
-      "_attAt": "2026-08-05T21:43:31.573133+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T03:43:32.555411+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"'야, 너' 대신 이름을 불러주세요\" 이주노동자 노동존중 캠페인 개최",
@@ -2683,8 +2709,8 @@
           "filename": "260805_보도자료_이주노동자 노동존중 캠페인.pdf"
         }
       ],
-      "_attAt": "2026-08-05T21:43:31.573133+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T03:43:32.555411+00:00",
+      "_attRev": 3
     },
     {
       "title": "법제로 완성하는 국가대전환",
