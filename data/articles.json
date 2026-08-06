@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T00:28:50.864033+00:00",
-  "count": 2235,
+  "updated": "2026-08-06T00:43:37.145851+00:00",
+  "count": 2236,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -253,6 +253,27 @@
         }
       ],
       "_attAt": "2026-08-06T00:28:37.805493+00:00"
+    },
+    {
+      "title": "정부, 인천시 '맨홀 질식사고 근절' 공동 선언",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773506",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "- 국민의 생명을 지키는 정부, 시민의 생명을 지키는 인천 - 고용노동부(장관 김영훈)와 인천광역시(시장 박찬대)는 8월 6일(목) 인천광역시청(본청) 대회의실에서 안전제일 인천 도약을 위한 「맨홀 질식사고 근절 선언식」을 개최하였다. 이는 공공부문이 발주하는 밀폐공간 작업의 중대재해 근절을 위해 적극 협력하기 위함이다. 이번 선언식은 최근 지방정부 발주 공사와 공공기관의 하수관로·맨홀 작업 중 유해가스 중독 및 2차 구조 재해가 반복 발생함에 따라, 중앙정부와 지방정부의 근본적인 관리체계 혁신이 필요하다는 데 고용노동부와 인천광역",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520882&tblKey=GMN",
+          "filename": "260806_보도자료_맨홀 질식 사고 근절 공동선언(수정).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520881&tblKey=GMN",
+          "filename": "260806_보도자료_맨홀 질식 사고 근절 공동선언(수정).pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T00:43:31.254287+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
