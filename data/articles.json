@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T22:58:38.605402+00:00",
-  "count": 2195,
+  "updated": "2026-08-06T23:13:41.950939+00:00",
+  "count": 2199,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -118,6 +118,95 @@
         }
       ],
       "_attAt": "2026-08-06T22:13:36.962618+00:00"
+    },
+    {
+      "title": "신임 국립중앙도서관 관장에 남영준 명예교수 임명",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773635",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "신임 국립중앙도서관 관장에 남영준 명예교수 임명 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0807]문체부보도자료-신임 국립중앙도서관 관장 임명.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521528&tblKey=GMN",
+          "filename": "[0807]문체부보도자료-신임 국립중앙도서관 관장 임명.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521527&tblKey=GMN",
+          "filename": "[0807]문체부보도자료-신임 국립중앙도서관 관장 임명.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T23:13:32.685200+00:00"
+    },
+    {
+      "title": "외교부 공관장 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773638",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521534&tblKey=GMN",
+          "filename": "[26-654](보도자료) 외교부 공관장 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521533&tblKey=GMN",
+          "filename": "[26-654](보도자료) 외교부 공관장 인사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521535&tblKey=GMN",
+          "filename": "붙임) 국영문 이력서 3부.hwp"
+        }
+      ],
+      "_attAt": "2026-08-06T23:13:32.685200+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 제품화 지원 성과 담은 '혁신제품 사전상담 현황 보고서' 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773637",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 제품화 지원 성과 담은 '혁신제품 사전상담 현황 보고서' 발간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521531&tblKey=GMN",
+          "filename": "[26.8.7.(금) 보도참고자료] 식약처, 제품화 지원 성과 담은 ‘혁신제품 사전상담 현황 보고서’ 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521532&tblKey=GMN",
+          "filename": "[26.8.7.(금) 보도참고자료] 식약처, 제품화 지원 성과 담은 ‘혁신제품 사전상담 현황 보고서’ 발간.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T23:13:32.685200+00:00"
+    },
+    {
+      "title": "2025년 식중독 통계 발표, 살모넬라 지속 증가에 따른 예방 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773636",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "2025년 식중독 통계 발표, 살모넬라 지속 증가에 따른 예방 당부",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521529&tblKey=GMN",
+          "filename": "[26.8.7.(금) 보도자료] 2025년 식중독 통계 발표, 살모넬라 지속 증가에 따른 예방 당부.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521530&tblKey=GMN",
+          "filename": "[26.8.7.(금) 보도자료] 2025년 식중독 통계 발표, 살모넬라 지속 증가에 따른 예방 당부.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T23:13:32.685200+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
