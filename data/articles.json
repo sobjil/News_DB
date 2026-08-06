@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T00:13:50.213140+00:00",
-  "count": 2233,
+  "updated": "2026-08-06T00:28:50.864033+00:00",
+  "count": 2235,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -181,6 +181,78 @@
         }
       ],
       "_attAt": "2026-08-05T23:28:31.068584+00:00"
+    },
+    {
+      "title": "군납용 아이스크림, 군장병 입맛에 따라 공급",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773505",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "군납용 아이스크림, 군장병 입맛에 따라 공급조달청, 구매방법 개선으로 군장병에게 아이스크림 선택권 부여 조달청(청장 백승보)은 군장병 급식용 아이스크림의 구매 방식을 단일 업체 계약에서 '다수공급자계약'*으로 변경하여, 나라장터 쇼핑몰에서 다양하게 공급한다. * (다수공급자계약) 다양한 시중제품을 다수의 업체와 계약한 후 나라장터 쇼핑몰을 통해 공급하는 제도로, 수요기관이 원하는 업체의 제품을 선택 가능 이번 제도 개선은 단일 업체의 한정된 제품만 공급되는 기존 구매 방식으로는 청년 MZ세대 장병의 다양한 입맛과 선호를 충족시키기 ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520873&tblKey=GMN",
+          "filename": "260806_(보도자료)_아이스크림 군 장병 입맛대로 선택 가능_배포용.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520874&tblKey=GMN",
+          "filename": "260806_(보도자료)_아이스크림 군 장병 입맛대로 선택 가능_배포용.hwp"
+        }
+      ],
+      "_attAt": "2026-08-06T00:28:37.805493+00:00"
+    },
+    {
+      "title": "비상경제본부 회의 겸 경제·구조혁신 관계장관회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773504",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "구윤철 부총리 겸 재정경제부장관은 8.6일(목) 08:30 정부서울청사에서 비상경제본부 회의 겸 경제·구조혁신 관계장관회의를 주재하였습니다. ※ 자세한 내용은 첨부자료를 참고하여 주시기 바랍니다.문의. 재정경제부 정책조정관 정책조정총괄과 임강빈 (044-215-4513)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520867&tblKey=GMN",
+          "filename": "(별첨1) 부총리 모두말씀★.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520869&tblKey=GMN",
+          "filename": "(별첨2) 경제구조혁신 추진방향★배포.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520871&tblKey=GMN",
+          "filename": "(별첨3) 국가자산 관리체계 대전환(K-Asset 혁신 프로젝트) 추진방향★배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520866&tblKey=GMN",
+          "filename": "260806 비상경제본부 회의 겸 경제·구조혁신 관계장관회의 보도자료★.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520868&tblKey=GMN",
+          "filename": "(별첨1) 부총리 모두말씀★.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520870&tblKey=GMN",
+          "filename": "(별첨2) 경제구조혁신 추진방향★배포.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520872&tblKey=GMN",
+          "filename": "(별첨3) 국가자산 관리체계 대전환(K-Asset 혁신 프로젝트) 추진방향★배포.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520865&tblKey=GMN",
+          "filename": "260806 비상경제본부 회의 겸 경제·구조혁신 관계장관회의 보도자료★.hwp"
+        }
+      ],
+      "_attAt": "2026-08-06T00:28:37.805493+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
@@ -1327,8 +1399,8 @@
           "filename": "보도자료(동부지방산림청장， 동해시 소나무재선충병 방제사업지 현장점검).hwpx"
         }
       ],
-      "_attAt": "2026-08-05T18:28:32.963954+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T00:28:37.805493+00:00",
+      "_attRev": 3
     },
     {
       "title": "중앙아시아까지 퍼진 한국인 스캠조직, 한-카자흐 합동 검거작전*으로 일망타진",
@@ -1349,8 +1421,8 @@
           "filename": "260805(1200) 한-카자흐 합동 검거작전(국제공조1).pdf"
         }
       ],
-      "_attAt": "2026-08-05T18:28:32.963954+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T00:28:37.805493+00:00",
+      "_attRev": 3
     },
     {
       "title": "북부지방산림청, 폭염·태풍 영향 대비 임도사업장 안전점검 실시",
@@ -1371,8 +1443,8 @@
           "filename": "(북부지방산림청) 북부지방산림청, 폭염·태풍 영향 대비 임도사업장 안전점검 실시.hwp"
         }
       ],
-      "_attAt": "2026-08-05T18:28:32.963954+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T00:28:37.805493+00:00",
+      "_attRev": 3
     },
     {
       "title": "마음을 나누는 공간, 새만금개발청 '마음쉼터' 문 열다",
@@ -1398,8 +1470,8 @@
           "filename": "260805 마음을 나누는 공간 새만금개발청 마음쉼터 문 열다.hwp"
         }
       ],
-      "_attAt": "2026-08-05T18:28:32.963954+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T00:28:37.805493+00:00",
+      "_attRev": 3
     },
     {
       "title": "'모두의 미래를 위한 교육'으로 '대체불가 인재강국' 도약",
@@ -1938,7 +2010,7 @@
       "_attRev": 2
     },
     {
-      "title": "'지역·청년 인재 성장 지원, 공직 문턱 낮춘다'",
+      "title": "\"지역·청년 인재 성장 지원, 공직 문턱 낮춘다\"",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773499",
       "agency": "인사혁신처",
       "agencyCode": "mpm",
