@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T06:28:36.974844+00:00",
-  "count": 2294,
+  "updated": "2026-08-06T06:43:45.184145+00:00",
+  "count": 2297,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -207,7 +207,8 @@
           "filename": "260806_(보도자료)_아이스크림 군 장병 입맛대로 선택 가능_배포용.hwp"
         }
       ],
-      "_attAt": "2026-08-06T00:28:37.805493+00:00"
+      "_attAt": "2026-08-06T06:43:34.642491+00:00",
+      "_attRev": 1
     },
     {
       "title": "비상경제본부 회의 겸 경제·구조혁신 관계장관회의 개최",
@@ -258,7 +259,8 @@
           "filename": "260806 비상경제본부 회의 겸 경제·구조혁신 관계장관회의 보도자료★.hwp"
         }
       ],
-      "_attAt": "2026-08-06T00:28:37.805493+00:00"
+      "_attAt": "2026-08-06T06:43:34.642491+00:00",
+      "_attRev": 1
     },
     {
       "title": "정부, 인천시 '맨홀 질식사고 근절' 공동 선언",
@@ -270,16 +272,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520882&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520884&tblKey=GMN",
           "filename": "260806_보도자료_맨홀 질식 사고 근절 공동선언(수정).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520881&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198520883&tblKey=GMN",
           "filename": "260806_보도자료_맨홀 질식 사고 근절 공동선언(수정).pdf"
         }
       ],
-      "_attAt": "2026-08-06T00:43:31.254287+00:00"
+      "_attAt": "2026-08-06T06:43:34.642491+00:00",
+      "_attRev": 1
     },
     {
       "title": "종자에서 꽃까지... 희귀식물 '해오라비난초' 군락 개화",
@@ -1516,6 +1519,69 @@
         }
       ],
       "_attAt": "2026-08-06T06:28:32.609565+00:00"
+    },
+    {
+      "title": "민간 사회공헌, 필요한 복지 현장으로 연결 사회공헌 활발한 민간 기업 초청 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773587",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "민간 사회공헌, 필요한 복지 현장으로 연결 사회공헌 활발한 민간 기업 초청 간담회 개최- 현수엽 제1차관, 사회공헌 민관 협력 활성화를 위한 간담회 개최 -- 기업 사회공헌 재단·사회적 기업·소셜벤처 등 현장 목소리 청취 -- 고립·은둔 청년 등 새로운 사회적 위험 대응을 위해 민·관 협력은 선택 아닌 필수 - 보건복지부(장관 정은경)는 8월 6일(목) 컨퍼런스하우스달개비(서울 중구)에서 현수엽 제1차관 주재로'사회공헌 민·관 협력 활성화를 위한 간담회'를 개최했다. 이번 간담회는 기업 사회공헌 재단, 사회적 기업·소셜벤처 등 민간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521307&tblKey=GMN",
+          "filename": "[보도참고자료] 민간 사회공헌, 필요한 복지 현장으로 연결 사회공헌 활발한 민간 기업 초청 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521308&tblKey=GMN",
+          "filename": "[보도참고자료] 민간 사회공헌, 필요한 복지 현장으로 연결 사회공헌 활발한 민간 기업 초청 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T06:43:34.642491+00:00"
+    },
+    {
+      "title": "병무청, 인공지능(AI) 활용한 업무비서 서비스 도입으로 더 똑똑해진다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773586",
+      "agency": "병무청",
+      "agencyCode": "mma",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "병무청(청장 홍소영)은 정부의 AI 전환 정책에 발맞춰 병무행정에 특화된 생성형 AI 서비스 'AI 워크메이트'를 10월까지 시범 운영하고, 병무행정 전반의 AX*(AI Transformation)를 12월부터 본격 추진한다. * 단순히 인공지능을 사용하는 것을 넘어 업무방식 자체를 AI 중심으로 재설계하는 것 'AI 워크메이트'는 병무청이 오랜 기간 축적한 정책자료, 법령·규정, 업무매뉴얼, 민원상담 사례 등 약 10만 건의 병무행정 지식을 기반으로 직원에게 업무에 필요한 정보를 제공하는 내부 생성형 AI 서비스다. 병무청은 이번",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521302&tblKey=GMN",
+          "filename": "20260806(최종배포)병무청, 인공지능 활용한 업무비서 서비스 도입으로 더 똑똑해진다(수정).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521303&tblKey=GMN",
+          "filename": "20260806(최종배포)병무청, 인공지능 활용한 업무비서 서비스 도입으로 더 똑똑해진다(수정).pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T06:43:34.642491+00:00"
+    },
+    {
+      "title": "[참고] 국토교통부, 건설현장 폭염 안전 집중 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773585",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "[참고] 국토교통부, 건설현장 폭염 안전 집중 점검 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521300&tblKey=GMN",
+          "filename": "260806(참고) 국토교통부 건설현장 폭염 안전 집중점검(건설안전과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521301&tblKey=GMN",
+          "filename": "260806(참고) 국토교통부 건설현장 폭염 안전 집중점검(건설안전과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T06:43:34.642491+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
