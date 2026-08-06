@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T08:13:48.359370+00:00",
-  "count": 2306,
+  "updated": "2026-08-06T08:28:36.263826+00:00",
+  "count": 2307,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1783,6 +1783,27 @@
         }
       ],
       "_attAt": "2026-08-06T08:13:34.441648+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 2026년 을지연습 준비보고회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773601",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "2026년 을지연습, 8월 18일부터 21일까지 \"실전 같은 연습으로 국가 비상대비태세 확립\"- 한성숙 국무총리, 을지연습 준비보고회의 주재 -□ 한성숙 국무총리는 8월 6일(목) 오후 정부서울청사에서 중앙행정기관장, 시·도지사, 군 지휘관 등이 참석한 가운데 2026년도 을지연습 준비보고회의를 주재하였다.ㅇ 이번 회의는 을지연습을 실시하기에 앞서 정부 및 군사연습 준비상황을 종합적으로 점검하는 자리이다.※ 을지연습 : 전시·사변 또는 이에 준하는 국가비상사태 발생 시 국민의 생명과 재산을 보호하기 위해 정부 차원에서 연1회 전국 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521391&tblKey=GMN",
+          "filename": "260806 을지연습 준비보고회의 보도자료_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521392&tblKey=GMN",
+          "filename": "260806 을지연습 준비보고회의 보도자료_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T08:28:32.888846+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
