@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T03:43:39.352661+00:00",
-  "count": 2271,
+  "updated": "2026-08-06T03:58:38.345937+00:00",
+  "count": 2272,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1034,6 +1034,27 @@
         }
       ],
       "_attAt": "2026-08-06T03:43:32.555411+00:00"
+    },
+    {
+      "title": "[보도자료] 제12회 국가정책조정회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773553",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "이제는 실행의 시기,국민 체감 성과 창출에 역량 집중- 한성숙 국무총리, 제12회 국가정책조정회의 주재-- (안건1) AI 기술을 활용한 지역·필수·공공의료 공백 해소 전략- (안건2) 2030년까지 교통사고 사망자 30% 저감 추진- (안건3) 소비자 신뢰회복을 통해 안심하고 거래하는 중고차 시장 육성- (안건4) 범정부 협업을 통해 공무직위원회법 시행(9.18) 준비에 만전【관련 국정과제】(안건1) 84. 지역격차 해소, 필수의료 확충, 공공의료 강화(안건2) 72. 국민안전 보장을 위한 재난안전관리체계 확립(안건4) 93. 차",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521149&tblKey=GMN",
+          "filename": "260806_제12회 국가정책조정회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521150&tblKey=GMN",
+          "filename": "260806_제12회 국가정책조정회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T03:58:33.164582+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
@@ -2722,17 +2743,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520798&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521041&tblKey=GMN",
           "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198520799&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521042&tblKey=GMN",
           "filename": "[8월 5일 배포] 법제로 완성하는 국가대전환.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521043&tblKey=GMN",
+          "filename": "법제처 2차 업무보고 발표자료.pdf"
         }
       ],
-      "_attAt": "2026-08-05T21:58:30.920861+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-06T03:58:33.164582+00:00",
+      "_attRev": 3
     },
     {
       "title": "소방청, 현장 대응력 높이고 국민이 체감하는 안전정책 강화",
