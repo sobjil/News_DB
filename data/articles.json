@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T01:43:52.189128+00:00",
-  "count": 2252,
+  "updated": "2026-08-06T01:58:45.268769+00:00",
+  "count": 2255,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -609,6 +609,69 @@
         }
       ],
       "_attAt": "2026-08-06T01:43:40.229671+00:00"
+    },
+    {
+      "title": "장애학생 진로·취업 돕는 '장애학생 보호자 진로멘토링', 관심 속에 성료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773529",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "- 노동법, 취업서비스 등 장애학생 보호자에게 필요한 진로 정보 제공 - 조회수 2,006회, 장애인직업능력평가포털에서 다시보기 가능한국장애인고용공단(이사장 이종성)은 고등학교 및 전공과에 재학 중인 장애학생의 보호자를 대상으로 운영한 '2026년 장애학생 보호자 진로멘토링'을 성공적으로 마쳤다고 6일 밝혔다. 장애학생 보호자 진로멘토링은 장애학생의 진로·취업에 대한 보호자의 이해를 높이기 위해 2022년부터 매년 실시하고 있다. 올해는 ▲장애학생의 직장생활에 필요한 노동법 이해 ▲장애 자녀의 실제 취업과 자립 경험 공유 ▲장애학생",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521027&tblKey=GMN",
+          "filename": "260806_보도자료_장애학생 보호자 온라인 진로 멘토링 성료(한국장애인고용공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521026&tblKey=GMN",
+          "filename": "260806_보도자료_장애학생 보호자 온라인 진로 멘토링 성료(한국장애인고용공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T01:58:37.865542+00:00"
+    },
+    {
+      "title": "농식품부, 지속되는 폭염·가뭄에 따라 피해 예방을 위한 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773531",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 폭염과 남부지역 가뭄이 지속됨에 따라 산림청·농진청·농관원·지방정부 및 농협과 농업인단체 등 관련 기관·단체가 총력 대응한다고 밝혔다. 현재까지 농촌지역 논·밭과 비닐하우스에서 폭염으로 인한 온열질환자는 361명(사망 5)이며, 가축재해보험에는 폭염으로 가축 688천여 마리가 폐사됐다고 신고 되었다. 이는 전년동기 대비 온열질환자는 79%, 가축폐사는 42% 수준이나 폭염이 전년보다 심해지면서 피해는 더 증가할 수 있을 것으로 판단된다. 오늘 송미령 농식품부장관은 경기도 가평군농협에",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521039&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 지속되는 폭염에 농업분야 피해 예방을 위한 총력 대응(8.6 배포시 온라인).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521038&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 지속되는 폭염에 농업분야 피해 예방을 위한 총력 대응(8.6 배포시 온라인).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521040&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 지속되는 폭염에 농업분야 피해 예방을 위한 총력 대응(8.6 배포시 온라인).hwp"
+        }
+      ],
+      "_attAt": "2026-08-06T01:58:37.865542+00:00"
+    },
+    {
+      "title": "국산 인공지능 반도체, 올해 600억 원 이상 투입하여 우리 일상 곳곳에 대규모 확산한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773530",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "- 국산 인공지능 반도체 기반 실증·확산 관련 사업 합동 착수보고회 개최(8.6) - 생활·안전 등 분야의 물리적 인공지능(피지컬 AI) 실증 7건 포함 총 22개 신규 과제 본격 착수, '27년 말까지 국산 인공지능 반도체 기반 제품·서비스 개발 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521036&tblKey=GMN",
+          "filename": "260806 석간 (보도) 국산 AI 반도체, 올해 600억원 이상 투입하여 우리 일상 곳곳에 대규모 확산한다 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-06T01:58:37.865542+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
