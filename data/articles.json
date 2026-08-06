@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T03:13:56.695403+00:00",
-  "count": 2269,
+  "updated": "2026-08-06T03:28:36.862571+00:00",
+  "count": 2270,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -977,6 +977,37 @@
         }
       ],
       "_attAt": "2026-08-06T03:13:38.530984+00:00"
+    },
+    {
+      "title": "우리 동네 보건소에서도 대학병원급 AI 진료, 전국에 AI 진료지원 도구 보급한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773551",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "description": "우리 동네 보건소에서도 대학병원급 AI 진료, 전국에 AI 진료지원 도구 보급한다- 8.6. 총리 주재 제12차 국가정책조정회의에서 「AI 기본의료 전략」 심의·의결 -- 지역·필수·공공의료 공백 메우는 의료 AI 활용·지원 본격화, 3대 전략·12대 과제 -- 하반기 응급·공공의료 AX 시범사업, ´27년 한국형 소버린 의료 AI 개발 착수 -- 동네 보건소부터 응급실·공공병원까지, 전국 어디서나 국민이 체감하는 의료 AI -【 「AI 기본의료 전략」 주요 내용 】 1. 국민이 일상에서 체감할 수 있는 AI 의료혁신 동네 보건소·",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521129&tblKey=GMN",
+          "filename": "[8.6.목 12시 이후] 우리 동네 보건소에서도 대학병원급 AI 진료, 전국에 AI 진료지원 도구 보급한.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521131&tblKey=GMN",
+          "filename": "[별첨] AI 기본의료 전략.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521130&tblKey=GMN",
+          "filename": "[8.6.목 12시 이후] 우리 동네 보건소에서도 대학병원급 AI 진료, 전국에 AI 진료지원 도구 보급한EK.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521132&tblKey=GMN",
+          "filename": "[별첨] AI 기본의료 전략.pdf"
+        }
+      ],
+      "_attAt": "2026-08-06T03:28:32.142150+00:00"
     },
     {
       "title": "[8.5.석간] 뇌졸중 초기 '3번의 교육'이 삶을 바꾼다 우울감 낮추고 삶의 질, 직장 복귀율 높여",
