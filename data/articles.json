@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T23:58:43.085431+00:00",
-  "count": 2200,
+  "updated": "2026-08-07T00:13:41.420883+00:00",
+  "count": 2201,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -223,6 +223,27 @@
         }
       ],
       "_attAt": "2026-08-06T23:28:39.083208+00:00"
+    },
+    {
+      "title": "대체불가 대한민국을 향해'세계에서 가장 안전한 케이(K)-치안' 구현",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773641",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "대체불가 대한민국을 향해'세계에서 가장 안전한 케이(K)-치안' 구현 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521553&tblKey=GMN",
+          "filename": "260805(업무보고 종료시) 대체불가 대한민국을 향해 &#039;세계에서 가장 안전한 K-치안&#039; 구현(혁신기획).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521552&tblKey=GMN",
+          "filename": "260805(업무보고 종료시) 대체불가 대한민국을 향해 &#039;세계에서 가장 안전한 K-치안&#039; 구현(혁신기획).pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T00:13:37.211845+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
