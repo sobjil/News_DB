@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T06:13:37.227274+00:00",
-  "count": 2247,
+  "updated": "2026-08-07T06:28:38.866449+00:00",
+  "count": 2249,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -251,7 +251,8 @@
           "filename": "260805(업무보고 종료시) 대체불가 대한민국을 향해 &#039;세계에서 가장 안전한 K-치안&#039; 구현(혁신기획).pdf"
         }
       ],
-      "_attAt": "2026-08-07T00:13:37.211845+00:00"
+      "_attAt": "2026-08-07T06:28:30.985225+00:00",
+      "_attRev": 1
     },
     {
       "title": "유기응집제 입찰 담합 8개사 입찰참가자격 제한 등 엄중 조치",
@@ -1160,6 +1161,53 @@
         }
       ],
       "_attAt": "2026-08-07T06:13:33.832441+00:00"
+    },
+    {
+      "title": "경찰청·한국피해자학회·성균관대 「피해자 중심 사법개혁」 학술대회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773709",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "경찰청·한국피해자학회·성균관대 「피해자 중심 사법개혁」 학술대회 개최 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521877&tblKey=GMN",
+          "filename": "260807(1400) 경찰청-한국피해자학회 공동학술대회 개최(피해자보호).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521878&tblKey=GMN",
+          "filename": "260807(1400) 경찰청-한국피해자학회 공동학술대회 개최(피해자보호).pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T06:28:30.985225+00:00"
+    },
+    {
+      "title": "산림청, 폭염-가뭄 속 임업인 피해 최소화 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773708",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "산림청, 폭염-가뭄 속 임업인 피해 최소화 총력 대응- 산불진화차 3일간 총 62대를 동원해 용수 1,500톤 긴급 공급 - 산림청(청장 박은식)은 기록적인 폭염과 남부지역 가뭄이 이어짐에 따라 임업인 피해 최소화를 위해 산불진화차량, 산불예방용 드론 등 산불진화자원을 총동원한 비상 대응에 나섰다고 7일 밝혔다. 최근 6~7월 경남 지역 강수량은 162mm로 평년 487mm의 33%수준에 불과하며, 8월 6일 기준 저수지의 저수율도 전국 최저 수준(52%)을 기록하면서 용수 공급에 어려움을 겪고 있으며, 당분간 남부지역에 비소식도 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521874&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청_폭염_임업인_피해_최소화_총력대응.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521876&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청_폭염_임업인_피해_최소화_총력대응.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521875&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청_폭염_임업인_피해_최소화_총력대응.hwp"
+        }
+      ],
+      "_attAt": "2026-08-07T06:28:30.985225+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
