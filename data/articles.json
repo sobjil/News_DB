@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T12:28:40.285718+00:00",
-  "count": 2281,
+  "updated": "2026-08-07T12:43:44.308035+00:00",
+  "count": 2282,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -273,8 +273,8 @@
           "filename": "260807_(보도자료)_조달청 유기응집제 입찰 담합 8개사...입찰참가자격 제한 등 엄중 조치.pdf"
         }
       ],
-      "_attAt": "2026-08-07T06:43:31.464703+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-07T12:43:33.258810+00:00",
+      "_attRev": 2
     },
     {
       "title": "[보도자료] '26년 숙의공론화 본격 착수, 연말까지 국민과 함께 정책 방향 논의",
@@ -290,8 +290,8 @@
           "filename": "‘26년 숙의공론화 본격 착수 연말까지 국민과 함께 정책 방향 논의.hwp"
         }
       ],
-      "_attAt": "2026-08-07T06:43:31.464703+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-07T12:43:33.258810+00:00",
+      "_attRev": 2
     },
     {
       "title": "시설공사 주간('26.8.10.~'26.8.14.)입찰 동향",
@@ -312,8 +312,8 @@
           "filename": "260807_(보도자료)_시설공사 주간 입찰동향_배포용.pdf"
         }
       ],
-      "_attAt": "2026-08-07T06:43:31.464703+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-07T12:43:33.258810+00:00",
+      "_attRev": 2
     },
     {
       "title": "「월출산 일원」 명승 지정 예고",
@@ -1293,21 +1293,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521902&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521912&tblKey=GMN",
           "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521904&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521914&tblKey=GMN",
           "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521903&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521913&tblKey=GMN",
           "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.hwp"
         }
       ],
-      "_attAt": "2026-08-07T06:43:31.464703+00:00"
+      "_attAt": "2026-08-07T12:43:33.258810+00:00",
+      "_attRev": 1
     },
     {
       "title": "농식품부, 폭염 장기화에 따른 특별관리 강화기간 운영",
@@ -2063,6 +2064,27 @@
         }
       ],
       "_attAt": "2026-08-07T11:28:31.764208+00:00"
+    },
+    {
+      "title": "보건복지부, 폭염 확대·장기화에 따른 폭염대응 비상대책본부 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773766",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "보건복지부, 폭염 확대·장기화에 따른 폭염대응 비상대책본부 가동 - 폭염으로 인한 인명피해 최소화 위한 비상대책본부 구성·운영 -- 여름철 취약계층 보호 위해 관계기관 총력 대응 지원 - 보건복지부(장관 정은경)는 폭염이 전국적으로 확대·장기화됨에 따라 8월 7일(금) 정은경 장관 주재로 폭염 대응 긴급회의를 개최하여 「폭염대응 비상대책본부」를 구성·운영하기로 했다. 지난 8월 2일 중앙재난안전대책본부(이하 '중대본') 2단계(심각)가 발령됨에 따라 운영하던 기존 초기대응반을 격상하여 중대본 3단계에 준하여 비상대응기구를 설치·운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522124&tblKey=GMN",
+          "filename": "[보도참고자료] 보건복지부, 폭염 확대, 장기화에 따른 폭염대응 비상대책본부 가동.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522125&tblKey=GMN",
+          "filename": "[보도참고자료] 보건복지부, 폭염 확대, 장기화에 따른 폭염대응 비상대책본부 가동.pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T12:43:33.258810+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
