@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T06:28:38.866449+00:00",
-  "count": 2249,
+  "updated": "2026-08-07T06:43:40.386762+00:00",
+  "count": 2250,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -264,16 +264,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521557&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521563&tblKey=GMN",
           "filename": "260807_(보도자료)_조달청 유기응집제 입찰 담합 8개사...입찰참가자격 제한 등 엄중 조치.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521556&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521562&tblKey=GMN",
           "filename": "260807_(보도자료)_조달청 유기응집제 입찰 담합 8개사...입찰참가자격 제한 등 엄중 조치.pdf"
         }
       ],
-      "_attAt": "2026-08-07T00:28:31.363254+00:00"
+      "_attAt": "2026-08-07T06:43:31.464703+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] '26년 숙의공론화 본격 착수, 연말까지 국민과 함께 정책 방향 논의",
@@ -285,11 +286,12 @@
       "attachments": [
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521561&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521621&tblKey=GMN",
           "filename": "‘26년 숙의공론화 본격 착수 연말까지 국민과 함께 정책 방향 논의.hwp"
         }
       ],
-      "_attAt": "2026-08-07T00:28:31.363254+00:00"
+      "_attAt": "2026-08-07T06:43:31.464703+00:00",
+      "_attRev": 1
     },
     {
       "title": "시설공사 주간('26.8.10.~'26.8.14.)입찰 동향",
@@ -310,7 +312,8 @@
           "filename": "260807_(보도자료)_시설공사 주간 입찰동향_배포용.pdf"
         }
       ],
-      "_attAt": "2026-08-07T00:28:31.363254+00:00"
+      "_attAt": "2026-08-07T06:43:31.464703+00:00",
+      "_attRev": 1
     },
     {
       "title": "「월출산 일원」 명승 지정 예고",
@@ -1208,6 +1211,32 @@
         }
       ],
       "_attAt": "2026-08-07T06:28:30.985225+00:00"
+    },
+    {
+      "title": "산림청, 여름철 폭염·가뭄 대응 산불 방지 대책 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773711",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "산림청, 여름철 폭염·가뭄 대응 산불 방지 대책 마련- 산불예방활동, 진화인력 안전관리 강화 및 진화용수 확보 등 추진 - 산림청(청장 박은식)은 최근 이어지는 폭염과 가뭄으로 여름철 산불 발생 위험이 크게 높아짐에 따라 '여름철 산불방지 대책'을 마련했다고 7일 밝혔다. 최근 3년간 여름철(6~8월) 산불발생 건수*는 증가 추세이며, 7월 장마 종료 이후 무강수·폭염이 지속되어 산림 내 수분 감소 등으로 산불 발생 위험지역에 대한 특별 대책이 필요한 시점이다. * 최근 3년간 여름철 산불발생 건수 : ('23) 12 → ('24)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521902&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521904&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521903&tblKey=GMN",
+          "filename": "(260807)보도자료_산림청__여름철_폭염·가뭄_대응_산불_방지_대책_마련.hwp"
+        }
+      ],
+      "_attAt": "2026-08-07T06:43:31.464703+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
