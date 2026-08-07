@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T11:58:35.623080+00:00",
+  "updated": "2026-08-07T12:13:39.836990+00:00",
   "count": 2281,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1129,11 +1129,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521846&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521856&tblKey=GMN",
           "filename": "260805 행복청 26-64호 보도자료(행복청 종합사업관리시스템 본격가동).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521857&tblKey=GMN",
+          "filename": "260805 행복청 26-64호 보도자료(행복청 종합사업관리시스템 본격가동).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521855&tblKey=GMN",
+          "filename": "260805 행복청 26-64호 보도자료(행복청 종합사업관리시스템 본격가동).hwp"
         }
       ],
-      "_attAt": "2026-08-07T05:58:35.375477+00:00"
+      "_attAt": "2026-08-07T12:13:32.163006+00:00",
+      "_attRev": 1
     },
     {
       "title": "한국산업인력공단 'HRDK 국민성장추진위원회' 첫 회의 개최",
@@ -1154,7 +1165,8 @@
           "filename": "260807_보도자료_HRDK 국민성장추진위원회 첫 회의 개최(한국산업인력공단).pdf"
         }
       ],
-      "_attAt": "2026-08-07T05:58:35.375477+00:00"
+      "_attAt": "2026-08-07T12:13:32.163006+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"대한민국 중견기업과 함께 하는 진짜 성장\" 노동부 장관, 중견기업계와 정책 간담회 개최",
@@ -1175,7 +1187,8 @@
           "filename": "260807_보도자료_한국중견기업연합회 정책간담회.pdf"
         }
       ],
-      "_attAt": "2026-08-07T05:58:35.375477+00:00"
+      "_attAt": "2026-08-07T12:13:32.163006+00:00",
+      "_attRev": 1
     },
     {
       "title": "국민통합위원회, 「AI 시대 포용과 기회」 특별위원회 출범",
@@ -1196,7 +1209,8 @@
           "filename": "국민통합위원회, 「AI 시대 포용과 기회」 특별위원회 출범.hwp"
         }
       ],
-      "_attAt": "2026-08-07T05:58:35.375477+00:00"
+      "_attAt": "2026-08-07T12:13:32.163006+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리 방학중 초등돌봄·교육 현장 방문 및 간담회 개최",
