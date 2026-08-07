@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T07:58:31.999902+00:00",
-  "count": 2253,
+  "updated": "2026-08-07T08:13:49.964521+00:00",
+  "count": 2254,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -534,11 +534,12 @@
       "attachments": [
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521652&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521718&tblKey=GMN",
           "filename": "[보도자료] 인구구조 변화와 일자리 어떻게 준비해야할까요 생생일자리 일대일 대화.hwp"
         }
       ],
-      "_attAt": "2026-08-07T01:58:32.500092+00:00"
+      "_attAt": "2026-08-07T08:13:37.690349+00:00",
+      "_attRev": 1
     },
     {
       "title": "동부지방산림청, 제2기 국유림위원회 위촉",
@@ -550,11 +551,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521646&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521662&tblKey=GMN",
           "filename": "보도자료(제2기 국유림위원회 위촉식 개최).hwpx"
         }
       ],
-      "_attAt": "2026-08-07T01:58:32.500092+00:00"
+      "_attAt": "2026-08-07T08:13:37.690349+00:00",
+      "_attRev": 1
     },
     {
       "title": "국립과천과학관, 8월 14일 특별 야간개관 무더위를 식혀줄 '과학관의 밤 : 한여름 편' 개최",
@@ -570,7 +572,8 @@
           "filename": "260807 즉시 (보도) 국립과천과학관, 8월 14일 특별 야간개관 무더위를 식혀줄 ‘과학관의 밤 한여름 편’ 개최.hwpx"
         }
       ],
-      "_attAt": "2026-08-07T01:58:32.500092+00:00"
+      "_attAt": "2026-08-07T08:13:37.690349+00:00",
+      "_attRev": 1
     },
     {
       "title": "폭염 속 태양을 피하자, 그늘막 설치 확대",
@@ -591,7 +594,8 @@
           "filename": "260807 (11시) 폭염 속 태양을 피하자 그늘막 설치 확대(기후재난관리과).pdf"
         }
       ],
-      "_attAt": "2026-08-07T02:13:33.404448+00:00"
+      "_attAt": "2026-08-07T08:13:37.690349+00:00",
+      "_attRev": 1
     },
     {
       "title": "내항선사와 장기계약을 체결한 우수 화주님의 세액을 공제해 드립니다.",
@@ -603,16 +607,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521656&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521712&tblKey=GMN",
           "filename": "260807(11시) 내항선사와 장기계약을 체결한 우수 화주님의 세액을 공제해 드립니다.(연안해운과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198521657&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521713&tblKey=GMN",
           "filename": "260807(11시) 내항선사와 장기계약을 체결한 우수 화주님의 세액을 공제해 드립니다.(연안해운과).pdf"
         }
       ],
-      "_attAt": "2026-08-07T02:13:33.404448+00:00"
+      "_attAt": "2026-08-07T08:13:37.690349+00:00",
+      "_attRev": 1
     },
     {
       "title": "외교부 인사",
@@ -1320,6 +1325,16 @@
         }
       ],
       "_attAt": "2026-08-07T07:28:32.696054+00:00"
+    },
+    {
+      "title": "소방청, 폭염 속 휴・폐업 주유소 화재예방에 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773715",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "﻿소방청, 폭염 속 휴・폐업 주유소 화재예방에 총력- 전국 697개 휴업 주유소 대상 하계 특별 소방검사 집중 추진 - 휴・폐업 시 사전 안전조치 및 현장 확인 등 법적 검증 체계 강화소방청은 최근 폭염 장기화에 따른 휴·폐업 주유소의 화재·폭발 위험 우려와 관련하여, 여름철 사고 예방을 위한 선제적 전수조사 및 법적 안전관리 제도를 철저히 이행·가동하고 있다고 밝혔다. 여름철 고온 현상으로 주유소 지하저장탱크 내부의 유증기 발생 위험이 커짐에 따라, 소방청은 지난 7월 6일부터 오는 9월 5일까지 전국 697개 휴・폐업 주유소를 ",
+      "attachments": [],
+      "_attAt": "2026-08-07T08:13:37.690349+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
