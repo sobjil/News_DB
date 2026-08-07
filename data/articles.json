@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T02:58:34.527960+00:00",
-  "count": 2224,
+  "updated": "2026-08-07T03:13:43.731299+00:00",
+  "count": 2227,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -701,6 +701,64 @@
         }
       ],
       "_attAt": "2026-08-07T02:28:31.508940+00:00"
+    },
+    {
+      "title": "과기정통부, 「과학기술원 부설 과학영재학교 지정·전환 공모」 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773681",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "- 영재학교가 없는 7개 지역(강원, 경남, 경북, 울산, 전북, 제주, 충남) 소재 고등학교 중 3개교 내외를 과학영재학교로 지정·전환 추진 - 입시 위주 교육에서 벗어나 수과학적 열정을 키우는 미래 교육모델을 제시하고, 지역 내 우수 인재 성장 경로를 구축",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521741&tblKey=GMN",
+          "filename": "260808 조간 (보도) 과기정통부, 「과학기술원 부설 영재학교 지정·전환 공모」 실시(수정).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-07T03:13:36.561068+00:00"
+    },
+    {
+      "title": "박홍근 장관, 한국재정정보원 현장점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773680",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "ㅇ 박홍근 기획예산처 장관은 8월7일(금), 한국재정정보원을 방문하여 업무현장을 점검하고 직원들을 격려하였습니다. ㅇ 자세한 내용은 첨부자료를 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521740&tblKey=GMN",
+          "filename": "260807_(보도자료)재정정보원 현장점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521739&tblKey=GMN",
+          "filename": "260807_(보도자료)재정정보원 현장점검.pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T03:13:36.561068+00:00"
+    },
+    {
+      "title": "폭염 속 가정 밖 청소년 안전 점검 나선다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773678",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "폭염 속 가정 밖 청소년 안전 점검 나선다- 원민경 장관, 7일(금) 청소년쉼터 찾아 폭염 대응·안전관리 현장 점검□ 원민경 성평등가족부 장관은 7일(금) 연일 이어지는 폭염으로부터 가정 밖 청소년의 안전을 확보하기 위해 서울 금천구 소재 청소년쉼터를 방문해 폭염 대응 및 안전관리 상황을 점검한다. ㅇ 이번 현장 방문은 전국적으로 폭염중대경보가 확대됨에 따라, 가정 밖 청소년의 온열질환 대응, 안전수칙 준수 등 쉼터의 폭염 대응 상황을 꼼꼼히 살피고, 현장의 애로사항을 듣기 위해 마련됐다.□ 청소년쉼터는 가출 등 위기 상황에 놓인 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521735&tblKey=GMN",
+          "filename": "260806_보도자료_청소년쉼터 현장방문_최종배포본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521736&tblKey=GMN",
+          "filename": "260806_보도자료_청소년쉼터 현장방문_최종배포본.pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T03:13:36.561068+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
