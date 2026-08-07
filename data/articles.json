@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T00:43:45.743444+00:00",
-  "count": 2208,
+  "updated": "2026-08-07T00:58:43.729798+00:00",
+  "count": 2209,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -386,6 +386,27 @@
         }
       ],
       "_attAt": "2026-08-07T00:43:33.886702+00:00"
+    },
+    {
+      "title": "산업부와 기후부, 칸막이 허물고 사용후배터리 산업 육성에 박차",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773653",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-08-07T00:00:00+09:00",
+      "description": "산업부와 기후부, 칸막이 허물고 사용후배터리 산업 육성에 박차- 산업부-기후부 간 사용후배터리 협력 업무협약 체결 - 산업통상부(장관 김정관)와 기후에너지환경부(장관 김성환)는 8월 7일 오전 한국생산성본부(서울시 종로구)에서 '사용후 배터리 정책분야 상호 협력 강화를 위한 업무협약서'를 체결한다고 밝혔다. 이날 협약 체결식에는 문신학 산업통상부 차관과 금한승 기후에너지환경부 제1차관이 참여한다. 사용후 배터리는 단순한 폐기물이 아닌 리튬·니켈·코발트 등 핵심광물을 포함하고 있는 전략자원으로서, 핵심광물의 공급망을 강화하고 국가 자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521587&tblKey=GMN",
+          "filename": "0806(07석간, 7일(금) 9시30분엠바고)배터리전기전자과, 산업부와 기후부, 칸막이 허물고 사용후배터리 산업 육성에 박차.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198521586&tblKey=GMN",
+          "filename": "0806(07석간, 7일(금) 9시30분엠바고)배터리전기전자과, 산업부와 기후부, 칸막이 허물고 사용후배터리 산업 육성에 박차.pdf"
+        }
+      ],
+      "_attAt": "2026-08-07T00:58:40.043627+00:00"
     },
     {
       "title": "현대·기아 등 자발적 시정조치(리콜)",
