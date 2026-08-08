@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T05:47:47.844996+00:00",
-  "count": 2164,
+  "updated": "2026-08-08T06:02:49.487935+00:00",
+  "count": 2165,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -154,6 +154,27 @@
         }
       ],
       "_attAt": "2026-08-08T05:08:27.638641+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 가뭄 및 폭염 관련 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773780",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-08T00:00:00+09:00",
+      "description": "한 총리, 가뭄 및 폭염 관련 \"최악의 시나리오까지 고려한 선제적이고 치밀한 대응에 만전 기해야\"- 가뭄 장기화 대비 중앙-지방 유기적 협력 통해 용수 수급 현황 면밀히 관리 강조- 비상 급수 상황에도 주민 불편 없도록 운반급수 등 비상급수 체계 즉각 가동 지시□ 한성숙 국무총리는 8월 8일(토) 오전, 최근 계속되는 가뭄과 폭염 대응 상황을 점검하고 주민 애로사항을 청취하기 위해, 대구·경북 지역의 주요 수원 중 하나인 운문댐과 청도군 소재 무더위 쉼터를 방문했다.□ 한 총리는 경상북도 청도군 운문면에 소재한 운문댐 현장을 찾아 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522174&tblKey=GMN",
+          "filename": "260808_가뭄 및 폭염 관련 현장 점검 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522175&tblKey=GMN",
+          "filename": "260808_가뭄 및 폭염 관련 현장 점검 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-08T06:02:44.612315+00:00"
     },
     {
       "title": "｢떡국떡·떡볶이떡 제조업｣, '생계형 적합업종'으로 재지정",
