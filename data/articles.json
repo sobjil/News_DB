@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T02:07:26.393253+00:00",
-  "count": 2160,
+  "updated": "2026-08-08T02:22:30.192120+00:00",
+  "count": 2161,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "극한 폭염 대응, 범정부 총력 대응체계 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773768",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-08T00:00:00+09:00",
+      "description": "- 국민 생명 보호 최우선… 취약계층 보호부터 재산 피해 저감까지 전방위 대응- 농림축산식품부, 보건복지부, 고용노동부 등 비상대응기구 가동 중앙재난안전대책본부(본부장 윤호중 행정안전부 장관, 이하 '중대본')는 연일 이어지는 극한 폭염으로부터 국민의 생명과 안전을 지키기 위해 8월 6일 '폭염·가뭄 대처상황 점검회의'에서 대통령이 강조한 범정부 대응체계를 한층 강화한다. 올해 온열질환으로 인한 사망자 23명 중, 65세 이상 고령층이 19명(82.6%)에 달해 각별한 보호가 필요한 시점이다. 이 중 논밭 등 농촌지역에서 발생한 사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522130&tblKey=GMN",
+          "filename": "260807 (즉시) 7.8~24일 호우 피해 특별재난지역 선포(복구지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522131&tblKey=GMN",
+          "filename": "260807 (즉시) 7.8~24일 호우 피해 특별재난지역 선포(복구지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-08T02:22:26.418598+00:00"
+    },
     {
       "title": "｢떡국떡·떡볶이떡 제조업｣, '생계형 적합업종'으로 재지정",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773633",
