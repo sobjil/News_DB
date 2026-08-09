@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T03:49:53.999220+00:00",
-  "count": 2079,
+  "updated": "2026-08-09T04:04:58.291359+00:00",
+  "count": 2080,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -366,6 +366,27 @@
       "_attAt": "2026-08-09T03:34:54.518078+00:00"
     },
     {
+      "title": "근로복지공단, 최근 3년 최대 규모 신입직원 274명 채용",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773801",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-09T00:00:00+09:00",
+      "description": "- 소득기반 적용·부과체계 개편과 업무상 질병 처리기간 단축 등 정부 핵심 국정과제 추진 뒷받침 근로복지공단(이사장 박종길)은 정부의 청년 일자리 확대 정책에 적극 동참하고, 2027년 1월 시행 예정인 소득기반 적용·부과체계 개편과 업무상 질병 처리기간 단축 등 핵심 정책을 차질 없이 추진하기 위해 2026년 하반기 신입직원 274명을 공개 채용한다고 밝혔다. 이번 채용은 최근 3년간 가장 큰 규모다. 채용 인력은 산재·고용보험 서비스의 품질을 높이고, 변화하는 노동환경에 맞는 사회안전망을 더욱 촘촘하게 만드는 데 중요한 역할을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522301&tblKey=GMN",
+          "filename": "260809_보도자료_2026년 하반기 신입직원 274명 채용(근로복지공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522300&tblKey=GMN",
+          "filename": "260809_보도자료_2026년 하반기 신입직원 274명 채용(근로복지공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-09T04:04:53.825977+00:00"
+    },
+    {
       "title": "극한 폭염 대응, 범정부 총력 대응체계 가동",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773768",
       "agency": "행정안전부",
@@ -486,7 +507,7 @@
       "_attRev": 3
     },
     {
-      "title": "노동부 장관, 김포공항 지상조업 폭염현장 불시점검",
+      "title": "(참고) 노동부 장관, 김포공항 지상조업 폭염현장 불시점검",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773781",
       "agency": "고용노동부",
       "agencyCode": "moel",
