@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T03:04:59.598573+00:00",
-  "count": 2076,
+  "updated": "2026-08-09T03:19:58.700468+00:00",
+  "count": 2077,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -303,6 +303,27 @@
       "_attAt": "2026-08-09T03:04:54.554774+00:00"
     },
     {
+      "title": "제2우주센터 건립지 공모에 2개 지자체 응모, 10월 최종 결정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773795",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-08-09T00:00:00+09:00",
+      "description": "- 우주항공청, 건립지 유치계획서 접수(6.22~8.6) 마감 - 건립지선정위원회 심사 거쳐 10월 최종 결정 예정【관련 국정과제】 28. 세계를 선도할 넥스트(NEXT) 전략기술 육성 우주항공청(청장 오태석)은 지난 6월 22일(월)부터 8월 6일(목)까지 실시한 제2우주센터 건립지 공모에 총 2개 지자체(전남광주통합특별시, 제주특별자치도)가 응모했다고 밝혔다. 제2우주센터는 위성 발사 수요 증가와 재사용발사체 운용 확대에 대응해 국가 우주수송 역량을 확충하기 위한 사업으로서, '28년부터 '34년까지 7년간 발사시설·재사용 착륙",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522278&tblKey=GMN",
+          "filename": "260810(조간) 제2우주센터 건립지 공모에 2개 지자체 응모, 10월 최종 결정.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522279&tblKey=GMN",
+          "filename": "260810(조간) 제2우주센터 건립지 공모에 2개 지자체 응모, 10월 최종 결정.hwp"
+        }
+      ],
+      "_attAt": "2026-08-09T03:19:52.977680+00:00"
+    },
+    {
       "title": "극한 폭염 대응, 범정부 총력 대응체계 가동",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773768",
       "agency": "행정안전부",
@@ -468,8 +489,8 @@
           "filename": "260808 2026 새만금 가족사랑 그림그리기 대회 성료.hwp"
         }
       ],
-      "_attAt": "2026-08-08T21:19:51.997743+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-09T03:19:52.977680+00:00",
+      "_attRev": 3
     },
     {
       "title": "｢떡국떡·떡볶이떡 제조업｣, '생계형 적합업종'으로 재지정",
