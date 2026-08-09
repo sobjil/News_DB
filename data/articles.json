@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T06:50:38.485917+00:00",
-  "count": 2080,
+  "updated": "2026-08-09T07:05:40.023446+00:00",
+  "count": 2081,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -388,6 +388,27 @@
         }
       ],
       "_attAt": "2026-08-09T04:04:53.825977+00:00"
+    },
+    {
+      "title": "콜롬비아 대통령 취임식 경축 특사 파견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773802",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-09T00:00:00+09:00",
+      "description": "윤준병 국회의원(특사단장)과 이해민 국회의원은 이재명 대통령의 콜롬비아 대통령 취임식 경축 특사 자격으로 8.7.(금) 콜롬비아 제3의 도시 칼리(Cali)에서 개최된 아벨라르도 데 라 에스프리에야(Abelardo de la Espriella) 대통령 취임식에 참석하였다.특사단은 대통령 취임식 참석 계기, 이재명 대통령의 취임 축하 인사와 양국 관계 발전 의지를 담은 대통령 친서를 전달하고, 신정부 출범 계기 1962년 수교 이후 60여년간 이어진 양국 우호협력관계를 심화시키고자 하는 우리 정부의 의지를 전달하였다.특사단은 호세 마",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522308&tblKey=GMN",
+          "filename": "[26-659](보도자료) 콜롬비아 대통령 취임식 경축 특사 파견.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522309&tblKey=GMN",
+          "filename": "[26-659](보도자료) 콜롬비아 대통령 취임식 경축 특사 파견.pdf"
+        }
+      ],
+      "_attAt": "2026-08-09T07:05:36.175571+00:00"
     },
     {
       "title": "극한 폭염 대응, 범정부 총력 대응체계 가동",
