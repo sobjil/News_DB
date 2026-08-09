@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T03:19:58.700468+00:00",
-  "count": 2077,
+  "updated": "2026-08-09T03:35:00.735166+00:00",
+  "count": 2079,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -322,6 +322,48 @@
         }
       ],
       "_attAt": "2026-08-09T03:19:52.977680+00:00"
+    },
+    {
+      "title": "행안부 재난안전관리본부장 폭염 사각지대 외국인 근로자·가축피해 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773799",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-09T00:00:00+09:00",
+      "description": "- 충남 예산 외국인 작업 농가 방문, 물·그늘·휴식 준수 당부 및 축사 냉방시설 점검- 중대본·부처별 사고수습지원본부 등 범정부 총력 대응, 폭염 피해 최소화 노력 행정안전부(장관 윤호중) 김광용 재난안전관리본부장은 8월 9일(일), 충남 예산군을 방문하여 외국인 계절 근로자의 농작업 실태와 가축 피해 상황을 점검했다. 이번 점검은 최근 전남 해남군과 충남 홍성군에서 폭염 속 작업 중이던 외국인 근로자가 사망하는 사고가 잇따라 발생함에 따라 마련되었다. 특히 외국인 근로자는 의사소통 문제 등으로 폭염 국민행동요령과 휴식시간 보장 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522286&tblKey=GMN",
+          "filename": "260810 (조간) 행안부 재난안전관리본부장 폭염 사각지대 외국인 근로자‧가축피해 점검(기후재난관리과)(게시판용).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522287&tblKey=GMN",
+          "filename": "260810 (조간) 행안부 재난안전관리본부장 폭염 사각지대 외국인 근로자‧가축피해 점검(기후재난관리과)(게시판용).pdf"
+        }
+      ],
+      "_attAt": "2026-08-09T03:34:54.518078+00:00"
+    },
+    {
+      "title": "폭염 중대본, 강화된 범정부 대응체계 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773797",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-09T00:00:00+09:00",
+      "description": "- 8.9.(일) 김광용 중대본 차장 주재 '폭염 재난 대응 중대본 회의' 개최- 사고수습지원본부 활동·건의사항 점검, 고령농업인 등 취약계층 안전관리 강화 중앙재난안전대책본부(본부장 윤호중 행정안전부 장관, 이하 '중대본')는 8월 9일(일) 오전 11시 김광용 중대본 차장 주재로 관계 부처와 지방정부가 참석한 가운데 '폭염 재난 대응 중대본 회의'를 개최하였다. 이번 회의에서는 관계 부처(농식품부·복지부·노동부)에 설치된 사고수습지원본부의 분야별 대책 추진 상황과 대국민 홍보실적을 중점적으로 논의했다. 농림축산식품부는 재해대책상",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522282&tblKey=GMN",
+          "filename": "260809 (즉시) 폭염 중대본 강화된 범정부 대응체계 점검(기후재난관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522283&tblKey=GMN",
+          "filename": "260809 (즉시) 폭염 중대본 강화된 범정부 대응체계 점검(기후재난관리과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-09T03:34:54.518078+00:00"
     },
     {
       "title": "극한 폭염 대응, 범정부 총력 대응체계 가동",
