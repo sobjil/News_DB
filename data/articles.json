@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T20:56:53.750406+00:00",
-  "count": 2077,
+  "updated": "2026-08-09T21:11:56.489879+00:00",
+  "count": 2078,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773824",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522390&tblKey=GMN",
+          "filename": "260810(석간)_제2기_노후계획도시정비특별위원회_출범_첫_회의서_대전_기본계획안_심의(신도시정비기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522391&tblKey=GMN",
+          "filename": "260810(석간)_제2기_노후계획도시정비특별위원회_출범_첫_회의서_대전_기본계획안_심의(신도시정비기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-09T21:11:52.645113+00:00"
+    },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773786",
