@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T05:12:49.332069+00:00",
-  "count": 2145,
+  "updated": "2026-08-10T05:27:47.586686+00:00",
+  "count": 2147,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1395,6 +1395,48 @@
         }
       ],
       "_attAt": "2026-08-10T05:12:41.630993+00:00"
+    },
+    {
+      "title": "청년창업 지원을 위해 '특허가 강한 새싹기업 육성 사업' 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773929",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "청년창업 지원을 위해 '특허가 강한 새싹기업 육성 사업' 추진 - 지식재산처, 「적정 권리범위 제공을 위한 특허심사 방안」 추진 - - '출원인과 소통하는 심사' 확대 및 '등록특허 만족도 조사' 신설 - 지식재산처(처장 김용선)는 출원인과의 소통을 통해 우리기업이 개발한 혁신기술의 권리범위*를 기술의 가치에 맞게 설정하기 위해 「적정 권리범위 제공을 위한 특허심사 방안」을 추진한다고 밝혔다. *권리범위: 특허권자의 허락 없이 타인이 사용할 수 없도록 울타리를 쳐 놓은 기술의 범위 이번 방안은 무효가 되지 않는 '거절 위주의 방어적",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522882&tblKey=GMN",
+          "filename": "254 [지식재산처] 청년창업 지원을 위해 ‘특허가 강한 새싹기업 육성 사업’ 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522883&tblKey=GMN",
+          "filename": "254 [지식재산처] 청년창업 지원을 위해 ‘특허가 강한 새싹기업 육성 사업’ 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T05:27:41.214031+00:00"
+    },
+    {
+      "title": "제2회 재정성과위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773928",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "기획예산처는 '26.8.10.(월) 오후 2시 정부세종청사 5-1동 대회의실에서 조용범 차관 주재로 제2회 재정성과위원회를 개최하였습니다. 자세한 내용은 첨부파일을 참조하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522864&tblKey=GMN",
+          "filename": "260810-제2차 재정성과위원회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522863&tblKey=GMN",
+          "filename": "260810-제2차 재정성과위원회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T05:27:41.214031+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
