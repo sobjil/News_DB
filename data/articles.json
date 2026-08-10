@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T06:27:54.236216+00:00",
-  "count": 2149,
+  "updated": "2026-08-10T06:42:48.370790+00:00",
+  "count": 2150,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -400,7 +400,8 @@
           "filename": "260810_(보도자료)_나라장터 쇼핑몰 원산지 기준 개선_배포용.hwp"
         }
       ],
-      "_attAt": "2026-08-10T00:41:12.270482+00:00"
+      "_attAt": "2026-08-10T06:42:40.390905+00:00",
+      "_attRev": 1
     },
     {
       "title": "서부지방산림청, 태풍 빈발시기 재난대응태세 강화",
@@ -1499,6 +1500,27 @@
       "_attAt": "2026-08-10T06:27:42.628821+00:00"
     },
     {
+      "title": "K-우주데이터센터, 인공지능(AI)·정보통신기술(ICT) 기업이 우주 산업으로 진입하는 발판이 되다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773939",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "- 우주데이터센터 분야 산업계 대상 '제9차 SOS 간담회' 개최 - 우주데이터센터의 빠른 실증을 위한 산업 현장 의견 수렴 【관련 국정과제】 28. 세계를 선도할 넥스트(NEXT) 전략기술 육성 우주항공청(청장 오태석)은 8월 10일(월), 인공지능(AI) 팹리스(Fabless)* 기업인 리벨리온에서 우주데이터센터 기술 관련 산업계 관계자들과 '제9차 우주항공 SOS 간담회'를 개최하였다. * 팹리스(Fabless): 반도체 제조 공장없이 AI 반도체 설계와 개발에만 집중하는 기업 이번 간담회는 한국형 우주데이터센터의 성공적인 개",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522954&tblKey=GMN",
+          "filename": "260811(조간) K-우주데이터센터, 인공지능(AI)·정보통신기술(ICT) 기업이 우주 산업으로 진입하는 발판이 되다.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522955&tblKey=GMN",
+          "filename": "260811(조간) K-우주데이터센터, 인공지능(AI)·정보통신기술(ICT) 기업이 우주 산업으로 진입하는 발판이 되다.hwp"
+        }
+      ],
+      "_attAt": "2026-08-10T06:42:40.390905+00:00"
+    },
+    {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773786",
       "agency": "교육부",
@@ -1870,16 +1892,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198522538&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522634&tblKey=GMN",
           "filename": "문닫고 냉방하고 미사용 플러그는 뽑고(보도자료)(에너지안전 8.9).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198522539&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522635&tblKey=GMN",
           "filename": "문닫고 냉방하고 미사용 플러그는 뽑고(보도자료)(에너지안전 8.9).pdf"
         }
       ],
-      "_attAt": "2026-08-10T00:41:12.270482+00:00"
+      "_attAt": "2026-08-10T06:42:40.390905+00:00",
+      "_attRev": 1
     },
     {
       "title": "호우 피해 특별재난지역 납세자에 대한 적극적인 세정지원 실시",
