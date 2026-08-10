@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T03:12:57.086750+00:00",
-  "count": 2130,
+  "updated": "2026-08-10T03:27:48.121818+00:00",
+  "count": 2131,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1079,6 +1079,27 @@
         }
       ],
       "_attAt": "2026-08-10T03:12:40.499864+00:00"
+    },
+    {
+      "title": "문체부와 유튜브, '케이-콘텐츠' 성장 위한 협력 강화 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773908",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "문체부와 유튜브, '케이-콘텐츠' 성장 위한 협력 강화 방안 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0810]문체부보도자료-문체부 제1차관과 유튜브 부사장 면담.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522734&tblKey=GMN",
+          "filename": "[0810]문체부보도자료-문체부 제1차관과 유튜브 부사장 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522733&tblKey=GMN",
+          "filename": "[0810]문체부보도자료-문체부 제1차관과 유튜브 부사장 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T03:27:43.683901+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
