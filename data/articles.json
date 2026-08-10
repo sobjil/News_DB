@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T07:18:03.774144+00:00",
-  "count": 2156,
+  "updated": "2026-08-10T07:33:07.362877+00:00",
+  "count": 2157,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -664,7 +664,8 @@
           "filename": "260810_중기부,_2026년_을지연습_준비보고회_개최.pdf"
         }
       ],
-      "_attAt": "2026-08-10T01:27:42.060977+00:00"
+      "_attAt": "2026-08-10T07:33:02.269513+00:00",
+      "_attRev": 1
     },
     {
       "title": "영암국유림관리소, 여름철 산림 내 불법행위 특별단속 실시",
@@ -1651,6 +1652,32 @@
         }
       ],
       "_attAt": "2026-08-10T07:12:50.017502+00:00"
+    },
+    {
+      "title": "\"우리 동네 가로수 행정이 최고\", 국민 투표로 결정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773948",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "\"우리 동네 가로수 행정이 최고\", 국민 투표로 결정- 산림청, 전국 지방정부 가로수 우수사례 8곳 놓고 8.11~14 '국민생각함' 온라인 투표 - 산림청(청장 박은식)은 전국 지방정부의 가로수 조성·관리 우수사례 선정을 위해 11일부터 14일까지 국민투표를 진행한다고 10일 밝혔다. 이번 평가는 지방정부 간 가로수 관리 격차를 줄이고 모범적인 관리 모델을 전국에 발굴·확산시키기 위한 취지로 추진됐다. 전국 10개 시도에서 출품한 19건의 사례를 조경·가로수 분야 전문가 5명이 창의성·적극성·효과성·확산 가능성을 기준으로 심사해 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523024&tblKey=GMN",
+          "filename": "(260810)보도자료-“우리_동네_가로수_행정이_최고”__국민_투표로_결정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523026&tblKey=GMN",
+          "filename": "(260810)보도자료-“우리_동네_가로수_행정이_최고”__국민_투표로_결정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523025&tblKey=GMN",
+          "filename": "(260810)보도자료-“우리_동네_가로수_행정이_최고”__국민_투표로_결정 (1).hwp"
+        }
+      ],
+      "_attAt": "2026-08-10T07:33:02.269513+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
