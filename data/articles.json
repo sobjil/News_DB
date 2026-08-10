@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T01:12:45.012589+00:00",
-  "count": 2107,
+  "updated": "2026-08-10T01:27:48.177713+00:00",
+  "count": 2108,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -619,6 +619,27 @@
       "_attAt": "2026-08-10T01:11:10.882832+00:00"
     },
     {
+      "title": "중기부, 2026년 을지연습 준비보고회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773880",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 8월 10일(월) 세종 중기부 회의실에서 노용석 제1차관과 실·국장이 참석한 가운데 ｢2026년 을지연습 준비보고회｣를 개최하고 13개 지방중소벤처기업청 및 산하기관의 연습 준비상황과 기관별 대응계획을 점검했다고 밝혔다. 이번 보고회는 오는 8월 18일(화)에서 21일(금)까지 3박 4일간 실시되는 을지연습을 앞두고 연습 추진상황을 공유하고, 전시전환절차와 기관별 임무 수행체계, 관계기관 협조체계 등을 종합적으로 점검하기 위해 마련됐다. 보고회에서는 비상재난담당관의 을지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522638&tblKey=GMN",
+          "filename": "260810_중기부,_2026년_을지연습_준비보고회_개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522639&tblKey=GMN",
+          "filename": "260810_중기부,_2026년_을지연습_준비보고회_개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T01:27:42.060977+00:00"
+    },
+    {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773786",
       "agency": "교육부",
@@ -977,8 +998,8 @@
           "filename": "[26-659](보도자료) 콜롬비아 대통령 취임식 경축 특사 파견.pdf"
         }
       ],
-      "_attAt": "2026-08-09T19:26:52.787806+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-10T01:27:42.060977+00:00",
+      "_attRev": 3
     },
     {
       "title": "문닫고 냉방하고, 미사용 플러그는 뽑고… 에너지 낭비 줄이는 \"슬기로운 전기생활\"",
