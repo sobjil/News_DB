@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T04:42:53.996244+00:00",
-  "count": 2139,
+  "updated": "2026-08-10T04:57:47.270629+00:00",
+  "count": 2141,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1254,6 +1254,48 @@
         }
       ],
       "_attAt": "2026-08-10T04:42:41.878764+00:00"
+    },
+    {
+      "title": "정은경 장관, 여름방학 초등 틈새돌봄 현장 찾아 아이들 점심 배식 및 운영 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773919",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "정은경 장관, 여름방학 초등 틈새돌봄 현장 찾아 아이들 점심 배식 및 운영 점검- 전남광주 수완숲지역아동센터 방문해 틈새돌봄 운영현황 점검 -- 종사자 격려 및 급식·프로그램·인력 운영 등 현장 의견 청취 - 정은경 보건복지부 장관은 8월 10일(월) 오전 11시 30분 수완숲지역아동센터(전남광주통합특별시 광산구 장덕로40번길 36)를 방문하여 여름방학 초등 틈새돌봄사업의 운영현황을 점검하고 현장 의견을 청취했다. 이번 방문은 지난 7월 27일부터 시작된 초등 틈새돌봄사업이 방학 중 발생할 수 있는 아동의 돌봄과 식사 공백을 현장에",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522792&tblKey=GMN",
+          "filename": "[보도참고자료] 정은경 장관, 여름방학 초등 틈새돌봄 현장 찾아 아이들 점심 배식 및 운영 점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522793&tblKey=GMN",
+          "filename": "[보도참고자료] 정은경 장관, 여름방학 초등 틈새돌봄 현장 찾아 아이들 점심 배식 및 운영 점검.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T04:57:41.186129+00:00"
+    },
+    {
+      "title": "여름철 폭염 시기, 디클로로메탄 취급 작업장 급성중독 발생 위험 주의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773918",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "- 디클로로메탄 다량 흡입 시 중추신경계 증상 및 질식 유발- '화학물질 노출정보 알리미' 활용이 관련 재해예방에 기여할 것으로 기대 한국산업안전보건공단(KOSHA, 이사장 김현중, 이하 \"공단\")은 무더위가 기승하는 폭염 시기에 디클로로메탄으로 인한 급성중독 발생 위험이 커짐에 따라 취급사업장에 주의를 당부했다. 디클로로메탄은 염화메틸렌, 메틸렌 클로라이드로도 불리며, 금속 세척제, 방수제, 페인트 제거제 등으로 광범위하게 사용되는 화학물질이다. 디클로로메탄은 다량 흡입하면 어지러움, 혼미, 두통 등 중추신경계 증상이 나타날 수 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522784&tblKey=GMN",
+          "filename": "260810 디클로로메탄 급성중독 주의 알림(안전보건공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522785&tblKey=GMN",
+          "filename": "260810 디클로로메탄 급성중독 주의 알림(안전보건공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T04:57:41.186129+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
