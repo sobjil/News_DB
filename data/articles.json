@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T23:11:14.062493+00:00",
-  "count": 2145,
+  "updated": "2026-08-10T23:26:09.318057+00:00",
+  "count": 2148,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -161,6 +161,69 @@
         }
       ],
       "_attAt": "2026-08-10T23:10:59.840095+00:00"
+    },
+    {
+      "title": "식약처, 발효유·우유 등 유가공품 제조·판매 업체 점검 결과...6곳 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773985",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "식약처, 발효유우유 등 유가공품 제조·판매 업체 점검 결과...6곳 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523178&tblKey=GMN",
+          "filename": "[26.8.11.(화) 보도자료] 식약처, 발효유？우유 등 유가공품 제조·판매 업체 점검 결과...6곳 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523179&tblKey=GMN",
+          "filename": "[26.8.11.(화) 보도자료] 식약처, 발효유？우유 등 유가공품 제조·판매 업체 점검 결과...6곳 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T23:25:58.053987+00:00"
+    },
+    {
+      "title": "[보도참고] 위해 축산물 회수 사실 공표 매체를 일간신문에서 인터넷신문까지 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773986",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "[보도참고] 위해 축산물 회수 사실 공표 매체를 일간신문에서 인터넷신문까지 확대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523180&tblKey=GMN",
+          "filename": "[26.8.11.(화) 보도참고자료] 위해 축산물 회수 사실 공표 매체를 일간신문에서 인터넷신문까지 확대.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523181&tblKey=GMN",
+          "filename": "[26.8.11.(화) 보도참고자료] 위해 축산물 회수 사실 공표 매체를 일간신문에서 인터넷신문까지 확대.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T23:25:58.053987+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 경기 평택시 위험물 저장 및 처리시설 화재 관련 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773984",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "한성숙 국무총리,경기 평택시 '위험물 저장 및 처리시설' 화재 관련 긴급지시□ 한성숙 국무총리는 8월 11일(화), 경기 평택시 청북읍 '위험물 저장 및 처리시설' 화재와 관련하여 아래와 같이 긴급 지시했다.ㅇ 소방청은 가용 소방력과 장비를 총 동원하여 화재진압 완료 시까지 현장활동 및 인명검색에 최선을 다할 것ㅇ 행정안전부, 경찰청, 경기도, 평택시 등 관계기관은 이번 화재로 인한 주민 피해가 없도록 현장 통제 및 주민 안내, 필요시 주민 대피 등에 철저를 기할 것ㅇ 특히, 저장시설에 보관중인 위험물 유출 방지 및 화재진압 과정에",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523174&tblKey=GMN",
+          "filename": "260811_한성숙 국무총리 경기 평택시 위험물 저장 및 처리시설 화재 관련 긴급지시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523175&tblKey=GMN",
+          "filename": "260811_한성숙 국무총리 경기 평택시 위험물 저장 및 처리시설 화재 관련 긴급지시.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T23:25:58.053987+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
@@ -1432,8 +1495,8 @@
           "filename": "[보도참고자료] 정은경 장관, 여름방학 초등 틈새돌봄 현장 찾아 아이들 점심 배식 및 운영 점검.pdf"
         }
       ],
-      "_attAt": "2026-08-10T17:11:01.561097+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-10T23:25:58.053987+00:00",
+      "_attRev": 3
     },
     {
       "title": "여름철 폭염 시기, 디클로로메탄 취급 작업장 급성중독 발생 위험 주의",
@@ -1454,8 +1517,8 @@
           "filename": "260810 디클로로메탄 급성중독 주의 알림(안전보건공단).pdf"
         }
       ],
-      "_attAt": "2026-08-10T17:11:01.561097+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-10T23:25:58.053987+00:00",
+      "_attRev": 3
     },
     {
       "title": "이형훈 제2차관, 대전·충청 응급환자 이송체계 정비 간담회",
