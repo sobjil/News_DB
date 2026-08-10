@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T04:12:42.367076+00:00",
-  "count": 2131,
+  "updated": "2026-08-10T04:27:47.218957+00:00",
+  "count": 2132,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -93,11 +93,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198522392&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522394&tblKey=GMN",
           "filename": "(8. 10. 조간 보도자료) 소방청 지휘관부터 현장대원까지 직급별 핵심교육 ‘2년 내 전원 이수’ 추진.hwpx"
         }
       ],
-      "_attAt": "2026-08-09T22:26:52.013737+00:00"
+      "_attAt": "2026-08-10T04:27:41.288606+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 인천 옹진해역 모터보트 위치소실 관련 긴급지시",
@@ -1100,6 +1101,27 @@
         }
       ],
       "_attAt": "2026-08-10T03:27:43.683901+00:00"
+    },
+    {
+      "title": "ICCN 거버넌스 작업반 공동의장 선출",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773909",
+      "agency": "국가기후위기대응위원회",
+      "agencyCode": "",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "국가기후위기대응위원회, 국제 기후거버넌스 논의 이끈다 -국제기후위원회네트워크(ICCN) 거버넌스 작업반 공동의장국 수임 - 한국형 기후 거버넌스 모델, 국제사회 신뢰로 이어져□ 정부는 대통령 직속 국가기후위기대응위원회(이하 기후대응위)가 8.10(월)부터 국제기후위원회네트워크(ICCN) 기후 거버넌스 작업반(Climate Governance Working Group) 공동의장국을 수임했다고 발표했다. ㅇ 아시아 지역 기관이 동 작업반 공동의장국으로 선임된 것은 이번이 처음이며, 공동의장*으로는 기후대응위 강윤호 국제협력과장이 선임되",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522756&tblKey=GMN",
+          "filename": "(260810) ICCN 거버넌스 작업반 공동의장 선출 보도자료_최종.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198522757&tblKey=GMN",
+          "filename": "(260810) ICCN 거버넌스 작업반 공동의장 선출 보도자료_최종.hwp"
+        }
+      ],
+      "_attAt": "2026-08-10T04:27:41.288606+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
