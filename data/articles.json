@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T08:44:23.104086+00:00",
-  "count": 2161,
+  "updated": "2026-08-10T08:59:26.507149+00:00",
+  "count": 2163,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1776,6 +1776,48 @@
         }
       ],
       "_attAt": "2026-08-10T08:33:03.376352+00:00"
+    },
+    {
+      "title": "(동정) 남재헌 해양수산부 차관, 하계 휴가철 인천항 연안여객터미널 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773956",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "남재헌 해양수산부 차관, 하계 휴가철 인천항 연안여객터미널 현장 점검- 관계기관 간 유기적인 협력과 소통을 통해 철저한 안전관리 강조 남재헌 해양수산부 차관은 8월 10일(월) 인천항 연안여객터미널을 찾아 휴가철 안전관리 상황을 점검하였다. 남 차관은 여객터미널 내 대합실과 여객선 접안시설로 이어지는 승객 이동 동선을 직접 둘러보며 비상대피로, 소화구명설비, 안전난간 등 여객 안전시설을 확인하고 태풍 등 여름철 기상악화에 대비한 비상대응체계를 살폈다. 또한 이용객과 터미널 근무자의 폭염 대응을 위한 냉방시설, 휴게시설도 점검하였으며",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523090&tblKey=GMN",
+          "filename": "260810 (동정) 하계 휴가철 인천항 연안여객터미널 현장 점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523089&tblKey=GMN",
+          "filename": "260810 (동정) 하계 휴가철 인천항 연안여객터미널 현장 점검.pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T08:59:21.446237+00:00"
+    },
+    {
+      "title": "중수청 임용설명회에 평검사도 다수 참석, 검찰청 인력 특례 임용 절차도 차분하게 진행 중",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773958",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-10T00:00:00+09:00",
+      "description": "행정안전부 중대범죄수사청 개청준비단(단장 김민재, 이하 준비단)은 검찰청에서 중수청으로의 특례 임용을 위한 절차를 차분하게 진행하고 있다. 준비단은「중대범죄수사청과 그 소속기관 직제」 및 「중대범죄수사청 수사관 임용령」제정안 입법예고 당일인 8월 5일부터 전국 6개 고검 및 18개 지검을 대상으로 임용 설명회를 개최하고 지난 8월 7일부터는 중수청 임용희망신청서를 접수 받고 있다. 준비단은 지난 8월 5일부터 8월 10일까지 총 5개 고검 및 13개 지검 설명회를 개최하였으며 검사 210여 명(평검사 140여 명 포함), 수사관 등",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523094&tblKey=GMN",
+          "filename": "260810 (즉시) 중수청 임용설명회에 평검사도 다수 참석 검찰청 인력 특례 임용 절차도 차분하게 진행 중(중수청개청준비단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523093&tblKey=GMN",
+          "filename": "260810 (즉시) 중수청 임용설명회에 평검사도 다수 참석 검찰청 인력 특례 임용 절차도 차분하게 진행 중(중수청개청준비단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-10T08:59:21.446237+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제11호 발간 : 통계로 보는 BK21사업",
