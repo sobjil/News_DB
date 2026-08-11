@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T06:02:11.988109+00:00",
-  "count": 2206,
+  "updated": "2026-08-11T06:17:05.083902+00:00",
+  "count": 2208,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -242,16 +242,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523184&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523190&tblKey=GMN",
           "filename": "260811 (즉시) 행정안전부 장관 경기 평택시 위험물 저장 및 처리시설 화재 관련 긴급 지시(국토산업재난대응과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523185&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523191&tblKey=GMN",
           "filename": "260811 (즉시) 행정안전부 장관 경기 평택시 위험물 저장 및 처리시설 화재 관련 긴급 지시(국토산업재난대응과).pdf"
         }
       ],
-      "_attAt": "2026-08-11T00:10:59.683128+00:00"
+      "_attAt": "2026-08-11T06:16:56.953105+00:00",
+      "_attRev": 1
     },
     {
       "title": "국내외 기관·기업 대상 랜섬웨어(GUNRA) 유포 확산에 따른 한·미 합동 사이버보안 권고문 배포",
@@ -1462,6 +1463,48 @@
         }
       ],
       "_attAt": "2026-08-11T06:02:05.867134+00:00"
+    },
+    {
+      "title": "북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774070",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시- 주요 구조물 시공상태 및 근로자 온열질환 예방조치 집중 점검 북부지방산림청(청장 송준호)은 8월 11일 임도사업의 시공 품질을 높이고 여름철 폭염으로 인한 근로자 안전사고를 예방하기 위해 관내 임도사업장을 찾아 현장 점검을 실시했다고 밝혔다. 이번 점검은 임도사업 현장의 주요 구조물 시공상태와 품질관리 실태를 직접 확인하고, 연일 이어지는 폭염에 따른 근로자 온열질환 예방 등 안전관리 상황을 함께 살피기 위해 실시됐다. 현장에서는 옹벽·배수시설 등 주요 구조물이 설",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523567&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523566&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시.hwp"
+        }
+      ],
+      "_attAt": "2026-08-11T06:16:56.953105+00:00"
+    },
+    {
+      "title": "제8차 확대간부회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774071",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "기획예산처는 '26.8.11.(화) 오후 2시 정부세종청사 5-1동 4층 대회의실에서 박홍근 장관 주재로 제8차 확대간부회의를 개최하였습니다. 자세한 내용은 첨부자료를 참고해주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523571&tblKey=GMN",
+          "filename": "(260811) 8차 확대간부회의 보도자료_3.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523572&tblKey=GMN",
+          "filename": "(260811) 8차 확대간부회의 보도자료_3.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T06:16:56.953105+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
