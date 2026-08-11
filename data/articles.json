@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T07:47:05.669984+00:00",
-  "count": 2213,
+  "updated": "2026-08-11T08:02:12.332908+00:00",
+  "count": 2214,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -658,7 +658,8 @@
           "filename": "0811 전통의 경계를 넘어, 가장 뜨거운 무형유산을 만나다(붙임1,2).pdf"
         }
       ],
-      "_attAt": "2026-08-11T02:01:59.254174+00:00"
+      "_attAt": "2026-08-11T08:02:05.141297+00:00",
+      "_attRev": 1
     },
     {
       "title": "궁능 관람료에 대한 생생한 의견 들려줄 45명의 '시민토론단' 모집 (8.12.~8.20.)",
@@ -679,7 +680,8 @@
           "filename": "0811 궁능 관람료에 대한 생생한 의견 들려줄 45명의 ‘시민토론단’ 모집 (8.12.~8.20.)(붙임).pdf"
         }
       ],
-      "_attAt": "2026-08-11T02:01:59.254174+00:00"
+      "_attAt": "2026-08-11T08:02:05.141297+00:00",
+      "_attRev": 1
     },
     {
       "title": "학문과 예술로 세상 밝힌 세종·문종 부자(父子) 이야기, 궁중다과상으로 펼쳐지다",
@@ -691,16 +693,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523278&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523592&tblKey=GMN",
           "filename": "0811 학문과 예술로 세상 밝힌 세종·문종 부자(父子) 이야기, 궁중다과상으로 펼쳐지다(본문+붙임1).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523277&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523591&tblKey=GMN",
           "filename": "0811 학문과 예술로 세상 밝힌 세종·문종 부자(父子) 이야기, 궁중다과상으로 펼쳐지다(붙임2+3).pdf"
         }
       ],
-      "_attAt": "2026-08-11T02:01:59.254174+00:00"
+      "_attAt": "2026-08-11T08:02:05.141297+00:00",
+      "_attRev": 1
     },
     {
       "title": "미수령 당첨금 자동지급을 통해 적은 당첨금도 '꼼꼼히' 국민께 돌려드리겠습니다.",
@@ -1623,6 +1626,32 @@
         }
       ],
       "_attAt": "2026-08-11T07:31:58.435771+00:00"
+    },
+    {
+      "title": "폭염 대비 국립새만금수목원 건설현장 안전점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774083",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "폭염 대비 국립새만금수목원 건설현장 안전점검 실시- 근로환경 현장점검 및 근로자 행동요령 교육 강화 - 산림청(청장 박은식)은 계속된 무더위 속 온열질환 및 안전사고 예방을 위해 국립새만금수목원 조성사업의 근로환경 관리실태를 점검하고 폭염 대비 근로자 행동요령 교육을 실시했다고 11일 밝혔다. 국립새만금수목원은 기후 및 식생대별 수목원 조성계획에 따라 조성되는 해안·간척지형 수목원으로 151헥타르에 총사업비 2,139억 원이 투입돼 2027년 개원을 목표로 추진 중이며, 현재 공정률 69.7%를 넘어서고 있다. 산림청은 시공사와 감",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523666&tblKey=GMN",
+          "filename": "(260811)보도자료-폭염_대비_국립새만금수목원_건설현장_안전관리_점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523668&tblKey=GMN",
+          "filename": "(260811)보도자료-폭염_대비_국립새만금수목원_건설현장_안전관리_점검.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523667&tblKey=GMN",
+          "filename": "(260811)보도자료-폭염_대비_국립새만금수목원_건설현장_안전관리_점검.hwp"
+        }
+      ],
+      "_attAt": "2026-08-11T08:02:05.141297+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
