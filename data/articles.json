@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T09:32:08.769895+00:00",
-  "count": 2221,
+  "updated": "2026-08-11T09:47:05.468371+00:00",
+  "count": 2222,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -80,8 +80,8 @@
           "filename": "260811(조간) 「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선.hwp"
         }
       ],
-      "_attAt": "2026-08-11T03:32:11.575557+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-11T09:46:58.336476+00:00",
+      "_attRev": 3
     },
     {
       "title": "[8.11.화.석간] 당뇨병 환자의 응급실 방문 위험, 인공지능(AI)으로 미리 예측한다",
@@ -1021,16 +1021,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523363&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523367&tblKey=GMN",
           "filename": "260811(보도자료) 공인중개사법 시행령 및 시행규칙 개정안 28일부터 시행(부동산개발산업과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523364&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523368&tblKey=GMN",
           "filename": "260811(보도자료) 공인중개사법 시행령 및 시행규칙 개정안 28일부터 시행(부동산개발산업과).pdf"
         }
       ],
-      "_attAt": "2026-08-11T03:32:11.575557+00:00"
+      "_attAt": "2026-08-11T09:46:58.336476+00:00",
+      "_attRev": 1
     },
     {
       "title": "독버섯 주의보 발령! 반려동물도 섭취 조심! - 국립산림과학원, 폭염기 독버섯 급증, 야생버섯 채취 및 섭취 금지 당부",
@@ -1802,6 +1803,27 @@
         }
       ],
       "_attAt": "2026-08-11T09:31:57.882143+00:00"
+    },
+    {
+      "title": "중수청 임용설명회, 대검찰청, 서울고검, 중앙지검 등에서 성황리 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774114",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "- 서울 지역 설명회, 휴가철임에도 검찰청 검사·수사관들의 높은 관심과 참여 속에 진행 행정안전부 중대범죄수사청 개청준비단(단장 김민재, 이하 준비단)은 오늘 검찰청 조직의 핵심인 대검찰청, 서울고검, 중앙지검, 서부지검 등 서울 지역에서 검사와 수사관의 높은 관심과 참여 속에서 성황리에 중수청 임용설명회를 진행하였다. 8월 11일 설명회는 휴가철임에도 불구하고, 서울고검과 중앙지검에서 460여 명, 대검찰청은 360여 명, 서부지검 110여 명 등 당초 예상보다 훨씬 많은 인원인 총 930여 명(검사 약 50명 포함)이 참석하여,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523761&tblKey=GMN",
+          "filename": "260811 (즉시) 중수청 임용설명회 대검찰청 서울고검 중앙지검 등에서 성황리 개최(중수청 개청준비단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523762&tblKey=GMN",
+          "filename": "260811 (즉시) 중수청 임용설명회 대검찰청 서울고검 중앙지검 등에서 성황리 개최(중수청 개청준비단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T09:46:58.336476+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
