@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T23:17:24.755648+00:00",
-  "count": 2132,
+  "updated": "2026-08-11T23:32:12.073370+00:00",
+  "count": 2135,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -160,6 +160,69 @@
         }
       ],
       "_attAt": "2026-08-11T23:17:08.883438+00:00"
+    },
+    {
+      "title": "공공데이터로 스타트업 성장동력 만든다! 공공기관-스타트업 협업과제 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774123",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 공공데이터를 활용하여 스타트업의 기술검증(PoC)과 사업화를 지원하는 '공공데이터 활용 지원' 사업 협업과제를 8월 11일(화)부터 8월 31일(월)까지 모집한다고 밝혔다. '2025년 공공데이터 활용기업 실태조사'에 따르면 공공데이터를 활용한 기업의 58.5%가 효율성·생산성 향상을, 41.8%가 서비스 고도화를, 26.7%가 제품·서비스 타겟고객 확장에 도움이 됐다고 응답했다. 중기부는 이러한 현장의 목소리를 반영해 올해 '공공데이터 활용 지원' 사업을 신설했으며, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523823&tblKey=GMN",
+          "filename": "260811_공공데이터로_스타트업_성장동력_만든다!_공공기관-스타트업_협업과제_모집.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523824&tblKey=GMN",
+          "filename": "260811_공공데이터로_스타트업_성장동력_만든다!_공공기관-스타트업_협업과제_모집.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T23:32:05.952276+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, AI 디지털의료기기 우수 관리체계 인증 가이드라인 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774122",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "[보도참고] 식약처, AI 디지털의료기기 우수 관리체계 인증 가이드라인 마련",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523821&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도참고자료] 식약처, AI 디지털의료기기 우수 관리체계 인증 가이드라인 마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523822&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도참고자료] 식약처, AI 디지털의료기기 우수 관리체계 인증 가이드라인 마련.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T23:32:05.952276+00:00"
+    },
+    {
+      "title": "가을 신학기 학교 급식시설·학교 주변 식품 취급업소 합동점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774121",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "가을 신학기 학교 급식시설·학교 주변 식품 취급업소 합동점검 실시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523819&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도자료] 가을 신학기 학교 급식시설·학교 주변 식품 취급업소 합동점검 실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523820&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도자료] 가을 신학기 학교 급식시설·학교 주변 식품 취급업소 합동점검 실시.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T23:32:05.952276+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
