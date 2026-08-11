@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T04:17:05.050351+00:00",
-  "count": 2188,
+  "updated": "2026-08-11T04:32:07.738722+00:00",
+  "count": 2192,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -115,11 +115,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523166&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523169&tblKey=GMN",
           "filename": "(8. 11. 조간 보도자료) 소방청%2C 폭염 속 차량 화재 주의... 사전점검 당부.hwpx"
         }
       ],
-      "_attAt": "2026-08-10T22:25:58.430173+00:00"
+      "_attAt": "2026-08-11T04:31:57.231220+00:00",
+      "_attRev": 1
     },
     {
       "title": "'2026 한복상점', 광장시장의 한복 제작 문화 조망부터 기업 상담, 판매, 체험까지",
@@ -1084,6 +1085,110 @@
         }
       ],
       "_attAt": "2026-08-11T04:16:57.598808+00:00"
+    },
+    {
+      "title": "불가항력 분만사고, 산모 중증장애까지 국가가 보상한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774043",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "불가항력 분만사고, 산모 중증장애까지 국가가 보상한다- 「의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령」 일부개정령안 국무회의 의결(8.11.) - 보건복지부(장관 정은경)는 8월 11일(화) 국무회의에서「의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령(이하 '의료분쟁조정법 시행령')」 일부개정령안이 의결되었다고 밝혔다. 정부는 환자와 의료진 모두를 위한 의료사고 안전망 구축의 일환으로 불가항력 분만 의료사고에 대한 국가 보상을 지속적으로 확대해 오고 있다. 불가항력 분만 의료사고란 보건의료인이 충분한 주의의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523422&tblKey=GMN",
+          "filename": "[보도참고자료] 불가항력 분만사고, 산모 중증장애까지 국가가 보상한다.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523424&tblKey=GMN",
+          "filename": "(별첨) 의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령 일부개정령안.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523423&tblKey=GMN",
+          "filename": "[보도참고자료] 불가항력 분만사고, 산모 중증장애까지 국가가 보상한다.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523425&tblKey=GMN",
+          "filename": "(별첨) 의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령 일부개정령안.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T04:31:57.231220+00:00"
+    },
+    {
+      "title": "산림청, 산림유전자원보호구역 10선 공모",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774041",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "산림청, 산림유전자원보호구역 10선 공모- '오래도록 지켜야 할 숲, 가보고 싶은 숲' 10개소 선정 - 산림청(청장 박은식)은 산림생물다양성 핵심 공간인 산림유전자원보호구역의 우수한 보전 사례를 발굴하고 국민과 가치를 공유하기 위해 올해 처음으로 '산림유전자원보호구역 10선' 공모를 실시한다고 11일 밝혔다. 산림유전자원보호구역은 희귀식물과 유용식물, 원시림 등 산림생물다양성이 풍부한 지역을 체계적으로 보전하기 위해 지정·관리하는 구역이다. 산림청은 국제사회의 생물다양성 보전 정책에 발맞춰 산림유전자원보호구역을 지속 확대하고 과학",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523417&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，산림유전자원보호구역_10선_공모.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523419&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，산림유전자원보호구역_10선_공모.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523418&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，산림유전자원보호구역_10선_공모.hwp"
+        }
+      ],
+      "_attAt": "2026-08-11T04:31:57.231220+00:00"
+    },
+    {
+      "title": "산림청, 청소년 국제산림협력 체험 교육 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774039",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "산림청, 청소년 국제산림협력 체험 교육 지원- 미래세대 숲리더, 몽골에서 기후위기 대응과 국제산림협력을 배우다 - 산림청(청장 박은식)은 기후위기 대응 역량을 갖춘 미래세대 청소년 숲리더 양성을 위해 (사)한국숲사랑청소년단이 참여하는 '2026 글로벌 숲탐방 원정대'를 운영한다고 11일 밝혔다. 숲사랑청소년단 대원과 지도교사 등 28명이 참가하는 이번 원정대는 11일부터 15일까지 닷새간 기후위기로 인한 사막화가 빠르게 진행 중인 몽골 울란바타르, 테를지, 룬솜 지역 등을 탐방한다. 대원들은 산림청이 몽골 환경관광부와 함께 조성한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523407&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，_청소년_국제산림협력_체험_교육_지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523409&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，_청소년_국제산림협력_체험_교육_지원.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523408&tblKey=GMN",
+          "filename": "(260811)보도자료-산림청，_청소년_국제산림협력_체험_교육_지원.hwp"
+        }
+      ],
+      "_attAt": "2026-08-11T04:31:57.231220+00:00"
+    },
+    {
+      "title": "「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774042",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과- 국립대학(치과)병원의 소관 부처를 교육부에서 보건복지부로 변경하는 모법 개정에 따라 하위 법령 개정 -- 사업계획서 등의 제출처를 보건복지부장관으로 변경, 의료환경의 변화에 유연하게 대응할 수 있도록 하부조직의 구성을 정관에 위임 -【관련 국정과제】 84. 지역격차 해소, 필수의료 확충, 공공의료 강화 보건복지부와(장관 정은경) 교육부는(장관 최교진) 8월 11일(화) 국무회의에서 「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523420&tblKey=GMN",
+          "filename": "[8.11.화 국무회의 종료(별도 안내) 이후] 「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523421&tblKey=GMN",
+          "filename": "[8.11.화 국무회의 종료(별도 안내) 이후] 「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과.pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T04:31:57.231220+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
