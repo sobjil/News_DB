@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T21:02:15.444699+00:00",
-  "count": 2127,
+  "updated": "2026-08-11T21:17:02.334886+00:00",
+  "count": 2128,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "2학기 마지막 신청을 놓치지 마세요! 국가장학금 2학기 2차 통합 신청",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774116",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "2학기 마지막 신청을 놓치지 마세요! 국가장학금 2학기 2차 통합 신청",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523803&tblKey=GMN",
+          "filename": "[교육부 08-12(수) 석간보도자료] 2학기 마지막 신청을 놓치지 마세요! 국가장학금 2학기 2차 통합 신청.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-11T21:16:57.885680+00:00"
+    },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773979",
