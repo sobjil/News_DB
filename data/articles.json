@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T06:17:05.083902+00:00",
+  "updated": "2026-08-11T06:32:04.910647+00:00",
   "count": 2208,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -264,16 +264,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523193&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523229&tblKey=GMN",
           "filename": "260811(0900) 국내외 기관·기업 대상 랜섬웨어(GUNRA) 유포 확산에 따른 한·미 합동 사이버보안 권고문 배포(사이버테러대응).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523192&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523228&tblKey=GMN",
           "filename": "260811(0900) 국내외 기관·기업 대상 랜섬웨어(GUNRA) 유포 확산에 따른 한·미 합동 사이버보안 권고문 배포(사이버테러대응).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523230&tblKey=GMN",
+          "filename": "aa26-222a-stopransomware-gunra-ransomware(번역).pdf"
         }
       ],
-      "_attAt": "2026-08-11T00:16:59.297948+00:00"
+      "_attAt": "2026-08-11T06:31:58.215125+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 규제합리화 신속 추진으로 현장 체감 속도 높여",
@@ -294,7 +300,8 @@
           "filename": "260811_(보도자료)_조달청 규제합리화 신속 추진으로 현장 체감 속도 높여_배포용.hwp"
         }
       ],
-      "_attAt": "2026-08-11T00:16:59.297948+00:00"
+      "_attAt": "2026-08-11T06:31:58.215125+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 부산 '중부산세무서 신축 현장' 폭염 대응 태세 밀착점검",
@@ -315,7 +322,8 @@
           "filename": "260811_(보도자료)_조달청 부산 ‘중부산세무서 신축 현장’ 폭염 대응 태세 밀착점검_배포용.hwp"
         }
       ],
-      "_attAt": "2026-08-11T00:16:59.297948+00:00"
+      "_attAt": "2026-08-11T06:31:58.215125+00:00",
+      "_attRev": 1
     },
     {
       "title": "미수령 당첨금 자동지급을 통해 적은 당첨금도 '꼼꼼히' 국민께 돌려드리겠습니다.",
@@ -346,7 +354,8 @@
           "filename": "2. 260811 (참고자료) 복권위, 미수령 당첨금 자동지급 등 제도개선(최종).pdf"
         }
       ],
-      "_attAt": "2026-08-11T00:16:59.297948+00:00"
+      "_attAt": "2026-08-11T06:31:58.215125+00:00",
+      "_attRev": 1
     },
     {
       "title": "코엑스 리모델링 공사 기간에 원활한 전시회 개최 지원",
