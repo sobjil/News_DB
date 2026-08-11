@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T05:02:02.006478+00:00",
-  "count": 2194,
+  "updated": "2026-08-11T05:17:11.275395+00:00",
+  "count": 2200,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -141,7 +141,8 @@
           "filename": "[0811]문체부보도자료-2026 한복상점 개최.pdf"
         }
       ],
-      "_attAt": "2026-08-10T23:10:59.840095+00:00"
+      "_attAt": "2026-08-11T05:16:58.763027+00:00",
+      "_attRev": 1
     },
     {
       "title": "한국과 필리핀, 저작권 협력으로 콘텐츠 산업의 미래 잇다",
@@ -153,16 +154,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523171&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523236&tblKey=GMN",
           "filename": "[0811]문체부보도자료-2026 한-필리핀 저작권 포럼 및 정부 간 회의 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198523170&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523235&tblKey=GMN",
           "filename": "[0811]문체부보도자료-2026 한-필리핀 저작권 포럼 및 정부 간 회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-08-10T23:10:59.840095+00:00"
+      "_attAt": "2026-08-11T05:16:58.763027+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 발효유·우유 등 유가공품 제조·판매 업체 점검 결과...6곳 적발",
@@ -1231,6 +1233,122 @@
         }
       ],
       "_attAt": "2026-08-11T05:01:57.720222+00:00"
+    },
+    {
+      "title": "[보도참고] \"기술패권 시대, 국가 연구개발 성과 유출 막는다.\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774061",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "[보도참고] \"기술패권 시대, 국가 연구개발 성과 유출 막는다.\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523499&tblKey=GMN",
+          "filename": "260811 즉시 (보도참고) “기술패권 시대, 국가 R&amp;D 성과 유출 막는다.”.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
+    },
+    {
+      "title": "사회연대경제기업 공공시장 진출을 위한 공공구매 상담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774060",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "- 전국 33개 사회연대경제기업 및 31개 공공기관 참여- 1:1 맞춤형 구매상담을 통한 공공조달시장 진입 및 지역경제 활성화 도모 한국사회적기업진흥원(이하 진흥원, 원장 정승국)은 11일 오후 서울 aT센터에서 사회연대경제기업의 공공조달시장 진입을 확대하고 공공기관 우선구매를 활성화하기 위한 「2026년 사회연대경제기업 공공구매 상담회」를 개최하였다. 이번 구매상담회는 공공기관의 실제 구매 수요와 사회연대경제기업의 우수한 제품·서비스를 직접 연결하는 자리로, 사전에 공공기관을 대상으로 구매 희망 품목을 조사하고 이를 납품할 수 있",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523498&tblKey=GMN",
+          "filename": "260811_보도자료_2026년 사회연대경제기업 공공구매 상담회 개최(한국사회적기업진흥원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523497&tblKey=GMN",
+          "filename": "260811_보도자료_2026년 사회연대경제기업 공공구매 상담회 개최(한국사회적기업진흥원).pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
+    },
+    {
+      "title": "100년 역사의 홍릉숲, 서울 유일 국가 산림유전자원보호구역 지정 결정 - 100년간 이어온 산림유전자원 보전·연구 공간, 국가적 보전 가치 인정 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774056",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "산림청 국립산림과학원(원장 김용관)은 100년 이상 우리나라의 희귀·유용 식물자원을 수집보존해 온 홍릉시험림(이하 홍릉숲)이 서울에서 유일하게 '산림유전자원보호구역'으로 지정될 예정이라고 밝혔다.'산림유전자원보호구역'은 멸종위기종, 희귀식물 자생지 등 생태적으로 보전 가치가 높은 산림을 보호하기 위해 지정하는 산림보호구역이다. 홍릉숲은 관련 절차를 거쳐 2026년 12월 산림유전자원보호구역으로 지정·고시될 예정이다. 이번 지정은 홍릉숲이 100년 이상 축적해 온 산림식물자원의 보전 가치와 도심 산림생태계로서의 중요성을 제도적으로 인",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523482&tblKey=GMN",
+          "filename": "(국립산림과학원 보도자료)100년 역사의 홍릉숲, 서울 유일 국가 산림유전자원보호구역 지정 결정.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
+    },
+    {
+      "title": "< 한국산업인력공단 - 관세청 인천공항본부세관 > '외국인노동자 입국지원 업무협약' 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774059",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "- 17개 송출국 현지 및 대한민국 입국 직후 마약류 범죄 대응 교육 및 홍보- 건전한 입국문화 조성 및 국가사회 안전 확보를 위한 공동 노력 전개 한국산업인력공단(이사장 이병훈, 이하 '공단')은 관세청 인천공항본부세관 (세관장 김정)과 11일 인천국제공항 제2여객터미널(인천 영종구)에서 외국인노동자의 안전한 입국 지원과 마약류 범죄 대응 및 보호를 위한 업무협약을 체결했다. 양 기관은 △마약범죄로부터 외국인노동자를 보호하기 위한 교육 및 홍보 △직원 전문성 향상을 위한 교육 및 세미나 개최 △세관 신고절차, 통관 관련 교육 콘텐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523495&tblKey=GMN",
+          "filename": "260811_보도자료_공단-관세청 외국인근로자 입국지원 업무협약 체결(한국산업인력공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523496&tblKey=GMN",
+          "filename": "260811_보도자료_공단-관세청 외국인근로자 입국지원 업무협약 체결(한국산업인력공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
+    },
+    {
+      "title": "영사안전콜센터 민원상담 수기집, ｢한 통의 전화, 마음으로 응답하다｣ 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774057",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "외교부는 재외국민 보호의 최일선에서 근무하는 영사안전콜센터 상담관들의 경험을 담은 상담 수기집 ｢한 통의 전화, 마음으로 응답하다｣를 발간했다. 이번 수기집은 우리 국민 누구나 쉽게 열람할 수 있도록 전국 시·군·구 260여개 여권발급 대행기관 내에 배포되었다. 수기집에는 양수가 터진 임산부 사건, 수면제를 다량 복용한 가족의 전화 등 다양한 해외 사건·사고를 접수하고 도움을 제공했던 상담 경험이 담겨 있다. 단순히 사건 접수 경험을 소개하는데 그치지 않고, 우리 국민의 불안과 어려움에 공감하며 문제 해결을 위해 노력했던 상담관들의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523487&tblKey=GMN",
+          "filename": "[26-660](보도자료) 영사안전콜센터 민원상담 수기집, ｢한 통의 전화, 마음으로 응답하다｣ 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523488&tblKey=GMN",
+          "filename": "[26-660](보도자료) 영사안전콜센터 민원상담 수기집, ｢한 통의 전화, 마음으로 응답하다｣ 발간.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523489&tblKey=GMN",
+          "filename": "「한 통의 전화, 마음으로 응답하다」(외교부 영사안전콜센터 민원상담 수기집).pdf"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
+    },
+    {
+      "title": "「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774058",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-11T00:00:00+09:00",
+      "description": "「국립대학병원 설치법 시행령」 및 「국립대학치과병원 설치법 시행령」 일부개정령안 국무회의 통과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523494&tblKey=GMN",
+          "filename": "[교육부 08-11(화) 국무회의종료시 보도자료] 국립대학병원 설치법 시행령 및 국립대학치과병원 설치법 시행령 일부개정령안 국무회의 통과.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-11T05:16:58.763027+00:00"
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
