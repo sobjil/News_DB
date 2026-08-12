@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T22:01:58.820256+00:00",
-  "count": 2095,
+  "updated": "2026-08-12T22:17:02.849076+00:00",
+  "count": 2096,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774264",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "﻿소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종응용프로그램 인터페이스(API) 개방- 화재·구급·신고접수 등 소방 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방 확대- 119소방안전 활동상황 상황판(대시보드)·119생명안전 길찾기 서비스 제공□ 소방청은 소방안전 빅데이터 플랫폼의 활용성과 국민 편의 향상을 위해 소방 주요 데이터 5종을 응용프로그램 인터페이스[API(Application Programming Interface)] 개방을 확대하는 한편, 국민이 체감할 수 있는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524348&tblKey=GMN",
+          "filename": "(8. 13. 조간 보도자료) 소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다…주요 데이터 5종 응용프로그램 인터페이스(API) 개방.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-12T22:16:58.489240+00:00"
+    },
     {
       "title": "2학기 마지막 신청을 놓치지 마세요! 국가장학금 2학기 2차 통합 신청",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774116",
