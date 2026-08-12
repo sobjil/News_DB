@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T07:32:22.991622+00:00",
-  "count": 2195,
+  "updated": "2026-08-12T07:47:01.570964+00:00",
+  "count": 2196,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1516,6 +1516,32 @@
         }
       ],
       "_attAt": "2026-08-12T07:31:57.935357+00:00"
+    },
+    {
+      "title": "(참고자료)첨단기술이 여는 미래, 미래성장동력 ｢7대 SEED｣ 보고회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774211",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "첨단기술이 여는 미래,미래성장동력 ｢7대 SEED｣ 보고회 개최- 미지의 미래를 개척·선점하기 위해 첨단기술에 담대한 투자 - ➊소형모듈원자로(SMR), ➋핵융합, ➌재생에너지 등 미래 청정에너지 확보 - ➍양자, ➎우주·항공, ❻첨단바이오 등 Next-AI, 차세대 프론티어 기술 육성 - 미래 대도약의 기반이 되는 핵심광물·소부장 등 ❼첨단 공급망 생태계 조성 - 3대 MEGA에 더해, 7대 SEED 프로젝트 추진으로 '대체불가 대한민국' 완성 산업통상부(장관 김정관, 이하 '산업부')는 관계부처 합동으로 8.12.(수) 청와대 ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524122&tblKey=GMN",
+          "filename": "(참고자료, 12일(수) 행사 종료후)산업기술정책과, 첨단기술이 여는 미래, 미래성장동력 ｢7대 SEED｣ 보고회 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524123&tblKey=GMN",
+          "filename": "(참고자료, 12일(수) 행사 종료후)산업기술정책과, 첨단기술이 여는 미래, 미래성장동력 ｢7대 SEED｣ 보고회 개최.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524124&tblKey=GMN",
+          "filename": "[별첨] 7대 SEED 프로젝트 추진 방안.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T07:46:57.046434+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
