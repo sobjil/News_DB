@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T03:46:58.902463+00:00",
-  "count": 2173,
+  "updated": "2026-08-12T04:02:06.804800+00:00",
+  "count": 2174,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1011,6 +1011,22 @@
         }
       ],
       "_attAt": "2026-08-12T03:16:57.721684+00:00"
+    },
+    {
+      "title": "인공지능과 실험실이 함께 진화하는 신약개발 혁신 생태계 구축",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774174",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "- 과기정통부, K-문샷 AI 신약개발 분야 첫 혁신거점 출범 - 인공지능 모델-자율 실험·검증-데이터 환류가 순환하는 Lab-in-the- Loop 신약 연구개발 체계 조성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524004&tblKey=GMN",
+          "filename": "260813 조간 (보도) AI와 실험실이 함께 진화하는 신약개발 혁신생태계 구축 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-12T04:01:59.892482+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
@@ -2794,8 +2810,8 @@
           "filename": "260811_(동정)_충북_청주_송어_양식어가_방문.pdf"
         }
       ],
-      "_attAt": "2026-08-11T21:46:59.008947+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-12T04:01:59.892482+00:00",
+      "_attRev": 3
     },
     {
       "title": "중수청 임용설명회, 대검찰청, 서울고검, 중앙지검 등에서 성황리 개최",
