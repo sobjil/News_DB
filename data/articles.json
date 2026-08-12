@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T00:32:13.822801+00:00",
-  "count": 2143,
+  "updated": "2026-08-12T00:47:03.434008+00:00",
+  "count": 2144,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -370,6 +370,27 @@
         }
       ],
       "_attAt": "2026-08-12T00:31:58.012124+00:00"
+    },
+    {
+      "title": "관계부처 합동 8월 일자리전담반(TF) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774132",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "이형일 재정경제부 제1차관은 8.12(수) 08:00 정부서울청사에서 관계부처 합동 일자리전담반(TF)을 주재하여 ①'26년 7월 고용동향, ②청년일자리 회복방안, ③업종별 고용동향 및 대응방안 등을 점검·논의했습니다. 자세한 내용은 첨부된 보도자료를 참고해주시길 바랍니다.문의. 재정경제부 민생경제국 인력정책과 최중원 (044-215-2846)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523852&tblKey=GMN",
+          "filename": "260812 일자리전담반 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523853&tblKey=GMN",
+          "filename": "260812 일자리전담반 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-12T00:46:58.981057+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
