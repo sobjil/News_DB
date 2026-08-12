@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T00:02:01.840337+00:00",
-  "count": 2136,
+  "updated": "2026-08-12T00:17:04.443496+00:00",
+  "count": 2139,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -223,6 +223,69 @@
         }
       ],
       "_attAt": "2026-08-11T23:32:05.952276+00:00"
+    },
+    {
+      "title": "조달청, '요소수 공급망 위기 대응' 2026년 한국정책대상 '대상' 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774127",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "조달청, '요소수 공급망 위기 대응' 2026년 한국정책대상 '대상' 수상· 위기 징후 포착부터 해외 공급선 확보, 국내 신속 공급, 제도 개선까지 전 과정 대응· 요소수 수급 불안을 막아 국민 불편을 최소화하고 중소기업의 안정적인 생산 지원 조달청(청장 백승보)이 추진한 '차량용 요소수 공급망 위기 대응 및 국가전략비축 체계 혁신' 정책이 12일 한국정책학회(회장 이석환)가 주관하는 '제15회 한국정책대상'에서 대상으로 선정됐다. 한국정책학회는 행정·정책학 분야의 선도적인 학회로서 국민의 삶의 질 향상과 국가 발전에 기여한 우수 ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523837&tblKey=GMN",
+          "filename": "260812_(보도자료) 조달청 요소수 공급망 위기 대응 2026 한국정책대상 &amp;#039;대상&amp;#039; 수상_배포용.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523838&tblKey=GMN",
+          "filename": "260812_(보도자료) 조달청 요소수 공급망 위기 대응 2026 한국정책대상 &amp;#039;대상&amp;#039; 수상_배포용.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T00:16:58.404078+00:00"
+    },
+    {
+      "title": "조달청 물품구매('26.8.18. ~ '26.8.31.) 입찰동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774126",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "조달청 물품구매('26.8.18. ~ '26.8.31.) 입찰동향 - 인천국제공항공사 수요 'T2 체크인카운터 FIDS 개선사업' 등 1,144억 원 상당 입찰 - 조달청은 '26.8.18. ~ '26.8.31. 기간 중 인천국제공항공사 수요 'T2 체크인카운터 FIDS 개선사업' 등 총 147건, 약 1,144억 원 상당의 물품구매 입찰을 집행할 예정이다. 위 기간 동안 집행되는 입찰을 계약방법별로 보면, 서울교통공사 'T2 체크인카운터 FIDS 개선사업' 등 \"협상에 의한 계약\"이 전체 금액의 45.3%인 518억 원 재단법인 ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523833&tblKey=GMN",
+          "filename": "260812_(보도자료)_물품 입찰동향.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523834&tblKey=GMN",
+          "filename": "260812_(보도자료)_물품 입찰동향.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T00:16:58.404078+00:00"
+    },
+    {
+      "title": "[보도참고] '26.7월 고용동향 및 평가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774125",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "'26.7월 고용동향 보도참고자료입니다. ※ 자세한 내용은 첨부자료를 참고해 주시기 바랍니다.문의. 재정경제부 민생경제국 인력정책과 박종운 (044-215-8532)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523830&tblKey=GMN",
+          "filename": "보도참고(7월 고용동향)_F.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523829&tblKey=GMN",
+          "filename": "보도참고(7월 고용동향)_F.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T00:16:58.404078+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
