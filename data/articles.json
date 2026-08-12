@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T07:02:17.242247+00:00",
-  "count": 2190,
+  "updated": "2026-08-12T07:17:02.538463+00:00",
+  "count": 2191,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1389,6 +1389,37 @@
         }
       ],
       "_attAt": "2026-08-12T07:01:59.650433+00:00"
+    },
+    {
+      "title": "[보도참고자료] (공동) 첨단기술이 여는 미래, 미래성장동력 ｢7대 SEED｣ 보고회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774203",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "첨단기술이 여는 미래,미래성장동력 ｢7대 SEED｣ 보고회 개최- 미지의 미래를 개척·선점하기 위해 첨단기술에 담대한 투자 - ➊소형모듈원자로(SMR), ➋핵융합, ➌재생에너지 등 미래 청정에너지 확보 - ➍양자, ➎우주·항공, ❻첨단바이오 등 Next-AI, 차세대 프론티어 기술 육성 - 미래 대도약의 기반이 되는 핵심광물·소부장 등 ❼첨단 공급망 생태계 조성 - 3대 MEGA에 더해, 7대 SEED 프로젝트 추진으로 '대체불가 대한민국' 완성 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 '과기정통부')는 관계부처 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524100&tblKey=GMN",
+          "filename": "(공동)[별첨] 7대 SEED 프로젝트 추진 방안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524102&tblKey=GMN",
+          "filename": "(공동)260812_첨단기술이 여는 미래, 미래성장동력 7대 SEED 보고회 개최_보도참고자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524101&tblKey=GMN",
+          "filename": "(공동)[별첨] 7대 SEED 프로젝트 추진 방안.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524103&tblKey=GMN",
+          "filename": "(공동)260812_첨단기술이 여는 미래, 미래성장동력 7대 SEED 보고회 개최_보도참고자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-12T07:16:58.703297+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
