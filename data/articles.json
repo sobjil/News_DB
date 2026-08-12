@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T10:02:01.174739+00:00",
-  "count": 2207,
+  "updated": "2026-08-12T10:17:10.638124+00:00",
+  "count": 2209,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1070,7 +1070,8 @@
           "filename": "260813 조간 (보도) AI와 실험실이 함께 진화하는 신약개발 혁신생태계 구축 (1).hwpx"
         }
       ],
-      "_attAt": "2026-08-12T04:01:59.892482+00:00"
+      "_attAt": "2026-08-12T10:17:03.920134+00:00",
+      "_attRev": 1
     },
     {
       "title": "한-베네수엘라 외교장관 통화(8.12.) 결과",
@@ -1747,6 +1748,58 @@
         }
       ],
       "_attAt": "2026-08-12T09:16:57.294826+00:00"
+    },
+    {
+      "title": "'방송광고 일총량제·중간광고 확대' 10월 시행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774233",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "'방송광고 일총량제·중간광고 확대' 10월 시행- 방송시장 활성화 및 낡은 광고 규제 개선 등 위한 「방송법 시행령」 의결 - 1일 방송광고 시간 총량을 20%로 늘리고, 중간광고가 가능한 프로그램 길이를 30분으로 단축하는 등 방송광고 제도 개선이 오는 10월 시행된다. 방송미디어통신위원회(위원장 김종철)는 12일 '2026년 제27차 전체회의'를 열고 방송시장 활성화를 위한 낡은 방송광고 규제 합리화 등의 내용을 담은 「방송법 시행령」 개정안을 심의·의결했다. 앞서 지난 6월 '2026년 제17차 전체회의'에서 해당 안건을 보고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524227&tblKey=GMN",
+          "filename": "260812 [엠바고] (보도자료) ‘방송광고 일총량제·중간광고 확대’ 10월 시행.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524226&tblKey=GMN",
+          "filename": "260812 [엠바고] (보도자료) ‘방송광고 일총량제·중간광고 확대’ 10월 시행.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524225&tblKey=GMN",
+          "filename": "260812 [엠바고] (보도자료) ‘방송광고 일총량제·중간광고 확대’ 10월 시행.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T10:17:03.920134+00:00"
+    },
+    {
+      "title": "2026년 제27차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774235",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "2026년 제27차 위원회 결과[의결 안건]가. 방송광고 제도개선 관련 「방송법 시행령」 일부개정령(안)에 관한 건 o 방송미디어통신위원회는 오늘 전체회의를 열고 방송광고 제도개선 관련 「방송법 시행령」 개정안을 의결했습니다. o 의결된 개정안은 지난 6월 제17차 전체회의에서 보고된 안건으로 방송광고 일총량제 확대·개선, 중간광고 규제 완화 등의 내용을 포함하고 있습니다. o 개정 시행령은 법제처 심사, 9월 초 차관·국무회의 의결 등을 거쳐 10월 시행될 예정이며, 향후 절차를 차질 없이 진행하겠습니다.나. 앱 마켓 사업자의 「",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524233&tblKey=GMN",
+          "filename": "제27차 위원회 결과 브리핑(260815).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524232&tblKey=GMN",
+          "filename": "제27차 위원회 결과 브리핑(260815).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524231&tblKey=GMN",
+          "filename": "제27차 위원회 결과 브리핑(260815).hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T10:17:03.920134+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
