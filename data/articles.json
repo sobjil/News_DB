@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T05:47:07.242794+00:00",
-  "count": 2181,
+  "updated": "2026-08-12T06:02:07.129498+00:00",
+  "count": 2183,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1186,6 +1186,43 @@
         }
       ],
       "_attAt": "2026-08-12T05:46:59.546505+00:00"
+    },
+    {
+      "title": "동남권 인공지능 전환(AX)을 견인할 인공지능･소프트웨어 혁신인재 양성 거점,｢AI･SW 마에스트로｣ 부산센터 개소",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774191",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "- 과기정통부, 부산센터 개소식 8월 12일(수) 개최- 수도권 넘어 동남권 지역 우수 인재 150명, 본격적인 실전 연수 착수",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524047&tblKey=GMN",
+          "filename": "260813 조간 (보도) 동남권 AX를 견인할 AI･SW 혁신인재 양성 거점,｢AI･SW 마에스트로｣ 부산센터 개소.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-12T06:01:58.961406+00:00"
+    },
+    {
+      "title": "정치갈등 해소 위한 「현장형 국민대화」 세번째 충청권 토론회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774190",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524045&tblKey=GMN",
+          "filename": "정치갈등 해소 위한 「현장형 국민대화」 세번째 충청권 토론회 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524044&tblKey=GMN",
+          "filename": "정치갈등 해소 위한 「현장형 국민대화」 세번째 충청권 토론회 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T06:01:58.961406+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
@@ -3018,8 +3055,15 @@
       "agencyCode": "nfa",
       "pubDate": "2026-08-11T00:00:00+09:00",
       "description": "﻿﻿소방청, 경남 가뭄지역에 국가소방동원령 발령… 농업·생활용수 공급 총력 지원- 대통령 \"폭염·가뭄 국민 피해 최소화 위해 모든 행정력 총동원\" 지시에 총력 대응- 전국 물탱크차 200대·소방 인력 400명 경남 투입…농업·생활용수 공급 총력소방청은 연일 이어지는 폭염과 가뭄으로 경남지역의 용수 부족이 심화됨에 따라 국가소방동원령을 발령하고, 전국의 소방력을 투입해 농업·생활용수 공급을 지원한다고 밝혔다.이번 조치는 폭염과 가뭄으로 인한 국민 피해를 최소화하기 위해 모든 행정력을 총동원하라는 이재명 대통령의 지시에 따라, 가뭄 피",
-      "attachments": [],
-      "_attAt": "2026-08-12T00:01:57.613913+00:00"
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523919&tblKey=GMN",
+          "filename": "(8. 11. 즉시 보도자료) 소방청 경남 가뭄지역에 국가소방동원령 발령… 생활·농업용수 공급 총력 지원.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T06:01:58.961406+00:00",
+      "_attRev": 1
     },
     {
       "title": "제2기 노후계획도시정비특별위원회 출범… 첫 회의서 대전 기본계획안 심의",
