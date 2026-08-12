@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T00:17:04.443496+00:00",
-  "count": 2139,
+  "updated": "2026-08-12T00:32:13.822801+00:00",
+  "count": 2143,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -286,6 +286,90 @@
         }
       ],
       "_attAt": "2026-08-12T00:16:58.404078+00:00"
+    },
+    {
+      "title": "경찰청, ?범죄수익추적 수사체계 고도화 계획? 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774131",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "경찰청, 범죄수익추적 수사체계 고도화 계획 추진 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523849&tblKey=GMN",
+          "filename": "260812(조간용) 경찰청, 범죄수익추적 수사체계 고도화 추진(경제범죄수사).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523848&tblKey=GMN",
+          "filename": "260812(조간용) 경찰청, 범죄수익추적 수사체계 고도화 추진(경제범죄수사).pdf"
+        }
+      ],
+      "_attAt": "2026-08-12T00:31:58.012124+00:00"
+    },
+    {
+      "title": "관세청-코트라, 인도 진출기업을 위한 현지 공동설명회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774130",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "관세청-코트라,인도 진출기업을 위한 현지 공동설명회 개최- 최초로 인도 현지 관세당국이 설명회에 참여하여 우리 기업과 직접 소통- 상담신청 기업 대상 인도 통관제도 1:1 맞춤 컨설팅 지원 관세청은 코트라와 함께 8월 11일(화) 인도 뉴델리의 더 그랜드 뉴델리 호텔에서 현지 진출기업 관계자 등 100여 명이 참석한 가운데 우리 기업의 통관애로 해소를 위한 설명회를 공동 개최하였다고 밝혔다. 이번 설명회는 지난 5월 인도네시아에서 진행된 설명회에 이어 올해 두 번째로 개최되는 현지 설명회로, 해외에 진출한 우리 기업의 통관애로를 해",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523843&tblKey=GMN",
+          "filename": "260811 관세청-코트라, 인도 진출기업을 위한 현지 공동설명회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523844&tblKey=GMN",
+          "filename": "260811 관세청-코트라, 인도 진출기업을 위한 현지 공동설명회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-12T00:31:58.012124+00:00"
+    },
+    {
+      "title": "일명 '백옥 주사'(글루타티온 주사제) 등 전문의약품 불법 판매자 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774129",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "일명 '백옥 주사'(글루타티온 주사제) 등 전문의약품 불법 판매자 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523841&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도자료] 일명 ‘백옥 주사’(글루타티온 주사제) 등 전문의약품 불법 판매자 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523842&tblKey=GMN",
+          "filename": "[26.8.12.(수) 보도자료] 일명 ‘백옥 주사’(글루타티온 주사제) 등 전문의약품 불법 판매자 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-08-12T00:31:58.012124+00:00"
+    },
+    {
+      "title": "결혼 페널티 해소하는 세제개편 발맞춰 혼인·출산 지원 강화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774128",
+      "agency": "저출산고령사회위원회",
+      "agencyCode": "betterfuture",
+      "pubDate": "2026-08-12T00:00:00+09:00",
+      "description": "결혼 페널티 해소하는 세제개편 발맞춰 혼인·출산 지원 강화 추진 - 무주택 주말부부 주택임차차입금 소득공제 각각 적용- 혼인으로 경차 2대 보유시 1대분 유류세 환급 - 출산지원금 비과세, 임신단계까지 확대 저출산고령사회위원회(부위원장 김진오)는 지난 8월 3일 정부가 발표한 '2026년 세제개편안'에 혼인·출산 가구의 경제적 부담을 완화하는 세제지원 내용이 다수 포함되었다고 밝혔다. 이번 개편은 결혼과 출산으로 인해 발생하던 세제상 불이익, 이른바 결혼페널티를 해소하는 데 초점을 맞췄다. 결혼을 해도 기존에 받던 혜택이 그대로 유",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523840&tblKey=GMN",
+          "filename": "★[저출산고령사회위원회 보도참고자료](8.12(수) 배포 즉시 보도) 혼인 출산 지원 세제.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198523839&tblKey=GMN",
+          "filename": "★[저출산고령사회위원회 보도참고자료](8.12(수) 배포 즉시 보도) 혼인 출산 지원 세제.hwp"
+        }
+      ],
+      "_attAt": "2026-08-12T00:31:58.012124+00:00"
     },
     {
       "title": "「우주개발 진흥법」 개정으로 우주발사 허가의 효율성 개선",
@@ -1732,8 +1816,8 @@
           "filename": "260811 (보도자료) 해양경찰 73년의 역사, 국민의 기록으로 채운다.hwp"
         }
       ],
-      "_attAt": "2026-08-11T18:16:58.974068+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-12T00:31:58.012124+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 제18차 부동산 불법행위 대응협의회",
@@ -1754,8 +1838,8 @@
           "filename": "260811_제18차 부동산 불법행위 대응협의회 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-08-11T18:16:58.974068+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-12T00:31:58.012124+00:00",
+      "_attRev": 3
     },
     {
       "title": "북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시",
@@ -1776,8 +1860,8 @@
           "filename": "(북부지방산림청) 북부지방산림청, 임도사업 품질 향상·폭염 대비 현장 안전점검 실시.hwp"
         }
       ],
-      "_attAt": "2026-08-11T18:16:58.974068+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-12T00:31:58.012124+00:00",
+      "_attRev": 3
     },
     {
       "title": "제8차 확대간부회의 개최",
@@ -1798,8 +1882,8 @@
           "filename": "(260811) 8차 확대간부회의 보도자료_3.pdf"
         }
       ],
-      "_attAt": "2026-08-11T18:16:58.974068+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-12T00:31:58.012124+00:00",
+      "_attRev": 3
     },
     {
       "title": "국립산림과학원-LX인터내셔널, 산림자원 활용을 위한 업무협약 체결 - 경북 산림자원수집센터 구축 협력…산림자원 활용 확대 기대 -",
