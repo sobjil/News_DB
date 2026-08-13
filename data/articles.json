@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T00:47:35.372167+00:00",
-  "count": 2124,
+  "updated": "2026-08-13T01:02:12.821475+00:00",
+  "count": 2129,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -698,6 +698,106 @@
         }
       ],
       "_attAt": "2026-08-13T00:47:06.989276+00:00"
+    },
+    {
+      "title": "「월간 재정동향」 2026년 8월호 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774298",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "□ 기획예산처는 「월간 재정동향」 '26.8월호를 발간하여 '26.6월말 기준 재정운용 동향을 발표하였음.※ 자세한 사항은 붙임을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524468&tblKey=GMN",
+          "filename": "260813 (보도자료) 기획예산처 월간 재정동향 26.8월호.F.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524467&tblKey=GMN",
+          "filename": "(책자) 기획예산처 월간 재정동향 26.8월호.F.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524469&tblKey=GMN",
+          "filename": "260813 (보도자료) 기획예산처 월간 재정동향 26.8월호.F.pdf"
+        }
+      ],
+      "_attAt": "2026-08-13T01:01:58.912623+00:00"
+    },
+    {
+      "title": "과기정통부, 주파수 재할당 대가 산정 제도 개선 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774301",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "과기정통부, 주파수 재할당 대가 산정 제도 개선 착수 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524474&tblKey=GMN",
+          "filename": "260813 석간 (보도) 과기정통부, 주파수 재할당 대가 산정 제도개선 착수.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-13T01:01:58.912623+00:00"
+    },
+    {
+      "title": "대학의 연구안보 관리체계 구축 본격 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774300",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "대학의 연구안보 관리체계 구축 본격 착수 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524472&tblKey=GMN",
+          "filename": "260813 석간 (보도) 대학의 연구안보 관리체계 구축 본격 착수.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-13T01:01:58.912623+00:00"
+    },
+    {
+      "title": "과기정통부, 청년 AI스타트업 보육현장 방문 및 소통 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774299",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "- '벤처리움' 방문해 청년 창업가 목소리 청취...맞춤형 지원 의지 표명 - 내년 상반기 '청년 AI 스타트업 경진대회' 개최 등 성장 잠재력 우수한 청년 기업 지원 확대 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524470&tblKey=GMN",
+          "filename": "260813 석간 (보도) 과기정통부, 청년 AI스타트업 보육현장 방문 및 소통 간담회 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-13T01:01:58.912623+00:00"
+    },
+    {
+      "title": "주요 플랫폼과 입점업체 간 거래현황 및 불공정행위 사례 파악을 위한 실태조사 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774297",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-08-13T00:00:00+09:00",
+      "description": "배달·오픈마켓·숙박 분야 플랫폼-입점업체 간 거래 현황 파악을 위한 실태조사 실시- 입점업체 애로사항 파악과 함께 수수료, 광고비, 플랫폼 운영 실태 등을 분석 - 공정거래위원회(위원장 주병기, 이하 '공정위')는 주요 플랫폼과 입점업체 간 거래 현황 파악을 위해 2026년 8월 13일부터 연구용역에 착수한다. 연구용역 개요▸연구용역 과제명: 「주요 플랫폼과 입점업체 간 거래 현황 및 불공정거래 사례 파악을 위한 실태조사」 ▸연구용역 기간: 2026.8.13. ∼ 2026.11.12. ▸연구용역 주요 내용: 배달·오픈마켓·숙박 3대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524465&tblKey=GMN",
+          "filename": "260813(참고) 배달·오픈마켓·숙박 분야 플랫폼-입점업체 간 거래 현황 파악을 위한 실태조사 실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524466&tblKey=GMN",
+          "filename": "260813(참고) 배달·오픈마켓·숙박 분야 플랫폼-입점업체 간 거래 현황 파악을 위한 실태조사 실시.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198524464&tblKey=GMN",
+          "filename": "260813(참고) 배달·오픈마켓·숙박 분야 플랫폼-입점업체 간 거래 현황 파악을 위한 실태조사 실시.hwp"
+        }
+      ],
+      "_attAt": "2026-08-13T01:01:58.912623+00:00"
     },
     {
       "title": "2학기 마지막 신청을 놓치지 마세요! 국가장학금 2학기 2차 통합 신청",
