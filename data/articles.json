@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T23:01:59.720781+00:00",
-  "count": 2097,
+  "updated": "2026-08-13T23:17:05.339105+00:00",
+  "count": 2098,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -151,6 +151,32 @@
         }
       ],
       "_attAt": "2026-08-13T22:16:59.792942+00:00"
+    },
+    {
+      "title": "외교부 공관장인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774432",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525062&tblKey=GMN",
+          "filename": "[26-666](보도자료) 외교부 공관장 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525063&tblKey=GMN",
+          "filename": "[26-666](보도자료) 외교부 공관장 인사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525064&tblKey=GMN",
+          "filename": "붙임) 국영문 이력서(4부)재송부.hwp"
+        }
+      ],
+      "_attAt": "2026-08-13T23:16:58.860639+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
@@ -1523,8 +1549,8 @@
           "filename": "260814 조간 (보도) AI·디지털자산 시대 K-블록체인의 새로운 시장과 글로벌 기회를 찾는다.hwpx"
         }
       ],
-      "_attAt": "2026-08-13T17:01:59.636642+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-13T23:16:58.860639+00:00",
+      "_attRev": 3
     },
     {
       "title": "국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려",
