@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T15:02:47.082978+00:00",
-  "count": 2039,
+  "updated": "2026-08-14T15:17:55.740157+00:00",
+  "count": 2040,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1682,6 +1682,27 @@
         }
       ],
       "_attAt": "2026-08-14T09:47:46.107011+00:00"
+    },
+    {
+      "title": "검찰인권존중미래위원회 '검찰권 남용 의혹 사건'12건 추가 조사 대상 사건 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774533",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "검찰인권존중미래위원회'검찰권 남용 의혹 사건' 12건 추가 조사 대상 사건 선정 '검찰인권존중미래위원회' (위원장 장주영, 이하 '위원회'라 합니다)가 과거 검찰권 행사 과정에서 발생한 인권침해 및 권한 남용 의혹 사건에 대해 진상조사가 필요한 사건을 추가 선정하였습니다.[※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525606&tblKey=GMN",
+          "filename": "(보도자료) 검찰인권존중미래위원회, &#039;검찰권 남용 의혹 사건’ 12건 추가 조사 대상 사건 선정 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525605&tblKey=GMN",
+          "filename": "(보도자료) 검찰인권존중미래위원회, &#039;검찰권 남용 의혹 사건’ 12건 추가 조사 대상 사건 선정 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T15:17:46.071604+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
