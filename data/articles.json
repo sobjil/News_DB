@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T02:32:08.292740+00:00",
-  "count": 2129,
+  "updated": "2026-08-14T02:47:00.614337+00:00",
+  "count": 2130,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -807,6 +807,27 @@
         }
       ],
       "_attAt": "2026-08-14T02:31:59.462613+00:00"
+    },
+    {
+      "title": "'AI 가짜광고·체험방 피해예방'...식약처장, 어르신 식의약 안전교육 직접 나서",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774477",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "'AI 가짜광고·체험방 피해예방'...식약처장, 어르신 식의약 안전교육 직접 나서",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525280&tblKey=GMN",
+          "filename": "[26.8.14.(금) 보도자료] &amp;apos;AI 가짜광고·체험방 피해예방&amp;apos;...식약처장, 어르신 식의약 안전교육 직접 나서.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525281&tblKey=GMN",
+          "filename": "[26.8.14.(금) 보도자료] &amp;apos;AI 가짜광고·체험방 피해예방&amp;apos;...식약처장, 어르신 식의약 안전교육 직접 나서.pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T02:46:57.045802+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
