@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T04:17:49.287467+00:00",
-  "count": 2132,
+  "updated": "2026-08-14T04:32:49.557803+00:00",
+  "count": 2133,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -874,6 +874,22 @@
         }
       ],
       "_attAt": "2026-08-14T03:16:58.842515+00:00"
+    },
+    {
+      "title": "과기정통부 인사(과장급)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774484",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "과기정통부 인사(과장급) 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525301&tblKey=GMN",
+          "filename": "260814 즉시 (보도) 과기정통부 인사_과장급 인사.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-14T04:32:45.255159+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
