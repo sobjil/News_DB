@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T08:02:55.179985+00:00",
-  "count": 2160,
+  "updated": "2026-08-14T08:17:52.657412+00:00",
+  "count": 2162,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -809,16 +809,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525266&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525275&tblKey=GMN",
           "filename": "260814_보도자료_제49차_외국인력정책위원회_개최(관계부처 합동)_수정.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525265&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525274&tblKey=GMN",
           "filename": "260814_보도자료_제49차_외국인력정책위원회_개최(관계부처 합동)_수정.pdf"
         }
       ],
-      "_attAt": "2026-08-14T02:16:58.523838+00:00"
+      "_attAt": "2026-08-14T08:17:46.165396+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 국무조정실장 주재 외국인력정책위원회",
@@ -1471,6 +1472,48 @@
         }
       ],
       "_attAt": "2026-08-14T08:02:45.929642+00:00"
+    },
+    {
+      "title": "허위영상물(딥페이크) 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774521",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "허위영상물(딥페이크) 범죄, 경찰 인공지능(AI) 3중 대응으로 끝까지 쫓는다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525515&tblKey=GMN",
+          "filename": "260814(조간용) 딥페이크 범죄 3중 대응으로 끝까지 쫓는다(사이버범죄수사).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525514&tblKey=GMN",
+          "filename": "260814(조간용) 딥페이크 범죄 3중 대응으로 끝까지 쫓는다(사이버범죄수사).pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T08:17:46.165396+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 빌 게이츠 테라파워 이사회 의장 접견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774522",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "한성숙 국무총리,빌 게이츠 테라파워 이사회 의장 접견- 韓-美 차세대 SMR 협력 맞손, AI 시대 에너지 해법 논의- 빌 게이츠, 원전 전 주기 역량 갖춘 한국이 글로벌 SMR 협력의 전략적 파트너가 되길 희망□ 한성숙 국무총리는 8.14.(금) 오후, 정부서울청사에서 빌 게이츠(Bill Gates) 테라파워(TerraPower) 이사회 의장과 면담을 갖고, 韓-美 간 차세대 소형모듈형원자로(SMR) 협력과 AI시대 글로벌 에너지 해법을 심도있게 논의했다. 테라파워 개요 - 빌 게이츠가 2008년에 창업한 미국의 소형모듈형원자로(",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525516&tblKey=GMN",
+          "filename": "260814_한성숙 국무총리, 빌 게이츠 테라파워 이사회 의장 접견 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525517&tblKey=GMN",
+          "filename": "260814_한성숙 국무총리, 빌 게이츠 테라파워 이사회 의장 접견 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T08:17:46.165396+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
