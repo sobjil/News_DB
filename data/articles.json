@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T01:02:14.263065+00:00",
-  "count": 2117,
+  "updated": "2026-08-14T01:17:05.755598+00:00",
+  "count": 2120,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -545,6 +545,69 @@
         }
       ],
       "_attAt": "2026-08-14T01:02:00.968171+00:00"
+    },
+    {
+      "title": "[보도참고] 2026년 8월 최근 경제동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774463",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "최근 경제동향 2026년 8월호입니다. * 자세한 내용은 첨부파일을 참고하시기 바랍니다.** \"최근 경제동향\"은 정부 간행물 판매센터(☎02)394-0337)에서 판매하고 있습니다. 장기간 정기구독도 가능하오니 많이 애용하여 주시기 바랍니다.[참고] 경제동향 관련 문의처고용(044-215-8532)물가(044-215-2772~7)재정(044-214-1832~4)부동산(044-215-2851~3)금융, 외환(044-215-2751~6)한국 GDP(044-215-2713~4)소비, 투자, 세계경제 등(044-215-2732~6)문의. ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525183&tblKey=GMN",
+          "filename": "2026년 8월 최근경제동향.pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T01:16:57.880415+00:00"
+    },
+    {
+      "title": "남부 지역 가뭄에 범정부 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774462",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "- '관계부처 합동 가뭄 TF' 대응체계 강화, '남부 지역 가뭄 대응단' 신설- 재난관리자원 통합관리시스템을 활용해 가용한 양수기, 급수차 등 긴급 동원행정안전부(장관 윤호중)는 최근 강수량 부족으로 전남·광주, 경남 등 남부 지역을 중심으로 가뭄이 심화됨에 따라 범정부 차원의 총력 대응에 나선다고 밝혔다. 최근 경남 밀양의 저수율이 25.2%로 평년(74.3%) 대비 33.9% 수준까지 낮아지는 등 물 부족이 심각해짐에 따라, 기존 '관계부처 합동 가뭄 TF'를 강화하고, 산하에 '남부지역 가뭄 대응단(이하 대응단)'을 신설한다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525181&tblKey=GMN",
+          "filename": "260814 (10시) 남부지역 가뭄에 범정부 총력 대응(기후재난관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525182&tblKey=GMN",
+          "filename": "260814 (10시) 남부지역 가뭄에 범정부 총력 대응(기후재난관리과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T01:16:57.880415+00:00"
+    },
+    {
+      "title": "\"장애인복지·공익채널 신청하세요\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774459",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "\"장애인복지·공익채널 신청하세요\"- '27~'28년도 선정 개시…\"유료방송사업자 1개 이상 의무적 운용해야\" 공익채널 및 장애인복지채널 선정(인정) 신청 절차가 시작된다. 방송미디어통신위원회(위원장 김종철)는 14일 '27~'28년도 방송채널사용사업자 대상 공익채널 선정 및 장애인복지채널 인정 신청을 접수한다고 밝혔다. 공익채널 및 장애인복지채널은 방송 공익성 및 사회적 필요성 등을 고려해 방미통위가 2년마다 선정(인정)하고 있으며, 신청을 희망하는 방송채널사용사업자는 9월 30일까지 신청서와 운영계획서 등 지정 서류를 방미통위에 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525169&tblKey=GMN",
+          "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525168&tblKey=GMN",
+          "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525167&tblKey=GMN",
+          "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.hwp"
+        }
+      ],
+      "_attAt": "2026-08-14T01:16:57.880415+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
