@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:47:58.898362+00:00",
-  "count": 2158,
+  "updated": "2026-08-14T08:02:55.179985+00:00",
+  "count": 2160,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -742,7 +742,8 @@
           "filename": "260815 조간 (보도) 2026년 7월 정보통신산업 수출입 동향.hwpx"
         }
       ],
-      "_attAt": "2026-08-14T02:01:58.855552+00:00"
+      "_attAt": "2026-08-14T08:02:45.929642+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 경부선 남성현-청도역 간 작업자 사고 조사결과",
@@ -754,16 +755,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525259&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525276&tblKey=GMN",
           "filename": "260814_경부선 남성현-청도역 간 작업자 사고 조사결과 보도자료(최종).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525260&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525277&tblKey=GMN",
           "filename": "260814_경부선 남성현-청도역 간 작업자 사고 조사결과 보도자료(최종).pdf"
         }
       ],
-      "_attAt": "2026-08-14T02:01:58.855552+00:00"
+      "_attAt": "2026-08-14T08:02:45.929642+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 7월 가계대출 동향(잠정) 및 ｢확대 가계부채 점검회의｣ 개최",
@@ -794,7 +796,8 @@
           "filename": "260814[별첨] 확대 가계부채 점검회의 금융위원장 모두발언.hwp"
         }
       ],
-      "_attAt": "2026-08-14T02:01:58.855552+00:00"
+      "_attAt": "2026-08-14T08:02:45.929642+00:00",
+      "_attRev": 1
     },
     {
       "title": "고용허가제 송출국으로 카자흐스탄 추가 지정",
@@ -1436,6 +1439,38 @@
         }
       ],
       "_attAt": "2026-08-14T07:47:46.625410+00:00"
+    },
+    {
+      "title": "서대문형무소 여옥사에서 입체 영상(홀로그램)으로 되살아난 유관순 열사를 만나다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774520",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "- 과기정통부, 인공지능과 입체 영상(홀로그램) 기술로 여성 독립운동가 재조명, 광복절(15일)부터 개방- 입체 영상(홀로그램) 상설 전시관 개소식 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525504&tblKey=GMN",
+          "filename": "260815 조간 (보도) 서대문형무소 여옥사에서 홀로그램으로 되살아난 유관순 열사를 만나다(수정).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-14T08:02:45.929642+00:00"
+    },
+    {
+      "title": "정읍국유림관리소, 목재제품 유통질서 확립에 온힘",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774519",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "서부지방산림청 정읍국유림관리소(소장 김정오)는 오는 8월 불법·불량 목재제품 유통 근절을 위한 합동단속반을 편성하여 발전용 목재펠릿을 납품하는 업체를 대상으로 단속한다고 밝혔다. 이번 단속에서는 산림청·임업진흥원이 함께 납품업체가 목재생산업 등록과 품질 표시를 올바르게 했는지 확인하고, 납품 현장에서 시료를 채취하여 품질 검사기관에 검사를 의뢰할 예정이다. 검사항목은 펠릿의 직경, 함수율, 회분, 황, 염소, 질소, 순발열량 등이며 검사를 통해 규격·품질 검사·표시를 적법하게 했는지 확인하고 품질 기준 부적합 제품에 대해 판매정지,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525497&tblKey=GMN",
+          "filename": "보도자료(정읍국유림관리소， 목재제품 유통질서 확립에 온힘).hwpx"
+        }
+      ],
+      "_attAt": "2026-08-14T08:02:45.929642+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
