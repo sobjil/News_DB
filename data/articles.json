@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T09:32:54.451213+00:00",
-  "count": 2167,
+  "updated": "2026-08-14T09:47:49.864400+00:00",
+  "count": 2168,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1628,6 +1628,27 @@
         }
       ],
       "_attAt": "2026-08-14T09:32:45.229885+00:00"
+    },
+    {
+      "title": "[장관동정] 김윤덕 장관, 부안군 수소도시 사업 현장 찾아 지방정부 및 업계와 소통",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774530",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-14T00:00:00+09:00",
+      "description": "[장관동정] 김윤덕 장관, 부안군 수소도시 사업 현장 찾아 지방정부 및 업계와 소통 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525560&tblKey=GMN",
+          "filename": "260814(동정)_김윤덕_장관__부안군_수소도시_사업_현장_찾아_지방정부_및_업계와_소통(도시활력지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525561&tblKey=GMN",
+          "filename": "260814(동정)_김윤덕_장관__부안군_수소도시_사업_현장_찾아_지방정부_및_업계와_소통(도시활력지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-14T09:47:46.107011+00:00"
     },
     {
       "title": "소방 인공 지능(AI)·자료(데이터) 활용의 문을 넓힌다... 주요 자료(데이터) 5종 응용프로그램 인터페이스(API) 개방",
