@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:03:17.447014+00:00",
+  "updated": "2026-08-14T07:18:06.337470+00:00",
   "count": 2152,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -583,7 +583,8 @@
           "filename": "2026년 8월 최근경제동향.pdf"
         }
       ],
-      "_attAt": "2026-08-14T01:16:57.880415+00:00"
+      "_attAt": "2026-08-14T07:17:51.731296+00:00",
+      "_attRev": 1
     },
     {
       "title": "남부 지역 가뭄에 범정부 총력 대응",
@@ -595,16 +596,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525181&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525200&tblKey=GMN",
           "filename": "260814 (10시) 남부지역 가뭄에 범정부 총력 대응(기후재난관리과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525182&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525201&tblKey=GMN",
           "filename": "260814 (10시) 남부지역 가뭄에 범정부 총력 대응(기후재난관리과).pdf"
         }
       ],
-      "_attAt": "2026-08-14T01:16:57.880415+00:00"
+      "_attAt": "2026-08-14T07:17:51.731296+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"장애인복지·공익채널 신청하세요\"",
@@ -616,21 +618,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525169&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525215&tblKey=GMN",
           "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525168&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525214&tblKey=GMN",
           "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525167&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525213&tblKey=GMN",
           "filename": "260814 (보도자료) “장애인복지·공익채널 신청하세요”.hwp"
         }
       ],
-      "_attAt": "2026-08-14T01:16:57.880415+00:00"
+      "_attAt": "2026-08-14T07:17:51.731296+00:00",
+      "_attRev": 1
     },
     {
       "title": "김경협 청장, 광복의 역사 함께한 고려인 동포 선조 기리고, 후손들 삶 살펴...",
@@ -1269,7 +1272,24 @@
       "agencyCode": "sda",
       "pubDate": "2026-08-14T00:00:00+09:00",
       "description": "새만금개발청-한국남동발전「새만금 그린에너지 복합단지」 조성 업무협약 체결태양광 발전부터 수전해, 수소 발전까지... 새만금에 그린에너지 풀 밸류체인 구축!□ 새만금개발청(청장 문성요)과 한국남동발전(사장 직무대행 조영혁)은 8월 14일 새만금개발청에서「새만금 그린에너지 복합단지」조성을 위한 업무협약(MOU)을 체결했다고 밝혔다. ㅇ 이번 협약을 통해 양 기관은 협력체계를 구축하고, 그린에너지 복합단지 조성을 본격화할 계획이다.□ 「새만금 그린에너지 복합단지*」는 새만금 3권역(부안) 내에 조성되는 대규모 친환경 에너지 프로젝트이며,",
-      "_attFails": 1
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525415&tblKey=GMN",
+          "filename": "260814 새만금개발청-한국남동발전 새만금 그린에너지 복합단지 조성 업무협약 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525416&tblKey=GMN",
+          "filename": "260814 새만금개발청-한국남동발전 새만금 그린에너지 복합단지 조성 업무협약 체결.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525414&tblKey=GMN",
+          "filename": "260814 새만금개발청-한국남동발전 새만금 그린에너지 복합단지 조성 업무협약 체결.hwp"
+        }
+      ],
+      "_attAt": "2026-08-14T07:17:51.731296+00:00"
     },
     {
       "title": "[참고] 서소문 고가차도 붕괴사고, 승인 없는 작업·위험 미보고 등 확인",
