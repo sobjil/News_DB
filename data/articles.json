@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T06:02:48.048895+00:00",
-  "count": 2041,
+  "updated": "2026-08-15T06:17:51.194091+00:00",
+  "count": 2042,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,6 +81,27 @@
         }
       ],
       "_attAt": "2026-08-15T01:17:45.285475+00:00"
+    },
+    {
+      "title": "야스쿠니 신사 공물 봉납 및 참배에 대한 외교부 대변인 논평",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774546",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-15T00:00:00+09:00",
+      "description": "정부는 일본의 과거 침략전쟁을 미화하고 전쟁범죄자를 합사한 야스쿠니 신사에 일본의 책임 있는 지도급 인사들이 또다시 공물을 봉납하거나 참배를 되풀이하는 등 역사를 망각한 시대착오적인 행위를 한 데 대해 개탄을 금할 수 없다. 우리 정부는 일본의 책임 있는 지도자들이 역사를 직시하고 과거사에 대한 겸허한 성찰과 진정한 반성을 행동으로 보여줄 것을 강력하게 촉구하는 바이며, 이는 양국간 신뢰에 기반한 미래지향적 한일관계를 구축해 나가기 위한 중요한 토대임을 강조하는 바이다. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525666&tblKey=GMN",
+          "filename": "[26-668](보도자료) 야스쿠니 신사 공물 봉납 및 참배에 대한 외교부 대변인 논평.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525667&tblKey=GMN",
+          "filename": "[26-668](보도자료) 야스쿠니 신사 공물 봉납 및 참배에 대한 외교부 대변인 논평.pdf"
+        }
+      ],
+      "_attAt": "2026-08-15T06:17:47.707918+00:00"
     },
     {
       "title": "바이러스의 'RNA 보호 전략'에서 mRNA 치료제 해법 찾았다",
