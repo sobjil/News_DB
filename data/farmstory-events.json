@@ -1,99 +1,8 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "retentionDays": 7,
-  "count": 109,
+  "count": 103,
   "events": [
-    {
-      "id": "156773792",
-      "agency": "해양수산부",
-      "title": "어업법인 세금혜택은 계속, 어업용 면세유는 3년 연장",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773792",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "지원금",
-      "strength": "중",
-      "emoji": "💰",
-      "flavor": "어업용 면세유 혜택이 3년 더 연장되고 세금 감면도 계속된다니, 우리 바다 농장의 운영비 걱정을 크게 덜었어요!",
-      "weight": 5
-    },
-    {
-      "id": "156773791",
-      "agency": "농림축산식품부",
-      "title": "농관원, 휴가철 축산물 원산지 위반 106개소 적발",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773791",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "축산",
-      "kind": "시세호재",
-      "strength": "약",
-      "emoji": "🌾",
-      "flavor": "정부의 축산물 원산지 단속 덕분에 우리 농장의 진짜 국산 고기가 제값을 톡톡히 받게 되었어요!",
-      "weight": 5
-    },
-    {
-      "id": "156773790",
-      "agency": "농림축산식품부",
-      "title": "농식품부, '26년산 보리 수급안정을 위해 주정회사·농협과 함께 특별 매입 추진",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773790",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "시세호재",
-      "strength": "중",
-      "emoji": "🌾",
-      "flavor": "보리 과잉 생산으로 값이 떨어질까 걱정했는데, 주정회사들이 특별 매입을 해준다니 정말 다행이에요!",
-      "weight": 5
-    },
-    {
-      "id": "156773789",
-      "agency": "농림축산식품부",
-      "title": "음식점업 부가가치세 의제매입세액공제 우대 공제율 적용기한 2년 연장",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773789",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "직판",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "음식점의 농산물 세금 공제 혜택이 연장되면서 우리 농장 직판장 제품을 찾는 식당들의 발길이 끊이지 않겠어요!",
-      "weight": 2
-    },
-    {
-      "id": "156773788",
-      "agency": "농림축산식품부",
-      "title": "\"농업법인 과세특례 상시화·면세유 일몰 연장\"",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773788",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "지원금",
-      "strength": "중",
-      "emoji": "💰",
-      "flavor": "농업법인 세금 감면 상시화와 면세유 연장 소식 덕분에 우리 농장의 세금과 연료비 부담을 크게 덜게 되었어요!",
-      "weight": 5
-    },
-    {
-      "id": "156773799",
-      "agency": "행정안전부",
-      "title": "행안부 재난안전관리본부장 폭염 사각지대 외국인 근로자·가축피해 점검",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773799",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "무더운 폭염 속에서 우리 농장의 외국인 근로자 안전과 축사 냉방 장치를 긴급히 점검해야겠어요!",
-      "weight": 5
-    },
-    {
-      "id": "156773797",
-      "agency": "행정안전부",
-      "title": "폭염 중대본, 강화된 범정부 대응체계 점검",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773797",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "숨 막히는 폭염에 정부에서 농가 안전 점검을 강화한다고 하니, 무더운 낮에는 작업을 쉬고 건강을 꼭 챙겨야겠어요!",
-      "weight": 5
-    },
     {
       "id": "156773832",
       "agency": "산림청",
@@ -457,19 +366,6 @@
       "emoji": "📰",
       "flavor": "2028년 유엔해양총회가 이웃 도시 부산에서 개최된다는 소식에 우리 어장에도 긍정적인 변화가 찾아오길 기대해 봐요!",
       "weight": 2
-    },
-    {
-      "id": "156773856",
-      "agency": "기후에너지환경부",
-      "title": "문닫고 냉방하고, 미사용 플러그는 뽑고… 에너지 낭비 줄이는 \"슬기로운 전기생활\"",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773856",
-      "pubDate": "2026-08-09T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "폭염 속 에너지 절약 캠페인 소식이 들려오지만, 도시 상점가 중심의 홍보라 우리 농장에는 별다른 영향이 없겠어요.",
-      "weight": 1
     },
     {
       "id": "156773988",
@@ -1419,6 +1315,32 @@
       "emoji": "📰",
       "flavor": "이웃 동네 해수욕장의 안전 점검 소식이라 우리 농장에는 별다른 영향이 없겠어요.",
       "weight": 1
+    },
+    {
+      "id": "156774542",
+      "agency": "행정안전부",
+      "title": "내일이 더 빛나는, 대체불가 대한민국 제81주년 광복절 경축식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774542",
+      "pubDate": "2026-08-15T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "광복절 경축식 소식이 들려오지만, 우리 농장의 하루는 특별한 영향 없이 평온하게 흘러갑니다.",
+      "weight": 1
+    },
+    {
+      "id": "156774549",
+      "agency": "행정안전부",
+      "title": "행정안전부 장관, 8월 15일 밤부터 강한 호우가 예보됨에 따라 대응 철저 지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774549",
+      "pubDate": "2026-08-15T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "재해",
+      "strength": "강",
+      "emoji": "🌀",
+      "flavor": "오늘 밤부터 남해안을 중심으로 강한 호우가 내린다고 하니, 우리 농장도 비 피해가 없도록 시설물과 배수로를 단단히 점검해야겠어요!",
+      "weight": 5
     }
   ]
 }
