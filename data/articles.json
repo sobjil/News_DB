@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T01:59:16.482050+00:00",
-  "count": 2033,
+  "updated": "2026-08-16T02:14:15.472292+00:00",
+  "count": 2034,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774550",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-16T00:00:00+09:00",
+      "description": "해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최 - 8월 14일 고려대학교에서 '2026년 청소년 해양영토 토론대회' 개최 - 중등부 '아틀란티스'팀, 고등부 '북극성'팀 우승 해양수산부(장관 황종우)는 지난 8월 14일(금) 고려대학교 신법학관에서 전국 중·고등학생과 학교 밖 청소년이 참여하는 '2026년 청소년 해양영토 토론대회'를 개최했다고 밝혔다. 올해 토론대회는 중등부는 '기후위기로 인한 국가 수몰 문제', 고등부는 '타국 기인 해양쓰레기 처리 문제'를 주제로 진행되었다. 참여한 중등부 23개 팀과 고등부 12",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525769&tblKey=GMN",
+          "filename": "260817(조간) 해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최(해양영토과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525768&tblKey=GMN",
+          "filename": "260817(조간) 해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최(해양영토과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-16T02:14:11.790326+00:00"
+    },
     {
       "title": "내일이 더 빛나는, 대체불가 대한민국 제81주년 광복절 경축식 개최",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774542",
