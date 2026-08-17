@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T00:00:49.934375+00:00",
-  "count": 2026,
+  "updated": "2026-08-17T00:15:52.820499+00:00",
+  "count": 2027,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774552",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-17T00:00:00+09:00",
+      "description": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525807&tblKey=GMN",
+          "filename": "[교육부 08-18(화) 조간보도자료] 동화로 이어 온 20번째 만남, 한·중·일 어린이들의 우정이 한국에서 꽃피다.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-17T00:15:48.968535+00:00"
+    },
     {
       "title": "해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774550",
