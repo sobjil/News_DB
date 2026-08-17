@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:00:49.812286+00:00",
+  "updated": "2026-08-17T11:15:51.407011+00:00",
   "count": 2066,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -237,21 +237,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525850&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525853&tblKey=GMN",
           "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525852&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525855&tblKey=GMN",
           "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198525851&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525854&tblKey=GMN",
           "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).hwp"
         }
       ],
-      "_attAt": "2026-08-17T05:15:48.504817+00:00"
+      "_attAt": "2026-08-17T11:15:48.546135+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 경남 거제시 등 남부지방 집중호우 관련 긴급지시",
