@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T23:14:43.621789+00:00",
-  "count": 2054,
+  "updated": "2026-08-17T23:29:49.996141+00:00",
+  "count": 2056,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -130,6 +130,48 @@
         }
       ],
       "_attAt": "2026-08-17T22:14:41.786677+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774655",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526119&tblKey=GMN",
+          "filename": "[26.8.18.(화) 보도참고자료] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526120&tblKey=GMN",
+          "filename": "[26.8.18.(화) 보도참고자료] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-17T23:29:43.851574+00:00"
+    },
+    {
+      "title": "'모두의 노동절' 알린 고용노동부, '마약 오남용 예방'에 앞장선 식약처, 국민이 직접 정책 소통 혁신 사례로 뽑아",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774654",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "'모두의 노동절' 알린 고용노동부, '마약 오남용 예방'에 앞장선 식약처, 국민이 직접 정책 소통 혁신 사례로 뽑아 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0818]문체부보도자료-2분기 내가 뽑은 정책 소통 케이 선정 결과 발표.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526118&tblKey=GMN",
+          "filename": "[0818]문체부보도자료-2분기 내가 뽑은 정책 소통 케이 선정 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526117&tblKey=GMN",
+          "filename": "[0818]문체부보도자료-2분기 내가 뽑은 정책 소통 케이 선정 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-08-17T23:29:43.851574+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
@@ -321,8 +363,8 @@
           "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).hwp"
         }
       ],
-      "_attAt": "2026-08-17T17:29:42.143172+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-17T23:29:43.851574+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 경남 거제시 등 남부지방 집중호우 관련 긴급지시",
