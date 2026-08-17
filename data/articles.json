@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T03:15:56.426784+00:00",
-  "count": 2033,
+  "updated": "2026-08-17T03:30:52.890788+00:00",
+  "count": 2034,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -197,6 +197,27 @@
         }
       ],
       "_attAt": "2026-08-17T03:15:50.288461+00:00"
+    },
+    {
+      "title": "중앙재난안전대책본부장, 8.15~17 호우 상황 점검 및 수습대책 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774560",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-17T00:00:00+09:00",
+      "description": "- 중대본 중심으로 구조, 이재민 구호 및 기반시설 복구에 집중 - 특별교부세 30억 원 등 긴급 지원으로 피해 지역의 조기 안정 도모 중앙재난안전대책본부(본부장 행정안전부장관 윤호중)는 최근 경남 지역의 기록적인 집중호우로 피해를 입은 주민들이 하루빨리 일상을 되찾을 수 있도록 중앙재난안전대책본부(이하 중대본) 회의를 개최하고 종합적인 수습 대책을 논의했다. 오늘 중대본 회의에서는 ▲현장의 인명구조 및 이재민 구호 상황, ▲피해시설의 응급복구 및 추가적인 피해에 대한 예방대책, ▲수위가 높은 하천, 산사태취약지역 등 위험지역 점검",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525832&tblKey=GMN",
+          "filename": "260817 (즉시보도) 중앙재난안전대책본부 8.15~17 호우 상황 점검 및 수습대책 논의(자연재난대응과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525833&tblKey=GMN",
+          "filename": "260817 (즉시보도) 중앙재난안전대책본부 8.15~17 호우 상황 점검 및 수습대책 논의(자연재난대응과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-17T03:30:48.611576+00:00"
     },
     {
       "title": "해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최",
