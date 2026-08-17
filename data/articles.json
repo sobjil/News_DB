@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T05:00:50.575329+00:00",
-  "count": 2034,
+  "updated": "2026-08-17T05:15:52.549286+00:00",
+  "count": 2035,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -218,6 +218,32 @@
         }
       ],
       "_attAt": "2026-08-17T03:30:48.611576+00:00"
+    },
+    {
+      "title": "기상청 인사발령(고공단 승진, 4급 전보)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774562",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-08-17T00:00:00+09:00",
+      "description": "기상청 인사발령- 2026년 8월 18일 자 -□ 고위공무원단 승진ㅇ 부산지방기상청장홍기만□ 4급 전보ㅇ 운영지원과장김지현ㅇ 기후과학국 기후위기협력팀장이한아",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525850&tblKey=GMN",
+          "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525852&tblKey=GMN",
+          "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198525851&tblKey=GMN",
+          "filename": "20260817_보도자료_기상청 인사발령(고공단 승진， 4급 전보).hwp"
+        }
+      ],
+      "_attAt": "2026-08-17T05:15:48.504817+00:00"
     },
     {
       "title": "해양 문제 해결을 위한 미래 해양인재들의 치열한 토론회 개최",
