@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T15:00:02.166115+00:00",
-  "count": 2070,
+  "updated": "2026-08-17T15:29:50.187905+00:00",
+  "count": 2051,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774650",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "- 기초과학연구원(IBS), 활용도 높은 피리딘의 질소 위치를 자유롭게 바꾸는 새로운 합성법 제시- 실제 의약품까지 편집 성공, 신약 후보 물질 탐색 가능성 확대, Nature지(誌) 게재",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526110&tblKey=GMN",
+          "filename": "260818 조간 (보도) 복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-17T15:29:41.859231+00:00"
+    },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774552",
@@ -158,8 +174,8 @@
           "filename": "260818 조간 (보도) 재난 현장의 핵심 정보를 손목 위에서, 재난안전통신망 전용 스마트워치 개발 추진.hwpx"
         }
       ],
-      "_attAt": "2026-08-17T09:15:50.306128+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-17T15:29:41.859231+00:00",
+      "_attRev": 2
     },
     {
       "title": "\"제1회 5대강 사진 공모전- 섬진강의 자연과 생태\" 개최",
@@ -180,8 +196,8 @@
           "filename": "제1회 5대강 사진 공모전-섬진강의 자연과 생태(기후부 보도자료).pdf"
         }
       ],
-      "_attAt": "2026-08-17T09:15:50.306128+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-17T15:29:41.859231+00:00",
+      "_attRev": 2
     },
     {
       "title": "국내 개발 '달 표면 우주방사선 측정기', 미국 항공우주청(NASA) 달 착륙선 탑재를 위한 이행약정 체결",
@@ -202,8 +218,8 @@
           "filename": "260818(조간) 국내 개발 &#039;달 표면 우주방사선 측정기&#039;, 미국 항공우주청(NASA) 달 착륙선 탑재를 위한 이행약정 체결.hwp"
         }
       ],
-      "_attAt": "2026-08-17T09:15:50.306128+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-17T15:29:41.859231+00:00",
+      "_attRev": 2
     },
     {
       "title": "중앙재난안전대책본부장, 8.15~17 호우 상황 점검 및 수습대책 논의",
@@ -45701,471 +45717,6 @@
       ],
       "_attRev": 3,
       "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "600만 이용자 감사 이벤트 「모두의카드」와 함께한 이야기를 들려주세요!",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771224",
-      "agency": "국토교통부",
-      "agencyCode": "molit",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "600만 이용자 감사 이벤트 「모두의카드」와 함께한 이야기를 들려주세요! 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510075&tblKey=GMN",
-          "filename": "260720(조간) 600만 이용자 감사 이벤트 「모두의카드」와 함께한 이야기를 들려주세요!(광역교통경제과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510076&tblKey=GMN",
-          "filename": "260720(조간) 600만 이용자 감사 이벤트 「모두의카드」와 함께한 이야기를 들려주세요!(광역교통경제과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "더 나은 보건복지 상담 위해 국민의 의견을 들려주세요.",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771231",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "더 나은 보건복지 상담 위해 국민의 의견을 들려주세요.- 보건복지 상담서비스 혁신 위한 129 보건복지상담 이용자 설문조사 실시 -- 보건복지상담센터 AX 기반 정보전략계획 수립 추진 - 보건복지부(장관 정은경)는 7월 20일(월)부터 7월 29일(수)까지 10일 간 인공지능(AI) 보건복지상담 서비스 제공을 위해 129 보건복지상담 이용자 설문조사를 실시한다고 밝혔다. 보건복지상담센터는 국민이 보건복지 제도와 서비스를 접하는 대표 상담창구로서, ▲129 전화상담, ▲웹 채팅 상담, ▲카카오톡 상담, ▲ 국민비서 챗봇상담, ▲영상 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510091&tblKey=GMN",
-          "filename": "[7.20.월 조간] 더 나은 보건복지 상담 위해 국민의 의견을 들려주세요.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510092&tblKey=GMN",
-          "filename": "[7.20.월 조간] 더 나은 보건복지 상담 위해 국민의 의견을 들려주세요.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "위기임신보호출산제 시행 2년,상담 건수 18,000건 넘어",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771230",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "위기임신보호출산제 시행 2년,상담 건수 18,000건 넘어- 위기임신보호출산제 공적 지원체계 성과 확인 -- 726명 심층상담 결과, 409명 부모가 원가정 양육 결정 -- 유기 아동 수 '23년 88명 → '24년 30명 → '25년 19명 지속 감소 - 보건복지부는 위기임신보호출산제 시행 2주년을 맞아, 상담이 18,000건을 넘어서는 등 위기임산부에 대한 공적 지원체계가 안정적으로 자리잡고 있다고 밝혔다. 정부는 올해 첫 실태조사를 통해 제도 운영 전반을 점검하고 현장 의견을 반영해 제도를 더욱 발전시켜 나갈 계획이다. 모든 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510089&tblKey=GMN",
-          "filename": "[7.20.월 조간] 위기임신보호출산제 시행 2년, 상담 건수 18,000건 넘어.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510090&tblKey=GMN",
-          "filename": "[7.20.월 조간] 위기임신보호출산제 시행 2년, 상담 건수 18,000건 넘어.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "지역 주도 필수의료 완결체계 구축, 「지역필수의료법」 시행령·시행규칙 입법예고",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771229",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "지역 주도 필수의료 완결체계 구축, 「지역필수의료법」 시행령·시행규칙 입법예고- 진료권별 필수의료 진료협력체계, 실태조사·성과평가, 중앙-시·도 위원회 등 구체화 - - '26.7.20.~8.31. 국민 의견수렴 통해 현장에서 작동하는 하위법령안 마련 - 보건복지부가 「지역필수의료법」 시행령·시행규칙 제정안에 대하여 입법예고를 실시한다. 동 제정안은 진료권별 필수의료 진료협력체계 구축, 거점의료기관·전문센터 지정 요건, 실태조사·성과평가 체계, 중앙 및 시·도 위원회 구성 등 법 시행에 필요한 세부사항을 담았다. 7월 20일(월)부",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510083&tblKey=GMN",
-          "filename": "[7.20.월 조간] 지역 주도 필수의료 완결체계 구축, 지역필수의료법 시행령 시행규칙 입법예고.hwpx"
-        },
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510085&tblKey=GMN",
-          "filename": "(별첨1) 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 시행령안.hwpx"
-        },
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510087&tblKey=GMN",
-          "filename": "(별첨2) 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 시행규칙안.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510084&tblKey=GMN",
-          "filename": "[7.20.월 조간] 지역 주도 필수의료 완결체계 구축, 지역필수의료법 시행령 시행규칙 입법예고.pdf"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510086&tblKey=GMN",
-          "filename": "(별첨1) 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 시행령안.pdf"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510088&tblKey=GMN",
-          "filename": "(별첨2) 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 시행규칙안.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "마약류 중독자 건강한 사회복귀 지원한다 근거 기반 치료·재활 교육 본격 운영",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771228",
-      "agency": "보건복지부",
-      "agencyCode": "mw",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "마약류 중독자 건강한 사회복귀 지원한다 근거 기반 치료·재활 교육 본격 운영- 국립정신건강센터, 서울보호관찰소와 협력하여 '물질사용장애 수강명령 교육 프로그램' 운영 및 효과성 검증 연구 추진 - 국립정신건강센터(센터장 남윤영)는 서울보호관찰소(소장 이형섭)와 협력하여 법원에서 마약류 수강명령 처분을 받은 대상자들을 위한 「마약류 중독 치료·재활 교육 프로그램」을 운영한다. 아울러 프로그램의 효과성을 검증하기 위한 연구도 함께 추진한다. 이번 사업은 지난해 개발한 '근거기반 물질사용장애 수강명령 교육 프로그램*'을 현장에 적용하고,",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510081&tblKey=GMN",
-          "filename": "[7.20.월 조간] 마약류 중독자 건강한 사회복귀 지원한다 근거 기반 치료？재활 교육 본격 운영.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510082&tblKey=GMN",
-          "filename": "[7.20.월 조간] 마약류 중독자 건강한 사회복귀 지원한다 근거 기반 치료？재활 교육 본격 운영.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "'지하수 생태계 생물 탐사대' 1기 모집",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771234",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "▷ 국립낙동강생물자원관, 지하수 생태계를 탐사하는 시민과학 교육과정 운영▷ 7월 20일부터 31일까지 12세(중학교 1학년 기준) 이상 국민 대상 모집기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 지하수 생태계의 생물다양성을 조사하는 시민과학 교육과정인 '지하수 생태계 생물 탐사대' 1기 탐사대원 30명을 7월 20일부터 31일까지 모집한다고 밝혔다.지하수 생태계는 동굴, 용천수, 담수 혼합대 등 지하수의 영향을 받는 생태계로, 다양한 담수생물이 서식하는 중요한 서식처이다. 그러나 조사 여건의 제약으로 생물다양성 정보가 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510097&tblKey=GMN",
-          "filename": "‘지하수 생태계 생물 탐사대’ 1기 모집(보도자료)(낙동강생물 7.19).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510098&tblKey=GMN",
-          "filename": "‘지하수 생태계 생물 탐사대’ 1기 모집(보도자료)(낙동강생물 7.19).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "지연·허수 발전사업 관리 강화…한정된 전력망 이용 효율 높인다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771233",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "▷ 7월 20일부터 지연·허수 발전사업 점검 기준 강화 시행▷ 점검을 통해 회수된 용량은 준비된 사업자에게 우선 배분발전사업 허가를 받은 뒤 실제 사업은 추진하지 않으면서 전력망 접속용량을 장기간 선점하는 '지연·허수 사업'에 대한 관리가 강화된다. 기후에너지환경부(장관 김성환)와 한국전력공사(사장 김동철)는 이러한 내용을 담은 '송·배전용전기설비 이용규정' 개정안이 7월 20일부터 시행된다고 밝혔다. 이번 개정안은 호남권 등 계통이 부족한 상황에서 지연·허수 사업에 대한 점검을 강화하여 실제 사업 추진이 가능한 진성 사업자가 전력",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510095&tblKey=GMN",
-          "filename": "지연·허수 발전사업 관리 강화…한정된 전력망 이용 효율 높인다(보도자료)(계통운영 7.19).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510096&tblKey=GMN",
-          "filename": "지연·허수 발전사업 관리 강화…한정된 전력망 이용 효율 높인다(보도자료)(계통운영 7.19).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "수질원격감시 데이터 활용 우수사례 공모… 데이터 기반 과학적 수질관리 확산",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771232",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "▷ 7월 20일부터 9월 17일까지 접수, 데이터 기반 수질관리 우수사례 4건 선정기후에너지환경부(장관 김성환)와 한국환경공단은 수질원격감시체계(TMS) 데이터를 활용하여 수질오염 예방, 공정 운영 개선, 운영비 절감 등 물환경 보전에 기여한 우수사례를 발굴하기 위해 '2026년 수질원격감시체계 데이터 활용 우수사례 공모'를 7월 20일부터 9월 17일까지 실시한다고 밝혔다.수질원격감시체계(TMS, Tele-Monitoring-system)는 공공하수 처리시설 및 폐수배출사업장의 방류수 수질*을 24시간 실시간으로 측정·관리하는 시",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510094&tblKey=GMN",
-          "filename": "수질원격측정 데이터 활용 우수사례 공모(보도자료)(수질수생 7.19).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510093&tblKey=GMN",
-          "filename": "수질원격측정 데이터 활용 우수사례 공모(보도자료)(수질수생 7.19).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "「원화 국제화 로드맵」 발표",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771235",
-      "agency": "재정경제부",
-      "agencyCode": "moef",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "정부는 7.19일(일) 원화를 해외에서 자유롭게 거래가능한 통화로 전환하기 위한 비전을 담은 ｢원화 국제화 로드맵｣을 발표하였다. ※ 자세한 내용은 별도 첨부 자료를 참고하여 주시기 바랍니다. 문의. 재정경제부 국제금융국 외환제도과 박세웅 (044-215-4751)",
-      "attachments": [
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510100&tblKey=GMN",
-          "filename": "(보도자료) 원화 국제화 로드맵 발표.pdf"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510102&tblKey=GMN",
-          "filename": "(별첨) 원화 국제화 로드맵.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510099&tblKey=GMN",
-          "filename": "(보도자료) 원화 국제화 로드맵 발표.hwp"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510101&tblKey=GMN",
-          "filename": "(별첨) 원화 국제화 로드맵.hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "윤호중 중앙재난안전대책본부장 긴급 지시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771244",
-      "agency": "행정안전부",
-      "agencyCode": "mois",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "- 기상특보 해제 후에도 피해 복구 및 추가 산사태 대비 총력 대응- 경북지역에 재난안전관리본부장 급파 및 세심한 이재민 지원 등 지시 중앙재난안전대책본부(본부장 윤호중)는 피해 수습과 추가적인 예방조치를 총괄·조정하기 위해 7.17일부터 이어진 호우특보가 모두 해제(19일 06시)되었음에도 불구하고, 당분간 중대본 대응체제를 유지한다고 밝혔다. 19일 06:00 기준, 전국 곳곳에서 주택·도로 침수 및 토석류·낙석 등의 피해가 발생했고, 19일 07:30 기준으로 일시대피자 294명이 임시주거시설 등에 머물고 있으며, 특히 지난해",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510138&tblKey=GMN",
-          "filename": "260719 (즉시) 윤호중 중앙재난안전대책본부장 긴급 지시(자연재난대응과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510139&tblKey=GMN",
-          "filename": "260719 (즉시) 윤호중 중앙재난안전대책본부장 긴급 지시(자연재난대응과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "소방청, 방면별 진압작전 강화... 인접 시설 연소확대 방지 선제 대응",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771246",
-      "agency": "소방청",
-      "agencyCode": "nfa",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "﻿﻿소방청, 방면별 진압작전 강화... 인접 시설 연소확대 방지 선제 대응소방청은 19일 오후 화재 현장에서 최용철 중앙긴급구조통제단장 주재로 각 방면별 소방지휘관이 참석한 가운데 상황판단회의를 열고 화재진압 상황과 향후 대응전술을 점검했다고 밝혔다.이날 회의에서는 건물 내부와 층별 연소 상황을 면밀히 분석하고, 화세가 남아 있는 구역에 대한 집중 주수와 냉각소화를 지속하기로 했다. 특히 내부에 축적된 열과 잔여 가연물로 인해 화염이 다시 확대될 가능성에 대비해 각 방면별 진압 작전을 더욱 강화하도록 했다.소방당국은 고층부 화재 진",
-      "attachments": [
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510171&tblKey=GMN",
-          "filename": "(7. 19. 즉시 보도자료) 소방청%2C 방면별 진압작전 강화... 인접 시설 연소확대 방지 선제 대응.hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "[보도자료] 한성숙 국무총리 주재 중소기업협단체 오찬 간담회",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771247",
-      "agency": "국무조정실",
-      "agencyCode": "opm",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "한성숙 국무총리, 중소기업계 초청하여삼청동 공관에서 오찬간담회 개최- 중소기업단체협의회 8곳 초청하여 최근 경영여건 및 정책제안 청취 -□ 한성숙 국무총리는 7월 19일(일) 서울 삼청동 공관에 중소기업중앙회 등 중소기업단체협의회 관계자들을 초청하여 오찬간담회를 가졌다.·(일시/장소) 7.19(일) 12:00~13:20 / 삼청동 국무총리 공관·(참석) 국무총리, 중소기업중앙회 김기문 회장, 소상공인연합회 송치영 회장, 전국상인연합회 이충환 회장, 벤처기업협회 송병준 회장, 한국여성경제인협회 박창숙 회장, 한국벤처캐피탈협회 김학균 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510173&tblKey=GMN",
-          "filename": "260719_한성숙 국무총리 주재 중소기업협단체 오찬 간담회 보도자료.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510174&tblKey=GMN",
-          "filename": "260719_한성숙 국무총리 주재 중소기업협단체 오찬 간담회 보도자료.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "국내 최초 '제48차 유네스코 세계유산위원회', 부산 벡스코에서 성공적으로 개회",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771269",
-      "agency": "국가유산청",
-      "agencyCode": "khs",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "- 이재명 대통령, 칼레드 엘에나니 유네스코 사무총장 등 참석해 국제 협력과 문화의 힘 강조… 개회식(7.19.)- 오는 29일까지 11일간의 여정 시작… 개최국 공식 전시관 '대한민국관' 운영 및 세계유산 매거진·지도 온라인 배포 국가유산청(청장 허민)은 유네스코와 함께 7월 19일 오후 6시 부산 벡스코에서 열린 '제48차 유네스코 세계유산위원회(이하 '위원회')'의 개회식을 통해 국내 최초로 개최되는 위원회의 시작을 알렸다. 개회식은 이재명 대통령, 칼레드 엘에나니(Khaled El-Enany) 유네스코 사무총장, 허민 국가유",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510218&tblKey=GMN",
-          "filename": "(국문 보도자료) 0719 국내 최초 ‘제48차 유네스코 세계유산위원회’, 부산 벡스코에서 성공적으로 개회(본문).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510217&tblKey=GMN",
-          "filename": "(국문 사진자료) 0719 국내 최초 ‘제48차 유네스코 세계유산위원회’, 부산 벡스코에서 성공적으로 개회(붙임).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771271",
-      "agency": "외교부",
-      "agencyCode": "mofa",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "외교부는 7.19.(일) 오후 김진아 2차관 주재로 중동 지역 17개 공관*과 본부-공관 합동 상황점검회의를 개최하여 중동 지역 정세를 평가하고 현지 우리 국민과 선박의 안전 대책을 점검했다.* 주이란대사관, 주이스라엘대사관, 주쿠웨이트대사관, 주요르단대사관, 주바레인대사관, 주사우디대사관, 주젯다총영사관, 주이라크대사관, 주아르빌분관, 주레바논대사관, 주카타르대사관, 주오만대사관, 주아랍에미리트대사관, 주두바이총영사관, 주예멘대사관, 주이집트대사관, 주에티오피아대사관 김 차관은 \"호르무즈 해협 문제로 재개된 미국과 이란 간 무력 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510225&tblKey=GMN",
-          "filename": "[26-597](보도자료) 외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510226&tblKey=GMN",
-          "filename": "[26-597](보도자료) 외교부, 중동 전쟁 및 재외국민 보호 관련 본부-공관 합동 상황점검회의 개최.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "\"여름 휴가철 수산물, 안심하고 즐기세요!\"... 원산지 표시 특별점검 실시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771281",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "\"여름 휴가철 수산물, 안심하고 즐기세요!\"... 원산지 표시 특별점검 실시 - 7. 20.(월)~7. 31.(금), 여름 휴가철 수산물 원산지 표시 특별점검- 민물장어, 미꾸라지 등 인기 수산물과 원산지 표시 위반 상위 품목 대상 중점 점검 해양수산부(장관 황종우)는 여름 휴가철 피서지 주변 음식점을 중심으로 7월 20일(월)부터 7월 31일(금)까지 여름철 수요가 많은 수산물 등 주요품목에 대한 원산지 표시 특별점검을 실시한다고 밝혔다. 이번 점검에는 해양수산부 국립수산물품질관리원, 해양경찰청, 지방정부 등이 참여하며, 필요시에",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510290&tblKey=GMN",
-          "filename": "260720(조간) “여름 휴가철 수산물, 안심하고 즐기세요”... 원산지 표시 특별점검 실시(수산물안전정책과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510289&tblKey=GMN",
-          "filename": "260720(조간) “여름 휴가철 수산물, 안심하고 즐기세요”... 원산지 표시 특별점검 실시(수산물안전정책과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "권오을 장관 '진영 간 대립 갈등 이승만 대통령 말과 글에서 해결 실마리 찾아야'",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771287",
-      "agency": "국가보훈부",
-      "agencyCode": "mpva",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "권오을 장관 '진영 간 대립 갈등 이승만 대통령 말과 글에서 해결 실마리 찾아야' ※ 자세한 사항은 붙임의 보도자료를 참고하시기 바랍니다.",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510399&tblKey=GMN",
-          "filename": "260719 보도자료(권오을 장관 &#039;진영 간 대립 갈등 이승만 대통령 말과 글에서 해결 실마리 찾아야&#039;)_최종.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510400&tblKey=GMN",
-          "filename": "260719 보도자료(권오을 장관 &#039;진영 간 대립 갈등 이승만 대통령 말과 글에서 해결 실마리 찾아야&#039;)_최종.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:41:14.255322+00:00"
-    },
-    {
-      "title": "해양 종사자의 사이버안전 역량, 선택이 아닌 필수입니다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771291",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "해양 종사자의 사이버안전 역량, 선택이 아닌 필수입니다- 2026년 해사 사이버안전 인력양성 교육 참가자 모집 해양수산부(장관 황종우)는 해사산업 종사자와 미래 해양인재의 사이버위협 대응 역량을 높이기 위해 7월 20일(월)부터 '2026년 해사 사이버안전 인력양성 교육'의 참여자를 모집한다고 밝혔다. 최근 위성 통신서비스의 확대로 선박과 육상 간 실시간 정보 연결이 가능해지면서 선박 운항시스템을 목표로 한 사이버위협도 함께 증가하고 있는 상황이다. 이에 따라, 해양수산부는 해사산업 종사자 등의 사이버 대응 역량 강화를 위해 올해 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510330&tblKey=GMN",
-          "filename": "260720(조간) 해양 종사자의 사이버안전 역량, 선택이 아닌 필수입니다(해사안전정책과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510329&tblKey=GMN",
-          "filename": "260720(조간) 해양 종사자의 사이버안전 역량, 선택이 아닌 필수입니다(해사안전정책과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:56:14.093420+00:00"
-    },
-    {
-      "title": "해수부, 세계유산위원회에서 한국 갯벌 가치와 K-씨푸드 우수성 알린다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771290",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "해수부, 세계유산위원회에서 한국 갯벌 가치와 K-씨푸드 우수성 알린다- 제48차 유네스코 세계유산위원회에서 '한국의 갯벌'과 'K-씨푸드' 홍보관 운영 해양수산부(장관 황종우)는 7월 19일(일)부터 29일(수)까지 부산 벡스코에서 개최되는 '제48차 유네스코 세계유산위원회'를 계기로 '한국의 갯벌' 세계유산과 'K-씨푸드' 홍보에 나선다고 밝혔다. 유네스코 세계유산위원회(이하 \"위원회\")는 세계유산의 신규 등재와 위험유산의 관리방안, 세계유산기금 운영 등을 결정하는 유네스코의 최고 의사결정기구로서, 우리나라에서는 이번에 처음으로 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510328&tblKey=GMN",
-          "filename": "260720(조간) 해수부, 세계유산위원회에서 한국 갯벌 가치와 k-씨푸드 우수성 알린다(해양생태과, 수출가공진흥과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510327&tblKey=GMN",
-          "filename": "260720(조간) 해수부, 세계유산위원회에서 한국 갯벌 가치와 k-씨푸드 우수성 알린다(해양생태과, 수출가공진흥과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:56:14.093420+00:00"
-    },
-    {
-      "title": "제2차 우리동네 새단장 해양쓰레기 정화활동 펼친다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771289",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "제2차 「우리동네 새단장」 해양쓰레기 정화활동 펼친다- 7. 20.~7. 31., 지방정부·유관기관과 함께 해양쓰레기 정화 실시 해양수산부(장관 황종우)는 7월 20일(월)부터 31일(금)까지를 '호우기 직후 해양쓰레기 정화주간'으로 정하고, 지방정부, 해양경찰청, 해양환경공단, 항만공사 등 관계기관, 자원봉사자 등이 참여하는 대규모 해양쓰레기 정화활동을 추진한다고 밝혔다. 이번 활동은 \"우리가 함께 만드는, 「우리동네 새단장」\" 이라는 주제 아래 범정부 차원에서 실시하는 대규모 정화행사로, 지난 2월에 이어 올해 두 번째로 실시된",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510326&tblKey=GMN",
-          "filename": "260720(조간) 제2차 우리동네 새단장 해양쓰레기 정화활동 펼친다(해양보전과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510325&tblKey=GMN",
-          "filename": "260720(조간) 제2차 우리동네 새단장 해양쓰레기 정화활동 펼친다(해양보전과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:56:14.093420+00:00"
-    },
-    {
-      "title": "\"현장 혼선 줄이고, 실효성 높인다\" 선내 안전·보건 기준 개정",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771288",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-19T00:00:00+09:00",
-      "description": "\"현장 혼선 줄이고, 실효성 높인다\" 선내 안전·보건 기준 개정- 의약품 투여 기준 합리화, 안전대표자 선정방식 개선 등 현장 의견을 반영한 「선내 안전·보건 및 사고예방 기준」 개정 해양수산부(장관 황종우)는 선박 내 안전·보건 관리체계를 합리적으로 개선하고 현장의 불편을 해소하기 위해 「선내 안전·보건 및 사고예방 기준」(이하 \"선내 안전·보건 기준\")을 개정하여 7월 20일(월) 고시한다고 밝혔다. 선내 안전·보건 기준은 선박 재해를 예방하고 쾌적한 작업환경을 조성하여 선원의 안전·보건을 증진하기 위해 제정(2024. 10.)",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510324&tblKey=GMN",
-          "filename": "260720(조간) “현장 혼선 줄이고, 실효성 높인다” 선내 안전보건 기준 개정(선원정책과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198510323&tblKey=GMN",
-          "filename": "260720(조간) “현장 혼선 줄이고, 실효성 높인다” 선내 안전보건 기준 개정(선원정책과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T17:56:14.093420+00:00"
     }
   ]
 }
