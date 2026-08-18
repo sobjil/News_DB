@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T04:44:47.859029+00:00",
-  "count": 2089,
+  "updated": "2026-08-18T04:59:48.280372+00:00",
+  "count": 2091,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -862,6 +862,43 @@
         }
       ],
       "_attAt": "2026-08-18T04:44:42.667795+00:00"
+    },
+    {
+      "title": "[보도자료] 한국노총 전택노련과의 간담회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774710",
+      "agency": "경제사회노동위원회",
+      "agencyCode": "esdc",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "김지형 위원장, 한국노총 전택노련과의 간담회 - 택시산업 노동자 데이터 주권과 택시산업 발전을 위한 현장 목소리 청취 - 경제사회노동위원회(이하 '경사노위') 김지형 위원장은 2026년 8월 11일(화) 15:00 전국택시노동조합연맹(이하 '전택노련') 집행부와 간담회를 가졌다. 전택노련은 1988년 결성되어, 현재 3만여 명 규모의 조합원을 두고 161개 노동조합으로 조직되어 있으며, 택시산업 종사자의 노동환경 및 처우 개선을 위해 적극적인 정책활동과 연대활동을 전개하고 있다. 이번 간담회는 택시산업의 주요 현안과 노사관계에 대한",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526430&tblKey=GMN",
+          "filename": "[보도자료]전택노련 간담회.hwp"
+        }
+      ],
+      "_attAt": "2026-08-18T04:59:42.289167+00:00"
+    },
+    {
+      "title": "복권기금, 의무적 법정배분을 성과에 따른 배분으로 대폭 전환",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774709",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "정부는 '26.8.18.(화)에 개최된 제36차 국무회의에서 「복권 및 복권기금법 일부 개정법률안」을 의결하였습니다. 자세한 내용은 첨부 참고하세요.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526421&tblKey=GMN",
+          "filename": "260818 (보도자료) 법정배분_F.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526420&tblKey=GMN",
+          "filename": "260818 (보도자료) 법정배분_F.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T04:59:42.289167+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
