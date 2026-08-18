@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T06:29:51.852836+00:00",
-  "count": 2100,
+  "updated": "2026-08-18T06:44:45.471094+00:00",
+  "count": 2101,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1072,6 +1072,27 @@
         }
       ],
       "_attAt": "2026-08-18T05:59:41.566398+00:00"
+    },
+    {
+      "title": "통합위, 「주거안정을 위한 공공주택 특위」 출범",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774725",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526501&tblKey=GMN",
+          "filename": "통합위, 「주거안정을 위한 공공주택 특위」 출범.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526500&tblKey=GMN",
+          "filename": "통합위, 「주거안정을 위한 공공주택 특위」 출범.hwp"
+        }
+      ],
+      "_attAt": "2026-08-18T06:44:41.636114+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
