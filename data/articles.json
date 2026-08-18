@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T20:59:44.781450+00:00",
-  "count": 2009,
+  "updated": "2026-08-18T21:14:45.855336+00:00",
+  "count": 2010,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774766",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라- 국민건강영양조사 참여 성인 2만 3천여 명 분석- 건강한 식생활·충분한 신체활동·비흡연·적절한 수면 중 3가지 이상 실천할때 질환 위험 28.6% 감소 질병관리청(청장 임승관) 국립보건연구원(원장 남재환)은 국민건강영양조사 자료를 분석한 결과, 건강한 생활습관이 대사이상 지방간질환 위험 감소와 관련이 있다고 밝혔다. 대사이상 지방간질환은 간에 지방이 쌓이면서 비만, 당뇨병 등 심장대사 위험요인을 동반하는 만성 간질환이다. 과거 '비알코올성 지방간질환'으로 불렸으며,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526688&tblKey=GMN",
+          "filename": "[8.19.수.석간] 성인 4명 중 1명 ‘대사이상 지방간질환’ 생활 습관에 따라 달라.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526689&tblKey=GMN",
+          "filename": "[8.19.수.석간] 성인 4명 중 1명 ‘대사이상 지방간질환’ 생활 습관에 따라 달라.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T21:14:41.497574+00:00"
+    },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774650",
