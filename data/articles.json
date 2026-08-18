@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T02:30:12.096201+00:00",
-  "count": 2080,
+  "updated": "2026-08-18T02:44:46.576898+00:00",
+  "count": 2081,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -670,6 +670,27 @@
         }
       ],
       "_attAt": "2026-08-18T02:14:43.643165+00:00"
+    },
+    {
+      "title": "천연기념물 '따오기', 국립수목원에서 첫 관찰",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774698",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "- 국내에서 자취를 감췄다가 복원된 따오기, 광릉숲에 모습 드러내 -산림청 국립수목원은 지난 8월 11일 국립수목원 내에서 천연기념물 따오기(Nipponia nippon)가 처음으로 관찰됐다고 밝혔다.이번에 관찰된 따오기는 사진과 영상으로 기록됐으며, 다리에서는 노란색 표식 띠가 확인됐다. 국립수목원은 우포따오기복원센터와 해당 개체의 방사 시기와 이동 이력 등을 확인하고 있으며, 지난 주말에는 복원센터 관계자들이 국립수목원을 찾아 현장조사를 실시했다.따오기는 과거 우리나라에서 자취를 감춘 뒤 우포늪을 중심으로 복원사업이 추진돼 다시",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526358&tblKey=GMN",
+          "filename": "[보도자료]천연기념물 &#039;따오기&#039; 국립수목원에서 첫 관찰.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526357&tblKey=GMN",
+          "filename": "[보도자료]천연기념물 &#039;따오기&#039; 국립수목원에서 첫 관찰.hwp"
+        }
+      ],
+      "_attAt": "2026-08-18T02:44:41.976948+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
