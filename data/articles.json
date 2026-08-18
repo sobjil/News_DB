@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T08:29:47.482089+00:00",
-  "count": 2109,
+  "updated": "2026-08-18T08:44:46.973408+00:00",
+  "count": 2110,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -710,16 +710,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526358&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526370&tblKey=GMN",
           "filename": "[보도자료]천연기념물 &#039;따오기&#039; 국립수목원에서 첫 관찰.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526357&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526369&tblKey=GMN",
           "filename": "[보도자료]천연기념물 &#039;따오기&#039; 국립수목원에서 첫 관찰.hwp"
         }
       ],
-      "_attAt": "2026-08-18T02:44:41.976948+00:00"
+      "_attAt": "2026-08-18T08:44:42.195206+00:00",
+      "_attRev": 1
     },
     {
       "title": "｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표",
@@ -1282,6 +1283,27 @@
         }
       ],
       "_attAt": "2026-08-18T08:14:41.441092+00:00"
+    },
+    {
+      "title": "[참고] 「주택 신속공급 방안」 속도감 있는 이행에 총력, 공공·산업계 힘을 합쳐 공급 가속화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774738",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "[참고] 「주택 신속공급 방안」 속도감 있는 이행에 총력, 공공·산업계 힘을 합쳐 공급 가속화 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526578&tblKey=GMN",
+          "filename": "260818(참고)「주택_신속공급_방안」_속도감_있는_이행에_총력__공공·산업계_힘을_합쳐_공급_가속화(부동산제도기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526579&tblKey=GMN",
+          "filename": "260818(참고)「주택_신속공급_방안」_속도감_있는_이행에_총력__공공·산업계_힘을_합쳐_공급_가속화(부동산제도기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T08:44:42.195206+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
