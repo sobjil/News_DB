@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T02:44:46.576898+00:00",
-  "count": 2081,
+  "updated": "2026-08-18T02:59:47.581137+00:00",
+  "count": 2082,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -693,6 +693,22 @@
       "_attAt": "2026-08-18T02:44:41.976948+00:00"
     },
     {
+      "title": "｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774699",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "- 4개 정예팀 모두 세계적 수준의 독자 AI모델 개발 성과 입증- 3개 정예팀(업스테이지, SK텔레콤, LG AI연구원 정예팀, 가나다順) 다음 단계 진출",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526362&tblKey=GMN",
+          "filename": "260818 즉시 (보도) ｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-18T02:59:41.400838+00:00"
+    },
+    {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774552",
       "agency": "교육부",
@@ -1309,8 +1325,8 @@
           "filename": "12-4_(즉시보도_통전지)_세계_식육과학자들,_농촌진흥청서_한국_축산_연구성과_살핀다(축산원).hwp"
         }
       ],
-      "_attAt": "2026-08-17T20:59:41.233716+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-18T02:59:41.400838+00:00",
+      "_attRev": 3
     },
     {
       "title": "얇은 껍질·아삭한 식감 국산 포도 '코코볼', 시장 첫선",
