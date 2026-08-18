@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T05:29:43.161871+00:00",
-  "count": 2095,
+  "updated": "2026-08-18T05:44:51.728866+00:00",
+  "count": 2097,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -153,7 +153,8 @@
           "filename": "[26.8.18.(화) 보도참고자료] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다.pdf"
         }
       ],
-      "_attAt": "2026-08-17T23:29:43.851574+00:00"
+      "_attAt": "2026-08-18T05:44:41.449964+00:00",
+      "_attRev": 1
     },
     {
       "title": "'모두의 노동절' 알린 고용노동부, '마약 오남용 예방'에 앞장선 식약처, 국민이 직접 정책 소통 혁신 사례로 뽑아",
@@ -174,7 +175,8 @@
           "filename": "[0818]문체부보도자료-2분기 내가 뽑은 정책 소통 케이 선정 결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-08-17T23:29:43.851574+00:00"
+      "_attAt": "2026-08-18T05:44:41.449964+00:00",
+      "_attRev": 1
     },
     {
       "title": "'소소한 변화'로 경직된 공직 문화 깨고 상호 존중 일터 만든다 - 국립산림과학원, 조직문화 개선 활동 만족도 조사 결과...심리적 안정감 향상 효과 얻어",
@@ -186,11 +188,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526128&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526145&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 소소한 변화로 경직된 공직 문화 깨고 상호 존중 일터 만든다.hwpx"
         }
       ],
-      "_attAt": "2026-08-17T23:44:41.338902+00:00"
+      "_attAt": "2026-08-18T05:44:41.449964+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"행정심판 청구, 전문 변호사 상담받고 진행하세요\", 취약계층 권리구제 돕는다",
@@ -972,6 +975,48 @@
         }
       ],
       "_attAt": "2026-08-18T05:14:41.706638+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774720",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526484&tblKey=GMN",
+          "filename": "[26-670](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526485&tblKey=GMN",
+          "filename": "[26-670](보도자료) 외교부 인사.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T05:44:41.449964+00:00"
+    },
+    {
+      "title": "왕이(王毅) 외교부장 공식 방한",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774719",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "조현 외교부 장관 초청에 따라 왕이(王毅, WANG Yi) 중국 공산당 중앙정치국 위원 겸 외교부장이 8.19.(수)-20.(목) 간 공식 방한할 예정이다. 양 장관은 8.19.(수) 한중 외교장관회담 및 만찬을 갖고, 한중 양자관계, 한반도 정세와 지역 및 국제 문제 등 상호 관심사에 대해 심도 있는 의견을 교환할 예정이다. 이번 왕이 부장의 양자 방한은 2021.9월 이후 약 5년 만이며, 한중 외교장관회담은 작년 9.17. 베이징에서 개최된 이후 11개월여 만에 열리는 것으로, 11월 선전 APEC 정상회의를 앞두고 한중관계 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526482&tblKey=GMN",
+          "filename": "[26-669](보도자료) 왕이(王毅) 외교부장 공식 방한.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526483&tblKey=GMN",
+          "filename": "[26-669](보도자료) 왕이(王毅) 외교부장 공식 방한.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T05:44:41.449964+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
