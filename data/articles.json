@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T23:14:52.719963+00:00",
-  "count": 2013,
+  "updated": "2026-08-18T23:29:50.900701+00:00",
+  "count": 2016,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -134,6 +134,69 @@
         }
       ],
       "_attAt": "2026-08-18T23:14:43.733799+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, '의료기기 통합정보 등록 및 공급내역 보고' 민원상담 사례집 개정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774773",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "[보도참고] 식약처, '의료기기 통합정보 등록 및 공급내역 보고' 민원상담 사례집 개정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526711&tblKey=GMN",
+          "filename": "[26.8.19.(수) 보도참고자료] 식약처, ‘의료기기 통합정보 등록 및 공급내역 보고’ 민원상담 사례집 개정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526712&tblKey=GMN",
+          "filename": "[26.8.19.(수) 보도참고자료] 식약처, ‘의료기기 통합정보 등록 및 공급내역 보고’ 민원상담 사례집 개정.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T23:29:43.035584+00:00"
+    },
+    {
+      "title": "체육계와 교육계, 손잡고 장애인체육 꿈나무선수 적극 발굴",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774772",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "체육계와 교육계, 손잡고 장애인체육 꿈나무선수 적극 발굴 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0819]문체부보도자료-장애인체육 꿈나무선수 발굴단 출범.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526704&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-장애인체육 꿈나무선수 발굴단 출범.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526703&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-장애인체육 꿈나무선수 발굴단 출범.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T23:29:43.035584+00:00"
+    },
+    {
+      "title": "'2026 대한민국 공공디자인대상' 대통령상, 주민이 직접 만든 한강로동 맞춤형 생활 안심 디자인 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774771",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "'2026 대한민국 공공디자인대상' 대통령상, 주민이 직접 만든 한강로동 맞춤형 생활 안심 디자인 선정 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0819]문체부보도자료-2026 대한민국 공공디자인대상 수상작 선정.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526701&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-2026 대한민국 공공디자인대상 수상작 선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526700&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-2026 대한민국 공공디자인대상 수상작 선정.pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T23:29:43.035584+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
