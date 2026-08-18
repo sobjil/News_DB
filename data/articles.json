@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T03:59:43.904543+00:00",
-  "count": 2086,
+  "updated": "2026-08-18T04:14:49.685950+00:00",
+  "count": 2088,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -127,11 +127,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526115&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526116&tblKey=GMN",
           "filename": "(8. 18. 조간 보도자료) 최근 5년간 추석 연휴 화재 2%2C077건...소방청%2C 추석 명절 화재예방대책 가동.hwpx"
         }
       ],
-      "_attAt": "2026-08-17T22:14:41.786677+00:00"
+      "_attAt": "2026-08-18T04:14:41.933461+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 제약혁신기술 국제세미나·교육으로 제약업계 GMP 역량 높인다",
@@ -793,6 +794,53 @@
         }
       ],
       "_attAt": "2026-08-18T03:14:43.642300+00:00"
+    },
+    {
+      "title": "\"제12회 쌀의 날(8월 18일)\" 행사 개최 과거·현재·미래를 잇는 우리 쌀의 가치를 만나다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774704",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 농식품부)는 8월 18일(화), 제12회 쌀의 날을 맞아 우리 쌀의 우수성을 알리고 건강한 쌀 중심의 식습관 확산과 쌀 소비촉진을 위해 서울공예박물관에서 기념행사를 개최한다. '쌀의 날'은 한자 쌀 미(米)를 팔, 십, 팔(八, 十, 八)로 풀이한 것으로, 쌀 한 톨을 생산하기까지 농업인의 손길이 여든여덟 번 필요하다는 의미를 담아 농식품부가 지정한 날로, 올해로 12회를 맞이한다. 이번 행사는 '우리를 잇는 한 톨'이라는 주제로 쌀이 지닌 역사적·생활문화적 가치를 조명하고, 쌀 산업의 지속 가능한",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526404&tblKey=GMN",
+          "filename": "(식량정책관-식량산업과) 제12회 쌀의 날(8월 18일) 행사 개최 과거 현재 미래를 잇는 우리 쌀의 가치를 만나다(8.18. 13시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526403&tblKey=GMN",
+          "filename": "(식량정책관-식량산업과) 제12회 쌀의 날(8월 18일) 행사 개최 과거 현재 미래를 잇는 우리 쌀의 가치를 만나다(8.18. 13시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526405&tblKey=GMN",
+          "filename": "(식량정책관-식량산업과) 제12회 쌀의 날(8월 18일) 행사 개최 과거 현재 미래를 잇는 우리 쌀의 가치를 만나다(8.18. 13시).hwp"
+        }
+      ],
+      "_attAt": "2026-08-18T04:14:41.933461+00:00"
+    },
+    {
+      "title": "국민 권리보호는 두텁게, 중대범죄는 엄정하게 10월2일 출범 위한 중수청법 하위법령 국무회의 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774706",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-18T00:00:00+09:00",
+      "description": "- 중수청장 후보추천위원회 구성·운영, 다른 수사기관의 인지범죄 통보 범위, 수사심의 절차 등 세부운영 기준 구체화- 보이스피싱·마약 등 범정부 대응이 필요한 범죄 수사를 담당하는 합동수사과(5개), 사회적 약자 범죄 보완수사를 위한 전담 조직 설치- 채용 기준, 승진, 적격심사 등 수사관 인사관리 체계 규정 행정안전부(장관 윤호중)는 「중대범죄수사청 조직 및 운영에 관한 법률 시행령」(이하 중수청법 시행령), 「중대범죄수사청과 그 소속기관 직제」(이하 중수청 직제),「중대범죄수사청수사관 임용령」(이하 중수청수사관 임용령) 제정안이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526408&tblKey=GMN",
+          "filename": "260818 (국무회의 종료시) 국민 권리보호는 두텁게 중대범죄는 엄정하게 10월2일 출범 위한 중수청법 하위법령 국무회의 의결(중수청설립지원단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526409&tblKey=GMN",
+          "filename": "260818 (국무회의 종료시) 국민 권리보호는 두텁게 중대범죄는 엄정하게 10월2일 출범 위한 중수청법 하위법령 국무회의 의결(중수청설립지원단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-18T04:14:41.933461+00:00"
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
