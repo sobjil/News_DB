@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T20:59:46.389504+00:00",
-  "count": 1987,
+  "updated": "2026-08-19T21:14:55.979085+00:00",
+  "count": 1990,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,69 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "2025년 도시계획현황 통계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774883",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "2025년 도시계획현황 통계 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527207&tblKey=GMN",
+          "filename": "260820(석간)_2025년_도시계획현황_통계(도시정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527208&tblKey=GMN",
+          "filename": "260820(석간)_2025년_도시계획현황_통계(도시정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T21:14:45.067347+00:00"
+    },
+    {
+      "title": "담수식물 뚜껑덩굴에서 작물 병원성 곰팡이 억제 천연물질 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774885",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "▷ 국립낙동강생물자원관, 광범위한 곰팡이(진균) 억제 성분 규명 후 특허 출원기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 최근 국내 자생 담수식물인 뚜껑덩굴에서 분리한 천연물질 '로바토사이드-시(Lobatoside C)'가 벼도열병균 등 작물에 병을 일으키는 곰팡이(진균)의 생장을 억제하는 효능을 확인했다고 밝혔다.병원성 진균에 의한 작물병은 농작물의 수량과 품질을 떨어뜨려 매년 막대한 경제적 손실을 초래하고 있다. 그동안 진균병 방제는 합성 살균제에 주로 의존해 왔으나, 인체 위해성과 장기 사용에 따른 약제 저항성균 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527211&tblKey=GMN",
+          "filename": "담수식물 뚜껑덩굴에서 작물 병원성 곰팡이 억제 천연물질 확인(보도자료)(낙동강생물 8.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527212&tblKey=GMN",
+          "filename": "담수식물 뚜껑덩굴에서 작물 병원성 곰팡이 억제 천연물질 확인(보도자료)(낙동강생물 8.20).pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T21:14:45.067347+00:00"
+    },
+    {
+      "title": "2025 한국수문조사연보 발간… 강수량 등 6개 분야 2,560곳 수문자료 수록",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774884",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "▷ 전년보다 수위관측 186곳 확대, 자동유량 관측지점 99곳 확대기후에너지환경부 소속 한강홍수통제소(소장 김구범)는 2025년 한 해 동안 전국 수문조사기관에서 생산한 수문자료를 정리한 '2025 한국수문조사연보'를 8월 20일에 발간한다고 밝혔다. '한국수문조사연보'는 전국 수문 조사기관이 생산한 수문자료를 체계적으로 정리한 국가 수문자료 종합 자료집으로, 수자원 관리와 관련 계획 수립 및 연구 등에 활용되고 있다.이번 연보에는 강수량·수위·유량·유사량·증발산량·토양수분량 등 6개 분야, 총 2,560곳의 수문자료가 수록됐다. ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527209&tblKey=GMN",
+          "filename": "2025 한국수문조사연보 발간(보도자료)(한강홍수 8.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527210&tblKey=GMN",
+          "filename": "2025 한국수문조사연보 발간(보도자료)(한강홍수 8.20).pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T21:14:45.067347+00:00"
+    },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774766",
@@ -1594,8 +1657,8 @@
           "filename": "260819_2026년_상반기_벤처투자_8_9조원_&#039;역대_최대&#039;_실적_경신.pdf"
         }
       ],
-      "_attAt": "2026-08-19T15:14:42.352492+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-19T21:14:45.067347+00:00",
+      "_attRev": 2
     },
     {
       "title": "한중 외교장관 회담 및 만찬 결과",
