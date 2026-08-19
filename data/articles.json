@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:29:46.541591+00:00",
+  "updated": "2026-08-19T08:44:46.717913+00:00",
   "count": 2079,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -797,16 +797,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526872&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526935&tblKey=GMN",
           "filename": "258 [지식재산처] 국민과 함께 만드는 심사품질, 우수 심사·심판관 시상.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526873&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526936&tblKey=GMN",
           "filename": "258 [지식재산처] 국민과 함께 만드는 심사품질, 우수 심사·심판관 시상.pdf"
         }
       ],
-      "_attAt": "2026-08-19T02:29:44.211651+00:00"
+      "_attAt": "2026-08-19T08:44:42.980744+00:00",
+      "_attRev": 1
     },
     {
       "title": "건설·조선 다단계 도급사업의 임금체불 예방을 위한 '임금구분지급제' 시행기준 마련",
@@ -827,7 +828,8 @@
           "filename": "260819_보도자료_건설조선 다단계 도급사업의 임금체불 예방을 위한 임금구분지급제 시행 기준 마련.pdf"
         }
       ],
-      "_attAt": "2026-08-19T02:44:41.009587+00:00"
+      "_attAt": "2026-08-19T08:44:42.980744+00:00",
+      "_attRev": 1
     },
     {
       "title": "지역 국립대학(치과)병원 보건복지부 이관 완료 지역의료를 책임지는 국가 핵심병원으로 도약",
