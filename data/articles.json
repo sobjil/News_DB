@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T22:59:51.110631+00:00",
-  "count": 1991,
+  "updated": "2026-08-19T23:14:45.798688+00:00",
+  "count": 1992,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -139,6 +139,27 @@
         }
       ],
       "_attAt": "2026-08-19T22:14:42.520146+00:00"
+    },
+    {
+      "title": "장애인 노동자 마음건강, 쉬운 글로 지킨다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774887",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "- 소소한 소통과 함께 만든 「내 마음건강 지키기」 발간·배포- 전국 장애인 다수고용 사업장 배포 및 공단 누리집에서 PDF 제공 한국장애인고용공단 고용개발원(원장 이동영)은 장애인 노동자가 직장과 일상에서 자신의 마음건강을 살피고 필요한 정보를 쉽게 활용할 수 있도록 「내 마음건강 지키기」를 발간·배포했다. 「내 마음건강 지키기」는 한국장애인고용공단 고용개발원이 2023년 발간한 「발달장애인을 위한 알기 쉬운 마음건강 지키기」를 보다 쉬운 글과 그림으로 간결하게 재구성하였으며, 장애인을 포함해 누구나 이해하기 쉬운 정보를 만드는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527232&tblKey=GMN",
+          "filename": "260820_보도자료_장애인 노동자의 정신건강을 위한 알기 쉬운 자료 책자 발간(한국장애인고용공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527234&tblKey=GMN",
+          "filename": "260820_보도자료_장애인 노동자의 정신건강을 위한 알기 쉬운 자료 책자 발간(한국장애인고용공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T23:14:41.266474+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
