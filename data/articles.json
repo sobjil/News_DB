@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T04:29:55.092123+00:00",
-  "count": 2058,
+  "updated": "2026-08-19T04:44:45.434223+00:00",
+  "count": 2059,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1076,6 +1076,27 @@
         }
       ],
       "_attAt": "2026-08-19T04:29:42.862976+00:00"
+    },
+    {
+      "title": "중기부, 경남 집중호우 피해 전통시장'원스톱 지원센터' 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774834",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부) 이병권 제2차관은 집중호우로 피해를 입은 경남 지역 전통시장 상인들의 신속한 영업 재개와 일상 회복을 위해 8월 19일(수)부터 '원스톱 지원센터'를 본격 가동한다고 밝혔다. '원스톱 지원센터'는 피해 상인들이 여러 기관을 방문해야 하는 불편을 해소하고, 시설 복구, 금융 지원, 행정 지원, 고충 상담 등 피해 복구에 필요한 지원을 현장에서 신속하게 받을 수 있도록 마련한 통합지원체계이다. 이번 원스톱 지원센터는 경남지방중소벤처기업청을 중심으로 소상공인시장진흥공단, 지역신",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526950&tblKey=GMN",
+          "filename": "260819_중기부,_경남_집중호우_피해_전통시장_&#039;원스톱_지원센터&#039;_가동.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526949&tblKey=GMN",
+          "filename": "260819_중기부,_경남_집중호우_피해_전통시장_&#039;원스톱_지원센터&#039;_가동.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T04:44:41.016066+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
