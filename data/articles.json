@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T05:44:51.993764+00:00",
-  "count": 2070,
+  "updated": "2026-08-19T05:59:46.919375+00:00",
+  "count": 2071,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1307,6 +1307,27 @@
         }
       ],
       "_attAt": "2026-08-19T05:44:41.606619+00:00"
+    },
+    {
+      "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(332차)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774850",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "오염수 방류 대응 전반- 브리퍼 : 국무조정실 김영수 국무1차장 - 1. 인사말씀 □ 국무조정실 국무1차장입니다. 2. 오염수 22차 방류 종료 □ 도쿄전력은 지난 7월 30일부터 시작된 오염수 22차 방류를 8월 17일 월요일 오후 12시 11분경 종료하였습니다.□ 이번 22차 방류 기간에는 총 7,888세제곱미터(m3)의 오염수가 방류되었으며, 방류된 오염수에 포함된 삼중수소는 약 1.3조 베크렐(Bq)이었습니다.○ 방류 중 해수배관헤더*에서 채취된 시료의 삼중수소 농도는 리터(ℓ)당 167~245베크렐(Bq)로, 방류 기준치인",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527030&tblKey=GMN",
+          "filename": "260819_332차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527031&tblKey=GMN",
+          "filename": "260819_332차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T05:59:42.963607+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
