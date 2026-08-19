@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T00:14:55.108365+00:00",
-  "count": 2018,
+  "updated": "2026-08-19T00:29:46.678712+00:00",
+  "count": 2019,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -234,6 +234,27 @@
         }
       ],
       "_attAt": "2026-08-19T00:14:41.695691+00:00"
+    },
+    {
+      "title": "국민 4만 명이 직접 뽑았다, '100x100' 대표 명소 공개",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774782",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "국민 4만 명이 직접 뽑았다, '100x100' 대표 명소 공개 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0819]문체부보도자료-대한민국 명소 발굴 100X100 프로젝트 결과 발표.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526744&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-대한민국 명소 발굴 100X100 프로젝트 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526743&tblKey=GMN",
+          "filename": "[0819]문체부보도자료-대한민국 명소 발굴 100X100 프로젝트 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T00:29:42.272172+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
