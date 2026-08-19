@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T02:29:51.965331+00:00",
-  "count": 2043,
+  "updated": "2026-08-19T02:44:45.540835+00:00",
+  "count": 2044,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -758,6 +758,27 @@
         }
       ],
       "_attAt": "2026-08-19T02:29:44.211651+00:00"
+    },
+    {
+      "title": "건설·조선 다단계 도급사업의 임금체불 예방을 위한 '임금구분지급제' 시행기준 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774814",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "- 내년 1월 1일 시행 앞두고 적용 대상, 판단 기준 및 방법 등을 담은 「근로기준법」 하위법령 입법예고 - 고용노동부(장관 김영훈)는 8월 20일(목), 「근로기준법 시행령」 및 「근로기준법 시행규칙」 개정안을 각각 입법예고 한다고 밝혔다. 이는 내년 1월 1일부터 시행되는 '임금구분지급제'의 적용 대상, 임금비용 지급 절차 등을 구체화하기 위한 것이다. 임금구분지급제는 도급인이 ①매월 도급 금액 중 '임금비용'을 구분하여 지급하고, ②수급인이 이를 노동자의 임금으로 실제 지급했는지를 확인하는 제도이다. 또한, 수급인이 ③지급받",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526875&tblKey=GMN",
+          "filename": "260819_보도자료_건설조선 다단계 도급사업의 임금체불 예방을 위한 임금구분지급제 시행 기준 마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198526874&tblKey=GMN",
+          "filename": "260819_보도자료_건설조선 다단계 도급사업의 임금체불 예방을 위한 임금구분지급제 시행 기준 마련.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T02:44:41.009587+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
