@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T05:59:46.919375+00:00",
-  "count": 2071,
+  "updated": "2026-08-19T06:14:50.175999+00:00",
+  "count": 2072,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -241,7 +241,8 @@
           "filename": "[8.19.보도참고자료] 건강한 응원, 안전한 귀국 「아이치-나고야 하계 아시아경기대회」 감염병 예방수칙 안내.pdf"
         }
       ],
-      "_attAt": "2026-08-19T00:14:41.695691+00:00"
+      "_attAt": "2026-08-19T06:14:43.455777+00:00",
+      "_attRev": 1
     },
     {
       "title": "국민 4만 명이 직접 뽑았다, '100x100' 대표 명소 공개",
@@ -1328,6 +1329,32 @@
         }
       ],
       "_attAt": "2026-08-19T05:59:42.963607+00:00"
+    },
+    {
+      "title": "산림청, 8월 이달의 임산물로 '산양삼' 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774852",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-19T00:00:00+09:00",
+      "description": "산림청, 8월 이달의 임산물로 '산양삼' 선정 산림청(청장 박은식)은 8월 이달의 임산물로 '산양삼'을 선정했다고 19일 밝혔다. 산양삼은 자연의 모습에 가까운 산림환경에서 오랜 기간 재배되는 대표적인 약용 임산물로 특유의 쌉싸름한 맛과 향을 지니고 있다. 무더위로 지치기 쉬운 8월, 건강과 활력을 챙기기 위한 여름철 대표 보양 식재료로 알려져 있다. 산양삼은 '산지관리법'에 따른 산지에서 인공시설 없이 생산되고, '임업 및 산촌 진흥촉진에 관한 법률'에 따른 품질검사에 합격한 인삼속 식물로, 특별관리임산물로 지정돼 생산부터 유통까",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527046&tblKey=GMN",
+          "filename": "(260819)보도자료-산림청_8월_이달의_임산물로_‘산양삼’_선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527048&tblKey=GMN",
+          "filename": "(260819)보도자료-산림청_8월_이달의_임산물로_‘산양삼’_선정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527047&tblKey=GMN",
+          "filename": "(260819)보도자료-산림청_8월_이달의_임산물로_‘산양삼’_선정.hwp"
+        }
+      ],
+      "_attAt": "2026-08-19T06:14:43.455777+00:00"
     },
     {
       "title": "복잡한 약물도 쉽게 재설계하는 분자 편집 기술 개발",
@@ -2705,12 +2732,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198526660&tblKey=GMN",
-          "filename": "260818 즉시 (보도) 「모두의 AI」 프로젝트 참여 사업자 공모 접수결과.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198526878&tblKey=GMN",
+          "filename": "260818 즉시 (보도) 「모두의 AI」 프로젝트 참여 사업자 공모 접수결과(수정).hwpx"
         }
       ],
-      "_attAt": "2026-08-19T00:14:41.695691+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-19T06:14:43.455777+00:00",
+      "_attRev": 3
     },
     {
       "title": "동화로 이어 온 20번째 만남, 한중일 어린이들의 우정이 한국에서 꽃피다",
