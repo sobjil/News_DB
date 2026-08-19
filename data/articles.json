@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T23:14:45.798688+00:00",
-  "count": 1992,
+  "updated": "2026-08-19T23:29:49.489432+00:00",
+  "count": 1995,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -160,6 +160,69 @@
         }
       ],
       "_attAt": "2026-08-19T23:14:41.266474+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 제3회 '찾아가는 디지털의료기기 첫걸음 규제설명회(대전)' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774890",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 제3회 '찾아가는 디지털의료기기 첫걸음 규제설명회(대전)' 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527239&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 식약처, 제3회 ‘찾아가는 디지털의료기기 첫걸음 규제설명회(대전)’ 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527240&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 식약처, 제3회 ‘찾아가는 디지털의료기기 첫걸음 규제설명회(대전)’ 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T23:29:41.639373+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 수출식품등 위생증명서 신청 방법 알기 쉽게 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774888",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 수출식품등 위생증명서 신청 방법 알기 쉽게 안내",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527235&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 식약처, 수출식품등 위생증명서 신청 방법 알기 쉽게 안내.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527236&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 식약처, 수출식품등 위생증명서 신청 방법 알기 쉽게 안내.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T23:29:41.639373+00:00"
+    },
+    {
+      "title": "[보도참고] 급식지원 우수사례 발굴을 위한 업무혁신 경진대회 수상작 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774889",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "[보도참고] 급식지원 우수사례 발굴을 위한 업무혁신 경진대회 수상작 발표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527237&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 급식지원 우수사례 발굴을 위한 업무혁신 경진대회 수상작 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527238&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도참고자료] 급식지원 우수사례 발굴을 위한 업무혁신 경진대회 수상작 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-08-19T23:29:41.639373+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
