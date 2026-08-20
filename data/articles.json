@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T14:00:48.059523+00:00",
+  "updated": "2026-08-20T14:14:43.854857+00:00",
   "count": 2101,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1769,11 +1769,12 @@
       "attachments": [
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198527767&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527869&tblKey=GMN",
           "filename": "[보도자료] 2차 공론화 특위.hwp"
         }
       ],
-      "_attAt": "2026-08-20T07:59:46.200341+00:00"
+      "_attAt": "2026-08-20T14:14:40.977725+00:00",
+      "_attRev": 1
     },
     {
       "title": "관세청, 집중호우 피해 수출입기업에 신속한 관세행정 지원 실시",
