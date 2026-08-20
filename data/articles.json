@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T04:29:50.348910+00:00",
-  "count": 2029,
+  "updated": "2026-08-20T04:44:49.630815+00:00",
+  "count": 2030,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -964,6 +964,32 @@
         }
       ],
       "_attAt": "2026-08-20T04:29:42.958755+00:00"
+    },
+    {
+      "title": "산림청, 거제시 집중호우 피해지역 산사태 긴급진단··· 추가 피해 예방 나서",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774935",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "산림청, 거제시 집중호우 피해지역 산사태 긴급진단··· 추가 피해 예방 나서- 산사태 전문가 합동으로 생활권 주변 위험지역 긴급진단 실시 -- 산림헬기 활용해 추가 산사태 발생 여부도 면밀히 확인 - 산림청(청장 박은식)은 지난 8월 15일부터 18일까지 집중호우로 피해가 발생한 경상남도 거제시를 대상으로 20일부터 산사태 추가 발생 여부와 위험요인을 확인하기 위한 긴급진단을 실시한다고 밝혔다. 이번 긴급진단은 집중호우 이후 지반이 약해진 지역에서 추가 산사태 발생 위험을 진단하고 사전에 대비해 지역주민의 불안을 해소하기 위해 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527446&tblKey=GMN",
+          "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527448&tblKey=GMN",
+          "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527447&tblKey=GMN",
+          "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.hwp"
+        }
+      ],
+      "_attAt": "2026-08-20T04:44:45.806544+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
