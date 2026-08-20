@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T22:59:44.553265+00:00",
-  "count": 1995,
+  "updated": "2026-08-20T23:14:48.498356+00:00",
+  "count": 1998,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -139,6 +139,69 @@
         }
       ],
       "_attAt": "2026-08-20T22:14:41.937048+00:00"
+    },
+    {
+      "title": "'유미의 세포들'과 함께 방 탈출로 탄소중립 실천하자",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775062",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "'유미의 세포들'과 함께 방 탈출로 탄소중립 실천하자 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0821]문체부보도자료-탄소중립 반짝 체험관 운영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528091&tblKey=GMN",
+          "filename": "[0821]문체부보도자료-탄소중립 반짝 체험관 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528090&tblKey=GMN",
+          "filename": "[0821]문체부보도자료-탄소중립 반짝 체험관 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T23:14:42.669828+00:00"
+    },
+    {
+      "title": "식약처 소관 법률 개정안 국회 본회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775064",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "식약처 소관 법률 개정안 국회 본회의 통과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528094&tblKey=GMN",
+          "filename": "[26.8.21.(금) 보도자료] 식약처 소관 법률 개정안 국회 본회의 통과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528095&tblKey=GMN",
+          "filename": "[26.8.21.(금) 보도자료] 식약처 소관 법률 개정안 국회 본회의 통과.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T23:14:42.669828+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, WHO와 함께 아시아태평양지역 바이오시밀러 규제 역량 강화 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775063",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "[보도참고] 식약처, WHO와 함께 아시아태평양지역 바이오시밀러 규제 역량 강화 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528092&tblKey=GMN",
+          "filename": "[26.8.21.(금) 보도참고자료] 식약처, WHO와 함께 아시아태평양지역 바이오시밀러 규제 역량 강화 지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528093&tblKey=GMN",
+          "filename": "[26.8.21.(금) 보도참고자료] 식약처, WHO와 함께 아시아태평양지역 바이오시밀러 규제 역량 강화 지원.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T23:14:42.669828+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
