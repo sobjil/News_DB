@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T02:14:54.636879+00:00",
-  "count": 2012,
+  "updated": "2026-08-20T02:29:49.163632+00:00",
+  "count": 2014,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -583,6 +583,48 @@
         }
       ],
       "_attAt": "2026-08-20T02:14:40.908684+00:00"
+    },
+    {
+      "title": "[보도자료] 건설노동자 자살예방 및 정신건강 증진을 위한 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774913",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "생명지킴추진본부, '건설노동자 자살예방'을 위한 긴밀한 협력체계 구축- 건설근로자공제회 - 서울시 마포구 - 생명지킴추진본부□ 국무조정실 범정부 생명지킴추진본부(본부장 송민섭, 이하 생명본부)는 건설근로자공제회(이사장 장건)-서울시 마포구(구청장 유동균)와 함께 건설노동자 자살예방을 위한 협력을 강화하기로 하였다.□ 최근 중동전쟁 이후 원자재 가격 상승 비용 부담으로 건설업 취업자 수가 감소*하는 등 경제적 어려움을 겪는 노동자가 늘어남에 따라,* 건설업 취업자수(천명): ('25.7) 1,922 → ('26.7) 1,865 (△5",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527335&tblKey=GMN",
+          "filename": "260820 건설노동자 자살예방 협력체계 구축 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527336&tblKey=GMN",
+          "filename": "260820 건설노동자 자살예방 협력체계 구축 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T02:29:42.650732+00:00"
+    },
+    {
+      "title": "한·중 식품안전 협력 결실... K푸드 중국 수출길 더 넓어진다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774914",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "한·중 식품안전 협력 결실... K푸드 중국 수출길 더 넓어진다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527342&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도자료] 한？중 식품안전 협력 결실...K-푸드 중국 수출길 더 넓어진다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527343&tblKey=GMN",
+          "filename": "[26.8.20.(목) 보도자료] 한？중 식품안전 협력 결실...K-푸드 중국 수출길 더 넓어진다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T02:29:42.650732+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
