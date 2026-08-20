@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T10:44:44.565834+00:00",
-  "count": 2098,
+  "updated": "2026-08-20T10:59:49.108230+00:00",
+  "count": 2100,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1018,21 +1018,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198527446&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527471&tblKey=GMN",
           "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198527448&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527473&tblKey=GMN",
           "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198527447&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527472&tblKey=GMN",
           "filename": "(260820)_산림청__거제시_집중호우_피해지역_산사태_긴급진단..._추가_피해_예방_나서.hwp"
         }
       ],
-      "_attAt": "2026-08-20T04:44:45.806544+00:00"
+      "_attAt": "2026-08-20T10:59:42.558821+00:00",
+      "_attRev": 1
     },
     {
       "title": "'지역성장펀드' 제1호 펀드, 전북에서 1,000억 원 규모로 출범",
@@ -2545,6 +2546,48 @@
         }
       ],
       "_attAt": "2026-08-20T09:14:43.658710+00:00"
+    },
+    {
+      "title": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775036",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527967&tblKey=GMN",
+          "filename": "260820(참고) 주택공급 확대방안 9.7대책 관련 법률 제개정안 6건 국회 본회의 통과(주택공급정책과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527968&tblKey=GMN",
+          "filename": "260820(참고) 주택공급 확대방안 9.7대책 관련 법률 제개정안 6건 국회 본회의 통과(주택공급정책과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T10:59:42.558821+00:00"
+    },
+    {
+      "title": "[참고] 「녹색건축법」 · 「민간임대주택법」 ·「건설산업기본법」개정안 국회 본회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775035",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "[참고] 「녹색건축법」 · 「민간임대주택법」 ·「건설산업기본법」개정안 국회 본회의 통과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527965&tblKey=GMN",
+          "filename": "260820(참고) 「녹색건축법」 · 「민간임대주택법」 · 「건설산업기본법」 개정안 국회 본회의 통과(녹색건축과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527966&tblKey=GMN",
+          "filename": "260820(참고) 「녹색건축법」 · 「민간임대주택법」 · 「건설산업기본법」 개정안 국회 본회의 통과(녹색건축과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T10:59:42.558821+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
