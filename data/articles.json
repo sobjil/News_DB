@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T04:14:52.172998+00:00",
-  "count": 2026,
+  "updated": "2026-08-20T04:29:50.348910+00:00",
+  "count": 2029,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -896,6 +896,74 @@
         }
       ],
       "_attAt": "2026-08-20T04:14:42.732493+00:00"
+    },
+    {
+      "title": "경찰청, 경제안보를 위협하는 기술유출 범죄 대응 체계 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774933",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "경찰청, 경제안보를 위협하는 기술유출 범죄 대응 체계 강화 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527436&tblKey=GMN",
+          "filename": "260821(조간용) 경찰청 기술유출 범죄 대응 강화(안보수사)_수정본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527435&tblKey=GMN",
+          "filename": "260821(조간용) 경찰청 기술유출 범죄 대응 강화(안보수사)_수정본.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T04:29:42.958755+00:00"
+    },
+    {
+      "title": "(참고) 제12차 전기본 수립을 위한 재생에너지 보급 전망 정책토론회(6차) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774932",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "기후에너지환경부(장관 김성환)와 제12차 전력수급기본계획(이하 전기본) 수립 총괄위원회(위원장 장길수)는 8월 26일 한국전력공사 남서울본부(서울 영등포구 소재) 강당에서 '재생에너지 보급 전망'을 주제로 제12차 전기본 수립을 위한 제6차 대국민 정책토론회(이하 토론회)를 개최한다고 밝혔다.* 1차('25.12.30., 바람직한 에너지믹스), 2차('26.1.7., 재생e와 원전의 조화로운 활용)3차('26.4.22., 전력수요 전망), 4차('26.8.20., 전기국가 전환), 5차('26.8.20., 전력수요 전망)이번 6차 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527433&tblKey=GMN",
+          "filename": "제12차 전기본 수립을 위한 재생에너지 보급 전망 정책토론회(6차) 개최(보도참고자료)(재셍에너지 8.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527434&tblKey=GMN",
+          "filename": "제12차 전기본 수립을 위한 재생에너지 보급 전망 정책토론회(6차) 개최(보도참고자료)(재셍에너지 8.20).pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T04:29:42.958755+00:00"
+    },
+    {
+      "title": "국세청, 세무사 광고기준에 대한 고시안 행정예고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774931",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "국세청, 세무사 광고기준에 대한 고시안 행정예고 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527428&tblKey=GMN",
+          "filename": "260820 국세청 세무사등에 금지되는 광고에 관한 규정 고시안 행정예고_소득세과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527430&tblKey=GMN",
+          "filename": "260820 국세청 세무사등에 금지되는 광고에 관한 규정 고시안 행정예고_소득세과.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527429&tblKey=GMN",
+          "filename": "260820 국세청 세무사등에 금지되는 광고에 관한 규정 고시안 행정예고_소득세과.hwp"
+        }
+      ],
+      "_attAt": "2026-08-20T04:29:42.958755+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
