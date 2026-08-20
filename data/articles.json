@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T03:59:44.603171+00:00",
-  "count": 2024,
+  "updated": "2026-08-20T04:14:52.172998+00:00",
+  "count": 2026,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -137,11 +137,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198527230&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527231&tblKey=GMN",
           "filename": "(8. 20. 조간 보도자료) 제1기 수중과학수사 특별교육으로 내수면 범죄 대응 강화.hwpx"
         }
       ],
-      "_attAt": "2026-08-19T22:14:42.520146+00:00"
+      "_attAt": "2026-08-20T04:14:42.732493+00:00",
+      "_attRev": 1
     },
     {
       "title": "장애인 노동자 마음건강, 쉬운 글로 지킨다",
@@ -858,6 +859,43 @@
         }
       ],
       "_attAt": "2026-08-20T03:14:43.243006+00:00"
+    },
+    {
+      "title": "2026년 제2차 학교복합시설 공모사업 심사 결과, 총 9개 사업 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774930",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "2026년 제2차 학교복합시설 공모사업 심사 결과, 총 9개 사업 선정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527427&tblKey=GMN",
+          "filename": "[교육부 08-21(금) 조간보도자료] 2026년 제2차 학교복합시설 공모사업 심사 결과 총 9개 사업 선정.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-20T04:14:42.732493+00:00"
+    },
+    {
+      "title": "2026년 2분기말 대외채권채무 동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774928",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-20T00:00:00+09:00",
+      "description": "2026년 2분기말 순대외채권은 전분기말 대비 +23억불 증가한 3,678억불을 기록하였습니다. 자세한 내용은 첨부파일을 참고하여주시기 바랍니다.문의. 재정경제부 국제금융국 국제금융과 이창선 (044-215-4713)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527414&tblKey=GMN",
+          "filename": "260820 (보도자료) 26년 2분기말 대외채권채무 동향_2.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198527413&tblKey=GMN",
+          "filename": "260820 (보도자료) 26년 2분기말 대외채권채무 동향_2.pdf"
+        }
+      ],
+      "_attAt": "2026-08-20T04:14:42.732493+00:00"
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
