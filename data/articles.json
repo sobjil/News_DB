@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T11:29:51.275559+00:00",
-  "count": 2056,
+  "updated": "2026-08-21T11:44:47.802499+00:00",
+  "count": 2057,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1446,6 +1446,27 @@
         }
       ],
       "_attAt": "2026-08-21T10:29:42.050806+00:00"
+    },
+    {
+      "title": "[참고] 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775145",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "[참고] 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528550&tblKey=GMN",
+          "filename": "260821(참고) 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토(건축정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528551&tblKey=GMN",
+          "filename": "260821(참고) 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토(건축정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T11:44:41.260264+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
@@ -4130,8 +4151,8 @@
           "filename": "260820 제주 실종자 피해가족 대상 2차 가해 엄단 국무총리_지시.pdf"
         }
       ],
-      "_attAt": "2026-08-21T05:29:43.275485+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-21T11:44:41.260264+00:00",
+      "_attRev": 2
     },
     {
       "title": "[8.19.수.석간] 성인 4명 중 1명 '대사이상 지방간질환' 생활 습관에 따라 달라",
