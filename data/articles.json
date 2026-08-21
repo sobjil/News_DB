@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T02:30:03.181432+00:00",
-  "count": 2028,
+  "updated": "2026-08-21T02:44:48.896282+00:00",
+  "count": 2030,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -820,6 +820,58 @@
         }
       ],
       "_attAt": "2026-08-21T01:59:43.308176+00:00"
+    },
+    {
+      "title": "태국산 이음매 없는 동관에 덤핑방지관세가 부과된다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775104",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "재정경제부는 태국에서 우리나라로 수입되는 이음매 없는 동관(이하 \"부과대상 물품\")에 대해 덤핑방지관세를 부과하기로 결정했다.※ 자세한 내용은 첨부를 참고하여 주시기 바랍니다. 문의. 재정경제부 관세정책관 산업관세과 김성우 (044-215-4462)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528257&tblKey=GMN",
+          "filename": "★260821 태국산 이음매 없는 동관 덤핑방지관세 부과.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528258&tblKey=GMN",
+          "filename": "★260821 태국산 이음매 없는 동관 덤핑방지관세 부과.hwp"
+        }
+      ],
+      "_attAt": "2026-08-21T02:44:42.140678+00:00"
+    },
+    {
+      "title": "제1차 재정운용전략협의회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775105",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "기획예산처는 '26.8.21.(금) 오전 10시 정부서울청사에서 박홍근 장관 주재로 제1차 재정운용전략협의회를 개최하였습니다. 자세한 내용은 첨부자료를 참고해 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528261&tblKey=GMN",
+          "filename": "2. (안건) 제1차 재정운용전략협의회.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528259&tblKey=GMN",
+          "filename": "1. (보도자료) 제1차 재정운용전략협의회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528260&tblKey=GMN",
+          "filename": "1. (보도자료) 제1차 재정운용전략협의회.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528262&tblKey=GMN",
+          "filename": "2. (안건) 제1차 재정운용전략협의회.pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T02:44:42.140678+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
