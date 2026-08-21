@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T04:44:43.402414+00:00",
-  "count": 2030,
+  "updated": "2026-08-21T04:59:50.064801+00:00",
+  "count": 2033,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -876,6 +876,64 @@
         }
       ],
       "_attAt": "2026-08-21T02:44:42.140678+00:00"
+    },
+    {
+      "title": "\"경찰관의 정신건강, 이제 조직이 책임집니다.\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775110",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "\"경찰관의 정신건강, 이제 조직이 책임집니다.\" 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528289&tblKey=GMN",
+          "filename": "260821(조간용) 경찰동료 자살예방 종합대책 시행계획 추진(복지정책).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528290&tblKey=GMN",
+          "filename": "260821(조간용) 경찰동료 자살예방 종합대책 시행계획 추진(복지정책).pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T04:59:42.527954+00:00"
+    },
+    {
+      "title": "경찰청, 르완다와 치안협력 업무협약 체결… 아프리카 치안협력 네트워크 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775109",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "경찰청, 르완다와 치안협력 업무협약 체결… 아프리카 치안협력 네트워크 확대 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528287&tblKey=GMN",
+          "filename": "260820(1700) 한-르완다 치안총수회담 및 MOU 체결(국제협력).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528288&tblKey=GMN",
+          "filename": "260820(1700) 한-르완다 치안총수회담 및 MOU 체결(국제협력).pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T04:59:42.527954+00:00"
+    },
+    {
+      "title": "소방청, 조직문화 진단 결과 공개… 상호존중·공정성 중심 개선 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775107",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "﻿﻿소방청, 조직문화 진단 결과 공개… 상호존중·공정성 중심 개선 추진- 전국 소방공무원 1만 6천여 명 참여…부조리 경험·제도 신뢰도 등 종합 분석- 상호존중·건전한 회식문화 기준(가이드라인) 등 개선 방안 담아…9월 종합대책 마련소방청은 조직 내 불합리한 관행과 조직문화 전반의 취약요인을 객관적으로 확인하기 위해 실시한 '소방 조직문화 진단 설문조사' 분석 결과를 공개​했다고 밝혔다.이번 조사는 구성원들이 현장에서 경험하는 부조리 유형과 대응 방식, 감찰·제보 체계에 대한 인식 등을 종합적으로 살펴 조직문화 개선이 필요한 분야를",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528282&tblKey=GMN",
+          "filename": "(8. 21. 보도자료) 소방청%2C 조직문화 진단 결과 공개… 상호존중·공정성 중심 개선 추진.hwp"
+        }
+      ],
+      "_attAt": "2026-08-21T04:59:42.527954+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
