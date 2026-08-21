@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T09:59:44.783546+00:00",
-  "count": 2054,
+  "updated": "2026-08-21T10:14:49.783689+00:00",
+  "count": 2055,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -141,8 +141,8 @@
           "filename": "(8. 21. 조간 보도자료) 소방청%2C 국가 반도체 초대형 사업(메가 프로젝트) ‘실행력 강화’ 전격 추진.hwpx"
         }
       ],
-      "_attAt": "2026-08-21T04:14:42.341871+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-21T10:14:44.006314+00:00",
+      "_attRev": 2
     },
     {
       "title": "'유미의 세포들'과 함께 방 탈출로 탄소중립 실천하자",
@@ -1399,6 +1399,27 @@
         }
       ],
       "_attAt": "2026-08-21T09:29:42.154607+00:00"
+    },
+    {
+      "title": "[설명] 정부는 공공임대주택 불법전대 등 위법 행위에 대해 엄중히 조치하겠습니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775143",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "[설명] 정부는 공공임대주택 불법전대 등 위법 행위에 대해 엄중히 조치하겠습니다 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528543&tblKey=GMN",
+          "filename": "260821(설명) 정부는 공공임대주택 불법전대 등 위법 행위에 대해 엄중히 조치하겠습니다(주거복지지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528544&tblKey=GMN",
+          "filename": "260821(설명) 정부는 공공임대주택 불법전대 등 위법 행위에 대해 엄중히 조치하겠습니다(주거복지지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T10:14:44.006314+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
