@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T12:59:45.659065+00:00",
-  "count": 2057,
+  "updated": "2026-08-21T13:14:46.351921+00:00",
+  "count": 2058,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1481,6 +1481,27 @@
         }
       ],
       "_attAt": "2026-08-21T11:44:41.260264+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 주택공급 관련 서울 구청장 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775146",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "한총리, 서울 지역 구청장들과 주택 공급 확대 및 속도 제고 방안 논의 - 한성숙 국무총리, 서울 21개 구청장과 주택 공급 간담회 개최□ 한성숙 국무총리는 8월 21일(금) 19시 서울 삼청동 국무총리 공관에서 서울 지역 구청장 등과 주택 공급 확대 및 속도 제고 방안에 대해 논의하였다. * (참석) 국토부 1차관, 종로·용산·성동·동대문·중랑·성북·강북·도봉·노원·서대문·마포·강서·구로·금천·영등포·동작·관악·서초·강남·송파·강동구청장(25개구 중 21개구) ㅇ 금일 간담회는 신속한 주택 공급에 방점을 둔 '주택 신속공급방안'과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528556&tblKey=GMN",
+          "filename": "260821 주택 공급 관련 서울 구청장 간담회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528557&tblKey=GMN",
+          "filename": "260821 주택 공급 관련 서울 구청장 간담회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T13:14:42.593971+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
