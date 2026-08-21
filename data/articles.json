@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T09:14:42.979469+00:00",
-  "count": 2053,
+  "updated": "2026-08-21T09:29:46.667135+00:00",
+  "count": 2054,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1378,6 +1378,27 @@
         }
       ],
       "_attAt": "2026-08-21T08:29:41.938501+00:00"
+    },
+    {
+      "title": "8.15.~18. 호우 피해 특별재난지역 우선 선포",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775142",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-21T00:00:00+09:00",
+      "description": "- 경상남도 거제시와 통영시의 산양읍·봉평동 대상 특별재난지역 우선 선포- 이후 중앙합동조사단의 정밀조사를 거쳐 추가 선포 예정 정부는 오늘(21일), 지난 8월 15일부터 18일까지 이어진 집중호우로 피해가 발생한 경남 거제시와 통영시의 산양읍·봉평동에 대하여 대통령 재가를 받아 특별재난지역으로 우선 선포하였다. 이번 집중호우로 거제 956.1㎜, 통영 766.9㎜의 비가 쏟아지는 등(거제 시간당 최대 124.5㎜) 기상관측 이래 최대 강수량을 기록하였다. 이로 인해 인명피해와 주택·학교·전통시장 침수, 도로 파손·산사태 등 상당",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528540&tblKey=GMN",
+          "filename": "260821 (즉시) 8.15.~18. 호우 피해지역 특별재난지역 우선 선포(복구지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528541&tblKey=GMN",
+          "filename": "260821 (즉시) 8.15.~18. 호우 피해지역 특별재난지역 우선 선포(복구지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-21T09:29:42.154607+00:00"
     },
     {
       "title": "2025년 도시계획현황 통계",
