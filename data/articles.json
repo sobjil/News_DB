@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T10:29:45.329789+00:00",
-  "count": 1936,
+  "updated": "2026-08-22T10:44:47.127143+00:00",
+  "count": 1937,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,6 +98,27 @@
         }
       ],
       "_attAt": "2026-08-22T08:59:41.231857+00:00"
+    },
+    {
+      "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775158",
+      "agency": "재외동포청",
+      "agencyCode": "oka",
+      "pubDate": "2026-08-22T00:00:00+09:00",
+      "description": "재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다.1. 기사 내용□ 2026.8.22.(토) 조선일보 \"李 한마디에 재외동포센터 해산... 직원들 실직 불안에 육아휴직도 철회\" 제하 기사 관련• 오는 9월30일 재외동포협력센터가 문을 닫는다. (중략) 센터의 업무와 재산은 재외동포청이 승계한다. 하지만 센터 직원 36명이 동포청으로 자리를 옮기려면 이달 진행되는 국가공무원 경력경쟁 채용 시험을 통과해야 한다.2. 재외동포청 입장□ 공공기관간 통합이 아니라 정부부처로 통합되는 것으로 국민의 공무담임권을 침해할",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528632&tblKey=GMN",
+          "filename": "보도설명자료_재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다..pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528631&tblKey=GMN",
+          "filename": "보도설명자료_재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. .hwp"
+        }
+      ],
+      "_attAt": "2026-08-22T10:44:43.740360+00:00"
     },
     {
       "title": "2025년도 첨단모빌리티 현황조사 결과",
