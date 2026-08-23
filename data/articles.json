@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T23:41:43.659824+00:00",
-  "count": 1878,
+  "updated": "2026-08-23T23:56:47.773203+00:00",
+  "count": 1880,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -197,6 +197,48 @@
         }
       ],
       "_attAt": "2026-08-23T23:26:42.305577+00:00"
+    },
+    {
+      "title": "전남광주 해남군 인근 규모 3.1 지진 관련, 원자로시설 안전에는 영향 없는 것으로 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775213",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "전남광주 해남군 인근 규모 3.1 지진 관련,원자로시설 안전에는 영향 없는 것으로 확인- 약 83.2km 떨어진 전남광주 영광군 한빛원전 지진계측값 0.0032g - 긴급 현장 안전점검에서도 특이사항 없어 원자력안전위원회(위원장 최원호, 이하 원안위)는 8월 23일 6시 43분 전남광주 해남군 서북서쪽 21km 지역에서 발생한 규모 3.1의 지진(6시 47분 기상청 발표)과 관련하여, 국내 모든 원자로시설의 안전성에는 이상이 없음을 확인하였다. 진앙에서 가장 가까운 거리에 있는 시설은 약 83.2km 떨어진 한빛 원자력발전소로 이번",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528858&tblKey=GMN",
+          "filename": "260823_전남 영광 인근 규모 3.1 지진 관련 원자로시설 안전에는 영향 없는 것으로 확인_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528857&tblKey=GMN",
+          "filename": "260823_전남 영광 인근 규모 3.1 지진 관련 원자로시설 안전에는 영향 없는 것으로 확인_보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T23:56:41.880218+00:00"
+    },
+    {
+      "title": "\"스포츠 현장에 청렴의 가치를 더한다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775212",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "\"스포츠 현장에 청렴의 가치를 더한다\" - 국민권익위 소속 국가청렴권익교육원-대한체육회, 오늘(24일) 대한체육회 고위직·관리자 대상 반부패·청렴교육 공동 개최 □ 국민권익위원회(위원장 정일연, 이하 국민권익위) 소속 국가청렴권익교육원과 대한체육회는 오늘(24일) 올림픽파크텔 대한체육회 회의실에서 대한체육회 고위직·관리자를 대상으로 반부패·청렴교육을 공동 개최한다. □ 이번 교육은 대한체육회 산하 회원종목단체 회장 선거를 비롯한 체육단체의 민주적 운영 등 체육행정 개혁에 대한 국민적 관심이 높아진 가운데, 대한체육회를 이끄는 고위직",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528855&tblKey=GMN",
+          "filename": "(260824) 스포츠 현장에 청렴의 가치를 더한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528856&tblKey=GMN",
+          "filename": "(260824) 스포츠 현장에 청렴의 가치를 더한다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T23:56:41.880218+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
