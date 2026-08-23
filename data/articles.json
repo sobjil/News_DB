@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T09:29:49.756143+00:00",
-  "count": 1873,
+  "updated": "2026-08-23T09:44:45.363464+00:00",
+  "count": 1874,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -573,6 +573,27 @@
         }
       ],
       "_attAt": "2026-08-23T07:14:41.333641+00:00"
+    },
+    {
+      "title": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775203",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-08-23T00:00:00+09:00",
+      "description": "재정경제부는 제159차 대외경제협력기금(EDCF) 운용위원회를 서면 개최하고, 탄자니아 AI·디지털 기술교육기관 건립 사업 승인안과 EDCF 운용관리규정 개정안 등을 의결하였다. ※ 자세한 내용은 첨부를 참고하여 주시기 바랍니다. 문의. 재정경제부 개발금융국 개발사업협력과 이민영 (044-215-8744)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528816&tblKey=GMN",
+          "filename": "260823_(보도자료) 대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI디지털 기술교육기관 건립(1.7억불) 승인.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528815&tblKey=GMN",
+          "filename": "260823_(보도자료) 대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI디지털 기술교육기관 건립(1.7억불) 승인.hwp"
+        }
+      ],
+      "_attAt": "2026-08-23T09:44:40.885704+00:00"
     },
     {
       "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다",
