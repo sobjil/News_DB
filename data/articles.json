@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T06:44:42.081727+00:00",
-  "count": 1869,
+  "updated": "2026-08-23T06:59:47.863914+00:00",
+  "count": 1871,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -474,6 +474,53 @@
         }
       ],
       "_attAt": "2026-08-23T04:59:43.993994+00:00"
+    },
+    {
+      "title": "난임치료휴가, 11월부터 '유급기간 4일로 확대'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775189",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-23T00:00:00+09:00",
+      "description": "- 연간 휴가 6일 중 유급 2일 → 4일, 급여 상한 16만 8천원 → 33만 7천원- 눈치 보지 않고 사용할 수 있도록 기업 우수사례 담은 활용 가이드 발간 고용노동부(장관 김영훈)는 노동자의 난임치료휴가제도 이용을 돕고, 사업주 및 인사담당자가 관련 제도를 손쉽게 운영할 수 있도록 「사업주와 인사담당자를 위한 난임치료휴가 활용 가이드」 소책자를 발간했다. 현재 난임치료휴가는 연간 최대 6일까지 사용할 수 있는 법정휴가로, 오는 11월 27일부터는 유급 기간이 2일에서 4일로 확대된다. 이번 가이드에는 이처럼 변경되는 제도 내용",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528776&tblKey=GMN",
+          "filename": "260824_보도자료_사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용 가이드 배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528774&tblKey=GMN",
+          "filename": "260824_보도자료_사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용 가이드 배포.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528775&tblKey=GMN",
+          "filename": "(별첨) 사업주와 인사담당자를 위한 난임치료휴가 및 급여제도 활용가이드(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T06:59:40.769357+00:00"
+    },
+    {
+      "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775188",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-23T00:00:00+09:00",
+      "description": "- 개정 형사소송법 대비 「노동감독관 수사역량 강화 교육계획」 발표- 신규감독관 「수사학교」 첫 적용 완료, 관리자 890명 토론식 워크숍 착수 고용노동부(장관 김영훈)는 24일 세종에서 전국 기관장 대상 수사지휘 워크숍을 개최하고, 노동감독관 수사역량 강화 교육계획을 발표했다. 오는 10월 개정 형사소송법 시행에 따라 검사의 수사지휘권이 폐지되므로, 감독관이 수사 전 과정을 스스로 판단하고 책임질 수 있도록 역량을 강화한다는 취지다. 교육계획은 ①신규감독관 배치 전 실무교육 강화, ②재직감독관 수사전문성 제고, ③중층적 수사관리체",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528773&tblKey=GMN",
+          "filename": "260823_보도자료_노동감독관 수사역량 강화를 위한 교육 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528772&tblKey=GMN",
+          "filename": "260823_보도자료_노동감독관 수사역량 강화를 위한 교육 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T06:59:40.769357+00:00"
     },
     {
       "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다",
