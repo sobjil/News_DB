@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T21:11:43.948808+00:00",
-  "count": 1870,
+  "updated": "2026-08-23T21:26:46.147243+00:00",
+  "count": 1871,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "국민과 함께 섬진강 생태계 가치 재조명",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775204",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "▷ 8월 24일부터 학생, 시민단체, 전문가와 함께 섬진강 조사 시작기후에너지환경부 소속 국립환경과학원(원장 박연재)은 8월 24일부터 섬진강 일대에서 학생, 시민단체, 전문가와 함께 멸종위기 생물 현황과 서식 환경을 파악하는 '국민 참여형 생태계 조사'를 시작한다고 밝혔다. 섬진강은 뛰어난 생태적 가치에도 불구하고 그동안 4대강(한강·낙동강·금강·영산강)을 중심으로 진행되는 국내 대하천 생태계 조사에서 크게 주목받지 못했다. 이에 이번 조사는 다양한 국민의 참여를 통해 섬진강 자연 생태계의 우수성을 알리고 생태계 보전의 공감대를 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528830&tblKey=GMN",
+          "filename": "국민과 함께 섬진강 생태계 가치 재조명(보도자료)(과학원 8.24. ).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528831&tblKey=GMN",
+          "filename": "국민과 함께 섬진강 생태계 가치 재조명(보도자료)(과학원 8.24. ).pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T21:26:41.673168+00:00"
+    },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775159",
