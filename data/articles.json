@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T02:14:50.776303+00:00",
-  "count": 1856,
+  "updated": "2026-08-23T02:29:46.203859+00:00",
+  "count": 1857,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -191,6 +191,27 @@
         }
       ],
       "_attAt": "2026-08-23T02:14:42.135313+00:00"
+    },
+    {
+      "title": "해남군 소규모 지진 반복 발생에 따라 관계기관 대책회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775166",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-23T00:00:00+09:00",
+      "description": "- 지진 위기경보 수준 '관심' 단계에서 '주의'로 상향- 직접적 피해가 발생한 규모는 아니나, 연속 지진 반복에 따른 선제적 대응행정안전부(장관 윤호중)는 오늘(8월 23일) 06시 43분 전남광주통합특별시 해남군 지역에서 규모 3.1 지진이 발생함에 따라, 11시 부로 지진 위기경보 수준을 '관심'에서 '주의' 단계로 상향한다고 밝혔다. 이번 지진으로 해남군에서 최대진도 Ⅳ가 관측되었으며, 유감신고는 총 2건(06시 53분 기준, 해남1·신안1) 접수되었고, 피해신고는 없는 것으로 확인됐다. 다만, 해당 지역에서는 지난 8월 1",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528683&tblKey=GMN",
+          "filename": "260823 (즉시보도) 해남군 소규모 지진 반복 발생에 따라 관계기관 대책회의 개최(지진방재관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528682&tblKey=GMN",
+          "filename": "260823 (즉시보도) 해남군 소규모 지진 반복 발생에 따라 관계기관 대책회의 개최(지진방재관리과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T02:29:42.004189+00:00"
     },
     {
       "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다",
