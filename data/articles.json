@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T23:59:41.759697+00:00",
-  "count": 1850,
+  "updated": "2026-08-23T00:14:44.945700+00:00",
+  "count": 1851,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "데이터로 읽는 우리 교육 제12호 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775159",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-23T00:00:00+09:00",
+      "description": "데이터로 읽는 우리 교육 제12호 발간- 재외교육기관포털에서 만나는 한국학교와 한국교육원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528662&tblKey=GMN",
+          "filename": "[교육부 08-24(월) 조간 보도참고자료] 데이터로 읽는 우리 교육 제12호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528663&tblKey=GMN",
+          "filename": "[별첨] 데이터로 읽는 우리 교육 2026년 제12호_재외교육기관포털에서 만나는 한국학교와 한국교육원.pdf"
+        }
+      ],
+      "_attAt": "2026-08-23T00:14:40.934053+00:00"
+    },
     {
       "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775149",
