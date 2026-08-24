@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T05:50:44.177649+00:00",
-  "count": 1931,
+  "updated": "2026-08-24T06:05:51.523315+00:00",
+  "count": 1933,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -224,7 +224,8 @@
           "filename": "260823_전남 영광 인근 규모 3.1 지진 관련 원자로시설 안전에는 영향 없는 것으로 확인_보도자료.pdf"
         }
       ],
-      "_attAt": "2026-08-23T23:56:41.880218+00:00"
+      "_attAt": "2026-08-24T06:05:42.516418+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"스포츠 현장에 청렴의 가치를 더한다\"",
@@ -236,16 +237,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528855&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528894&tblKey=GMN",
           "filename": "(260824) 스포츠 현장에 청렴의 가치를 더한다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528856&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528895&tblKey=GMN",
           "filename": "(260824) 스포츠 현장에 청렴의 가치를 더한다.pdf"
         }
       ],
-      "_attAt": "2026-08-23T23:56:41.880218+00:00"
+      "_attAt": "2026-08-24T06:05:42.516418+00:00",
+      "_attRev": 1
     },
     {
       "title": "「2026 의료관련감염 예방관리주간」 의료기관 대상 공모전 개최(8.24.월)",
@@ -1317,6 +1319,48 @@
         }
       ],
       "_attAt": "2026-08-24T05:35:43.612822+00:00"
+    },
+    {
+      "title": "K-푸드 열풍 타고! 동포 청년 대상 맞춤형 직업훈련 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775289",
+      "agency": "재외동포청",
+      "agencyCode": "oka",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "K-푸드 열풍 타고! 동포 청년 대상 맞춤형 직업훈련 개시- 한국어교육과 직업훈련 결합한 단계별 지원체계 구축【관련 국정과제】 123. 재외국민 안전과 편익 증진 및 재외동포 지원 강화(국내 체류 동포 지원 강화)□ 재외동포청 김경협 청장은 8월 24일「동포청년 취업지원사업」개소식을 개최하고, 동포청년의 직업 역량 강화와 국내 취업·정착을 지원하기 위한 교육과정을 본격적으로 운영한다고 밝혔다.ㅇ 이번 사업은 동포청이 한국어교육과 직업훈련을 연계해 동포청년의 국가자격증 취득과 국내 취업·정착을 지원하는 첫 사업이다.ㅇ 특히 전 세계적",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529195&tblKey=GMN",
+          "filename": "260824_K-푸드 열풍 타고! 동포 청년 대상 맞춤형 직업훈련 개시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529196&tblKey=GMN",
+          "filename": "260824_K-푸드 열풍 타고! 동포 청년 대상 맞춤형 직업훈련 개시.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T06:05:42.516418+00:00"
+    },
+    {
+      "title": "나토(NATO) 표준 신청·제공·관리 절차 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775288",
+      "agency": "방위사업청",
+      "agencyCode": "dapa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "- 「나토 표준 제공 및 관리 지침」 제정- 나토 표준 신속 제공으로 국내 방산기업의 나토 시장 진출 지원방위사업청(청장 이용철)은 8월 24일(월) 「나토 표준 제공 및 관리 지침」을 제정하여 국내기업·연구기관·정부기관 등이 나토 표준을 요청하고 제공받을 수 있는 절차와 보안관리 기준을 최초로 마련했습니다.나토 표준은 국내 기업 등이 나토 회원국과의 무기체계 상호운용성을 확보하고 인증·시험 등을 수행하는 데 필요한 기준으로, 나토 회원국 대상 수출과 국제 공동 연구개발사업 참여에 중요한 요소입니다.최근 한-나토 정상회의를 계기로 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529191&tblKey=GMN",
+          "filename": "260824 [방사청 보도자료] 「나토 표준 제공 및 관리 지침」 제정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529192&tblKey=GMN",
+          "filename": "260824 [방사청 보도자료] 「나토 표준 제공 및 관리 지침」 제정.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T06:05:42.516418+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
