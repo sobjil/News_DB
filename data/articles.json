@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T04:01:46.262498+00:00",
-  "count": 1926,
+  "updated": "2026-08-24T04:16:48.193614+00:00",
+  "count": 1927,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1206,6 +1206,27 @@
         }
       ],
       "_attAt": "2026-08-24T03:16:43.127360+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, \"경찰 실종사건 전수조사 철저히 진행, 실종사건 수사체계 쇄신\" 지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775278",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "한성숙 국무총리, \"경찰 실종사건 전수조사 철저히 진행, 실종사건 수사체계 쇄신\" 지시□ 한성숙 국무총리는 오늘(8.24), 최근 연이은 제주 실종사건 부실대응과 관련하여, 국민들의 우려가 매우 큰 상황임을 지적하고 경찰청에 다음과 같이 지시하였다.ㅇ 현재 경찰청이 착수한 \"전국 실종사건 전수조사\"를 한 치의 빈틈없이 철저히 진행하고, 부당·불법 처리사례가 확인될 경우 일벌백계 차원에서 엄중하게 조치할 것ㅇ 전수조사를 통해 현장의 제도적 미비점을 면밀히 파악하고, 사건 처리와 종결 담당자를 분리하는 등 시스템 개선에 속도를 내어 실",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529125&tblKey=GMN",
+          "filename": "260824 경찰 실종수사 전수조사 철저히 진행, 뼈를 깎는 쇄신_국무총리 지시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529126&tblKey=GMN",
+          "filename": "260824 경찰 실종수사 전수조사 철저히 진행, 뼈를 깎는 쇄신_국무총리 지시.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T04:16:43.841842+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
