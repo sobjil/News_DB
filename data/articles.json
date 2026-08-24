@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T02:16:57.703028+00:00",
-  "count": 1910,
+  "updated": "2026-08-24T02:31:47.416358+00:00",
+  "count": 1911,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -879,6 +879,27 @@
         }
       ],
       "_attAt": "2026-08-24T02:16:41.192677+00:00"
+    },
+    {
+      "title": "AI로 여는 대한민국의 미래, 전북에서 한바탕 펼치다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775257",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "보도자료보도시점2026. 8. 24.(월) 11:00 8.25(화) 조간 배포2026 8. 24(월)AI로 여는 대한민국의 미래, 전북에서 한바탕 펼치다- 「제52회 국가품질혁신경진대회」 개최 산업통상부 국가기술표준원(원장 김대자)과 전북특별자치도(도지사 이원택), 전주시(시장 조지훈)가 공동 주최하고 한국표준협회(회장 문동민)가 주관하는 '제52회 국가품질혁신경진대회'가 '26.8.24.(월)부터 8.28.(금)까지 5일간 한국소리문화의전당에서 열린다. 경진대회 개요 ◈ 일정 · 장소 : '26.8.24.(월) ~ 8.28.(금)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529029&tblKey=GMN",
+          "filename": "0824(25조간)시험인증정책과, AI로 여는 대한민국의 미래, 전북에서 한바탕 펼치다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529028&tblKey=GMN",
+          "filename": "0824(25조간)시험인증정책과, AI로 여는 대한민국의 미래, 전북에서 한바탕 펼치다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T02:31:42.874350+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
