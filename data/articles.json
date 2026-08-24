@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T06:50:51.690693+00:00",
-  "count": 1938,
+  "updated": "2026-08-24T07:05:52.631127+00:00",
+  "count": 1939,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -523,11 +523,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528926&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528944&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 일상 가까운 숲에서 마음 건강 찾는다...보건 산림복지 융합형 서비스 시동-국립산림과학원 지역 정신건강복지센터와 손잡고 중장년 남성의 활력 지원.hwpx"
         }
       ],
-      "_attAt": "2026-08-24T00:56:43.040121+00:00"
+      "_attAt": "2026-08-24T07:05:43.514593+00:00",
+      "_attRev": 1
     },
     {
       "title": "「선불식 할부거래에서의 소비자보호 지침」 개정안 행정예고",
@@ -553,7 +554,8 @@
           "filename": "260824(참고) 선불식 할부거래에서의 소비자보호 지침 개정안 행정예고.hwp"
         }
       ],
-      "_attAt": "2026-08-24T01:05:27.154011+00:00"
+      "_attAt": "2026-08-24T07:05:43.514593+00:00",
+      "_attRev": 1
     },
     {
       "title": "「제1회 국민통합 문학공모전」 시상식 26일 개최",
@@ -574,7 +576,8 @@
           "filename": "「제1회 국민통합 문학공모전」 시상식 26일 개최.hwp"
         }
       ],
-      "_attAt": "2026-08-24T01:05:27.154011+00:00"
+      "_attAt": "2026-08-24T07:05:43.514593+00:00",
+      "_attRev": 1
     },
     {
       "title": "임정기념관 김구 탄생 150주년 기념 미디어특별전 개최",
@@ -1478,6 +1481,27 @@
         }
       ],
       "_attAt": "2026-08-24T06:50:43.892119+00:00"
+    },
+    {
+      "title": "경찰, 고속도로 터널 안전 정밀점검 사고 예방 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775296",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "경찰, 고속도로 터널 안전 정밀점검 사고 예방 총력 대응 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529258&tblKey=GMN",
+          "filename": "260825(조간용) 경찰청 터널 안전 합동점검 고속도로 사고 예방 총력 대응(교통안전).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529257&tblKey=GMN",
+          "filename": "260825(조간용) 경찰청 터널 안전 합동점검 고속도로 사고 예방 총력 대응(교통안전).pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T07:05:43.514593+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
