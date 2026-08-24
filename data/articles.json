@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T23:24:48.324828+00:00",
-  "count": 1941,
+  "updated": "2026-08-24T23:39:47.410344+00:00",
+  "count": 1942,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -181,6 +181,27 @@
         }
       ],
       "_attAt": "2026-08-24T23:24:42.382993+00:00"
+    },
+    {
+      "title": "고의적인 양육비 미지급 처벌 강화한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775342",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "고의적인 양육비 미지급 처벌 강화한다제52차 양육비이행심의위원회 개최, 형사처벌 강화·유예기간 단축 등 제도개선 추진- 출국금지 117건, 운전면허 정지 142건, 명단공개 63건 등 제재 의결 -□ 성평등가족부(장관 원민경)는 24일(월) 오전 정부서울청사에서 제52차 양육비이행심의위원회를 열어 양육비 채무 이행 확보 제도개선안 추진을 의결하고, 양육비 채무 불이행자 322건에 대한 제재조치를 결정했다고 밝혔다. □ 이번 제도개선안은 양육비가 한부모가족 미성년 자녀의 안정적인 생활과 건강한 성장에 직결되는 만큼 고의적인 양육비 미",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529541&tblKey=GMN",
+          "filename": "260824_보도자료_제52차양육비이행심의위원회 개최_최종배포본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529540&tblKey=GMN",
+          "filename": "260824_보도자료_제52차양육비이행심의위원회 개최_최종배포본.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T23:39:43.690136+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
