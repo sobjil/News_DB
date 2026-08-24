@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T02:46:48.325792+00:00",
-  "count": 1913,
+  "updated": "2026-08-24T03:01:49.303818+00:00",
+  "count": 1916,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -952,6 +952,54 @@
         }
       ],
       "_attAt": "2026-08-24T02:46:41.812497+00:00"
+    },
+    {
+      "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775263",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "- 인간의 존엄성·사회의 공공선·인류의 지속가능성 등 3대 가치와 7대 원칙 제시- 공급자·이용자·정부·사회 등 모든 주체의 공동 실천 강조 - 해설서·자율점검표 등 후속 조치 추진, 국제사회에도 공유·확산 예정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529074&tblKey=GMN",
+          "filename": "260825 조간 (보도참고) 정부, 대한민국 인공지능 윤리원칙 제정.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-24T03:01:42.531969+00:00"
+    },
+    {
+      "title": "신산업 규제, 생성형 인공지능으로 빠르고 간편하게 확인한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775262",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "- 과기정통부, 인공지능을 활용한「정보통신기술 규제 유예제도 (ICT 규제샌드박스) 규제 신속 확인 서비스」개시 - 30개 기업 대상 시범 운영을 거쳐 8월 25일부터 희망 기업에 이용권 제공",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529072&tblKey=GMN",
+          "filename": "260825 조간 (보도) 신산업 규제, 생성형 AI로 빠르고 간편하게 확인한다.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-24T03:01:42.531969+00:00"
+    },
+    {
+      "title": "미래기술의 씨앗을 성장동력으로첨단기술 실증·사업화와 인공지능 신뢰 기반 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775261",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "- 배경훈 부총리, 제12회 과학기술관계장관회의 개최- 국산 자율주행 인공지능의 조기 상용화를 위한 자율주행 인공지능 실증 및 상용화 단계별 이행안(로드맵) 수립- 안전하고 신뢰할 수 있는 인공지능 기본사회 구현을 위한 「대한민국 인공지능 윤리원칙」 제정- 과학기술인의 도전적 성장을 지원하는 심층 기술(딥테크) 창업 생태계 조성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529070&tblKey=GMN",
+          "filename": "260825 조간 (보도) 제12회 과학기술관계장관회의 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-24T03:01:42.531969+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
