@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T06:20:53.168914+00:00",
-  "count": 1935,
+  "updated": "2026-08-24T06:35:56.275071+00:00",
+  "count": 1937,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -325,16 +325,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528898&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528911&tblKey=GMN",
           "filename": "20260824(최종배포)우리 곁을 지키는 자랑스러운 사회복무요원을 찾습니다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528899&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528912&tblKey=GMN",
           "filename": "20260824(최종배포)우리 곁을 지키는 자랑스러운 사회복무요원을 찾습니다.pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "병무청, 호우 피해 관련 병역의무 이행일자 연기 및 병력동원훈련 면제",
@@ -355,7 +356,8 @@
           "filename": "20260822(최종배포)병무청 호우 피해 관련 병역의무 이행일자 연기 및 병력동원훈련 면제.pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "생활 속 안전 실천을 기록하는 「2026년 어린이 안전일기 공모전」 개최",
@@ -376,7 +378,8 @@
           "filename": "260824 (조간) 생활 속 안전 실천을 기록하는 2026년 어린이 안전일기 공모전 개최(안전문화교육과).pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "새 학기에도 안심하고 등교하도록, 학교 주변 위해요소 집중 점검",
@@ -397,7 +400,8 @@
           "filename": "260824 (조간) 새 학기에도 안심하고 등교하도록 학교 주변 위해요소 집중 점검(안전개선과).pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "「고유가 피해지원금」 8월 31일까지 꼭 사용하세요",
@@ -418,7 +422,8 @@
           "filename": "260824 (조간) 고유가 피해지원금 8월 31일까지 꼭 사용하세요(재정정책과).pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "복잡한 표·그림 대신 고품질 텍스트로 행안부, 인공지능(AI) 친화적 보고서 전면 도입",
@@ -439,7 +444,8 @@
           "filename": "260824 (조간) 복잡한 표·그림 대신 고품질 텍스트로 행안부 인공지능(AI) 친화적 보고서 전면 도입(혁신행정담당관).pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:26:42.397606+00:00"
+      "_attAt": "2026-08-24T06:35:43.211305+00:00",
+      "_attRev": 1
     },
     {
       "title": "구술심리 녹음파일, 이제 현장에서 바로 발급받는다",
@@ -1406,6 +1412,48 @@
         }
       ],
       "_attAt": "2026-08-24T06:20:41.732094+00:00"
+    },
+    {
+      "title": "제5차 한중 정보통신기술(ICT) 협력 전략대화 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775294",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "- 지난 1월 한·중 정상회담의 후속 조치를 이행- 한·중 정보통신기술(ICT) 협력 전략대화를 재개하여 양국 정보통신기술(ICT) 정책을 공유",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529233&tblKey=GMN",
+          "filename": "260825 조간 (보도) 제5차 한중 ICT 협력 전략대화 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-24T06:35:43.211305+00:00"
+    },
+    {
+      "title": "2027년 목재펠릿 보일러·난로 추가 신청 시작",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775293",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "2027년 목재펠릿 보일러·난로 추가 신청 시작- 8월 31일까지 목재펠릿 보일러·난로 지원사업 추가 공고 - 산림청(청장 박은식)은 '2027년도 목재펠릿 보일러·난로 보급 지원사업'에 대한 추가 접수를 진행한다고 24일 밝혔다. 본 지원사업은 본격적인 추위가 시작되는 겨울철(1~2월)에 맞춰 목재펠릿 보일러·난로를 설치 받을 수 있도록 실제 사용 전년도에 미리 신청을 받는 선제적인 방식으로 운영된다. 이에 따라 지난 4월 추진된 1차 신청 접수에 이어 추가 신청 접수를 받는다. 신청 자격은 목재펠릿연소기를 자부담 설치 후 5년간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529228&tblKey=GMN",
+          "filename": "(260824)보도자료-목재펠릿_연소기_보급사업_추가_신청_시작.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529230&tblKey=GMN",
+          "filename": "(260824)보도자료-목재펠릿_연소기_보급사업_추가_신청_시작.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529229&tblKey=GMN",
+          "filename": "(260824)보도자료-목재펠릿_연소기_보급사업_추가_신청_시작.hwp"
+        }
+      ],
+      "_attAt": "2026-08-24T06:35:43.211305+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
