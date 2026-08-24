@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T08:35:45.951037+00:00",
-  "count": 1944,
+  "updated": "2026-08-24T08:50:50.243416+00:00",
+  "count": 1945,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -951,16 +951,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529062&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529068&tblKey=GMN",
           "filename": "260824 (통일부 보도자료) &#039;평화공존 정책과 남북인권협력 국제회의&#039; 개최(8.25.).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529061&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529067&tblKey=GMN",
           "filename": "260824 (통일부 보도자료) &#039;평화공존 정책과 남북인권협력 국제회의&#039; 개최(8.25.).hwp"
         }
       ],
-      "_attAt": "2026-08-24T02:46:41.812497+00:00"
+      "_attAt": "2026-08-24T08:50:43.149594+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"한국형 돌봄, 기술혁신으로 인구 위기 극복\" 저고위, APEC서 인구 위기 국가들의 '이정표' 제시",
@@ -991,7 +992,8 @@
           "filename": "[저출산고령사회위원회](8.24.(월) 배포 즉시 보도) 김진오 부위원장, 2026 APEC 인구정책포럼 개회사.pdf"
         }
       ],
-      "_attAt": "2026-08-24T02:46:41.812497+00:00"
+      "_attAt": "2026-08-24T08:50:43.149594+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정",
@@ -1623,6 +1625,27 @@
         }
       ],
       "_attAt": "2026-08-24T07:50:42.655363+00:00"
+    },
+    {
+      "title": "한멕 외교장관 회담 및 오찬 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775305",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "조현 외교부 장관은 8.24.(월) 11:00~13:30 간 우리나라를 공식 방문한 로베르토 벨라스코 알바레스 멕시코 외교장관과 회담 및 오찬을 갖고, 양국이 올해 지속되고 있는 고위급 교류의 모멘텀을 바탕으로 경제, 미래 첨단산업, 문화, 인적 교류 등 다양한 분야에서 전략적 동반자 관계의 새 지평을 열어나가고 있다고 평가했다. ※ 2026년 한-멕시코 고위급 교류 주요 현황 : (2월) 외교장관 회담 (4월) 외교장관 통화 (5월) 정상 통화 (6월) 대통령 특사 멕시코 방문 및 셰인바움 대통령 예방 (7월) 제8차 차관급 고위",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529349&tblKey=GMN",
+          "filename": "[26-676](보도자료) 한멕 외교장관 회담 및 오찬 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529350&tblKey=GMN",
+          "filename": "[26-676](보도자료) 한멕 외교장관 회담 및 오찬 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T08:50:43.149594+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
