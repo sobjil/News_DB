@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T04:32:45.724750+00:00",
-  "count": 1929,
+  "updated": "2026-08-24T04:47:48.111658+00:00",
+  "count": 1930,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -136,7 +136,8 @@
           "filename": "260823 (보도자료) 바다 안전, 국민 아이디어로 더 가까이... 해경청, 「2026년 해양안전 콘텐츠 공모전」 개최.hwp"
         }
       ],
-      "_attAt": "2026-08-23T22:41:43.595515+00:00"
+      "_attAt": "2026-08-24T04:47:43.127467+00:00",
+      "_attRev": 1
     },
     {
       "title": "국민이 만들고, 국민이 뽑은 '우리동네 프로젝트' 브랜드 이미지, 일상 속 문화의 얼굴로",
@@ -1271,6 +1272,27 @@
         }
       ],
       "_attAt": "2026-08-24T04:31:43.157220+00:00"
+    },
+    {
+      "title": "「2026 APEC 인구정책 포럼」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775284",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "외교부는 8.24.(월) 중국 대련에서 「2026 APEC 인구정책 포럼」을 개최하였다. 이번 포럼은 2025년 경주 APEC 정상회의에서 채택된 「APEC 인구구조 변화 대응 공동 프레임워크」의 후속 조치이다. APEC 제3차 고위관리회의(SOM3) 계기 개최된 이번 포럼에는 APEC 회원 정부 관계자, 국제기구, 학계 및 민간 전문가 등 인구 이슈를 다루는 각계 인사들이 참석하여 '인구구조 변화 대응을 위한 기술 활용: 아시아·태평양 지역의 성장, 시장 확대, 경제활동 참여 촉진'을 주제로 인구구조 변화를 바라보는 새로운 시각을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529145&tblKey=GMN",
+          "filename": "[26-675](보도자료) 「2026 APEC 인구정책 포럼」 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529146&tblKey=GMN",
+          "filename": "[26-675](보도자료) 「2026 APEC 인구정책 포럼」 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T04:47:43.127467+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
