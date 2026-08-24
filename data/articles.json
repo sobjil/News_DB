@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T20:50:43.672356+00:00",
-  "count": 1935,
+  "updated": "2026-08-24T21:05:51.540375+00:00",
+  "count": 1936,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775336",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529525&tblKey=GMN",
+          "filename": "260825(석간) 다자녀가구 철도자격시험(기관사·관제사) 수수료 50퍼센트 감면(철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529526&tblKey=GMN",
+          "filename": "260825(석간) 다자녀가구 철도자격시험(기관사·관제사) 수수료 50퍼센트 감면(철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T21:05:43.074883+00:00"
+    },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775204",
@@ -960,8 +981,8 @@
           "filename": "260824 (통일부 보도자료) &#039;평화공존 정책과 남북인권협력 국제회의&#039; 개최(8.25.).hwp"
         }
       ],
-      "_attAt": "2026-08-24T14:50:45.882186+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-24T21:05:43.074883+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"한국형 돌봄, 기술혁신으로 인구 위기 극복\" 저고위, APEC서 인구 위기 국가들의 '이정표' 제시",
@@ -992,8 +1013,8 @@
           "filename": "[저출산고령사회위원회](8.24.(월) 배포 즉시 보도) 김진오 부위원장, 2026 APEC 인구정책포럼 개회사.pdf"
         }
       ],
-      "_attAt": "2026-08-24T14:50:45.882186+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-24T21:05:43.074883+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정",
@@ -1676,8 +1697,8 @@
           "filename": "[26-676](보도자료) 한멕 외교장관 회담 및 오찬 결과.pdf"
         }
       ],
-      "_attAt": "2026-08-24T14:50:45.882186+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-24T21:05:43.074883+00:00",
+      "_attRev": 2
     },
     {
       "title": "2026년 제30차 위원회 결과",
