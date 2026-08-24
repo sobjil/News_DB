@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T23:09:43.841904+00:00",
-  "count": 1939,
+  "updated": "2026-08-24T23:24:48.324828+00:00",
+  "count": 1941,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -139,6 +139,48 @@
         }
       ],
       "_attAt": "2026-08-24T23:07:40.991361+00:00"
+    },
+    {
+      "title": "식약처, 식품위생법 위반 이력 업체 등 위생 취약시설 점검...7곳 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775340",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "식약처, 식품위생법 위반 이력 업체 등 위생 취약시설 점검...7곳 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529536&tblKey=GMN",
+          "filename": "[26.8.25.(화) 보도자료] 식약처, 식품위생법 위반 이력 업체 등 위생 취약시설 점검...7곳 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529537&tblKey=GMN",
+          "filename": "[26.8.25.(화) 보도자료] 식약처, 식품위생법 위반 이력 업체 등 위생 취약시설 점검...7곳 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T23:24:42.382993+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 콘택트렌즈 온라인 불법 해외직구·부당광고 108건 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775341",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 콘택트렌즈 온라인 불법 해외직구·부당광고 108건 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529538&tblKey=GMN",
+          "filename": "[26.8.25.(화) 보도참고자료] 식약처, 콘택트렌즈 온라인 불법 해외직구·부당광고 108건 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529539&tblKey=GMN",
+          "filename": "[26.8.25.(화) 보도참고자료] 식약처, 콘택트렌즈 온라인 불법 해외직구·부당광고 108건 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T23:24:42.382993+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
