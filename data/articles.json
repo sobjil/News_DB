@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T06:05:51.523315+00:00",
-  "count": 1933,
+  "updated": "2026-08-24T06:20:53.168914+00:00",
+  "count": 1935,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -259,16 +259,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528865&tblKey=GMN",
-          "filename": "[8.24.보도참고자료] 「2026 의료관련감염 예방관리주간」 의료기관 대상 공모전 개최.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198529167&tblKey=GMN",
+          "filename": "[8.24.보도참고자료] 2026 의료관련감염 예방관리 주간 의료기관 대상 공모전 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198528866&tblKey=GMN",
-          "filename": "[8.24.보도참고자료] 「2026 의료관련감염 예방관리주간」 의료기관 대상 공모전 개최.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198529168&tblKey=GMN",
+          "filename": "[8.24.보도참고자료] 2026 의료관련감염 예방관리 주간 의료기관 대상 공모전 개최.pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:11:41.709075+00:00"
+      "_attAt": "2026-08-24T06:20:41.732094+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 2027년 건강기능식품 기능성 원료 재평가 대상 10종 선정",
@@ -289,7 +290,8 @@
           "filename": "[26.8.24.(월) 보도참고자료] 식약처, 2027년 건강기능식품 기능성 원료 재평가 대상 10종 선정.pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:11:41.709075+00:00"
+      "_attAt": "2026-08-24T06:20:41.732094+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 맞춤형 건강기능식품 판매업체 점검 실시",
@@ -310,7 +312,8 @@
           "filename": "[26.8.24.(월) 보도참고자료] 식약처, 맞춤형 건강기능식품 판매업체 점검 실시.pdf"
         }
       ],
-      "_attAt": "2026-08-24T00:11:41.709075+00:00"
+      "_attAt": "2026-08-24T06:20:41.732094+00:00",
+      "_attRev": 1
     },
     {
       "title": "우리 곁을 지키는 자랑스러운 사회복무요원을 찾습니다",
@@ -1361,6 +1364,48 @@
         }
       ],
       "_attAt": "2026-08-24T06:05:42.516418+00:00"
+    },
+    {
+      "title": "조달청·외교부·KOTRA, 시리아 재건시장 선점 나선다… UNDP와 손잡고 공동 설명회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775291",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "조달청·외교부·KOTRA, 시리아 재건시장 선점 나선다… UNDP와 손잡고 공동 설명회 - UNDP와 함께 「UNDP와의 파트너십을 통한 시리아 사업 참여 설명회」 개최 - 시리아 재건논의 본격화에 따라 시리아 경제동향, 재건시장 전망에 이어, 국제기구 조달시장 진출 설명과 1:1 상담까지…국내기업 70개사 참여 조달청(청장 백승보)은 24일 외교부·대한무역투자진흥공사(KOTRA)·유엔개발계획(UNDP)과 함께 「UNDP와의 파트너십을 통한 시리아 사업 참여 설명회(ROK-UNDP Partnership: Strengthening P",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529221&tblKey=GMN",
+          "filename": "260824_(보도자료)_조달청·외교부·KOTRA 시리아 재건시장 선점 나선다_배포용.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529222&tblKey=GMN",
+          "filename": "260824_(보도자료)_조달청·외교부·KOTRA 시리아 재건시장 선점 나선다_배포용.hwp"
+        }
+      ],
+      "_attAt": "2026-08-24T06:20:41.732094+00:00"
+    },
+    {
+      "title": "개인정보위, 2026년 공공기관 개인정보 보호수준 평가단 위촉",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775290",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "개인정보위, 2026년 공공기관 개인정보 보호수준 평가단 위촉- 공공기관 총 1,458개 기관 대상, 100명의 전문가 평가단이 평가 수행개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는「2026 개인정보 보호수준 평가단(이하 '평가단')」을 구성하고 8월 24일(월), 평가단 위촉식을 개최하였다. '개인정보 보호수준 평가'(이하 '보호수준 평가')는 공공기관의 개인정보 보호 역량을 종합적으로 진단하고, 미흡한 부분에 대한 개선을 유도하는 제도이다. 2026년에는 중앙행정기관 및 산하공공기관, 지방자치단체 및 지방공기업 등 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529213&tblKey=GMN",
+          "filename": "[260824 15시보도] 2026년 공공기관 개인정보 보호수준 평가단 위촉(자율보호정책과)_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529212&tblKey=GMN",
+          "filename": "[260824 15시보도] 2026년 공공기관 개인정보 보호수준 평가단 위촉(자율보호정책과)_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T06:20:41.732094+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
