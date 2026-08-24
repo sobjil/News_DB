@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T10:05:43.381686+00:00",
-  "count": 1946,
+  "updated": "2026-08-24T10:20:48.129853+00:00",
+  "count": 1947,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1271,16 +1271,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529125&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529153&tblKey=GMN",
           "filename": "260824 경찰 실종수사 전수조사 철저히 진행, 뼈를 깎는 쇄신_국무총리 지시.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529126&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529154&tblKey=GMN",
           "filename": "260824 경찰 실종수사 전수조사 철저히 진행, 뼈를 깎는 쇄신_국무총리 지시.pdf"
         }
       ],
-      "_attAt": "2026-08-24T04:16:43.841842+00:00"
+      "_attAt": "2026-08-24T10:20:41.935035+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"주민이 체감하는 사회공헌 활동 만든다\" 한국장애인고용공단 등 성남시 공공기관 9곳, 2026년 협력과제 선정",
@@ -1685,6 +1686,27 @@
         }
       ],
       "_attAt": "2026-08-24T09:05:42.508595+00:00"
+    },
+    {
+      "title": "제2차관, AI 공급망 기업 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775330",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "AI가 갖는 전략적 중요성이 커지는 가운데, 외교부는 AI 공급망 관련 기업들과 간담회를 개최하고, 국내외 AI 관련 기업들의 글로벌 경쟁력 강화 및 국제협력 방안을 논의하였다. 이번 간담회에는 과기부, 산업부 등 관계부처와 함께 AI 반도체, AI 안전, 통신, AI모델 분야의 주요 우리 기업들이 참여하였다. 참석자들은 AI 생태계의 중요성이 날로 커지고 있다고 평가하면서 우리 산업 경쟁력을 확보하면서도 신뢰할 수 있는 유사입장국과 협력을 위한 노력이 중요하다는 데에 공감하였다. 김진아 제2차관은 AI 생태계 관련 개별 국가들이 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529478&tblKey=GMN",
+          "filename": "[26-677](보도자료) 제2차관, AI 공급망 기업 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529479&tblKey=GMN",
+          "filename": "[26-677](보도자료) 제2차관, AI 공급망 기업 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T10:20:41.935035+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
