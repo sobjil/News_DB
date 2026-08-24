@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T00:56:47.721567+00:00",
-  "count": 1893,
+  "updated": "2026-08-24T01:05:32.859166+00:00",
+  "count": 1895,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -507,6 +507,53 @@
         }
       ],
       "_attAt": "2026-08-24T00:56:43.040121+00:00"
+    },
+    {
+      "title": "「선불식 할부거래에서의 소비자보호 지침」 개정안 행정예고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775233",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "「선불식 할부거래에서의 소비자보호 지침」 개정안 행정예고- 선수금의 건전한 운용을 위한 기본방향 및 자율점검 체계 확립 -공정거래위원회(위원장 주병기, 이하 '공정위')는 상조회사 등 선불식 할부거래업자의 건전한 선수금 운용을 위한 기본방향 및 선불식 할부거래업자의 자율점검 체계를 확립하는 내용의「선불식 할부거래에서의 소비자보호 지침」(이하 '소비자보호 지침') 개정안을 마련하여 8월 24일부터 9월 14일까지 20일간 행정예고를 실시한다. 소비자보호 지침은 ｢할부거래에 관한 법률(이하 '할부거래법')｣ 제27조의3에 따라 할부거래",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528930&tblKey=GMN",
+          "filename": "260824(참고) 선불식 할부거래에서의 소비자보호 지침 개정안 행정예고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528931&tblKey=GMN",
+          "filename": "260824(참고) 선불식 할부거래에서의 소비자보호 지침 개정안 행정예고.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528929&tblKey=GMN",
+          "filename": "260824(참고) 선불식 할부거래에서의 소비자보호 지침 개정안 행정예고.hwp"
+        }
+      ],
+      "_attAt": "2026-08-24T01:05:27.154011+00:00"
+    },
+    {
+      "title": "「제1회 국민통합 문학공모전」 시상식 26일 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775234",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528936&tblKey=GMN",
+          "filename": "「제1회 국민통합 문학공모전」 시상식 26일 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198528935&tblKey=GMN",
+          "filename": "「제1회 국민통합 문학공모전」 시상식 26일 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-08-24T01:05:27.154011+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
