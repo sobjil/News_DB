@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T14:50:50.817982+00:00",
-  "count": 1947,
+  "updated": "2026-08-24T15:05:57.837202+00:00",
+  "count": 1932,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1009,8 +1009,8 @@
           "filename": "260825 조간 (보도참고) 정부, 대한민국 인공지능 윤리원칙 제정.hwpx"
         }
       ],
-      "_attAt": "2026-08-24T09:05:42.508595+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-24T15:05:47.266616+00:00",
+      "_attRev": 2
     },
     {
       "title": "신산업 규제, 생성형 인공지능으로 빠르고 간편하게 확인한다",
@@ -1026,8 +1026,8 @@
           "filename": "260825 조간 (보도) 신산업 규제, 생성형 AI로 빠르고 간편하게 확인한다.hwpx"
         }
       ],
-      "_attAt": "2026-08-24T09:05:42.508595+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-24T15:05:47.266616+00:00",
+      "_attRev": 2
     },
     {
       "title": "미래기술의 씨앗을 성장동력으로첨단기술 실증·사업화와 인공지능 신뢰 기반 논의",
@@ -1043,8 +1043,8 @@
           "filename": "260825 조간 (보도) 제12회 과학기술관계장관회의 개최.hwpx"
         }
       ],
-      "_attAt": "2026-08-24T09:05:42.508595+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-24T15:05:47.266616+00:00",
+      "_attRev": 2
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 대학생 모의 창업 프로그램 개최",
@@ -1689,21 +1689,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529446&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529464&tblKey=GMN",
           "filename": "제30차 위원회 결과 (서면)브리핑(260824).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529447&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529465&tblKey=GMN",
           "filename": "제30차 위원회 결과 (서면)브리핑(260824).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529448&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529466&tblKey=GMN",
           "filename": "제30차 위원회 결과 (서면)브리핑(260824).hwp"
         }
       ],
-      "_attAt": "2026-08-24T09:05:42.508595+00:00"
+      "_attAt": "2026-08-24T15:05:47.266616+00:00",
+      "_attRev": 1
     },
     {
       "title": "제2차관, AI 공급망 기업 간담회 개최",
@@ -1725,6 +1726,27 @@
         }
       ],
       "_attAt": "2026-08-24T10:20:41.935035+00:00"
+    },
+    {
+      "title": "한미 외교장관 통화(8.24.) 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775331",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-24T00:00:00+09:00",
+      "description": "조현 외교부 장관은 8.24.(월) 늦은 저녁 마르코 루비오(Marco Rubio) 美 국무장관과 통화를 갖고, △한미관계 △한반도 문제 △글로벌 정세 등에 대해 의견을 교환하였다. 양 장관은 최근 국제정세 변화의 움직임 속에서 한미간 긴밀한 소통이 그 어느 때 보다 중요하다는 공감대를 확인하였다. 양 장관은 관세 및 투자 합의, 조선, 안보 협력을 비롯한 양국간 다양한 현안 관련해서도 호혜적인 성과를 도출하여 한미관계를 한층 더 격상시킬 수 있도록 지혜를 모으자고 하였다. 또한, 양 장관은 굳건한 한미 연합방위태세를 유지하는 가운",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529497&tblKey=GMN",
+          "filename": "[26-678](보도자료)한미 외교장관 통화(8.24.) 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529498&tblKey=GMN",
+          "filename": "[26-678](보도자료)한미 외교장관 통화(8.24.) 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-08-24T15:05:47.266616+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
@@ -42943,388 +42965,6 @@
       ],
       "_attAt": "2026-08-04T23:16:04.731961+00:00",
       "_attRev": 3
-    },
-    {
-      "title": "데이터로 읽는 우리 교육 제10호 발간: 진로교육 현황조사 10년, 무엇이 달라졌나",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772143",
-      "agency": "교육부",
-      "agencyCode": "moe",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "데이터로 읽는 우리 교육 제10호 발간: 진로교육 현황조사 10년, 무엇이 달라졌나",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514315&tblKey=GMN",
-          "filename": "[교육부 07-27(월) 조간 보도참고자료] ?데이터로 읽는 우리 교육? 제10호 발간.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514316&tblKey=GMN",
-          "filename": "[별첨] 「데이터로 읽는 우리 교육」 2026년 제10호_진로교육 현황조사 10년 무엇이 달라졌나.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "건축사 자격제도, 2032년까지 단계적 개편",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772150",
-      "agency": "국토교통부",
-      "agencyCode": "molit",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "건축사 자격제도, 2032년까지 단계적 개편 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514343&tblKey=GMN",
-          "filename": "260727(조간) 건축사 자격제도, 2032년까지 단계적 개편(건축문화경관과.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514344&tblKey=GMN",
-          "filename": "260727(조간) 건축사 자격제도, 2032년까지 단계적 개편(건축문화경관과.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "친환경인증선박 보급지원사업 참여 선사 모집",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772149",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "친환경인증선박 보급지원사업 참여 선사 모집 - 7. 27.∼10. 30. 친환경선박 건조비용 최대 30% 지원 해양수산부(장관 황종우)는 국내 중소형 연안선사의 친환경선박* 건조를 지원하기 위해 7월 27일(월)부터 10월 30일(금)까지 '친환경인증선박 보급지원사업'에 참여할 선사를 모집한다고 밝혔다. * 기술난이도, 연료종류별 사용비율, 대기오염물질 저감률, 설비 국산화율 등을 고려 등급 부여(1~5등급) 해양수산부는 우리나라의 탄소중립 노력에 발맞춰 국내 연안선박의 친환경전환을 지원하는 '친환경인증선박 보급지원사업'을 추진하고",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514342&tblKey=GMN",
-          "filename": "260727(조간) 친환경인증선박 보급지원사업 참여 선사 모집(해사산업기술과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514341&tblKey=GMN",
-          "filename": "260727(조간) 친환경인증선박 보급지원사업 참여 선사 모집(해사산업기술과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "미래 과학자 꿈 키우는 북극 청소년 체험단 출발",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772148",
-      "agency": "해양수산부",
-      "agencyCode": "mof",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "미래 과학자 꿈 키우는 북극 청소년 체험단 출발- 21C 다산주니어, 북극 다산과학기지 방문 및 다양한 연구활동 체험 해양수산부(장관 황종우)는 청소년 북극연구체험단 '21C 다산주니어'가 7월 26일(일)부터 8월 2일(일)까지 6박 8일간의 일정을 시작한다고 밝혔다. 21C 다산주니어는 미래 극지과학자를 꿈꾸는 청소년들이 북극 연구현장을 직접 경험할 수 있는 기회를 제공하고자 마련되었으며, 다산과학기지*가 위치한 니알슨 과학기지촌**을 방문하는 국내 유일한 청소년 프로그램이다. 2005년 시작된 이래 올해로 20회째를 맞이했으며",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514340&tblKey=GMN",
-          "filename": "260727(조간) 미래 과학자 꿈 키우는 북극 청소년 체험단 출발(해양개발과).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514339&tblKey=GMN",
-          "filename": "260727(조간) 미래 과학자 꿈 키우는 북극 청소년 체험단 출발(해양개발과).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "세계를 사로잡을 국가대표 김치 선발",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772147",
-      "agency": "농림축산식품부",
-      "agencyCode": "mafra",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 \"제15회 대한민국 김치품평회(이하 '김치품평회')\"에서 농업회사법인 본가㈜의 '본가 총각김치' 등 9개 제품을 올해 수상작으로 선정·발표하였다. 김치품평회는 농식품부와 한국농수산식품유통공사가 공동주최하고 세계김치연구소가 주관하는 대회로 국산 김치의 품질 향상과 산업경쟁력 강화를 위해 올해로 15회째 개최되었다. 수상 제품은 단순 맛 평가를 넘어 작업장 위생 관리, 안전성, 국산 원료 사용 등을 종합적으로 평가하여 선발되었다. 특히 올해는 수출 경쟁력을 갖춘 우수 김치를 발굴하기 위",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514337&tblKey=GMN",
-          "filename": "(식품산업정책관-식품외식산업과)세계를 사로잡을 국가대표 김치 선발(7.26 11시).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514336&tblKey=GMN",
-          "filename": "(식품산업정책관-식품외식산업과)세계를 사로잡을 국가대표 김치 선발(7.26 11시).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514338&tblKey=GMN",
-          "filename": "(식품산업정책관-식품외식산업과)세계를 사로잡을 국가대표 김치 선발(7.26 11시).hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "농식품부, 홍콩과 닭고기 등 수출 재개 협상 완료!",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772146",
-      "agency": "농림축산식품부",
-      "agencyCode": "mafra",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 2026년 7월 20일자로 우리나라 닭고기, 계란 등 신선 가금제품의 홍콩 수출 재개를 위한 검역협상이 완료되어 수출이 다시 가능해졌다고 밝혔다. 가금제품의 홍콩 수출은 작년 6월부터 발생한 고병원성 조류인플루엔자의 영향으로 발생 시·군 단위로 중단되었으나, 농식품부는 일부 지역의 방역 상황이 해제된 2026년 3월부터 신속한 수출 재개를 위해 홍콩 정부(식품환경위생서)와 수출 재개를 위한 검역협상을 진행해 왔다. 이번 협상 타결로 그간 홍콩 수출이 중단되었던 36개* 시·군 모두 ",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514334&tblKey=GMN",
-          "filename": "(국제농식품협력관-검역정책과) 농식품부 홍콩과 닭고기 등 수출 재개 협상 완료(7.27. 11시).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514333&tblKey=GMN",
-          "filename": "(국제농식품협력관-검역정책과) 농식품부 홍콩과 닭고기 등 수출 재개 협상 완료(7.27. 11시).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514335&tblKey=GMN",
-          "filename": "(국제농식품협력관-검역정책과) 농식품부 홍콩과 닭고기 등 수출 재개 협상 완료(7.27. 11시).hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "농식품부, 지난 4월 저온 피해 등 농업재해 피해 농가에 재해복구비 지원",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772145",
-      "agency": "농림축산식품부",
-      "agencyCode": "mafra",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "농림축산식품부(장관 송미령, 이하 농식품부)는 지난 4월 이상 저온과 이상고온 및 6월 11일 우박 피해를 입은 농업인들에게 재해복구비 및 금융 지원을 실시할 계획이라고 밝혔다. 지난 4월 7일부터 4월 8일까지와 4월 21일 이상 저온으로 인해 전국적으로 배, 사과, 복숭아, 포도 등 과수작물 10,174.4ha에 착과 불량 등의 피해가 발생하였으며, 3~4월 이상 고온과 잦은 강수로 인해 마늘 주산지인 전남광주, 경남북 지역에서 996.7ha의 벌마늘* 피해가 발생하였다. * 겨울철~초봄 평균기온 상승 및 강수량 과다 등으로 마",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514331&tblKey=GMN",
-          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 피해 농가 재해복구비 지원 보도자료(7.26. 11시).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514330&tblKey=GMN",
-          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 피해 농가 재해복구비 지원 보도자료(7.26. 11시).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514332&tblKey=GMN",
-          "filename": "(농촌소득에너지정책관-농업재해지원팀) 농식품부 피해 농가 재해복구비 지원 보도자료(7.26. 11시).hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "농촌 교통도 AI 시대 '농촌 특화 수요맞춤형 교통모델' 실증 착수",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772144",
-      "agency": "농림축산식품부",
-      "agencyCode": "mafra",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 AI와 데이터를 기반으로 농촌 교통 문제의 새로운 해법을 모색하기 위해 '농촌 특화 AI 기반 수요맞춤형 교통모델' 실증사업을 추진한다. 또한, 원활한 실증 추진과 더불어 농촌의 교통여건 개선 등을 논의･협력하기 위해 기업, 연구기관, 지방정부 및 현장 전문가 등이 참여하는 '농촌 교통 정책 협의회'도 출범한다. 농식품부는 대중교통 미운행 지역 등 교통이 취약한 농촌 마을에 주민의 이동을 돕는 '농촌형 교통모델'을 2018년부터 추진해 왔다. 이를 통해, 전국 82개 군에서 소형버스",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514328&tblKey=GMN",
-          "filename": "(농촌정책국-농촌공간계획과) 농촌 교통도 AI시대 실증 착수 및 협의회 출범 보도자료(7.26 11시).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514327&tblKey=GMN",
-          "filename": "(농촌정책국-농촌공간계획과) 농촌 교통도 AI시대 실증 착수 및 협의회 출범 보도자료(7.26 11시).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514329&tblKey=GMN",
-          "filename": "(농촌정책국-농촌공간계획과) 농촌 교통도 AI시대 실증 착수 및 협의회 출범 보도자료(7.26 11시).hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "국립공원공단, 여름철 물놀이 안전관리 강화",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772156",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "▷ 6월 1일부터 8월 31일까지 물놀이 관리지역 전국 249곳 안전관리 집중▷ 사고우려가 높은 위험지역 출입통제 및 안전요원 배치로 사고 예방 강화기후에너지환경부 산하 국립공원공단(이사장 주대영)은 여름 휴가철을 맞아 계곡 및 해수욕장을 찾는 탐방객이 증가할 것으로 예상됨에 따라 8월 31일까지 전국 국립공원 물놀이 위험지역의 안전을 집중적으로 관리하겠다고 밝혔다.국립공원공단은 5월까지 물놀이 지역 249곳을 대상으로 물놀이 안전관리 실태점검을 완료하고 6월 1일부터 8월 31일까지 물놀이 사고 위험지역을 중심으로 안전시설 정비와",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514365&tblKey=GMN",
-          "filename": "(국립공원 7.26) 국립공원공단 여름철 물놀이 안전관리 강화(보도자료).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514366&tblKey=GMN",
-          "filename": "(국립공원 7.26) 국립공원공단 여름철 물놀이 안전관리 강화(보도자료).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "여러분의 '탈플라스틱' 일상을 30초에 담아 주세요",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772155",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "▷ 7월 27일부터 8월 23일까지 대한민국 국민이라면 누구나 참여 가능▷ 일상 속 탈플라스틱을 실천하는 모습을 30초 이내의 영상으로 제출기후에너지환경부(장관 김성환)는 오는 9월 4일 킨텍스(경기 고양시 소재)에서 열리는 '제18회 자원순환의 날*' 기념행사를 앞두고, 탈플라스틱 실천을 확산하기 위해 '탈플라스틱 국민 참여 짧은 영상 공모'를 실시한다고 밝혔다.* 국민들에게 자원순환에 대한 공감대를 확산시키기 위해 '09년부터 9월 6일을 「자원순환의 날」로 지정하고 매년 기념행사 추진이번 공모는 기후에너지환경부와 한국폐기물협회",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514363&tblKey=GMN",
-          "filename": "(자원순환 7.26) 여러분의 ‘탈플라스틱’ 일상을 30초에 담아 주세요(보도자료).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514364&tblKey=GMN",
-          "filename": "(자원순환 7.26) 여러분의 ‘탈플라스틱’ 일상을 30초에 담아 주세요(보도자료).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "승촌보, 죽산보 개방으로 영산강의 물흐름 하나로 연결한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772154",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "▷ 녹조계절관리제 연계, 승촌보·죽산보 7월 27일부터 8월 23일까지 동시 개방 추진▷ 영산강 수계 전체의 2개보(승촌보·죽산보) 보 추가 개방, 물흐름 개선기후에너지환경부(장관 김성환)는 녹조계절관리제 기간(5월 15일∼10월 15일)과 연계하여 7월 27일부터 8월 23일까지 영산강 승촌보·죽산보의 수문을 추가 개방한다고 밝혔다.※ ▲(승촌보) 전남광주통합특별시 남구 일원, 총 길이는 512m이며, 가동보와 고정보로 구성, ▲(죽산보) 나주시 다시면 일원, 총 길이는 184m이며, 가동보로 구성영산강 하류에 위치한 승촌보·죽산",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514361&tblKey=GMN",
-          "filename": "(물관리 7.26) 승촌보 죽산보 개방으로 영산강의 물흐름 하나로 연결한다(보도자료).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514362&tblKey=GMN",
-          "filename": "(물관리 7.26) 승촌보 죽산보 개방으로 영산강의 물흐름 하나로 연결한다(보도자료).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "기후부, 서울시 강북아리수정수센터에 국내 최초 정수장 위생안전 인증 부여",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772153",
-      "agency": "기후에너지환경부",
-      "agencyCode": "mcee",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "▷ 강북아리수정수센터, 정수장 위생안전 제도 시행이후 최초로 인증기준 통과기후에너지환경부(장관 김성환)는 서울특별시 및 한국상하수도협회와 7월 27일 오후 서울아리수본부 강북아리수정수센터(남양주시 삼패동 소재)에서 국내 최초로 '정수장 위생안전 인증'을 기념하여 현판식을 개최한다고 밝혔다. 이날 기념식에는 기후에너지환경부, 서울특별시 및 협회 관계자들이 참석하여 인증패 현판식과 함께 국내 최초로 정수장 위생안전 인증을 부여하고, 정수장 주요 시설의 위생안전 관리체계와 수돗물 생산 현장을 시찰할 계획이다.기후에너지환경부에서 도입한 '",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514359&tblKey=GMN",
-          "filename": "(수도기획 7.26) 기후부 서울시 강북아리수정수센터에 국내 최초 정수장 위생안전 인증 부여(보도자료).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514360&tblKey=GMN",
-          "filename": "(수도기획 7.26) 기후부 서울시 강북아리수정수센터에 국내 최초 정수장 위생안전 인증 부여(보도자료).pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "[7.27.월.조간] 조혈모세포이식 환자 국가예방접종 지원,전 연령으로 전면 확대",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772152",
-      "agency": "질병관리청",
-      "agencyCode": "kdca",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "조혈모세포이식 환자 국가예방접종 지원, 전 연령으로 전면 확대- 기존 12세 이하에서 전 연령으로 확대하여 면역저하자 건강 보호 강화 - 이식 후 면역력 재획득을 위해 철저한 예방접종 당부 질병관리청(청장 임승관)은 조혈모세포이식 환자의 감염병 예방 및 건강 보호를 위해, 기존 12세 이하에게만 지원되던 국가예방접종 비용 지원을 전 연령대로 전면 확대한다. 조혈모세포이식 환자는 강도 높은 면역억제 치료를 받아 기존에 획득했던 감염병 면역력이 대부분 소실된다. 따라서 건강한 사람 수준의 면역력을 다시 확보하고 합병증을 막으려면 체계적",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514357&tblKey=GMN",
-          "filename": "[7.27.월.조간] 조혈모세포이식 환자 국가예방접종 지원,전 연령으로 전면 확대.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514358&tblKey=GMN",
-          "filename": "[7.27.월.조간] 조혈모세포이식 환자 국가예방접종 지원,전 연령으로 전면 확대.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "파형관 입찰 담합 제재",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772151",
-      "agency": "공정거래위원회",
-      "agencyCode": "ftc",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "파형관 입찰 담합 제재- 한국전력공사 발주 파형관 구매입찰에서 담합한 3개 조합과 7개 사업자에 대해 시정명령 및 과징금(총 868백만원) 부과 -공정거래위원회(위원장 주병기, 이하 '공정위')는 2017년 11월부터 2023년 1월까지의 기간에 걸쳐, 한국전력공사가 발주한 394건의 파형관 구매 입찰에 대하여 사전에 낙찰예정자 및 낙찰물량비율을 합의한 한국합성수지파형관사업협동조합, 한국플라스틱기술연구사업협동조합, 한국피이관공업협동조합 등 3개 조합과 영진산업㈜, ㈜피앤아이, ㈜세진엔지니어링, ㈜신호, ㈜그린오토테크, ㈜코브인터내셔",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514349&tblKey=GMN",
-          "filename": "260727(조간) 파형관 입찰담합 제재.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514350&tblKey=GMN",
-          "filename": "260727(조간) 파형관 입찰담합 제재.pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514348&tblKey=GMN",
-          "filename": "260727(조간) 파형관 입찰담합 제재.hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "기상청 인사발령(4급 승진)",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772182",
-      "agency": "기상청",
-      "agencyCode": "kma",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "기상청 인사발령- 2026년 7월 27일 자 -□ 4급 승진ㅇ 수도권기상청 관측과장이혁제",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514551&tblKey=GMN",
-          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514553&tblKey=GMN",
-          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).pdf"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514552&tblKey=GMN",
-          "filename": "20260726_보도자료_기상청 인사발령(4급 승진).hwp"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
-    },
-    {
-      "title": "유엔군 참전의 날 기념식 27일 서울서 거행",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772190",
-      "agency": "국가보훈부",
-      "agencyCode": "mpva",
-      "pubDate": "2026-07-26T00:00:00+09:00",
-      "description": "유엔군 참전의 날 기념식 27일 서울서 거행",
-      "attachments": [
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514579&tblKey=GMN",
-          "filename": "260726 보도자료(유엔군 참전의 날 기념식 27일 서울서 거행)최종.hwpx"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198514580&tblKey=GMN",
-          "filename": "260726 보도자료(유엔군 참전의 날 기념식 27일 서울서 거행)최종.pdf"
-        }
-      ],
-      "_attRev": 3,
-      "_attAt": "2026-07-29T13:11:14.962581+00:00"
     }
   ]
 }
