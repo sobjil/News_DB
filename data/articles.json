@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T09:51:45.094387+00:00",
-  "count": 2022,
+  "updated": "2026-08-25T10:06:46.010676+00:00",
+  "count": 2023,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1921,6 +1921,27 @@
         }
       ],
       "_attAt": "2026-08-25T09:21:42.776466+00:00"
+    },
+    {
+      "title": "서부지방산림청, 산림유전자원보호구역 관리 강화로 산림생태계 보전",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775457",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "서부지방산림청, 산림유전자원보호구역 관리 강화로 산림생태계 보전- 산림유전자원보호구역 단속 및 탐방로 정비사업 등 관리 강화 -서부지방산림청(청장 김인천)은 산림생태계와 희귀 식물자원을 체계적으로 보전하기 위해 서부지방산림청 관할 내 산림유전자원보호구역(6,460ha, 여의도 면적 22배)의 관리를 강화한다고 밝혔다.산림유전자원보호구역은 식물의 유전자와 종 또는 산림생태계의 보전을 위해 특별히 보호가 필요한 지역으로, 주요 산림자원의 보전을 위해 상시 단속 강화 및 기반시설 정비 등을 추진한다.특히, 서부지방산림청에서 운영하고 있는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530167&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 산림유전자원보호구역 관리 강화로 산림생태계 보전).hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530166&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 산림유전자원보호구역 관리 강화로 산림생태계 보전).hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T10:06:41.553306+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
