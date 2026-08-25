@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T06:21:56.342750+00:00",
-  "count": 2006,
+  "updated": "2026-08-25T06:36:57.266364+00:00",
+  "count": 2009,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -335,11 +335,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529586&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529728&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료)여름철 산불도 방심은 금물… 올여름 토양·낙엽 수분 대폭 감소.hwpx"
         }
       ],
-      "_attAt": "2026-08-25T00:24:41.746898+00:00"
+      "_attAt": "2026-08-25T06:36:42.802197+00:00",
+      "_attRev": 1
     },
     {
       "title": "알바생 노동권 침해부터 간호사 '태움'까지..... 노동교육이 바꿉니다 전 생애 노동교육을 위한 '지역 단위 노동교육 협의체', 전남에서 첫발 떼",
@@ -360,7 +361,8 @@
           "filename": "260825_보도자료_생애주기별 노동교육 지역단위 협의체 사업 본격 추진.pdf"
         }
       ],
-      "_attAt": "2026-08-25T00:24:41.746898+00:00"
+      "_attAt": "2026-08-25T06:36:42.802197+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 거제·통영 등 폭우피해의 신속 복구를 위한 긴급 조달지원",
@@ -381,7 +383,8 @@
           "filename": "260825_(보도자료)_조달청 거제·통영 등 폭우피해 신속한 복구를 위한 긴급 조달지원 실시_배포용.hwp"
         }
       ],
-      "_attAt": "2026-08-25T00:24:41.746898+00:00"
+      "_attAt": "2026-08-25T06:36:42.802197+00:00",
+      "_attRev": 1
     },
     {
       "title": "세계 최초 환경·해양위성 계보, 더 정밀해진 천리안위성 6호가 잇는다",
@@ -393,16 +396,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529565&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529631&tblKey=GMN",
           "filename": "세계 최초 환경·해양위성 계보 더 정밀해진 천리안위성 6호가 잇는다(보도자료)(과학원 8.25.).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529566&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529632&tblKey=GMN",
           "filename": "세계 최초 환경·해양위성 계보 더 정밀해진 천리안위성 6호가 잇는다(보도자료)(과학원 8.25.).pdf"
         }
       ],
-      "_attAt": "2026-08-25T00:24:41.746898+00:00"
+      "_attAt": "2026-08-25T06:36:42.802197+00:00",
+      "_attRev": 1
     },
     {
       "title": "기후위기 속 우리 숲 지킨다…국립산림과학원, 산림 기후적응 기술 공개 - 2026 하계 한국산림과학회 특별세션서 아고산 침엽수 보전·임가 피해 절감 기술 발표",
@@ -1563,6 +1567,64 @@
         }
       ],
       "_attAt": "2026-08-25T06:21:43.180691+00:00"
+    },
+    {
+      "title": "[참고] GTX C노선 실시협약 변경(안) 민간투자사업심의위원회 통과 하반기 착공 목표에 한 걸음 더",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775434",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "[참고] GTX C노선 실시협약 변경(안) 민간투자사업심의위원회 통과 하반기 착공 목표에 한 걸음 더 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529920&tblKey=GMN",
+          "filename": "260825(참고) GTX C노선 민투심 통과 하반기 착공 목표에 한 걸음 더(광역급행철도건설과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529921&tblKey=GMN",
+          "filename": "260825(참고) GTX C노선 민투심 통과 하반기 착공 목표에 한 걸음 더(광역급행철도건설과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T06:36:42.802197+00:00"
+    },
+    {
+      "title": "대한민국 ICT 보안의 미래, '송파 ICT 보안 클러스터' 1단계 사업 착공",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775433",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 국가 ICT 보안 역량 강화 및 디지털 산업의 새로운 성장 거점 조성- 1단계 사업, 총사업비 609억원을 투입하여 2029년 상반기 완공 예정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529918&tblKey=GMN",
+          "filename": "260825 조간 (보도) 대한민국 ICT 보안의 미래, 송파 ICT 보안 클러스터 1단계 사업 착공.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T06:36:42.802197+00:00"
+    },
+    {
+      "title": "7월 보이스피싱 피해액 올해 최저, 신종 스캠도 감소세 뚜렷",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775432",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "7월 보이스피싱 피해액 올해 최저, 신종 스캠도 감소세 뚜렷 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529917&tblKey=GMN",
+          "filename": "260826(조간용) 7월 보이스피싱 피해액 올해 최저, 신종 스캠도 감소세 뚜렷(통합대응단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529916&tblKey=GMN",
+          "filename": "260826(조간용) 7월 보이스피싱 피해액 올해 최저, 신종 스캠도 감소세 뚜렷(통합대응단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T06:36:42.802197+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
