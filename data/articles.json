@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T01:54:51.424992+00:00",
-  "count": 1966,
+  "updated": "2026-08-25T02:09:52.483879+00:00",
+  "count": 1971,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -314,7 +314,7 @@
       "_attAt": "2026-08-25T00:09:42.425398+00:00"
     },
     {
-      "title": "\"여름철 산불도 방심은 금물\"...올여름 토양·낙엽 수분 대폭 감소 - 국립산림과학원, 유럽 대형산불 이어 국내도 여름철 산불 위험 신호 포착",
+      "title": "여름철 산불도 방심은 금물...올여름 토양·낙엽 수분 대폭 감소 - 국립산림과학원, 유럽 대형산불 이어 국내도 여름철 산불 위험 신호 포착",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775353",
       "agency": "산림청",
       "agencyCode": "forest",
@@ -706,6 +706,121 @@
         }
       ],
       "_attAt": "2026-08-25T01:54:43.079819+00:00"
+    },
+    {
+      "title": "인천 노후계획도시정비 선도지구 1만 6,267호 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775381",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "인천 노후계획도시정비 선도지구 1만 6,267호 선정 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529717&tblKey=GMN",
+          "filename": "260826(조간)_인천_노후계획도시정비_선도지구_1만_6267호_선정(신도시정비기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529718&tblKey=GMN",
+          "filename": "260826(조간)_인천_노후계획도시정비_선도지구_1만_6267호_선정(신도시정비기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T02:09:41.975568+00:00"
+    },
+    {
+      "title": "농어촌 기본소득 시범사업 추가 선정 7개 군 8월 말 첫 지급 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775380",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 지난 6월 농어촌 기본소득 시범사업 대상지역으로 추가 선정된 7개 군(전남광주통합특별시 구례·보성, 강원특별자치도 화천, 충청북도 보은, 전북특별자치도 진안·무주, 경상북도 청송)에서 거주 주민들의 기본소득 신청접수가 마무리 단계로 실거주 조사 등 자격 확인을 거쳐 8월 28일부터 월 15만 원을 지역사랑상품권으로 첫 지급을 시작할 예정이라고 밝혔다. * 일부 군의 경우 자체 군비 추가분을 포함해 월 20만 원(구례, 보성, 청송)·월 16만 원(보은) 지급 ** 기존거주자는 7월분",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529715&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) 농어촌 기본소득 시범사업 추가 선정 7개 군 8월 말 첫 지급 개시(8.25. 11시 온라인).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529714&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) 농어촌 기본소득 시범사업 추가 선정 7개 군 8월 말 첫 지급 개시(8.25. 11시 온라인).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529716&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) 농어촌 기본소득 시범사업 추가 선정 7개 군 8월 말 첫 지급 개시(8.25. 11시 온라인).hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T02:09:41.975568+00:00"
+    },
+    {
+      "title": "국립종자원, 중남미 5개국에 '품종보호제도·재배심사기술' 전수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775379",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "국립종자원(원장 양주필)은 중남미 5개국(볼리비아, 에콰도르, 온두라스, 자메이카, 페루)의 농업 관계 공무원 12명을 초청하여 8월 23일부터 2주간 '품종보호제도 및 재배 심사기술 역량강화 연수'를 추진한다. 국제식물신품종보호연맹(UPOV)*은 우리나라가 품종보호제도를 성공적으로 정착시킨 점을 높이 평가하여 동 연수과정을 제안하였고, '07년부터 시작되어 지금까지 총 15회에 걸쳐 아시아·아프리카·중남미 33개국 203명이 참여해 왔다. * 국제식물신품종보호연맹(UPOV : Union for the Protection of Ne",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529712&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 중남미 5개국에 ‘품종보호제도‧재배심사기술’ 전수(8.25. 11시 온라인).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529711&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 중남미 5개국에 ‘품종보호제도‧재배심사기술’ 전수(8.25. 11시 온라인).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529713&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 중남미 5개국에 ‘품종보호제도‧재배심사기술’ 전수(8.25. 11시 온라인).hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T02:09:41.975568+00:00"
+    },
+    {
+      "title": "미래 금융 이끌 청년 IT 인재 양성,노동부-우리금융이 K-뉴딜 아카데미로 지원한다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775378",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "-우리은행, 우리카드 등 8개 계열사 협력, 금융IT 실무부터 취업 지원까지 패키지 지원-노동부 고용정책실장, 우리금융 K-뉴딜 아카데미 발대식 참석하여 격려 고용노동부 임영미 고용정책실장은 8월 25일(화), 우리은행 본점에서 열린 우리금융그룹의 K-뉴딜 아카데미 과정인 우리 WON 청년 IT 아카데미 발대식에 참석하여 아카데미 개설을 축하하고 교육생들을 격려했다. K-뉴딜 아카데미는 대기업 등이 주도하여 해당 기업에 특화된 분야의 직업능력개발훈련 및 다양한 프로그램을 설계운영함으로써 청년층의 역량을 향상시키고 노동시장에 진입할 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529708&tblKey=GMN",
+          "filename": "260825_보도자료_K-뉴딜 아카데미 발대식 방문(우리금융지주).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529709&tblKey=GMN",
+          "filename": "260825_보도자료_K-뉴딜 아카데미 발대식 방문(우리금융지주).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T02:09:41.975568+00:00"
+    },
+    {
+      "title": "국제표준부터 인공지능까지… 한·중 지식재산 정보화 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775377",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "국제표준부터 인공지능까지… 한·중 지식재산 정보화 협력 강화 - 제20차 한·중 지식재산 정보화 전문가 회의 개최 - 지식재산처(처장 김용선)는 8. 25.(화) 10시 정부대전청사(대전시 서구)에서 중국 지식재산국(CNIPA) 정보화 전문가들과 함께 「제20차 한·중 지식재산 정보화 전문가 회의」를 개최한다고 밝혔다. 한·중 지식재산 정보화 전문가 회의는 지난 2002년 한·중 특허청장 회담을 계기로 양국이 번갈아 개최해 온 협의체로, 지난 20여 년간 정보화 정책 및 시스템 구축 경험을 공유하며 기술 협력과 상호 발전을 이끌어 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529704&tblKey=GMN",
+          "filename": "266 [지식재산처] 국제표준부터 인공지능까지… 한·중 지식재산 정보화 협력 강화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529705&tblKey=GMN",
+          "filename": "266 [지식재산처] 국제표준부터 인공지능까지… 한·중 지식재산 정보화 협력 강화.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T02:09:41.975568+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
