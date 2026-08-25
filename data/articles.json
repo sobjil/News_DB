@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T20:51:50.133549+00:00",
-  "count": 1919,
+  "updated": "2026-08-25T21:06:47.842946+00:00",
+  "count": 1920,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775481",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "어린이는 추락, 노인은 낙상에 주의하세요!- 손상환자의 고령화, 80세 이상 내원 환자 비율 10년 사이 약 3배 증가- 손상 원인 1위 추락·낙상(40.0%), 추락은 10세 미만 어린이(45.4%), 낙상은 80세 이상 고령층(19.9%)에 집중- 중독 손상, 10명 중 7명(69.4%)은 의도적 중독물질 사용, 10~20대 급증- 안전벨트·헬멧 등 보호장비 미착용 시 사망 위험 2~3배 증가 질병관리청(청장 임승관)은 2025년 응급실에 내원한 손상환자 현황과 특성에 대한 조사결과를 담은 「2025 손상유형 및 원인 통계」를 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530232&tblKey=GMN",
+          "filename": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530231&tblKey=GMN",
+          "filename": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T21:06:43.449431+00:00"
+    },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775336",
