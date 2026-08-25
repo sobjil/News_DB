@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T23:21:59.154333+00:00",
-  "count": 1927,
+  "updated": "2026-08-25T23:36:50.053317+00:00",
+  "count": 1930,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -218,6 +218,69 @@
         }
       ],
       "_attAt": "2026-08-25T23:21:43.346480+00:00"
+    },
+    {
+      "title": "[설명] 용산어린이정원 이용객 관련 보도에 대해 설명드립니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775489",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "[설명] 용산어린이정원 이용객 관련 보도에 대해 설명드립니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530246&tblKey=GMN",
+          "filename": "260826(설명) 용산어린이정원 이용객 관련 보도에 대해 설명드립니다(공원운영과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530247&tblKey=GMN",
+          "filename": "260826(설명) 용산어린이정원 이용객 관련 보도에 대해 설명드립니다(공원운영과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T23:36:42.851274+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 동물대체시험법 학술대회 공동 개최로 글로벌 규제 선도",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775490",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 동물대체시험법 학술대회 공동 개최로 글로벌 규제 선도",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530248&tblKey=GMN",
+          "filename": "[26.8.26.(수) 보도참고자료] 식약처, 동물대체시험법 학술대회 공동 개최로 글로벌 규제 선도.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530249&tblKey=GMN",
+          "filename": "[26.8.26.(수) 보도참고자료] 식약처, 동물대체시험법 학술대회 공동 개최로 글로벌 규제 선도.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T23:36:42.851274+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 한약(생약)제제 허가 시 제출자료 간소화 제형 명확화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775491",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 한약(생약)제제 허가 시 제출자료 간소화 제형 명확화",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530250&tblKey=GMN",
+          "filename": "[26.8.26.(수) 보도참고자료] 식약처, 한약(생약)제제 허가 시 제출자료 간소화 제형 명확화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530251&tblKey=GMN",
+          "filename": "[26.8.26.(수) 보도참고자료] 식약처, 한약(생약)제제 허가 시 제출자료 간소화 제형 명확화.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T23:36:42.851274+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
