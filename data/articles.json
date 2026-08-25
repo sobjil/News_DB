@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T03:09:53.981556+00:00",
-  "count": 1977,
+  "updated": "2026-08-25T03:25:07.540119+00:00",
+  "count": 1989,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -93,16 +93,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529527&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529531&tblKey=GMN",
           "filename": "지하수 분야 국제표준 기술위원회 승격 추진 우리나라가 주도한다(보도자료)(과학원 8.25).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529528&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529532&tblKey=GMN",
           "filename": "지하수 분야 국제표준 기술위원회 승격 추진 우리나라가 주도한다(보도자료)(과학원 8.25).pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00"
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 1
     },
     {
       "title": "대형 재난현장 소방력 공백 예방(제로화)에 기여… 민·관 협업 「소방장비 긴급정비지원단」",
@@ -948,6 +949,233 @@
         }
       ],
       "_attAt": "2026-08-25T03:09:43.885945+00:00"
+    },
+    {
+      "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775398",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529760&tblKey=GMN",
+          "filename": "[교육부 08-26(수) 조간보도자료] 학교 역사교육 활성화 지원 거점 서울대학교 역사교육지원연구센터 개소.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775397",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529759&tblKey=GMN",
+          "filename": "[교육부 08-26(수) 조간보도자료] 교육부 외교부 아태교육원 제11회 세계시민교육 국제회의 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775396",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529758&tblKey=GMN",
+          "filename": "[교육부 08-25(수) 조간보도자료] 영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775395",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "2027학년도 대학수학능력시험 9월 모의평가 실시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529757&tblKey=GMN",
+          "filename": "[교육부 08-26(수) 조간보도자료] (한국교육과정평가원)2027학년도 대학수학능력시험 9월 모의평가 실시.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "늘어나는 이주배경학생, '맞춤형 한국어 진단도구'로 공교육 적응 돕는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775394",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "늘어나는 이주배경학생, '맞춤형 한국어 진단도구'로 공교육 적응 돕는다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529756&tblKey=GMN",
+          "filename": "[교육부 08-26(수) 조간보도자료] 늘어나는 이주배경학생 맞춤형 한국어 진단도구로 공교육 적응 돕는다.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "디지털 행정서비스와 행정 혁신 경험을 필리핀 공무원과 공유한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775404",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 2027년까지 3개년 단계별 ODA 사업, 올해 2차 연도 초청 연수 실시- 8월 25일부터 9월 4일까지 굿거버넌스, 디지털정부 등 맞춤형 교과 운영 행정안전부 지방자치인재개발원(원장 직무대리 박대민)은 한국국제협력단(KOICA)과 공동으로 8월 25일(화)부터 9월 4일(금)까지 필리핀 중앙·지방정부 공무원 15명을 대상으로 '필리핀 디지털 전환과 공공 행정 혁신 역량 강화 과정'을 운영한다. 공적개발원조(ODA)의 일환으로 추진되는 이번 과정은 필리핀 정부의 공식 요청에 따라 '필리핀 개발계획(PDP 2023~2028)'의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529771&tblKey=GMN",
+          "filename": "260826 (조간) 디지털 행정서비스와 행정 혁신 경험을 필리핀 공무원과 공유한다(지방자치인재개발원 국제교육협력과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529772&tblKey=GMN",
+          "filename": "260826 (조간) 디지털 행정서비스와 행정 혁신 경험을 필리핀 공무원과 공유한다(지방자치인재개발원 국제교육협력과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "\"민간 AI 역량 모아 공공문제 해결한다\" 행안부 '2026년 AI 분석모델 개발 경진대회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775402",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 고의교통사고, 딥보이스 탐지, 공공입찰 위반 탐지 등 3종 대회 동시 진행- 민간 전문가 집단지성으로 최적의 AI 모델 개발…우수모델은 실제 행정현장에 적용- 8월 26일부터 3개 분야 동시 진행, 총 21개 팀·1억 2,600만 원 규모 시상 정부가 민간 전문가들의 아이디어를 한데 모아, 사회문제를 해결할 인공지능(AI) 모델을 직접 만들고 해법을 겨루는 경쟁의 장을 연다. 행정안전부(장관 윤호중)는 민간의 AI 기술과 역량을 활용해 국민생활과 밀접한 정책 현안을 해결하기 위한 「2026년 AI 기반 현안해결형 분석모델 개발 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529767&tblKey=GMN",
+          "filename": "260826 (조간) “민간 AI 역량 모아 공공문제 해결한다” 행안부 2026년 AI 분석모델 개발 경진대회 개최(공공데이터분석관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529768&tblKey=GMN",
+          "filename": "260826 (조간) “민간 AI 역량 모아 공공문제 해결한다” 행안부 2026년 AI 분석모델 개발 경진대회 개최(공공데이터분석관리과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "2026년 행정안전통계연보 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775400",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 지방행정, 재난안전 등 8개 분야, 326종의 행정안전 통계 수록 행정안전부(장관 윤호중)는 정부 운영과 국민 생활의 주요 변화상을 담은 '2026 행정안전통계연보(통권 제28호)'를 발간했다고 밝혔다.이번 통계연보는 2025년 12월 31일 기준으로 ▲정부조직, ▲행정관리, ▲인공지능 정부, ▲지방행정, ▲지방재정, ▲안전정책, ▲재난관리 등 8개 분야, 326개 통계를 종합적으로 수록하였다. 또한, 국민 생활과 밀접한 15종의 주요 통계는 이해를 돕기 위해 별도의 도표로 함께 제공한다. 이번 통계연보에 수록된 주요 통계는 다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529763&tblKey=GMN",
+          "filename": "260826 (조간) 2026년 행정안전통계연보 발간(데이터정보화담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529764&tblKey=GMN",
+          "filename": "260826 (조간) 2026년 행정안전통계연보 발간(데이터정보화담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775393",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529755&tblKey=GMN",
+          "filename": "[교육부 08-26(수) 조간보도자료] 2027학년도 수시모집 대입 원서접수 미리 작성.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "2024년 연금통계 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775392",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "2024년 연금통계 결과입니다.1. 개인의 연금 현황□ 연금 수급 현황 ❍ '24년에 기초연금, 국민연금, 직역연금 등 연금을 1개 이상 수급한 65세 이상 인구(연금 수급자)는 912만 2천명으로, - 65세 이상 인구 대비 연금 수급자 비율(연금 수급률)은 91.2%임 ❍ '24년에 연금 수급자가 받은 월평균 수급금액은 73만 7천원임 □ 연금 가입 현황 ❍ '24년에 국민연금, 직역연금, 퇴직 및 개인연금 중 1개 이상을 가입하고 있는 18~59세 인구(연금 가입자)는 2,348만 4천명으로, - 18~59세 인구 대비 연금 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529753&tblKey=GMN",
+          "filename": "2024년 연금통계 결과 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529754&tblKey=GMN",
+          "filename": "2024년 연금통계 결과 보도자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529752&tblKey=GMN",
+          "filename": "2024년 연금통계 결과 보도자료.hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "▷ 반도체, 인공지능(AI) 산업경쟁력을 뒷받침할 안정적이고 경쟁력있는 재생에너지 조달 기반 논의▷ 2030 재생에너지 100GW 보급 목표 달성을 위한 입지제도, 시장제도, 전력망확충 등 정책 방향 공유 기후에너지환경부(장관 김성환)는 8월 26일 오후 대한상공회의소(서울 중구 소재)에서 세계적인(글로벌) 반도체 기업(삼성전자·SK하이닉스·구글·ASML 등)들과 '반도체·인공지능(AI) 등 첨단산업 경쟁력 확보를 위한 간담회'를 개최한다.이번 간담회는 세계적인 반도체 기업들이 국내 투자를 확대해 나가는 가운데 재생에너지 조달에 대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529750&tblKey=GMN",
+          "filename": "기후부 세계적인 반도체 기업들과 재생에너지 조달 해법 논의(보도자료)(재생에너지 8.25).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529751&tblKey=GMN",
+          "filename": "기후부 세계적인 반도체 기업들과 재생에너지 조달 해법 논의(보도자료)(재생에너지 8.25).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
+    },
+    {
+      "title": "불법시설물 걷어낸 팔공산 계곡… 멸종위기 야생생물 담비·참매 돌아왔다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775390",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "▷ 팔공산국립공원 약 70년간 기도터로 불법 점유된 도학동 계곡 원상복원▷ 불법시설물 92개 철거 및 폐기물 약 356톤 처리… 계곡 이용하는 야생동물 확인기후에너지환경부 산하 국립공원공단(이사장 주대영)은 약 70년간 불법 기도터로 쓰이던 팔공산국립공원 도학동 계곡 일원의 불법시설물을 철거하고 원상복원한 결과, 담비와 참매 등 다양한 야생동물이 계곡을 이용하는 모습이 최근 확인됐다고 밝혔다.해당 지역에는 그늘막, 철교량, 촛불함, 제단 등 불법시설물 92개가 설치돼 있었다. 팔공산국립공원동부사무소는 관계기관과 협력하고 점유자를 지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529748&tblKey=GMN",
+          "filename": "불법시설물 걷어낸 팔공산 계곡… 멸종위기야생생물 담비·참매 돌아왔다(보도자료)(국립공원 8. 25).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529749&tblKey=GMN",
+          "filename": "불법시설물 걷어낸 팔공산 계곡… 멸종위기야생생물 담비·참매 돌아왔다(보도자료)(국립공원 8. 25).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T03:24:42.368243+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
@@ -2591,8 +2819,8 @@
           "filename": "제30차 위원회 결과 (서면)브리핑(260824).hwp"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 3
     },
     {
       "title": "제2차관, AI 공급망 기업 간담회 개최",
@@ -2635,8 +2863,8 @@
           "filename": "[26-678](보도자료)한미 외교장관 통화(8.24.) 결과.pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 2
     },
     {
       "title": "법무부, 소파(SOFA) 수용자 구금시설 기준 58년 만에 정비",
@@ -2657,8 +2885,8 @@
           "filename": "(보도자료) 법무부, 소파(SOFA) 수용자 구금시설 기준 58년 만에 정비 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 2
     },
     {
       "title": "광역형 비자 제도, 지역산업·지역정주 중심으로 전면 개편",
@@ -2689,8 +2917,8 @@
           "filename": "(보도자료) 광역형 비자 제도, 지역산업·지역정주 중심으로 전면 개편 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 2
     },
     {
       "title": "2026년 하반기 일반검사 인사",
@@ -2721,8 +2949,8 @@
           "filename": "(보도자료) 2026년 하반기 일반검사 인사 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:20:44.787641+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-25T03:24:42.368243+00:00",
+      "_attRev": 2
     },
     {
       "title": "데이터로 읽는 우리 교육 제12호 발간",
