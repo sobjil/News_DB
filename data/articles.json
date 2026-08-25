@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T02:54:45.330846+00:00",
-  "count": 1974,
+  "updated": "2026-08-25T03:09:53.981556+00:00",
+  "count": 1977,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -80,7 +80,8 @@
           "filename": "260825(석간) 다자녀가구 철도자격시험(기관사·관제사) 수수료 50퍼센트 감면(철도안전정책과).pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:05:43.074883+00:00"
+      "_attAt": "2026-08-25T03:09:43.885945+00:00",
+      "_attRev": 1
     },
     {
       "title": "지하수 분야 국제표준 기술위원회 승격 추진… 우리나라가 주도한다",
@@ -884,6 +885,69 @@
         }
       ],
       "_attAt": "2026-08-25T02:24:43.397612+00:00"
+    },
+    {
+      "title": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775389",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다- 2015년 이후 11년 만에 정부 차원의 개인정보 보호 전담인력 확충- 확충된 인력은 각 부처별 소관 분야의 개인정보 보호 점검·관리에 활용개인정보보호위원회(위원장 송경희, 이하 '개인정보위')·행정안전부(장관 윤호중, 이하 '행안부')은 8월 25일(화) 국무회의에서 중앙부처 개인정보 보호 전담 인력 확보를 위한 다수부처 수시직제 개정안이 의결되었다고 밝혔다. 이번 조치로 31개 중앙행정기관의 개인정보보호 전담인력 54명(증원 39명, 재배치 15명)이 확충된다. 최근",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529747&tblKey=GMN",
+          "filename": "[260825 12시보도] 정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다(자율보호정책과)_최종.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529746&tblKey=GMN",
+          "filename": "[260825 12시보도] 정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다(자율보호정책과)_최종.hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T03:09:43.885945+00:00"
+    },
+    {
+      "title": "에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775386",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 한국전자통신연구원, 과기정통부 지원을 통해 AAIF 가입- 국제표준과 오픈소스 연계로 에이전틱 AI 상호운용성 강화",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529740&tblKey=GMN",
+          "filename": "260826 조간 (보도) 에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-25T03:09:43.885945+00:00"
+    },
+    {
+      "title": "2026년 상반기 경쟁제한적 규제 개선방안 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775385",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "2026년 상반기 경쟁제한적 규제 개선방안 발표- 주류제조사-주정제조사 간 주정 직거래 허용량 추가 확대,생활폐기물 수집·운반 시장 관외업체 진입 촉진 등 - 공정거래위원회(위원장 주병기, 이하 '공정위')는 주류제조사와 주정제조사 간 주정 직거래 허용량 추가 확대, 생활폐기물 수집·운반업체 영업구역 변경·추가 활성화, 감사품질이 우수한 중견·중소회계법인의 감사 가능 회사 범위 확대 등 사업자의 시장진입을 저해하거나 사업활동을 제약하는 경쟁제한적 규제에 대한 개선안을 마련하였다. 매년 공정위는 시장분석 결과, 사업자단체 등 정책수요",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529738&tblKey=GMN",
+          "filename": "260826(조간) 2026년 상반기 경쟁제한적 규제 개선방안 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529739&tblKey=GMN",
+          "filename": "260826(조간) 2026년 상반기 경쟁제한적 규제 개선방안 발표.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529737&tblKey=GMN",
+          "filename": "260826(조간) 2026년 상반기 경쟁제한적 규제 개선방안 발표.hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T03:09:43.885945+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
@@ -2500,8 +2564,8 @@
           "filename": "[26-676](보도자료) 한멕 외교장관 회담 및 오찬 결과.pdf"
         }
       ],
-      "_attAt": "2026-08-24T21:05:43.074883+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-25T03:09:43.885945+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 제30차 위원회 결과",
