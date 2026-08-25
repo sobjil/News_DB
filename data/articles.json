@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T09:06:44.051776+00:00",
-  "count": 2021,
+  "updated": "2026-08-25T09:21:51.108936+00:00",
+  "count": 2022,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -71,17 +71,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529525&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530002&tblKey=GMN",
           "filename": "260825(석간) 다자녀가구 철도자격시험(기관사·관제사) 수수료 50퍼센트 감면(철도안전정책과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529526&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530003&tblKey=GMN",
           "filename": "260825(석간) 다자녀가구 철도자격시험(기관사·관제사) 수수료 50퍼센트 감면(철도안전정책과).pdf"
         }
       ],
-      "_attAt": "2026-08-25T03:09:43.885945+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-25T09:21:42.776466+00:00",
+      "_attRev": 2
     },
     {
       "title": "지하수 분야 국제표준 기술위원회 승격 추진… 우리나라가 주도한다",
@@ -943,7 +943,8 @@
           "filename": "[260825 12시보도] 정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다(자율보호정책과)_최종.hwp"
         }
       ],
-      "_attAt": "2026-08-25T03:09:43.885945+00:00"
+      "_attAt": "2026-08-25T09:21:42.776466+00:00",
+      "_attRev": 1
     },
     {
       "title": "에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진",
@@ -959,7 +960,8 @@
           "filename": "260826 조간 (보도) 에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진.hwpx"
         }
       ],
-      "_attAt": "2026-08-25T03:09:43.885945+00:00"
+      "_attAt": "2026-08-25T09:21:42.776466+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 상반기 경쟁제한적 규제 개선방안 발표",
@@ -985,7 +987,8 @@
           "filename": "260826(조간) 2026년 상반기 경쟁제한적 규제 개선방안 발표.hwp"
         }
       ],
-      "_attAt": "2026-08-25T03:09:43.885945+00:00"
+      "_attAt": "2026-08-25T09:21:42.776466+00:00",
+      "_attRev": 1
     },
     {
       "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
@@ -1884,6 +1887,27 @@
         }
       ],
       "_attAt": "2026-08-25T08:36:42.176154+00:00"
+    },
+    {
+      "title": "한국형발사체(누리호) 5호기 발사 승인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775455",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "- 제10회 우주개발진흥실무위원회 개최 - 한국형발사체(누리호) 5호기 발사허가 심사결과 등 심의·의결【관련 국정과제】 28-2. \"우리 기술로 K-Space 도전\" 우주항공청(청장 오태석)은 8월 25일(화) 제10회 우주개발진흥실무위원회(이하 '실무위원회')를 서면으로 개최하여, '한국형발사체(KSLV-Ⅱ, 누리호) 5호기 발사허가 심사 결과'를 비롯한 2개 안건을 심의·의결하였다고 밝혔다. ※ 심사기간: 26.8.18.(화)~8.25.(화) ※ 실무위원회: 「우주개발 진흥법 시행령」제6조 및 제6조의2에 근거하여 설치된 위원회",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530156&tblKey=GMN",
+          "filename": "260825(배포즉시) 한국형발사체(누리호) 5호기 발사 승인.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530157&tblKey=GMN",
+          "filename": "260825(배포즉시) 한국형발사체(누리호) 5호기 발사 승인.hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T09:21:42.776466+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
