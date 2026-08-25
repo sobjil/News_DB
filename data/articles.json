@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T05:36:49.647291+00:00",
-  "count": 1998,
+  "updated": "2026-08-25T05:51:52.588588+00:00",
+  "count": 2000,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -207,7 +207,8 @@
           "filename": "260824_보도자료_제52차양육비이행심의위원회 개최_최종배포본.pdf"
         }
       ],
-      "_attAt": "2026-08-24T23:39:43.690136+00:00"
+      "_attAt": "2026-08-25T05:51:45.815464+00:00",
+      "_attRev": 1
     },
     {
       "title": "세계 최초 환경·해양위성 계보, 더 정밀해진 천리안위성 6호가 잇는다",
@@ -1369,6 +1370,63 @@
         }
       ],
       "_attAt": "2026-08-25T05:36:42.981888+00:00"
+    },
+    {
+      "title": "산림청, 제17차 유엔사막화방지협약 당사국총회 참석",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775424",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "산림청, 제17차 유엔사막화방지협약 당사국총회 참석- 한-몽 그린벨트 20년 기념, 대한민국 정부 및 민간분야 사막화방지 활동 성과 공유 - 산림청(청장 박은식)은 8월 17일부터 28일까지 몽골 울란바타르에서 개최하고 있는 유엔사막화방지협약(UNCCD) 제17차 당사국총회에 이광호 산림청 산림보호국장이 수석대표로 참석해 사막화방지를 위한 우리나라의 국제적 기여와 성과를 공유했다고 25일 밝혔다. 유엔사막화방지협약은 유엔 3대 환경협약 중 하나로 197개 회원국이 가입하고 있으며, 격년으로 당사국총회를 개최하고 있다. 올해는 '토지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529865&tblKey=GMN",
+          "filename": "(260825)보도자료-산림청__제17차_유엔사막화방지협약_당사국총회_참석.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529868&tblKey=GMN",
+          "filename": "(260825)영문보도자료-산림청__제17차_유엔사막화방지협약_당사국총회_참석.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529867&tblKey=GMN",
+          "filename": "(260825)보도자료-산림청__제17차_유엔사막화방지협약_당사국총회_참석.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529866&tblKey=GMN",
+          "filename": "(260825)보도자료-산림청__제17차_유엔사막화방지협약_당사국총회_참석.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529869&tblKey=GMN",
+          "filename": "(260825)영문보도자료-산림청__제17차_유엔사막화방지협약_당사국총회_참석.hwp"
+        }
+      ],
+      "_attAt": "2026-08-25T05:51:45.815464+00:00"
+    },
+    {
+      "title": "[보도자료] 기후대응위, 국민참여 캠페인 민관협업 추진을 위한 MOU 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775422",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "화장품부터 식탁까지…민관 손잡고 탄소중립 실천문화 넓힌다- 국가기후위기대응위원회·㈜아모레퍼시픽홀딩스·풀무원식품㈜, 탄소중립 실천 국민참여 확대를 위한 '그린이득 캠페인' 업무협약 체결- 저탄소 소비문화·지속가능한 식생활 등 생활밀착형 탄소중립 실천 활성화- '넷제로 프렌즈' 사업 등 미래세대 참여 확대 위한 협력도 추진□ 국가기후위기대응위원회(위원장: 한성숙 국무총리, 이창훈 민간위원장, 이하 '기후대응위')는 8월 25일 풀무원 수서 본사에서 ㈜아모레퍼시픽홀딩스, 풀무원식품㈜과 탄소중립 실천 국민참여 확산을 목표로 '그린이득 캠페",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529852&tblKey=GMN",
+          "filename": "(260825)기후대응위-아모레퍼시픽홀딩스-풀무원식품 업무협약체결 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529853&tblKey=GMN",
+          "filename": "(260825)기후대응위-아모레퍼시픽홀딩스-풀무원식품 업무협약체결 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T05:51:45.815464+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
