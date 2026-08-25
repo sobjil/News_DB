@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T06:36:57.266364+00:00",
-  "count": 2009,
+  "updated": "2026-08-25T06:51:53.603571+00:00",
+  "count": 2012,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -418,11 +418,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198529613&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529628&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료)기후위기 속 우리 숲 지킨다...국립산림과학원 산림 기후적응 기술 공개-2026 하계 한국산림과학회 특별세션서 아고산 침엽수 보전 임가 피해 절감 기술 발표.hwpx"
         }
       ],
-      "_attAt": "2026-08-25T00:39:43.376531+00:00"
+      "_attAt": "2026-08-25T06:51:43.271685+00:00",
+      "_attRev": 1
     },
     {
       "title": "국군사관학교 창설 관련 공청회, 내일 개최",
@@ -438,7 +439,8 @@
           "filename": "260825 [국방부 보도자료] 국군사관학교 창설 공청회 개최 예고_게시.hwpx"
         }
       ],
-      "_attAt": "2026-08-25T00:39:43.376531+00:00"
+      "_attAt": "2026-08-25T06:51:43.271685+00:00",
+      "_attRev": 1
     },
     {
       "title": "백범 김구 탄생 150주년 국민참여행사 26일부터 5일간 광화문광장서 개최",
@@ -1625,6 +1627,64 @@
         }
       ],
       "_attAt": "2026-08-25T06:36:42.802197+00:00"
+    },
+    {
+      "title": "[참고] 무안 신규 국가산업단지 후보지 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775437",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "[참고] 무안 신규 국가산업단지 후보지 지정 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529927&tblKey=GMN",
+          "filename": "260825(참고) 무안 신규 국가산업단지 후보지 지정(산업입지정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529928&tblKey=GMN",
+          "filename": "260825(참고) 무안 신규 국가산업단지 후보지 지정(산업입지정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T06:51:43.271685+00:00"
+    },
+    {
+      "title": "GTX-C, 부전~마산선 등 4개 민간투자사업 민투심 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775435",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "자세한 내용은 붙임을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529922&tblKey=GMN",
+          "filename": "제5회 민투심 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T06:51:43.271685+00:00"
+    },
+    {
+      "title": "[8.26.수.조간] (관계부처합동)국민이 주인 되는 정부, AI로 만든다 「AI 민주정부」 실현 본격 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775436",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "description": "국민이 주인 되는 정부, AI로 만든다 「AI 민주정부」 실현 본격 추진 - 국민에게 친절하고, 국민과 함께하는, 국민의 유능한 AI정부로 대전환 - 5대 분야 AI 상담, AI국민비서, AI 챔피언 2만 명 양성 등 추진 행정안전부(장관 윤호중)는 8월 25일(화) 국무회의에서 '세계 최고의 AI민주정부 실현 전략'을 보고했다. 이번 전략은 국민과 소통하고 정책을 수립·집행하는 국정 전반에 국민주권의 가치를 구현하고, 이를 인공지능(AI) 시대에 맞는 정부 운영 방식으로 전환하기 위해 마련됐다. 링컨의 게티스버그 연설에 담긴 국민",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529923&tblKey=GMN",
+          "filename": "[8.26.수.조간] (관계부처합동)국민이 주인 되는 정부, AI로 만든다 「AI 민주정부」 실현 본격 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198529924&tblKey=GMN",
+          "filename": "[8.26.수.조간] (관계부처합동)국민이 주인 되는 정부, AI로 만든다 「AI 민주정부」 실현 본격 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-08-25T06:51:43.271685+00:00"
     },
     {
       "title": "국민과 함께 섬진강 생태계 가치 재조명",
