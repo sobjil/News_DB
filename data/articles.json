@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T20:58:53.858652+00:00",
-  "count": 1931,
+  "updated": "2026-08-26T21:08:46.062082+00:00",
+  "count": 1932,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -76,6 +76,27 @@
         }
       ],
       "_attAt": "2026-08-26T15:54:31.619469+00:00"
+    },
+    {
+      "title": "페달 오조작 사고 막는다! 페달 오조작 방지장치 튜닝부품 인증기준 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775627",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "페달 오조작 사고 막는다! 페달 오조작 방지장치 튜닝부품 인증기준 마련 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530865&tblKey=GMN",
+          "filename": "260827(석간) 페달 오조작 방지장치 튜닝부품 인증기준 마련(자동차정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530866&tblKey=GMN",
+          "filename": "260827(석간) 페달 오조작 방지장치 튜닝부품 인증기준 마련(자동차정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T21:08:41.717445+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
