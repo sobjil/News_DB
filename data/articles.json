@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T07:38:51.943453+00:00",
-  "count": 2004,
+  "updated": "2026-08-26T07:53:50.497025+00:00",
+  "count": 2006,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -688,21 +688,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530373&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530415&tblKey=GMN",
           "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530375&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530417&tblKey=GMN",
           "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530374&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530416&tblKey=GMN",
           "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.hwp"
         }
       ],
-      "_attAt": "2026-08-26T01:51:43.412830+00:00"
+      "_attAt": "2026-08-26T07:53:43.560168+00:00",
+      "_attRev": 1
     },
     {
       "title": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다",
@@ -1856,6 +1857,48 @@
         }
       ],
       "_attAt": "2026-08-26T07:38:43.080557+00:00"
+    },
+    {
+      "title": "광릉숲 생물다양성, 지역사회와 함께 지킨다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775581",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "- 국립수목원·남양주시·지역 자원봉사자, 생태계교란 식물 제거 나서 - 산림청 국립수목원은 8월 26일 광릉숲 초입 부평생태습지에서 남양주시와 지역 자원봉사자 등 40명이 참여한 가운데 「광릉숲 외래식물 제거 캠페인」을 실시했다. 이번 캠페인은 광릉숲의 생물다양성 보전에 대한 지역사회의 관심을 높이고, 지역 주민과 관계기관이 함께 생태계 보전 활동에 참여하는 기회를 마련하기 위해 추진됐다. 국립수목원, 남양주시, 남양주시자원봉사센터 자원봉사자들은 이날 부평생태습지 일대에서 생태계교란 생물인 단풍잎돼지풀과 가시박을 직접 제거했다. 단",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530682&tblKey=GMN",
+          "filename": "[보도자료]광릉숲 생물다양성 지역사회와 함께 지킨다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530681&tblKey=GMN",
+          "filename": "[보도자료]광릉숲 생물다양성 지역사회와 함께 지킨다.hwp"
+        }
+      ],
+      "_attAt": "2026-08-26T07:53:43.560168+00:00"
+    },
+    {
+      "title": "대학생 재정데이터 분석 경진대회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775579",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "기획예산처는 8월 25일(화) 연세대학교 세브란스빌딩 대회의실에서「대학(원)생 재정데이터 분석 경진대회」 최종 발표회 및 시상식을 개최하였습니다. ※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530673&tblKey=GMN",
+          "filename": "260825 재정데이터 분석 경진대회 보도자료_(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530672&tblKey=GMN",
+          "filename": "260825 재정데이터 분석 경진대회 보도자료_(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T07:53:43.560168+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
