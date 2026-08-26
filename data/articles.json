@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T11:08:46.720917+00:00",
-  "count": 2020,
+  "updated": "2026-08-26T11:21:47.209243+00:00",
+  "count": 2021,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2234,6 +2234,27 @@
         }
       ],
       "_attAt": "2026-08-26T09:38:43.598191+00:00"
+    },
+    {
+      "title": "[장관동정] 김윤덕 장관, 베트남 건설부 장관과 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775621",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "[장관동정] 김윤덕 장관, 베트남 건설부 장관과 면담 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530837&tblKey=GMN",
+          "filename": "260826(동정)_김윤덕_장관__베트남_건설부_장관과_면담(해외건설지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530838&tblKey=GMN",
+          "filename": "260826(동정)_김윤덕_장관__베트남_건설부_장관과_면담(해외건설지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T11:21:42.481606+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
