@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T00:36:49.273738+00:00",
-  "count": 1939,
+  "updated": "2026-08-26T00:51:45.926874+00:00",
+  "count": 1940,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -423,6 +423,27 @@
         }
       ],
       "_attAt": "2026-08-26T00:21:43.719628+00:00"
+    },
+    {
+      "title": "공정한 계약 관행 조성을 위한 마트배송 직종 표준계약서 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775504",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "고용노동부(장관 김영훈)는 마트배송 업무를 수행하는 노무제공자가 운송사와 계약 체결 시 활용할 수 있는 '마트배송 직종 표준계약서 및 활용가이드'를 마련했다고 밝혔다. 표준계약서는 노무제공자와 사업자 간 공정한 계약 체결을 지원하기 위해 필수 계약조건, 당사자의 권리·의무 등을 담은 권장 계약 서식으로, 현재까지 택배기사, 방송 스태프 등 총 30개 직종의 표준계약서가 마련·활용되고 있다. 마트배송 직종의 경우, 택배·화물기사 등 배송 업무를 수행하는 여타 직종과 달리 표준계약서가 없어, 업무 범위가 명확하지 않거나, 일방 당사자에",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530307&tblKey=GMN",
+          "filename": "260826_보도자료_고용노동부 마트배송 직종 표준계약서 제정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530306&tblKey=GMN",
+          "filename": "260826_보도자료_고용노동부 마트배송 직종 표준계약서 제정.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T00:51:42.477675+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
