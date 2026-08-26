@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T01:37:03.403630+00:00",
-  "count": 1950,
+  "updated": "2026-08-26T01:51:47.364199+00:00",
+  "count": 1951,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -648,6 +648,32 @@
         }
       ],
       "_attAt": "2026-08-26T01:36:42.225229+00:00"
+    },
+    {
+      "title": "\"소나무 관리, 국민의 논의에서 정책의 장으로\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775518",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "\"소나무 관리, 국민의 논의에서 정책의 장으로\"- 기후 적응을 위한 소나무 관리 방안 3차 토론회 개최 예정 - 산림청(청장 박은식)은 문금주 국회의원, 이상휘 국회의원과 공동으로 9월 8일(화) 오전 10시 30분 국회의원회관 제1세미나실에서 '기후적응을 위한 소나무 관리' 국회토론회를 개최한다고 25일 밝혔다 이번 토론회는 지난 6월 22일 대전에서 열린 1차 토론회와 7월 23일 서울에서 열린 2차 토론회에 이어 마련된 세 번째 토론회이다. 그동안 전문가와 국민의 다양한 의견을 수렴해 온 소나무 관리 공론화를 국회로 확장하고,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530373&tblKey=GMN",
+          "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530375&tblKey=GMN",
+          "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530374&tblKey=GMN",
+          "filename": "(260825)보도자료-소나무_관리__국민의_논의에서_정책의_장으로.hwp"
+        }
+      ],
+      "_attAt": "2026-08-26T01:51:43.412830+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
