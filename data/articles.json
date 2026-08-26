@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:53:50.708644+00:00",
+  "updated": "2026-08-26T11:08:46.720917+00:00",
   "count": 2020,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1623,16 +1623,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530552&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530609&tblKey=GMN",
           "filename": "[보도참고자료] “사각지대 없이, 촘촘하게” 전문가 모여 통합돌봄 대상자 확대 방안 논의.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530553&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530610&tblKey=GMN",
           "filename": "[보도참고자료] “사각지대 없이, 촘촘하게” 전문가 모여 통합돌봄 대상자 확대 방안 논의.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530611&tblKey=GMN",
+          "filename": "제2차 지역사회 통합돌봄 포럼 자료집.pdf"
         }
       ],
-      "_attAt": "2026-08-26T05:08:41.962440+00:00"
+      "_attAt": "2026-08-26T11:08:42.068648+00:00",
+      "_attRev": 1
     },
     {
       "title": "BCI 얼라이언스 출범...\"2035년 BCI 상용화 추진\"",
@@ -1648,7 +1654,8 @@
           "filename": "260827 조간 (보도) BCI 얼라이언스 출범...“2035년 BCI 상용화 추진”.hwpx"
         }
       ],
-      "_attAt": "2026-08-26T05:08:41.962440+00:00"
+      "_attAt": "2026-08-26T11:08:42.068648+00:00",
+      "_attRev": 1
     },
     {
       "title": "[참고] 대구경북통합신공항 접근성 개선을 위한 대구-경북 광역철도 건설사업 '예타 통과'",
