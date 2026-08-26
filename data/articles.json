@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T03:53:43.473874+00:00",
-  "count": 1984,
+  "updated": "2026-08-26T04:08:48.065805+00:00",
+  "count": 1985,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1423,6 +1423,27 @@
         }
       ],
       "_attAt": "2026-08-26T03:38:43.839234+00:00"
+    },
+    {
+      "title": "2026년 제7차 재정투자평가위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775555",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "기획예산처는 2026년 제7차 재정투자평가위원회를 개최하였습니다. * 자세한 내용은 첨부파일을 확인해 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530517&tblKey=GMN",
+          "filename": "제7차 재정투자평가위원회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530518&tblKey=GMN",
+          "filename": "제7차 재정투자평가위원회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T04:08:43.624447+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
