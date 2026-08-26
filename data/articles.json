@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T02:21:56.402422+00:00",
-  "count": 1968,
+  "updated": "2026-08-26T02:36:46.850794+00:00",
+  "count": 1969,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1066,6 +1066,27 @@
         }
       ],
       "_attAt": "2026-08-26T02:21:42.305898+00:00"
+    },
+    {
+      "title": "[보도자료] 생명지킴추진본부, 강원지역 천명지킴 현장소통 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775536",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "국무조정실 범정부 생명지킴추진본부,강원지역 천명지킴 간담회 개최- 현장 중심 자살예방 추진현황 및 개선방안 논의□ 국무조정실 범정부 생명지킴추진본부(본부장 송민섭, 이하 '생명본부')는 8월 26일(수) 강원특별자치도를 방문해 자살예방 추진현황을 점검하고 현장의 목소리를 들었다.ㅇ 이번 방문은 2026년에 전년동기(1~5월) 대비 자살사망자 수가 733명 감소 하는 등 최근 자살 사망자 감소 추세를 이어나가기 위한 총력대응의 차원이다. 이에 생명본부는 자살 사망자 수 1,000명 감소를 목표로 전국 16개 광역시·도의 자살예방 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530446&tblKey=GMN",
+          "filename": "260826 강원지역 천명지킴 간담회 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530447&tblKey=GMN",
+          "filename": "260826 강원지역 천명지킴 간담회 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T02:36:42.163754+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
