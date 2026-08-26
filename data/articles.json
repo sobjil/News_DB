@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T22:53:42.262735+00:00",
-  "count": 1932,
+  "updated": "2026-08-26T23:08:47.188977+00:00",
+  "count": 1933,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -115,6 +115,27 @@
       ],
       "_attAt": "2026-08-26T16:23:42.769398+00:00",
       "_attRev": 3
+    },
+    {
+      "title": "여행 부담은 덜고, 지역 활력은 더하고... '대한민국 반값 여행'은 가을에도 계속",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775628",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "여행 부담은 덜고, 지역 활력은 더하고... '대한민국 반값 여행'은 가을에도 계속 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0827]문체부보도자료-대한민국 반값여행 하반기 사업 추진.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530869&tblKey=GMN",
+          "filename": "[0827]문체부보도자료-대한민국 반값여행 하반기 사업 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530868&tblKey=GMN",
+          "filename": "[0827]문체부보도자료-대한민국 반값여행 하반기 사업 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T23:08:41.963825+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
