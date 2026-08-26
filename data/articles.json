@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T09:24:01.591956+00:00",
-  "count": 2019,
+  "updated": "2026-08-26T09:38:47.769233+00:00",
+  "count": 2020,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2199,6 +2199,27 @@
         }
       ],
       "_attAt": "2026-08-26T09:23:43.074286+00:00"
+    },
+    {
+      "title": "[참고] 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775620",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "[참고] 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530833&tblKey=GMN",
+          "filename": "260826(참고) 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과(자율주행정책과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530834&tblKey=GMN",
+          "filename": "260826(참고) 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과(자율주행정책과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T09:38:43.598191+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
