@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T04:53:46.020429+00:00",
-  "count": 1990,
+  "updated": "2026-08-26T05:08:48.166524+00:00",
+  "count": 1992,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1546,6 +1546,43 @@
         }
       ],
       "_attAt": "2026-08-26T04:38:42.748709+00:00"
+    },
+    {
+      "title": "\"사각지대 없이, 촘촘하게\" 전문가 모여 통합돌봄 대상자 확대 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775563",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "\"사각지대 없이, 촘촘하게\" 전문가 모여 통합돌봄 대상자 확대 방안 논의- 제2차 지역사회 통합돌봄 포럼 개최 -- 노인, 장애인, 정신질환자 범위 및 포용성 강화 전략 논의 -【관련 국정과제】 78. 지금 사는 곳에서 누리는 통합돌봄 '지역사회 통합돌봄 대상자 포용성 강화를 위한 대상자 범위 및 확대 전략'을 주제로, 노인·장애인·정신질환자 각 분야 전문가가 모여 현행 통합돌봄 대상자 기준의 현황과 한계를 짚고, 향후 대상자 확대 방향을 논의하였다. 보건복지부(장관 정은경)는 8월 26일(수) 오후 2시, HJ 비즈니스센터 광화문",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530552&tblKey=GMN",
+          "filename": "[보도참고자료] “사각지대 없이, 촘촘하게” 전문가 모여 통합돌봄 대상자 확대 방안 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530553&tblKey=GMN",
+          "filename": "[보도참고자료] “사각지대 없이, 촘촘하게” 전문가 모여 통합돌봄 대상자 확대 방안 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T05:08:41.962440+00:00"
+    },
+    {
+      "title": "BCI 얼라이언스 출범...\"2035년 BCI 상용화 추진\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775562",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "- 7대 SEED 중 BCI분야의 민관협의체인 BCI 얼라이언스 출범식 개최, BCI 관련 대학·연구기관·기업·병원 소속 전문가 100여명 참석- 과학기술정보통신부 배경훈 부총리 겸 장관과 백남종 한국BCI협회장을 얼라이언스 공동의장으로 위촉, 연구개발/사업화/기반조성 분과 운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530550&tblKey=GMN",
+          "filename": "260827 조간 (보도) BCI 얼라이언스 출범...“2035년 BCI 상용화 추진”.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-26T05:08:41.962440+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
