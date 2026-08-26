@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T08:38:52.531665+00:00",
-  "count": 2013,
+  "updated": "2026-08-26T08:53:52.638422+00:00",
+  "count": 2017,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2064,6 +2064,85 @@
         }
       ],
       "_attAt": "2026-08-26T08:38:43.644995+00:00"
+    },
+    {
+      "title": "｢사이버 보안 특화 AI 파운데이션 모델 개발｣ 사업 공모 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775599",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "｢사이버 보안 특화 AI 파운데이션 모델 개발｣ 사업 공모 결과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530758&tblKey=GMN",
+          "filename": "260826 즉시 (보도) ｢사이버 보안 특화 AI 파운데이션 모델 개발｣ 사업 공모 결과.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-26T08:53:43.095921+00:00"
+    },
+    {
+      "title": "조현 장관, 나가시마 아키히사 일한의원연맹 간사장 일행 접견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775591",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "조현 외교부 장관은 8.26.(수) 한일·일한의원연맹 합동간사회의 참석을 위해 방한한 나가시마 아키히사(長島 昭久) 일한의원연맹 간사장을 비롯한 일한의원연맹 소속 의원들을 접견하였다. 조 장관은 정부 출범 이후 셔틀외교가 완전히 복원되고 정상 간 신뢰를 바탕으로 활발한 교류가 이어지고 있음을 평가하고, 엄중한 국제정세 속에서 한일 양국의 긴밀한 협력이 더욱 중요해지고 있다면서, 동북아 지역의 평화와 안정을 위해서도 한일 양국이 더욱 협력해 나가기를 바란다고 하였다. 또한, 조 장관은 한일관계가 한 차원 더 발전하기 위해서는 과거사 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530732&tblKey=GMN",
+          "filename": "[26-284](보도자료) 조현 장관, 나가시마 아키히사 일한의원연맹 간사장 일행 접견.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530733&tblKey=GMN",
+          "filename": "[26-284](보도자료) 조현 장관, 나가시마 아키히사 일한의원연맹 간사장 일행 접견.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T08:53:43.095921+00:00"
+    },
+    {
+      "title": "윤호중 행안부 장관, 긴급 경찰 지휘부 회의 개최, 제주 실종사건 등 대책 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775597",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "- 윤호중 장관, 긴급 경찰 지휘부 회의를 열어 제주 실종사건 철저한 진상 조사 및 실종 업무 체계 전반에 대한 재검토 지시- 경찰 수사 대응체계 개혁방안에 대해서는 빈틈없는 제도 설계로 사건 암장, 제식구 감싸기가 발 붙일 수 없도록 해야 한다고 강조 윤호중 행정안전부 장관은 8월 26일(수) '긴급 경찰 지휘부 회의'를 열어 이번 제주 실종사건에 대한 철저한 진상조사와 함께 경찰의 업무체계 전반에 대한 재검토를 지시했다. 이날 회의는 제주 실종사건에 대한 국민 불안이 커짐에 따라 경찰 신뢰 회복 방안을 논의하기 위해 마련된 것으",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530753&tblKey=GMN",
+          "filename": "2. [모두발언] 260826 긴급 경찰지휘부 회의 모두발언.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530751&tblKey=GMN",
+          "filename": "1. 260826 (회의 종료 시) 윤호중 행안부 장관 긴급 경찰 지휘부 회의 개최 제주 실종사건 등 대책 논의(기획재정담담관).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530752&tblKey=GMN",
+          "filename": "1. 260826 (회의 종료 시) 윤호중 행안부 장관 긴급 경찰 지휘부 회의 개최 제주 실종사건 등 대책 논의(기획재정담담관).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T08:53:43.095921+00:00"
+    },
+    {
+      "title": "국방부 「장병e음」 플랫폼, ICT 어워드 최고상 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775598",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "국방부 「장병e음」 플랫폼, ICT 어워드 최고상 수상□ 국방부가 개발한 「장병e음」 플랫폼이 8월 26일(수) 14시 과학기술컨벤션에서 개최된 「ICT Award Korea 2026(이하 'ICT Award')」에서 앱·웹사이트 분과 최고상인 그랑프리(Grand Prix)​를 수상하고 부총리 겸 과학기술정보통신부 장관상을 받았습니다.ㅇ한국정보과학진흥협회와 성균관대학교가 주최하고 과학기술정보통신부 등이 후원하는 ICT Award는 2004년부터 개최되어 온 국내 대표 정보통신기술(ICT) 분야 시상식으로, ICT 기술을 활용한 디지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530757&tblKey=GMN",
+          "filename": "260826 [국방부 보도자료] 국방부 「장병e음」 플랫폼 ICT AWARD 최고상 수상_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-26T08:53:43.095921+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
