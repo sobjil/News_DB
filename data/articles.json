@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T06:53:45.995788+00:00",
-  "count": 1997,
+  "updated": "2026-08-26T07:08:56.591637+00:00",
+  "count": 2000,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -474,16 +474,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530318&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530588&tblKey=GMN",
           "filename": "[8.26.수 행사 시작(10시) 이후] 닥터헬기 조종사 모의비행훈련장치로 역량 강화 복지부？국토부？경찰청 업무협약 체결.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530319&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530589&tblKey=GMN",
           "filename": "[8.26.수 행사 시작(10시) 이후] 닥터헬기 조종사 모의비행훈련장치로 역량 강화 복지부？국토부？경찰청 업무협약 체결.pdf"
         }
       ],
-      "_attAt": "2026-08-26T01:06:42.466171+00:00"
+      "_attAt": "2026-08-26T07:08:43.321556+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026 보훈문화교육 수업안 경진대회 및 시상식 27일 개최",
@@ -504,7 +505,8 @@
           "filename": "260826 보도자료(2026 보훈문화교육 수업안 경진대회 및 시상식 27일 개최)최종.pdf"
         }
       ],
-      "_attAt": "2026-08-26T01:06:42.466171+00:00"
+      "_attAt": "2026-08-26T07:08:43.321556+00:00",
+      "_attRev": 1
     },
     {
       "title": "닥터헬기 조종사 모의비행훈련장치로 역량 강화 국토부 · 복지부 · 경찰청 업무협약 체결",
@@ -525,7 +527,8 @@
           "filename": "260826(석간) 닥터헬기 조종사 모의비행훈련장치로 역량 강화(서울지방항공청).pdf"
         }
       ],
-      "_attAt": "2026-08-26T01:06:42.466171+00:00"
+      "_attAt": "2026-08-26T07:08:43.321556+00:00",
+      "_attRev": 1
     },
     {
       "title": "석유유통업종 표준대리점계약서 개정",
@@ -551,7 +554,8 @@
           "filename": "260826(참고) 석유유통업종 표준대리점계약서 개정.hwp"
         }
       ],
-      "_attAt": "2026-08-26T01:06:42.466171+00:00"
+      "_attAt": "2026-08-26T07:08:43.321556+00:00",
+      "_attRev": 1
     },
     {
       "title": "정부 부처 인공지능 전환 흐름 한눈에, 지식재산 AX 전략 수립에 활용!",
@@ -1704,6 +1708,64 @@
         }
       ],
       "_attAt": "2026-08-26T06:23:41.995428+00:00"
+    },
+    {
+      "title": "국민이 체감하는 인공지능 서비스 신속하게 구현한다 과기정통부, 국민AI서비스혁신추진단 신설",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775573",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "- 인공지능 기술을 활용해 국민들이 체감할 수 있는 다양한 대국민 서비스를 신속･유연하게 개발 - 서비스 개발을 위한 민간 개발자 공개 모집 실시(8.26.)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530632&tblKey=GMN",
+          "filename": "260827 조간 (보도) 국민이 체감하는 인공지능 서비스 신속하게 구현한다 과기정통부, 국민AI서비스혁신추진단 신설.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-26T07:08:43.321556+00:00"
+    },
+    {
+      "title": "특별수사단, 「12·29 여객기 참사」 사건 중간 수사 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775572",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "특별수사단, 「12·29 여객기 참사」 사건 중간 수사 결과 발표 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530630&tblKey=GMN",
+          "filename": "260826(1400) 「12·29 여객기 참사」 중간 수사 결과 발표(여객기참사 특수단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530629&tblKey=GMN",
+          "filename": "260826(1400) 「12·29 여객기 참사」 중간 수사 결과 발표(여객기참사 특수단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T07:08:43.321556+00:00"
+    },
+    {
+      "title": "2026년 제1차 한·중앙아시아 정상회의 홍보 행사 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775571",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-26T00:00:00+09:00",
+      "description": "외교부 한·중앙아시아 정상회의 준비기획단은 8월 26일(수) 서울 중구 청계광장에서 「2026년 제1차 한·중앙아시아 정상회의 홍보 행사」(부제: 실크로드, 만남)를 개최하였다.이번 홍보 행사는 오는 9월 16일 서울에서 개최되는 역사적인 제1차 한·중앙아시아 정상회의의 성공적 개최를 기원하고, 현장에서 국민과 직접 소통하며 정상회의에 대한 국민적 관심을 높이기 위해 마련되었다. '실크로드, 만남'이라는 부제에 걸맞게 도심 속에서 중앙아시아 5개국(카자흐스탄, 키르기스스탄, 타지키스탄, 투르크메니스탄, 우즈베키스탄)의 문화를 친근하",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530622&tblKey=GMN",
+          "filename": "[26-282](보도자료)2026년 제1차 한·중앙아시아 정상회의 홍보 행사 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530623&tblKey=GMN",
+          "filename": "[26-282](보도자료)2026년 제1차 한·중앙아시아 정상회의 홍보 행사 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-26T07:08:43.321556+00:00"
     },
     {
       "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
