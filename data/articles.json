@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T06:08:52.945602+00:00",
-  "count": 2014,
+  "updated": "2026-08-27T06:23:50.946607+00:00",
+  "count": 2018,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1890,6 +1890,105 @@
         }
       ],
       "_attAt": "2026-08-27T06:08:44.774112+00:00"
+    },
+    {
+      "title": "2026년 상반기 창업기업동향 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775745",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석)는 '2026년 상반기(1월~6월) 창업기업동향'을 8월 27일(목) 발표했다. 2026년 상반기 창업은 정보통신업, 전문·과학·기술 서비스업 등에서 증가하였으나, 전체적으로는 전년 동기 대비 1.5%(8,880개) 감소한 56만 5,640개*로 집계되었다. * 상반기 창업기업 수(개):('22) 695,891 ('23) 650,504 ('24) 622,760 ('25) 574,520 ('26) 565,640 업종별로는 도·소매업(10.7%↓), 운수·창고업(5.8%↓), 개인서비스업(3",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531435&tblKey=GMN",
+          "filename": "260827_2026년_상반기_창업기업동향_발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531436&tblKey=GMN",
+          "filename": "260827_2026년_상반기_창업기업동향_발표.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531437&tblKey=GMN",
+          "filename": "260827_(보도참고자료)_2026년_상반기_창업기업동향.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T06:23:42.861899+00:00"
+    },
+    {
+      "title": "국가데이터처, 아시아 · 태평양 개발도상국 공무원 대상 빈곤측정 및 통계 국제연수 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775746",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "국가데이터처(처장 안형준) 국가데이터인재개발원은 8월 24일부터 28일까지 아르메니아, 캄보디아, 네팔 등 8개국 18명의 아시아 · 태평양 지역 개발도상국 국가통계기관 공무원을 대상으로 「빈곤측정 및 통계(Regional Training Course on Poverty Measurement and Statistics)」과정 연수를 실시한다.이번 연수는 국가데이터처, 유엔 아시아·태평양 통계연수소(UNSIAP), 세계은행(World Bank Group) 3개 기관이 공동으로 주관한다.국가데이터처와 유엔 아시아·태평양 통계연수소(UN",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531442&tblKey=GMN",
+          "filename": "국가데이터처,+아시아·태평양+개발도상국+공무원+대상+빈곤측정+및+통계+국제연수+실시+보도+자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531441&tblKey=GMN",
+          "filename": "국가데이터처,+아시아·태평양+개발도상국+공무원+대상+빈곤측정+및+통계+국제연수+실시+보도+자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531440&tblKey=GMN",
+          "filename": "국가데이터처,+아시아·태평양+개발도상국+공무원+대상+빈곤측정+및+통계+국제연수+실시+보도+자료.hwp"
+        }
+      ],
+      "_attAt": "2026-08-27T06:23:42.861899+00:00"
+    },
+    {
+      "title": "인공위성 핵심부품개발 우주기업 분야 '제10차 SOS 간담회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775743",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "- 위성 핵심부품 국산화·실증 활성화 등 위성 산업 생태계 강화 방안 논의【관련 국정과제】 28. 세계를 선도할 넥스트(NEXT) 전략기술 육성 우주항공청(청장 오태석)은 8월 27일(목), 텔레픽스(대전광역시 유성구 소재)를 방문하여 국내 위성 핵심 부품 개발 스타트업 및 중소기업*과 함께 '제10차 우주항공 SOS 간담회'를 개최하였다. * 그린광학, 나라스페이스, 레오스페이스, 솔탑, 엠아이디, 인스페이스, 져스텍, 카이로스페이스, 코스모비, 텔레픽스(10개 社) 이번 간담회는 글로벌 우주시장의 성장과 민간 중심의 뉴 스페이스",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531430&tblKey=GMN",
+          "filename": "260828(조간) 인공위성 핵심부품개발 우주기업 분야 ‘제10차 SOS 간담회’ 개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531431&tblKey=GMN",
+          "filename": "260828(조간) 인공위성 핵심부품개발 우주기업 분야 ‘제10차 SOS 간담회’ 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-08-27T06:23:42.861899+00:00"
+    },
+    {
+      "title": "복잡다기한 중소기업 지원사업을 효율화하고 신성장 분야 육성 등 전략사업에 재투자한다. - '全부처 중소기업 지원사업 효율화 방안' 및'신성장 분야 혁신기업 육성 방안' 발표 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775744",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부) 등 관계부처는 8월 27일(목) '재정운용전략협의회'(기획예산처 장관 주재)에서 '全(전)부처 중소기업 지원사업 효율화 방안'과 '신성장 분야 혁신기업 육성 방안'을 발표했다. 全부처 중소기업 지원사업 효율화 방안 정부 중소기업 지원사업은 중기부, 과학기술정보통신부, 산업통상부 등 22개 부처가 운영 중이며, 올해 기준 671개, 31조 원 규모에 이른다. 많은 중소기업이 정부 지원을 통해 성장하고 있으나, 일부 유사·중복 사업, 소액·나눠주기, 저성과·관행적 사업 등이 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531432&tblKey=GMN",
+          "filename": "260827_복잡·다기한_중소기업_지원사업을_효율화하고_신성장_분야_육성_등_전략사업에_재투자한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531433&tblKey=GMN",
+          "filename": "260827_복잡·다기한_중소기업_지원사업을_효율화하고_신성장_분야_육성_등_전략사업에_재투자한다.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531434&tblKey=GMN",
+          "filename": "260827_(보도참고자료)_신성장_분야_혁신기업_육성방안.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T06:23:42.861899+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
