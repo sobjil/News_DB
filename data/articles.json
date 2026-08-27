@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T10:08:55.152669+00:00",
-  "count": 2045,
+  "updated": "2026-08-27T10:23:52.762646+00:00",
+  "count": 2046,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1593,7 +1593,8 @@
           "filename": "260827_보도자료_2026년 7월 사업체노동력조사 및 2026년 4월 지역별사업체노동력조사 결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-08-27T04:23:40.464067+00:00"
+      "_attAt": "2026-08-27T10:23:43.484011+00:00",
+      "_attRev": 1
     },
     {
       "title": "초고령사회 대응 위한 지역보건·일차의료 혁신방안 논의",
@@ -1605,26 +1606,27 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531302&tblKey=GMN",
-          "filename": "(별첨) 제9차 의료혁신위원회 안건.hwpx"
-        },
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531300&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531352&tblKey=GMN",
           "filename": "[8.27.목 브리핑 시작(13시) 이후] 초고령사회 대응 위한 지역보건 일차의료 혁신방안 논의.hwpx"
         },
         {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531354&tblKey=GMN",
+          "filename": "(별첨) 제9차 의료혁신위원회 안건.hwpx"
+        },
+        {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531301&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531353&tblKey=GMN",
           "filename": "[8.27.목 브리핑 시작(13시) 이후] 초고령사회 대응 위한 지역보건 일차의료 혁신방안 논의.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531303&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531355&tblKey=GMN",
           "filename": "(별첨) 제9차 의료혁신위원회 안건.pdf"
         }
       ],
-      "_attAt": "2026-08-27T04:23:40.464067+00:00"
+      "_attAt": "2026-08-27T10:23:43.484011+00:00",
+      "_attRev": 1
     },
     {
       "title": "CPTPP 가입추진 사회적 논의 착수 관련 설명",
@@ -1650,7 +1652,8 @@
           "filename": "(국제농식품협력관-자유무역협정팀)CPTPP 가입추진 사회적 논의 착수 관련 설명(8.27. 배포 시 온라인).hwp"
         }
       ],
-      "_attAt": "2026-08-27T04:23:40.464067+00:00"
+      "_attAt": "2026-08-27T10:23:43.484011+00:00",
+      "_attRev": 1
     },
     {
       "title": "융합과 협업으로 대학 연구개발 혁신 이끌 선도연구센터 지정",
@@ -2650,6 +2653,27 @@
         }
       ],
       "_attAt": "2026-08-27T09:53:42.901127+00:00"
+    },
+    {
+      "title": "국민성장펀드가 로봇산업의 경쟁력 강화와'케이-콘텐츠'의 세계 영토 확장을 지원합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775822",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "국민성장펀드가 로봇산업의 경쟁력 강화와'케이-콘텐츠'의 세계 영토 확장을 지원합니다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0827]정부합동 보도자료-국민성장펀드 기금운용심의회 심의 결과.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531936&tblKey=GMN",
+          "filename": "[0827]정부합동 보도자료-국민성장펀드 기금운용심의회 심의 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531935&tblKey=GMN",
+          "filename": "[0827]정부합동 보도자료-국민성장펀드 기금운용심의회 심의 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T10:23:43.484011+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
