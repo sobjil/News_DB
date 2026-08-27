@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T08:09:04.420780+00:00",
-  "count": 2037,
+  "updated": "2026-08-27T08:23:45.063940+00:00",
+  "count": 2038,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2464,6 +2464,27 @@
         }
       ],
       "_attAt": "2026-08-27T08:08:42.773752+00:00"
+    },
+    {
+      "title": "[보도자료] 제19차 부동산 불법행위 대응협의회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775786",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "부동산감독추진단, 제19차 부동산 불법행위 대응협의회 개최- 부처별 부동산 불법행위 대응 추진현황 점검- 부동산 특별사법경찰제도 운영 현황 및 기관간 협력방안 논의□ 국무조정실 부동산감독추진단(단장 : 김용수 국무2차장겸임)은 8월 27일(목) 정부서울청사에서 제19차 부동산 불법행위 대응협의회를 개최하였다.ㅇ 회의에는 국토교통부, 금융위원회, 국세청, 경찰청 등 관계기관이 참석하여, 각 부처가 추진하고 있는 부동산 불법행위 조사·수사 현황과 향후계획을 공유하고, 기관 간 공조 강화방안을 논의하였다.* (참석) 재정경제부, 법무부,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531765&tblKey=GMN",
+          "filename": "260827_제19차 부동산 불법행위 대응협의회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531766&tblKey=GMN",
+          "filename": "260827_제19차 부동산 불법행위 대응협의회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T08:23:41.034864+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
