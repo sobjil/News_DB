@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T12:38:54.139786+00:00",
+  "updated": "2026-08-27T12:53:50.454769+00:00",
   "count": 2048,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2094,11 +2094,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531520&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531543&tblKey=GMN",
           "filename": "보도자료(숲은 더 깨끗하게， 산림행정은 더 투명하게).hwpx"
         }
       ],
-      "_attAt": "2026-08-27T06:53:40.422841+00:00"
+      "_attAt": "2026-08-27T12:53:43.955222+00:00",
+      "_attRev": 1
     },
     {
       "title": "어린이 보호구역 제한 속도, 합리적으로 운영한다…시간제 속도제한 확대 추진",
@@ -2119,7 +2120,8 @@
           "filename": "260828(조간용) 어린이 보호구역 시간제 속도제한 운영 기준 개선(교통기획).pdf"
         }
       ],
-      "_attAt": "2026-08-27T06:53:40.422841+00:00"
+      "_attAt": "2026-08-27T12:53:43.955222+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능 데이터센터 전력망 안정적으로 연결한다… 연구회 본격 가동",
@@ -2131,16 +2133,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531496&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531561&tblKey=GMN",
           "filename": "인공지능 데이터센터 전력망 안정적으로 연결한다… 연구회 본격 가동(보도자료)(계통운영 8.27).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198531497&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531562&tblKey=GMN",
           "filename": "인공지능 데이터센터 전력망 안정적으로 연결한다… 연구회 본격 가동(보도자료)(계통운영 8.27).pdf"
         }
       ],
-      "_attAt": "2026-08-27T06:53:40.422841+00:00"
+      "_attAt": "2026-08-27T12:53:43.955222+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰청, 2026 국제 사이버범죄대응 심포지엄(ISCR 2026) 개최",
@@ -2161,7 +2164,8 @@
           "filename": "260827(1200) 2026 ISCR 국제 사이버범죄대응 &#039;심포지엄&#039; 개최(사이버범죄).pdf"
         }
       ],
-      "_attAt": "2026-08-27T06:53:40.422841+00:00"
+      "_attAt": "2026-08-27T12:53:43.955222+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림 분야 3개 법률안 국회 본회의 통과",
