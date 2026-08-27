@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T22:53:51.014639+00:00",
-  "count": 1939,
+  "updated": "2026-08-27T23:08:46.889328+00:00",
+  "count": 1941,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -97,6 +97,48 @@
         }
       ],
       "_attAt": "2026-08-27T22:23:41.787665+00:00"
+    },
+    {
+      "title": "식약처, 국립중앙박물관 협업 ？삼삼한 밥상？ 건강 식생활 홍보",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775832",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "식약처, 국립중앙박물관 협업 삼삼한 밥상 건강 식생활 홍보",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532029&tblKey=GMN",
+          "filename": "[26.8.28.(금) 보도자료] 식약처, 국립중앙박물관 협업 ？삼삼한 밥상？ 건강 식생활 홍보.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532030&tblKey=GMN",
+          "filename": "[26.8.28.(금) 보도자료] 식약처, 국립중앙박물관 협업 ？삼삼한 밥상？ 건강 식생활 홍보.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T23:08:40.793453+00:00"
+    },
+    {
+      "title": "[보도참고] 국내 의료기기 해외시장 진출을 위한 MDSAP 심사 대응 가이드라인 3종 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775833",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "[보도참고] 국내 의료기기 해외시장 진출을 위한 MDSAP 심사 대응 가이드라인 3종 발간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532031&tblKey=GMN",
+          "filename": "[26.8.28.(금) 보도참고자료] 국내 의료기기 해외시장 진출을 위한 MDSAP 심사 대응 가이드라인 3종 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532032&tblKey=GMN",
+          "filename": "[26.8.28.(금) 보도참고자료] 국내 의료기기 해외시장 진출을 위한 MDSAP 심사 대응 가이드라인 3종 발간.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T23:08:40.793453+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
