@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T04:38:47.026409+00:00",
-  "count": 2001,
+  "updated": "2026-08-27T04:53:49.161203+00:00",
+  "count": 2004,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1614,6 +1614,69 @@
         }
       ],
       "_attAt": "2026-08-27T04:38:41.001740+00:00"
+    },
+    {
+      "title": "(설명) 조선일보, \"호남 반도체 공장, 노동쟁의 대상 되나\" 기사 관련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775726",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "- 8.27.(목) 조선일보, \"호남 반도체 공장, 노동쟁의 대상 되나\" 문 의: 노사관계법제과 서관범 (044-202-7609)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531335&tblKey=GMN",
+          "filename": "260827_보도설명_조선일보_호남 반도체 공장 노동쟁의 대상 되나.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531336&tblKey=GMN",
+          "filename": "260827_보도설명_조선일보_호남 반도체 공장 노동쟁의 대상 되나.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T04:53:41.340269+00:00"
+    },
+    {
+      "title": "건설근로자공제회, 건설 미래인재 키운다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775725",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "- 특성화고 단계부터 현장 중심 교육으로 청년 건설기능인력 양성 지원 건설근로자공제회(이사장 장건)는 특성화고 연계 훈련생들의 건설업 이해를 높이고 또래 간 교류를 활성화하기 위해 「건설 특성화고 또래 네트워크 워크숍」을 개최한다. 최근 건설 현장은 기능인력의 고령화와 청년층의 건설업 기피로 미래 인력 확보가 중요한 과제로 떠오르고 있다. 특히 AI와 디지털 기술이 발전하는 환경에서도 건설 현장은 사람의 손끝 기술과 현장 경험, 상황 판단이 요구되는 산업으로, 전문 건설기능인력의 중요성이 더욱 커지고 있다. 이에 건설근로자공제회는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531334&tblKey=GMN",
+          "filename": "260827_보도자료_특성화고 연계 훈련 워크숍(건설근로자공제회).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531333&tblKey=GMN",
+          "filename": "260827_보도자료_특성화고 연계 훈련 워크숍(건설근로자공제회).pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T04:53:41.340269+00:00"
+    },
+    {
+      "title": "재생에너지 사고팔 기업, 이제 한곳에서 만난다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775724",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "▷ 재생에너지 직접전력거래(PPA) 중개플랫폼 공식 출범 및 참여 업무협약 체결▷ 태양광·풍력 약 210MW 규모의 최초 계약 업무협약도 체결하여 민간 중심 재생에너지 직접거래 지원 신호탄기후에너지환경부(장관 김성환)는 8월 27일 오후 엘타워(서울 서초구 소재)에서 한국에너지공단, 재생에너지 관련 협회·기업 등과 함께 '재생에너지 직접전력거래(PPA) 중개플랫폼 출범 및 참여 협약식'을 개최한다. 이번 행사는 기업의 재생에너지 조달을 지원하기 위한 '재생에너지 직접전력거래 중개플랫폼'의 공식 출범을 알리고, 이를 활용한 직접전력거",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531331&tblKey=GMN",
+          "filename": "재생에너지 사고팔 기업 이제 한곳에서 만난다(보도자료)(재생에너지정책 8.27).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531332&tblKey=GMN",
+          "filename": "재생에너지 사고팔 기업 이제 한곳에서 만난다(보도자료)(재생에너지정책 8.27).pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T04:53:41.340269+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
