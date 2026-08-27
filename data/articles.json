@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T05:53:54.539653+00:00",
-  "count": 2011,
+  "updated": "2026-08-27T06:08:52.945602+00:00",
+  "count": 2014,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -281,16 +281,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530890&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530933&tblKey=GMN",
           "filename": "[8.27.보도참고자료] 에볼라 국내 유입 대비 민‧관이 함께한 지난 100일간의 총력 대응.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198530891&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198530934&tblKey=GMN",
           "filename": "[8.27.보도참고자료] 에볼라 국내 유입 대비 민‧관이 함께한 지난 100일간의 총력 대응.pdf"
         }
       ],
-      "_attAt": "2026-08-27T00:08:42.121408+00:00"
+      "_attAt": "2026-08-27T06:08:44.774112+00:00",
+      "_attRev": 1
     },
     {
       "title": "제273차 대외경제장관회의 개최",
@@ -1826,6 +1827,69 @@
         }
       ],
       "_attAt": "2026-08-27T05:53:42.260513+00:00"
+    },
+    {
+      "title": "현장 목소리 반영해 장애인학대 대응한다 장애인권익옹호기관장 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775742",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "현장 목소리 반영해 장애인학대 대응한다 장애인권익옹호기관장 간담회 개최- 차전경 장애인정책국장, 서울장애인권익옹호기관 현장방문 및 전국 장애인권익옹호기관장 의견청취 - 보건복지부 차전경 장애인정책국장은 8월 27일(목) 오후 2시, 서울특별시 강남구 소재 서울장애인권익옹호기관을 방문하여 중앙 및 지역 장애인권익옹호기관장들과 간담회를 열어 현장 의견을 청취하고, 업무현장을 둘러보며 종사자들을 격려하였다. 이번 간담회에서는 장애인학대 예방과 피해장애인 보호지원 업무를 수행하고 있는 장애인권익옹호기관의 현장 애로사항과 제도개선 의견을 청",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531426&tblKey=GMN",
+          "filename": "[보도참고자료] 현장 목소리 반영해 장애인학대 대응한다 장애인권익옹호기관장 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531427&tblKey=GMN",
+          "filename": "[보도참고자료] 현장 목소리 반영해 장애인학대 대응한다 장애인권익옹호기관장 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T06:08:44.774112+00:00"
+    },
+    {
+      "title": "국민통합위원회, 청소년정책 컨트롤타워 구축 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775740",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531423&tblKey=GMN",
+          "filename": "국민통합위원회, 청소년정책 컨트롤타워 구축 방안 논의.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531422&tblKey=GMN",
+          "filename": "국민통합위원회, 청소년정책 컨트롤타워 구축 방안 논의.hwp"
+        }
+      ],
+      "_attAt": "2026-08-27T06:08:44.774112+00:00"
+    },
+    {
+      "title": "친환경선박 확산으로 '녹색해운항로' 시대를 향해",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775741",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-08-27T00:00:00+09:00",
+      "description": "친환경선박 확산으로 '녹색해운항로' 시대를 향해- 「녹색해운항로 구축 지원 특별법」 하위법령 제정 입법예고 -- '제2차 친환경선박 개발·보급 기본계획('26~'35)' 본격 추진 - 해양수산부(장관 황종우)는 해운분야 탈탄소화 선도를 위해 제정한 ｢녹색해운항로 구축 지원 특별법｣의 시행령 및 시행규칙 제정안을 마련하고 2026년 9월 2일(수)부터 10월 13일(화)까지 입법 예고한다고 밝혔다. 녹색해운항로는 저탄소·무탄소 연료 또는 친환경 기술을 활용하여 항만 간의 물류운송 전 과정에서 탄소배출이 없는 운항을 지향하는 항로를 의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531425&tblKey=GMN",
+          "filename": "0827(28조간)조선해양플랜트과, 친환경선박 확산으로 ‘녹색해운항로’ 시대를 향해.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198531424&tblKey=GMN",
+          "filename": "0827(28조간)조선해양플랜트과, 친환경선박 확산으로 ‘녹색해운항로’ 시대를 향해.pdf"
+        }
+      ],
+      "_attAt": "2026-08-27T06:08:44.774112+00:00"
     },
     {
       "title": "[8.26.수.석간] 어린이는 추락, 노인은 낙상에 주의하세요!",
