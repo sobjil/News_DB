@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T09:07:48.713562+00:00",
-  "count": 2028,
+  "updated": "2026-08-28T09:22:51.675894+00:00",
+  "count": 2030,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -828,7 +828,8 @@
           "filename": "260829 조간 (보도) 제47회 전국학생과학발명품경진대회 수상자 발표.hwpx"
         }
       ],
-      "_attAt": "2026-08-28T03:08:42.176279+00:00"
+      "_attAt": "2026-08-28T09:22:43.952654+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 미래 대입제도 방향과 쟁점, 1박 2일 숙의토론 진행",
@@ -840,16 +841,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198532233&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532609&tblKey=GMN",
           "filename": "[국교위 8-28(금) 보도자료] 미래 대입제도 방향과 쟁점, 1박 2일 숙의토론 진행.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198532234&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532610&tblKey=GMN",
           "filename": "[국교위 8-28(금) 참고자료] 국민참여위원회 미래대입제도 숙의 사전자료집.pdf"
         }
       ],
-      "_attAt": "2026-08-28T03:08:42.176279+00:00"
+      "_attAt": "2026-08-28T09:22:43.952654+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능 시대 개인정보 보호와 활용, 최고의 미래 법률 전문가는?",
@@ -2142,6 +2144,58 @@
         }
       ],
       "_attAt": "2026-08-28T09:07:42.608008+00:00"
+    },
+    {
+      "title": "와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775953",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월- 사장추천위원회 미구성·운영에 따른 제재처분 의결 - 방송미디어통신위원회(위원장 김종철)는 28일 '2026년 제31차 전체회의'를 열고 사장추천위원회의 추천을 받아 대표자를 임명해야 하는 「방송법」을 위반하고 있는 보도전문채널 와이티엔(YTN)과 연합뉴스티브이(연합뉴스TV)에 대해 승인 유효기간 단축 3개월 처분을 부과하고, '26.10.10일까지 「방송법」 제20조 제3항 및 제4항 위반사항을 시정할 것을 명했다. 이는 지난 5월 15일 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532683&tblKey=GMN",
+          "filename": "260828 (보도자료) 의결(가). 와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532684&tblKey=GMN",
+          "filename": "260828 (보도자료) 의결(가). 와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532685&tblKey=GMN",
+          "filename": "260828 (보도자료) 의결(가). 와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월.hwp"
+        }
+      ],
+      "_attAt": "2026-08-28T09:22:43.952654+00:00"
+    },
+    {
+      "title": "2026년 제31차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775951",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "2026년 제31차 위원회 결과[의결 안건]가. 보도전문 방송채널사용사업자의 시정명령 미이행에 대한 행정처분에 관한 건 - ㈜와이티엔·㈜연합뉴스티브이 - o 사장추천위원회의 추천을 받아 대표자를 임명해야 하는 「방송법」을 위반하고 있는 ㈜와이티엔과 ㈜연합뉴스티브이에 대해 승인 유효기간 단축 3개월을 부과하고, '26.10.10.까지 「방송법」 제20조 제3항 및 제4항 위반사항을 시정하도록 의결했습니다. o 개정 「방송법」 시행 이후 현재까지 약 1년간 법을 위반한 방송사업자에 대해 엄정한 법 집행을 통해 법 질서를 확립할 필요가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532679&tblKey=GMN",
+          "filename": "제31차 위원회 결과 브리핑(260828).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532678&tblKey=GMN",
+          "filename": "제31차 위원회 결과 브리핑(260828).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532677&tblKey=GMN",
+          "filename": "제31차 위원회 결과 브리핑(260828).hwp"
+        }
+      ],
+      "_attAt": "2026-08-28T09:22:43.952654+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
