@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T02:53:49.709478+00:00",
-  "count": 1969,
+  "updated": "2026-08-28T03:08:47.576156+00:00",
+  "count": 1971,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -775,6 +775,43 @@
         }
       ],
       "_attAt": "2026-08-28T02:38:41.914654+00:00"
+    },
+    {
+      "title": "제47회 전국학생과학발명품경진대회 수상자 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775873",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "- 대통령상·국무총리상 비롯해 299명 수상- 사회적 약자의 편의를 위한 작품 돋보여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532231&tblKey=GMN",
+          "filename": "260829 조간 (보도) 제47회 전국학생과학발명품경진대회 수상자 발표.hwpx"
+        }
+      ],
+      "_attAt": "2026-08-28T03:08:42.176279+00:00"
+    },
+    {
+      "title": "[보도자료] 미래 대입제도 방향과 쟁점, 1박 2일 숙의토론 진행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775874",
+      "agency": "국가교육위원회",
+      "agencyCode": "",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "□ 대통령 소속 행정위원회인 국가교육위원회(위원장 차정인)는 8월 29일(토)부터 8월 30일(일)까지 경기도 화성시 소재 연수원에서 국민참여위원회 미래대입제도 숙의토론을 개최한다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532233&tblKey=GMN",
+          "filename": "[국교위 8-28(금) 보도자료] 미래 대입제도 방향과 쟁점, 1박 2일 숙의토론 진행.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532234&tblKey=GMN",
+          "filename": "[국교위 8-28(금) 참고자료] 국민참여위원회 미래대입제도 숙의 사전자료집.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T03:08:42.176279+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
