@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T00:23:58.791743+00:00",
-  "count": 1951,
+  "updated": "2026-08-28T00:38:47.394781+00:00",
+  "count": 1953,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -388,6 +388,48 @@
         }
       ],
       "_attAt": "2026-08-28T00:23:43.442062+00:00"
+    },
+    {
+      "title": "조달청, 9월 대형사업 총 178건, 3조 7,113억 원 상당 입찰 예정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775846",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "조달청, 9월 대형사업 총 178건, 3조 7,113억 원 상당 입찰 예정 □ ①(공사) 87건 2조 8,308억 원 ②(물품) 33건 7,047억 원 ③(용역) 58건 1,758억 원 ① (공사) 노들섬 하늘예술정원 조성공사2,190억 원 - 서울시립도서관(동대문) 건립공사(1,170억 원), SK하이닉스 신규공장 공업용수 공급사업(3단계 3공구)(697억원) 등 추진 ② (물품) 다목적실용위성 8호 탑재체 개발2,634억 원 - 다목적실용위성 8호 본체 개발(1,428억 원), 26년 단속전담함정 2척 건조(881억 원) 등 추",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532074&tblKey=GMN",
+          "filename": "260828_(보도자료)_대형사업 입찰동향_배포용.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532075&tblKey=GMN",
+          "filename": "260828_(보도자료)_대형사업 입찰동향_배포용.hwp"
+        }
+      ],
+      "_attAt": "2026-08-28T00:38:41.884127+00:00"
+    },
+    {
+      "title": "국민성장펀드가 로봇산업의 경쟁력 강화와K-콘텐츠의 글로벌 영토 확장을 지원합니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775847",
+      "agency": "금융위원회",
+      "agencyCode": "fsc",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "국민성장펀드가 로봇산업의 경쟁력 강화와K-콘텐츠의 글로벌 영토 확장을 지원합니다. • 국민성장펀드 기금운용심의회는 '원익로보틱스 휴머노이드 양산시설 구축사업' 및 'CJ포디플렉스의 글로벌 기술특별관 인프라 확장' 등 총 7건의 사업에 대한 자금지원(지분투자, 저리대출) 승인 ① 로봇 전문기업인 '(주)원익로보틱스'의 전북 소재 생산공장 신축을 위해 3,500억원 직접 지분투자 ☞ 로봇핸드, 산업용 휴머노이드의 경쟁력 강화 ② '씨제이포디플렉스(주)' 글로벌 기술특별관 확대에 2,200억원 지분투자 ☞ '콘텐츠테크' 강화 및 K-콘텐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532076&tblKey=GMN",
+          "filename": "260828 (금융위 보도자료 8.27일) 국민성장펀드가 로봇산업의 경쟁력 강화와 K-콘텐츠의 글로벌 영토 확장을 지원합니다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532077&tblKey=GMN",
+          "filename": "260828 (금융위 보도자료 8.27일) 국민성장펀드가 로봇산업의 경쟁력 강화와 K-콘텐츠의 글로벌 영토 확장을 지원합니다.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T00:38:41.884127+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
