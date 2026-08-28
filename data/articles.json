@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T07:52:53.179604+00:00",
-  "count": 2018,
+  "updated": "2026-08-28T08:07:52.943918+00:00",
+  "count": 2021,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -763,11 +763,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198532209&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532219&tblKey=GMN",
           "filename": "보도자료(고성양묘사업소 근로자 마음건강 힐링 및 안전보건교육 실시).hwpx"
         }
       ],
-      "_attAt": "2026-08-28T01:53:43.621681+00:00"
+      "_attAt": "2026-08-28T08:07:43.521078+00:00",
+      "_attRev": 1
     },
     {
       "title": "잠자는 특허기술 깨울 '지식재산 거래 장터' 열린다",
@@ -779,16 +780,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198532196&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532282&tblKey=GMN",
           "filename": "271 [지식재산처] 잠자는 특허기술 깨울 ‘지식재산 거래 장터’ 열린다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198532197&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532283&tblKey=GMN",
           "filename": "271 [지식재산처] 잠자는 특허기술 깨울 ‘지식재산 거래 장터’ 열린다.pdf"
         }
       ],
-      "_attAt": "2026-08-28T01:53:43.621681+00:00"
+      "_attAt": "2026-08-28T08:07:43.521078+00:00",
+      "_attRev": 1
     },
     {
       "title": "해외 진출 우리 기업의 안전, 국경 넘어 지킨다",
@@ -1919,6 +1921,79 @@
         }
       ],
       "_attAt": "2026-08-28T07:52:44.026043+00:00"
+    },
+    {
+      "title": "청년의 잠재력에 국가가 투자합니다! 청년 예산 언박싱(UNBOXING) 2027, ？청년 성장단계별 종합투자 추진전략？ 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775943",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "- 일자리·창업의 '성장·이동 사다리' 복원, 교육·주거·자산의 '출발선 격차' 완화, '삶의 질' 제고 등 성장단계별 맞춤형 재정투자 확대 ('26년 28.2 → '27년 정부안 43.3조원, +53.5%)- 아이가 태어나서 자립할 때(0~34세)까지 정부가 최대 1억 9,582만원 지원 정부는 8월 28일(금) 오후 3시 청와대 충무실에서 대통령 주재로 '청년 예산 언박싱(UNBOXING) 2027' 행사를 개최하고, 관계부처 합동으로 '청년 성장단계별 종합투자 추진전략'을 발표하였다. 최근 청년세대는 산업구조 변화로 청년의 첫",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532604&tblKey=GMN",
+          "filename": "(최종) 260828_보도자료_청년 성장단계별 종합투자 추진전략 발표.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532606&tblKey=GMN",
+          "filename": "(최종) 260828 청년 성장단계별 종합투자 추진전략(0845 기준).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532605&tblKey=GMN",
+          "filename": "(최종) 260828_보도자료_청년 성장단계별 종합투자 추진전략 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T08:07:43.521078+00:00"
+    },
+    {
+      "title": "첫출발-일자리-경력·성장까지 전주기 밀착지원 - ？청년일자리 회복방안？ 발표 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775942",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "- 3대 메가프로젝트 등 첨단산업·청년선호분야 전문인력 30만명 이상 양성(~'30)- 민간·공공부문 괜찮은 일자리 및 창업 30만개 이상 창출(~'30)- 훈련에 한번 참여하면 첫 일자리 진입 및 경력성장까지 All 케어- 청년이 지방 중소기업에 들어가면 2년간 月 최대100만원 내외 지원 효과 * 청년일자리도약장려금(+月최대75만원),청년미래적금(+月최대20만원수준),청년문화예술패스(+月1만원수준) 등 정부는 8.28일(금) 08:30 구윤철 부총리 겸 재정경제부 장관 주재로 개최된 비상경제본부 회의 겸 경제관계장관회의에서 청년",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532601&tblKey=GMN",
+          "filename": "260828_보도자료_청년일자리 회복방안(수정).hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532602&tblKey=GMN",
+          "filename": "260828 청년일자리 회복방안_(게시용).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532603&tblKey=GMN",
+          "filename": "260828_보도자료_청년일자리 회복방안(수정).pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T08:07:43.521078+00:00"
+    },
+    {
+      "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775941",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "김영훈 고용노동부 장관은 '26.8. 28.(금) 11:44분경(추정) 충남 천안시 동남구 소재 제조업 공장에서 발생한 화재사고*와 관련하여, 산업안전보건정책실장을 현장에 급파하고 신속한 사고수습·대응을 긴급 지시하였다. *공장동에서 원인 미상의 화재 발생(추정) / 사망 3명, 부상 1명(중상) 이에 따른 고용노동부의 조치 사항은 다음과 같다. ①고용노동부 본부와 천안지청에 각각 중앙산업재해수습본부 및 지역산업재해수습본부를 즉시 구성 -산업안전보건정책실장, 대전지방고용노동청장을 현장에 급파하여 신속하고 체계적인 사고 수습 지원 ②",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532600&tblKey=GMN",
+          "filename": "260828_보도참고_충남 천안시 공장 화재사고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532599&tblKey=GMN",
+          "filename": "260828_보도참고_충남 천안시 공장 화재사고.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T08:07:43.521078+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
