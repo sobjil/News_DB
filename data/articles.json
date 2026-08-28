@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T06:08:52.473787+00:00",
-  "count": 1993,
+  "updated": "2026-08-28T06:23:56.747133+00:00",
+  "count": 2000,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -234,7 +234,8 @@
           "filename": "[8.28.보도참고자료] 의료방사선 검사 건수 매년 증가, 피폭선량 높은 컴퓨터단층촬영은 &amp;#039;적정 이용&amp;#039;이 중요.pdf"
         }
       ],
-      "_attAt": "2026-08-28T00:08:41.730439+00:00"
+      "_attAt": "2026-08-28T06:23:41.418805+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청 시설공사 주간('26.8.31.~'26.9.4.)입찰 동향",
@@ -1306,6 +1307,158 @@
         }
       ],
       "_attAt": "2026-08-28T06:08:41.550893+00:00"
+    },
+    {
+      "title": "(동정) 황종우 해수부 장관, 민·관 협력을 통한 바다숲 조성 업무협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775910",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "황종우 해수부 장관, 민·관 협력을 통한 바다숲 조성 업무협약 체결- 충남 태안군 궁시도 인근 해역에 민간 협력 바다숲 1개 조성 추진 황종우 해양수산부 장관은 8월 28일(금) 민·관 협력을 통한 바다숲 조성 활성화를 위해 한국전력공사 등 4개 기관과의 업무 협약을 체결하였다. 이날 협약식에는 황 장관을 비롯하여, 김동철 한국전력공사 사장, 윤희신 태안군수, 김종덕 한국수산자원공단 이사장 등이 참석하였다. * (정부) 해양수산부/ (민간) 한국전력공사/ (지자체) 태안군 / (공공) 한국수산자원공단 4개 기관은 이번 업무협약을 통",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532415&tblKey=GMN",
+          "filename": "260828 (동정) 황종우 해수부 장관 민관 협력을 통한 바다숲 조성 업무협약 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532414&tblKey=GMN",
+          "filename": "260828 (동정) 황종우 해수부 장관 민관 협력을 통한 바다숲 조성 업무협약 체결.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "2026 인천광역시 제61회 전국기능경기대회 폐회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775909",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "- 전국 16개 시·도 1,677명 선수, 51개 직종에서 실력 겨뤄- 제62회 전국기능경기대회는 충청북도에서 개최 예정 한국산업인력공단(이사장 이병훈, 이하 '공단')은 28일 송도컨벤시아(인천 연수구)에서 '2026 인천광역시 제61회 전국기능경기대회' 폐회식을 개최했다. 전국기능경기대회는 숙련기술을 우대하는 사회적 분위기를 조성하고자, 1966년 서울대회부터 매년 개최하고 있다. 이번 대회는 고용노동부, 인천광역시, 인천광역시교육청이 공동주최하고 공단과 인천광역시 기능경기위원회가 공동 주관해, 지난 22일부터 28일까지 7일간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532411&tblKey=GMN",
+          "filename": "260828_보도자료_2026 인천광역시 제61회 전국기능경기대회 폐회식(한국산업인력공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532410&tblKey=GMN",
+          "filename": "260828_보도자료_2026 인천광역시 제61회 전국기능경기대회 폐회식(한국산업인력공단).pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "[설명] 정부는 기업 비업무용 토지 제도 개선을 위해관계부처간 긴밀하게 협력하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775911",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "[설명] 정부는 기업 비업무용 토지 제도 개선을 위해관계부처간 긴밀하게 협력하고 있습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532416&tblKey=GMN",
+          "filename": "260828(설명) 정부는 기업 비업무용 토지 제도 개선을 위해관계부처간 긴밀하게 협력하고 있습니다.(국가공간정보센터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532417&tblKey=GMN",
+          "filename": "260828(설명) 정부는 기업 비업무용 토지 제도 개선을 위해관계부처간 긴밀하게 협력하고 있습니다.(국가공간정보센터).pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775912",
+      "agency": "법제처",
+      "agencyCode": "moleg",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어- 한국법제연구원과 공동으로 '제3회 미래법제포럼' 개최법제처(처장 조원철)는 8월 28일(금), '미래 법제의 방향성 - 신기술의 산업 활용과 AI·데이터 활용 법제'를 주제로 '제3회 미래법제포럼(The 3rd Forum for Future Legislation)'을 엘타워(서울시 서초구 소재)에서 개최했다. 한국법제연구원(원장 이국운)과 공동 개최한 이번 포럼에서는 피지컬AI·자율주행·신기술 창업·데이터 활용 등 미래법제 관련 주요 분야 실무자 및 법제 관련 전문",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532426&tblKey=GMN",
+          "filename": "[8월 28일 배포] 법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532427&tblKey=GMN",
+          "filename": "[8월 28일 배포] 법제처, 미래 신기술과 인공지능(AI) 활용 관련 토론의 장 열어.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "충청권 광역교통망 더 빠르고 촘촘하게 잇는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775906",
+      "agency": "행정중심복합도시건설청",
+      "agencyCode": "",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "충청권 광역교통망 더 빠르고 촘촘하게 잇는다 관련 보도자료입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532402&tblKey=GMN",
+          "filename": "260828 행복청 26-66호 보도자료(제34차 광역교통협의회 개최).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532403&tblKey=GMN",
+          "filename": "260828 행복청 26-66호 보도자료(제34차 광역교통협의회 개최).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532401&tblKey=GMN",
+          "filename": "260828 행복청 26-66호 보도자료(제34차 광역교통협의회 개최).hwp"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "행안부, 미래대응기금 설명과 지방 의견 청취",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775908",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "- 미래대응기금 개편 방안 시·도지사에 직접 설명하고 의견 청취- 송경주 지방재정경제실장, 강원도 행정부지사 면담 및 시군 간담회 개최 행정안전부(장관 윤호중)는 8월 28일(금) 강원특별자치도를 찾아 정부의 미래대응기금 추진 방안을 설명하고, 미래대응기금의 차질 없는 추진을 위한 지방정부의 협조를 요청했다. 이번 방문은 미래대응기금 조성 취지 등 개편 방안을 시·도지사들에게 설명하고 적극적인 협조를 구하기 위해 추진한 것이다. 이에 앞서 정부는 지난 8월 21일(금), 반도체 호황으로 증가한 세수를 활용해 잠재성장률 반등을 위한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532408&tblKey=GMN",
+          "filename": "260829 (15시) 행안부 미래대응기금 설명과 지방 의견 청취(교부세과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532409&tblKey=GMN",
+          "filename": "260829 (15시) 행안부 미래대응기금 설명과 지방 의견 청취(교부세과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "2026년 아시아태평양경제협력체(APEC) 제3차 고위관리회의(SOM3) 참석",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775905",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "2026년 아시아태평양경제협력체(APEC) 제3차 고위관리회의(SOM3) 및 관련 회의가 8.17.(월)~8.28.(금)간 중국 다롄에서 개최되었다. ※ 고위관리회의(SOM)는 APEC 회원 간 협력 사안을 논의하는 고위급 협의체로, 매년 4회의 공식회의와 1회의 비공식회의를 개최하고 그 결과를 합동각료회의 및 정상회의에 보고 박종한 외교부 경제외교조정관을 수석대표로 하는 우리 정부 대표단은 고위관리회의와 연계성 정책대화와 디지털 경제·AI 정책대화 및 APEC 산하 주요 위원회인 경제기술협력운영위원회(SCE) 등에 참석하여 의장국",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532385&tblKey=GMN",
+          "filename": "[26-293](보도자료) 2026년 아시아태평양경제협력체(APEC) 제3차 고위관리회의(SOM3) 참석.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532386&tblKey=GMN",
+          "filename": "[26-293](보도자료) 2026년 아시아태평양경제협력체(APEC) 제3차 고위관리회의(SOM3) 참석.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:23:41.418805+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
