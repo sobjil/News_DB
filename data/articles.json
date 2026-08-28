@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T04:38:51.270941+00:00",
-  "count": 1978,
+  "updated": "2026-08-28T04:53:46.160541+00:00",
+  "count": 1979,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -966,6 +966,27 @@
         }
       ],
       "_attAt": "2026-08-28T04:38:42.047203+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 충남 천안시 공장화재 관련 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775887",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "한성숙 국무총리, 충남 천안시 공장화재 관련 긴급지시□ 한성숙 국무총리는 8월 28일(금), 충남 천안시 공장화재 관련하여 아래와 같이 긴급 지시했다.ㅇ 소방청은 가용 소방력과 장비를 총 동원하여 화재진압까지 현장활동 및 인명검색에 최선을 다할 것ㅇ 행정안전부, 경찰청, 지방정부 등 관계기관은 이번 화재로 인한 부상자 지원에 만전을 기할 것ㅇ 현장에서 화재 진압 중인 소방공무원의 현장 활동 시 2차 사고 발생 방지 등 안전에 유의할 것",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532296&tblKey=GMN",
+          "filename": "260828_한성숙 국무총리 충남 천안시 공장화재 관련 긴급지시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532297&tblKey=GMN",
+          "filename": "260828_한성숙 국무총리 충남 천안시 공장화재 관련 긴급지시.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T04:53:41.511435+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
