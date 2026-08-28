@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T06:40:46.756961+00:00",
-  "count": 2000,
+  "updated": "2026-08-28T06:43:47.808560+00:00",
+  "count": 2001,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1467,6 +1467,27 @@
         }
       ],
       "_attAt": "2026-08-28T06:23:41.418805+00:00"
+    },
+    {
+      "title": "관세청, '원산지 국민감시단' 위촉 국민 참여형 감시체계 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775914",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "관세청, '원산지 국민감시단' 위촉 국민 참여형 감시체계 강화- 원산지표시 제도에 관심 있는 일반 국민 36명을 감시단으로 위촉- 국민 눈높이에서 원산지표시 위반행위를 발굴하는 촘촘한 감시망 가동 관세청은 8월 28일(금) 정부대전청사에서 대국민 공모를 통해 선발된 「원산지 국민감시단」의 위촉식을 개최하고 국민이 직접 참여하는 원산지표시 감시활동을 한층 강화한다고 밝혔다. 관세청은 단속 인력의 한계를 극복하고 갈수록 지능화되는 위반 수법에 효과적으로 대응하기 위해 지난 2009년 원산지 국민감시단 제도를 최초로 도입하였으며, 202",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532450&tblKey=GMN",
+          "filename": "260828 관세청, ‘원산지 국민감시단’ 위촉 국민 참여형 감시체계 강화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532451&tblKey=GMN",
+          "filename": "260828 관세청, ‘원산지 국민감시단’ 위촉 국민 참여형 감시체계 강화.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T06:43:44.193270+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
