@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T23:53:53.407004+00:00",
-  "count": 1944,
+  "updated": "2026-08-28T00:08:46.380424+00:00",
+  "count": 1945,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -207,6 +207,27 @@
         }
       ],
       "_attAt": "2026-08-27T23:53:41.448605+00:00"
+    },
+    {
+      "title": "의료방사선 검사 건수 매년 증가, 피폭선량 높은 컴퓨터단층촬영은 '적정 이용'이 중요(8.28.금)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775838",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-08-28T00:00:00+09:00",
+      "description": "의료방사선 검사 건수 매년 증가, 피폭선량 높은 CT촬영은 '적정 이용'이 중요- '25년 의료방사선 검사 총 4억 3,159만 건(국민 1인당 8.4건), 최근 5년간 지속 증가- 컴퓨터단층촬영(CT)는 전체 검사 건수의 3.8%지만, 국민 의료방사선 피폭선량의 67.1% 차지- 질병관리청, '의료영상진단 정당성 지침' 및 '진단참고수준' 보급으로 의료방사선 적정이용 지원 질병관리청(청장 임승관)은 「2025년 국민 의료방사선 평가 연보」 발간을 하고, 2025년 국민의 의료방사선 검사* 건수가 총 4억 3,159만 건으로 집계됐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532044&tblKey=GMN",
+          "filename": "[8.28.보도참고자료] 의료방사선 검사 건수 매년 증가, 피폭선량 높은 컴퓨터단층촬영은 &amp;#039;적정 이용&amp;#039;이 중요.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532043&tblKey=GMN",
+          "filename": "[8.28.보도참고자료] 의료방사선 검사 건수 매년 증가, 피폭선량 높은 컴퓨터단층촬영은 &amp;#039;적정 이용&amp;#039;이 중요.pdf"
+        }
+      ],
+      "_attAt": "2026-08-28T00:08:41.730439+00:00"
     },
     {
       "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
