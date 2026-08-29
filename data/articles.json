@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T02:41:52.803642+00:00",
-  "count": 1915,
+  "updated": "2026-08-29T02:50:46.834020+00:00",
+  "count": 1916,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775970",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-29T00:00:00+09:00",
+      "description": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532860&tblKey=GMN",
+          "filename": "260829 (참고) 의왕역 작업자 사망사고를 철저히 조사 엄중 조치하고 근본적 대책을 마련하겠습니다.(철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532861&tblKey=GMN",
+          "filename": "260829 (참고) 의왕역 작업자 사망사고를 철저히 조사 엄중 조치하고 근본적 대책을 마련하겠습니다.(철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-29T02:50:42.392831+00:00"
+    },
     {
       "title": "위례선 트램 건설사업 갈등조정안 심의·의결",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775830",
