@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T06:02:43.521252+00:00",
-  "count": 1917,
+  "updated": "2026-08-29T06:17:46.257080+00:00",
+  "count": 1918,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,27 @@
         }
       ],
       "_attAt": "2026-08-29T04:47:42.373783+00:00"
+    },
+    {
+      "title": "[보도자료] 기후시민회의 토론회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775979",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-29T00:00:00+09:00",
+      "description": "한성숙 국무총리, '기후시민회의'첫 숙의토론회 참석...참여 시민 격려- 의제 선정 후 첫 토론 현장 찾아… \"기후위기 대응의 핵심은 시민참여\"- \"시민의 목소리가 공론화를 거쳐 정책이 되는 과정 적극 지원할 것\"【국정과제 40】 지속가능 미래를 위한 탄소중립 실현 – 탄소중립 사회실현을 위한 거버넌스 강화□ 대통령직속 국가기후위기대응위원회(공동위원장 : 한성숙 국무총리, 이창훈 민간위원장, 이하 '기후대응위')는 8월29일(토) 섬유패션클럽(한국섬유산업연합회 17층)에서 기후시민회의* 전체회의를 열고 본격적인 의제 토론에 돌입했다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532891&tblKey=GMN",
+          "filename": "260829_기후시민회의 토론회 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532892&tblKey=GMN",
+          "filename": "260829_기후시민회의 토론회 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-29T06:17:41.607640+00:00"
     },
     {
       "title": "위례선 트램 건설사업 갈등조정안 심의·의결",
