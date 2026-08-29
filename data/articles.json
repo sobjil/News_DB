@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T07:32:42.416027+00:00",
-  "count": 1918,
+  "updated": "2026-08-29T07:47:46.885664+00:00",
+  "count": 1919,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -123,6 +123,27 @@
         }
       ],
       "_attAt": "2026-08-29T06:17:41.607640+00:00"
+    },
+    {
+      "title": "[차관동정] 홍지선 제2차관, \"철저한 사고원인 조사를 통해 근본적 재발방지 대책을 마련할 것\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775981",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-29T00:00:00+09:00",
+      "description": "[차관동정] 홍지선 제2차관, \"철저한 사고원인 조사를 통해 근본적 재발방지 대책을 마련할 것\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532903&tblKey=GMN",
+          "filename": "260829_(동정)_홍지선_제2차관__“철저한_사고원인_조사를_통해_근본적_재발방지_대책을_마련할_것“(철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532904&tblKey=GMN",
+          "filename": "260829_(동정)_홍지선_제2차관__“철저한_사고원인_조사를_통해_근본적_재발방지_대책을_마련할_것“(철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-29T07:47:41.689717+00:00"
     },
     {
       "title": "위례선 트램 건설사업 갈등조정안 심의·의결",
@@ -2414,8 +2435,8 @@
           "filename": "[26-296] (보도자료) 네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령.pdf"
         }
       ],
-      "_attAt": "2026-08-29T01:37:43.386796+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-29T07:47:41.689717+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"다시 공부하니, 나에게도 꿈이 생겼어요\" 검정고시, '시험'이 아닌 '삶을 바꾸는 기회'",
