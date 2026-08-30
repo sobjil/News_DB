@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T20:53:53.650024+00:00",
-  "count": 1811,
+  "updated": "2026-08-30T21:08:48.469946+00:00",
+  "count": 1813,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,48 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "'26년 7월 주택통계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776040",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "'26년 7월 주택통계 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533111&tblKey=GMN",
+          "filename": "260831(석간)_26년_7월_주택통계(주택정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533112&tblKey=GMN",
+          "filename": "260831(석간)_26년_7월_주택통계(주택정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-30T21:08:42.970749+00:00"
+    },
+    {
+      "title": "국민이 느낀 해양수산현장 불편 규제, 국민 아이디어로 바꾼다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776039",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "국민이 느낀 해양수산현장 불편 규제, 국민 아이디어로 바꾼다!- 규제합리화 대국민 공모전 우수과제 6건 발표, 현장중심 규제합리화 지속 추진 해양수산부(장관 황종우)는 '2026년 해양수산 규제합리화 과제 대국민 공모전(이하 '공모전')' 결과, 우수과제 6건을 최종 선정했다고 밝혔다. 이번 공모전은 해양수산 현장의 불합리한 규제를 국민의 시각에서 발굴하기 위해 지난 5월 18일부터 6월 26일까지 진행되었다. 이번 공모전에는 총 137개의 과제가 접수되었으며, 해양수산부는 내·외부 위원으로 구성된 심사위원회를 통해 효과성, 실현가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533110&tblKey=GMN",
+          "filename": "260831(석간) 국민이 느낀 해양수산현장 불편 규제, 국민 아이디어로 바꾼다(규제개혁법무담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533109&tblKey=GMN",
+          "filename": "260831(석간) 국민이 느낀 해양수산현장 불편 규제, 국민 아이디어로 바꾼다(규제개혁법무담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-08-30T21:08:42.970749+00:00"
+    },
     {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775982",
