@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T13:23:43.230815+00:00",
-  "count": 1837,
+  "updated": "2026-08-30T13:38:45.982781+00:00",
+  "count": 1838,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -514,6 +514,27 @@
         }
       ],
       "_attAt": "2026-08-30T09:53:43.208136+00:00"
+    },
+    {
+      "title": "8.29~31일 호우 대처 중대본 회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776038",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-08-30T00:00:00+09:00",
+      "description": "- 새벽 취약시간대 호우로 인한 인명피해 최소화를 위해 대비태세 확립 - 행안부, 집중 호우 예보 5개 지역 과장급 현장상황관리관 파견 중앙재난안전대책본부(본부장 행정안전부장관 윤호중, 이하 중대본)는 오늘(30일) 22시 집중호우 대응을 위해 김광용 중대본 차장(재난안전관리본부장) 주재로 중앙재난안전대책본부 회의를 개최했다. 앞서 행정안전부는 전남광주·울산·전북·경북 지역에 호우특보가 발표됨에 따라 선제적인 대응을 위해 오늘(30일) 17시를 기해 호우 위기경보를 '관심'에서 '주의' 단계로 격상하고, 중대본 1단계 비상근무 태세",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533105&tblKey=GMN",
+          "filename": "260830 (즉시) 8.29~31일 호우 대처 중대본 회의 개최(자연재난대응과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533106&tblKey=GMN",
+          "filename": "260830 (즉시) 8.29~31일 호우 대처 중대본 회의 개최(자연재난대응과).pdf"
+        }
+      ],
+      "_attAt": "2026-08-30T13:38:42.207175+00:00"
     },
     {
       "title": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다.",
