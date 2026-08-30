@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T21:08:48.469946+00:00",
-  "count": 1813,
+  "updated": "2026-08-30T21:23:46.848859+00:00",
+  "count": 1814,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,27 @@
         }
       ],
       "_attAt": "2026-08-30T21:08:42.970749+00:00"
+    },
+    {
+      "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776041",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "▷ 온실가스종합정보센터, 유엔기후변화협약(UNFCCC) 사무국과 '제16차 국제 온실가스 전문가 교육과정' 3주간 운영기후에너지환경부 소속 온실가스종합정보센터(센터장 최민지)는 유엔기후변화협약(UNFCCC) 사무국과 공동으로 8월 31일부터 3주간 세종대학교(서울 광진구 소재)에서 제16차 국제 온실가스 전문가 교육과정을 운영한다.온실가스종합정보센터는 2011년부터 이 교육과정을 매년 운영해 왔다. 지금까지 109개국 498명의 전문가가 이 과정을 거쳐 갔으며, 2017년부터는 유엔기후변화협약 사무국과 공동으로 운영하고 있다. 양측",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533113&tblKey=GMN",
+          "filename": "23개국 공무원 한자리에 모여 온실가스 보고 역량 키운다(보도자료)(온실가스종합 8.31).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533114&tblKey=GMN",
+          "filename": "23개국 공무원 한자리에 모여 온실가스 보고 역량 키운다(보도자료)(온실가스종합 8.31).pdf"
+        }
+      ],
+      "_attAt": "2026-08-30T21:23:42.230008+00:00"
     },
     {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
