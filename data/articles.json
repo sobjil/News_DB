@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T05:38:44.317296+00:00",
-  "count": 1832,
+  "updated": "2026-08-30T05:53:46.353687+00:00",
+  "count": 1833,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -406,6 +406,32 @@
         }
       ],
       "_attAt": "2026-08-30T05:23:43.052336+00:00"
+    },
+    {
+      "title": "글로벌최저한세, 한국 국세청의 선진 세정경험 수출",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776000",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-08-30T00:00:00+09:00",
+      "description": "글로벌최저한세, 한국 국세청의 선진 세정경험 수출 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533013&tblKey=GMN",
+          "filename": "(260827) 국세청, 일하는 저소득 가구의 든든한 버팀목, &#039;25년 귀속 정기분 근로자녀장려금 270만 가구에 2.9조 원 지급.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533015&tblKey=GMN",
+          "filename": "(260827) 국세청, 일하는 저소득 가구의 든든한 버팀목, &#039;25년 귀속 정기분 근로자녀장려금 270만 가구에 2.9조 원 지급.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533014&tblKey=GMN",
+          "filename": "(260827) 국세청, 일하는 저소득 가구의 든든한 버팀목, &#039;25년 귀속 정기분 근로자녀장려금 270만 가구에 2.9조 원 지급.hwp"
+        }
+      ],
+      "_attAt": "2026-08-30T05:53:42.398065+00:00"
     },
     {
       "title": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다.",
