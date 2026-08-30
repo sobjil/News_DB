@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T23:47:43.073671+00:00",
-  "count": 1816,
+  "updated": "2026-08-30T00:02:46.107740+00:00",
+  "count": 1817,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775982",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-08-30T00:00:00+09:00",
+      "description": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0830]문체부보도자료-프랑스 랑도네협회 방한 연계 케이-도보 여행 활성화 추진.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532955&tblKey=GMN",
+          "filename": "[0830]문체부보도자료-프랑스 랑도네협회 방한 연계 케이-도보 여행 활성화 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198532954&tblKey=GMN",
+          "filename": "[0830]문체부보도자료-프랑스 랑도네협회 방한 연계 케이-도보 여행 활성화 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-08-30T00:02:41.419167+00:00"
+    },
     {
       "title": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다.",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775970",
