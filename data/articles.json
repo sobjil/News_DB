@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T03:38:54.382456+00:00",
-  "count": 1904,
+  "updated": "2026-08-31T03:54:01.363097+00:00",
+  "count": 1915,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2058,6 +2058,292 @@
         }
       ],
       "_attAt": "2026-08-31T03:23:41.930853+00:00"
+    },
+    {
+      "title": "골드키위 '감황', 꽃봉오리 모양 달라져도 수확량은 안정적",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776203",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 최근 제주 일부 골드키위 '감황' 재배 농가에서 꽃봉오리 모양이 다르게 나타나는(꽃봉오리 기형) 경우가 있었지만, 개화기 적절한 재배 관리가 이뤄지면 실제 수확량에는 큰 영향이 없다고 밝혔다. '감황'은 열매가 크고 당도가 17~18브릭스로 높으며, 과육의 노란색이 진해 소비자 선호도가 높은 품종이다. 제주 지역을 중심으로 성산, 애월에 전문 생산단지가 조성되면서 보급이 확대되고 있다. 최근 일부 농가에서는 큰 꽃봉오리(중심 꽃)와 작은 꽃봉오리(곁 꽃)가 자연스럽게 나뉘지 않고 함께 붙어 있는 형태가 관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533898&tblKey=GMN",
+          "filename": "28-3_골드키위감황꽃봉오리모양달라져도수확량은안정적(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533899&tblKey=GMN",
+          "filename": "28-3_골드키위감황꽃봉오리모양달라져도수확량은안정적(원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533897&tblKey=GMN",
+          "filename": "28-3_골드키위감황꽃봉오리모양달라져도수확량은안정적(원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "국산 귀리 하루 70g, 식후 혈당·콜레스테롤 동시 관리",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776201",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 국제 학술지에 보고된 임상 연구를 근거로 곡류의 '베타글루칸' 성분을 3g(그램) 이상 섭취하면 식후 혈당 상승과 혈중 콜레스테롤을 동시에 낮추는 데 도움이 된다는 사실을 확인했다고 밝혔다. 베타글루칸은 귀리·보리 등에 풍부한 수용성 식이섬유로, 물에 녹아 끈끈한 점성을 만들어 당과 콜레스테롤의 흡수를 늦추는 성분으로 알려져 있다. 일반적으로 식이섬유가 혈당과 콜레스테롤 관리에 도움이 된다고 알려져 있으나, 무엇을 얼마나 먹어야 효과를 기대할 수 있는지에 대한 구체적인 기준은 부족한 실정이었다. 이에 농촌",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533892&tblKey=GMN",
+          "filename": "28-2_국산_귀리_하루_70g이면_식후_혈당·콜레스테롤_동시_관리(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533893&tblKey=GMN",
+          "filename": "28-2_국산_귀리_하루_70g이면_식후_혈당·콜레스테롤_동시_관리(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533891&tblKey=GMN",
+          "filename": "28-2_국산_귀리_하루_70g이면_식후_혈당·콜레스테롤_동시_관리(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "\"방제기가 과수원 정보 기억\" 작업자 없이 농약 살포한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776199",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 8월 28일 전북특별자치도 장수군농업기술센터 사과 시험 재배지에서 '경로 학습 기반 무인 고성능 방제기(스피드 스프레이어*)' 현장 연시회를 연다.* 스피드 스프레이어(SS기): 농약을 송풍 공기로 안개처럼 만들어 살포하는 주행식 동력분무기 농촌진흥청 국립농업과학원, 장수군농업기술센터가 함께 주관하는 이번 행사에는 공동연구기관인 ㈜아세아텍과 한국농수산대학교, 전북특별자치도농업기술원, 지역 농업인 등 30여 명이 참석한다. 이날 참석자들은 방제기 시연을 관람한 후 개선·보완 방안을 논의할 예정이다. '경로 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533886&tblKey=GMN",
+          "filename": "28-1_방제기가과수원정보기억작업자없이농약살포한다(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533887&tblKey=GMN",
+          "filename": "28-1_방제기가과수원정보기억작업자없이농약살포한다(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533885&tblKey=GMN",
+          "filename": "28-1_방제기가과수원정보기억작업자없이농약살포한다(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "'수수' 심기부터 수확, 가공까지 '전 과정 기계화' 연시회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776197",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립식량과학원은 8월 27일 전남광주통합특별시 진도군 지산면에서 자체 개발한 수수 신품종 3종을 소개하고 기계화 현장 연시회를 열었다. 진도군은 생육기간이 짧은 수수를 겨울 배추 등 지역 대표 겨울작물과 이어짓기(이모작)하기에 적합한 여건을 갖추고 있다. 수수는 남부 지역 기준, 5월 상순에 육묘를 심어 8월 중하순에 수확하기 때문에 9월 중하순에 심는 겨울 배추 전작물로 수월하게 재배할 수 있다. 진도군농업기술센터와 공동 개최한 이번 행사에는 국립식량과학원 관계자와 농업인, 전남농업기술원, 진도군농업기술센",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533880&tblKey=GMN",
+          "filename": "27-8_(즉시보도_통전지)수수심기부터_가공까지_‘전과정_기계화’_연시회_개최(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533881&tblKey=GMN",
+          "filename": "27-8_(즉시보도_통전지)수수심기부터_가공까지_‘전과정_기계화’_연시회_개최(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533879&tblKey=GMN",
+          "filename": "27-8_(즉시보도_통전지)수수심기부터_가공까지_‘전과정_기계화’_연시회_개최(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "케이(K)-발효식초 육성 본격화 '발효식초 농산업체 협의회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776195",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립식량과학원은 국산 발효식초산업 발전과 미래 성장 전략을 모색하기 위해 8월 27일 전북특별자치도 고창군에서 '발효식초 농산업체 협의회'를 개최했다. 농림축산식품부, 한국농수산물유통공사 등 관계 기관과 발효식초(발사믹) 제조업체 대표 등 산업 관계자들이 참석한 가운데 열린 이날 협의회에서는 발사믹 식초 산업 동향을 파악하고 산업체 의견을 청취했다. 이 자리에서 우리 농산물을 원료로 한 국산 발효식초의 품질과 경쟁력을 높일 수 있는 해결책을 찾고 다양한 민관협력 방안을 논의했다. 또한, 최고급(프리미엄) 식",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533874&tblKey=GMN",
+          "filename": "27-7_(즉시보도_통전지)우리_농산물로_만든_K-발효식초경쟁력_강화_‘발효식초_농산업체_협의회’_개최(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533875&tblKey=GMN",
+          "filename": "27-7_(즉시보도_통전지)우리_농산물로_만든_K-발효식초경쟁력_강화_‘발효식초_농산업체_협의회’_개최(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533873&tblKey=GMN",
+          "filename": "27-7_(즉시보도_통전지)우리_농산물로_만든_K-발효식초경쟁력_강화_‘발효식초_농산업체_협의회’_개최(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "수입 벌꿀 대응 '우리 벌꿀' 신뢰도 높일 방안 찾는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776193",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 8월 27일 인천대학교에서 베트남산 벌꿀 수입 등 시장 개방에 대응해 국산 벌꿀의 신뢰도를 높이고 유통관리를 강화하고자 '벌꿀 소비 진작 학술토론회'를 열었다. 이번 학술토론회는 농촌진흥청 국립농업과학원과 한국양봉협회, 한국양봉농협이 공동 주관·주최했으며, 한국양봉학회 하계학술대회와 연계해 진행됐다. 이날 관련 부처를 비롯해 산업체, 양봉농가 등 100여 명이 참석한 가운데 주제 발표 5건에 이어 지정 토론이 있었다. 주제 발표는 ∆건강한 양봉 생태계 구축을 위한 제도 개선 ∆벌꿀 원산지 판별기술 개발 현",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533868&tblKey=GMN",
+          "filename": "27-6_(즉시보도_통전지)수입벌꿀대응우리벌꿀신뢰도높일방안찾는다(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533869&tblKey=GMN",
+          "filename": "27-6_(즉시보도_통전지)수입벌꿀대응우리벌꿀신뢰도높일방안찾는다(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533867&tblKey=GMN",
+          "filename": "27-6_(즉시보도_통전지)수입벌꿀대응우리벌꿀신뢰도높일방안찾는다(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "벼멸구·혹명나방 등 '비래해충' 발생 증가세…예찰·긴급방제 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776191",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 전국 주요 벼 재배단지 및 관찰 재배지*를 대상으로 현장 조사한 결과, 벼멸구·혹명나방 등 주요 비래해충이 지속 발생하고 있는 것으로 확인됐다며, 적극적인 예찰과 철저한 방제를 당부했다.*작물의 생육 및 병해충 발생 상황 등을 관찰하기 위해 지정한 구역 최근 전남·광주 일부 지역에서 비래해충 발생이 크게 늘어 현재 농업기술원·농업기술센터가 긴급방제 및 확산 차단을 위한 예찰을 강화하며 총력을 다하고 있다. 짧은 장마 이후 8월부터 고온다습한 날씨가 지속됨에 따라 국내로 유입된 비래해충의 세대 번식 주기가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533862&tblKey=GMN",
+          "filename": "27-5_(즉시보도_통전지)벼멸구혹명나방등비래해충발생증가세예찰긴급방제총력(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533863&tblKey=GMN",
+          "filename": "27-5_(즉시보도_통전지)벼멸구혹명나방등비래해충발생증가세예찰긴급방제총력(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533861&tblKey=GMN",
+          "filename": "27-5_(즉시보도_통전지)벼멸구혹명나방등비래해충발생증가세예찰긴급방제총력(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "'농업기술명인', 인공지능(AI)·기후변화 대응 지역농업 활성화 방안 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776189",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)이 주최하고, 대한민국 최고농업기술명인회(이하 명인회)가 주관한 학술토론회(심포지엄)가 8월 27일 경상남도농업기술원(경남 진주)에서 열렸다. '인공지능(AI) 기반 기후변화 대응 최고농업기술명인, 후계농과 함께 미래를 잇다'를 주제로 열린 이번 학술토론회에는 명인회 회원, 지역 농업인, 청년농업인 4-에이치(H) 회원, 농촌진흥기관 관계자 등 약 150명이 참석했다. 기조 강연은 '농사도 이제 AI에게 물어보세요'를 주제로 농촌진흥청 농업지능데이터팀 신재훈 팀장이 맡았다. 신 팀장은 농업 현장과 연구 기관이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533856&tblKey=GMN",
+          "filename": "27-4_(즉시보도_전매체)농업기술명인인공지능(AI)기후변화대응지역농업활성화방안모색(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533857&tblKey=GMN",
+          "filename": "27-4_(즉시보도_전매체)농업기술명인인공지능(AI)기후변화대응지역농업활성화방안모색(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533855&tblKey=GMN",
+          "filename": "27-4_(즉시보도_전매체)농업기술명인인공지능(AI)기후변화대응지역농업활성화방안모색(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "고온다습 날씨 지속…병해충 예찰·방제 강화·벼 안정 생산 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776187",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "이승돈 농촌진흥청장은 8월 27일, 경남 고성군 상리면 일대 벼 재배단지를 찾아 병해충 예찰 및 방제 추진 상황을 살피고, 벼 안정 생산을 위한 기술 지원 방안을 청취했다. 이 청장이 방문한 경남 고성군 상리면 벼 재배단지는 2025년 여름 이상 고온 현상과 벼 등숙기 잦은 비로 곰팡이병인 깨씨무늬병이 확산했었고, 2024년에는 비래해충인 벼멸구 유입 피해가 발생하기도 했다. 현재 경상남도농업기술원과 관내 시군 농업기술센터에서는 벼 병해충 상습 발생 지역을 중심으로 예찰 강화와 적기 방제를 추진, 대발생 예방과 확산 차단에 총력을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533850&tblKey=GMN",
+          "filename": "27-3_(즉시보도_전매체_현장방문)고온다습날씨지속병해충예찰방제강화벼안정생산총력(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533851&tblKey=GMN",
+          "filename": "27-3_(즉시보도_전매체_현장방문)고온다습날씨지속병해충예찰방제강화벼안정생산총력(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533849&tblKey=GMN",
+          "filename": "27-3_(즉시보도_전매체_현장방문)고온다습날씨지속병해충예찰방제강화벼안정생산총력(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "한우 자가 섬유질배합사료 거점농장, 현장 기술 전파 역할 톡톡히",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776185",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립축산과학원은 8월 26일 경기 가평 우전목장을 끝으로 올해 새롭게 지정한 한우 '자가 섬유질배합사료(TMR) 기술전수 거점농장' 4곳의 현판식과 현장 교육을 모두 마쳤다. 올해 신규 지정된 거점농장은 △경기 고양 화원농장 △경기 가평 우전목장 △전남 장성 용성농장 △충북 청주 홍도농장 4곳이다. 국립축산과학원은 앞서 7월 30일 장성을 시작으로 8월 24일 청주, 25일 고양, 26일 가평에서 차례로 현판식과 현장 교육을 진행했다. 한우 자가 섬유질배합사료(TMR)는 쌀겨 등 지역에서 구할 수 있는 농식",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533844&tblKey=GMN",
+          "filename": "27-2_한우_자가_섬유질배합사료_거점농장_현장기술전파역할톡톡히(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533845&tblKey=GMN",
+          "filename": "27-2_한우_자가_섬유질배합사료_거점농장_현장기술전파역할톡톡히(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533843&tblKey=GMN",
+          "filename": "27-2_한우_자가_섬유질배합사료_거점농장_현장기술전파역할톡톡히(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
+    },
+    {
+      "title": "데이터로 더 정밀하게…'2세대 육계 스마트팜' 개발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776183",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 축사에서 수집한 사료 섭취량, 온도·습도 등의 데이터를 사양·환경 관리에 종합적으로 활용할 수 있도록 '2세대 육계 스마트팜'을 개발하고 현장에서 실증했다고 밝혔다. 기존 1세대 육계 스마트팜은 사료 공급, 급수, 환기 등을 자동화한 개별 장비 중심으로 운용되다 보니, 데이터를 통합 관리하는데 한계가 있었고 농장주가 축사 상태를 판단할 때 여전히 경험과 직관에 의존하는 경우가 많았다. 국립축산과학원은 이러한 한계를 해결하고자 스마트팜 다부처패키지 혁신기술 개발사업을 통해 전남대학교, ㈜이모션과 공동연구로 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533838&tblKey=GMN",
+          "filename": "27-1_(농식품부브리핑)데이터로_더_정밀하게…2세대_육계_스마트팜_개발(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533839&tblKey=GMN",
+          "filename": "27-1_(농식품부브리핑)데이터로_더_정밀하게…2세대_육계_스마트팜_개발(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533837&tblKey=GMN",
+          "filename": "27-1_(농식품부브리핑)데이터로_더_정밀하게…2세대_육계_스마트팜_개발(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T03:53:42.831683+00:00"
     },
     {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
