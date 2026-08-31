@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T11:38:44.404853+00:00",
+  "updated": "2026-08-31T11:53:45.405881+00:00",
   "count": 1949,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2711,16 +2711,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198533996&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534076&tblKey=GMN",
           "filename": "260831_보도자료_ESG 플러스 주간 운영(한국산업인력공단).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198533995&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534075&tblKey=GMN",
           "filename": "260831_보도자료_ESG 플러스 주간 운영(한국산업인력공단).pdf"
         }
       ],
-      "_attAt": "2026-08-31T05:38:43.966992+00:00"
+      "_attAt": "2026-08-31T11:53:42.174360+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 철원 국유림 지역 상생 방안을 논의하다",
