@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T07:23:52.965775+00:00",
-  "count": 1936,
+  "updated": "2026-08-31T07:38:53.570150+00:00",
+  "count": 1938,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1061,16 +1061,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198533375&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533621&tblKey=GMN",
           "filename": "260829_기후시민회의 토론회 보도자료★.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198533376&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533622&tblKey=GMN",
           "filename": "260829_기후시민회의 토론회 보도자료★.hwp"
         }
       ],
-      "_attAt": "2026-08-31T01:38:42.593564+00:00"
+      "_attAt": "2026-08-31T07:38:43.868547+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"장기 저장\" 능동형 시에이저장고 '현장'에서 기술 완성도 높인다",
@@ -2838,6 +2839,58 @@
       "_attAt": "2026-08-31T06:53:42.414577+00:00"
     },
     {
+      "title": "산림청, 추석 성수품 수급 안정 위해 총력!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776244",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "산림청, 추석 성수품 수급 안정 위해 총력!- 추석 성수품(밤, 대추) 수급 안정 및 소비 촉진 행사 운영 - 산림청(청장 박은식)은 추석 명절을 대비해 대표 임산물인 밤과 대추의 공급에 차질이 없도록 추석 연휴 전날인 9월 23일까지 '추석 성수품(임산물) 수급 안정 대책반'을 운영한다고 31일 밝혔다. 대책반은 물가안정과 수급 조절을 위해 임산물의 가격 동향 및 공급 상황을 매일 점검하고, 성수품 수요가 늘어나는 추석 2주 전부터 밤과 대추를 평상시보다 9배 늘린 2,480톤(밤 2,300톤, 대추 180톤)을 공급할 계획이다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534150&tblKey=GMN",
+          "filename": "(260831)보도자료-산림청__추석_성수품_수급_안정_위해__총력.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534152&tblKey=GMN",
+          "filename": "(260831)보도자료-산림청__추석_성수품_수급_안정_위해__총력.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534151&tblKey=GMN",
+          "filename": "(260831)보도자료-산림청__추석_성수품_수급_안정_위해__총력.hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T07:38:43.868547+00:00"
+    },
+    {
+      "title": "임업직불금과 농업직불금, 둘 다 신청하셨나요? 꼭 확인하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776242",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "임업직불금과 농업직불금, 둘 다 신청하셨나요 꼭 확인하세요- 9월 23일까지 하나만 선택, 미선택 시 임업직불금 대상에서 제외 - 산림청(청장 박은식)은 '임업·산림 공익기능 증진을 위한 직접지불제도 운영에 관한 법률'(이하 '임업직불제법') 개정(2026.3.10.)을 통해 임업직불금(임산물생산업)과 농업직불금의 중복 수령 제한 기준을 개선했다고 31일 밝혔다. 기존에는 임산물생산업 직불금의 지급 제외 여부를 '직전 연도' 농업직불금 수령 이력 등을 기준으로 판단했지만 이번 법률 개정으로 '해당 연도'의 농업직불금 수령 여부를 기",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534136&tblKey=GMN",
+          "filename": "(260831)보도자료-임업농업_직불금_중복수령_대상_제한하는_경우는.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534138&tblKey=GMN",
+          "filename": "(260831)보도자료-임업농업_직불금_중복수령_대상_제한하는_경우는.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534137&tblKey=GMN",
+          "filename": "(260831)보도자료-임업농업_직불금_중복수령_대상_제한하는_경우는.hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T07:38:43.868547+00:00"
+    },
+    {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775982",
       "agency": "문화체육관광부",
@@ -3311,8 +3364,8 @@
           "filename": "260830 (즉시) 8.29~31일 호우 대처 중대본 회의 개최(자연재난대응과).pdf"
         }
       ],
-      "_attAt": "2026-08-31T01:38:42.593564+00:00",
-      "_attRev": 2
+      "_attAt": "2026-08-31T07:38:43.868547+00:00",
+      "_attRev": 3
     },
     {
       "title": "청소년이 그린 '기억과 평화', 시민의 일상에서 만난다",
