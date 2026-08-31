@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T01:23:51.946885+00:00",
-  "count": 1858,
+  "updated": "2026-08-31T01:38:48.729496+00:00",
+  "count": 1859,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1007,6 +1007,27 @@
       "_attAt": "2026-08-31T01:23:44.046488+00:00"
     },
     {
+      "title": "기후시민회의 토론회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776104",
+      "agency": "국가기후위기대응위원회",
+      "agencyCode": "",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "한성숙 국무총리, '기후시민회의'첫 숙의토론회 참석...참여 시민 격려 - 의제 선정 후 첫 토론 현장 찾아… \"기후위기 대응의 핵심은 시민참여\" - \"시민의 목소리가 공론화를 거쳐 정책이 되는 과정 적극 지원할 것\"【국정과제 40】 지속가능 미래를 위한 탄소중립 실현 – 탄소중립 사회실현을 위한 거버넌스 강화□ 대통령직속 국가기후위기대응위원회(공동위원장 : 한성숙 국무총리, 이창훈 민간위원장, 이하 '기후대응위')는 8월29일(토) 섬유패션클럽(한국섬유산업연합회 17층)에서 기후시민회의* 전체회의를 열고 본격적인 의제 토론에 돌입",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533375&tblKey=GMN",
+          "filename": "260829_기후시민회의 토론회 보도자료★.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198533376&tblKey=GMN",
+          "filename": "260829_기후시민회의 토론회 보도자료★.hwp"
+        }
+      ],
+      "_attAt": "2026-08-31T01:38:42.593564+00:00"
+    },
+    {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775982",
       "agency": "문화체육관광부",
@@ -1480,8 +1501,8 @@
           "filename": "260830 (즉시) 8.29~31일 호우 대처 중대본 회의 개최(자연재난대응과).pdf"
         }
       ],
-      "_attAt": "2026-08-30T19:38:42.472708+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-31T01:38:42.593564+00:00",
+      "_attRev": 2
     },
     {
       "title": "청소년이 그린 '기억과 평화', 시민의 일상에서 만난다",
