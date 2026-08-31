@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T20:53:54.347846+00:00",
-  "count": 1929,
+  "updated": "2026-08-31T21:08:53.830886+00:00",
+  "count": 1931,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776284",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다! - 지역사회건강조사 참여자 중 약 10만 명 대상 인공지능(AI) 기반 맞춤형 건강리포트 발송 - 500만 건 보건 빅데이터 분석… 또래·지역 대비 나의 건강 위치 및 1분 맞춤형 동영상 제공 - 의료·AI 전문가 검증 완료… 약물 복용 여부 고려한 안전한 이원화(2-Track) 가이드 도입 질병관리청(청장 임승관)은 「지역사회건강조사」 참여자 중 수신에 동의한 약 10만 명을 대상으로 'AI 기반 개인 맞춤형 건강리포트'를 시범 제공*한다. * 범정부 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534427&tblKey=GMN",
+          "filename": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534428&tblKey=GMN",
+          "filename": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!.pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T21:08:42.677469+00:00"
+    },
     {
       "title": "'26년 7월 주택통계",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776040",
@@ -3064,8 +3085,8 @@
           "filename": "(보도자료) 정읍국유림관리소 `소나무재선충병 지상 방제` 성공적 마무리.hwpx"
         }
       ],
-      "_attAt": "2026-08-31T14:53:44.876983+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-31T21:08:42.677469+00:00",
+      "_attRev": 2
     },
     {
       "title": "한-네팔 외교장관 통화(8.31.) 결과",
@@ -3086,8 +3107,8 @@
           "filename": "[26-699](보도자료) 한-네팔 외교장관 통화(8.31.) 결과.pdf"
         }
       ],
-      "_attAt": "2026-08-31T14:53:44.876983+00:00",
-      "_attRev": 1
+      "_attAt": "2026-08-31T21:08:42.677469+00:00",
+      "_attRev": 2
     },
     {
       "title": "제1기 양곡수급관리위원회 출범",
@@ -3214,6 +3235,27 @@
       ],
       "_attAt": "2026-08-31T16:08:44.879559+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "동포정책 사업은 알차게, 현장과는 가깝게, 지원금은 투명하게",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776283",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "동포정책 사업은 알차게, 현장과는 가깝게, 지원금은 투명하게- 법무부 출입국·외국인정책본부, 동포체류지원센터 교육 및 간담회 개최 - 법무부 출입국·외국인정책본부는 동포체류지원센터의 효율적인 예산 집행과 맞춤형 동포 체류지원을 위해 '26. 8. 31.(월) 37개소 동포체류지원센터 관계자들에게 역량 강화 교육 및 간담회를 실시하였다. [※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534424&tblKey=GMN",
+          "filename": "(보도자료) 동포정책 사업은 알차게, 현장과는 가깝게, 지원금은 투명하게 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534423&tblKey=GMN",
+          "filename": "(보도자료) 동포정책 사업은 알차게, 현장과는 가깝게, 지원금은 투명하게 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T21:08:42.677469+00:00"
     },
     {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
