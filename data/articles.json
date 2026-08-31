@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T23:08:50.521905+00:00",
-  "count": 1934,
+  "updated": "2026-08-31T23:23:52.643487+00:00",
+  "count": 1938,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -139,6 +139,90 @@
         }
       ],
       "_attAt": "2026-08-31T23:08:44.364366+00:00"
+    },
+    {
+      "title": "'9월 독서의 달', 그냥 좋아서(書) 책과 마주합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776291",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "'9월 독서의 달', 그냥 좋아서(書) 책과 마주합니다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0901]문체부보도자료-9월 독서의 달 문화행사 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534448&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-9월 독서의 달 문화행사 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534447&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-9월 독서의 달 문화행사 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T23:23:44.645162+00:00"
+    },
+    {
+      "title": "9월, 대한민국이 미술로 물든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776290",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "9월, 대한민국이 미술로 물든다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0901]문체부보도자료-2026 대한민국 미술축제 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534446&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-2026 대한민국 미술축제 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534445&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-2026 대한민국 미술축제 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T23:23:44.645162+00:00"
+    },
+    {
+      "title": "'2026 청년문화주간', 요즘 청년 모여 자신만의 취향으로 요즘 문화 만든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776289",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "'2026 청년문화주간', 요즘 청년 모여 자신만의 취향으로 요즘 문화 만든다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0901]문체부보도자료-2026년 청년문화주간 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534444&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-2026년 청년문화주간 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534443&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-2026년 청년문화주간 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T23:23:44.645162+00:00"
+    },
+    {
+      "title": "올가을 공연, 1만 원 할인받고 즐기세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776288",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "올가을 공연, 1만 원 할인받고 즐기세요 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0901]문체부보도자료-공연 할인권 2차 배포.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534442&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-공연 할인권 2차 배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534441&tblKey=GMN",
+          "filename": "[0901]문체부보도자료-공연 할인권 2차 배포.pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T23:23:44.645162+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
