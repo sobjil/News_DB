@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T09:24:05.989785+00:00",
-  "count": 1947,
+  "updated": "2026-08-31T09:38:47.092063+00:00",
+  "count": 1948,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3122,6 +3122,27 @@
         }
       ],
       "_attAt": "2026-08-31T09:23:42.463412+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 전남광주통합특별시 지원위원회 위촉식 및 회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776257",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-08-31T00:00:00+09:00",
+      "description": "전남광주통합특별시에 '연간 5조 원' 지원한 총리, \"지방주도 맞춤형 성장의 마중물 될 것\"- 제1차 '전남광주통합특별시 지원위원회' 개최, '27년 5조원 재정지원 방안 확정□ 정부는 8월 31일(월), 정부서울청사에서 한성숙 국무총리 주재로 제1차 전남광주통합특별시 지원위원회*를 개최하였다.* 실질적인 지방분권 및 국가균형성장을 위한 주요정책 심의를 위해 위원장(국무총리) 포함 25명 이상 40명 이하 위원으로 구성(전남광주통합특별시 설치를 위한 특별법 제12조)❖(일시/장소) 8.31.(월) 16:00 ~ 17:00 / 정부서",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534315&tblKey=GMN",
+          "filename": "260831 전남광주통합특별시 지원위원회 개최(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534316&tblKey=GMN",
+          "filename": "260831 전남광주통합특별시 지원위원회 개최(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-08-31T09:38:42.486095+00:00"
     },
     {
       "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
