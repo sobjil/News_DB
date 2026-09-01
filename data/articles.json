@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T23:38:59.521468+00:00",
-  "count": 1976,
+  "updated": "2026-09-01T23:53:48.136219+00:00",
+  "count": 1977,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -199,6 +199,27 @@
         }
       ],
       "_attAt": "2026-09-01T23:38:42.394808+00:00"
+    },
+    {
+      "title": "\"지방정부 말 믿고 지역아동센터 이전 준비했는데\"… 보조금 지원 제외는 '부당'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777178",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "\"지방정부 말 믿고 지역아동센터 이전 준비했는데\"… 보조금 지원 제외는 '부당' - 지역아동센터 이전 준비 중인 민원인이, 다른 기초지방정부 관할 지역으로 이동 시 신규시설로 보아 24개월간 보조금을 받을 수 없게 지침이 변경되자 고충민원 제기- 국민권익위, 지방정부의 안내를 믿고 이전 준비한 지역아동센터에 보조금을 지급하도록 의견표명하고 해당 민원이 반복되지 않도록 제도개선도 의견표명 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 장기간 운영하며 보조금을 지원받아 온 지역아동센터가 다른 기초지방정부 관할 지역으로 이전한다는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536359&tblKey=GMN",
+          "filename": "(260902) 지방정부 말 믿고 지역아동센터 이전 준비했는데 보조금 지원 제외는 부당(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536360&tblKey=GMN",
+          "filename": "(260902) 지방정부 말 믿고 지역아동센터 이전 준비했는데 보조금 지원 제외는 부당(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T23:53:43.809294+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
