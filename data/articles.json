@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T03:24:06.506753+00:00",
-  "count": 1995,
+  "updated": "2026-09-01T03:38:50.875008+00:00",
+  "count": 1998,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1414,6 +1414,59 @@
         }
       ],
       "_attAt": "2026-09-01T03:23:44.037027+00:00"
+    },
+    {
+      "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776368",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534682&tblKey=GMN",
+          "filename": "[교육부 09-02(수) 조간보도자료] 정부초청 외국인 대학원 장학생 한국에서 새로운 출발.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-01T03:38:43.344753+00:00"
+    },
+    {
+      "title": "전국 디지털튜터 양성센터 교육생 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776367",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "전국 디지털튜터 양성센터 교육생 모집",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534681&tblKey=GMN",
+          "filename": "[교육부 09-02(수) 조간보도자료] 전국 디지털튜터 양성센터 교육생 모집.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-01T03:38:43.344753+00:00"
+    },
+    {
+      "title": "산업부, 충청-영남-호남을 잇는 '배터리 삼각벨트' 본격 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776369",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "산업부, 충청-영남-호남을 잇는 '배터리 삼각벨트' 본격 가동- 산업부-지자체, 배터리 삼각벨트 혁신 인프라 간담회 개최민간투자 애로 즉시 해결, 충청·영남·호남 거점별 맞춤형 지원 산업통상부(장관 : 김정관, 이하 산업부)는 9.1(화) 세종 메리어트 호텔에서 충청북도, 경상북도, 전라북도 등 주요 지방자치단체 및 유관기관과 함께 '배터리 삼각벨트의 혁신 인프라 구축'을 위한 간담회를 개최한다고 밝혔다. 배터리 삼각벨트는 충청권의 셀, 영남권의 핵심소재, 호남권의 원료 제조 거점을 하나의 유기적인 축으로 연결하여 국내 배터리의 공",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534684&tblKey=GMN",
+          "filename": "0901(02조간)배터리전기전자과, 산업부, 충청-영남-호남을 잇는 ‘배터리 삼각벨트’ 본격 가동.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534683&tblKey=GMN",
+          "filename": "0901(02조간)배터리전기전자과, 산업부, 충청-영남-호남을 잇는 ‘배터리 삼각벨트’ 본격 가동.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T03:38:43.344753+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
