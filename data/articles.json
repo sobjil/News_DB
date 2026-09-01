@@ -1,9 +1,10 @@
 {
-  "updated": "2026-09-01T05:08:53.365793+00:00",
-  "count": 2019,
+  "updated": "2026-09-01T05:23:53.464705+00:00",
+  "count": 2022,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
+    "감사원",
     "개인정보보호위원회",
     "경제사회노동위원회",
     "경찰청",
@@ -119,7 +120,8 @@
           "filename": "[26.9.1.(화) 보도참고자료] 식약처, 성장호르몬제제 안전 사용 조치 강화.pdf"
         }
       ],
-      "_attAt": "2026-08-31T23:08:44.364366+00:00"
+      "_attAt": "2026-09-01T05:23:43.122494+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 식품영업자 행정절차 간소화...음식점 바가지요금 처분 강화",
@@ -140,7 +142,8 @@
           "filename": "[26.9.1.(화) 보도자료] 식약처, 식품영업자 행정절차 간소화...음식점 바가지요금 처분 강화.pdf"
         }
       ],
-      "_attAt": "2026-08-31T23:08:44.364366+00:00"
+      "_attAt": "2026-09-01T05:23:43.122494+00:00",
+      "_attRev": 1
     },
     {
       "title": "'9월 독서의 달', 그냥 좋아서(書) 책과 마주합니다",
@@ -1969,6 +1972,59 @@
         }
       ],
       "_attAt": "2026-09-01T05:08:41.926848+00:00"
+    },
+    {
+      "title": "울산 지역성장펀드, 500억 원 규모로 출범...창업도시 조성 돕는다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776404",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 9월 1일(화) 울산 종하이노베이션센터에서 개최된 '울산 미래성장 펀드' 결성식에 참석하여, 울산광역시에 중점 투자하는 울산 벤처모펀드가 출자자 모집을 완료하고 본격적인 운영에 나선다고 밝혔다. 행사 개요 ◼ (일시) '26.9.1(화) 13:20 ~ 17:30 ◼ (장소) 울산 종하이노베이션센터 4F 운당홀(울산 남구 봉월로38번길 32) ◼ (주요 참석자) 중기부 창업벤처혁신실장, 울산광역시 시장, 울산광역시의회 의장, 울산과학기술원 총장, BNK경남은행 은행장, N",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534857&tblKey=GMN",
+          "filename": "260902_울산_지역성장펀드,500억원_규모로_출범_창업도시_조성_돕는다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534858&tblKey=GMN",
+          "filename": "260902_울산_지역성장펀드,500억원_규모로_출범_창업도시_조성_돕는다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T05:23:43.122494+00:00"
+    },
+    {
+      "title": "「2026 데이터+AI 혁신 챌린지」 9월 1일 통합공고··· 데이터·AI 혁신 아이디어 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776407",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "- 개별 데이터 경진대회를 올해부터 하나의 국민 참여형 통합 브랜드로 추진 - △데이터안심구역, △데이터 문제해결, △빅콘테스트 3개 부문 참가자 모집, 국민 누구나 데이터·AI로 사회·산업 문제 해결에 도전",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534871&tblKey=GMN",
+          "filename": "260902 조간 (보도) 「2026 데이터+AI 혁신 챌린지」 9월 1일 통합공고··· 데이터·AI 혁신 아이디어 모집.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-01T05:23:43.122494+00:00"
+    },
+    {
+      "title": "김승희 전 의전비서관 자녀 학교폭력 사건 축소 및 은폐 의혹에 대한 감사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776409",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "김승희 전 의전비서관 자녀 학교폭력 사건 축소 및 은폐 의혹에 대한 감사 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534874&tblKey=GMN",
+          "filename": "공개문_전문.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T05:23:43.122494+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
