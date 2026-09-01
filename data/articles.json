@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T04:08:51.072413+00:00",
-  "count": 2004,
+  "updated": "2026-09-01T04:23:51.669812+00:00",
+  "count": 2008,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1593,6 +1593,130 @@
         }
       ],
       "_attAt": "2026-09-01T04:08:43.083983+00:00"
+    },
+    {
+      "title": "\"대체불가 대한민국으로 대도약\" 2027년 예산안 및 2026~2030년 국가재정운용계획",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776382",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "2027년 예산안 및 2026~2030년 국가재정운용계획 관련입니다. 자세한 내용은 첨부된 자료를 참고해 주시기 바립니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534727&tblKey=GMN",
+          "filename": "5. 27년 인포그래픽.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534728&tblKey=GMN",
+          "filename": "4. 2026~2030년 국가재정운용계획.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534723&tblKey=GMN",
+          "filename": "9. 국무회의 발표자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534724&tblKey=GMN",
+          "filename": "8. 국민체감 20선.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534725&tblKey=GMN",
+          "filename": "7. 100대 신규사업.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534726&tblKey=GMN",
+          "filename": "6. 15대 랜드마크 홍보자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534729&tblKey=GMN",
+          "filename": "3. 27년 예산안 브리핑문.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534730&tblKey=GMN",
+          "filename": "2. 27년 예산안 홍보자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534731&tblKey=GMN",
+          "filename": "1. 27년 예산안 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T04:23:42.500063+00:00"
+    },
+    {
+      "title": "혁신조달 강화와 공공조달 AI 전환에 '27년 예산 집중 투입",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776383",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "혁신조달 강화와 공공조달 AI 전환에 '27년 예산 집중 투입- '27년도 조달청 정부 예산안 3,723억원 편성…올해 대비 750억원 증가 조달청(청장 백승보)은 2027년도 예산안을 올해 대비 750억원 증가한 3,723억원(총지출 기준*)으로 편성하였다고 밝혔다. * 조달청은 특별회계기관으로서 손익계정, 자본계정 분리에 따른 계정 간 거래, 회계 간 거래 등을 제외하고, 실제 조달청이 집행하는 예산 조달청은 내년도 '혁신조달 강화'와 '공공조달 인공지능(AI) 전환'에 역점을 두고 관련 핵심사업 분야에 재정을 집중 투입한다. ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534735&tblKey=GMN",
+          "filename": "260901_(보도자료)_혁신조달 강화와 공공조달 AI 전환에‘27년 예산 집중 투입_최종 배포용.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534734&tblKey=GMN",
+          "filename": "260901_(보도자료)_혁신조달 강화와 공공조달 AI 전환에‘27년 예산 집중 투입_최종 배포용.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T04:23:42.500063+00:00"
+    },
+    {
+      "title": "근로소득만 있는 가구에 최대 115만 원 지급, '26년 상반기분 근로장려금, 9월 15일까지 신청하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776384",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "근로소득만 있는 가구에 최대 115만 원 지급, '26년 상반기분 근로장려금, 9월 15일까지 신청하세요 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534744&tblKey=GMN",
+          "filename": "260901 근로소득만 있는 가구에 최대 115만 원 지급, &#039;26년 상반기분 근로장려금, 9월 15일까지 신청하세요.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534746&tblKey=GMN",
+          "filename": "260901 근로소득만 있는 가구에 최대 115만 원 지급, &#039;26년 상반기분 근로장려금, 9월 15일까지 신청하세요.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534745&tblKey=GMN",
+          "filename": "260901 근로소득만 있는 가구에 최대 115만 원 지급, &#039;26년 상반기분 근로장려금, 9월 15일까지 신청하세요.hwp"
+        }
+      ],
+      "_attAt": "2026-09-01T04:23:42.500063+00:00"
+    },
+    {
+      "title": "2027년 국가공무원 3,851명 증원 민생·안전 분야 집중 보강",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776381",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "- 행정안전부, 2027년도 정기직제 증원 규모 확정해 정부 예산안에 반영- 핵심 국정 목표 지원과 국민 생활과 밀접한 현장 인력 집중 보강- 상시적인 조직진단 체계를 구축하여 인력 재배치 등 효율화도 함께 추진 정부는 국민 생명 안전 보호와 글로벌 초격차 산업 강국 실현 등 핵심 국정 목표 달성을 차질 없이 지원하고, 우리 국민의 편익을 한 단계 높이기 위해 내년 국가공무원을 3,851명 증원한다. 행정안전부(장관 윤호중)는 내년도 정기직제로 증원할 국가공무원 규모를 확정해 2027년도 정부 예산안에 반영했다. 최종 규모는 국회 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534721&tblKey=GMN",
+          "filename": "260901 (국무회의 종료 시) 2027년 국가공무원 3851명 증원 민생·안전 분야 집중 보강(조직기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534722&tblKey=GMN",
+          "filename": "260901 (국무회의 종료 시) 2027년 국가공무원 3851명 증원 민생·안전 분야 집중 보강(조직기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T04:23:42.500063+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
