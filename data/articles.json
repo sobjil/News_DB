@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T08:38:43.374272+00:00",
-  "count": 2047,
+  "updated": "2026-09-01T08:53:51.150432+00:00",
+  "count": 2050,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1231,7 +1231,8 @@
           "filename": "260901_’27년 원자력안전위원회 예산 3,030억 원 편성 소형모듈원자로(SMR) 규제기술 연구 가속화_보도자료.pdf"
         }
       ],
-      "_attAt": "2026-09-01T02:53:42.003772+00:00"
+      "_attAt": "2026-09-01T08:53:43.392401+00:00",
+      "_attRev": 1
     },
     {
       "title": "[9.2.수.조간] 20대 혈관 관리가 평생 건강의 시작, '내 혈관 숫자'를 확인해요",
@@ -2600,6 +2601,79 @@
         }
       ],
       "_attAt": "2026-09-01T08:23:43.006996+00:00"
+    },
+    {
+      "title": "노·사 및 전문가, 9개월간 논의 거쳐 「고용보험 제도개선 TF 논의결과」 도출 저출생·고령화, 산업전환에 대비해 지속가능한 「고용보험 제도개편 방안」 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776969",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "(가칭)일·가정 양립 계정 신설, 재원은 노·사·정이 공동분담 주 5일 근무 도입 22년 만에 구직급여 지급방식 정비 노동자 소득기반 고용보험 전환, 노무제공자 고용보험 적용 확대고용노동부(장관 김영훈)는 9월 1일 고용보험위원회에서 고용보험 제도개선 TF 논의결과를 보고하고, 고용보험 제도개편 방안을 심의했다. 정부는 전 국민 고용보험 로드맵을 마련('20.12월)한 이후, 고용보험 적용대상을 꾸준히 넓히며 사각지대를 줄여왔다. 한편, 정부는 저출생 대응을 위해 육아휴직급여 상한액 인상 등 모성보호 제도도 지속적으로 확대해 왔다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535923&tblKey=GMN",
+          "filename": "260901_보도자료_고용보험 제도개편 방안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535924&tblKey=GMN",
+          "filename": "고용보험 제도개편 방안 (수정송부).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535925&tblKey=GMN",
+          "filename": "260901_보도자료_고용보험 제도개편 방안.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T08:53:43.392401+00:00"
+    },
+    {
+      "title": "산업부-지재처, 업무협약 체결 산업기술·지식재산 경쟁력 강화에 맞손",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776970",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "산업부-지재처, 업무협약 체결산업기술·지식재산 경쟁력 강화에 맞손지식재산권 전략과 연계된 산업기술 전주기 대상 지원·협력체계 구축 - 산업통상부(장관 김정관)와 지식재산처(처장 김용선)는 9. 1.(화) 석탄회관(서울 종로구)에서 우리 기업의 지식재산 및 산업기술 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 밝혔다. 최근 국제사회에서는 반도체·AI 등 첨단기술을 둘러싼 국가 간 기술패권 경쟁이 심화되면서 우리 기업의 기술 경쟁력을 높이기 위한 정책적 지원의 필요성이 커지고 있다. 이에 양 부처는 이번 협약을 통해 산업정책과 지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535933&tblKey=GMN",
+          "filename": "0901(02조간, 1일(화) 17시엠바고)산업기술시장과, 산업부-지재처 업무협약 체결, 산업기술·지식재산 경쟁력 강화에 맞손.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535932&tblKey=GMN",
+          "filename": "0901(02조간, 1일(화) 17시엠바고)산업기술시장과, 산업부-지재처 업무협약 체결, 산업기술·지식재산 경쟁력 강화에 맞손.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T08:53:43.392401+00:00"
+    },
+    {
+      "title": "새만금개발청, 수림산업(주)과 90억 원 투자 협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777046",
+      "agency": "새만금개발청",
+      "agencyCode": "sda",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "새만금개발청, 수림산업(주)과 90억 원 투자 협약 체결- 수림산업(주), 새만금산단 2공구에 조선산업용 강 구조물 제조시설 건립 -□ 새만금개발청(청장 문성요)은 수림산업(주)(대표 오수복)과 전북특별자치도, 군산시, 한국농어촌공사와 함께 새만금산업단지 내 강 구조물 제조시설 건립을 위한 투자협약을 8월 31일 체결했다고 밝혔다. ㅇ 이번 협약에 따라 수림산업(주)은 새만금산업단지 2공구 41,198.1㎡ 부지에 90억 원을 투자해 제2공장을 건립할 계획이다.□ 1989년 설립된 수림산업(주)은 국내 대표적인 용융아연도금 전문기업",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536042&tblKey=GMN",
+          "filename": "260901 새만금개발청 수림산업(주)과 90억 원 투자 협약 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536043&tblKey=GMN",
+          "filename": "260901 새만금개발청 수림산업(주)과 90억 원 투자 협약 체결.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536041&tblKey=GMN",
+          "filename": "260901 새만금개발청 수림산업(주)과 90억 원 투자 협약 체결.hwp"
+        }
+      ],
+      "_attAt": "2026-09-01T08:53:43.392401+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
