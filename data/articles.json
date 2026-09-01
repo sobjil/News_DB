@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T04:23:51.669812+00:00",
-  "count": 2008,
+  "updated": "2026-09-01T04:38:52.530244+00:00",
+  "count": 2011,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -93,11 +93,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198534435&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534436&tblKey=GMN",
           "filename": "(9. 1. (화) 조간 보도자료) 지역 의료여건에 맞춘 강원형 119헬리-이엠에스(Heli-EMS)…중증환자 이송·치료 연계 강화.hwpx"
         }
       ],
-      "_attAt": "2026-08-31T22:23:45.860224+00:00"
+      "_attAt": "2026-09-01T04:38:43.179282+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 성장호르몬제제 안전 사용 조치 강화",
@@ -1717,6 +1718,64 @@
         }
       ],
       "_attAt": "2026-09-01T04:23:42.500063+00:00"
+    },
+    {
+      "title": "초능력은 첨단기술이었다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776386",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "초능력은 첨단기술이었다 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534770&tblKey=GMN",
+          "filename": "260902 조간 (보도) 초능력은 첨단기술이었다.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-01T04:38:43.179282+00:00"
+    },
+    {
+      "title": "중기부, 싱가포르에서 'K-글로벌 벤처펀드(K-VCC)' 조성 본격화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776385",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 8월 30일(일) 한국벤처투자 싱가포르 법인(KVIC ASIA)이 싱가포르 통화감독청(Monetary Authority of Singapore, MAS)으로부터 가변자본회사* (Variable Capital Company, VCC) 펀드 운용을 위한 자본시장서비스(Capital Markets Services, CMS) 라이선스 본인가를 취득(8.20)했다고 밝혔다. * VCC(Variable Capital Company, 가변자본회사) : 하나의 VCC 아래 여러 하위펀",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534750&tblKey=GMN",
+          "filename": "260831_중기부_싱가포르에서_K_글로벌_벤처펀드_조성_본격화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534749&tblKey=GMN",
+          "filename": "260831_중기부_싱가포르에서_K_글로벌_벤처펀드_조성_본격화.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T04:38:43.179282+00:00"
+    },
+    {
+      "title": "[보도자료] 제19차 규제자유특구위원회 서면심의 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776387",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "규제자유특구 지역 경계를 넘어서다.\"광역연계형 규제자유특구\" 첫 지정- 중기부, 2개 광역연계형 규제자유특구 최초 지정, 12개 특례 부여- 국무총리 주재 규제자유특구위원회를 통해 확정국무조정실(실장 임기근)과 중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 제19차 규제자유특구위원회(위원장 한성숙 국무총리)를 개최(서면)하여 광역연계형 규제자유특구의 첫 지정과 규제자유특구 혁신방안 등을 심의·의결하였다고 밝혔다.규제자유특구는 지역을 중심으로 운영되는 규제샌드박스의 하나로, 지방정부로부터 신청을 받아 규제 소관부처 협",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534772&tblKey=GMN",
+          "filename": "260901_제19차 규제자유특구위원회 서면심의 결과 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534773&tblKey=GMN",
+          "filename": "260901_제19차 규제자유특구위원회 서면심의 결과 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T04:38:43.179282+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
@@ -4869,8 +4928,8 @@
           "filename": "260831_김경협 재외동포청장, 캄보디아 동포사회 현안 듣고 지원 방안 논의.pdf"
         }
       ],
-      "_attAt": "2026-08-31T22:23:45.860224+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-01T04:38:43.179282+00:00",
+      "_attRev": 3
     },
     {
       "title": "동포정책 사업은 알차게, 현장과는 가깝게, 지원금은 투명하게",
