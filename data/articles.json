@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T20:53:46.180222+00:00",
-  "count": 1970,
+  "updated": "2026-09-01T21:08:47.678005+00:00",
+  "count": 1971,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "항공업계, '25년 안전에 13.3조원 투자",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777171",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "항공업계, '25년 안전에 13.3조원 투자 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536336&tblKey=GMN",
+          "filename": "260902(석간) 항공업계 ‘25년 안전에 13.3조원 투자(항공안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198536337&tblKey=GMN",
+          "filename": "260902(석간) 항공업계 ‘25년 안전에 13.3조원 투자(항공안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T21:08:42.736119+00:00"
+    },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776284",
