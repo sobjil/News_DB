@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T02:08:54.946441+00:00",
-  "count": 1981,
+  "updated": "2026-09-01T02:23:52.023234+00:00",
+  "count": 1983,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1094,6 +1094,53 @@
         }
       ],
       "_attAt": "2026-09-01T02:08:42.513297+00:00"
+    },
+    {
+      "title": "2026년 8월 수출입동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776348",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "2026년 8월 수출입 동향- 수출 3개월 연속 900억 달러 상회…무역흑자 3개월 연속 300억 달러 상회- 반도체 수출 467억 달러로 역대 최대 기록 경신 * 8월 수출 982.5억 달러(+68.7%), 수입 635.1억 달러(+22.5%), 수지 347.5억 달러 흑자 【총괄】'26.8월 수출은 전년 동월 대비 68.7% 증가한 982.5억 달러, 수입은 22.5% 증가한 635.1억 달러, 무역수지는 347.5억 달러 흑자를 기록했다. 【수출】8월 수출은 68.7% 증가한 983억 달러로 3개월 연속으로 900억 달러 이상",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534616&tblKey=GMN",
+          "filename": "2026년 8월 수출입동향_3보_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534615&tblKey=GMN",
+          "filename": "2026년 8월 수출입동향_3보_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T02:23:42.872459+00:00"
+    },
+    {
+      "title": "도심항공교통(K-UAM) 특화 기상기술， 실증하여 서비스로 연결한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776345",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "도심항공교통(K-UAM) 특화 기상기술, 실증하여 서비스로 연결한다도심항공교통(K-UAM)안전운용체계 실증기술개발 사업 예비타당성조사 통과... '27년부터 본격 추진 □ 기상청(청장 이미선)은 도심항공교통의 안전한 운용을 위한 「도심항공교통(K-UAM*) 안전운용체계 실증기술개발」사업이 국가연구개발사업 예비타당성조사를 최종 통과해 2027년부터 본격 추진된다고 밝혔다. * Urban Air Mobility: 친환경동력 기반의 수직이착륙 항공교통수단 및 이를 지원하기 위한 교통관리, 이착륙 기반 시설(인프라), 인증 등을 포함하는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534607&tblKey=GMN",
+          "filename": "20260901_보도자료_도심항공교통(K-UAM) 특화 기상기술， 실증하여 서비스로 연결한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534608&tblKey=GMN",
+          "filename": "20260901_보도자료_도심항공교통(K-UAM) 특화 기상기술， 실증하여 서비스로 연결한다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534606&tblKey=GMN",
+          "filename": "20260901_보도자료_도심항공교통(K-UAM) 특화 기상기술， 실증하여 서비스로 연결한다.hwp"
+        }
+      ],
+      "_attAt": "2026-09-01T02:23:42.872459+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
@@ -3978,8 +4025,8 @@
           "filename": "(260831)보도자료-산림청__추석_성수품_수급_안정_위해__총력.hwp"
         }
       ],
-      "_attAt": "2026-08-31T20:08:43.000439+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-01T02:23:42.872459+00:00",
+      "_attRev": 3
     },
     {
       "title": "임업직불금과 농업직불금, 둘 다 신청하셨나요? 꼭 확인하세요",
@@ -4005,8 +4052,8 @@
           "filename": "(260831)보도자료-임업농업_직불금_중복수령_대상_제한하는_경우는.hwp"
         }
       ],
-      "_attAt": "2026-08-31T20:08:43.000439+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-01T02:23:42.872459+00:00",
+      "_attRev": 3
     },
     {
       "title": "조달청, 직원 대상 AI 활용 역량 향상을 위한 전문가 특강 개최",
