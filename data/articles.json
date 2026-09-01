@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T00:39:02.293576+00:00",
-  "count": 1957,
+  "updated": "2026-09-01T00:53:46.740597+00:00",
+  "count": 1958,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -585,6 +585,27 @@
         }
       ],
       "_attAt": "2026-09-01T00:38:44.542113+00:00"
+    },
+    {
+      "title": "네팔 홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 파견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776318",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "정부는 9.1.(화)「민관합동 해외긴급구호협의회」의결을 거쳐 네팔 홍수 피해 지역에 대한민국 해외긴급구호대(KDRT) 파견을 결정하였다. * 대한민국 해외긴급구호대(KDRT) : 대규모 해외재난 발생시 재난구호, 인명구조, 의료구호 등 피해국 지원을 위해 정부 부처 및 관계기관 인력을 기반으로 파견되는 구호대 - 해외긴급구호에 관한 법률에 따라 민관합동 해외긴급구호협의회에서 파견 결정 - (주요 파견 사례) 튀르키예 지진(`23), 라오스 댐 붕괴(`18), 네팔 지진(`15) 등 이는 8.26.(수) 네팔 라수와(Rasuwa) 지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534523&tblKey=GMN",
+          "filename": "[26-702](보도자료) 네팔 홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 파견.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534524&tblKey=GMN",
+          "filename": "[26-702](보도자료) 네팔 홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 파견.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T00:53:42.091504+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
