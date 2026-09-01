@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T01:38:50.871499+00:00",
-  "count": 1974,
+  "updated": "2026-09-01T01:58:46.765285+00:00",
+  "count": 1975,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -932,6 +932,27 @@
         }
       ],
       "_attAt": "2026-09-01T01:38:42.986252+00:00"
+    },
+    {
+      "title": "산업부 장관, G20 혁신장관회의 참석 및 한미 경제협력 확대 위해 방미",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776338",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "산업부 장관, G20 혁신장관회의 참석 및 한미 경제협력 확대 위해 방미- G20 국가 간 AI 혁신을 위한 글로벌 협력 방안 논의 -- 미 기업 투자신고식 및 루이지애나 제철소 기공식을 통한 쌍방향 투자 협력 심화 - 산업통상부 김정관 장관은 9월 1일(화)부터 9월 4일(금)까지(미 현지시간 기준) G20 혁신장관회의, 투자신고식 및 현대-포스코 루이지애나 제철소(HPLS) 기공식에 참석하기 위해 미국 노스캐롤라이나, 워싱턴 D.C. 및 루이지애나를 연이어 방문한다. 우선, 김정관 장관은 9월 2일(수) 노스캐롤라이나주 채플힐에",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534588&tblKey=GMN",
+          "filename": "0831(01석간, 1일(화) 10시30분엠바고)미주통상과, 산업부 장관, G20 혁신장관회의 참석 및 한미 경제협력 확대 위해 방미.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198534587&tblKey=GMN",
+          "filename": "0831(01석간, 1일(화) 10시30분엠바고)미주통상과, 산업부 장관, G20 혁신장관회의 참석 및 한미 경제협력 확대 위해 방미.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T01:58:42.316103+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
