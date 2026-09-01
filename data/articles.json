@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T07:39:06.891989+00:00",
-  "count": 2037,
+  "updated": "2026-09-01T07:53:49.567318+00:00",
+  "count": 2039,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2376,6 +2376,48 @@
         }
       ],
       "_attAt": "2026-09-01T07:38:43.598906+00:00"
+    },
+    {
+      "title": "국가과학기술자문회의 제9회 심의회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776746",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535536&tblKey=GMN",
+          "filename": "260901 (보도) 국가과학기술자문회의 제9회 심의회의 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-01T07:53:43.513340+00:00"
+    },
+    {
+      "title": "(보도참고) 2027년 청년정책 주요내용 개요도",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776745",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-01T00:00:00+09:00",
+      "description": "정부는 8.28(금) 청년예산 언박싱(UNBOXING) 2027 행사개최와 함께 청년 성장단계별 종합투자 추진전략을 관계부처 합동으로 발표하였습니다. 이와 관련 2027년 청년정책 주요내용 개요도를 첨부하오니 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535530&tblKey=GMN",
+          "filename": "(보도참고) 260901 청년정책 주요내용 개요도.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535529&tblKey=GMN",
+          "filename": "(보도참고) 260901 청년정책 주요내용 개요도.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198535531&tblKey=GMN",
+          "filename": "★(최최종) 청년정책 주요내용 개요도.pdf"
+        }
+      ],
+      "_attAt": "2026-09-01T07:53:43.513340+00:00"
     },
     {
       "title": "'26년 7월 주택통계",
