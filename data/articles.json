@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T01:38:44.464241+00:00",
-  "count": 1998,
+  "updated": "2026-09-02T01:53:49.793573+00:00",
+  "count": 2000,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -690,6 +690,43 @@
         }
       ],
       "_attAt": "2026-09-02T01:23:42.568155+00:00"
+    },
+    {
+      "title": "북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777686",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최- 산림기술사 중심 방제전략 기술지원단 구성… 지역 맞춤형 방제전략 수립 지원 - 북부지방산림청(청장 송준호)은 소나무재선충병의 확산을 막고 지자체별 실효성 있는 방제 대책을 마련하기 위해, 9월 2일 북부지방산림청 대회의실에서 '소나무재선충병 방제전략 광역컨설팅'을 개최했다고 밝혔다. 이번 광역컨설팅은 소나무재선충병 확산을 차단하기 위한 주요 저지선에 해당하는 서울특별시, 경기도, 강원특별자치도를 대상으로 진행됐다. 지역별 산림 현황과 재선충병 발생 특성이 서",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537226&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537225&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-09-02T01:53:43.913091+00:00"
+    },
+    {
+      "title": "과기정통부, '제3회 특별성과 포상금제' 수상자 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777684",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "- 인공지능을 활용하여 연구개발 예산심의 업무 혁신에 기여한 허지수 사무관, 김미미 과장 - 국민의 기본적인 통신서비스 접근권 보장으로 국민 편의 증진에 기여한 구희선 서기관, 이정은 주무관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537216&tblKey=GMN",
+          "filename": "260902 즉시 (보도) 과기정통부, ‘제3회 특별성과 포상금제’ 수상자 발표.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-02T01:53:43.913091+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
