@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T03:24:07.723439+00:00",
-  "count": 2028,
+  "updated": "2026-09-02T03:38:50.850582+00:00",
+  "count": 2029,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1366,6 +1366,22 @@
         }
       ],
       "_attAt": "2026-09-02T03:23:47.477257+00:00"
+    },
+    {
+      "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777862",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537623&tblKey=GMN",
+          "filename": "[교육부 09-03(목) 조간보도자료] 교실 밖 이공계 현장으로 내 진로를 만나러 갑니다.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-02T03:38:44.524453+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
@@ -4070,8 +4086,8 @@
           "filename": "260901_(보도자료)_제4차 국토대전환 범정부 추진협의회(최최종).pdf"
         }
       ],
-      "_attAt": "2026-09-01T21:38:44.404171+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-02T03:38:44.524453+00:00",
+      "_attRev": 3
     },
     {
       "title": "배경훈 부총리, G20 혁신 장관회의 참석",
