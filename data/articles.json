@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T09:30:00.058380+00:00",
-  "count": 2083,
+  "updated": "2026-09-02T09:44:50.490311+00:00",
+  "count": 2084,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1443,7 +1443,8 @@
           "filename": "[교육부 09-03(목) 조간보도자료] 교실 밖 이공계 현장으로 내 진로를 만나러 갑니다.hwpx"
         }
       ],
-      "_attAt": "2026-09-02T03:38:44.524453+00:00"
+      "_attAt": "2026-09-02T09:44:44.859348+00:00",
+      "_attRev": 1
     },
     {
       "title": "탄소국경조정제도(CBAM) 대응역량 강화를 위한 정부 합동설명회 개최",
@@ -2664,6 +2665,27 @@
         }
       ],
       "_attAt": "2026-09-02T09:14:44.196683+00:00"
+    },
+    {
+      "title": "[장관동정] 김윤덕 장관, SNS로 찾은 \"따뜻한 버스기사\" 직접 만나 표창",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779943",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "[장관동정] 김윤덕 장관, SNS로 찾은 \"따뜻한 버스기사\" 직접 만나 표창 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544669&tblKey=GMN",
+          "filename": "260902(동정)_김윤덕_장관__SNS로_찾은_“따뜻한_버스기사”_직접_만나_표창(교통서비스정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544670&tblKey=GMN",
+          "filename": "260902(동정)_김윤덕_장관__SNS로_찾은_“따뜻한_버스기사”_직접_만나_표창(교통서비스정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-02T09:44:44.859348+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
