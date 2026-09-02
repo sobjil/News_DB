@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T07:44:45.779110+00:00",
-  "count": 2056,
+  "updated": "2026-09-02T07:59:52.864045+00:00",
+  "count": 2057,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -734,16 +734,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198537226&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537266&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198537225&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198537265&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 서울·경기·강원권 소나무재선충병 방제전략 광역컨설팅 개최.hwp"
         }
       ],
-      "_attAt": "2026-09-02T01:53:43.913091+00:00"
+      "_attAt": "2026-09-02T07:59:46.189956+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, '제3회 특별성과 포상금제' 수상자 발표",
@@ -759,7 +760,8 @@
           "filename": "260902 즉시 (보도) 과기정통부, ‘제3회 특별성과 포상금제’ 수상자 발표.hwpx"
         }
       ],
-      "_attAt": "2026-09-02T01:53:43.913091+00:00"
+      "_attAt": "2026-09-02T07:59:46.189956+00:00",
+      "_attRev": 1
     },
     {
       "title": "김해공항 하늘길, 첨단 위성항법 착륙절차로 더 안전해진다",
@@ -2003,6 +2005,27 @@
         }
       ],
       "_attAt": "2026-09-02T07:23:44.783952+00:00"
+    },
+    {
+      "title": "[참고] 고속철도 통합 첫날 이용객 21.3만명... 수서축 좌석 30.5% 늘어 이용 편의 개선",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779447",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "[참고] 고속철도 통합 첫날 이용객 21.3만명... 수서축 좌석 30.5% 늘어 이용 편의 개선 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198543047&tblKey=GMN",
+          "filename": "260902 (참고) 고속철도 통합 첫날 이용객 21.3만명 수서축 좌석 30.5퍼센트 늘어 이용 편의 개선(고속철도 통합 TF팀).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198543048&tblKey=GMN",
+          "filename": "260902 (참고) 고속철도 통합 첫날 이용객 21.3만명 수서축 좌석 30.5퍼센트 늘어 이용 편의 개선(고속철도 통합 TF팀).pdf"
+        }
+      ],
+      "_attAt": "2026-09-02T07:59:46.189956+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
