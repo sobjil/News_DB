@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T23:00:04.968169+00:00",
-  "count": 2006,
+  "updated": "2026-09-02T23:14:52.212106+00:00",
+  "count": 2008,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -150,6 +150,48 @@
         }
       ],
       "_attAt": "2026-09-02T22:44:43.569430+00:00"
+    },
+    {
+      "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779974",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544777&tblKey=GMN",
+          "filename": "[26.9.3.(목) 보도자료] 바이오 대도약을 향한 ‘2026 GBC’ 성황리에 마무리.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544778&tblKey=GMN",
+          "filename": "[26.9.3.(목) 보도자료] 바이오 대도약을 향한 ‘2026 GBC’ 성황리에 마무리.pdf"
+        }
+      ],
+      "_attAt": "2026-09-02T23:14:44.771540+00:00"
+    },
+    {
+      "title": "식약처, 의약품 규제기관 국제연합 집행위원회 선출 및 정상회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779973",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "식약처, 의약품 규제기관 국제연합 집행위원회 선출 및 정상회의 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544776&tblKey=GMN",
+          "filename": "[26.9.3.(목) 보도자료] 식약처, 의약품 규제기관 국제연합 집행위원회 선출 및 정상회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544775&tblKey=GMN",
+          "filename": "[26.9.3.(목) 보도자료] 식약처, 의약품 규제기관 국제연합 집행위원회 선출 및 정상회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-02T23:14:44.771540+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
