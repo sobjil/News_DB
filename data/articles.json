@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T04:53:44.997433+00:00",
-  "count": 2030,
+  "updated": "2026-09-02T05:08:55.899895+00:00",
+  "count": 2033,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1403,6 +1403,59 @@
         }
       ],
       "_attAt": "2026-09-02T04:23:47.590125+00:00"
+    },
+    {
+      "title": "DMZ 생물다양성, 국제사회와 평화의 미래를 논한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778235",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "- 국립수목원·CBD 사무국 공동개최, DMZ자생식물원 10주년 국제심포지엄 D-30 - 산림청 국립수목원이 DMZ자생식물원 개원 10주년을 맞아 생물다양성협약 사무국(CBD Secretariat)과 함께 DMZ와 접경지역의 생물다양성 보전과 평화협력의 미래를 논의한다. 국립수목원은 오는 10월 1일부터 2일까지 국립수목원과 DMZ자생식물원에서 '생물다양성과 평화, DMZ 너머의 미래'를 주제로 국제심포지엄을 개최한다고 밝혔다. 이번 심포지엄은 지난 10년간 DMZ자생식물원이 축적해 온 생물다양성 조사·보전 성과를 국제사회와 공유하",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198538106&tblKey=GMN",
+          "filename": "[보도자료]DMZ 생물다양성 국제사회와 평화의 미래를 논한다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198538105&tblKey=GMN",
+          "filename": "[보도자료]DMZ 생물다양성 국제사회와 평화의 미래를 논한다.hwp"
+        }
+      ],
+      "_attAt": "2026-09-02T05:08:47.641348+00:00"
+    },
+    {
+      "title": "과기정통부, '창업가형 석·박사급 고급인재 육성' 본격 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778233",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "- '인공지능 전환(AX) 선도 창업가형 인재양성센터' 현판수여식 및 간담회 개최- 한국과학기술원(KAIST)·포항공대·울산과학기술원(UNIST)·조선대 4개 대학을 인공지능 창업 거점으로 운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198538100&tblKey=GMN",
+          "filename": "260903 조간 (보도) 과기정통부, ‘창업가형 석·박사급 고급인재 육성’ 본격 추진.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-02T05:08:47.641348+00:00"
+    },
+    {
+      "title": "박인규 과학기술혁신본부장, 경상국립대 항공우주 청년들과 현장 소통",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778232",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-02T00:00:00+09:00",
+      "description": "- 경남 항공우주 산업현장의 미래를 이끌 청년 연구자들과 연구 현장 소통- 과기정통부 2030 청년자문단도 함께하여 청년세대 의견수렴",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198538098&tblKey=GMN",
+          "filename": "260903 조간 (동정) 박인규 과학기술혁신본부장, 경상국립대 항공우주 청년들과 현장 소통(수정).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-02T05:08:47.641348+00:00"
     },
     {
       "title": "[9.1.화.석간] 내가 참여한 건강조사 데이터, 인공지능 기반 맞춤 건강리포트로 돌려 드립니다!",
