@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T04:14:54.520644+00:00",
-  "count": 2072,
+  "updated": "2026-09-03T04:29:49.764264+00:00",
+  "count": 2073,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -104,11 +104,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198544755&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544756&tblKey=GMN",
           "filename": "(9. 3. (목) 조간 보도자료) “불법 혼합냉매 사용 에어컨에서 자연발화성 물질 검출 소방청 관계부처와 공동대응 착수.hwpx"
         }
       ],
-      "_attAt": "2026-09-02T22:14:44.102175+00:00"
+      "_attAt": "2026-09-03T04:29:44.694219+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 전자민원, 더 이상 헤매지 마세요… 식약처, 알기 쉬운 맞춤형 영상 배포",
@@ -1531,6 +1532,32 @@
         }
       ],
       "_attAt": "2026-09-03T04:14:43.383577+00:00"
+    },
+    {
+      "title": "\"산림청, 소나무재선충병 확산 차단을 위한 실행력 강화 방안 발표\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780063",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "\"산림청, 소나무재선충병 확산 차단을 위한 실행력 강화 방안 발표\"- 소나무재선충병 국가방제전략의 실행력 강화, 국가재선충병방제단 출범 산림청(청장 박은식)은 최근 기후변화 등으로 재선충병이 지속적으로 확산됨에 따라 올해 1월 수립한 '소나무재선충병 국가방제전략'의 실행력을 강화하고, 재선충병의 확산을 조기에 차단하고자 '국가방제전략 실행력 강화 방안'을 본격 추진한다고 3일 밝혔다. 이번 실행력 강화 방안은 ▲부족한 지방정부의 방제 역량을 고려해 가용 가능한 자원을 총동원해 국가가 확산을 차단하고, ▲국가 주도의 예찰·관리 체계를",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545138&tblKey=GMN",
+          "filename": "(260903)보도자료-산림청__소나무재선충병_확산_차단을_위한_실행력_강화_방안_발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545140&tblKey=GMN",
+          "filename": "(260903)보도자료-산림청__소나무재선충병_확산_차단을_위한_실행력_강화_방안_발표.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545139&tblKey=GMN",
+          "filename": "(260903)보도자료-산림청__소나무재선충병_확산_차단을_위한_실행력_강화_방안_발표.hwp"
+        }
+      ],
+      "_attAt": "2026-09-03T04:29:44.694219+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
