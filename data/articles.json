@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T09:47:23.379852+00:00",
-  "count": 2123,
+  "updated": "2026-09-03T10:01:49.910610+00:00",
+  "count": 2124,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1487,16 +1487,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198545102&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545120&tblKey=GMN",
           "filename": "260903 [보도자료] 2027년 국방예산 정부안 편성_제공.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198545103&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545121&tblKey=GMN",
           "filename": "260903 [보도자료] 2027년 국방예산 정부안 편성_제공.pdf"
         }
       ],
-      "_attAt": "2026-09-03T03:59:45.178664+00:00"
+      "_attAt": "2026-09-03T10:01:43.091414+00:00",
+      "_attRev": 1
     },
     {
       "title": "국방반도체 기술 자립, 산·학·연과 함께 100대 핵심과제 만든다!",
@@ -1508,16 +1509,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198545101&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545119&tblKey=GMN",
           "filename": "260903 [방사청 보도자료] 국방반도체 정책 및 과제수요조사 설명회 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198545100&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545118&tblKey=GMN",
           "filename": "260903 [방사청 보도자료] 국방반도체 정책 및 과제수요조사 설명회 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-03T03:59:45.178664+00:00"
+      "_attAt": "2026-09-03T10:01:43.091414+00:00",
+      "_attRev": 1
     },
     {
       "title": "경북 예천 소(牛) 농장 예찰검사에서 구제역이 발생되어 방역관리 강화",
@@ -2725,6 +2727,27 @@
         }
       ],
       "_attAt": "2026-09-03T09:47:19.536554+00:00"
+    },
+    {
+      "title": "전·현직 총학생회장단 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780176",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "기획예산처는 '26. 9. 3.(목) 오후 4시 30분 서울스퀘어 회의실에서 박홍근 장관 주재로 전·현직 총학생회장단과 미래대응·청년정책 간담회를 개최하였습니다.자세한 내용은 첨부자료를 참고해 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545670&tblKey=GMN",
+          "filename": "260903 (보도자료) 전현직 총학생회장단 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545669&tblKey=GMN",
+          "filename": "260903 (보도자료) 전현직 총학생회장단 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T10:01:43.091414+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
