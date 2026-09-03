@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T23:01:44.351473+00:00",
-  "count": 2050,
+  "updated": "2026-09-03T23:16:51.715906+00:00",
+  "count": 2052,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -119,6 +119,53 @@
         }
       ],
       "_attAt": "2026-09-03T22:16:42.079826+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, K-의료기기 기술 자립과 혁신의 시작을 위한 통합포럼 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780186",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "식약처, K-의료기기 기술 자립과 혁신의 시작을 위한 통합포럼 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545756&tblKey=GMN",
+          "filename": "[26.9.4.(금) 보도참고자료] 식약처, K-의료기기 기술 자립과 혁신의 시작을 위한 통합포럼 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545757&tblKey=GMN",
+          "filename": "[26.9.4.(금) 보도참고자료] 식약처, K-의료기기 기술 자립과 혁신의 시작을 위한 통합포럼 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T23:16:41.292664+00:00"
+    },
+    {
+      "title": "외교부 공관장 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780188",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545760&tblKey=GMN",
+          "filename": "[26-710](보도자료) 외교부 공관장 인사.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545762&tblKey=GMN",
+          "filename": "붙임) 국영문 이력서 2부.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545761&tblKey=GMN",
+          "filename": "[26-710](보도자료) 외교부 공관장 인사.pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T23:16:41.292664+00:00"
     },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
@@ -1716,8 +1763,8 @@
           "filename": "260904 조간 (보도) 양자, 다양한 기술과의 융합에서 답을 찾다.hwpx"
         }
       ],
-      "_attAt": "2026-09-03T17:01:51.000378+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-03T23:16:41.292664+00:00",
+      "_attRev": 3
     },
     {
       "title": "고용노동부, 금년 4회차 외국인노동자(E-9) 고용허가 접수 안내",
@@ -1738,8 +1785,8 @@
           "filename": "260903_보도자료_4회차 외국인노동자(E-9) 신규 고용허가 신청접수.pdf"
         }
       ],
-      "_attAt": "2026-09-03T17:01:51.000378+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-03T23:16:41.292664+00:00",
+      "_attRev": 3
     },
     {
       "title": "숲푸드자원 스마트 재배, 연구기관·지자체·기업이 머리 맞대다! - 국립산림과학원, 노지·시설부터 AI 스마트팜까지…숲푸드자원 연구·실증 방향 공유",
@@ -2881,8 +2928,8 @@
           "filename": "[26-708](보도자료) 국립외교원 서울외교포럼(Seoul Diplomacy Forum) 2026 개최 결과.pdf"
         }
       ],
-      "_attAt": "2026-09-03T17:01:51.000378+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-03T23:16:41.292664+00:00",
+      "_attRev": 2
     },
     {
       "title": "외교부, 네팔 홍수 관련 본부-현지 합동 상황점검회의 개최(9.3.)",
