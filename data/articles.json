@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T08:46:53.759318+00:00",
-  "count": 2120,
+  "updated": "2026-09-03T09:02:02.888018+00:00",
+  "count": 2121,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1159,7 +1159,8 @@
           "filename": "(안건) 군 복무 청년 관련 정책 개선방안(최종).pdf"
         }
       ],
-      "_attAt": "2026-09-03T02:59:48.213254+00:00"
+      "_attAt": "2026-09-03T09:01:42.967773+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 제13회 국가정책조정회의",
@@ -1180,7 +1181,8 @@
           "filename": "260903 제13회 국가정책조정회의 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-09-03T02:59:48.213254+00:00"
+      "_attAt": "2026-09-03T09:01:42.967773+00:00",
+      "_attRev": 1
     },
     {
       "title": "병·의원 비급여 진료비 미리 확인하세요",
@@ -2636,6 +2638,32 @@
         }
       ],
       "_attAt": "2026-09-03T08:46:42.711115+00:00"
+    },
+    {
+      "title": "동서트레일, 지역 상생의 길로 조성된다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780148",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "동서트레일, 지역 상생의 길로 조성된다- 산림청, '동서트레일 성공 개통을 위한 운영협력 워크숍' 개최 - 산림청은 세종특별자치시 홍익대학교 국제연수원에서 동서트레일의 성공적인 개통과 지역 상생방안을 모색하기 위한 운영협력 워크숍을 개최했다고 3일 밝혔다. 이번 워크숍은 2027년 전면 개통을 대비해 길과 맞닿아 있는 지역사회와의 협력 체계를 공고히 하기 위해 기획됐다. 행사에는 대전, 충북, 충남, 경북, 세종 등 동서트레일이 통과하는 5개 광역 시·도 및 시·군·구 담당자와 마을 이장단, 숲길 전문가가 한자리에 모였다. 동서트레",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545581&tblKey=GMN",
+          "filename": "(260903)보도자료_동서트레일, 지역상생의 길로 조성된다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545583&tblKey=GMN",
+          "filename": "(260903)보도자료_동서트레일, 지역상생의 길로 조성된다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545582&tblKey=GMN",
+          "filename": "(260903)보도자료_동서트레일, 지역상생의 길로 조성된다.hwp"
+        }
+      ],
+      "_attAt": "2026-09-03T09:01:42.967773+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
