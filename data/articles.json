@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T21:02:07.944727+00:00",
-  "count": 2047,
+  "updated": "2026-09-03T21:16:49.850487+00:00",
+  "count": 2049,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,48 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780184",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성- 2027년 보건복지부 예산 148조 7,697억 원 규모, 전년 대비 8.2%↑ -- 아동기본수당·아이맞이지원금·피지컬AI(미래대응기금) 포함 152조 4,328억 원 -- 지역필수의료 특별회계(1.26조 원) 도입, 지역사회 통합돌봄 안착, 취약청년 지원- 보건복지부(장관 정은경)는 9월 1일(화), 2027년도 보건복지부 예산안이 국무회의에서 의결되었다고 밝혔다. 총지출은 148조 7,697억 원으로 2026년 본예산(137조 4,949억 원) 대비 8.2% 증가하였다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545746&tblKey=GMN",
+          "filename": "[9.4.금 석간] 국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545747&tblKey=GMN",
+          "filename": "[9.4.금 석간] 국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성.pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T21:16:42.072387+00:00"
+    },
+    {
+      "title": "예비타당성조사 통과… 경제적 타당성 확보로 국토위성의 활용 가치 입증",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780183",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "예비타당성조사 통과… 경제적 타당성 확보로 국토위성의 활용 가치 입증 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545744&tblKey=GMN",
+          "filename": "260904(석간)_예타로_활용성_입증한_국토위성__3,4호_개발_본격화_3호_2030년_발사_추진(국토위성센터_등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545745&tblKey=GMN",
+          "filename": "260904(석간)_예타로_활용성_입증한_국토위성__3,4호_개발_본격화_3호_2030년_발사_추진(국토위성센터_등).pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T21:16:42.072387+00:00"
+    },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779969",
