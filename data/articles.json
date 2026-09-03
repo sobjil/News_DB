@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T23:59:47.794519+00:00",
-  "count": 2010,
+  "updated": "2026-09-03T00:14:53.203754+00:00",
+  "count": 2012,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -224,6 +224,48 @@
         }
       ],
       "_attAt": "2026-09-02T23:45:24.692657+00:00"
+    },
+    {
+      "title": "국토위성으로 남·북극 살피고, 남극 우리말 지명 넓힌다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779977",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "국토위성으로 남·북극 살피고, 남극 우리말 지명 넓힌다 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544791&tblKey=GMN",
+          "filename": "260903(석간)_국토위성으로_남·북극_살피고__남극_우리말_지명_넓힌다(국토지리정보원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544792&tblKey=GMN",
+          "filename": "260903(석간)_국토위성으로_남·북극_살피고__남극_우리말_지명_넓힌다(국토지리정보원).pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T00:14:44.190109+00:00"
+    },
+    {
+      "title": "집중호우 피해 수습에 재난특교세 20억 긴급 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156779979",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "- 전남광주·충남·전북, 응급복구 및 이재민 구호 등 현장 수습에 활용 행정안전부는 지난 8월 28일(금)부터 9월 1일(화)끼지 내린 집중호우로 피해를 입은 3개* 시·도에 재난안전관리 특별교부세(이하 재난특교세) 20억 원을 긴급 지원한다. * 전남광주통합특별시, 충청남도, 전북특별자치도 이번 지원은 집중호우로 피해를 입은 지역의 조속한 수습을 위해 결정됐으며, 피해시설 응급복구와 이재민 구호 등 현장에서 시급하게 필요한 조치에 사용될 예정이다. 윤호중 장관은 \"무엇보다 주민들의 일상 회복이 중요한 만큼, 지방정부와 관계기관은 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544820&tblKey=GMN",
+          "filename": "260903(즉시) 집중호우 피해 수습에 재난특교세 20억 긴급 지원(재난관리정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198544821&tblKey=GMN",
+          "filename": "260903(즉시) 집중호우 피해 수습에 재난특교세 20억 긴급 지원(재난관리정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T00:14:44.190109+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
