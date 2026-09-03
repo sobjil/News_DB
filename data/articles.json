@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T09:31:46.620780+00:00",
-  "count": 2122,
+  "updated": "2026-09-03T09:47:23.379852+00:00",
+  "count": 2123,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2704,6 +2704,27 @@
         }
       ],
       "_attAt": "2026-09-03T09:16:45.480948+00:00"
+    },
+    {
+      "title": "제2차 한미일 해외 재난대응 협력 회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780175",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-03T00:00:00+09:00",
+      "description": "해외에서 대규모 재난 발생 시 긴급구호 및 피해복구 지원 등에서 한미일 협력 방안을 모색하기 위한 한미일 해외 재난대응 협력 회의가 지난 7월 1차 회의에 이어 9.3.(목) 도쿄에서 개최되었다. 금번 회의에는 한미일 3국의 외교, 국방, 재난대응 전문가들이 참석하여 해외 재난 상황에서 신속한 정보공유를 포함한 3국간 재난대응 협력 방안에 대해 논의하였다. 아울러, 3국은 앞으로도 효과적인 해외 재난대응을 위한 협력 논의를 긴밀히 할 의지를 재확인하였다. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545661&tblKey=GMN",
+          "filename": "[26-707](보도자료) 제2차 한미일 해외 재난대응 협력 회의 개최(9.3.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198545662&tblKey=GMN",
+          "filename": "[26-707](보도자료) 제2차 한미일 해외 재난대응 협력 회의 개최(9.3.).pdf"
+        }
+      ],
+      "_attAt": "2026-09-03T09:47:19.536554+00:00"
     },
     {
       "title": "항공업계, '25년 안전에 13.3조원 투자",
