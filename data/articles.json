@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T06:32:50.930016+00:00",
-  "count": 2118,
+  "updated": "2026-09-04T06:36:49.043887+00:00",
+  "count": 2120,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1543,6 +1543,53 @@
         }
       ],
       "_attAt": "2026-09-04T06:32:42.155987+00:00"
+    },
+    {
+      "title": "국가스포츠정책위원회, '모두가 즐기는 스포츠'로 '건강하고 행복한 대한민국'을 실현하겠습니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780292",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "국가스포츠정책위원회, '모두가 즐기는 스포츠'로 '건강하고 행복한 대한민국'을 실현하겠습니다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0904]정부합동보도자료-제2차 국가스포츠정책위원회 회의 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546362&tblKey=GMN",
+          "filename": "[0904]정부합동보도자료-제2차 국가스포츠정책위원회 회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546361&tblKey=GMN",
+          "filename": "[0904]정부합동보도자료-제2차 국가스포츠정책위원회 회의 개최.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546363&tblKey=GMN",
+          "filename": "스포츠 정책비전 2030.pdf"
+        }
+      ],
+      "_attAt": "2026-09-04T06:36:43.562680+00:00"
+    },
+    {
+      "title": "자원병역이행, 대한민국을 위한 자랑스러운 선택",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780293",
+      "agency": "병무청",
+      "agencyCode": "mma",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "□ 병무청(청장 홍소영)은 9월 3일부터 4일까지 현역 복무중인 자원병역이행 모범병사 100명을 초청하여 격려행사를 개최했다. □ 2007년 시작되어 올해 19회가 된 '자원병역이행 모범병사 격려행사'는 병역이 자랑스러운 사회 분위기를 조성하기 위해 실시해오고 있다. ○ 질병 등으로 사회복무요원 소집대상이거나 국외 영주권자로 국외에 계속 거주할 수 있음에도 귀국하여 현역복무를 선택한 청년들이 대상이다. 제도 시행 이래 현재까지 26,076명이 자발적으로 입영하여 병역의 의무를 이행하였다. ○ 이번 행사는 국립중앙박물관과 전쟁기념관을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546371&tblKey=GMN",
+          "filename": "20260904(최종배포)자원병역이행, 대한민국을 위한 자랑스러운 선택.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546370&tblKey=GMN",
+          "filename": "20260904(최종배포)자원병역이행, 대한민국을 위한 자랑스러운 선택(1).pdf"
+        }
+      ],
+      "_attAt": "2026-09-04T06:36:43.562680+00:00"
     },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
