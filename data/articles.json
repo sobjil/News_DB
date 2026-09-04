@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T11:39:02.263037+00:00",
-  "count": 2145,
+  "updated": "2026-09-04T11:53:55.645261+00:00",
+  "count": 2147,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -257,8 +257,8 @@
           "filename": "(260904) 민관이 손잡고 신고자 보호를 더욱 두텁게 신고자 보호심의위원회 출범.pdf"
         }
       ],
-      "_attAt": "2026-09-04T05:47:43.444360+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-04T11:53:44.749498+00:00",
+      "_attRev": 2
     },
     {
       "title": "조달청 시설공사 주간('26.9.7.~'26.9.11.)입찰 동향",
@@ -1428,21 +1428,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546295&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546326&tblKey=GMN",
           "filename": "(260904)보도자료-산림청，_헬기_활용해_접근_어려운_훈증더미_제거_추진.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546297&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546328&tblKey=GMN",
           "filename": "(260904)보도자료-산림청，_헬기_활용해_접근_어려운_훈증더미_제거_추진.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546296&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546327&tblKey=GMN",
           "filename": "(260904)보도자료-산림청，_헬기_활용해_접근_어려운_훈증더미_제거_추진.hwp"
         }
       ],
-      "_attAt": "2026-09-04T05:47:43.444360+00:00"
+      "_attAt": "2026-09-04T11:53:44.749498+00:00",
+      "_attRev": 1
     },
     {
       "title": "대학생의 시각으로 무역통계를 읽는다",
@@ -1463,7 +1464,8 @@
           "filename": "170904 대학생의 시각으로 무역통계를 읽는다.pdf"
         }
       ],
-      "_attAt": "2026-09-04T05:47:43.444360+00:00"
+      "_attAt": "2026-09-04T11:53:44.749498+00:00",
+      "_attRev": 1
     },
     {
       "title": "관세청, 추석 맞아 특별지원대책 시행",
@@ -1484,7 +1486,8 @@
           "filename": "260904 관세청, 추석 맞아 특별지원대책 시행.pdf"
         }
       ],
-      "_attAt": "2026-09-04T05:47:43.444360+00:00"
+      "_attAt": "2026-09-04T11:53:44.749498+00:00",
+      "_attRev": 1
     },
     {
       "title": "관계부처 합동보도자료(군 복무 청년 관련 정책 개선방안 보도자료)",
@@ -2196,6 +2199,38 @@
         }
       ],
       "_attAt": "2026-09-04T11:38:45.612193+00:00"
+    },
+    {
+      "title": "해양경찰청, 2027년도 재정 2조 2,920억 원 편성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780335",
+      "agency": "해양경찰청",
+      "agencyCode": "kcg",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "해양경찰청, 2027년도 재정 2조 2,920억 원 편성- 불법외국어선 강력 단속과 연안 안전사고 예방을 위한 사업에 집중 투자... \"안전한 우리 바다 만든다\" - 해양경찰청(장인식 해경청장 직무대행)은 2027년도 총 재정을 올해 2조 1,340억원 대비 1,580억원(7.4%) 증가한 총 2조 2,920억원으로 편성했다고 밝혔다. 이번 예산안은 올해 2조 885억원 대비 1,406억 원(6.7%) 증가한 2조 2,291억원으로 국정과제인 \"흔들림 없는 해양주권, 안전한 우리바다\"를 차질없이 이행하고, 국민이 체감할 수 있는 해",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546582&tblKey=GMN",
+          "filename": "260904 (보도자료) 해양경찰청, 2027년도 재정 2조 2,920억 원 편성.hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T11:53:44.749498+00:00"
+    },
+    {
+      "title": "\"내가 생각하는 양성평등은?\" 양성평등주간 맞아 소통·공감의 장 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780334",
+      "agency": "해양경찰청",
+      "agencyCode": "kcg",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "\"내가 생각하는 양성평등은\" 양성평등주간 맞아 소통·공감의 장 마련-9.1~9.7 양성평등 의미와 가치를 공유하는 전 직원 참여형 행사 개최 - 해양경찰청은 양성평등주간(9.1~9.7)을 맞아 조직 내 양성평등 의식을 고취하고 상호 존중하는 조직문화를 조성하기 위해 전 직원 참여형 기념행사 「소·중·해(소통하고 존중하는 평등한 해양경찰)」를 개최한다고 밝혔다. 양성평등주간은 「양성평등기본법」에 따라 실질적인 양성평등 실현을 촉진하기 위해 지정된 법정 기념 주간이다. '소통하고 존중하는 평등한 해양경찰'을 주제로 진행되는 올해 행사는",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546578&tblKey=GMN",
+          "filename": "260902 (보도자료) “내가 생각하는 양성평등은” 해경청, 양성평등주간 맞아 소통·공감의 장 마련.hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T11:53:44.749498+00:00"
     },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
