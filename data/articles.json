@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T08:53:52.040030+00:00",
-  "count": 2129,
+  "updated": "2026-09-04T09:09:04.597261+00:00",
+  "count": 2139,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1152,7 +1152,8 @@
           "filename": "260905 조간 (보도) 글로벌 최고 수준의 대형연구 인프라 조성을 위한 구축형 R&amp;D 사업추진심사 본격 착수 (1).hwpx"
         }
       ],
-      "_attAt": "2026-09-04T03:01:41.645726+00:00"
+      "_attAt": "2026-09-04T09:08:44.025322+00:00",
+      "_attRev": 1
     },
     {
       "title": "동부지방산림청, 2026년 하반기 공동산림사업 현장점검 실시",
@@ -1164,11 +1165,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546190&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546210&tblKey=GMN",
           "filename": "보도자료(공동산림사업 하반기 현장점검).hwpx"
         }
       ],
-      "_attAt": "2026-09-04T03:01:41.645726+00:00"
+      "_attAt": "2026-09-04T09:08:44.025322+00:00",
+      "_attRev": 1
     },
     {
       "title": "15만 식당･미용실 창업자, 시청 갔다 세무서 또 안 가도 됩니다",
@@ -1194,7 +1196,8 @@
           "filename": "260904 15만 식당·미용실 창업자, 시청 갔다 세무서 또 안 가도 됩니다.hwp"
         }
       ],
-      "_attAt": "2026-09-04T03:01:41.645726+00:00"
+      "_attAt": "2026-09-04T09:08:44.025322+00:00",
+      "_attRev": 1
     },
     {
       "title": "기부가 만든 고향의 변화, 고향사랑의 날 기념 고향사랑기부대상 시상식 개최",
@@ -1811,6 +1814,261 @@
         }
       ],
       "_attAt": "2026-09-04T08:53:43.959004+00:00"
+    },
+    {
+      "title": "\"일손 부족에 도움\" 벼 무인항공 방제 농약 등록 기준 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780323",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 벼 병해충 방제에 무인항공기(드론)를 효과적으로 이용할 수 있도록 농약 등록 기준을 새롭게 마련하고 올해 안에 관련 고시를 개정한다. 무인항공기를 이용한 병해충 방제는 넓은 면적을 짧은 시간에 처리할 수 있어 일손 부족을 겪는 농업 현장에서 활용이 늘고 있다. 무인항공기 크기와 살포 물량에 따라 방제 효과가 달라져 현장에서 믿고 따를 수 있는 기준이 마련돼야 한다는 의견이 제기돼 왔다. 이에 농촌진흥청은 지난해 실증시험으로 무인항공기 크기별, 살포 물량별 벼멸구 방제 효과를 분석한 바 있다. 시험 결과, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546507&tblKey=GMN",
+          "filename": "4-6_(즉시보도_통전지)일손부족에도움벼무인항공방제농약등록기준마련(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546508&tblKey=GMN",
+          "filename": "4-6_(즉시보도_통전지)일손부족에도움벼무인항공방제농약등록기준마련(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546506&tblKey=GMN",
+          "filename": "4-6_(즉시보도_통전지)일손부족에도움벼무인항공방제농약등록기준마련(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "농촌진흥청, 지식재산의 날 기념 유공 표창 3명 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780321",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 9월 4일 서울 서초구 엘타워에서 열린 '제9회 지식재산의 날' 기념 포상 시상식에서 소속 연구기관 연구사 3명이 유공 표창을 받았다고 밝혔다. 지식재산의 날 기념식은 국가지식재산위원회와 과학기술정보통신부가 매년 개최하는 행사다. 지식재산 창출·보호·활용과 기반 조성에 기여한 개인과 단체를 발굴해 포상한다. 이를 통해 지식재산에 대한 국민의 관심을 높이고, 관련 분야 종사자의 자긍심을 높이자는 취지다. 수상자는 △국립원예특작과학원 도시농업과 김재순 연구사(부총리 겸 과학기술정보통신부 장관 표창) △국립축산",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546501&tblKey=GMN",
+          "filename": "4-5_(즉시보도_전매체)농촌진흥청지식재산의_날_기념_유공_표창(축산원,원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546502&tblKey=GMN",
+          "filename": "4-5_(즉시보도_전매체)농촌진흥청지식재산의_날_기념_유공_표창(축산원,원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546500&tblKey=GMN",
+          "filename": "4-5_(즉시보도_전매체)농촌진흥청지식재산의_날_기념_유공_표창(축산원,원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "\"2026 아시안게임, 보편적 시청권 보장\" 권고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780309",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "\"2026 아시안게임, 보편적 시청권 보장\" 권고- 순차편성과 함께 비인기·신규 종목, 장애인 아시안게임 중계활성화 등 요청 - 방송미디어통신위원회(위원장 김종철)는 4일 '2026년 제33차 위원회(서면)'를 통해 오는 19일 개막하는 '2026 아이치-나고야 아시안게임'의 중계방송 사업자를 대상으로 순차편성과 함께 비인기·이스포츠(e-Sports) 등 신규 종목에 대해서도 적극 중계할 것을 권고했다. 방미통위는 이번 아시안게임(9.19.-10.4) 중계방송에 있어 과도하게 중복 편성되지 않도록 채널별·매체별 순차편성 및 국민의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546466&tblKey=GMN",
+          "filename": "260904 (보도자료) “2026 아시안게임, 보편적 시청권 보장” 권고.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546465&tblKey=GMN",
+          "filename": "260904 (보도자료) “2026 아시안게임, 보편적 시청권 보장” 권고.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546464&tblKey=GMN",
+          "filename": "260904 (보도자료) “2026 아시안게임, 보편적 시청권 보장” 권고.hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "2026년 제33차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780311",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "2026년 제33차 위원회 결과[의결 안건]가. 「방송미디어통신위원회 재정 및 알선 등에 관한 고시」 제정(안)에 관한 건 o 방송미디어통신위원회 기관 신설에 따른 변경 사항 등을 반영해 관련 규정 및 서식 등을 정비하기 위해 기존 「방송통신위원회 재정 및 알선 등에 관한 규정」을 폐지하고 「방송미디어통신위원회 재정 및 알선 등에 관한 고시」를 제정했습니다.나. '2026 아이치·나고야 아시안게임' 관련 권고에 관한 건 o 2026년 아이치·나고야 아시안게임 중계방송에 있어 채널별·매체별 순차편성과 함께 비인기·신규도입 종목과 장애",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546472&tblKey=GMN",
+          "filename": "제33차 위원회 결과 (서면)브리핑(260904).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546471&tblKey=GMN",
+          "filename": "제33차 위원회 결과 (서면)브리핑(260904).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546470&tblKey=GMN",
+          "filename": "제33차 위원회 결과 (서면)브리핑(260904).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "[보도자료] 천명지킴 생명대사 초승, 콘서트에 자살유족 및 자살예방 현장 관계자 초청",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780308",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "천명지킴 생명대사 싱어송라이터 초승, 무대 위에서 전하는 특별한 위로- 6주년 기념 콘서트 '여섯 번째 안부'에 자살유족 및 부산정신건강복지센터 직원 초청 -□ 2026 천명지킴 생명대사*로 위촉되어 활동 중인 싱어송라이터 초승은 오는 9월 5일(토) KT&G 상상마당 부산 라이브홀에서 열리는 자신의 6주년 기념 콘서트 '여섯 번째 안부'에 자살유족과 부산정신건강복지센터 직원들을 초청하여 따뜻한 위로를 전한다. * 국무총리 산하 범정부 생명지킴추진본부가 2026년 연간 자살사망자 1,000명을 줄이기 위해 범국가적으로 추진하는 '천",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546462&tblKey=GMN",
+          "filename": "260904 (보도자료) 생명대사 초승, 자살 유족 등 6주년 기념 초청.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546463&tblKey=GMN",
+          "filename": "260904 (보도자료) 생명대사 초승, 자살 유족 등 6주년 기념 초청.pdf"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "농촌진흥청, 전남 보성 풀사료 3모작 재배 현장 살펴",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780319",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "이승돈 농촌진흥청장은 9월 4일, 전남광주통합특별시 보성군 보성읍 일대 풀사료 3모작 실증 재배지를 찾아 사료피 생육 현황을 살피고, 가축분 퇴비 활용에 대해 들었다. 보성축협은 2024년부터 보성읍 일대 논 1.5헥타르에서 '이탈리안 라이그라스→사료피 1차→사료피 2차'로 이어지는 풀사료 3모작을 실증하고 있다. 지난해 실증 결과, 수분을 제외한 건물 기준 연간 풀사료 수확량은 헥타르당 20.3톤이었다. 작물별 생산량은 이탈리안 라이그라스 7.2톤, 1차 사료피 6.7톤, 2차 사료피 6.4톤으로 나타났다. 이곳에서는 작물 재배 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546495&tblKey=GMN",
+          "filename": "4-4_(즉시보도_전매체_현장방문)농촌진흥청,_전남_보성_풀사료_3모작_현장_점검(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546496&tblKey=GMN",
+          "filename": "4-4_(즉시보도_전매체_현장방문)농촌진흥청,_전남_보성_풀사료_3모작_현장_점검(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546494&tblKey=GMN",
+          "filename": "4-4_(즉시보도_전매체_현장방문)농촌진흥청,_전남_보성_풀사료_3모작_현장_점검(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 국가스포츠정책위원회 위촉식 및 회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780307",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "국가스포츠정책위원회, '모두가 즐기는 스포츠'로 '건강하고 행복한 대한민국'을 실현하겠습니다- 한성숙 국무총리 주재, 「제2차 국가스포츠정책위원회」 개최- 스포츠 선순환 생태계를 구축하는 '스포츠정책비전 2030'을 발표- '2027 충청 하계유니버시아드대회' 추진 현황을 점검하여 성공 개최 다짐□ 정부는 9월 4일(금), 정부서울청사에서 한성숙 국무총리 주재로 '제2차 국가스포츠정책위원회(공동위원장 총리 한성숙, 김수녕, 이하 위원회)' 회의를 열어 위원회 2기 민간위원을 위촉하는 한편 '스포츠정책비전 2030', '2027 충청",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546459&tblKey=GMN",
+          "filename": "260904 국가스포츠정책위원회 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546460&tblKey=GMN",
+          "filename": "260904 국가스포츠정책위원회 보도자료(최종).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546461&tblKey=GMN",
+          "filename": "3-1. (보도 붙임) 스포츠정책비전 2030.pdf"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "농촌진흥청, 콩 생육 후기 병해충 방제 철저 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780317",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 꼬투리가 커지고 알이 여무는 콩 생육 후기에 발생하는 주요 병해충을 안내하고, 사전 방제 및 철저한 관리를 당부했다. 올해는 지속적인 폭염 뒤 가물거나 국지성 호우 같은 극한기후가 이어져 안정적인 콩 생산을 위협하고 있다. 최근 잦은 비로 고온다습한 환경이 조성돼 병해충 발생 위험도 커지고 있다. 특히 9~10월은 평년보다 기온이 높고 강수량의 변동이 클 것으로 전망돼 병해충 예방에 주의해야 한다. 콩 생육 후기에 주의해야 할 주요 병으로는 곰팡이병인 자주무늬병, 탄저병, 미라병이 있고, 해충에는 노린재류",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546489&tblKey=GMN",
+          "filename": "4-3_농촌진흥청__콩_생육_후기_병해충_철저한_방제_당부(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546490&tblKey=GMN",
+          "filename": "4-3_농촌진흥청__콩_생육_후기_병해충_철저한_방제_당부(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546488&tblKey=GMN",
+          "filename": "4-3_농촌진흥청__콩_생육_후기_병해충_철저한_방제_당부(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "벌초·풀베기 작업 전, 예초기 안전 사용 수칙 꼭 알아두세요!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780315",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 벌초, 풀베기 작업이 집중되는 9월을 맞아 농업인의 안전사고 예방을 위한 '예초기 안전 사용 수칙'을 제시하며 각별한 주의를 당부했다. '2025년 농업인 업무상 손상 조사(농촌진흥청)' 자료에 따르면 농기계 관련 사고의 기종별 비중을 분석한 결과, 경운기가 전체 25.0%로 가장 높았다. 이어 예초기(14.3%), 트랙터(13.6%), 관리기(9.0%) 순으로 나타났다. 예초기 관련 주요 사고로는 회전 칼날에 충돌한 돌 등 이물질로 인한 외상, 작업 중 칼날 베임 사고, 이물질 제거 중 갑작스러운 칼날 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546483&tblKey=GMN",
+          "filename": "4-2_벌초풀베기작업전예초기안전사용수칙꼭알아두세요(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546484&tblKey=GMN",
+          "filename": "4-2_벌초풀베기작업전예초기안전사용수칙꼭알아두세요(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546482&tblKey=GMN",
+          "filename": "4-2_벌초풀베기작업전예초기안전사용수칙꼭알아두세요(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
+    },
+    {
+      "title": "농촌진흥청 농업과학도서관, 9월 '독서의 달' 전문가 초청 강연 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780313",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 농업과학도서관은 9월 '독서의 달'을 맞아 책 읽는 즐거움을 나누고 문화적 소양을 높일 수 있도록 9월 10일 오디토리움에서 전문가 초청 무료 강연을 연다. 이번 초청 강연 강사는 분당서울대학교병원 심장혈관흉부외과 장형우 교수다. 장 교수는 '칼을 든 의사, 자신의 몸을 수술하다'라는 주제로 자신의 감량 경험을 살려 비만과 체중 감량에 대한 생각을 솔직하게 풀어낼 예정이다. 최근에는 KBS무엇이든 물어보세요, tvN유퀴즈 온 더 블럭 등 다양한 방송에 출연해 체중 감량과 음식에 대한 견해를 밝혀 공감을 얻고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546477&tblKey=GMN",
+          "filename": "4-1_농촌진흥청_농업과학도서관__9월_‘독서의_달’_맞아_전문가_초청_강연_개최(지식정보담당관실).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546478&tblKey=GMN",
+          "filename": "4-1_농촌진흥청_농업과학도서관__9월_‘독서의_달’_맞아_전문가_초청_강연_개최(지식정보담당관실).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546476&tblKey=GMN",
+          "filename": "4-1_농촌진흥청_농업과학도서관__9월_‘독서의_달’_맞아_전문가_초청_강연_개최(지식정보담당관실).hwp"
+        }
+      ],
+      "_attAt": "2026-09-04T09:08:44.025322+00:00"
     },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
