@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T07:53:44.139615+00:00",
-  "count": 2125,
+  "updated": "2026-09-04T08:08:47.854029+00:00",
+  "count": 2126,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -872,7 +872,8 @@
           "filename": "260904 석간 (보도) 「모두의 AI」 프로젝트 착수 간담회 개최.hwpx"
         }
       ],
-      "_attAt": "2026-09-04T02:01:42.816672+00:00"
+      "_attAt": "2026-09-04T08:08:42.604638+00:00",
+      "_attRev": 1
     },
     {
       "title": "김종구 차관, 한-중 농업협력 강화와 K-푸드 수출기회 확대를 위해 방중",
@@ -1719,6 +1720,22 @@
         }
       ],
       "_attAt": "2026-09-04T07:22:19.235958+00:00"
+    },
+    {
+      "title": "과학기술정보통신부 인사(과장급 전보)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780301",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-04T00:00:00+09:00",
+      "description": "과학기술정보통신부 인사(과장급 전보) 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546424&tblKey=GMN",
+          "filename": "260904 (보도) 과학기술정보통신부 인사_과장급 인사.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-04T08:08:42.604638+00:00"
     },
     {
       "title": "2027학년도 지역의사 첫 선발, 지원자격부터 의무복무까지 궁금증 한눈에",
