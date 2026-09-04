@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T23:08:47.957065+00:00",
-  "count": 2068,
+  "updated": "2026-09-04T23:23:47.052973+00:00",
+  "count": 2069,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -82,6 +82,27 @@
         }
       ],
       "_attAt": "2026-09-04T21:53:44.765802+00:00"
+    },
+    {
+      "title": "동호인이 주인공인 무대, 디비전리그로 생활체육 저변 넓힌다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780342",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "동호인이 주인공인 무대, 디비전리그로 생활체육 저변 넓힌다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0905]문체부보도자료-농구 디비전리그 현장 방문.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546609&tblKey=GMN",
+          "filename": "[0905]문체부보도자료-농구 디비전리그 현장 방문.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546608&tblKey=GMN",
+          "filename": "[0905]문체부보도자료-농구 디비전리그 현장 방문.pdf"
+        }
+      ],
+      "_attAt": "2026-09-04T23:23:42.356872+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
