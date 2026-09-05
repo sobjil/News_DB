@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "retentionDays": 7,
-  "count": 147,
+  "count": 139,
   "events": [
     {
       "id": "156776039",
@@ -28,123 +28,6 @@
       "emoji": "📰",
       "flavor": "전 세계 공무원들이 온실가스 감축 교육을 받는다는 소식이 들리지만, 당장 우리 농장 경영에는 직접적인 영향이 없네요.",
       "weight": 1
-    },
-    {
-      "id": "156775985",
-      "agency": "해양수산부",
-      "title": "추석명절 전 항만·연안정비 건설현장 하도급 대금 및 임금 지급실태 점검한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775985",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "항만 건설 현장의 임금 체불 점검 소식이 들려오지만, 우리 농장과는 직접적인 관련이 없네요.",
-      "weight": 1
-    },
-    {
-      "id": "156775986",
-      "agency": "해양수산부",
-      "title": "한-베트남 해양플랜트 서비스산업 협력거점, 하노이에 구축한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775986",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "해외 해양플랜트 서비스 산업에 관한 소식이라 우리 농가에는 별다른 영향이 없겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156775984",
-      "agency": "해양수산부",
-      "title": "해수부, 폭풍해일에 강한 항만 만들기 위한 설계실무자 역량강화 전문교육 실시한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775984",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "폭풍해일에 강한 항만을 만들기 위한 실무 교육이 진행되어, 앞으로 우리 어선들이 안전하게 대피할 수 있는 든든한 항구가 만들어지겠어요!",
-      "weight": 2
-    },
-    {
-      "id": "156775983",
-      "agency": "농림축산식품부",
-      "title": "인공지능(AI)으로 신선식품 수급 최적화 데이터 기반 유통구조 개선으로 부가가치 창출",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775983",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "직판",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "인공지능 유통 기술 덕분에 우리 농장 농산물도 폐기 손실 없이 똑똑하게 판매할 길이 열렸어요!",
-      "weight": 2
-    },
-    {
-      "id": "156775994",
-      "agency": "기후에너지환경부",
-      "title": "민관이 함께 야적퇴비 정비… 낙동강 녹조 예방에 힘 모은다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775994",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "시세악재",
-      "strength": "약",
-      "emoji": "🥀",
-      "flavor": "낙동강 수질 보전을 위해 밭가에 야적해 둔 퇴비를 제대로 덮고 관리하느라 방수포 구매 등으로 지출이 조금 늘어났어요.",
-      "weight": 5
-    },
-    {
-      "id": "156775993",
-      "agency": "기후에너지환경부",
-      "title": "기업의 자연자본공시, 준비부터 작성까지 자세히 돕는다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775993",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "대기업의 자연자본공시 지원 소식은 우리 농장의 일상 경영에는 별다른 영향을 주지 않네요.",
-      "weight": 1
-    },
-    {
-      "id": "156775996",
-      "agency": "기상청",
-      "title": "기상청 국립기상과학원 인사발령",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775996",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "기상청의 내부 인사 발령 소식이라 우리 농장 운영에는 별다른 영향이 없겠어요.",
-      "weight": 1
-    },
-    {
-      "id": "156776036",
-      "agency": "행정안전부",
-      "title": "전남광주·울산·전북·경북지역 호우특보, 중앙재난안전대책본부 1단계 가동",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776036",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "경북 지역에 호우특보가 발령되었으니, 피해가 없도록 우리 농장의 배수로와 시설물들을 얼른 점검해야겠어요!",
-      "weight": 5
-    },
-    {
-      "id": "156776038",
-      "agency": "행정안전부",
-      "title": "8.29~31일 호우 대처 중대본 회의 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776038",
-      "pubDate": "2026-08-30T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "경북 지역에 호우 특보가 발효되어 비상 단계가 격상되었으니, 우리 농장도 배수로를 점검하고 시설물 피해가 없도록 단단히 대비해야겠어요!",
-      "weight": 5
     },
     {
       "id": "156776301",
@@ -1913,6 +1796,19 @@
       "emoji": "📰",
       "flavor": "중대범죄수사청 출범 소식은 우리 농장 경영에 직접적인 영향을 주지 않는 조용한 뉴스네요.",
       "weight": 1
+    },
+    {
+      "id": "156780353",
+      "agency": "농림축산식품부",
+      "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780353",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "시세호재",
+      "strength": "중",
+      "emoji": "🌾",
+      "flavor": "세계 식량 가격이 올랐다는 소식에 우리 농장에서 정성껏 키운 농산물과 축산물의 몸값도 덩달아 오르고 있어요!",
+      "weight": 5
     }
   ]
 }
