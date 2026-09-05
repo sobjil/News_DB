@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T04:53:46.710788+00:00",
-  "count": 2071,
+  "updated": "2026-09-05T05:08:48.616822+00:00",
+  "count": 2072,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -146,6 +146,32 @@
         }
       ],
       "_attAt": "2026-09-05T04:23:42.510637+00:00"
+    },
+    {
+      "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780353",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "유엔 식량농업기구(FAO)*에 따르면, 2026년 8월 세계식량가격지수는 전월(130.8포인트) 대비 1.9% 상승한 133.3포인트**를 기록하였다. 곡물, 유지류, 육류, 유제품, 설탕 등 모든 품목군의 가격이 상승하였다. * 유엔 식량농업기구는 24개 품목에 대한 국제가격동향을 조사하여, 5개 품목군(곡물, 유지류, 육류, 유제품, 설탕)별 식량가격지수를 매월 작성, 발표(2014~2016년 평균=100) ** ('26.4월) 131.0 → (5월) 131.0 → (6월) 130.1 → (7월) 130.8 → (8월) 133.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546645&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546646&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546644&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).hwp"
+        }
+      ],
+      "_attAt": "2026-09-05T05:08:43.818481+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
