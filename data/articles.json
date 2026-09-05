@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T04:08:55.640137+00:00",
-  "count": 2070,
+  "updated": "2026-09-05T04:23:47.370693+00:00",
+  "count": 2071,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -125,6 +125,27 @@
         }
       ],
       "_attAt": "2026-09-05T03:53:42.809443+00:00"
+    },
+    {
+      "title": "[설명] 「野, 홍지선, 작년 서울 아파트 영끌-빚투 구매」와 관련하여 설명자료를 배포합니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780352",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "[설명] 「野, 홍지선, 작년 서울 아파트 영끌-빚투 구매」와 관련하여 설명자료를 배포합니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546633&tblKey=GMN",
+          "filename": "260905(설명) 홍지선, 작년 서울 아파트 영끌-빚투 구매와 관련 설명자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546634&tblKey=GMN",
+          "filename": "260905(설명) 홍지선, 작년 서울 아파트 영끌-빚투 구매와 관련 설명자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-05T04:23:42.510637+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
