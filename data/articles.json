@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T07:42:42.252346+00:00",
-  "count": 2072,
+  "updated": "2026-09-05T07:57:45.897844+00:00",
+  "count": 2073,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -173,6 +173,27 @@
         }
       ],
       "_attAt": "2026-09-05T05:08:43.818481+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 서울세계불꽃축제 2026 안전관리 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780354",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "한성숙 총리, \"인파사고 없도록 철저히 관리\"- '서울세계불꽃축제 2026' 준비현장 안전점검 -□ 한성숙 국무총리는 9월 5일(토) 오후, '서울세계불꽃축제 2026' 현장인 여의도 한강공원을 방문하여 안전대책과 준비상황을 점검했다.□ 한 총리는 서울특별시 민수홍 문화본부장으로부터 축제 안전 관리대책에 대해 보고 받고, 종합안전본부와 화재진압선 등 한강공원 일대 축제 안전관리 현장으로 이동해 준비상황을 점검하였다.ㅇ 한 총리는 기관별로 수립된 안전대책이 현장에서 차질없이 이행될 수 있도록 실시간으로 모니터링하고 관리해 줄 것을 당",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546661&tblKey=GMN",
+          "filename": "260905 서울세계불꽃축제 2026 안전점검 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546662&tblKey=GMN",
+          "filename": "260905 서울세계불꽃축제 2026 안전점검 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-05T07:57:41.272565+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
