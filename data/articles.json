@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T03:38:59.811533+00:00",
-  "count": 2069,
+  "updated": "2026-09-05T03:53:47.379046+00:00",
+  "count": 2070,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -103,6 +103,27 @@
         }
       ],
       "_attAt": "2026-09-04T23:23:42.356872+00:00"
+    },
+    {
+      "title": "(참고)청년의 도전·성장을 고용노동부가 지원하겠습니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780350",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "- 내년부터 청년도전성장지원사업으로 통합 개편, 6.7만 명으로 지원 확대김영훈 고용노동부 장관은 9.5.(토) 제주특별자치도를 찾아 청년성장프로젝트에 참여한 청년들이 직접 기획·운영하는 팝업스토어 엉망진창 문구사를 방문하고, 사업 참여 청년들과 이야기를 나눴다. 청년성장프로젝트는 고용노동부와 지방정부가 협업하여 미취업 청년의 일상과 구직 의욕 유지를 지원하기 위해 청년 누구나 찾을 수 있는 '청년카페'를 운영하고 지역 청년의 수요에 맞는 프로그램을 기획·운영한다. '26년 기준 64개 지방정부가 참여해 전국에서 94개의 청년카페를",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546623&tblKey=GMN",
+          "filename": "260905_보도참고_제주 청년카페 간담회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546622&tblKey=GMN",
+          "filename": "260905_보도참고_제주 청년카페 간담회.pdf"
+        }
+      ],
+      "_attAt": "2026-09-05T03:53:42.809443+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
