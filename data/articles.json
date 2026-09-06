@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T00:57:43.801223+00:00",
-  "count": 1983,
+  "updated": "2026-09-06T01:12:49.762428+00:00",
+  "count": 1986,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,59 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780357",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546714&tblKey=GMN",
+          "filename": "[교육부 09-07(월) 조간 보도참고자료] 데이터로 읽는 우리 교육 제13호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546715&tblKey=GMN",
+          "filename": "[별첨] 「데이터로 읽는 우리 교육」 2026년 제13호_학교복합시설 더 넓게 더 가까이.pdf"
+        }
+      ],
+      "_attAt": "2026-09-06T01:12:43.226356+00:00"
+    },
+    {
+      "title": "1분 숏폼 영상에 담는 '똑똑'한 수학교실, '똑똑! 수학탐험대' 숏폼 공모전 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780356",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "1분 숏폼 영상에 담는 '똑똑'한 수학교실, '똑똑! 수학탐험대' 숏폼 공모전 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546713&tblKey=GMN",
+          "filename": "[교육부 09-07(월) 조간보도자료] 1분 숏폼 영상에 담는 &#039;똑똑&#039;한 수학교실 &#039;똑똑! 수학탐험대&#039; 숏폼 공모전 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-06T01:12:43.226356+00:00"
+    },
+    {
+      "title": "교육부, 2027학년도 대입전형 기간에 맞춰 입시비리 집중신고 기간 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780355",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "교육부, 2027학년도 대입전형 기간에 맞춰 입시비리 집중신고 기간 운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546712&tblKey=GMN",
+          "filename": "[교육부 09-07(월) 조간보도자료] 교육부 2027학년도 대입전형 기간에 맞춰 입시비리 집중신고 기간 운영.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-06T01:12:43.226356+00:00"
+    },
     {
       "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽 한-미 철강·자동차 공급망 협력 강화",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780341",
