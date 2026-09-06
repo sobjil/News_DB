@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T08:26:55.003616+00:00",
-  "count": 1997,
+  "updated": "2026-09-06T08:41:46.347272+00:00",
+  "count": 1998,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -375,6 +375,27 @@
         }
       ],
       "_attAt": "2026-09-06T03:12:42.564273+00:00"
+    },
+    {
+      "title": "한-네팔 외교장관 회담(9.6.) 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780370",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "9.5.(토)~9.7.(월) 간 네팔 카트만두를 방문 중인 조현 외교부 장관은 9.6.(일) 11:00~11:45 시시르 커날(Shisir Khanal) 네팔 외교장관과 회담을 개최했다.※ 조 장관은 8.26(수) 네팔 홍수 발생 이후, 커날 네팔 외교장관과 8.27(목), 8.31.(월) 두 차례 통화 조 장관은 네팔 홍수로 피해입은 모든 이들에게 깊은 애도를 표명하는 한편, 연락이 두절된 우리 국민 9명의 소재가 여전히 확인되지 않고 있어 깊은 우려를 갖고 있다면서, 이들에 대한 철저한 수색이 가능하도록 네팔 정부가 각별한 관심",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546766&tblKey=GMN",
+          "filename": "[26-716](보도자료) 한-네팔 외교장관 회담(9.6.) 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546767&tblKey=GMN",
+          "filename": "[26-716](보도자료) 한-네팔 외교장관 회담(9.6.) 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-09-06T08:41:41.784713+00:00"
     },
     {
       "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽 한-미 철강·자동차 공급망 협력 강화",
