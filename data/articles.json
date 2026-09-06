@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T08:56:42.900821+00:00",
-  "count": 1998,
+  "updated": "2026-09-06T09:11:45.430861+00:00",
+  "count": 1999,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -396,6 +396,27 @@
         }
       ],
       "_attAt": "2026-09-06T08:41:41.784713+00:00"
+    },
+    {
+      "title": "안전한 건설현장, 국민과 함께 만든다 「건설 추락사고 예방 콘텐츠 공모전」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780401",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "- 9월 14일부터 10월 13일까지 접수… 국민 누구나 참여 - 「홍보영상(숏폼)」 및 「정책제안·우수사례」 2개 부문, 장관상 4점 등 총 16점 선정 고용노동부(장관 김영훈)와 국토교통부(장관 김윤덕)는 건설현장의 안전의식을 확산하고 활용성 높은 추락사고 예방 아이디어·우수사례 발굴을 위해 건설 추락사고 예방 콘텐츠 공모전을 개최한다. ㅇ 이번 공모전은 고용노동부와 국토교통부가 공동 주최하고, 한국산업안전보건공단, 국토안전관리원, 건설근로자공제회, 한국건설기술인협회가 공동 주관한다.□ 공모전은 건설현장 추락사고 예방에 관심이 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546830&tblKey=GMN",
+          "filename": "260906_보도자료_건설현장 추락사고 예방 콘텐츠 공모전(관계부처합동).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546829&tblKey=GMN",
+          "filename": "260906_보도자료_건설현장 추락사고 예방 콘텐츠 공모전(관계부처합동).pdf"
+        }
+      ],
+      "_attAt": "2026-09-06T09:11:41.054661+00:00"
     },
     {
       "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽 한-미 철강·자동차 공급망 협력 강화",
