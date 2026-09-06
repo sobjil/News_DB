@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T21:11:47.936648+00:00",
-  "count": 1993,
+  "updated": "2026-09-06T21:26:47.455225+00:00",
+  "count": 1994,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780404",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "▷ 9월 7일 제3기 유역물관리위원회 위촉식 개최, 4대 유역 민간위원 91명 위촉장 전수▷ 국가유역 간 연계와 협력을 강화해 유역 중심 통합물관리 추진대통령 직속 국가물관리위원회(민간위원장 김좌관)는 9월 7일 정부세종컨벤션센터에서 제3기 유역물관리위원회 위촉식을 개최하고, 국가물관리위원회와 유역물관리위원회 간 연계와 협력을 바탕으로 유역 중심의 통합물관리를 본격적으로 추진한다고 밝혔다.지난 2월 제3기 국가물관리위원회가 구성을 마친 데 이어, 8월 21일 4개(한강, 낙동강, 금강, 영산강·섬진강) 유역물관리위원회의 민간위원장과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546857&tblKey=GMN",
+          "filename": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동(보도자료)(유역물관리 9.7).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546856&tblKey=GMN",
+          "filename": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동(보도자료)(유역물관리 9.7).pdf"
+        }
+      ],
+      "_attAt": "2026-09-06T21:26:43.064092+00:00"
+    },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780357",
