@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T23:26:49.541860+00:00",
-  "count": 1998,
+  "updated": "2026-09-06T23:41:47.465722+00:00",
+  "count": 1999,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -166,6 +166,27 @@
         }
       ],
       "_attAt": "2026-09-06T23:26:41.948786+00:00"
+    },
+    {
+      "title": "원안위, 새울 3호기 시운전 중 원자로 수동정지 사건조사 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780409",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "원안위, 새울 3호기 시운전 중 원자로 수동정지 사건조사 착수 원자력안전위원회(위원장 최원호, 이하 원안위)는 한국수력원자력(이하 한수원)으로부터 금일(9.6) 오후 3시 1분경 새울 3호기를 수동정지하였다는 보고를 받았다고 밝혔다. 한수원은 새울 3호기 시운전 시험을 위해 원자로 출력 상승 중 터빈건물 내 습분분리재열기* 연결 배관부위에서 증기 누설을 확인하고 정비를 위하여 원자로 수동정지하였다.* 고압터빈에서 배출된 증기를 다시 가열하여 습기를 없애고 저압터빈으로 보내는 설비 새울 3호기는 안전 정지상태를 유지하고 있으며, 방사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546889&tblKey=GMN",
+          "filename": "260906_원안위 새울 3호기 시운전 중 원자로 수동정지 사건조사 착수_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546890&tblKey=GMN",
+          "filename": "260906_원안위 새울 3호기 시운전 중 원자로 수동정지 사건조사 착수_보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-06T23:41:42.960614+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
