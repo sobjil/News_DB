@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T09:56:42.976830+00:00",
-  "count": 1999,
+  "updated": "2026-09-06T10:11:49.292537+00:00",
+  "count": 2001,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -423,6 +423,32 @@
       "_attAt": "2026-09-06T09:11:41.054661+00:00"
     },
     {
+      "title": "송미령 농식품부 장관, 추석 전 사과 수급 및 생육 상황 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780402",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "송미령 농림축산식품부(이하 '농식품부') 장관은 9월 6일(일) 오후, 경북 안동시 남후면 소재 대경사과원예농협 산지유통센터(Agricultural Products Processing Center, 이하 'APC')를 찾아 추석 성수기용 사과 선별 및 출하 현장을 살펴보고, 우박 피해를 본 사과 농가를 찾아 위로하며 피해 복구·지원 및 생육 상황을 점검하였다. 이번 방문은 추석 명절을 앞두고 사과, 배 등 주요 과일 산지의 수확·선별·출하 상황을 점검하고 현장 관계자를 격려하기 위해 마련되었다. 대경사과원예농협 APC를 찾은 송미령",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546834&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀 유통소비정책관-원예경영과) 송미령 농식품부 장관 추석 전 사과 수급 및 생육 상황 현장 점검(9.6. 16시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546835&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀 유통소비정책관-원예경영과) 송미령 농식품부 장관 추석 전 사과 수급 및 생육 상황 현장 점검(9.6. 16시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546833&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농업재해지원팀 유통소비정책관-원예경영과) 송미령 농식품부 장관 추석 전 사과 수급 및 생육 상황 현장 점검(9.6. 16시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-09-06T10:11:43.522896+00:00"
+    },
+    {
       "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽 한-미 철강·자동차 공급망 협력 강화",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780341",
       "agency": "산업통상부",
@@ -558,6 +584,32 @@
       ],
       "_attAt": "2026-09-06T02:27:42.500447+00:00",
       "_attRev": 3
+    },
+    {
+      "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780403",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-05T00:00:00+09:00",
+      "description": "유엔 식량농업기구(FAO)*에 따르면, 2026년 8월 세계식량가격지수는 전월(130.8포인트) 대비 1.9% 상승한 133.3포인트**를 기록하였다. 곡물, 유지류, 육류, 유제품, 설탕 등 모든 품목군의 가격이 상승하였다. * 유엔 식량농업기구는 24개 품목에 대한 국제가격동향을 조사하여, 5개 품목군(곡물, 유지류, 육류, 유제품, 설탕)별 식량가격지수를 매월 작성, 발표(2014~2016년 평균=100) ** ('26.4월) 131.0 → (5월) 131.0 → (6월) 130.1 → (7월) 130.8 → (8월) 133.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546838&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546839&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546837&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승(9.5. 배포 시).hwp"
+        }
+      ],
+      "_attAt": "2026-09-06T10:11:43.522896+00:00"
     },
     {
       "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
