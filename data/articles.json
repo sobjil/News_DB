@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T10:26:44.278146+00:00",
-  "count": 2099,
+  "updated": "2026-09-07T10:41:50.695244+00:00",
+  "count": 2100,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1446,21 +1446,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547208&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547243&tblKey=GMN",
           "filename": "(260907)보도자료-추석_성묘·가을_산행철_맞아_야생_독버섯_주의.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547210&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547245&tblKey=GMN",
           "filename": "(260907)보도자료-추석_성묘·가을_산행철_맞아_야생_독버섯_주의.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547209&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547244&tblKey=GMN",
           "filename": "(260907)보도자료-추석_성묘·가을_산행철_맞아_야생_독버섯_주의.hwp"
         }
       ],
-      "_attAt": "2026-09-07T04:26:49.705369+00:00"
+      "_attAt": "2026-09-07T10:41:43.513748+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림분야 유망 창업기업 발굴 맞손",
@@ -1472,21 +1473,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547198&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547233&tblKey=GMN",
           "filename": "(260907)보도자료-산림분야_유망_창업기업_발굴_맞손.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547200&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547235&tblKey=GMN",
           "filename": "(260907)보도자료-산림분야_유망_창업기업_발굴_맞손.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547199&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547234&tblKey=GMN",
           "filename": "(260907)보도자료-산림분야_유망_창업기업_발굴_맞손.hwp"
         }
       ],
-      "_attAt": "2026-09-07T04:26:49.705369+00:00"
+      "_attAt": "2026-09-07T10:41:43.513748+00:00",
+      "_attRev": 1
     },
     {
       "title": "법제처, 제3회 특별성과 포상 수여",
@@ -2305,6 +2307,22 @@
         }
       ],
       "_attAt": "2026-09-07T09:41:42.585742+00:00"
+    },
+    {
+      "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780559",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "서울안보대화 계기 케냐·몽골 국방차관 양자회담□이두희 국방부차관은 9월 7일(월) 오후 더그랜드롯데 서울에서 제15회 서울안보대화(SDD) 참석을 위해 방한한 케냐, 몽골 국방차관과 각각 양자회담을 갖고 국방 및 방산협력 발전방안에 대한 의견을 교환했습니다.□먼저, 파트리크 마리루(Patrick Mariru) 케냐 국방차관과의 회담에서 양 차관은 고위급 교류와 군사교육을 비롯해 UN평화유지활동(PKO)·군수협력 등 다양한 분야의 협력 현황을 공유하고 향후 발전 방향에 대해 폭넓게 의견을 교환했습니다.ㅇ이두희 차관은 2021년 UN ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547540&tblKey=GMN",
+          "filename": "260907 [국방부 보도자료] 국방부차관, 케냐·몽골 국방차관과 양자회담 개최_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-07T10:41:43.513748+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
