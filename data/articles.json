@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T00:56:49.069311+00:00",
-  "count": 2023,
+  "updated": "2026-09-07T01:11:51.756063+00:00",
+  "count": 2027,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -628,6 +628,84 @@
         }
       ],
       "_attAt": "2026-09-07T00:56:40.971563+00:00"
+    },
+    {
+      "title": "산림청, 숲과 숲을 잇다, 평창~홍천 9,300ha 산림유전자원보호구역 생태축 연결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780448",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "산림청, 숲과 숲을 잇다, 평창~홍천 9,300ha 산림유전자원보호구역 생태축 연결- 보호지역의 면적 확대 넘어 '잘 연결된(well-connected) 보호지역 체계' 구축 - 산림청(청장 박은식)은 강원특별자치도 평창군 일대 국유림 147헥타르 (이하 ha)와 사유림 23ha 등 총 170ha를 산림유전자원보호구역으로 신규 지정해, 평창에서 홍천으로 이어지는 약 9,300ha 규모의 산림유전자원보호구역 생태축을 연결했다고 6일 밝혔다. 이번 지정은 단순히 보호구역 170ha를 확대한 것을 넘어, 기존에 관리되고 있던 산림유전자원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547017&tblKey=GMN",
+          "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547019&tblKey=GMN",
+          "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547018&tblKey=GMN",
+          "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.hwp"
+        }
+      ],
+      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+    },
+    {
+      "title": "식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780449",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547020&tblKey=GMN",
+          "filename": "[26.9.7.(월) 보도자료] 식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547021&tblKey=GMN",
+          "filename": "[26.9.7.(월) 보도자료] 식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+    },
+    {
+      "title": "경찰청, '청소년 사이버도박 자진신고 기간' (5.18.~8.31.) 운영 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780446",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "경찰청, '청소년 사이버도박 자진신고 기간' (5.18.~8.31.) 운영 결과 발표 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546997&tblKey=GMN",
+          "filename": "260907(석간용) 청소년 사이버도박 자진신고제도 운영 결과 발표(청소년보호).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546996&tblKey=GMN",
+          "filename": "260907(석간용) 청소년 사이버도박 자진신고제도 운영 결과 발표(청소년보호).pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+    },
+    {
+      "title": "근무 안팎 가리지 않은 헌신… 소방청, 국민안전 정책추진 및 현장활동 우수 특별성과 30건 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780445",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "﻿근무 안팎 가리지 않은 헌신…소방청, 국민안전 정책추진 및 현장활동 우수 특별성과 30건 선정- 총 1억 6,600만 원 포상···자체심사, 국민심사, 중앙공적심사위원회 평가를 거쳐 확정 - 출근길 응급환자 심폐소생술부터 휴무일 투신 시도자 구조까지, 현장 곳곳의 헌신 인정□ 소방청은 재난 현장과 행정 전반에서 '국민안전 최우선' 가치를 실현한 우수 공적 총 30건을 2026년 수시 특별성과 포상 대상으로 선정했다고 밝혔다. ○ 이번 특별성과 포상은 지난 6월 실시한 상반기 포상에 이은 두 번째 포상으로, 30건의 우수사례를 주도",
+      "attachments": [],
+      "_attAt": "2026-09-07T01:11:42.709330+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
