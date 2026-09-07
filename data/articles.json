@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T23:56:50.072099+00:00",
-  "count": 2003,
+  "updated": "2026-09-07T00:11:57.228189+00:00",
+  "count": 2010,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -271,6 +271,95 @@
         }
       ],
       "_attAt": "2026-09-06T23:56:42.439940+00:00"
+    },
+    {
+      "title": "[설명] '20년 이상 공공지원민간임대'의 세부 추진 방안은 정해진바 없습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780416",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "[설명] '20년 이상 공공지원민간임대'의 세부 추진 방안은 정해진바 없습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546906&tblKey=GMN",
+          "filename": "260907(설명) 20년 이상 공공지원민간임대의 세부 추진방안은 정해진바 없습니다(민간임대정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546907&tblKey=GMN",
+          "filename": "260907(설명) 20년 이상 공공지원민간임대의 세부 추진방안은 정해진바 없습니다(민간임대정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
+    },
+    {
+      "title": "에볼라 확산 대비 선제 대응, '위험도 기반 검역 대응체계' 가동(9.7.월)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780415",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "에볼라 확산 대비 선제 대응, '위험도 기반 검역 대응체계' 가동- 세계보건기구(WHO), DR콩고 위험도 '매우 높음', 육로접경 9개국 '높음' 평가- 고위험국 방문자에 건강상태 신고, 출입국 안내 문자·의료기관 여행력 정보 제공- DR 콩고 입국자는 입국장 게이트 검역과 최대 21일 능동감시 추가 실시 질병관리청(청장 임승관)은 에볼라바이러스병의 국내 유입에 선제적으로 대응하기 위해 DR콩고와 접경 9개 국가를 에볼라바이러스병 중점검역관리지역*으로 지정하고, 국가별 위험도에 따라 검역 조치를 차등화한다. * 중점검역관리지역 :",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546904&tblKey=GMN",
+          "filename": "[9.7.보도참고자료] 에볼라 확산 대비 선제 대응, &amp;#039;위험도 기반 검역 대응체계&amp;#039; 가동.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546905&tblKey=GMN",
+          "filename": "2026년 3분기 중점검역관리지역 및 검역관리지역 안내문.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546903&tblKey=GMN",
+          "filename": "[9.7.보도참고자료] 에볼라 확산 대비 선제 대응, &amp;#039;위험도 기반 검역 대응체계&amp;#039; 가동.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
+    },
+    {
+      "title": "보훈부-마사회 '보훈대상자 힐링승마' 업무협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780414",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "보훈부-마사회 '보훈대상자 힐링승마' 업무협약 체결",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546901&tblKey=GMN",
+          "filename": "260907 보도자료(보훈부-마사회 &#039;보훈대상자 힐링승마&#039; 업무협약 체결)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546902&tblKey=GMN",
+          "filename": "260907 보도자료(보훈부-마사회 &#039;보훈대상자 힐링승마&#039; 업무협약 체결)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
+    },
+    {
+      "title": "2025년 성별 임금 격차, 공시대상회사 29.3%, 공공기관 19.0%",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780421",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "2025년 성별 임금 격차,공시대상회사 29.3%, 공공기관 19.0%- 공시대상회사 성별 임금 격차도 29.3%로 전년보다 1.4%p 감소- 정부, 직종·직급·고용형태까지 공개하는 '고용평등공시제' 추진 □ 성평등가족부(장관 원민경)는 금융감독원 전자공시시스템(DART)에 사업 보고서를 제출한 공시대상회사 3,146개와 공공기관 경영정보공개시스템(ALIO)에 공시된 공공기관 355개를 분석한 '2025년 성별 임금 통계 조사 결과'를 발표했다.ㅇ 2025년 공시대상회사와 공공기관의 성별 임금 격차가 전년보다 모두 줄어든 것으로 나",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546923&tblKey=GMN",
+          "filename": "260904_보도자료_성별임금통계 조사 결과 발표_최종배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546922&tblKey=GMN",
+          "filename": "260904_보도자료_성별임금통계 조사 결과 발표_최종배포.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
@@ -660,6 +749,69 @@
       ],
       "_attAt": "2026-09-06T22:26:42.704680+00:00",
       "_attRev": 2
+    },
+    {
+      "title": "우주항공청 – 국제연합(UN) '2026 국제우주환경학술행사(ISWI)' 서울 공동 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780418",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "- 전 세계 25여 개국 우주환경 전문가 200여 명 참석 - 대한민국 우주전파재난 대비 역량 강화 및 국제 리더십 발휘 우주항공청(청장 오태석)은 국제연합(UN)과 공동으로 9월 7일(월) 개막식을 시작으로 11일(금)까지 서울 여의도 글래드 호텔에서 '2026 국제우주환경학술행사(ISWI*)'를 개최한다. * ISWI(International Space Weather Initiative): 우주환경에 대한 이해를 증진하고 다양한 피해 현상을 관리하기 위해 국제협력을 촉진하는 국제학술행사 이번 학술행사는「인공지능(AI)을 활용한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546916&tblKey=GMN",
+          "filename": "260907(조간)_우주항공청-국제연합(UN)_&#039;2026_국제우주환경학술행사(ISWI)&#039;_서울_공동_개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546917&tblKey=GMN",
+          "filename": "260907(조간)_우주항공청-국제연합(UN)_&#039;2026_국제우주환경학술행사(ISWI)&#039;_서울_공동_개최.hwp"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
+    },
+    {
+      "title": "우주·항공 인재양성의 산실, '제24회 한국로봇항공기 경연대회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780417",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "- 정규부문 인하대학교 DOK4팀 대상, 중급부문 충북대학교 SUV lab팀 최우수상 - 12개팀 본선 진출하여 '수직이착륙 고정익 미래항공모빌리티(AAM) 조난자 구조', '멀티콥터형 드론 실내조난자 탐색 임무' 수행 우주항공청(청장 오태석)은 9월 5일(토) '제24회 한국로봇항공기 경연대회(AAM Tech Challenge)'를 경남 진주시 공군교육사령부에서 성황리에 개최했다. 한국로봇항공기 경연대회는 지난 2002년 첫 대회 개최 이후 20여 년간 국내 무인항공 기술의 성장을 이끌어왔으며, 미래 항공 인재들의 혁신적인 설계 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546909&tblKey=GMN",
+          "filename": "260907(조간)(공동보도자료)_우주·항공_인재양성의_산실__&#039;제24회_한국로봇항공기_경연대회&#039;_개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546914&tblKey=GMN",
+          "filename": "260907(조간)(공동보도자료)_우주·항공_인재양성의_산실__&#039;제24회_한국로봇항공기_경연대회&#039;_개최.hwp"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
+    },
+    {
+      "title": "성평등가족부, 2026년 청소년 매체이용 및 유해환경 실태조사 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780419",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-09-06T00:00:00+09:00",
+      "description": "성평등가족부, 2026년 청소년 매체이용 및유해환경 실태조사 실시- 9월 7일부터 전국 초·중·고 재학생 1만 5천여 명 대상 온라인 조사- 생성형 AI 등 변화하는 청소년 유해환경 실태 중점 파악□ 성평등가족부(장관 원민경)는 청소년의 매체 이용과 유해환경 실태를 파악하기 위해 9월 7일(월)부터 「2026년 청소년 매체이용 및 유해환경 실태조사」를 실시한다.ㅇ 이번 조사에서는 최근 빠르게 확산하고 있는 인공지능(AI)의 유형별 이용 실태와 온라인 매체의 미디어 알고리즘 활용 정도 등을 새롭게 들여다본다. ADHD(주의력결핍 과잉",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546919&tblKey=GMN",
+          "filename": "260904_보도자료_2026년 청소년 매체이용 및 유해환경 실태조사 실시_최종배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198546918&tblKey=GMN",
+          "filename": "260904_보도자료_2026년 청소년 매체이용 및 유해환경 실태조사 실시_최종배포.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T00:11:41.338044+00:00"
     },
     {
       "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽 한-미 철강·자동차 공급망 협력 강화",
