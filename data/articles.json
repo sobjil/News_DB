@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T06:41:46.979838+00:00",
-  "count": 2075,
+  "updated": "2026-09-07T06:56:51.286639+00:00",
+  "count": 2076,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -600,16 +600,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546990&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547002&tblKey=GMN",
           "filename": "[보도자료]국립수목원-하나증권 광릉숲 생물다양성 보전에 ‘생명동행’.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198546991&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547003&tblKey=GMN",
           "filename": "[보도자료]국립수목원-하나증권 광릉숲 생물다양성 보전에 ‘생명동행’.pdf"
         }
       ],
-      "_attAt": "2026-09-07T00:56:40.971563+00:00"
+      "_attAt": "2026-09-07T06:56:41.549255+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰대학, '아산 대학생 범죄예방 서포터즈' 발대식 개최",
@@ -630,7 +631,8 @@
           "filename": "260907(조간용) 경찰대학, 아산대학생 범죄예방 서포터즈 발대식 개최(경찰대학).pdf"
         }
       ],
-      "_attAt": "2026-09-07T00:56:40.971563+00:00"
+      "_attAt": "2026-09-07T06:56:41.549255+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 공정하고 청렴한 공공조달로 국민 신뢰 높인다",
@@ -651,7 +653,8 @@
           "filename": "260907_(보도자료)_조달청 청렴 주간 운영.pdf"
         }
       ],
-      "_attAt": "2026-09-07T00:56:40.971563+00:00"
+      "_attAt": "2026-09-07T06:56:41.549255+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림청, 숲과 숲을 잇다, 평창~홍천 9,300ha 산림유전자원보호구역 생태축 연결",
@@ -1758,6 +1761,27 @@
         }
       ],
       "_attAt": "2026-09-07T06:26:44.083048+00:00"
+    },
+    {
+      "title": "5극3특 성장엔진 시동건다! 「지방주도 성장엔진 협의회」 출범",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780524",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "5극3특 성장엔진 시동건다! 「지방주도 성장엔진 협의회」 출범- 성장엔진 육성을 위한 중앙-지방간 소통·협력 채널 구축 -- 성장엔진 육성전략, 범부처 7대 정책지원 패키지 메뉴판 논의 - 산업통상부(장관 김정관, 이하 산업부)는 9.7.(월) 14시 오송 오스코 207호에서 13개 지방정부, 산업기술진흥원, 산업연구원, 지역산업진흥원 등이 참석하는 제1회「지방주도 성장엔진 협의회」를 개최하였다. (붙임1 개요) 이번 협의회는 지난 8월 26일 대통령 주재 제10회 중앙-지방협력회의에서 '5극3특 권역별 성장엔진'을 발표한 이후, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547388&tblKey=GMN",
+          "filename": "0907(08조간)지역경제총괄과, 5극3특 성장엔진 시동건다! 「지방주도 성장엔진 협의회」 출범.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547387&tblKey=GMN",
+          "filename": "0907(08조간)지역경제총괄과, 5극3특 성장엔진 시동건다! 「지방주도 성장엔진 협의회」 출범.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T06:56:41.549255+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
