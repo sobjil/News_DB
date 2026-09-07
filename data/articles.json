@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T06:56:51.286639+00:00",
-  "count": 2076,
+  "updated": "2026-09-07T07:11:59.881984+00:00",
+  "count": 2081,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -666,21 +666,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547017&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547087&tblKey=GMN",
           "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547019&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547089&tblKey=GMN",
           "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547018&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547088&tblKey=GMN",
           "filename": "(260906)보도자료-산림청，_숲과_숲을_잇다，_평창~홍천_9，300ha_산림유전자원보호구역_생태축_연결.hwp"
         }
       ],
-      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+      "_attAt": "2026-09-07T07:11:43.712034+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설",
@@ -701,7 +702,8 @@
           "filename": "[26.9.7.(월) 보도자료] 식약처, 세계 최초 글로벌 화장품 규제기관장 협의체 신설.pdf"
         }
       ],
-      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+      "_attAt": "2026-09-07T07:11:43.712034+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰청, '청소년 사이버도박 자진신고 기간' (5.18.~8.31.) 운영 결과 발표",
@@ -722,7 +724,8 @@
           "filename": "260907(석간용) 청소년 사이버도박 자진신고제도 운영 결과 발표(청소년보호).pdf"
         }
       ],
-      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+      "_attAt": "2026-09-07T07:11:43.712034+00:00",
+      "_attRev": 1
     },
     {
       "title": "근무 안팎 가리지 않은 헌신… 소방청, 국민안전 정책추진 및 현장활동 우수 특별성과 30건 선정",
@@ -731,8 +734,15 @@
       "agencyCode": "nfa",
       "pubDate": "2026-09-07T00:00:00+09:00",
       "description": "﻿﻿근무 안팎 가리지 않은 헌신… 소방청, 국민안전 정책추진 및 현장활동 우수 특별성과 30건 선정- 총 1억 6,600만 원 포상···자체심사, 국민심사, 중앙공적심사위원회 평가를 거쳐 확정- 출근길 응급환자 심폐소생술부터 휴무일 투신 시도자 구조까지, 현장 곳곳의 헌신 인정□ 소방청은 재난 현장과 행정 전반에서 '국민안전 최우선' 가치를 실현한 우수 공적 총 30건을 2026년 수시 특별성과 포상 대상으로 선정했다고 밝혔다.○ 이번 특별성과 포상은 지난 6월 실시한 상반기 포상에 이은 두 번째 포상으로, 30건의 우수사례를 주도",
-      "attachments": [],
-      "_attAt": "2026-09-07T01:11:42.709330+00:00"
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547029&tblKey=GMN",
+          "filename": "(9. 7. (월) 조간 보도자료) 근무 안팎 가리지 않은 헌신...소방청 국민안전 정책추진 및 현장활동 우수 특별성과 30건 선정.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00",
+      "_attRev": 1
     },
     {
       "title": "'확신의 K-뷰티, 꽃을 피우다', 2026년 화장품의 날 기념식 개최",
@@ -1782,6 +1792,106 @@
         }
       ],
       "_attAt": "2026-09-07T06:56:41.549255+00:00"
+    },
+    {
+      "title": "과기정통부-중기부, \"물리적 인공지능(피지컬 AI)으로 중소제조 현장의 미래를 연다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780527",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "- '모두의 AI 공장장'과 '스마트제조혁신' 결합으로 중소 제조 피지컬 AI 도입·확산- 물리적 인공지능 연합체(피지컬 AI 얼라이언스) 중심으로 기술 공급기업과 제조 수요기업 연결- 기술개발·실증·사업화로 신성장분야 대상 물리적 인공지능(피지컬AI) 활용까지 공동 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547394&tblKey=GMN",
+          "filename": "260908 조간 (보도) 과기정통부-중기부, “피지컬 AI로 중소제조 현장의 미래를 연다”.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00"
+    },
+    {
+      "title": "「2026 기술개발인의 날」 기념식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780526",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "- 과기정통부, 법정 국가기념일 승격 후 첫 기념식 열어 유공자 포상·격려- 45만 기술개발인의 노고를 기리고 기술 중심의 대한민국 대도약 다짐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547392&tblKey=GMN",
+          "filename": "260908 조간 (보도) 「2026 기술개발인의 날」 기념식 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00"
+    },
+    {
+      "title": "한국의 수치예보 기술, 아프리카 하늘을 지킨다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780530",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "한국의 수치예보 기술, 아프리카 하늘을 지킨다- 아프리카 5개국에 한국형전지구수치예보모델(KIM) 등 선진 수치예보 기술 전수 기상청(청장 이미선)은 국제사회의 기후위기에 따른 위험기상 대응 역량을 높이기 위해, 9월 7일(월)부터 18일(금)까지 2주간 우간다 등 아프리카 5개국*의 기상예보·수치모델업무 담당자 15명을 대상으로 「기후위기 대응을 위한 수치예보모델 활용 역량 강화('26~'28) 과정」 1차 연도 초청 연수를 한국국제협력단(KOICA**) 연수센터에서 운영한다.* 케냐, 라이베리아, 르완다, 튀니지, 우간다** K",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547406&tblKey=GMN",
+          "filename": "20260903_보도자료_한국의 수치예보 기술, 아프리카 하늘을 지킨다H.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547408&tblKey=GMN",
+          "filename": "20260903_보도자료_한국의 수치예보 기술, 아프리카 하늘을 지킨다H.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547407&tblKey=GMN",
+          "filename": "20260903_보도자료_한국의 수치예보 기술, 아프리카 하늘을 지킨다H.hwp"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00"
+    },
+    {
+      "title": "북부지방산림청, 양평 삼산리 잣나무 명품숲 관리방안 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780529",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "북부지방산림청, 양평 삼산리 잣나무 명품숲 관리방안 모색- 60년 넘게 가꿔온 우량 잣나무 명품숲의 체계적 관리와 활용방안 점검 - 북부지방산림청(청장 송준호)은 9월 7일 대한민국 100대 명품숲으로 선정된 '양평 삼산리 잣나무숲'을 찾아 산림경영 현황을 점검하고 향후 관리 방안을 살폈다고 밝혔다. 양평 삼산리 잣나무숲은 1963년 100ha 규모로 잣나무를 조림한 이후 지속적인 숲가꾸기를 통해 우량 잣나무를 육성해 온 대표적인 국유림 산림자원 조성 성공 사례다. 이러한 성과를 인정받아 2021년 국유림 명품숲으로 지정됐으며, 2",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547402&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 양평 삼산리 잣나무 명품숲 관리방안 모색.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547401&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 양평 삼산리 잣나무 명품숲 관리방안 모색.hwp"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00"
+    },
+    {
+      "title": "AI 시대 국방+제조+보안 전문가 한자리에 모여",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780525",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "- 재경부 전략경제자문단, 서울대 Private AI Initiative과 공동으로 ｢AI 시대의 국방+제조+보안｣ 세미나 개최 - 민경설 혁신성장실장, \"제조, 국방, 보안 분야의 도전과 치열한 노력이 우리 전략경제의 한 축이 되도록 총력을 다해 뒷받침하겠다\"고 강조자세한 내용은 첨부를 참조해 주시기 바랍니다.문의. 재정경제부 전략경제정책관 전략경제분석과 송현지 (044-215-4931)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547390&tblKey=GMN",
+          "filename": "260907 (보도자료) AI 시대의 국방 제조 보안 세미나_업로드.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547391&tblKey=GMN",
+          "filename": "260907 (보도자료) AI 시대의 국방 제조 보안 세미나_업로드.pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T07:11:43.712034+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
