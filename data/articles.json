@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T02:41:51.330802+00:00",
-  "count": 2049,
+  "updated": "2026-09-07T02:56:45.900489+00:00",
+  "count": 2050,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1173,6 +1173,27 @@
         }
       ],
       "_attAt": "2026-09-07T02:41:42.245596+00:00"
+    },
+    {
+      "title": "한가위에는 부모님과 함께, 효심(孝心) 가득한 「창경궁 야연」",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780480",
+      "agency": "국가유산청",
+      "agencyCode": "khs",
+      "pubDate": "2026-09-07T00:00:00+09:00",
+      "description": "국가유산청 궁능유적본부(본부장 조규형)는 국가유산청 산하 국가유산진흥원(원장 이귀영)과 함께 9월 24일부터 10월 4일까지 2026년 하반기 「창경궁 야연(夜宴)」을 개최한다. * 기간 중 창경궁 휴무일(월요일) 미운영 「창경궁 야연」은 19세기 순조대 효명세자가 국왕에 대한 효심을 담아 주관한 궁중 연향인 '야연(夜宴)'에서 착안한 프로그램이다. 부모 중 한 명이 왕의 초대를 받아 조선시대 문무백관·외명부의 복식과 분장을 하고 궁중 연회에 참석한다. 장수를 기원하는 사진 촬영과 가족 영상 편지, 궁중 병과 시식 등 다양한 체험을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547150&tblKey=GMN",
+          "filename": "0907 한가위에는 부모님과 함께, 효심(孝心) 가득한 「창경궁 야연」(본문+붙임1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547149&tblKey=GMN",
+          "filename": "0907 한가위에는 부모님과 함께, 효심(孝心) 가득한 「창경궁 야연」(붙임2).pdf"
+        }
+      ],
+      "_attAt": "2026-09-07T02:56:41.563248+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
