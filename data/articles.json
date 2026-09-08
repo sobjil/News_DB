@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T08:15:04.706531+00:00",
-  "count": 2184,
+  "updated": "2026-09-08T08:29:51.966484+00:00",
+  "count": 2185,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -954,16 +954,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547790&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547873&tblKey=GMN",
           "filename": "0908(09조간)무역진흥과, 관계기관 협업과 전주기 밀착지원으로 CES 참가기업 수출길 넓힌다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547789&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547874&tblKey=GMN",
           "filename": "0908(09조간)무역진흥과, 관계기관 협업과 전주기 밀착지원으로 CES 참가기업 수출길 넓힌다.pdf"
         }
       ],
-      "_attAt": "2026-09-08T02:29:42.856119+00:00"
+      "_attAt": "2026-09-08T08:29:43.858781+00:00",
+      "_attRev": 1
     },
     {
       "title": "10년 뒤 산업의 판도를 바꿀 '미래 판기술' 찾는다",
@@ -984,7 +985,8 @@
           "filename": "0908(09조간)산업기술시장과, 10년 뒤 산업의 판도를 바꿀 &#039;미래 판기술&#039; 찾는다.pdf"
         }
       ],
-      "_attAt": "2026-09-08T02:29:42.856119+00:00"
+      "_attAt": "2026-09-08T08:29:43.858781+00:00",
+      "_attRev": 1
     },
     {
       "title": "비어가는 원도심, 사람과 콘텐츠로 다시 채운다",
@@ -1005,7 +1007,8 @@
           "filename": "[0908]정부합동보도자료-거점 특화 원도심 리코어 프로젝트 시범 사업 추진.pdf"
         }
       ],
-      "_attAt": "2026-09-08T02:29:42.856119+00:00"
+      "_attAt": "2026-09-08T08:29:43.858781+00:00",
+      "_attRev": 1
     },
     {
       "title": "AI 시대 우리는 어떤 사회를 원하는가? 국민 200명이 직접 설계한다",
@@ -2237,6 +2240,27 @@
         }
       ],
       "_attAt": "2026-09-08T08:14:43.906016+00:00"
+    },
+    {
+      "title": "기후대응위, 녹색전환금융 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780712",
+      "agency": "국가기후위기대응위원회",
+      "agencyCode": "",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "글로벌 투자기관,한국의 탄소중립 녹색전환에 주목 - 기후대응위, 녹색전환금융 간담회 개최…2035 NDC·기후테크·전환금융 등 정책소통 및 투자자 의견청취□ 국가기후위기대응위원회(위원장: 한성숙 국무총리, 이창훈 민간위원장, 이하 '기후대응위')는 9월8일(화) 서울 여의도 금융투자교육원에서 해외기관투자자들과 함께 '녹색전환금융 간담회'를 개최했다고 밝혔다. * 일시/장소: 9.8.(화) 14:30~17:00 / 서울 여의도 금융투자교육원 □ 2050 탄소중립과 국가온실가스감축목표(NDC) 달성을 위해 녹색투자의 중요성이 날로 커지",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548271&tblKey=GMN",
+          "filename": "(260908) 기후대응위, 녹색전환금융 간담회 개최 보도자료_최종.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548272&tblKey=GMN",
+          "filename": "(260908) 기후대응위, 녹색전환금융 간담회 개최 보도자료_최종.hwp"
+        }
+      ],
+      "_attAt": "2026-09-08T08:29:43.858781+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
