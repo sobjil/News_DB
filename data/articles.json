@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T13:14:47.928040+00:00",
-  "count": 2199,
+  "updated": "2026-09-08T13:29:49.314094+00:00",
+  "count": 2200,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2114,16 +2114,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548212&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548226&tblKey=GMN",
           "filename": "260909 (16시) 행안부 조지아 법무부와 양해각서(MOU) 체결 인공지능(AI)·디지털정부 해외 진출 확대(인공지능정부협력과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548211&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548225&tblKey=GMN",
           "filename": "260909 (16시) 행안부 조지아 법무부와 양해각서(MOU) 체결 인공지능(AI)·디지털정부 해외 진출 확대(인공지능정부협력과).pdf"
         }
       ],
-      "_attAt": "2026-09-08T07:14:45.587026+00:00"
+      "_attAt": "2026-09-08T13:29:42.714082+00:00",
+      "_attRev": 1
     },
     {
       "title": "동부지방산림청, 건설기계 작업 위험요인 사전 차단으로 안전한 산림토목 현장 조성",
@@ -2608,6 +2609,27 @@
         }
       ],
       "_attAt": "2026-09-08T13:14:43.413290+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 이시바 시게루 일본 前총리 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780749",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "한성숙 국무총리,이시바 시게루 前 일본 총리 면담□ 한성숙 국무총리는 9.8.(화) 오후 정부서울청사에서 이시바 시게루(石破 茂) 전 일본 총리와 면담을 갖고, 최근 한일 관계를 평가하는 한편 양국 간 협력 방향에 대해 의견을 교환하였다.ㅇ 한 총리는 이시바 전 총리가 한일 정상 간 셔틀외교 복원 등 양국 관계 발전의 기반을 마련하는 데 기여한 점을 평가하고, 외교·안보 분야에서의 오랜 경험과 식견을 바탕으로 한일 관계 발전을 위해 계속 노력해 줄 것을 기대한다고 하였다.ㅇ 양측은 현재 양국 관계의 긍정적인 흐름을 지속하기 위해서는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548404&tblKey=GMN",
+          "filename": "260908 (보도자료) 이시바 전총리 면담 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548405&tblKey=GMN",
+          "filename": "260908 (보도자료) 이시바 전총리 면담 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T13:29:42.714082+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
