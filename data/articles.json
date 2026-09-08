@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T00:11:46.267637+00:00",
-  "count": 2099,
+  "updated": "2026-09-08T00:26:48.779656+00:00",
+  "count": 2100,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -377,6 +377,27 @@
         }
       ],
       "_attAt": "2026-09-08T00:11:42.125708+00:00"
+    },
+    {
+      "title": "권오을 장관， 필리핀 국방장관 8일 접견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780599",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "권오을 장관， 필리핀 국방장관 8일 접견",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547677&tblKey=GMN",
+          "filename": "260908 보도자료(권오을 장관， 필리핀 국방장관 8일 접견)최종본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547678&tblKey=GMN",
+          "filename": "260908 보도자료(권오을 장관， 필리핀 국방장관 8일 접견)최종본.pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T00:26:43.631428+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
@@ -2045,8 +2066,8 @@
           "filename": "[9.7.월 행사 시작(15시) 이후] ‘기본이 강한 나라, 빈틈없는 따뜻한 복지’ 제27회 사회복지의 날 기념식 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-07T18:26:41.884411+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-08T00:26:43.631428+00:00",
+      "_attRev": 3
     },
     {
       "title": "고용노동부, \"특별한 성과에 합당한 보상\" 노동·산업안전 우수직원 특별 포상",
