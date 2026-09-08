@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T07:44:51.039343+00:00",
-  "count": 2180,
+  "updated": "2026-09-08T07:59:55.915848+00:00",
+  "count": 2183,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -619,16 +619,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547747&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547799&tblKey=GMN",
           "filename": "전기안전 국민 생명·재산 지키는 기본 안전망… 제29회 대한민국 전기안전대상 개최(보도자료)(에너지안전 9.8).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547748&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547800&tblKey=GMN",
           "filename": "전기안전 국민 생명·재산 지키는 기본 안전망… 제29회 대한민국 전기안전대상 개최(보도자료)(에너지안전 9.8).pdf"
         }
       ],
-      "_attAt": "2026-09-08T01:44:57.112988+00:00"
+      "_attAt": "2026-09-08T07:59:42.026552+00:00",
+      "_attRev": 1
     },
     {
       "title": "오늘 마신 우유 한 잔, 라떼 한 잔도 저탄소 실천이 됩니다!",
@@ -654,7 +655,8 @@
           "filename": "(축산정책관-축산정책과) 오늘 마신 우유 한 잔, 라떼 한 잔도 저탄소 실천이 됩니다(9.8. 10시 30분부터).hwp"
         }
       ],
-      "_attAt": "2026-09-08T01:44:57.112988+00:00"
+      "_attAt": "2026-09-08T07:59:42.026552+00:00",
+      "_attRev": 1
     },
     {
       "title": "국립중앙과학관, 국민참여형 열린 전시공간 「STUDIO 50: CARRÉ DE NATURE」 운영",
@@ -670,7 +672,8 @@
           "filename": "260908 즉시 (보도) 국립중앙과학관, 국민참여형 열린 전시공간 「STUDIO 50 CARRÉ DE NATURE」 운영.hwpx"
         }
       ],
-      "_attAt": "2026-09-08T01:44:57.112988+00:00"
+      "_attAt": "2026-09-08T07:59:42.026552+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"10월부터 요금미납 시에도 '자살예방상담전화 109'를 긴급전화로 이용 가능해진다\"",
@@ -686,7 +689,8 @@
           "filename": "260908 즉시 (보도) “10월부터 요금미납 시에도 ‘자살예방상담전화 109’를 긴급전화로 이용 가능해진다”.hwpx"
         }
       ],
-      "_attAt": "2026-09-08T01:44:57.112988+00:00"
+      "_attAt": "2026-09-08T07:59:42.026552+00:00",
+      "_attRev": 1
     },
     {
       "title": "부·울·경, 하나의 고용권으로 첫걸음... 부·울·경 광역이음프로젝트 출범식 개최",
@@ -2143,6 +2147,64 @@
         }
       ],
       "_attAt": "2026-09-08T07:44:43.686291+00:00"
+    },
+    {
+      "title": "경제협력개발기구(OECD), 국제 학업성취도 평가(PISA) 2025 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780709",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "경제협력개발기구(OECD), 국제 학업성취도 평가(PISA) 2025 결과 발표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548259&tblKey=GMN",
+          "filename": "[교육부 09-08(화) 발표시(16시 30분) 보도자료] 경제협력개발기구(OECD) 국제 학업성취도 평가(PISA) 2025 결과 발표.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-08T07:59:42.026552+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 국내 개발 각결막 상피 장애 개선 신약 허가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780708",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 국내 개발 각결막 상피 장애 개선 신약 허가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548254&tblKey=GMN",
+          "filename": "[26.9.8.(화) 보도참고자료] 식약처, 국내 개발 각결막 상피 장애 개선 신약 허가.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548253&tblKey=GMN",
+          "filename": "[26.9.8.(화) 보도참고자료] 식약처, 국내 개발 각결막 상피 장애 개선 신약 허가.pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T07:59:42.026552+00:00"
+    },
+    {
+      "title": "제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780707",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "◇ 9월 8일(화)부터 11일(금)까지 서울 그랜드 워커힐 호텔에서 제8차 한-아프리카 경제협력(KOAFEC) 장관회의가 개최됩니다. ※ 자세한 내용은 첨부파일을 참조해 주시기 바랍니다. 문의. 재정경제부 개발금융국 국제기구과 권기환 (044-215-8723)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548247&tblKey=GMN",
+          "filename": "260908_2026 코아펙(KOAFEC) 장관회의 사전보도자료★.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548246&tblKey=GMN",
+          "filename": "260908_2026 코아펙(KOAFEC) 장관회의 사전보도자료★.pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T07:59:42.026552+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
