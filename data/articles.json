@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T12:59:52.665774+00:00",
-  "count": 2198,
+  "updated": "2026-09-08T13:14:47.928040+00:00",
+  "count": 2199,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2587,6 +2587,27 @@
         }
       ],
       "_attAt": "2026-09-08T10:59:42.703620+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 가네 캐나다 상원의장 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780748",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "한성숙 국무총리,「레이몽드 가네」 캐나다 상원의장 면담□ 한성숙 국무총리는 9.8.(화) 오후 정부서울청사에서 「레이몽드 가네(Raymonde Gagné)」캐나다 상원의장과 면담을 갖고, 최근 한국과 캐나다 양국관계를 평가하면서 양국간 협력 확대 방안을 논의하였다.□ 한 총리는 가네 의장의 방한을 환영하고, 양국이 방산, AI, 에너지, 기술 등 다양한 분야에서 협력 잠재력을 가지고 있다고 하면서, 캐나다에 진출한 우리 기업활동 지원과 철강 관세할당제도* 조치 해제 등을 비롯한 우리 기업애로 해결에 관심을 당부하였다.* 캐나다는 '",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548402&tblKey=GMN",
+          "filename": "260908_(보도자료) 한성숙 국무총리 캐나다 상원의장 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548403&tblKey=GMN",
+          "filename": "260908_(보도자료) 한성숙 국무총리 캐나다 상원의장 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T13:14:43.413290+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
