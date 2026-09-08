@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T11:00:04.785150+00:00",
+  "updated": "2026-09-08T11:14:54.887245+00:00",
   "count": 2198,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1648,7 +1648,8 @@
           "filename": "[교육부 09-08(화) 국무회의종료시 보도자료] 학교안전법 시행령 일부개정령안 국무회의 통과.hwpx"
         }
       ],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "기후변화 건강영향, 더 쉽고 정확하게 알리는 소통 전략 모색(9.8.화)",
@@ -1674,7 +1675,8 @@
           "filename": "2026 기후보건포럼 자료집.pdf"
         }
       ],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "「공무직위원회 설치 및 운영에 관한 법률 시행령」 제정안 및 「청년고용촉진 특별법 시행령」 개정안 국무회의 심의·의결",
@@ -1686,16 +1688,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547986&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548019&tblKey=GMN",
           "filename": "260908_보도자료_공무직위원회법 등 시행령 제정안 등 국무회의 심의.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547987&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548020&tblKey=GMN",
           "filename": "260908_보도자료_공무직위원회법 등 시행령 제정안 등 국무회의 심의.pdf"
         }
       ],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 생명지킴추진본부, 충북지역 천명지킴 현장소통 간담회 개최",
@@ -1716,7 +1719,8 @@
           "filename": "260907 충청북도 천명지킴 간담회 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "국민자문단 '모두랑', 부산 찾아 국가상징구역 방향 모색",
@@ -1725,8 +1729,25 @@
       "agencyCode": "",
       "pubDate": "2026-09-08T00:00:00+09:00",
       "description": "국민자문단 '모두랑', 부산 찾아 국가상징구역 방향 모색 관련 보도자료입니다.",
-      "attachments": [],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548070&tblKey=GMN",
+          "filename": "260907 행복청 26-70호 보도자료(국가상징구역 공간기행 4차).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548071&tblKey=GMN",
+          "filename": "260907 행복청 26-70호 보도자료(국가상징구역 공간기행 4차).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548069&tblKey=GMN",
+          "filename": "260907 행복청 26-70호 보도자료(국가상징구역 공간기행 4차).hwp"
+        }
+      ],
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "행복청, '27년 정부안 5,689억원 반영",
@@ -1738,26 +1759,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548008&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548067&tblKey=GMN",
           "filename": "260902 행복청 26-69 보도자료(행복청 ‘27년 정부안 5689억원 반영)최종.hwpx"
         },
         {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548011&tblKey=GMN",
-          "filename": "260902 행복청 26-69 보도자료(행복청 ‘27년 정부안 5689억원 반영)최종.hwpx"
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548068&tblKey=GMN",
+          "filename": "260902 행복청 26-69 보도자료(행복청 ‘27년 정부안 5689억원 반영)최종.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548007&tblKey=GMN",
-          "filename": "260902 행복청 26-69 보도자료(행복청 ‘27년 정부안 5689억원 반영)최종.hwp"
-        },
-        {
-          "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548010&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548066&tblKey=GMN",
           "filename": "260902 행복청 26-69 보도자료(행복청 ‘27년 정부안 5689억원 반영)최종.hwp"
         }
       ],
-      "_attAt": "2026-09-08T05:14:43.039843+00:00"
+      "_attAt": "2026-09-08T11:14:43.822236+00:00",
+      "_attRev": 1
     },
     {
       "title": "K-지식재산 정보화, 키르기스스탄과 맞춤형 협력 나선다",
