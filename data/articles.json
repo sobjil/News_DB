@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T22:59:43.256676+00:00",
-  "count": 2122,
+  "updated": "2026-09-08T23:14:50.794709+00:00",
+  "count": 2123,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -166,6 +166,32 @@
         }
       ],
       "_attAt": "2026-09-08T22:14:42.146113+00:00"
+    },
+    {
+      "title": "26년 8월 고용동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780760",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "[2026년 8월 고용동향]▣ 15~64세 고용률(OECD 비교기준)은 70.4%로 전년동월대비 0.5%p 상승▣ 실업률은 2.0%로 전년동월과 동일 ○ 실업자는 588천명으로 전년동월대비 4천명(-0.6%) 감소 ○ 청년층 실업률은 5.4%로 전년동월대비 0.5%p 상승 ○ 계절조정 실업률은 2.7%로 전월대비 0.1%p 하락▣ 2026년 8월 취업자는 29,151천명으로 전년동월대비 18만 4천명(0.6%) 증가** 자세한 내용은 첨부파일을 참고하시기 바랍니다 ** (ssec2608(통합): 보도자료 본문 및 통계표, ssec2",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548474&tblKey=GMN",
+          "filename": "ssec2608.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548473&tblKey=GMN",
+          "filename": "ssec2608(통합).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548475&tblKey=GMN",
+          "filename": "ssec2608(통계표).pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T23:14:42.817597+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
@@ -1501,8 +1527,8 @@
           "filename": "260908 관세청, 「전국 관세조사 관계관 회의」 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-08T16:59:42.479264+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-08T23:14:42.817597+00:00",
+      "_attRev": 3
     },
     {
       "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결",
@@ -1523,8 +1549,8 @@
           "filename": "[9월 8일 배포] 불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결.pdf"
         }
       ],
-      "_attAt": "2026-09-08T16:59:42.479264+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-08T23:14:42.817597+00:00",
+      "_attRev": 3
     },
     {
       "title": "관세국경인재개발원, 외국 세관 공무원 초청 '제21차수출입안전관리우수업체(AEO) 전문가 연수회' 개최",
