@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T09:59:49.652714+00:00",
-  "count": 2193,
+  "updated": "2026-09-08T10:14:49.537293+00:00",
+  "count": 2194,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1352,7 +1352,8 @@
           "filename": "[9.8.보도참고자료] 인체 미생물군집 연구성과 공유의 장 열린다.pdf"
         }
       ],
-      "_attAt": "2026-09-08T04:14:41.314660+00:00"
+      "_attAt": "2026-09-08T10:14:42.771378+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰·소방·민원 공무원 등 자살 고위험직군 국가가 보호",
@@ -1364,16 +1365,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547871&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547885&tblKey=GMN",
           "filename": "260908 (재해예방정책담당관) 경찰·소방·민원 공무원 등 자살 고위험군 국가가 보호.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198547872&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198547886&tblKey=GMN",
           "filename": "260908 (재해예방정책담당관) 경찰·소방·민원 공무원 등 자살 고위험군 국가가 보호.pdf"
         }
       ],
-      "_attAt": "2026-09-08T04:14:41.314660+00:00"
+      "_attAt": "2026-09-08T10:14:42.771378+00:00",
+      "_attRev": 1
     },
     {
       "title": "관세청, 「전국 관세조사 관계관 회의」 개최",
@@ -2453,6 +2455,27 @@
         }
       ],
       "_attAt": "2026-09-08T09:44:42.432828+00:00"
+    },
+    {
+      "title": "[차관동정] 김이탁 제1차관, 폴란드와 스마트시티·PPP 협력 강화 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780742",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-08T00:00:00+09:00",
+      "description": "[차관동정] 김이탁 제1차관, 폴란드와 스마트시티·PPP 협력 강화 논의 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548377&tblKey=GMN",
+          "filename": "260908(동정)_김이탁_제1차관__폴란드와_스마트시티·PPP_협력_강화_논의(도시경제과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548378&tblKey=GMN",
+          "filename": "260908(동정)_김이탁_제1차관__폴란드와_스마트시티·PPP_협력_강화_논의(도시경제과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-08T10:14:42.771378+00:00"
     },
     {
       "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
