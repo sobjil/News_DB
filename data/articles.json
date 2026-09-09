@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T23:44:50.880064+00:00",
-  "count": 2173,
+  "updated": "2026-09-09T23:59:45.986249+00:00",
+  "count": 2174,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -489,6 +489,32 @@
         }
       ],
       "_attAt": "2026-09-09T23:44:43.173501+00:00"
+    },
+    {
+      "title": "(참고자료)\"안되는 것만 빼고 다 된다\", 지식산업센터 입주방식 전면 네거티브 전환",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780982",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "\"안되는 것만 빼고 다 된다\",지식산업센터 입주방식 전면 네거티브 전환산업통상부, 「지식산업센터 공실 대책 및 제도개선 방안」 발표 산업통상부(장관 김정관)는 「지식산업센터 공실 대책 및 제도 개선 방안」을 마련하여 9월 10일 '비상경제본부 회의 겸 구조혁신관계장관회의'에서 발표하였다. 이번 대책은 공급과잉, 시장 침체로 지식산업센터의 공실·미분양이 누적되는 가운데, 수급 불균형을 해소하고 AI·디지털화 등 산업 패러다임 변화에 맞춰 입주방식을 근본적으로 혁신하기 위해 마련되었다. 전국에 설립승인된 1,553개 지식산업센터 가운데",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549380&tblKey=GMN",
+          "filename": "(참고자료 10(목) 07시40분엠바고)입지총괄과 안되는 것만 빼고 다 된다 지식산업센터 입주방식 전면 네거티브 전환.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549381&tblKey=GMN",
+          "filename": "[별첨] 지식산업센터 공실 대책 및 제도개선 방안_배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549379&tblKey=GMN",
+          "filename": "(참고자료 10(목) 07시40분엠바고)입지총괄과 안되는 것만 빼고 다 된다 지식산업센터 입주방식 전면 네거티브 전환.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T23:59:41.886705+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
