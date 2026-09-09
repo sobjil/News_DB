@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T08:29:48.105319+00:00",
-  "count": 2232,
+  "updated": "2026-09-09T08:44:52.468662+00:00",
+  "count": 2233,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1297,16 +1297,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548768&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549085&tblKey=GMN",
           "filename": "260909_보도자료_2026년 대구세대상생공동일자리박람회(노사발전재단).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548769&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549084&tblKey=GMN",
           "filename": "260909_보도자료_2026년 대구세대상생공동일자리박람회(노사발전재단).pdf"
         }
       ],
-      "_attAt": "2026-09-09T02:44:43.484650+00:00"
+      "_attAt": "2026-09-09T08:44:44.300434+00:00",
+      "_attRev": 1
     },
     {
       "title": "한국고용정보원, 지방 일자리 박람회서 고용24 및 AI기반 맞춤형 고용서비스 선보여",
@@ -1327,7 +1328,8 @@
           "filename": "260909_보도자료_고용24, AI 서비스 시연 등 지방박람회(한국고용정보원).pdf"
         }
       ],
-      "_attAt": "2026-09-09T02:44:43.484650+00:00"
+      "_attAt": "2026-09-09T08:44:44.300434+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"대한민국을 세운 손, 미래를 이끌다\"",
@@ -1348,7 +1350,8 @@
           "filename": "260909_보도자료_2026년 숙련기술인의 날 기념식.pdf"
         }
       ],
-      "_attAt": "2026-09-09T02:44:43.484650+00:00"
+      "_attAt": "2026-09-09T08:44:44.300434+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 1차 학교폭력 실태조사 결과 발표",
@@ -2477,6 +2480,27 @@
         }
       ],
       "_attAt": "2026-09-09T08:14:44.026762+00:00"
+    },
+    {
+      "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780916",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "- 지난 4월 감독 개선조치 유지 여부 재확인, 일회성 시정조치 방지 및 사후관리 강화- 외국인 노동자 안전교육·위험정보 전달 등 실질적 안전관리 집중점검 김영훈 고용노동부 장관은 9월 9일(수) 16:00 경기도 안산시 소재 ○○ 제조업 사업장을 사전 예고 없이 찾아, 지난 감독에서 지적한 안전조치가 현장에서 제대로 작동되고 있는지를 직접 점검했다. 이번 점검은 \"감독을 받았으니 당분간 다시 오지 않을 것\"이라는 현장의 안일한 인식을 차단하고, 시정조치가 일시적인 개선에 그치지 않고 실제 현장에 정착했는지를 다시 확인하기 위해 실",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549161&tblKey=GMN",
+          "filename": "260909_보도참고_외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549160&tblKey=GMN",
+          "filename": "260909_보도참고_외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T08:44:44.300434+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
