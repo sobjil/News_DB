@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T06:14:57.954123+00:00",
-  "count": 2215,
+  "updated": "2026-09-09T06:29:49.247416+00:00",
+  "count": 2217,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2090,6 +2090,48 @@
         }
       ],
       "_attAt": "2026-09-09T06:14:44.114883+00:00"
+    },
+    {
+      "title": "[보도자료] 생명지킴추진본부, 대구지역 천명지킴 현장소통 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780889",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "범정부 생명지킴추진본부, 대구 지역 천명지킴 간담회 개최- 대구, 전년대비 자살사망자 25.8%(93명) 감소, 전국 두번째 높은 감소율- '달달상담소' 등 자살예방을 위한 대구의 자발적·선제적 노력의 결과□ 국무조정실 범정부 생명지킴추진본부(본부장 송민섭, 이하 '생명본부')는 9월 9일(수) 대구광역시를 방문해 지역 자살예방 대응체계와 추진상황을 점검하고, 현장 애로·건의사항 등을 청취했다.❖ 현장방문 개요-목적 : 대구 자살예방 추진상황 점검 및 현장 의견수렴-일시/장소 : 9.9(수) 대구광역시청-참석기관 : 대구광역시, 대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549022&tblKey=GMN",
+          "filename": "260909 대구지역 천명지킴 현장소통 간담회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549023&tblKey=GMN",
+          "filename": "260909 대구지역 천명지킴 현장소통 간담회.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T06:29:41.982671+00:00"
+    },
+    {
+      "title": "'2026년 유네스코 세종대왕 문해상'에 콜롬비아·네덜란드·나이지리아 3개 단체 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780890",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "'2026년 유네스코 세종대왕 문해상'에 콜롬비아·네덜란드·나이지리아 3개 단체 수상 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0909]문체부보도자료-2026년 유네스코 세종대왕 문해상 수상자 선정.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549025&tblKey=GMN",
+          "filename": "[0909]문체부보도자료-2026년 유네스코 세종대왕 문해상 수상자 선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549024&tblKey=GMN",
+          "filename": "[0909]문체부보도자료-2026년 유네스코 세종대왕 문해상 수상자 선정.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T06:29:41.982671+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
