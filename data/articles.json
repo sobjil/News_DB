@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T14:29:50.570972+00:00",
-  "count": 2237,
+  "updated": "2026-09-09T14:44:48.559869+00:00",
+  "count": 2238,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2640,6 +2640,27 @@
         }
       ],
       "_attAt": "2026-09-09T12:44:43.060140+00:00"
+    },
+    {
+      "title": "(보도설명) 추석기간 농축산물 할인지원을 조기종료 없이 안정적으로 운영할 예정입니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780961",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "□ 2026.9.9. 서울경제 \"농축산물 할인제한 폐지..'한우 오픈런' 우려\" 기사 관련입니다. ㅇ 자세한 내용은 첨부된 자료를 참고해주시기 바랍니다문의. 재정경제부 민생경제국 물가정책과 권기민 (044-215-2827)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549298&tblKey=GMN",
+          "filename": "260909 (보도설명-서울경제) 할인한도폐지 관련.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549297&tblKey=GMN",
+          "filename": "260909 (보도설명-서울경제) 할인한도폐지 관련.hwp"
+        }
+      ],
+      "_attAt": "2026-09-09T14:44:42.225317+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
