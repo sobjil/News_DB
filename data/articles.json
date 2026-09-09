@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T05:44:47.002478+00:00",
-  "count": 2211,
+  "updated": "2026-09-09T05:59:51.487818+00:00",
+  "count": 2212,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -335,16 +335,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548491&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548499&tblKey=GMN",
           "filename": "260909 [방사청 보도자료] 현존전력 성능 극대화 사업 관계기관 협업회의 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198548490&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548498&tblKey=GMN",
           "filename": "260909 [방사청 보도자료] 현존전력 성능 극대화 사업 관계기관 협업회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-08T23:59:42.987908+00:00"
+      "_attAt": "2026-09-09T05:59:43.550174+00:00",
+      "_attRev": 1
     },
     {
       "title": "소각장 설치 갈등, '객관적 절차·충분한 숙의·상생 방안' 마련으로 풀어낸다",
@@ -365,7 +366,8 @@
           "filename": "(260909) 소각장 설치 갈등 객관적 절차 충분한 숙의 상생 방안 마련으로 풀어낸다(최종).pdf"
         }
       ],
-      "_attAt": "2026-09-08T23:59:42.987908+00:00"
+      "_attAt": "2026-09-09T05:59:43.550174+00:00",
+      "_attRev": 1
     },
     {
       "title": "해양경찰청, '국제연안정화의 날' 맞아 깨끗한 섬·바다 만들기 나선다.",
@@ -1920,7 +1922,7 @@
       "_attAt": "2026-09-09T05:14:41.660257+00:00"
     },
     {
-      "title": "산업안전보건본부장, 현대중공업(주) 현장 방문, 안전관리체계 쇄신 지시",
+      "title": "(참고)산업안전보건본부장, 현대중공업(주) 현장 방문, 안전관리체계 쇄신 지시",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780863",
       "agency": "고용노동부",
       "agencyCode": "moel",
@@ -1991,6 +1993,27 @@
       "description": "산림청 남부권산불방지센터(센터장 이광원)는 9월 9일 경남도청 서부청사 회의실에서 경남 18개 시·군 산불담당자 등 40여명을 대상으로 '산불방지 역량강화' 교육을 실시하였다. 이번 교육은 경남 18개 시·군 산불담당자 및 담당을 대상으로 산불발생시 기관 간 협력체계를 구축하고, 동시다발 및 대형산불 대응을 위해 산불상황 단계별 대응과 산불현장 통합지휘 본부 설치 운영에 대해 중점적으로 교육을 실시하였다. 주요 내용으로는 ▲산불진화 초기대응 ▲산불현장 통합지휘본부 운영 ▲산불진화 기관별 임무 및 역할 ▲대형산불 대응 사례 등 실무위",
       "attachments": [],
       "_attAt": "2026-09-09T05:44:43.434535+00:00"
+    },
+    {
+      "title": "초가을 정원의 분홍빛 향기...국립수목원 9월 '우리의 정원식물'은 '분홍바늘꽃'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780884",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "- 곧게 솟은 분홍색 꽃대와 향기가 매력적인 우리 자생 정원식물 - 산림청 국립수목원은 9월 '우리의 정원식물'로 분홍바늘꽃(Chamaenerion angustifolium (L.) Holub)을 선정했다고 밝혔다. 바늘꽃과의 숙근성 다년생 초본식물인 분홍바늘꽃은 여름이 지나고 바람이 서늘해지는 8월 말부터 9월까지 줄기 끝에 기다란 이삭 모양으로 진한 분홍색 꽃을 피운다. 1m 이상 곧게 자란 줄기를 따라 꽃이 무리 지어 피어나는 모습은 초가을 정원에 화사한 색과 뚜렷한 계절감을 더한다. 얇고 길쭉한 열매의 모습이 바늘을 닮아 '",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548985&tblKey=GMN",
+          "filename": "[보도자료]초가을 정원의 분홍빛 향기...국립수목원 9월 ‘우리의 정원식물’은 ‘분홍바늘꽃’.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198548986&tblKey=GMN",
+          "filename": "[보도자료]초가을 정원의 분홍빛 향기...국립수목원 9월 ‘우리의 정원식물’은 ‘분홍바늘꽃’.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T05:59:43.550174+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
