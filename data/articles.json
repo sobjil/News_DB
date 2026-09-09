@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T09:44:48.707743+00:00",
-  "count": 2235,
+  "updated": "2026-09-09T09:59:49.005842+00:00",
+  "count": 2236,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2552,6 +2552,27 @@
         }
       ],
       "_attAt": "2026-09-09T08:59:44.464053+00:00"
+    },
+    {
+      "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780921",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-09T00:00:00+09:00",
+      "description": "국제 신용평가사 피치(Fitch)와 무디스(Moody's)는 내년 우리 정부 예산안에 대하여 보고서 등을 통해 연이어서 좋은 평가를 하였다. 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549180&tblKey=GMN",
+          "filename": "★ [보도참고] 국제 신용평가기관, 내년 예산안에 대해 연이은 좋은 평가.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549179&tblKey=GMN",
+          "filename": "★ [보도참고] 국제 신용평가기관, 내년 예산안에 대해 연이은 좋은 평가.pdf"
+        }
+      ],
+      "_attAt": "2026-09-09T09:59:45.488805+00:00"
     },
     {
       "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
