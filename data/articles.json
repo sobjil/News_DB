@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T03:15:13.007182+00:00",
-  "count": 2235,
+  "updated": "2026-09-10T03:29:47.396582+00:00",
+  "count": 2236,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1780,6 +1780,22 @@
         }
       ],
       "_attAt": "2026-09-10T03:14:43.990292+00:00"
+    },
+    {
+      "title": "감사원 사전컨설팅 주요사례",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781073",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "감사원 사전컨설팅 주요사례",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549804&tblKey=GMN",
+          "filename": "(20260910)보도자료(사전컨설팅 주요사례).hwp"
+        }
+      ],
+      "_attAt": "2026-09-10T03:29:42.653013+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
