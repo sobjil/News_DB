@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T03:59:43.495859+00:00",
-  "count": 2237,
+  "updated": "2026-09-10T04:14:49.019790+00:00",
+  "count": 2238,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -170,11 +170,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549326&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549327&tblKey=GMN",
           "filename": "(9. 10. (목) 조간 보도자료) 미래 재난대응정책 발굴의 잘...제38회 119소방정책 학술 대회(콘퍼런스) 개최.hwpx"
         }
       ],
-      "_attAt": "2026-09-09T22:14:42.732446+00:00"
+      "_attAt": "2026-09-10T04:14:43.258500+00:00",
+      "_attRev": 1
     },
     {
       "title": "AI 분야·혁신 분야, 유망 초기 창업기업 32개사 선발",
@@ -1817,6 +1818,22 @@
         }
       ],
       "_attAt": "2026-09-10T03:44:41.770989+00:00"
+    },
+    {
+      "title": "한-UAE, AI·첨단기술 분야 협력 강화 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781077",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "한-UAE, AI·첨단기술 분야 협력 강화 방안 논의 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549848&tblKey=GMN",
+          "filename": "260911 조간 (동정) 한-UAE, AI·첨단기술 분야 협력 강화 방안 논의.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-10T04:14:43.258500+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
