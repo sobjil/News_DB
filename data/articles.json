@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T06:29:47.126016+00:00",
-  "count": 2274,
+  "updated": "2026-09-10T06:44:54.162666+00:00",
+  "count": 2277,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -640,7 +640,8 @@
           "filename": "[9.10.보도참고자료] 신종감염병 신속 대응을 위한 국가 연구기관 간 협력방안 논의.pdf"
         }
       ],
-      "_attAt": "2026-09-10T00:44:42.640422+00:00"
+      "_attAt": "2026-09-10T06:44:44.405815+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, \"불공정행위에 엄정 대응, 조달기업은 더욱 두텁게 보호\"",
@@ -652,16 +653,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549418&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549859&tblKey=GMN",
           "filename": "260910_(보도자료)_불공정행위에 엄정 대응 조달 기업은 더욱 두텁게 보호.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549417&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549858&tblKey=GMN",
           "filename": "260910_(보도자료)_불공정행위에 엄정 대응 조달 기업은 더욱 두텁게 보호.pdf"
         }
       ],
-      "_attAt": "2026-09-10T00:44:42.640422+00:00"
+      "_attAt": "2026-09-10T06:44:44.405815+00:00",
+      "_attRev": 1
     },
     {
       "title": "방위사업청장, 폴란드 MSPO 2026 참석... K-방산 유럽시장 수출 지원",
@@ -2650,6 +2652,69 @@
         }
       ],
       "_attAt": "2026-09-10T06:14:42.407154+00:00"
+    },
+    {
+      "title": "국가전략기술 국제 최신 동향과 특허정보를 한눈에!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781133",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "국가전략기술 국제 최신 동향과 특허정보를 한눈에! - NEXT 국가전략기술 체계에 따른 주요국 정책·기술 동향 및 특허분석 정보 매월 제공 - 지식재산처(처장 김용선)는 'NEXT 국가전략기술*' 체계 개편('26.6월)에 따라 한국·미국·중국·일본·유럽 등 주요국의 정책·기술·특허동향 정보를 담은 「국가전략기술 글로벌 기술동향과 특허」를 매월 발간한다고 10일 밝혔다. * 10대 국가전략기술(①인공지능, ②첨단로봇·모빌리티, ③차세대보안·네트워크, ④반도체·디스플레이, ⑤첨단바이오, ⑥차세대전지, ⑦우주항공·해양, ⑧혁신·미래소재",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550123&tblKey=GMN",
+          "filename": "294 [지식재산처] 국가전략기술 국제 최신 동향과 특허정보를 한눈에!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550124&tblKey=GMN",
+          "filename": "294 [지식재산처] 국가전략기술 국제 최신 동향과 특허정보를 한눈에!.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T06:44:44.405815+00:00"
+    },
+    {
+      "title": "「모두의 챌린지 기후테크」 최고혁신상에 ㈜기가에떼, The Origin",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781132",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 9월 10일(목) 제주 카카오 스페이스닷원에서 「모두의 챌린지 기후테크*」 파이널 피칭을 개최했다고 밝혔다. * 기후위기 대응 기술을 적용한 기업(탄소, 클린, 에코, 푸드, 지오) 피칭 결과 '일반리그'에서는 광합성 미생물을 활용하여 CO2를 포집하고 생분해성 플라스틱(PHA)을 생산하는 탄소저감 소재 개발을 주제로 발표한 The Origin(대표 심건우), '스타트업리그'에서는 수평 열성층 기술이 적용된 산업 열을 무탄소화하는 정온 열에너지저장시스템을 주제로 발표한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550122&tblKey=GMN",
+          "filename": "260911_「모두의_챌린지_기후테크」_최고혁신상에_㈜기가에떼,_The_Origin.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550121&tblKey=GMN",
+          "filename": "260911_「모두의_챌린지_기후테크」_최고혁신상에_㈜기가에떼,_The_Origin.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T06:44:44.405815+00:00"
+    },
+    {
+      "title": "내실 있는 APEC 역량강화 사업 추진을 위한 전문가 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781131",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "외교부는 우리 정부가 주도해온 APEC(아시아·태평양 경제협력체) 개도국 역량강화 사업의 내실 있는 추진 방안을 논의하기 위한 전문가 간담회를 대외경제정책연구원(KIEP)과 함께 9.10.(목) 서울에서 개최하였다. 이번 간담회의 주제인 CBNI(Capacity Building Needs Initiative) 사업은 APEC 개도국 협상 역량강화를 위해 2012년부터 15년간 우리나라가 주도해온 대표 사업으로서, 우리나라는 그간 공급망, 분쟁해결 등 다양한 주제로 워크숍을 개최하여 APEC 역내 개도국 정책결정자들의 FTA 협상 역",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550117&tblKey=GMN",
+          "filename": "[26-723](보도자료) 내실 있는 APEC 역량강화 사업 추진을 위한 전문가 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550118&tblKey=GMN",
+          "filename": "[26-723](보도자료) 내실 있는 APEC 역량강화 사업 추진을 위한 전문가 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T06:44:44.405815+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
