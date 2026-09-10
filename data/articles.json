@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T10:29:47.049685+00:00",
-  "count": 2328,
+  "updated": "2026-09-10T10:44:52.358868+00:00",
+  "count": 2329,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1937,7 +1937,8 @@
           "filename": "0910(11조간)지역경제진흥과, 충청권 메가프로젝트, 인허가 최신속 처리.pdf"
         }
       ],
-      "_attAt": "2026-09-10T04:29:43.832816+00:00"
+      "_attAt": "2026-09-10T10:44:43.125771+00:00",
+      "_attRev": 1
     },
     {
       "title": "종합부동산세 합산배제와 과세특례를 신고･신청하세요!",
@@ -1963,7 +1964,8 @@
           "filename": "260910 국세청, 2026년 종합부동산세 합산배제와 과세특례를 신고·신청하세요!.hwp"
         }
       ],
-      "_attAt": "2026-09-10T04:29:43.832816+00:00"
+      "_attAt": "2026-09-10T10:44:43.125771+00:00",
+      "_attRev": 1
     },
     {
       "title": "(참고)원·하청 대화와 상생을 위한 첫 발 내딛다... 개정노조법 시행 이후 원·하청 교섭 첫 결실",
@@ -1975,16 +1977,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549857&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550195&tblKey=GMN",
           "filename": "260910_보도참고_현대제철 원하청 교섭 타결.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549856&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550194&tblKey=GMN",
           "filename": "260910_보도참고_현대제철 원하청 교섭 타결.pdf"
         }
       ],
-      "_attAt": "2026-09-10T04:29:43.832816+00:00"
+      "_attAt": "2026-09-10T10:44:43.125771+00:00",
+      "_attRev": 1
     },
     {
       "title": "'한반도 평화공존 정책페스타' 개최(9.14.)",
@@ -1996,26 +1999,27 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549877&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549911&tblKey=GMN",
           "filename": "260910 (통일부 보도자료) 한반도 평화공존 정책페스타 개최(9.14.).pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549879&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549913&tblKey=GMN",
           "filename": "260910 (통일부 참고자료) 2026 평화바람주간 개막행사(9.11.) 관련.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549876&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549910&tblKey=GMN",
           "filename": "260910 (통일부 보도자료) 한반도 평화공존 정책페스타 개최(9.14.).hwp"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198549878&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549912&tblKey=GMN",
           "filename": "260910 (통일부 참고자료) 2026 평화바람주간 개막행사(9.11.) 관련.hwp"
         }
       ],
-      "_attAt": "2026-09-10T04:29:43.832816+00:00"
+      "_attAt": "2026-09-10T10:44:43.125771+00:00",
+      "_attRev": 1
     },
     {
       "title": "상생으로 다함께, 더 멀리 나아가는 K-조선",
@@ -3625,6 +3629,27 @@
         }
       ],
       "_attAt": "2026-09-10T10:29:42.465720+00:00"
+    },
+    {
+      "title": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781215",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "조현 외교부 장관은 9.10.(목) 서울에서 크리스퍼스 월터 키용가(Crispus Walter Kiyonga) 우간다 제2부총리를 면담하고, ▴양국 관계 ▴실질협력 증진 방안 ▴한-아프리카 협력 ▴주요 국제현안 등에 대해 폭넓게 의견을 교환하였다. 조 장관은 양국이 1963년 수교 이래 다양한 분야에서 우호 협력 관계를 지속 발전시켜 온 점을 평가하고, 이번 키용가 제2부총리 방한 및「한-우간다 무역·투자 포럼」개최로 경제 및 에너지 분야에서 양국 기업·기관 간 협력이 확대되고 향후 구체사업 발굴로 이어지기를 희망한다고 하였다.특히",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550500&tblKey=GMN",
+          "filename": "[26-728](보도자료) 조현 외교부 장관, 우간다 제2부총리 면담(9.10.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550499&tblKey=GMN",
+          "filename": "[26-728](보도자료) 조현 외교부 장관, 우간다 제2부총리 면담(9.10.).pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T10:44:43.125771+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
