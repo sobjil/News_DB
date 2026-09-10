@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T02:15:11.185884+00:00",
-  "count": 2225,
+  "updated": "2026-09-10T02:29:47.761424+00:00",
+  "count": 2227,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1556,6 +1556,48 @@
         }
       ],
       "_attAt": "2026-09-10T02:14:44.097684+00:00"
+    },
+    {
+      "title": "임금 감소 없는 주4.5일제? 제조업도 된다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781058",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "- 노사발전재단 실노동시간 단축 지원단, 주 36시간제 도입 앞둔 ㈜에스엔제이 방문- 계획생산, 업무 효율화로 노동시간 단축과 생산성 향상 함께 추진노사발전재단(사무총장 박종필)은 9월 10일(목) 서울 구로구 소재 의료용 기기 제조기업 ㈜에스엔제이(대표 장태희)를 방문해 실노동시간 단축을 위한 현장의 준비 상황을 살펴보고 노사의 의견을 청취했다. 이번 방문은 노사발전재단 실노동시간 단축 지원단의 여섯 번째 현장 방문으로, 일터혁신 상생컨설팅을 통해 생산성을 유지하면서 임금 감소 없이 주 4.5일제(주 36시간제) 도입을 준비하고 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549733&tblKey=GMN",
+          "filename": "260910_보도자료_실노동시간 단축지원단 6차 현장 방문 실시(노사발전재단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549732&tblKey=GMN",
+          "filename": "260910_보도자료_제20회 인적자원개발 콘퍼런스 개회식.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T02:29:41.621201+00:00"
+    },
+    {
+      "title": "변화의 시대, 사람과 조직의 '다음'을 찾다 「제20회 인적자원개발 콘퍼런스」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781057",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "- 인공지능(AI) 등 급변하는 환경에 대한 대응을 넘어 앞으로의 인적자원(HR) 방향을 함께 모색 - 고용노동부(장관 김영훈)가 주최하고 한국산업인력공단(이사장 이병훈)이 주관하는 「제20회 인적자원개발 콘퍼런스」가 9월 10일(목)부터 11일(금)까지 이틀간 코엑스 마곡(서울 강서구)에서 개최된다. 인적자원개발 콘퍼런스는 인적자원개발에 관심 있는 전 국민을 대상으로, 직업능력개발의 중요성과 인식 확산을 위해 2007년 시작해 올해 20회째를 맞는다. 지난 20년간 우리나라 인적자원개발은 산업과 일자리 변화에 발맞춰 직무능력 중심",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549731&tblKey=GMN",
+          "filename": "260910_보도자료_제20회 인적자원개발 콘퍼런스 개회식.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549730&tblKey=GMN",
+          "filename": "260910_보도자료_제20회 인적자원개발 콘퍼런스 개회식.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T02:29:41.621201+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
