@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T09:15:08.307250+00:00",
-  "count": 2325,
+  "updated": "2026-09-10T09:29:49.452170+00:00",
+  "count": 2326,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1876,7 +1876,8 @@
           "filename": "(20260910)보도자료(사전컨설팅 주요사례).hwp"
         }
       ],
-      "_attAt": "2026-09-10T03:29:42.653013+00:00"
+      "_attAt": "2026-09-10T09:29:43.818633+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리 주재 제17차 비상경제점검회의",
@@ -3559,6 +3560,27 @@
         }
       ],
       "_attAt": "2026-09-10T09:14:46.377212+00:00"
+    },
+    {
+      "title": "박홍근 장관, 부산 지역 필수의료, 고등교육 등 관련 예산현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781212",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "박홍근 기획예산처 장관은 9.10일(목) 부산대학교병원, 부산대학교, 기장군 보건소 등 부산 일원의 2027년 예산안 투자 현장을 방문해 지역필수의료, 고등교육, 지자체(부산시·기장군) 등 관계자들과 현장 간담회를 가졌다.자세한 내용은 첨부자료를 참고해 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550483&tblKey=GMN",
+          "filename": "부산 현장방문 보도자료F.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550482&tblKey=GMN",
+          "filename": "부산 현장방문 보도자료F.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T09:29:43.818633+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
