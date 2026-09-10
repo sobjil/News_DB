@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T01:30:02.297011+00:00",
-  "count": 2195,
+  "updated": "2026-09-10T01:44:47.616655+00:00",
+  "count": 2197,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -856,6 +856,38 @@
         }
       ],
       "_attAt": "2026-09-10T01:29:43.573535+00:00"
+    },
+    {
+      "title": "동부지방산림청, 강원 5개 시·군과 소나무재선충병 '청정지역' 전환 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781014",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "동부지방산림청과 강원특별자치도가 소나무재선충병 청정지역 전환을 위해 9월 10일 방제전략 광역 컨설팅 및 지역방제협의회를 개최했다. 이번 컨설팅은 방제전략기술 지원단(산림청, 산림재난안전기술공단, 한국산림기술사협회)의 피해상황 분석, 강원특별자치도 지역별 방제 전략, 하반기·2027년 사업계획 방향을 논의하는 자리로 마련됐다. 발생 5개 시·군(강릉·동해·삼척·정선·평창), 관할 국유림관리소(평창·강릉·정선·삼척), 현장특임관 등이 참석하였다.특히, 동부지방산림청 관할 발생 5개 시·군은 국가방제전략의 방제 우선순위 1순위 지역으로",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549577&tblKey=GMN",
+          "filename": "(0910)보도자료(동부지방산림청, 강원 5개 시·군과 소나무재선충병 `청정지역` 전환 총력).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-10T01:44:42.159169+00:00"
+    },
+    {
+      "title": "지능형 기지국(AI-RAN) 기반 AI 로봇 실증 방문으로 조선소 현장 안전과 생산성을 동시에 잡는다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781012",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "- 과기정통부, HD 현대삼호 조선소의 AI 네트워크 기반 피지컬 AI 실증 현장 방문- AI 용접·도장 로봇 실증을 통해 조선업 인력난 해소 및 작업안전 확보 기대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549566&tblKey=GMN",
+          "filename": "260910 석간 (보도) 지능형 기지국(AI-RAN) 기반 AI 로봇 실증 방문으로 조선소 현장 안전과 생산성을 동시에 잡는다.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-10T01:44:42.159169+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
