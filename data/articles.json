@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T03:29:47.396582+00:00",
-  "count": 2236,
+  "updated": "2026-09-10T03:44:46.237011+00:00",
+  "count": 2237,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1796,6 +1796,27 @@
         }
       ],
       "_attAt": "2026-09-10T03:29:42.653013+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제17차 비상경제점검회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781074",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "한성숙 총리, 중동전쟁 긴장 재고조에 따른 정부 대응체계 점검□ 한성숙 국무총리는 9월 10일(목) '제17차 비상경제점검회의'를 주재하고, 중동전쟁 관련 ▴해외상황 관리 ▴거시경제·물가 ▴에너지 수급 ▴금융안정 ▴민생복지 등 대응 상황을 점검했다.·(일시/장소) 9.10(목) 8:30~9:00 / 서울청사(9층 대회의실)·(참석) 국무총리(주재), 재경부, 외교부, 행안부, 문체부, 농식품부, 산업부, 복지부, 기후부, 국토부, 해수부, 중기부, 금융위, 공정위, 조달청 * 볼드체: 실무대응반장ㅇ 한 총리는 최근 호르무즈 해협을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549825&tblKey=GMN",
+          "filename": "260910_한성숙 국무총리 주재 제17차 비상경제점검회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198549826&tblKey=GMN",
+          "filename": "260910_한성숙 국무총리 주재 제17차 비상경제점검회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T03:44:41.770989+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
