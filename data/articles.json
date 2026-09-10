@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T10:15:02.150411+00:00",
-  "count": 2327,
+  "updated": "2026-09-10T10:29:47.049685+00:00",
+  "count": 2328,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3604,6 +3604,27 @@
         }
       ],
       "_attAt": "2026-09-10T10:14:43.373629+00:00"
+    },
+    {
+      "title": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781214",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-10T00:00:00+09:00",
+      "description": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550497&tblKey=GMN",
+          "filename": "260910(설명) 정부는 근거없는 공사비 인상을 막고 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.(주택정비정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550498&tblKey=GMN",
+          "filename": "260910(설명) 정부는 근거없는 공사비 인상을 막고 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.(주택정비정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T10:29:42.465720+00:00"
     },
     {
       "title": "차량정리 작업 사고 재발 막는다...무선제어 차량정리 확대 추진",
