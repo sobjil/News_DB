@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T22:29:43.499637+00:00",
-  "count": 2255,
+  "updated": "2026-09-10T22:44:54.935850+00:00",
+  "count": 2256,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -171,6 +171,27 @@
         }
       ],
       "_attAt": "2026-09-10T22:14:43.605357+00:00"
+    },
+    {
+      "title": "[보도참고] 잔류농약 기준 초과 검출된 수입 '목이버섯' 및 '백목이버섯' 회수 조치",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781252",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "[보도참고] 잔류농약 기준 초과 검출된 수입 '목이버섯' 및 '백목이버섯' 회수 조치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550616&tblKey=GMN",
+          "filename": "[26.9.10.(목) 보도참고자료] 잔류농약 기준 초과 검출된 수입 &amp;apos;목이버섯&amp;apos; 및 &amp;apos;백목이버섯&amp;apos; 회수 조치.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550617&tblKey=GMN",
+          "filename": "[26.9.10.(목) 보도참고자료] 잔류농약 기준 초과 검출된 수입 &amp;apos;목이버섯&amp;apos; 및 &amp;apos;백목이버섯&amp;apos; 회수 조치.pdf"
+        }
+      ],
+      "_attAt": "2026-09-10T22:44:44.079006+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
@@ -2025,8 +2046,8 @@
           "filename": "260911 조간 (동정) 한-UAE, AI·첨단기술 분야 협력 강화 방안 논의.hwpx"
         }
       ],
-      "_attAt": "2026-09-10T16:29:46.719740+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-10T22:44:44.079006+00:00",
+      "_attRev": 3
     },
     {
       "title": "충청권 메가프로젝트, 인허가 최신속 처리",
@@ -3807,8 +3828,8 @@
           "filename": "[26-727](보도자료) 故 하랄 5세 노르웨이 국왕 국장 관련 조문사절 파견(9.8.-10.).pdf"
         }
       ],
-      "_attAt": "2026-09-10T16:29:46.719740+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-10T22:44:44.079006+00:00",
+      "_attRev": 2
     },
     {
       "title": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.",
@@ -3829,8 +3850,8 @@
           "filename": "260910(설명) 정부는 근거없는 공사비 인상을 막고 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.(주택정비정책과).pdf"
         }
       ],
-      "_attAt": "2026-09-10T16:29:46.719740+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-10T22:44:44.079006+00:00",
+      "_attRev": 2
     },
     {
       "title": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.)",
