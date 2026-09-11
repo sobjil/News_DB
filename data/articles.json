@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T08:59:58.632020+00:00",
-  "count": 2332,
+  "updated": "2026-09-11T09:14:46.417221+00:00",
+  "count": 2333,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1909,6 +1909,42 @@
         }
       ],
       "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "제2026-14회 원자력안전위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781370",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "제2026-14회 원자력안전위원회 개최 원자력안전위원회(위원장 최원호, 이하 원안위)는 9월 11일(금) 제2026-14회 원자력안전위원회 회의를 개최하여 2건의 안건을 심의·의결하고, 1건의 안건을 재상정하기로 하였다. 심의·의결 제1호 원안위는 ㈜오르비텍이 신청*한 핵연료물질 사용 등 허가(안)을 심의·의결하였다.* ㈜오르비텍-원자력사업본부(서울사업소)에서 ㈜오르비텍-분석센터(울산사업소)로 사업소 간 핵연료물질 이관 ㈜오르비텍은 이번 허가를 위하여 안전관리규정, 핵연료물질 사용에 필요한 기술능력에 관한 설명서, 방사선 차폐에 관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551152&tblKey=GMN",
+          "filename": "260911_제2026-14회 원자력안전위원회 개최_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551153&tblKey=GMN",
+          "filename": "260911_제2026-14회 원자력안전위원회 개최_보도자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551154&tblKey=GMN",
+          "filename": "제2026-14회 (심의의결 1호) (안건) 핵연료물질 사용 등 허가(안).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551155&tblKey=GMN",
+          "filename": "제2026-14회 (심의의결 2호) (안건) 종사자 건강진단 관련 생활주변방사선안전관리법 하위규정 개정(안).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551156&tblKey=GMN",
+          "filename": "제2026-14회 (심의의결 3호) (안건) WH900형 원전(고리 3·4호기-한빛 1·2호기) 사고관리계획서 승인 및 운영변경허가(안).pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T09:14:41.865674+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
