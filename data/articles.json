@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T06:59:47.199402+00:00",
-  "count": 2309,
+  "updated": "2026-09-11T07:14:49.900617+00:00",
+  "count": 2310,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1343,6 +1343,27 @@
         }
       ],
       "_attAt": "2026-09-11T06:59:42.551389+00:00"
+    },
+    {
+      "title": "[설명] 정부는 '26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781327",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "[설명] 정부는 '26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551008&tblKey=GMN",
+          "filename": "260911(설명) 정부는 ‘26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다.(주택공급정책과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551009&tblKey=GMN",
+          "filename": "260911(설명) 정부는 ‘26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다.(주택공급정책과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T07:14:43.787292+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
