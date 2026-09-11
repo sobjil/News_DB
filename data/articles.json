@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T06:29:46.751313+00:00",
+  "updated": "2026-09-11T06:44:48.742567+00:00",
   "count": 2308,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -430,16 +430,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550668&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550676&tblKey=GMN",
           "filename": "260911 (통일부 보도자료) 고위공무원 및 과장급 인사발령(2026.9.11.자).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550667&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550675&tblKey=GMN",
           "filename": "260911 (통일부 보도자료) 고위공무원 및 과장급 인사발령(2026.9.11.자).hwp"
         }
       ],
-      "_attAt": "2026-09-11T00:29:43.925666+00:00"
+      "_attAt": "2026-09-11T06:44:42.945793+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화(9.11.금)",
@@ -451,16 +452,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550669&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550716&tblKey=GMN",
           "filename": "[9.11.보도참고자료] 2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550670&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550717&tblKey=GMN",
           "filename": "[9.11.보도참고자료] 2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화.pdf"
         }
       ],
-      "_attAt": "2026-09-11T00:44:42.770058+00:00"
+      "_attAt": "2026-09-11T06:44:42.945793+00:00",
+      "_attRev": 1
     },
     {
       "title": "제약·바이오 혁신 지키는 특허심판, 현장과 함께 만든다",
@@ -5022,8 +5024,8 @@
           "filename": "260910(설명) 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다.(주택기금과).pdf"
         }
       ],
-      "_attAt": "2026-09-11T00:29:43.925666+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-11T06:44:42.945793+00:00",
+      "_attRev": 3
     },
     {
       "title": "행복도시 국립박물관단지 '문화 랜드마크' 도약",
