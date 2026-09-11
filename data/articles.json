@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T08:44:53.220799+00:00",
-  "count": 2324,
+  "updated": "2026-09-11T08:59:58.632020+00:00",
+  "count": 2332,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -853,21 +853,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550806&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550817&tblKey=GMN",
           "filename": "(유통소비정책관-식생활소비정책과) 농식품부 식량정책실장, 천안시 우수 농특산물 직거래 장터 방문(9. 11. 11시 30분부터).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550805&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550816&tblKey=GMN",
           "filename": "(유통소비정책관-식생활소비정책과) 농식품부 식량정책실장, 천안시 우수 농특산물 직거래 장터 방문(9. 11. 11시 30분부터).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550807&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550818&tblKey=GMN",
           "filename": "(유통소비정책관-식생활소비정책과) 농식품부 식량정책실장, 천안시 우수 농특산물 직거래 장터 방문(9. 11. 11시 30분부터).hwp"
         }
       ],
-      "_attAt": "2026-09-11T02:44:45.085539+00:00"
+      "_attAt": "2026-09-11T08:59:42.825750+00:00",
+      "_attRev": 1
     },
     {
       "title": "직원이 직접 만든 AI로 '조달업무 혁신' 속도낸다",
@@ -888,7 +889,8 @@
           "filename": "260911_(보도자료)_직원이 직접 만든 AI로 조달업무 혁신 속도낸다_배포용.pdf"
         }
       ],
-      "_attAt": "2026-09-11T02:44:45.085539+00:00"
+      "_attAt": "2026-09-11T08:59:42.825750+00:00",
+      "_attRev": 1
     },
     {
       "title": "지역공동체 살리는 「사회연대경제기본법」제정 성과에 3천만 원 특별성과포상금 수여",
@@ -1720,6 +1722,193 @@
         }
       ],
       "_attAt": "2026-09-11T08:44:43.844309+00:00"
+    },
+    {
+      "title": "\"과수화상병 적기 약제 방제 기술\" 현장 목소리 듣는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781367",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 9월 11일 천안 성환읍 배 과수원에서 '과수화상병 감염 위험 경보 기반 적기 약제 방제 기술 시범사업' 성과를 확인하고 현장 의견을 듣는 간담회를 열었다.과수화상병은 감염되더라도 감염 초기 가지의 감염 부위로부터 70cm 이상 잘라내거나 병든 나무만 제거하고 추가 감염되지 않도록 관리하면 확산을 막을 수 있다. 특히 개화기 꽃 감염 위험 경보 문자를 수신한 뒤 24시간 이내 과수화상병 약제를 살포하는 것이 예방과 추가 감염을 방지하는 핵심 기술로 꼽힌다. 이날 간담회에는 천안시 관계자와 농업인 등 10여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551134&tblKey=GMN",
+          "filename": "11-7_(즉시보도_통전지)과수화상병적기약제방제기술현장목소리듣는다(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551135&tblKey=GMN",
+          "filename": "11-7_(즉시보도_통전지)과수화상병적기약제방제기술현장목소리듣는다(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551133&tblKey=GMN",
+          "filename": "11-7_(즉시보도_통전지)과수화상병적기약제방제기술현장목소리듣는다(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "'국가 식물 유전자원' 보존 안전망 강화 협력 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781365",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립농업과학원은 산림청(청장 박은식) 한국수목원정원관리원과 9월 11일 국립세종수목원에서 '식물 유전자원의 안전 중복보존 업무협약'을 맺었다. 두 기관은 지난 2020년부터 협력체계를 이어오고 있다. 국립농업과학원은 농업유전자원센터가 보유 중인 식물 유전자원 473종 19만 4,000자원을 한국수목원정원관리원의 '백두대간 글로벌 시드볼트'에 중복보존하고 있다. 이번 협약에 따라 두 기관은 ∆식물 유전자원의 수집·증식·보존 ∆양 기관 보유 자원의 안전한 중복보존과 관련 정보 교류 ∆식물 유전자원 공동연구와 전",
+      "attachments": [],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "농촌진흥청, '2026년 정책정보서비스 협력 유공' 문화체육관광부장관 표창 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781363",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 9월 10일 경주에서 개최된 '제12회 국가정책정보협의회 정기총회' 시상식에서 농촌진흥청 농업과학도서관이 '2026년 정책정보서비스 협력 유공' 문화체육관광부장관 표창을 수상했다고 밝혔다. '정책정보서비스 협력 유공자 포상'은 국립중앙도서관(국립세종도서관)이 주관하는 국가정책정보협의회가 매년 수여하는 표창으로, 2015년부터 매년 우수 기관과 개인을 선정해 왔다. 2026년에는 단체 1곳과 개인 3명이 장관 표창을 받았다. 농촌진흥청은 2014년부터 국가정책정보협의회 참여기관으로 활동하며, 국가정책정보협의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551126&tblKey=GMN",
+          "filename": "11-5_(즉시보도_통전지)농촌진흥청，_‘2026년_정책정보서비스_협력_유공’_문화체육관광부장관_표창_수상(기획조정관실).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551127&tblKey=GMN",
+          "filename": "11-5_(즉시보도_통전지)농촌진흥청，_‘2026년_정책정보서비스_협력_유공’_문화체육관광부장관_표창_수상(기획조정관실).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551125&tblKey=GMN",
+          "filename": "11-5_(즉시보도_통전지)농촌진흥청，_‘2026년_정책정보서비스_협력_유공’_문화체육관광부장관_표창_수상(기획조정관실).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "유전자 가위(편집) 도구 갖춘 돼지, 신장세포 연구로 활용 넓혀",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781361",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 2023년 국내 최초로 개발한 '유전자 가위를 몸속에서 만드는 돼지'의 신장에서 세포를 분리해 배양하고, 이 세포에서도 유전자 가위가 정상적으로 작동하는 것을 확인했다고 밝혔다. 이번 연구는 2023년 개발한 돼지의 신장세포에서 유전자 가위가 정상적으로 작동하는지 확인하고, 후속 연구에 필요한 기초 자료를 확보하기 위해 수행했다. 신장은 여러 종류의 세포로 이뤄져 있으며, 세포마다 기능과 유전자가 작동하는 방식이 다르다. 연구진은 신장세포에서도 유전자 가위가 작동하는지 확인하기 위해 이 돼지의 신장에서 여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551120&tblKey=GMN",
+          "filename": "11-4_유전자_가위(편집)_도구_갖춘_돼지__신장세포_연구로_활용_넓혀(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551121&tblKey=GMN",
+          "filename": "11-4_유전자_가위(편집)_도구_갖춘_돼지__신장세포_연구로_활용_넓혀(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551119&tblKey=GMN",
+          "filename": "11-4_유전자_가위(편집)_도구_갖춘_돼지__신장세포_연구로_활용_넓혀(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "'밤꿀·수벌번데기'로 차려낸 색다른 추석 별미 한상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781359",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 추석을 맞아 국산 밤꿀과 수벌번데기로 만들 수 있는 색다른 양봉산물 요리와 조리법을 소개했다. 쌉쌀한 맛과 향이 특징인 밤꿀은 농촌진흥청 연구 결과, 인플루엔자 에이(A) 바이러스 감염을 62.2% 억제하는 것으로 나타났다. 수벌번데기는 고령층의 영양 보충과 근육 건강 유지에 도움을 줄 수 있는 것으로 확인됐다. 농촌진흥청이 올해 소개한 양봉산물 요리는 지난해 열린 제5회 양봉요리 경연대회 수상작들로, 밤꿀을 이용한 '가을 한입 밤꿀 몽블랑 수플레'와 수벌번데기로 만든 '꿀데기 스테이크 정식'이다. '가을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551114&tblKey=GMN",
+          "filename": "11-3_밤꿀수벌번데기로차려낸색다른추석별미한상(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551115&tblKey=GMN",
+          "filename": "11-3_밤꿀수벌번데기로차려낸색다른추석별미한상(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551113&tblKey=GMN",
+          "filename": "11-3_밤꿀수벌번데기로차려낸색다른추석별미한상(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "농기계 안전사고 발생 저감· 치유농업 내실 다지기 '전문가 의견 수렴'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781357",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 9월 11일 오후 경상북도농업기술원 농업인회관 2층에서 케이(K)-농업과학기술협의체 '활력있는 농촌 분과' 제3차 분과 회의를 개최한다. 케이(K)-농업과학기술협의체는 국정과제 추진 동력 확보 및 농촌진흥청 연구개발 기술의 현장 확산을 강화하고자 지난해 9월 출범했다. 농업인, 학계·전문가, 소비자 등 총 50여 명의 위원이 미래 농업 육성, 현장 문제 해결, 활력있는 농촌 3개 분과*에서 현장 수요를 반영한 실용적 기술 개발과 정책안을 제안하고 있다. 이번 '활력있는 농촌 분과' 제3차 분과 회의에는 노",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551108&tblKey=GMN",
+          "filename": "11-2_농기계안전사고발생저감치유농업내실다지기위한전문가의견수렴(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551109&tblKey=GMN",
+          "filename": "11-2_농기계안전사고발생저감치유농업내실다지기위한전문가의견수렴(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551107&tblKey=GMN",
+          "filename": "11-2_농기계안전사고발생저감치유농업내실다지기위한전문가의견수렴(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "\"차례상보다 소중한 가족과의 한 끼\"…달라지는 명절 농식품 소비 기준",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781355",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "추석 농식품 소비가 차례상이나 격식에 치중하기보다 가족과의 한 끼를 중시하는 방향으로 변화하면서 과대 포장을 지양하고 맛과 실속, 편리함을 따지는 실속 소비가 확대되고 있다.농촌진흥청(청장 이승돈)은 추석 농식품 소비 변화를 파악하고 농업경영체의 의사결정을 지원하기 위해 수도권 거주 소비자패널 1,000명을 대상으로 8월 21, 22일 이틀간 온라인 설문조사를 실시했다. 이번 조사에서는 농식품 구매 시점, 구매처, 선물 대상, 소비 가치 등의 변화를 집중 살펴봤다. (구매 시점) 소비자의 58.3%가 추석 직전 한 번에 구매하기보다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551102&tblKey=GMN",
+          "filename": "11-1_차례상보다_소중한가족과의한끼_달라지는명절농식품소비경향(협력국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551103&tblKey=GMN",
+          "filename": "11-1_차례상보다_소중한가족과의한끼_달라지는명절농식품소비경향(협력국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551101&tblKey=GMN",
+          "filename": "11-1_차례상보다_소중한가족과의한끼_달라지는명절농식품소비경향(협력국).hwp"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
+    },
+    {
+      "title": "(참고자료)통상교섭본부장, 英 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781354",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "통상교섭본부장, 英 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의- 에너지·철강 업계 우려 전달 및 한-영 FTA 개선협정문의 조속한 발효 협력 - 산업통상부(장관 김정관) 박정성 통상교섭본부장은 9.11(금) 대한상의에서 조나단 레이놀즈(Jonathan Reynolds) 영국 신임 기업혁신과학통상부 장관과 화상 면담을 갖고, 상호 취임을 축하하며 양국 주요 현안을 논의하였다. 박 본부장은 영국의 러시아산 LNG 해운·보험 서비스 금지 조치가 우리 LNG 수급과 에너지 안보에 미칠 영향에 대한 우려를 전달하였다. 특",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551100&tblKey=GMN",
+          "filename": "(참고자료, 11(금) 17시30분엠바고)통상협정협상총괄과, 통상교섭본부장, 영 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551099&tblKey=GMN",
+          "filename": "(참고자료, 11(금) 17시30분엠바고)통상협정협상총괄과, 통상교섭본부장, 영 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T08:59:42.825750+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
