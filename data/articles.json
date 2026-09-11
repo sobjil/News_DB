@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T09:44:52.536559+00:00",
-  "count": 2337,
+  "updated": "2026-09-11T09:59:46.459090+00:00",
+  "count": 2338,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2019,6 +2019,42 @@
         }
       ],
       "_attAt": "2026-09-11T09:44:45.451742+00:00"
+    },
+    {
+      "title": "경인사연·KDI 등 학계·연구기관도 2027년도 예산안 추진방향과 미래대응기금 필요성에 공감대 형성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781376",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "조용범 기획예산처 차관은 9월 11일(금) 서울 엘타워에서 경제·인문사회연구회와 한국개발연구원(KDI)이 공동으로 주최한 「2027년 예산안 및 미래대응기금 토론회」에 참석하여 2027년도 예산안의 주요 내용과 미래대응기금 추진방향을 설명하고 학계·연구기관 등과 논의하였다. 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551190&tblKey=GMN",
+          "filename": "(첨부1) 조용범 기획예산처 차관 축사.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551192&tblKey=GMN",
+          "filename": "(보도자료) 예산안 및 미래대응기금 토론회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551189&tblKey=GMN",
+          "filename": "(첨부2) 기획예산처 발표자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551191&tblKey=GMN",
+          "filename": "(첨부1) 조용범 기획예산처 차관 축사.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551193&tblKey=GMN",
+          "filename": "(보도자료) 예산안 및 미래대응기금 토론회.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T09:59:42.810907+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
