@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T06:44:48.742567+00:00",
-  "count": 2308,
+  "updated": "2026-09-11T06:59:47.199402+00:00",
+  "count": 2309,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1322,6 +1322,27 @@
         }
       ],
       "_attAt": "2026-09-11T06:14:42.808357+00:00"
+    },
+    {
+      "title": "[차관동정] 김이탁 제1차관, LH 조직 개편, 충분히 소통하면서 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781326",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "[차관동정] 김이탁 제1차관, LH 조직 개편, 충분히 소통하면서 추진 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551000&tblKey=GMN",
+          "filename": "260911(동정) 김이탁 제1차관 LH 조직 개편 충분히 소통하면서 속도감 있게 추진(토지정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551001&tblKey=GMN",
+          "filename": "260911(동정) 김이탁 제1차관 LH 조직 개편 충분히 소통하면서 속도감 있게 추진(토지정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T06:59:42.551389+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
