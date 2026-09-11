@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T07:44:46.697350+00:00",
-  "count": 2314,
+  "updated": "2026-09-11T07:59:51.776369+00:00",
+  "count": 2315,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -703,7 +703,8 @@
           "filename": "[0911]문체부보도자료-신임 국립어린이청소년극단 단장 겸 예술감독 임명.pdf"
         }
       ],
-      "_attAt": "2026-09-11T01:44:43.019342+00:00"
+      "_attAt": "2026-09-11T07:59:46.586720+00:00",
+      "_attRev": 1
     },
     {
       "title": "대한민국을 대표할 지도자급(리더급) 국가과학기술자 선정 착수",
@@ -1463,6 +1464,22 @@
         }
       ],
       "_attAt": "2026-09-11T07:44:42.833754+00:00"
+    },
+    {
+      "title": "우리가 바로 데이터사이언스의 미래! - ｢2026 K-DATA SCIENCE 컨퍼런스&해커톤 대회｣ 개최 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781334",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "- 데이터사이언스 융합인재 양성사업 10여개 대학 등에서 300여명 학생·연구자 참여- 데이터·도메인 융합 인재 양성을 위한 연구성과발표회·해커톤·취업박람회 실시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551031&tblKey=GMN",
+          "filename": "260911 즉시 (보도) ｢2026 K-DATA SCIENCE 컨퍼런스&amp;해커톤 대회｣ 개최(수정본).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-11T07:59:46.586720+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
