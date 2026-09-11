@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T00:30:03.051735+00:00",
-  "count": 2268,
+  "updated": "2026-09-11T00:44:46.910545+00:00",
+  "count": 2269,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -423,6 +423,27 @@
         }
       ],
       "_attAt": "2026-09-11T00:29:43.925666+00:00"
+    },
+    {
+      "title": "2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화(9.11.금)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781268",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "2026-2027절기 인플루엔자 유행주의보 발령 예년보다 이른 유행, 학생 및 고위험군 대응 강화- 절기 시작과 함께 9월 11일(금)부터 \"2026-2027절기 인플루엔자 유행주의보 발령\"- 코로나19는 전년 동기간 대비 낮은 수준이지만, 입원환자 지속 증가세 - 전문가 및 관계부처와 함께 유행 현황 및 대응 상황 점검 실시 - 호흡기 증상이 있을 때는 마스크 착용 강조, 기침할 때는 휴지나 옷소매로 입과 코를 가리는 등 호흡기감염병 예방수칙 준수 당부, 고위험군은 발열 및 호흡기 증상 있을 시 조기에 의료기관을 방문하여 적절한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550669&tblKey=GMN",
+          "filename": "[9.11.보도참고자료] 2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550670&tblKey=GMN",
+          "filename": "[9.11.보도참고자료] 2026-2027절기 인플루엔자 유행주의보 발령, 예년보다 이른 유행, 학생 및 고위험군 대응 강화.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T00:44:42.770058+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
