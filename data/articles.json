@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T05:59:48.055478+00:00",
-  "count": 2304,
+  "updated": "2026-09-11T06:14:52.700643+00:00",
+  "count": 2308,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -375,16 +375,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550642&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550646&tblKey=GMN",
           "filename": "260910 [방사청 보도자료] 크로아티아와 6,400억 원 규모(수주액 기준) 천무 수출계약 체결.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198550643&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550647&tblKey=GMN",
           "filename": "260910 [방사청 보도자료] 크로아티아와 6,400억 원 규모(수주액 기준) 천무 수출계약 체결.pdf"
         }
       ],
-      "_attAt": "2026-09-10T23:59:43.094803+00:00"
+      "_attAt": "2026-09-11T06:14:42.808357+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 9월 1일 ~ 9월 10일 수출입 현황 [잠정치]",
@@ -1233,6 +1234,90 @@
         }
       ],
       "_attAt": "2026-09-11T05:59:42.384750+00:00"
+    },
+    {
+      "title": "\"지역 청년의 꿈, 키운다\"... 행안부-KB국민카드, 함께 청년마을 사업 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781324",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "- 청년마을 대상 신용관리, 사업화 자금, 브랜드 고도화, 판로 확대 등 종합 지원 - 민간금융 기반과 연계하여 청년의 지역 정착과 지역 경제 활성화 지원 행정안전부(장관 윤호중)는 9월 11일(금) 전북특별자치도 익산시의 청년마을인 '지구장이마을'을 방문해, KB국민카드와 청년마을의 지속가능한 성장과 지역 정착 지원을 위한 업무협약을 체결했다고 밝혔다. 행정안전부와 KB국민카드는 청년마을 현장에서 만나 지역 청년들의 자립기반 강화와 지역 경제 활성화를 위한 협력 의지를 함께 다졌다. 이번 협약은 민간의 금융 기반과 연계하여 청년들",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550981&tblKey=GMN",
+          "filename": "260912 (15시) 지역 청년의 꿈 키운다...행안부-KB국민카드 함께 청년마을 사업 지원(사회연대경제지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550982&tblKey=GMN",
+          "filename": "260912 (15시) 지역 청년의 꿈 키운다...행안부-KB국민카드 함께 청년마을 사업 지원(사회연대경제지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T06:14:42.808357+00:00"
+    },
+    {
+      "title": "국표원-한국소비자원 등 충북 농촌마을 가전제품 안전사용 캠페인 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781322",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "국표원-한국소비자원 등 충북 농촌마을 가전제품 안전사용 캠페인 실시- 국표원·소비자원·한국전기안전공사 등 가전제품 화재예방 위한 취약지역 안전점검 - 산업통상부 국가기술표준원(원장 김대자, 이하 국표원)은 한국소비자원(원장 윤수현),한국전기안전공사(사장 남화영), 대한노인회 진천군지회(회장 송영관) 및 가전제품 사업자정례협의체*와 함께 11일 충북 상백마을에서 '농촌지역 고령자 대상 가전제품 안전사용 캠페인'을 실시했다. * 기업 자율의 선제적 안전관리체계 구축을 위해 한국소비자원이 운영하는 민관 협력 네트워크 (참여기업: ㈜교원프",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550957&tblKey=GMN",
+          "filename": "0911(12조간)제품안전정보과, 국가기술표준원, 충북 농촌마을 찾아 가전제품 안전사용 캠페인 실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550956&tblKey=GMN",
+          "filename": "0911(12조간)제품안전정보과, 국가기술표준원, 충북 농촌마을 찾아 가전제품 안전사용 캠페인 실시.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T06:14:42.808357+00:00"
+    },
+    {
+      "title": "제1차 한-베트남 수출통제대화 개최, 공급망 안정 및 현지 진출기업 지원 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781321",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "제1차 한-베트남 수출통제대화 개최,공급망 안정 및 현지 진출기업 지원 강화- 베트남 수출통제 제도 본격 시행에 따라 한국의 선진 시스템 전파 - 산업통상부(장관 김정관, 이하 산업부)는 9.11(금) 서울에서 베트남 산업무역부와 함께 '제1차 한-베트남 수출통제 대화'를 개최한다. 이번 대화는 양국 수출통제 당국 간 정례적인 국장급 협력 채널을 최초로 가동했다는 점에서 의미가 있다. 베트남은 지난해 10월 수출통제 제도를 도입한 이후 올해 6월부터 이를 시행하고 있다. 우리의 주요 공급망 파트너인 베트남에는 다수의 우리 기업이 진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550955&tblKey=GMN",
+          "filename": "0911(12조간)무역안보정책과, 제1차 한-베트남 수출통제대화 개최 공급망 안정 및 현지 진출기업 지원 강화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550954&tblKey=GMN",
+          "filename": "0911(12조간)무역안보정책과, 제1차 한-베트남 수출통제대화 개최 공급망 안정 및 현지 진출기업 지원 강화.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T06:14:42.808357+00:00"
+    },
+    {
+      "title": "지역 기업의 AI 전환, M.AX로 앞당긴다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781320",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-11T00:00:00+09:00",
+      "description": "지역 기업의 AI 전환, M.AX로 앞당긴다경남을 시작으로 권역별 「M.AX 지역 확산 컨퍼런스」 개최 -LG전자·삼현 등 M.AX 얼라이언스 우수 사례 공유 -'27년 M.AX 사업 안내 및 제조-AI 기업 간 매칭 상담창구 운영 -※ M.AX : 제조업 AI 대전환(Manufacturing AI Transformation) 산업통상부(장관 김정관, 이하 산업부)는 9.11(금) 경상남도 창원 그랜드 머큐어 앰배서더 호텔에서 지역 제조기업의 AI 전환을 가속화하고, AI 기업과의 새로운 비즈니스 기회를 창출하기 위한 「제1회 M.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550953&tblKey=GMN",
+          "filename": "0911(12조간)산업인공지능정책과 지역 기업의 AI 전환 M.AX로 앞당긴다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198550952&tblKey=GMN",
+          "filename": "0911(12조간)산업인공지능정책과 지역 기업의 AI 전환 M.AX로 앞당긴다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-11T06:14:42.808357+00:00"
     },
     {
       "title": "OECD 선진 사례에서 지역균형발전의 길을 찾다",
