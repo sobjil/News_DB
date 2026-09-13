@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T23:59:43.527929+00:00",
-  "count": 2167,
+  "updated": "2026-09-13T00:14:46.362049+00:00",
+  "count": 2168,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781390",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-13T00:00:00+09:00",
+      "description": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551370&tblKey=GMN",
+          "filename": "[교육부 09-14(월) 조간보도자료] 우리 아이 미래경쟁력 영유아 보호자가 묻고 인지과학이 답하다!.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-13T00:14:41.733035+00:00"
+    },
     {
       "title": "청양산림항공관리소, 논산시 꿈빛나래 페스티벌 진로체험 부스 운영",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781379",
