@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T23:44:45.980724+00:00",
-  "count": 2193,
+  "updated": "2026-09-13T23:59:47.173077+00:00",
+  "count": 2194,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -366,6 +366,27 @@
         }
       ],
       "_attAt": "2026-09-13T23:44:41.598040+00:00"
+    },
+    {
+      "title": "\"청탁금지법 10년의 성과, 청렴･공정한 100년의 미래로\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781450",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "\"청탁금지법 10년의 성과, 청렴･공정한 100년의 미래로\"- 국민권익위, 청탁금지법 시행 10주년 계기 토론회 개최…학계, 법조계 등 전문가와 10년의 성과 회고 및 제도 발전 방안 모색 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 「부정청탁 및 금품등 수수의 금지에 관한 법률」(이하 청탁금지법) 시행 10주년을 맞아 '청탁금지법 시행 10주년 기념 토론회'​를 개최한다고 밝혔다. 청탁금지법은 공직자등에 대한 부정청탁과 금품수수를 금지함으로써 공정한 직무수행을 보장하고 공공기관에 대한 국민의 신뢰를 확보하기 위해 2016",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551541&tblKey=GMN",
+          "filename": "(260914) 청탁금지법 10년의 성과, 청렴공정한 100년의 미래로(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551542&tblKey=GMN",
+          "filename": "(260914) 청탁금지법 10년의 성과, 청렴공정한 100년의 미래로(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-13T23:59:42.595552+00:00"
     },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
