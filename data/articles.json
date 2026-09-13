@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T20:59:44.282145+00:00",
-  "count": 2177,
+  "updated": "2026-09-13T21:14:48.443626+00:00",
+  "count": 2179,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,48 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781433",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551502&tblKey=GMN",
+          "filename": "260914(석간) 제6회 디지털 지적의 날 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색(공간정보제도과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551503&tblKey=GMN",
+          "filename": "260914(석간) 제6회 디지털 지적의 날 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색(공간정보제도과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-13T21:14:43.187912+00:00"
+    },
+    {
+      "title": "아시아·태평양 국가에 우리나라 환경 분석기술 전수한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781434",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "▷ 동아시아 9개국 대상으로 잔류성유기오염물질(POPs) 분석기술 전수기후에너지환경부 소속 국립환경과학원(원장 김영우)은 9월 14일부터 16일까지 서울 등 수도권 일대에서 아시아·태평양 지역 공무원과 전문가들을 대상으로 '제15차 동아시아 잔류성유기오염물질(POPs) 분석 교육'을 개최한다고 밝혔다.우리나라는 2011년부터 스톡홀름협약 이행을 지원하는 국제협력 사업을 통해 동아시아 국가 간 잔류성유기오염물질(POPs) 관리 정보를 공유하고, 첨단 분석기술을 개발도상국에 전파하는 활동을 지속적으로 추진해 오고 있다. 이번 교육에는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551504&tblKey=GMN",
+          "filename": "아시아·태평양 국가에 우리나라 환경 분석기술 전수한다(보도자료)(과학원 9.14).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551505&tblKey=GMN",
+          "filename": "아시아·태평양 국가에 우리나라 환경 분석기술 전수한다(보도자료)(과학원 9.14).pdf"
+        }
+      ],
+      "_attAt": "2026-09-13T21:14:43.187912+00:00"
+    },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781390",
