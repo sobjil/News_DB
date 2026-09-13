@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T03:14:52.864144+00:00",
-  "count": 2177,
+  "updated": "2026-09-13T03:29:47.502544+00:00",
+  "count": 2178,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -261,6 +261,27 @@
         }
       ],
       "_attAt": "2026-09-13T03:14:43.379915+00:00"
+    },
+    {
+      "title": "구윤철 부총리, 「한-우즈벡 지방정부 협력 포럼」 축사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781400",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-13T00:00:00+09:00",
+      "description": "구윤철 부총리 겸 재정경제부장관은 9월 11일(금) 서울에서 개최된 ｢한-우즈벡 지방정부 협력 포럼｣에 참석하였다. 자세한 내용은 첨부 자료를 참고하시기 바랍니다.문의. 재정경제부 대외경제국 경제협력과 황인환 (044-215-7741)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551389&tblKey=GMN",
+          "filename": "(보도자료) 구윤철 부총리, 한-우즈벡 지방정부 협력 포럼 축사v1.42(배포).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551388&tblKey=GMN",
+          "filename": "(보도자료) 구윤철 부총리, 한-우즈벡 지방정부 협력 포럼 축사v1.42(배포).pdf"
+        }
+      ],
+      "_attAt": "2026-09-13T03:29:43.735425+00:00"
     },
     {
       "title": "청양산림항공관리소, 논산시 꿈빛나래 페스티벌 진로체험 부스 운영",
