@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T00:14:46.362049+00:00",
-  "count": 2168,
+  "updated": "2026-09-13T00:29:46.809496+00:00",
+  "count": 2169,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -77,6 +77,27 @@
         }
       ],
       "_attAt": "2026-09-13T00:14:41.733035+00:00"
+    },
+    {
+      "title": "[참고] 경전선 화물열차 탈선 사고 대응에 만전을 기하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781391",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-13T00:00:00+09:00",
+      "description": "[참고] 경전선 화물열차 탈선 사고 대응에 만전을 기하고 있습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551371&tblKey=GMN",
+          "filename": "260913(참고) 경전선 화물열차 탈선 사고 대응에 만전을 기하고 있습니다. (철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551372&tblKey=GMN",
+          "filename": "260913(참고) 경전선 화물열차 탈선 사고 대응에 만전을 기하고 있습니다. (철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-13T00:29:42.634921+00:00"
     },
     {
       "title": "청양산림항공관리소, 논산시 꿈빛나래 페스티벌 진로체험 부스 운영",
