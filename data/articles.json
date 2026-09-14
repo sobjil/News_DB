@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T09:44:46.507607+00:00",
-  "count": 2297,
+  "updated": "2026-09-14T09:59:48.765024+00:00",
+  "count": 2298,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2541,6 +2541,27 @@
         }
       ],
       "_attAt": "2026-09-14T09:14:45.001850+00:00"
+    },
+    {
+      "title": "조현 장관, 에이브럼스·벨·라캐머라 전(前) 주한미군사령관 접견",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781618",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "조현 외교부 장관은 9.14(월) 방한 중인 「로버트 에이브럼스(Robert Abrams)」, 「버웰 벨(Burwell Bell III)」, 「폴 라캐머라(Paul LaCamera)」 전(前) 주한미군사령관들을 접견하였다. 조 장관과 전(前) 주한미군사령관들은 한반도의 엄중한 안보 환경 속에서 미측의 빈틈없는 확장억제 공약을 바탕으로 굳건한 한미 연합방위태세를 유지 및 강화하는 것이 중요하다는 점을 강조하였다. 전직 사령관들은 다양한 활동을 통해 미국 내에서 한미동맹의 저변을 확대하기 위해 계속 노력하고 있다면서 앞으로도 한미동맹 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552237&tblKey=GMN",
+          "filename": "[26-739](보도자료) 장관, 전 주한미군사령관들 접견.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552238&tblKey=GMN",
+          "filename": "[26-739](보도자료) 장관, 전 주한미군사령관들 접견.pdf"
+        }
+      ],
+      "_attAt": "2026-09-14T09:59:45.361037+00:00"
     },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
