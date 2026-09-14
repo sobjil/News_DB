@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T05:29:59.514659+00:00",
-  "count": 2274,
+  "updated": "2026-09-14T05:44:51.173887+00:00",
+  "count": 2276,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -379,7 +379,8 @@
           "filename": "260911_보도자료_무인 전자담배 판매업소 청소년 출입·고용 금지업소 지정 추진_최종배포.pdf"
         }
       ],
-      "_attAt": "2026-09-13T23:44:41.598040+00:00"
+      "_attAt": "2026-09-14T05:44:43.846746+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"청탁금지법 10년의 성과, 청렴･공정한 100년의 미래로\"",
@@ -1971,6 +1972,53 @@
         }
       ],
       "_attAt": "2026-09-14T05:14:41.735265+00:00"
+    },
+    {
+      "title": "예멘 후티 반군의 사우디아라비아 민간 시설 및 민간인 공격에 대한 외교부 대변인 논평",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781563",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "우리 정부는 최근 사우디아라비아 남부의 민간인 및 경제 시설을 겨냥하여 다수의 민간인 부상자를 발생시킨 후티 반군의 공격을 규탄한다. 아울러 민간인과 민간 시설에 대한 공격과 선박의 자유롭고 안전한 항행을 저해하는 행위는 어떠한 이유로도 정당화될 수 없음을 강조하며, 이러한 공격 행위를 즉각 중단할 것을 촉구한다. 우리 정부는 홍해상에서의 자유롭고 안전한 항행의 보장을 비롯한 중동의 평화와 안정은 글로벌 공급망과 에너지 안보 관점에서도 한국을 포함한 국제사회 전체에 중요하다는 점을 강조한다. 우리 정부는 이번 공격과 관련하여 사우디",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551994&tblKey=GMN",
+          "filename": "[26-735](보도자료) 예멘 후티 반군의 사우디아라비아 민간 시설 및 민간인 공격에 대한 외교부 대변인 논평.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551995&tblKey=GMN",
+          "filename": "[26-735](보도자료) 예멘 후티 반군의 사우디아라비아 민간 시설 및 민간인 공격에 대한 외교부 대변인 논평.pdf"
+        }
+      ],
+      "_attAt": "2026-09-14T05:44:43.846746+00:00"
+    },
+    {
+      "title": "｢의식주｣ 국민 필수 생활비 관련 물가 불안 조장 탈세 혐의자 세무조사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781562",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "｢의식주｣ 국민 필수 생활비 관련 물가 불안 조장 탈세 혐의자 세무조사 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551991&tblKey=GMN",
+          "filename": "260914 의식주 국민 필수 생활비 관련 물가 불안 조장 탈세 혐의자 세무조사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551993&tblKey=GMN",
+          "filename": "260914 의식주 국민 필수 생활비 관련 물가 불안 조장 탈세 혐의자 세무조사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551992&tblKey=GMN",
+          "filename": "260914 의식주 국민 필수 생활비 관련 물가 불안 조장 탈세 혐의자 세무조사.hwp"
+        }
+      ],
+      "_attAt": "2026-09-14T05:44:43.846746+00:00"
     },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
