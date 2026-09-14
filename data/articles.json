@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T02:15:00.023982+00:00",
-  "count": 2240,
+  "updated": "2026-09-14T02:29:46.951804+00:00",
+  "count": 2241,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1263,6 +1263,27 @@
         }
       ],
       "_attAt": "2026-09-14T02:14:44.049494+00:00"
+    },
+    {
+      "title": "박홍근 장관, 「청년의 현장에서, 미래를 묻고 답하다」",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781515",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "박홍근 기획예산처 장관은 '26년 9월 14일(월)에 고려대학교를 방문하여 청년의 삶의 공간에서 청년과 직접 소통하였습니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551815&tblKey=GMN",
+          "filename": "260914 (보도자료) 청년의 현장에서 미래를 묻고 답하다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551814&tblKey=GMN",
+          "filename": "260914 (보도자료) 청년의 현장에서 미래를 묻고 답하다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-14T02:29:42.898668+00:00"
     },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
