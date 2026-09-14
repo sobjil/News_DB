@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T04:29:54.831701+00:00",
-  "count": 2260,
+  "updated": "2026-09-14T04:44:50.914229+00:00",
+  "count": 2261,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -125,7 +125,8 @@
           "filename": "260914_중기부,_‘상생협력_촉진제도’_유공자_32점_포상_우수사례_발굴_확산.pdf"
         }
       ],
-      "_attAt": "2026-09-13T22:44:42.705435+00:00"
+      "_attAt": "2026-09-14T04:44:44.140676+00:00",
+      "_attRev": 1
     },
     {
       "title": "중기부, 온라인플랫폼 별점제 관련 상생 간담회 개최",
@@ -146,7 +147,8 @@
           "filename": "260912_중기부,_온라인플랫폼_별점제_관련_상생_간담회_개최.pdf"
         }
       ],
-      "_attAt": "2026-09-13T22:44:42.705435+00:00"
+      "_attAt": "2026-09-14T04:44:44.140676+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 긴급도입 의료기기 공급은 안정적으로, AI 허위광고 제재는 엄격하게",
@@ -1670,6 +1672,32 @@
         }
       ],
       "_attAt": "2026-09-14T04:29:46.272458+00:00"
+    },
+    {
+      "title": "아시아·태평양 국세청과 K-세정은 나누고, 국제공조는 더하는 실용외교 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781544",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-09-14T00:00:00+09:00",
+      "description": "아시아·태평양 국세청과 K-세정은 나누고, 국제공조는 더하는 실용외교 추진 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551922&tblKey=GMN",
+          "filename": "260911 국세청, 아시아·태평양 국세청과 K-세정은 나누고, 국제공조는 더하는 실용외교 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551921&tblKey=GMN",
+          "filename": "260911 국세청, 아시아·태평양 국세청과 K-세정은 나누고, 국제공조는 더하는 실용외교 추진.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198551923&tblKey=GMN",
+          "filename": "260911 국세청, 아시아·태평양 국세청과 K-세정은 나누고, 국제공조는 더하는 실용외교 추진.hwp"
+        }
+      ],
+      "_attAt": "2026-09-14T04:44:44.140676+00:00"
     },
     {
       "title": "\"우리 아이 미래 경쟁력\" 영유아 보호자가 묻고, 인지과학이 답하다!",
