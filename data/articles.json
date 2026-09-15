@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T20:59:43.388637+00:00",
-  "count": 2368,
+  "updated": "2026-09-15T21:14:47.909145+00:00",
+  "count": 2369,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "2026년도 국제항공운수권 수시 배분결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781801",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "2026년도 국제항공운수권 수시 배분결과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553088&tblKey=GMN",
+          "filename": "260916(석간) 2026년도 국제항공운수권 수시 배분결과(국제항공과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553089&tblKey=GMN",
+          "filename": "260916(석간) 2026년도 국제항공운수권 수시 배분결과(국제항공과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T21:14:43.292797+00:00"
+    },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781621",
