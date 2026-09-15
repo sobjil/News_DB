@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T05:30:06.179536+00:00",
-  "count": 2375,
+  "updated": "2026-09-15T05:44:54.484885+00:00",
+  "count": 2377,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -384,7 +384,8 @@
           "filename": "[보도참고자료] “부처 간 경계를 넘어”, 정책에 청년을 더한다!.pdf"
         }
       ],
-      "_attAt": "2026-09-14T23:44:44.185400+00:00"
+      "_attAt": "2026-09-15T05:44:45.759781+00:00",
+      "_attRev": 1
     },
     {
       "title": "제178회 방위사업추진위원회 결과",
@@ -396,16 +397,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552309&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552313&tblKey=GMN",
           "filename": "260915 [방사청 보도자료] 제178회 방위사업추진위원회 결과.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552310&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552314&tblKey=GMN",
           "filename": "260915 [방사청 보도자료] 제178회 방위사업추진위원회 결과.pdf"
         }
       ],
-      "_attAt": "2026-09-14T23:44:44.185400+00:00"
+      "_attAt": "2026-09-15T05:44:45.759781+00:00",
+      "_attRev": 1
     },
     {
       "title": "기안84·빠니보틀이 관세청에?… 추석 연휴 맞춤형 올바른 해외여행 성실신고 캠페인 추진",
@@ -1721,6 +1723,37 @@
         }
       ],
       "_attAt": "2026-09-15T05:29:47.001488+00:00"
+    },
+    {
+      "title": "산림청 무주국유림관리소, 가을철 산림 내 불법행위 집중단속 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781725",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "산림청 무주국유림관리소(소장 소방수)는 약초·버섯 등 본격적인 임산물 수확기를 맞아 전문채취꾼 및 등산객의 무분별한 임산물 채취로 인한 산림 피해를 줄이기 위해 오는 9월 14일부터 10월 31일까지 집중 단속을 실시한다고 밝혔다. 이번 집중단속은 자체단속반을 편성하여 약초·버섯 등 임산물 불법채취, 입산통제구역 무단입산, 산림 내 화기 사용 및 취사행위, 쓰레기 및 오물 투기 등 산림 내 불법행위를 중점적으로 점검한다. 특히, 국유림 무상양여 허가 보호협약 마을 외에 채취행위가 없도록 철저한 감독에 나설 예정이다. 산림에서 임산물",
+      "attachments": [],
+      "_attAt": "2026-09-15T05:44:45.759781+00:00"
+    },
+    {
+      "title": "지식재산처, 연예기획사와 인격 표지권(퍼블리시티권) 침해 대응 본격화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781726",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "지식재산처, 연예기획사와 인격 표지권(퍼블리시티권) 침해 대응 본격화 - 9. 17(목), 「퍼블리시티권 보호 협의체 실무회의」 개최…침해사례 공유·접수 - - 인공지능으로 구현한 '디지털 레플리카' 대응방안도 논의 - 지식재산처(처장 김용선)는 9. 17.(목) 16시 30분 한국지식재산센터(서울 강남구) IP Campus에서 국내 주요 연예기획사와 함께 「퍼블리시티권 보호 협의체 실무회의」를 개최한다고 밝혔다.※ 참여 연예기획사: CJ ENM, HYBE, JYP엔터테인먼트, SM엔터테인먼트, 스타쉽엔터테인먼트, YG엔터테인먼트(",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552695&tblKey=GMN",
+          "filename": "303 [지식재산처] 지식재산처, 연예기획사와 인격 표지권(퍼블리시티권) 침해 대응 본격화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552696&tblKey=GMN",
+          "filename": "303 [지식재산처] 지식재산처, 연예기획사와 인격 표지권(퍼블리시티권) 침해 대응 본격화.pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T05:44:45.759781+00:00"
     },
     {
       "title": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
