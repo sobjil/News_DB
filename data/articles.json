@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T03:59:42.762225+00:00",
-  "count": 2356,
+  "updated": "2026-09-15T04:14:52.635495+00:00",
+  "count": 2358,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -142,7 +142,8 @@
           "filename": "(9. 15. (화) 조간 보도자료) 소방청장 기본에 충실하고 현장에 강한 국민이 신뢰하는 119 만들 것.hwpx"
         }
       ],
-      "_attAt": "2026-09-14T22:14:41.936768+00:00"
+      "_attAt": "2026-09-15T04:14:42.137472+00:00",
+      "_attRev": 1
     },
     {
       "title": "119 비긴급 상습신고 체계적 대응기준 마련 소방청,119상황관리 표준 대응 지침(매뉴얼) 개정",
@@ -154,11 +155,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552282&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552286&tblKey=GMN",
           "filename": "(9. 15. (화) 조간 보도자료) 119 비긴급 상습신고 체계적 대응기준 마련 소방청 119상황관리 표준 대응 지침(매뉴얼) 개정.hwpx"
         }
       ],
-      "_attAt": "2026-09-14T22:14:41.936768+00:00"
+      "_attAt": "2026-09-15T04:14:42.137472+00:00",
+      "_attRev": 1
     },
     {
       "title": "신뢰할 수 있는 의학 정보 찾는 법, 온라인으로 배워보세요(9.15.화)",
@@ -170,16 +172,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552280&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552364&tblKey=GMN",
           "filename": "[9.15.보도참고자료] 신뢰할 수 있는 의학 정보 찾는 법, 온라인으로 배워보세요.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552281&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552365&tblKey=GMN",
           "filename": "[9.15.보도참고자료] 신뢰할 수 있는 의학 정보 찾는 법, 온라인으로 배워보세요.pdf"
         }
       ],
-      "_attAt": "2026-09-14T22:14:41.936768+00:00"
+      "_attAt": "2026-09-15T04:14:42.137472+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 수의사 대상 의료용 마약류 안전사용 교육 강화",
@@ -1311,6 +1314,48 @@
         }
       ],
       "_attAt": "2026-09-15T03:14:44.463016+00:00"
+    },
+    {
+      "title": "송전망 건설, 주민 피해는 최소화… 주민 지원은 확대하고 주민 소통은 늘린다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781699",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "▷ 기후에너지환경부, '송전망 건설 수용성 제고방안' 국무회의 보고▷ 선로 통합으로 신설 철탑 최대 40% 감소, 주민 밀집지역 지중화 확대 ▷ 국가기간망 주변 '계통햇빛소득마을' 조성, 주민 소득 지원 기후에너지환경부(장관 김성환)는 9월 15일 오전, 김성환 장관이 '송전망 건설 수용성 제고방안'을 국무회의에 보고한다고 밝혔다.반도체, 데이터센터 등 첨단산업을 중심으로 전력수요가 빠르게 증가하고 재생에너지 보급도 확대되면서 적기에 전력망을 확충하는 것이 국가적 주요 과제이다. 이를 위해 송전망 주변지역 주민의 수용성을 높이는 것",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552590&tblKey=GMN",
+          "filename": "송전망 건설 주민 피해는 최소화… 주민 지원은 확대하고 주민소통은 늘린다(보도자료)(전력망 9.15).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552591&tblKey=GMN",
+          "filename": "송전망 건설 주민 피해는 최소화… 주민 지원은 확대하고 주민소통은 늘린다(보도자료)(전력망 9.15).pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T04:14:42.137472+00:00"
+    },
+    {
+      "title": "기획예산처, 추석 맞이 사회복지시설 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781698",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "기획예산처는 추석을 맞아 충남 부여군 소재 아동복지시설인 '삼신늘푸른동산'을 방문하였습니다. 자세한 내용은 붙임파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552589&tblKey=GMN",
+          "filename": "(보도자료) 추석명절 맞이 사회복지시설 방문..hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552588&tblKey=GMN",
+          "filename": "(보도자료) 추석명절 맞이 사회복지시설 방문..pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T04:14:42.137472+00:00"
     },
     {
       "title": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
