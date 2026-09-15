@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T00:30:45.187722+00:00",
-  "count": 2321,
+  "updated": "2026-09-15T00:44:50.700967+00:00",
+  "count": 2323,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -551,6 +551,48 @@
         }
       ],
       "_attAt": "2026-09-15T00:30:18.484083+00:00"
+    },
+    {
+      "title": "과장급 인사발령(2026.9.15.자)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781649",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "국립평화통일민주교육원시민교육협력과장서기관진 충 모국립평화통일민주교육원스마트교육팀장서기관이 지 연북한인권기록센터 조사과장서기관황 의 태 붙임 : 인사 대상자 약력",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552359&tblKey=GMN",
+          "filename": "260915 (보도자료) 과장급 인사발령(2026.9.15.자) 진충모 이지연 황의태.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552358&tblKey=GMN",
+          "filename": "260915 (보도자료) 과장급 인사발령(2026.9.15.자) 진충모 이지연 황의태.hwp"
+        }
+      ],
+      "_attAt": "2026-09-15T00:44:43.441450+00:00"
+    },
+    {
+      "title": "금융위원회, 제5차 「금융업권 생산적 금융협의체」 개최 - 지주사, 보험사, 증권사, 정책금융기관과 생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781647",
+      "agency": "금융위원회",
+      "agencyCode": "fsc",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "금융위원회, 제5차「금융업권 생산적 금융협의체」 개최- 지주사, 보험사, 증권사, 정책금융기관과생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의 - 【관련 국정과제】58-3. 생산적 분야로의 자금공급 유도를 위한 건전성 규제 개편 【대통령 업무보고 과제】생산적 금융으로의 대전환Ⅰ. 배경 및 회의개요 금융위원회는 생산적 금융 대전환 과정에서의 소통과 점검을 위한「생산적 금융 협의체｣ 5차 회의를 개최하였다. 금융위원회는 「생산적 금융 대전환 회의」를 통해 주요 정책을 발표하는 한편, 실제 생산적 금융을 실행하는 금융권의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552348&tblKey=GMN",
+          "filename": "260914(보도자료) 금융위원회 제5차 「금융업권 생산적 금융협의체」 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552349&tblKey=GMN",
+          "filename": "260914(보도자료) 금융위원회 제5차 「금융업권 생산적 금융협의체」 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T00:44:43.441450+00:00"
     },
     {
       "title": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
