@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T08:15:09.033023+00:00",
-  "count": 2401,
+  "updated": "2026-09-15T08:29:53.782123+00:00",
+  "count": 2403,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1104,16 +1104,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552505&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552525&tblKey=GMN",
           "filename": "0915 신라 왕성 달빛 아래 펼쳐지는 열 번째 이야기, ‘빛의 궁궐 월성’ 개최(본문).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552504&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552524&tblKey=GMN",
           "filename": "0915 신라 왕성 달빛 아래 펼쳐지는 열 번째 이야기, ‘빛의 궁궐 월성’ 개최(붙임).pdf"
         }
       ],
-      "_attAt": "2026-09-15T02:29:41.950395+00:00"
+      "_attAt": "2026-09-15T08:29:42.781051+00:00",
+      "_attRev": 1
     },
     {
       "title": "고고학 게임으로 배우는 발굴의 원리",
@@ -1125,16 +1126,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552501&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552623&tblKey=GMN",
           "filename": "0915 고고학 게임으로 배우는 발굴의 원리(본문).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198552500&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552622&tblKey=GMN",
           "filename": "0915 고고학 게임으로 배우는 발굴의 원리(붙임).pdf"
         }
       ],
-      "_attAt": "2026-09-15T02:29:41.950395+00:00"
+      "_attAt": "2026-09-15T08:29:42.781051+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026 박물관·미술관 박람회에서 만나는 국립고궁박물관",
@@ -1155,7 +1157,8 @@
           "filename": "0915 2026 박물관·미술관 박람회에서 만나는 국립고궁박물관(붙임).pdf"
         }
       ],
-      "_attAt": "2026-09-15T02:29:41.950395+00:00"
+      "_attAt": "2026-09-15T08:29:42.781051+00:00",
+      "_attRev": 1
     },
     {
       "title": "함께 만드는 안전한 학교 문화, 학교폭력 예방 어울림 더하기 선도학교 운영",
@@ -2319,6 +2322,48 @@
         }
       ],
       "_attAt": "2026-09-15T08:14:43.448951+00:00"
+    },
+    {
+      "title": "\"기술로 꿈을 잇고, 도전으로 미래를 연다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781761",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "- 제43회 전국장애인기능경기대회, 부산에서 개최- 477명 시·도 대표 선수가 41개 직종에서 4일간(9.15.~9.18.) 기량 겨뤄- 2027년 제11회 국제장애인기능올림픽대회 국가대표 선발전도 함께 진행 제43회 전국장애인기능경기대회가 9월 15일부터 18일까지 4일간 부산광역시 관내 3개 경기장(벡스코, 폴리텍 부산캠퍼스, 부산기계공업고등학교) 에서 개최된다. * (개회식) 9.15.(화) 16:00 벡스코 제2전시장, (폐회식) 9.18.(금) 11:00 벡스코 제2전시장 * (표어) 2026 Beautiful Chall",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552891&tblKey=GMN",
+          "filename": "260915_보도자료_제43회 전국장애인기능경기대회 개회식.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552892&tblKey=GMN",
+          "filename": "260915_보도자료_제43회 전국장애인기능경기대회 개회식.pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T08:29:42.781051+00:00"
+    },
+    {
+      "title": "청년의 일자리, 청년에게 직접 듣는다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781760",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-15T00:00:00+09:00",
+      "description": "-고용노동부·양대노총, 「청년 노동 타운홀 미팅」 개최- 고용노동부(장관 김영훈)는 9월 15일(화) 14시, 서울 페럼타워에서 한국노총(김동명 위원장), 민주노총(양경수 위원장)과 함께「청년 노동 타운홀 미팅」을 개최했다. 그간 고용노동부는 노정협의체*를 통해 양대노총과 주요 노동 현안에 대해 소통을 이어왔다. 이번 타운홀 미팅도 청년 고용의 어려움이 지속되는 상황에서, 현장 청년들의 목소리를 직접 듣자는데 정부와 노동계가 뜻을 모아 마련한 자리다. * 한국노총·민주노총과 각각 부대표급 운영협의체와 실장급 실무협의체 구성·운영 이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552890&tblKey=GMN",
+          "filename": "260915_보도자료_청년 노동 타운홀 미팅.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198552889&tblKey=GMN",
+          "filename": "260915_보도자료_청년 노동 타운홀 미팅.pdf"
+        }
+      ],
+      "_attAt": "2026-09-15T08:29:42.781051+00:00"
     },
     {
       "title": "'제6회 디지털 지적의 날' 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
