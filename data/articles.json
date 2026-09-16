@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T06:20:53.480400+00:00",
-  "count": 2472,
+  "updated": "2026-09-16T06:35:53.138972+00:00",
+  "count": 2476,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -475,16 +475,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553159&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553191&tblKey=GMN",
           "filename": "260916 관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553160&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553192&tblKey=GMN",
           "filename": "260916 관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개.pdf"
         }
       ],
-      "_attAt": "2026-09-16T00:29:43.412405+00:00"
+      "_attAt": "2026-09-16T06:35:42.243831+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황",
@@ -500,7 +501,8 @@
           "filename": "[교육부 09-15(화) 보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황.hwpx"
         }
       ],
-      "_attAt": "2026-09-16T00:29:43.412405+00:00"
+      "_attAt": "2026-09-16T06:35:42.243831+00:00",
+      "_attRev": 1
     },
     {
       "title": "개정 농지법과 농지 전수조사 관련 사실관계 설명",
@@ -2221,6 +2223,90 @@
         }
       ],
       "_attAt": "2026-09-16T06:05:41.415748+00:00"
+    },
+    {
+      "title": "김종구 농림축산식품부 차관, 추석 명절을 맞이하여 사회복지시설 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781943",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "김종구 농림축산식품부 차관은 추석 명절을 앞두고 9월 16일(수) 세종특별자치시 소재 영명보육원을 방문하여 관계자와 원생들을 격려하고 쌀과 과일 등 우리 농산물을 전달하며 명절 온기를 나누었다. 김종구 차관은 헌신적인 자세로 아이들의 미래를 위해 항상 최선을 다하고 있는 관계자들의 노력에 깊은 감사를 표하며, \"아이들이 밝고 건강하게 성장할 수 있도록 따뜻한 손길과 사랑으로 보살펴 달라\"라고 당부하며, \"농림축산식품부도 지속적으로 동행하겠다\"라고 강조했다. 농림축산식품부는 2007년부터 직원들이 자발적으로 참여한 농식품 가족 희망 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553848&tblKey=GMN",
+          "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553847&tblKey=GMN",
+          "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553849&tblKey=GMN",
+          "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).hwp"
+        }
+      ],
+      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+    },
+    {
+      "title": "2027년 정부안에서 대중음악 지원 예산 약 40% 증가, 인디음악, 중소 기획사, 지역 공연 집중 육성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781944",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "2027년 정부안에서 대중음악 지원 예산 약 40% 증가, 인디음악, 중소 기획사, 지역 공연 집중 육성 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0916]문체부보도자료-문화예술정책자문위원회 대중음악 분과 제4차 회의 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553851&tblKey=GMN",
+          "filename": "[0916]문체부보도자료-문화예술정책자문위원회 대중음악 분과 제4차 회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553850&tblKey=GMN",
+          "filename": "[0916]문체부보도자료-문화예술정책자문위원회 대중음악 분과 제4차 회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+    },
+    {
+      "title": "한-튀르키예 과학기술외교 정책협의 개최(9.15.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781941",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "한국과 튀르키예 간 국장급 과학기술외교 정책협의가 9.15(화) 튀르키예 앙카라에서 개최되었다.※ 참석자 : (한) 황준식 외교부 기후환경과학외교국장 및 외교부 주튀르키예 대사관 관계자 / (튀) 하미 악소이(Hami Aksoy) 외교부 과학기술정책국장 및 외교부, 산업기술부, 과학기술연구협의회 관계자 작년 11월 양국간 정상회담 및 올해 6월 외교장관 회담의 후속조치 차원에서 열린 금번 정책협의에서 양측은 각국의 과학기술외교정책 추진 동향을 공유하는 한편, 유엔 등 다자기구에서의 인공지능(AI) 거버넌스 논의 대응, 차세대 과학기",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553827&tblKey=GMN",
+          "filename": "[26-745](보도자료) 한-튀르키예 과학기술외교 정책협의 개최(9.15.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553828&tblKey=GMN",
+          "filename": "[26-745](보도자료) 한-튀르키예 과학기술외교 정책협의 개최(9.15.).pdf"
+        }
+      ],
+      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+    },
+    {
+      "title": "구미국유림관리소, \"복잡한 서류 덜고 산림경영 막힘없이!\" 산지 규제 완화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781940",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "남부지방산림청 구미국유림관리소(소장 박소영)는 최근 개정·시행된 산지관리법 시행에 따라 임업인 불편 해소와 부담완화를 위한 3대 현장 행정절차 간소화를 추진한다고 밝혔다.주요 내용으로 작업로·운반로 개설 중 동일필지 내 노선 변경 시 기존의 사전 신고 절차를 없애고 최종 복구설계서 제출 때 변경도면만 내도록 개선했다. 이로써 공사중단에 따른 장비 임차료 손실과 공기 지연이 해소될 전망이다.또한 버섯재배사·농업용 창고·산림경영관리사 등 간이시설의 일시사용 기간을 면적과 관계없이 최대 10년까지 일괄 부여해, 3~5년마다 반복되던 연장",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553821&tblKey=GMN",
+          "filename": "보도자료(구미국유림관리소_관리팀).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-16T06:35:42.243831+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
