@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T00:14:53.871740+00:00",
-  "count": 2388,
+  "updated": "2026-09-16T00:29:52.047918+00:00",
+  "count": 2390,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -445,6 +445,43 @@
         }
       ],
       "_attAt": "2026-09-16T00:14:41.609978+00:00"
+    },
+    {
+      "title": "관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781823",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개- 폴리실리콘 및 파생제품, 무인항공시스템 및 부품 품목관세 추가 - 미국 품목번호(HTS)-한국 품목번호(HSK) 10단위 연계로 대상 쉽게 확인 □ 관세청은 대미 수출기업 지원을 위해 미국이 최근 품목관세 대상으로 발표한 폴리실리콘 및 파생제품, 무인항공시스템 및 부품에 대한 한-미 품목번호 연계표를 9월 16일(수) 관세청 누리집*을 통해 공개하였다. * 관세청 자유무역협정(FTA) 포털(https://www.customs.go.kr/ftaportal",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553159&tblKey=GMN",
+          "filename": "260916 관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553160&tblKey=GMN",
+          "filename": "260916 관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개.pdf"
+        }
+      ],
+      "_attAt": "2026-09-16T00:29:43.412405+00:00"
+    },
+    {
+      "title": "[보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781824",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "[보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553167&tblKey=GMN",
+          "filename": "[교육부 09-15(화) 보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-16T00:29:43.412405+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
@@ -2222,8 +2259,8 @@
           "filename": "260915(1600) 성매매 범죄 이해와 역량강화 특강 및 간담회.pdf"
         }
       ],
-      "_attAt": "2026-09-15T18:14:42.401187+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-16T00:29:43.412405+00:00",
+      "_attRev": 3
     },
     {
       "title": "(보도참고) 사회적협동조합에 대해서는 적절한 관리·감독이 이루어지고 있으나, 향후 투명성 제고를 위한 방안을 지속 강구하겠습니다",
@@ -2244,8 +2281,8 @@
           "filename": "260915 (보도참고) 동아일보_협동조합에 가족 허위채용★.pdf"
         }
       ],
-      "_attAt": "2026-09-15T18:14:42.401187+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-16T00:29:43.412405+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"풍성한 추석 명절 되세요\" 이웃 나눔 실천",
