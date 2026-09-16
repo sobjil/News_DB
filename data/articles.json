@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T12:35:53.348896+00:00",
-  "count": 2515,
+  "updated": "2026-09-16T12:50:55.576203+00:00",
+  "count": 2516,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -484,8 +484,8 @@
           "filename": "260916 관세청, 8월 추가 발표된 미(美) 품목관세 대상 한-미 품목번호 연계표 공개.pdf"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 2
     },
     {
       "title": "[보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황",
@@ -501,8 +501,8 @@
           "filename": "[교육부 09-15(화) 보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황.hwpx"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 2
     },
     {
       "title": "개정 농지법과 농지 전수조사 관련 사실관계 설명",
@@ -2316,21 +2316,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553848&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554050&tblKey=GMN",
           "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553847&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554049&tblKey=GMN",
           "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553849&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554051&tblKey=GMN",
           "filename": "(운영지원과) 김종구 농림축산식품부 차관 추석 명절을 맞이하여 사회복지시설 방문(9.16. 15시 30분부터).hwp"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 1
     },
     {
       "title": "2027년 정부안에서 대중음악 지원 예산 약 40% 증가, 인디음악, 중소 기획사, 지역 공연 집중 육성",
@@ -2351,7 +2352,8 @@
           "filename": "[0916]문체부보도자료-문화예술정책자문위원회 대중음악 분과 제4차 회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 1
     },
     {
       "title": "한-튀르키예 과학기술외교 정책협의 개최(9.15.)",
@@ -2372,7 +2374,8 @@
           "filename": "[26-745](보도자료) 한-튀르키예 과학기술외교 정책협의 개최(9.15.).pdf"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 1
     },
     {
       "title": "구미국유림관리소, \"복잡한 서류 덜고 산림경영 막힘없이!\" 산지 규제 완화 추진",
@@ -2384,11 +2387,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553821&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553854&tblKey=GMN",
           "filename": "보도자료(구미국유림관리소_관리팀).hwpx"
         }
       ],
-      "_attAt": "2026-09-16T06:35:42.243831+00:00"
+      "_attAt": "2026-09-16T12:50:41.828441+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"주민 의견 듣고 대안도 함께 마련해\"… 서울 등촌1단지 공공임대주택 현장 방문",
@@ -3248,6 +3252,22 @@
         }
       ],
       "_attAt": "2026-09-16T12:35:41.451939+00:00"
+    },
+    {
+      "title": "산림탄소 감축실적 반영 위한 국내외 전문가 자문회의 개최 - 국립산림과학원, NDC 달성을 위한 국제감축실적 확보 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782039",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "산림청 국립산림과학원(원장 김용관)은 16일(수) 산림분야 국제감축사업의 감축실적을 우리나라 국가 온실가스 감축목표(NDC)에 차질 없이 반영하기 위해 'ITMOs 전 과정 체크리스트'를 검토하는 국내외 관계기관 전문가 자문회의를 개최했다고 밝혔다.ITMOs(국제적으로 이전 가능한 감축결과)는 파리협정 제6조에 따라 한 국가에서 발생한 온실가스 감축실적을 다른 국가의 NDC 달성에 활용할 수 있도록 이전하는 제도다.이날 전문가들은 체크리스트의 ▲사업 준비(추진기반 마련) ▲사업 등록(타당성조사, 사업계획서 등) ▲사업 이행(모니터링",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554398&tblKey=GMN",
+          "filename": "(국립산림과학원 보도자료)산림탄소 감축실적 반영 위한 국내외 전문가 자문회의 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-16T12:50:41.828441+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
