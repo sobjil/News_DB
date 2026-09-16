@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T07:35:55.887890+00:00",
-  "count": 2489,
+  "updated": "2026-09-16T07:50:57.125326+00:00",
+  "count": 2491,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -844,16 +844,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553271&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553407&tblKey=GMN",
           "filename": "기후테크로 탈탄소 세상 향한 도약… 2026 기후산업국제박람회 개막(보도자료)(에너지안전 9.16).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553272&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553408&tblKey=GMN",
           "filename": "기후테크로 탈탄소 세상 향한 도약… 2026 기후산업국제박람회 개막(보도자료)(에너지안전 9.16).pdf"
         }
       ],
-      "_attAt": "2026-09-16T01:44:42.068011+00:00"
+      "_attAt": "2026-09-16T07:50:43.678243+00:00",
+      "_attRev": 1
     },
     {
       "title": "한국과 투르크메니스탄, 문화교류 확대에 뜻 모아",
@@ -874,7 +875,8 @@
           "filename": "[0916]문체부보도자료-최휘영 장관과 투르크메니스탄 문화부 장관 면담.pdf"
         }
       ],
-      "_attAt": "2026-09-16T01:44:42.068011+00:00"
+      "_attAt": "2026-09-16T07:50:43.678243+00:00",
+      "_attRev": 1
     },
     {
       "title": "덕수궁에서 다시 만나는 1901년 대한제국 외교의 현장",
@@ -886,16 +888,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553265&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553642&tblKey=GMN",
           "filename": "0916 덕수궁에서 다시 만나는 1901년 대한제국 외교의 현장(본문,붙임1).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553264&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553641&tblKey=GMN",
           "filename": "0916 덕수궁에서 다시 만나는 1901년 대한제국 외교의 현장(붙임2,3).pdf"
         }
       ],
-      "_attAt": "2026-09-16T01:44:42.068011+00:00"
+      "_attAt": "2026-09-16T07:50:43.678243+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, 카자흐스탄과 과학기술 인재양성 프레임워크 체결",
@@ -907,11 +910,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553250&tblKey=GMN",
-          "filename": "260915 즉시 (보도참고) 과기정통부, 카자흐스탄과 과학기술 인재양성 프레임워크 체결 (1).hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198553763&tblKey=GMN",
+          "filename": "260915 즉시 (보도참고) 과기정통부, 카자흐스탄과 과학기술 인재양성 프레임워크 체결.hwpx"
         }
       ],
-      "_attAt": "2026-09-16T01:44:42.068011+00:00"
+      "_attAt": "2026-09-16T07:50:43.678243+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청 물품구매('26.9.21. ~ '26.9.30.) 입찰동향",
@@ -932,7 +936,8 @@
           "filename": "260916_주간입찰동향(물품).pdf"
         }
       ],
-      "_attAt": "2026-09-16T01:44:42.068011+00:00"
+      "_attAt": "2026-09-16T07:50:43.678243+00:00",
+      "_attRev": 1
     },
     {
       "title": "영주국유림관리소, 추석 전·후 국유임도 개방 - 추석을 맞이하여 벌초, 성묘객 등의 국민 편의 제공을 위한 국가임도 개방 -",
@@ -2610,6 +2615,53 @@
         }
       ],
       "_attAt": "2026-09-16T07:35:41.013474+00:00"
+    },
+    {
+      "title": "산림청, 사찰림의 생태적 가치 보전과 지속가능한 활용방안 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781968",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "산림청, 사찰림의 생태적 가치 보전과 지속가능한 활용방안 모색 산림청(청장 박은식)은 대한불교조계종 사찰림연구소와 함께 '사찰림 기반 산림복지 활성화 방안 포럼'을 통해 사찰림의 생태적 가치를 보전하고 지속가능하게 활용하기 위한 방안을 논의했다고 16일 밝혔다. 이날 포럼은 산림청을 비롯해 국립산림과학원, 국립공원공단 및 관련분야 전문가 등이 참여한 가운데 서울특별시 종로구 한국불교역사문화기념관에서 개최됐으며, 사찰림이 지닌 생태·문화적 가치를 바탕으로 산림생태 자원으로서의 활용 가능성을 모색하기 위해 마련됐다. 사찰림은 오랜 기간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554062&tblKey=GMN",
+          "filename": "(260916)보도자료-산림청， 사찰림의 생태적 가치 보전과 지속가능한 활용방안 모색.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554064&tblKey=GMN",
+          "filename": "(260916)보도자료-산림청， 사찰림의 생태적 가치 보전과 지속가능한 활용방안 모색.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554063&tblKey=GMN",
+          "filename": "(260916)보도자료-산림청， 사찰림의 생태적 가치 보전과 지속가능한 활용방안 모색.hwp"
+        }
+      ],
+      "_attAt": "2026-09-16T07:50:43.678243+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제23차 국가테러대책위원회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781969",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "한 총리, \"더욱 복잡·지능화되는 테러,선제 대비토록 신속대응체계 구축 필요\"- 한성숙 국무총리, 제23차 국가테러대책위원회 주재- '26년 상반기 테러정세 평가 및 하반기 국가대테러활동 추진계획 점검- 테러방지법 및 혁신계획 이행상황 논의□ 정부는 9월 16일(수) 오후 2시, 정부서울청사에서 제23차 국가테러대책위원회를 개최하여, ｢'26년 하반기 국가대테러활동 추진계획｣ 등 6개 안건을 의결하고 논의하였다.* (심의안건) ① 2026년 하반기 국가대테러활동 추진계획② 2027년 세계청년대회 전국단위 국가중요행사 지정 ③ 국가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554068&tblKey=GMN",
+          "filename": "260916 제23차 국가테러대책위원회 보도자료_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554069&tblKey=GMN",
+          "filename": "260916 제23차 국가테러대책위원회 보도자료_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-09-16T07:50:43.678243+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
