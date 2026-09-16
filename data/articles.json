@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T04:05:51.068922+00:00",
-  "count": 2448,
+  "updated": "2026-09-16T04:20:51.308756+00:00",
+  "count": 2449,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -94,11 +94,12 @@
       "attachments": [
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198553091&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553096&tblKey=GMN",
           "filename": "(9. 16. (수) 조간 보도자료) 국립소방연구원%2C 소방대원의 온열질환 착용 가능한 감지기(웨어러블 센서)로 미리 잡는다.hwp"
         }
       ],
-      "_attAt": "2026-09-15T22:14:41.676462+00:00"
+      "_attAt": "2026-09-16T04:20:42.416942+00:00",
+      "_attRev": 1
     },
     {
       "title": "국방부장관 - 일본 방위대신 화상통화 실시",
@@ -114,7 +115,8 @@
           "filename": "260915 [국방부 보도자료] 국방부장관 - 일본 방위대신 화상통화 실시_제공.hwpx"
         }
       ],
-      "_attAt": "2026-09-15T22:14:41.676462+00:00"
+      "_attAt": "2026-09-16T04:20:42.416942+00:00",
+      "_attRev": 1
     },
     {
       "title": "'달리는 국민신문고', 태백·영주·진천 찾아 주민 목소리 듣는다",
@@ -1694,6 +1696,27 @@
         }
       ],
       "_attAt": "2026-09-16T04:05:47.459156+00:00"
+    },
+    {
+      "title": "항공우주부품고도화기술개발 사업 성과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781903",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "- 9월 16일(수) 제주에서 사업 성과공유회 개최, 성과 활용·확산 방안 논의 - 2032년까지 매출 1,027억원 전망, 신규 수주 계약 957억원 체결 【관련 국정과제】 28. 세계를 선도할 넥스트(NEXT) 전략기술 육성 우주항공청(청장 오태석)은 9월 16일(수) 롯데호텔 제주에서 '항공우주부품공정고도화기술개발' 사업(R&D)('24~'28년, 총사업비 185억원)의 성과공유회를 개최했다. 항공우주부품공정고도화기술개발 사업은 국내 항공 제조기업의 수출역량을 높이고, 항공산업 생태계를 강화하기 위한 사업이다. 항공기에 적용되",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553503&tblKey=GMN",
+          "filename": "260917(조간) 항공우주부품고도화기술개발 사업 성과 발표.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553504&tblKey=GMN",
+          "filename": "260917(조간) 항공우주부품고도화기술개발 사업 성과 발표.hwp"
+        }
+      ],
+      "_attAt": "2026-09-16T04:20:42.416942+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
