@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T02:36:04.007654+00:00",
-  "count": 2429,
+  "updated": "2026-09-16T02:50:49.158570+00:00",
+  "count": 2430,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1299,6 +1299,27 @@
         }
       ],
       "_attAt": "2026-09-16T02:35:43.367296+00:00"
+    },
+    {
+      "title": "추석 연휴 범정부 안전관리 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781878",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "- 행정안전부, 관계부처 합동 추석 연휴 안전관리대책 추진, 24시간 상황관리체계 유지- 지역축제·전통시장 사전점검, AI 기반 교통사고 주의 도로구간 50곳 집중 안내- 화재·범죄 예방과 응급진료체계 유지, 감염병·가축전염병 확산 방지 행정안전부(장관 윤호중)는 추석 연휴(9.24.~9.27., 4일간) 국민이 안전하고 편안한 명절을 보낼 수 있도록 중앙 및 지방정부와 함께 '추석 연휴 안전관리대책'을 추진한다고 밝혔다. 올해 추석 연휴는 4일로 예년보다 짧아 고속도로 통행과 여객선 이용이 단기간에 집중될 것으로 예상된다. 귀성으",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553415&tblKey=GMN",
+          "filename": "260916 (11시30분) 추석 연휴 범정부 안전관리 총력 대응(안전정책총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198553416&tblKey=GMN",
+          "filename": "260916 (11시30분) 추석 연휴 범정부 안전관리 총력 대응(안전정책총괄과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-16T02:50:44.998994+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
