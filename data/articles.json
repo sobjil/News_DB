@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T12:06:00.097158+00:00",
-  "count": 2513,
+  "updated": "2026-09-16T12:20:46.892527+00:00",
+  "count": 2514,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3206,6 +3206,32 @@
         }
       ],
       "_attAt": "2026-09-16T10:05:42.204765+00:00"
+    },
+    {
+      "title": "다국적제재모니터링팀(MSMT), 북한 해외 노동자 파견 관련 보고서 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782035",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-16T00:00:00+09:00",
+      "description": "다국적제재모니터링팀(MSMT)은 9.16.(수) 「북한의 해외 노동자 파견」을 주제로 한 보고서를 발간하고, 이에 대한 참여국 공동성명을 발표했다. 이번에 세 번째로 발간되는 MSMT 보고서는 북한의 해외 노동자 파견을 통한 불법 외화벌이 실태를 다루고 있다.※ 보고서 전문은 https://msmt.info 에 공개 보고서에 따르면 현재 북한 노동자 35,600~101,280명이 최소 17개국에 체류하면서, '25년 기준 4.5~8억 불(한화 약 6천억~1조7백억 원) 규모의 수익을 창출했다. 북한의 주요 기관 주도로 해외 파견되는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554380&tblKey=GMN",
+          "filename": "[26-748](보도자료) 다국적제재모니터링팀(MSMT), 북한 해외 노동자 파견 관련 보고서 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554381&tblKey=GMN",
+          "filename": "[26-748](보도자료) 다국적제재모니터링팀(MSMT), 북한 해외 노동자 파견 관련 보고서 발간.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554383&tblKey=GMN",
+          "filename": "(첨부2) 참여국 공동성명 비공식 번역본.hwp"
+        }
+      ],
+      "_attAt": "2026-09-16T12:20:42.779664+00:00"
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
