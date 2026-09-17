@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T05:03:46.707092+00:00",
-  "count": 2544,
+  "updated": "2026-09-17T05:18:53.083361+00:00",
+  "count": 2547,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -208,7 +208,8 @@
           "filename": "[0917]문체부보도자료-2026 월드 웹툰 어워즈 본상 후보작 독자 투표 진행.pdf"
         }
       ],
-      "_attAt": "2026-09-16T23:05:42.669563+00:00"
+      "_attAt": "2026-09-17T05:18:43.938386+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청 용역분야('26.9. 21.~'26. 9. 30.) 입찰동향",
@@ -1888,6 +1889,74 @@
         }
       ],
       "_attAt": "2026-09-17T05:03:42.051071+00:00"
+    },
+    {
+      "title": "\"경찰개혁의 길, 국민에게 듣는다\" 경찰청, 「경찰개혁 국민경청회」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782167",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "\"경찰개혁의 길, 국민에게 듣는다\" 경찰청, 「경찰개혁 국민경청회」 개최 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554915&tblKey=GMN",
+          "filename": "260917(1400) 경찰개혁 국민경청회 개최(개혁제도개선)-1.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554916&tblKey=GMN",
+          "filename": "260917(1400) 경찰개혁 국민경청회 개최(개혁제도개선)-1.pdf"
+        }
+      ],
+      "_attAt": "2026-09-17T05:18:43.938386+00:00"
+    },
+    {
+      "title": "연극·클래식·국악·무용 현장 목소리로 2027년 정부 예산안 지원 방향 설계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782166",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "연극·클래식·국악·무용 현장 목소리로 2027년 정부 예산안 지원 방향 설계 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0917]문체부보도자료-문화예술정책자문위원회 연극, 기초예술 분과 회의 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554912&tblKey=GMN",
+          "filename": "[0917]문체부보도자료-문화예술정책자문위원회 연극, 기초예술 분과 회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554911&tblKey=GMN",
+          "filename": "[0917]문체부보도자료-문화예술정책자문위원회 연극, 기초예술 분과 회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-17T05:18:43.938386+00:00"
+    },
+    {
+      "title": "송미령 장관, 전통시장 환급행사 현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782165",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "송미령 농림축산식품부(이하 '농식품부') 장관은 9월 17일(목) 서울 신영시장을 찾아 추석 성수품 수급 동향과 전통시장 온누리상품권 환급행사(이하 '환급행사') 현장을 점검하였다. 농식품부는 9월 3일(목)부터 9월 30일(수)까지 1,490억 원의 예산을 투입해 대형마트, 중소형마트, 친환경매장, 로컬푸드직매장, 온라인몰 등에서 추석 성수품을 포함하여 국산 신선 농축산물 전 품목을 대상으로 최대 40% 할인을 지원하고 있다. 특히, 전국 300개 전통시장에서는 9월 16일(수)부터 9월 20일(일)까지 국산 농축산물 구매금액의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554909&tblKey=GMN",
+          "filename": "(유통소비정책관-농식품시장관리과) 송미령 장관 전통시장 환급행사 현장 방문(9. 17. 14시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554908&tblKey=GMN",
+          "filename": "(유통소비정책관-농식품시장관리과) 송미령 장관 전통시장 환급행사 현장 방문(9. 17. 14시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554910&tblKey=GMN",
+          "filename": "(유통소비정책관-농식품시장관리과) 송미령 장관 전통시장 환급행사 현장 방문(9. 17. 14시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-09-17T05:18:43.938386+00:00"
     },
     {
       "title": "2026년도 국제항공운수권 수시 배분결과",
