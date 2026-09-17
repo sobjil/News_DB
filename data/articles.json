@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T04:20:50.984111+00:00",
-  "count": 2537,
+  "updated": "2026-09-17T04:35:50.944581+00:00",
+  "count": 2538,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -143,11 +143,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554449&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554450&tblKey=GMN",
           "filename": "(9. 17. (목) 조간 보도자료) 소방 자료(데이터)로 그리는 더 안전한 일상 국민안전 참신한 생각(아이디어) 한자리에.hwpx"
         }
       ],
-      "_attAt": "2026-09-16T22:20:42.580958+00:00"
+      "_attAt": "2026-09-17T04:35:42.441251+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"비응급 신고는 줄이고 중증환자는 신속하게\"... 소방청, 올바른 119구급차 이용문화 확산",
@@ -163,7 +164,8 @@
           "filename": "(9. 17. (목) 조간 보도자료) %27비응급 신고는 줄이고 중증환자는 신속하게%27 소방청 올바른 119구급차 이용문화 확산.hwpx"
         }
       ],
-      "_attAt": "2026-09-16T22:20:42.580958+00:00"
+      "_attAt": "2026-09-17T04:35:42.441251+00:00",
+      "_attRev": 1
     },
     {
       "title": "의약품 판촉영업자 관리 강화해 영업 책임성과 투명성 높인다",
@@ -1738,6 +1740,27 @@
         }
       ],
       "_attAt": "2026-09-17T04:20:41.655164+00:00"
+    },
+    {
+      "title": "국민통합위원회, 문학공모전 수상작 전시로 '국민통합 릴레이' 시작",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782155",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554867&tblKey=GMN",
+          "filename": "국민통합위원회, 문학공모전 수상작 전시로 &#039;국민통합 릴레이&#039; 시작.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554866&tblKey=GMN",
+          "filename": "국민통합위원회, 문학공모전 수상작 전시로 &#039;국민통합 릴레이&#039; 시작.hwp"
+        }
+      ],
+      "_attAt": "2026-09-17T04:35:42.441251+00:00"
     },
     {
       "title": "2026년도 국제항공운수권 수시 배분결과",
@@ -4922,8 +4945,8 @@
           "filename": "[26-747](보도자료) 외교 공공데이터와 AI의 만남, 국민의 아이디어로 혁신의 결실을 맺다.pdf"
         }
       ],
-      "_attAt": "2026-09-16T22:20:42.580958+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T04:35:42.441251+00:00",
+      "_attRev": 3
     },
     {
       "title": "다국적제재모니터링팀(MSMT), 북한 해외 노동자 파견 관련 보고서 발간",
