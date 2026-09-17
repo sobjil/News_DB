@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T06:18:57.629606+00:00",
-  "count": 2558,
+  "updated": "2026-09-17T06:33:59.802292+00:00",
+  "count": 2560,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -441,11 +441,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554487&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554513&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 추석 맞이 도심 속 `숲푸드 팝업스토어` 전격 개장.hwpx"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "한미 에너지 안보 동맹 강화… 전기화 시대 '전력·원전·저탄소 기술'로 확장",
@@ -457,16 +458,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554499&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554535&tblKey=GMN",
           "filename": "한미 에너지 안보 동맹 강화… 전기화 시대 ‘전력·원전·저탄소 기술’로 확장(보도자료)(국제협력 9.17).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554498&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554534&tblKey=GMN",
           "filename": "한미 에너지 안보 동맹 강화… 전기화 시대 ‘전력·원전·저탄소 기술’로 확장(보도자료)(국제협력 9.17).pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처-양구군, 국가생약자원센터 협력 기반 강화 위해 '맞손'",
@@ -487,7 +489,8 @@
           "filename": "[26.9.17.(목) 보도참고자료] 식약처-양구군, 국가생약자원센터 협력 기반 강화 위해 &amp;apos;맞손&amp;apos;.pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 건강기능식품은 붉은색 도안과 체크를 확인하세요!!",
@@ -508,7 +511,8 @@
           "filename": "[26.9.17.(목) 보도참고자료] 건강기능식품은 붉은색 도안과 체크를 확인하세요!!.pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제16차 증권선물위원회('26.9.16.) 조치 의결",
@@ -529,7 +533,8 @@
           "filename": "260916(보도참고) 사업보고서 등에 대한 조사·감리결과 조치.pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, 한양대에 'AI반도체 혁신연구소' 개소... 'K-AI 반도체 풀패키지' 인재 양성 박차",
@@ -2193,6 +2198,53 @@
         }
       ],
       "_attAt": "2026-09-17T06:18:43.355149+00:00"
+    },
+    {
+      "title": "제9차 확대간부회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782184",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "기획예산처는 '26.9.17.(목) 14시 정부세종청사 5-1동 4층 대회의실에서 박홍근 장관 주재로 제9차 확대간부회의를 개최하였습니다. 자세한 내용은 첨부자료를 참고해주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555032&tblKey=GMN",
+          "filename": "260917 9차 확간 보도자료4.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555031&tblKey=GMN",
+          "filename": "260917 9차 확간 보도자료4.pdf"
+        }
+      ],
+      "_attAt": "2026-09-17T06:33:42.437267+00:00"
+    },
+    {
+      "title": "세금포인트로 떠나는 게임과 바다 속 여행!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782183",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "세금포인트로 떠나는 게임과 바다 속 여행! 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555026&tblKey=GMN",
+          "filename": "260917 세금포인트로 떠나는 게임과 바다 속 여행!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555028&tblKey=GMN",
+          "filename": "260917 세금포인트로 떠나는 게임과 바다 속 여행!.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555027&tblKey=GMN",
+          "filename": "260917 세금포인트로 떠나는 게임과 바다 속 여행!.hwp"
+        }
+      ],
+      "_attAt": "2026-09-17T06:33:42.437267+00:00"
     },
     {
       "title": "2026년도 국제항공운수권 수시 배분결과",
@@ -5477,7 +5529,8 @@
           "filename": "0917 국가무형유산 장인의 손길, ‘궤적’이 되어 미래의 전통으로(붙임2).pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "국가유산청, 한-중앙아시아 문화유산 국제개발협력 성과공유회 개최",
@@ -5493,7 +5546,8 @@
           "filename": "0917 국가유산청, 한-중앙아시아 문화유산 국제개발협력 성과공유회 개최(본문).hwpx"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "법무부, 「유엔국제상거래법위원회 60주년 기념 학술대회」 공동개최",
@@ -5514,7 +5568,8 @@
           "filename": "(보도자료) 법무부 유엔국제상거래법위원회(UNCITRAL) 60주년 기념 학술대회 공동개최 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-09-17T00:20:42.934666+00:00"
+      "_attAt": "2026-09-17T06:33:42.437267+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, '30년대 전력 실증 달성을 위해 핵융합 선도국과 글로벌 협력 공고",
