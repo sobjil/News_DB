@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T02:50:54.355061+00:00",
-  "count": 2519,
+  "updated": "2026-09-17T03:06:01.374219+00:00",
+  "count": 2523,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,7 +81,8 @@
           "filename": "260917(석간) 5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련(기획총괄과 초광역교통팀).pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00"
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 1
     },
     {
       "title": "아프리카돼지열병(ASF) 백신 개발의 현재와 미래를 논하다!",
@@ -107,7 +108,8 @@
           "filename": "(농림축산검역본부) 아프리카돼지열병(ASF) 백신 개발의 현재와 미래를 논하다!(9.17. 06시부터).hwp"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00"
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 1
     },
     {
       "title": "콩제비꽃에서 확인한 천연성분 '비세닌-2', 탈모 개선 관련 활성 새롭게 파악",
@@ -1367,6 +1369,85 @@
         }
       ],
       "_attAt": "2026-09-17T02:50:43.320430+00:00"
+    },
+    {
+      "title": "「AI를 일상에서 한글·산수처럼」 전국민 AI 역량 강화 정책, 국민이 직접 이름 짓는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782130",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "- 과기정통부, ｢전국민AI 역량 강화 정책 브랜드 공모전｣ 9.17.~9.30. 개최- 전문가 심사로 5개 후보 압축 후, 최종 당선작은 대국민 투표로 결정- 선정 브랜드는 범부처 AI 역량 강화 정책의 통합 브랜드로 활용",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554772&tblKey=GMN",
+          "filename": "260918 조간 (보도) 과기정통부, 「전국민AI 역량 강화 정책 브랜드 공모전」 9.17.~9.30. 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-17T03:05:44.247968+00:00"
+    },
+    {
+      "title": "[9.18.금.조간] '26-'27절기 코로나19 국가예방접종 시행계획 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782132",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "'26-'27절기 코로나19 국가예방접종 시행계획 발표- 코로나19 예방접종의 안정적 운영을 위해 필수예방접종으로 전환- 10월 12일부터 70세 이상 및 면역저하자 등을 시작으로 대상별·연령대별 순차적 접종 시작 질병관리청(청장 임승관)은 그동안 임시예방접종으로 운영되던 코로나19 예방접종을 필수예방접종으로 전환하고 '26-'27절기 코로나19 국가예방접종 시행계획을 발표하였다. 이번 전환은 코로나19 발생 동향과 세계보건기구(WHO) 권고사항, 미국·일본·영국·호주 등 주요 국가의 정책 방향 을 종합적으로 검토하고, 전문가 자문",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554775&tblKey=GMN",
+          "filename": "[9.18.금.조간] ’26-’27절기 코로나19 국가예방접종 시행계획 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554776&tblKey=GMN",
+          "filename": "[9.18.금.조간] ’26-’27절기 코로나19 국가예방접종 시행계획 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-09-17T03:05:44.247968+00:00"
+    },
+    {
+      "title": "디지털교과서용 태블릿 컴퓨터 입찰담합 사건 심의 절차 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782129",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "디지털교과서용 태블릿 컴퓨터 입찰담합 사건 심의 절차 개시 공정거래위원회(위원장 주병기, 이하 '공정위') 사무처는 디지털교과서용 태블릿 컴퓨터 입찰담합 사건에 대해 심사관이 조사한 행위 사실, 위법성 및 조치 의견 등을 기재한 심사보고서를 위원회에 제출('26.9.17.)하여 심의 절차가 개시되었으며, 4개 태블릿 컴퓨터 제조 및 판매사업자들(이하 '피심인들')*에게 송부('26.9.18.)하였다. * 아이브리지닷컴, 에이텍컴퓨터, 유니와이드, 포유디지탈 ※ 심사보고서는 심사관이 조사 과정에서 파악한 위법성 및 그에 대한 조치의견",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554770&tblKey=GMN",
+          "filename": "260918(조간) 디지털교과서용 태블릿 컴퓨터 입찰담합 사건 심의 절차 개시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554771&tblKey=GMN",
+          "filename": "260918(조간) 디지털교과서용 태블릿 컴퓨터 입찰담합 사건 심의 절차 개시.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554769&tblKey=GMN",
+          "filename": "260918(조간) 디지털교과서용 태블릿 컴퓨터 입찰담합 사건 심의 절차 개시.hwp"
+        }
+      ],
+      "_attAt": "2026-09-17T03:05:44.247968+00:00"
+    },
+    {
+      "title": "당진시의 직위해제 업무처리 관련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782131",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-09-17T00:00:00+09:00",
+      "description": "당진시의 직위해제 업무처리 관련 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554774&tblKey=GMN",
+          "filename": "공개문_전문.pdf"
+        }
+      ],
+      "_attAt": "2026-09-17T03:05:44.247968+00:00"
     },
     {
       "title": "2026년도 국제항공운수권 수시 배분결과",
@@ -4250,8 +4331,8 @@
           "filename": "260916_제64차 제64차 EDI 정책토론회 성료(한국장애인고용공단).pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"금융권 취업, 어떻게 준비할까?\" 기업이 장애 청년에게 직접 들려준다",
@@ -4272,8 +4353,8 @@
           "filename": "260916_보도자료_장애 대학생 청년 구직자를 위한 금융권 취업 콘서트(한국장애인고용공단).pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 3
     },
     {
       "title": "(동정) 안전한 귀성·귀경길을 위해 연안여객선 안전관리 현황 점검",
@@ -4285,17 +4366,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554187&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554524&tblKey=GMN",
           "filename": "260916_(동정)_안전한_귀성?귀경길을_위해_연안여객선_안전관리_현황_점검.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198554186&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198554525&tblKey=GMN",
           "filename": "260916_(동정)_안전한_귀성?귀경길을_위해_연안여객선_안전관리_현황_점검.pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"위험은 더 잘 보이게, 안전은 더 가까이\" 노동부 장관 '작업장 안전디자인 도입현장' 방문",
@@ -4316,8 +4397,8 @@
           "filename": "260916_보도자료_작업장 안전디자인 개선 우수사업장 방문(수정).pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"2026 직업계고 K-TECH 아이디어 챌린지\" 개최",
@@ -4338,8 +4419,8 @@
           "filename": "260916_보도자료_2026 직업계고 K-TECH 아이디어 챌린지.pdf"
         }
       ],
-      "_attAt": "2026-09-16T21:05:41.567184+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-17T03:05:44.247968+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 한성숙 국무총리 라흐몬 타지키스탄 대통령 면담",
