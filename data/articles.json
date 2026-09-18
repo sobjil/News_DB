@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T21:03:44.425300+00:00",
-  "count": 2550,
+  "updated": "2026-09-18T21:18:48.445283+00:00",
+  "count": 2551,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "한미 외교장관회담(9.18.) 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782486",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-19T00:00:00+09:00",
+      "description": "미국을 방문 중인 조현 외교부 장관은 9.18.(금) 오전 워싱턴 D.C.에서 마르코 루비오(Marco Rubio) 美 국무장관과 한미 외교장관회담을 개최하고, △한미관계 △한반도 문제 △지역 및 글로벌 정세 등에 대해 폭넓게 의견을 교환하였다. 양 장관은 철통같은 한미동맹에 대한 확고한 공약을 재확인하고, 한반도와 인도·태평양 지역의 평화와 번영을 위한 핵심축인 한미동맹을 한층 더 강화하기 위해 노력해 나가자는데 뜻을 같이 하였다. 양 장관은 현재 양국 간 진행중인 대미 전략투자 사업 관련 협의가 좋은 결실을 맺도록 노력해 나가자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556381&tblKey=GMN",
+          "filename": "[26-759](보도자료) 한미 외교장관회담 결과(9.18.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556382&tblKey=GMN",
+          "filename": "[26-759](보도자료) 한미 외교장관회담 결과(9.18.).pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T21:18:43.677473+00:00"
+    },
     {
       "title": "자폐의 유전적 다양성, 두 갈래 '분자 지도'로 정리",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782342",
