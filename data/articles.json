@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T09:48:50.477528+00:00",
-  "count": 2664,
+  "updated": "2026-09-18T10:03:47.142271+00:00",
+  "count": 2665,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2051,6 +2051,27 @@
         }
       ],
       "_attAt": "2026-09-18T09:48:42.686736+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 주택공급 현장점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782481",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "한 총리, 네 번째 주택공급 현장점검…\"태릉지구, 국민신뢰 가늠자\"- 8.13 대책에서 착공 시기를 '29년으로 명확히 제시…\"더 이상 일정 지연 없어야\"- 태릉지구 사업추진을 위한 세계유산영향평가 보고서 '유네스코 제출(9.15)' 성과 격려…세계유산 가치 보존과 주택 공급 병행하는 모범 사례 되도록 관계기관 협업 당부- 교통대책 등 지역사회 우려에 대해서 충분한 협의를 통해 추진해줄 것을 당부□ 한성숙 국무총리는 네 번째 주택공급 현장점검*으로 9월 18일(금) 서울시 노원구에 위치한 태릉지구 주택공급 사업 현황을 점검하고, 관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556359&tblKey=GMN",
+          "filename": "260918_한성숙 국무총리, 주택공급 현장점검 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556360&tblKey=GMN",
+          "filename": "260918_한성숙 국무총리, 주택공급 현장점검 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T10:03:42.364697+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
