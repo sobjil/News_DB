@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T04:48:44.273178+00:00",
-  "count": 2626,
+  "updated": "2026-09-18T05:03:48.277790+00:00",
+  "count": 2628,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1221,6 +1221,43 @@
         }
       ],
       "_attAt": "2026-09-18T04:33:44.265479+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782418",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556051&tblKey=GMN",
+          "filename": "[26-756](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556052&tblKey=GMN",
+          "filename": "[26-756](보도자료) 외교부 인사.pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T05:03:42.491087+00:00"
+    },
+    {
+      "title": "제3회 군인가족의 날 기념식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782420",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "제3회 군인가족의 날 기념식 개최□ 국방부는 9월 18일(금) 오전 서울 용산 국방컨벤션에서 제3회 군인가족의 날 기념식을 개최했다.ㅇ '군인가족의 날'은 군인가족의 희생과 헌신에 대한 국민적 이해와 관심을 높이고 군인가족의 자긍심을 고취하기 위해 2024년 12월 제정*되었으며, 국군의 날인 10월 1일과 연계하여 매년 9월 넷째 금요일로 정하고 다양한 행사를 시행해오고 있다. * 「군인복지기본법」 제17조 개정 및 시행('24.12.3.)ㅇ 기념식에는 이두희 국방부차관을 비롯해 50만 명의 국군장병을 대표하여 각 군에서 선정된 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556054&tblKey=GMN",
+          "filename": "260918 [국방부 보도자료] 제3회 군인가족의 날 기념식 개최_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-18T05:03:42.491087+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
