@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T02:48:54.182030+00:00",
-  "count": 2615,
+  "updated": "2026-09-18T03:03:47.023055+00:00",
+  "count": 2616,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -982,6 +982,27 @@
         }
       ],
       "_attAt": "2026-09-18T02:18:43.954018+00:00"
+    },
+    {
+      "title": "현장으로 찾아가는 집행점검, 구로구 가족센터 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782404",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "조용범 기획예산처 차관은 9.18(금) 10:00, 다문화가족 지원기관인 서울 구로구 가족센터를 방문하여가족지원 프로그램(성평등부) 운영 현황을 살펴보고, 현장 관계자들과 함께 지원이 필요한 가족에게 보다 효과적으로 정책을 전달하기 위한 방안을 논의하였습니다. * 자세한 사항은 첨부의 내용을 참고하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555952&tblKey=GMN",
+          "filename": "(보도자료) 제15차 현장찾아가는 집행점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555951&tblKey=GMN",
+          "filename": "(보도자료) 제15차 현장찾아가는 집행점검.pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T03:03:42.947911+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
