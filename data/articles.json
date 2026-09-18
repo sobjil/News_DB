@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T10:03:47.142271+00:00",
-  "count": 2665,
+  "updated": "2026-09-18T10:18:50.564076+00:00",
+  "count": 2667,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2072,6 +2072,43 @@
         }
       ],
       "_attAt": "2026-09-18T10:03:42.364697+00:00"
+    },
+    {
+      "title": "감사원 인사발령",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782483",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "감사원 인사발령",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556363&tblKey=GMN",
+          "filename": "(20260918)보도자료(감사원 인사발령).hwp"
+        }
+      ],
+      "_attAt": "2026-09-18T10:18:44.175321+00:00"
+    },
+    {
+      "title": "\"모두를 위한 더 나은 일터, 모두의 일상에 닿는 더 나은 변화\" - 「공무직위원회」 오늘부터 공식 출범 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782482",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "- 「공무직위원회 설치 및 운영에 관한 법률」 시행 첫날, 공공부문의 범정부 노·정·전 협의기구인 공무직위원회 차질 없이 출범 - 정부는 「공무직위원회 설치 및 운영에 관한 법률」(이하 '공무직위원회법')의 첫 시행일인 9월 18일(금), 국무총리 소속의 공무직위원회가 공식 출범한다고 밝혔다. [준비 경과] 그간 정부는 노동이 존중받는 일터, 모두가 행복하게 일할 수 있는 나라를 구현하기 위해 정부가 먼저 '모범적 사용자'로서 책임을 다해야 한다는 원칙하에, 다양한 주체가 함께 공공부문 현장 노동자들의 고용안정과 처우개선 문제를 논",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556362&tblKey=GMN",
+          "filename": "260918_보도자료_공무직위원회 출범식.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556361&tblKey=GMN",
+          "filename": "260918_보도자료_공무직위원회 출범식.pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T10:18:44.175321+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
