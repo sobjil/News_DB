@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T01:18:51.261867+00:00",
-  "count": 2608,
+  "updated": "2026-09-18T01:33:50.815638+00:00",
+  "count": 2611,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -795,6 +795,109 @@
         }
       ],
       "_attAt": "2026-09-18T01:18:43.181739+00:00"
+    },
+    {
+      "title": "과기정통부, 대학 산학협력단장과 국가 연구개발 제도개선 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782397",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "- 전국 산학협력단장 14개 대학 참석, '26년도 제도개선 설명 및 현장 의견 청취- 과제평가 체계 개편 세부 방 안, 연구 수당 배분 기준 개선, 연구개발비 정산 기준 통일, 연구보단 체계 강화 방안 등 논의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555905&tblKey=GMN",
+          "filename": "260918 석간 (보도) 과기정통부, 대학 산학협력단장과 국가R&amp;D 제도개선 방안 논의(수정).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-18T01:33:42.646601+00:00"
+    },
+    {
+      "title": "혁신형 제약기업 '선도형·도약형' 이원화, 유망 창업기업 성장 사다리 구축",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782395",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "혁신형 제약기업 '선도형·도약형' 이원화, 유망 창업기업 성장 사다리 구축- 약가 우대연구개발 가점 등 기업 성장 단계별 차등 지원 시행령시행규칙고시 개정안 입법예고 -- 기존 단일 혁신형 제약기업 체계에서 블록버스터 창출용 '선도형'과 바이오벤처 육성용 '도약형'으로 이원화 개편 - 보건복지부(장관 정은경)는 혁신형 제약기업을 '선도형'과 '도약형'으로 단계적으로 지원하기 위해 2026년 9월 18일(금)부터 10월 28일(수)까지 「제약산업 육성 및 지원에 관한 특별법」 시행령과 시행규칙, 「혁신형 제약기업 인증 등에 관한 규정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555885&tblKey=GMN",
+          "filename": "(별첨1) 제약산업 육성 및 지원에 관한 특별법 시행령 일부개정령안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555887&tblKey=GMN",
+          "filename": "(별첨2) 제약산업 육성 및 지원에 관한 특별법 시행규칙 일부개정령안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555889&tblKey=GMN",
+          "filename": "(별첨3) 혁신형 제약기업 인증 등에 관한 규정 일부개정고시안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555883&tblKey=GMN",
+          "filename": "[보도참고자료] 혁신형 제약기업 ‘선도형·도약형&#039; 이원화, 유망 창업기업 성장 사다리 구축.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555884&tblKey=GMN",
+          "filename": "[보도참고자료] 혁신형 제약기업 ‘선도형·도약형&#039; 이원화, 유망 창업기업 성장 사다리 구축.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555886&tblKey=GMN",
+          "filename": "(별첨1) 제약산업 육성 및 지원에 관한 특별법 시행령 일부개정령안.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555888&tblKey=GMN",
+          "filename": "(별첨2) 제약산업 육성 및 지원에 관한 특별법 시행규칙 일부개정령안.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555890&tblKey=GMN",
+          "filename": "(별첨3) 혁신형 제약기업 인증 등에 관한 규정 일부개정고시안.pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T01:33:42.646601+00:00"
+    },
+    {
+      "title": "공시대상기업집단 대상 하도급대금 공시제도 및 연동제 설명회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782396",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "하도급대금 공시제도 및 연동제 설명회 개최- 공시점검 결과를 바탕으로 지연공시, 누락·오기 등 재발 방지 안내 -- 하도급대금 연동제 적용 대상 확대, 탈법행위 금지 등 제도 유의사항 안내 -【관련 국정과제】 67. 기술탈취는 근절하고, 상생의 기업환경 조성 공정거래위원회(위원장 주병기, 이하 '공정위')는 9월 21일(월) 대한상공회의소에서 102개 공시대상기업집단 담당자를 대상으로 하도급대금 결제조건 공시제도 및 연동제에 대한 설명회를 개최한다. 공시대상기업집단에 속하는 원사업자는 ｢하도급거래 공정화에 관한 법률｣(이하 '하도급",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555901&tblKey=GMN",
+          "filename": "260918(참고) 공시대상기업집단 대상 하도급대금 공시제도 및 연동제 설명회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555902&tblKey=GMN",
+          "filename": "260918(참고) 공시대상기업집단 대상 하도급대금 공시제도 및 연동제 설명회 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555900&tblKey=GMN",
+          "filename": "260918(참고) 공시대상기업집단 대상 하도급대금 공시제도 및 연동제 설명회 개최.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555903&tblKey=GMN",
+          "filename": "별첨1_하도급대금 결제조건 공시제도 가이드라인.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555904&tblKey=GMN",
+          "filename": "별첨2_하도급대금 결제조건 공시제도 FAQ.hwp"
+        }
+      ],
+      "_attAt": "2026-09-18T01:33:42.646601+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
