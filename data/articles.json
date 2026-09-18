@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T09:03:43.553186+00:00",
-  "count": 2657,
+  "updated": "2026-09-18T09:19:01.159911+00:00",
+  "count": 2660,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,8 +98,8 @@
           "filename": "국립공원공단 가을 단풍철 불법 무질서 행위 집중관리(보도자료)(국립공원 9.18).pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 2
     },
     {
       "title": "전력망의 효율적 활용을 위한 계절별 송전용량(SAR) 시범사업 시행",
@@ -120,8 +120,8 @@
           "filename": "전력망의 효율적 활용을 위한 계절별 송전용량 시범사업 시행(보도자료)(계통운영 9.18).pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00",
-      "_attRev": 1
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 2
     },
     {
       "title": "추석 연휴 앞두고 화재안전 빈틈 잡는다, 판매·운수시설 등... 전국 소방서 동시 불시단속",
@@ -1043,7 +1043,8 @@
           "filename": "(보도자료) 제15차 현장찾아가는 집행점검.pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:03:42.947911+00:00"
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"직무 복귀 부담↓, 맞춤형 훈련 추천해요\"",
@@ -1055,16 +1056,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198555959&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555971&tblKey=GMN",
           "filename": "260918 (재해보상정책담당관) “직무 복귀 부담↓, 맞춤형 훈련 추천해요”.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198555960&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555972&tblKey=GMN",
           "filename": "260918 (재해보상정책담당관) “직무 복귀 부담↓, 맞춤형 훈련 추천해요”.pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00"
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 공직문학상 입상작 47편 선정",
@@ -1076,16 +1078,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198555957&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555969&tblKey=GMN",
           "filename": "260918 (연금복지과) 2026년 공직문학상 입상작 47편 선정.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198555958&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198555970&tblKey=GMN",
           "filename": "260918 (연금복지과) 2026년 공직문학상 입상작 47편 선정.pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00"
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 1
     },
     {
       "title": "환희의 순간부터 변화한 도시와 일상까지 기록으로 다시 읽는 86·88 국제스포츠대회",
@@ -1106,7 +1109,8 @@
           "filename": "260919 (조간) 환희의 순간부터 변화한 도시와 일상까지 기록으로 다시 읽는 86·88 국제스포츠대회(국가기록원 서비스정책과).pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00"
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 1
     },
     {
       "title": "8월 호우 피해 이재민, 추석 전 주거 안정 총력 지원",
@@ -1127,7 +1131,8 @@
           "filename": "260919 (조간) 8월 호우 피해 이재민 추석전 주거 안전 총력 지원(재난구호과).pdf"
         }
       ],
-      "_attAt": "2026-09-18T03:18:42.734112+00:00"
+      "_attAt": "2026-09-18T09:18:43.819790+00:00",
+      "_attRev": 1
     },
     {
       "title": "제4회 이산가족의 날 기념행사 개최(9.23.)",
@@ -1893,6 +1898,79 @@
         }
       ],
       "_attAt": "2026-09-18T08:03:43.080312+00:00"
+    },
+    {
+      "title": "중장기전략위원회 전체회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782476",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "기획예산처(장관 박홍근)는 9.18일(금) 11:00, 한국프레스센터에서 제7기 중장기전략위원회 전체회의를 개최하였습니다. 자세한 내용은 첨부파일을 참조하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556323&tblKey=GMN",
+          "filename": "★260918 중장기위원회 전체회의 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556322&tblKey=GMN",
+          "filename": "★260918 중장기위원회 전체회의 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-18T09:18:43.819790+00:00"
+    },
+    {
+      "title": "연계정보(CI) 분리·보관, 내년 1월 조기 시행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782474",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "연계정보(CI) 분리·보관, 내년 1월 조기 시행- 주민등록번호와 함께 유출될 가능성 차단 및 보안 강화…관련 고시 개정 - 주민등록번호와 연계정보(CI;Connecting Information)가 함께 유출되는 사고를 막기 위해 두 정보의 분리·보관이 내년 1월 조기 시행된다. 방송미디어통신위원회(위원장 김종철)는 18일 '2026년 제36차 전체회의(서면)'를 통해 당초 내년 5월 시행 예정이었던 주민번호와 연계정보의 분리·보관 시행일을 내년 1월로 4개월 앞당기기 위한 「연계정보 생성·처리 등에 관한 기준」(고시) 개정안을 의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556318&tblKey=GMN",
+          "filename": "260918 (보도자료) 연계정보(CI) 분리·보관, 내년 1월 조기 시행.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556317&tblKey=GMN",
+          "filename": "260918 (보도자료) 연계정보(CI) 분리·보관, 내년 1월 조기 시행.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556316&tblKey=GMN",
+          "filename": "260918 (보도자료) 연계정보(CI) 분리·보관, 내년 1월 조기 시행.hwp"
+        }
+      ],
+      "_attAt": "2026-09-18T09:18:43.819790+00:00"
+    },
+    {
+      "title": "2026년 제36차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782472",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-09-18T00:00:00+09:00",
+      "description": "2026년 제36차 위원회 결과[의결 안건]가. 「전파법」 위반 사업자에 대한 행정 처분에 관한 건 - 한국방송공사 - o 방미통위는 한국방송공사가 UHD 시범방송의 유효기간이 경과한 후에도 송출을 지속한 건에 대해 허가 사항을 준수해 방송사업을 운영하도록 하는 내용의 행정처분(안)을 심의·의결했습니다.나. 「연계정보 생성·처리 등에 관한 기준」(고시) 일부개정(안)에 관한 건 o 연계정보와 주민등록번호가 함께 유출될 가능성을 차단하고, 보안을 강화하기 위해 연계정보와 주민등록번호의 분리·보관·관리 시행일을 4개월 단축('27. 5",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556312&tblKey=GMN",
+          "filename": "제36차 위원회 결과 (서면)브리핑(260918).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556311&tblKey=GMN",
+          "filename": "제36차 위원회 결과 (서면)브리핑(260918).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556310&tblKey=GMN",
+          "filename": "제36차 위원회 결과 (서면)브리핑(260918).hwp"
+        }
+      ],
+      "_attAt": "2026-09-18T09:18:43.819790+00:00"
     },
     {
       "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
