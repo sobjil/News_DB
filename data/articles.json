@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T21:48:44.351058+00:00",
-  "count": 2487,
+  "updated": "2026-09-19T22:03:46.840161+00:00",
+  "count": 2488,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782503",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-09-20T00:00:00+09:00",
+      "description": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여- 인천송도국제마라톤 연계 노담 러닝클럽 참여, 청년 관심사 기반 흡연예방 캠페인 -- 노담으로 취향이 더 즐거워지는 노담소셜클럽 참여로 노담문화 응원 - 보건복지부(장관 정은경)는 9월 20일(일) 국립 인천대학교 송도캠퍼스에서 열린 '2026 인천송도국제마라톤'과 연계해 '노담소셜클럽 2.0' 노담러닝클럽을 진행하였으며, 이형훈 보건복지부 제2차관이 클럽장인 가수 션을 비롯한 사전 모집을 통해 선발된 2~30대 72명의 클럽원과 함께 노담 실천 의지를 다지며 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556542&tblKey=GMN",
+          "filename": "[9.20.일 행사 시작(6시 30분) 이후] 건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556543&tblKey=GMN",
+          "filename": "[9.20.일 행사 시작(6시 30분) 이후] 건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여.pdf"
+        }
+      ],
+      "_attAt": "2026-09-19T22:03:43.020542+00:00"
+    },
     {
       "title": "한미 외교장관회담(9.18.) 결과",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782486",
