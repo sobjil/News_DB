@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "retentionDays": 7,
-  "count": 170,
+  "count": 164,
   "events": [
     {
       "id": "156781434",
@@ -15,58 +15,6 @@
       "emoji": "📰",
       "flavor": "우리나라의 선진 환경 분석 기술을 해외에 전수한다는 소식이 들려오지만, 우리 농장 경영에는 직접적인 영향이 없네요.",
       "weight": 1
-    },
-    {
-      "id": "156781392",
-      "agency": "해양수산부",
-      "title": "매뉴얼을 익히고 실제처럼 연습하여 해양동물 구조역량을 높인다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781392",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "해양동물 구조 교육 소식이 들려오니 우리 바다의 생태계가 더욱 건강해질 것 같은 기분이 들어요!",
-      "weight": 2
-    },
-    {
-      "id": "156781393",
-      "agency": "해양수산부",
-      "title": "우리 갯벌의 우수성을 전 세계에, 갯벌 세계유산 국제심포지엄 개최",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781393",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리나라 갯벌의 유네스코 세계유산 등재를 기념하는 국제 심포지엄 소식에 수산업계의 위상이 한층 높아진 것 같아요!",
-      "weight": 2
-    },
-    {
-      "id": "156781398",
-      "agency": "기후에너지환경부",
-      "title": "제주서 그린수소 국제 협력 확대… 수전해 실증성과 공유",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781398",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "제주도에서 그린수소 국제 포럼이 열린다는데, 아직 우리 농장과는 먼 나라 이야기처럼 느껴지네요.",
-      "weight": 1
-    },
-    {
-      "id": "156781397",
-      "agency": "기후에너지환경부",
-      "title": "쓰레기 줄이고 불편은 없애고, 함께 만드는 쾌적한 추석",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781397",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "직판",
-      "kind": "시세악재",
-      "strength": "약",
-      "emoji": "🥀",
-      "flavor": "추석 선물세트 과대포장 단속 소식에 우리 농장 직판장도 부랴부랴 친환경 포장재로 바꾸느라 포장 비용이 조금 더 들게 생겼어요!",
-      "weight": 5
     },
     {
       "id": "156781623",
@@ -535,45 +483,6 @@
       "emoji": "🥀",
       "flavor": "추석 명절을 앞두고 정부의 성수품 가격 안정 정책으로 인해 우리 농장 농축산물의 판매 가격이 조금 내려가게 되었어요.",
       "weight": 5
-    },
-    {
-      "id": "156781454",
-      "agency": "농림축산식품부",
-      "title": "농어촌 기본소득과 사회연대경제 상생으로 활력있는 농촌을 만든다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781454",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "지원금",
-      "strength": "약",
-      "emoji": "💰",
-      "flavor": "농어촌 기본소득과 지역 경제 활성화 소식에 우리 농장에도 든든한 바람이 불어오네요!",
-      "weight": 5
-    },
-    {
-      "id": "156781453",
-      "agency": "농림축산식품부",
-      "title": "놓치면 후회할 소중한 기회, 자진 신고기간 부담없이 동물등록하세요!",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781453",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리 농장을 지켜주는 든든한 댕댕이도 이번 자진 신고 기간에 과태료 걱정 없이 안전하게 동물등록을 마쳤어요!",
-      "weight": 1
-    },
-    {
-      "id": "156781478",
-      "agency": "농림축산식품부",
-      "title": "아태지역 식물검역 국제기준 논의, 한국이 이끈다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781478",
-      "pubDate": "2026-09-13T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "우리나라가 식물검역 국제기준 마련을 이끈다니, 앞으로 우리 농산물의 해외 수출길이 더 안전하고 넓어질 것 같아요!",
-      "weight": 2
     },
     {
       "id": "156781809",
@@ -2212,6 +2121,19 @@
       "emoji": "📰",
       "flavor": "산림청에서 청렴한 행정을 약속하는 행사를 열었다는 소식에 우리 농장도 덩달아 마음이 맑아지는 기분이에요.",
       "weight": 1
+    },
+    {
+      "id": "156782489",
+      "agency": "농림축산식품부",
+      "title": "인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782489",
+      "pubDate": "2026-09-19T00:00:00+09:00",
+      "scope": "축산",
+      "kind": "재해",
+      "strength": "중",
+      "emoji": "🌀",
+      "flavor": "인천에서 구제역이 추가 확진되었다는 소식에 우리 농장도 비상 방역에 돌입하며 가슴을 졸이고 있어요.",
+      "weight": 5
     }
   ]
 }
