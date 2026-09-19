@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T02:33:43.968413+00:00",
-  "count": 2553,
+  "updated": "2026-09-19T02:48:47.721173+00:00",
+  "count": 2554,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -124,6 +124,32 @@
         }
       ],
       "_attAt": "2026-09-19T02:03:42.204503+00:00"
+    },
+    {
+      "title": "인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782489",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-09-19T00:00:00+09:00",
+      "description": "구제역 중앙사고수습본부(본부장 송미령 농림축산식품부장관, 이하 '중수본')는 9월 19일(토) 인천 강화 소재한 소(牛) 농장(53마리 사육)에 대한 예찰 검사에서 구제역이 확인되어 방역관리를 강화한다고 밝혔다. 중수본은 이번 발생농장은 지난번 인천 강화 발생(확진일 : 9.16) 관련 방역지역(3km) 내에 위치하고, 금년 8월 감염항체(NSP)가 검출된 소 농장으로 바이러스 순환 여부 확인을 위한 예찰 검사를 실시하던 과정에서 항원 양성축 2두를 확인하였다. ※ '26년 발생(총 13건) : 1∼2월 3건(강화·고양), 7월 6",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556415&tblKey=GMN",
+          "filename": "(방역정책국-구제역방역과) 인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진(9.19. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556413&tblKey=GMN",
+          "filename": "(방역정책국-구제역방역과) 인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진(9.19. 배포 시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556414&tblKey=GMN",
+          "filename": "(방역정책국-구제역방역과) 인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진(9.19. 배포 시).hwp"
+        }
+      ],
+      "_attAt": "2026-09-19T02:48:43.922466+00:00"
     },
     {
       "title": "자폐의 유전적 다양성, 두 갈래 '분자 지도'로 정리",
