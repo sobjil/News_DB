@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T06:33:44.814122+00:00",
+  "updated": "2026-09-20T06:48:45.587285+00:00",
   "count": 2516,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -94,11 +94,12 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198556550&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556621&tblKey=GMN",
           "filename": "260919 (보도자료) AI시대 기본사회를 말하다_최종.pdf"
         }
       ],
-      "_attAt": "2026-09-20T00:48:42.114447+00:00"
+      "_attAt": "2026-09-20T06:48:42.640133+00:00",
+      "_attRev": 1
     },
     {
       "title": "구혁채 과기정통부 제1차관, 「Nobel Prize Dialogue Seoul 2026」 참석",
