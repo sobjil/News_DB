@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T22:33:44.931290+00:00",
-  "count": 2517,
+  "updated": "2026-09-20T22:48:47.623368+00:00",
+  "count": 2518,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -93,6 +93,27 @@
         }
       ],
       "_attAt": "2026-09-20T21:33:43.228380+00:00"
+    },
+    {
+      "title": "[보도참고] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782574",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "[보도참고] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556784&tblKey=GMN",
+          "filename": "[26.9.20.(일) 보도참고자료] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다..pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556785&tblKey=GMN",
+          "filename": "[26.9.20.(일) 보도참고자료] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다..hwp"
+        }
+      ],
+      "_attAt": "2026-09-20T22:48:41.938617+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
