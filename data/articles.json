@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T22:48:47.623368+00:00",
-  "count": 2518,
+  "updated": "2026-09-20T23:03:47.046520+00:00",
+  "count": 2519,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -114,6 +114,27 @@
         }
       ],
       "_attAt": "2026-09-20T22:48:41.938617+00:00"
+    },
+    {
+      "title": "'규제자유특구(글로벌특구, 광역연계형특구 포함)' 후보과제 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782575",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 9월 21일(월) 비수도권 지방정부를 대상으로 '27년도 규제자유특구, 글로벌혁신 규제자유특구(이하 글로벌특구) 및 광역연계형 규제자유특구(이하 광역연계형특구) 신규 지정을 위한 특구 후보과제를 공모한다고 밝혔다. 이번에 모집하는 후보과제는 ▲신기술·신산업 분야의 규제를 개선하는 규제자유특구, ▲해외 수요에 맞는 제품 개발 및 해외시장 진출 관련 실증을 지원하는 글로벌특구, ▲지역 간 연계·협력을 통해 패키지 형태로 실증하는 광역연계형특구 등 3개 유형이다. 모집규모는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556786&tblKey=GMN",
+          "filename": "260921_‘규제자유특구(글로벌특구,_광역연계형특구_포함)’_후보과제_모집.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556787&tblKey=GMN",
+          "filename": "260921_‘규제자유특구(글로벌특구,_광역연계형특구_포함)’_후보과제_모집.pdf"
+        }
+      ],
+      "_attAt": "2026-09-20T23:03:42.584616+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
