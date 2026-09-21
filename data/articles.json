@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T07:34:47.835453+00:00",
-  "count": 2633,
+  "updated": "2026-09-21T07:49:53.864279+00:00",
+  "count": 2635,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1191,16 +1191,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557080&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557483&tblKey=GMN",
           "filename": "313 [지식재산처] 지식재산처, 심사관·특별사법경찰 등 41명 채용...심사 전문성·수사역량↑.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557081&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557484&tblKey=GMN",
           "filename": "313 [지식재산처] 지식재산처, 심사관·특별사법경찰 등 41명 채용...심사 전문성·수사역량↑.pdf"
         }
       ],
-      "_attAt": "2026-09-21T01:48:44.476095+00:00"
+      "_attAt": "2026-09-21T07:49:42.086550+00:00",
+      "_attRev": 1
     },
     {
       "title": "지식재산처, 한국전자통신연구원(ETRI)과 핵심·표준특허 권리화·사업화 방안 논의",
@@ -1212,16 +1213,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557078&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557481&tblKey=GMN",
           "filename": "312 [지식재산처] 지식재산처, 한국전자통신연구원(ETRI)과 핵심·표준특허 권리화·사업화 방안 논의.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557079&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557482&tblKey=GMN",
           "filename": "312 [지식재산처] 지식재산처, 한국전자통신연구원(ETRI)과 핵심·표준특허 권리화·사업화 방안 논의.pdf"
         }
       ],
-      "_attAt": "2026-09-21T01:48:44.476095+00:00"
+      "_attAt": "2026-09-21T07:49:42.086550+00:00",
+      "_attRev": 1
     },
     {
       "title": "김성환 기후부 장관, 차세대 태양전지 기술개발 현장점검",
@@ -1233,16 +1235,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557076&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557134&tblKey=GMN",
           "filename": "김성환 기후부 장관 차세대 태양전지 기술개발 현장점검(보도자료)(태양광산업 9.21).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557077&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557135&tblKey=GMN",
           "filename": "김성환 기후부 장관 차세대 태양전지 기술개발 현장점검(보도자료)(태양광산업 9.21).pdf"
         }
       ],
-      "_attAt": "2026-09-21T01:48:44.476095+00:00"
+      "_attAt": "2026-09-21T07:49:42.086550+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 추석 명절 맞이 산림복지시설 안전점검 실시",
@@ -1254,16 +1257,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557072&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557091&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 추석 명절 맞이 산림복지시설 안전점검 실시.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557071&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557090&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 추석 명절 맞이 산림복지시설 안전점검 실시.hwp"
         }
       ],
-      "_attAt": "2026-09-21T01:48:44.476095+00:00"
+      "_attAt": "2026-09-21T07:49:42.086550+00:00",
+      "_attRev": 1
     },
     {
       "title": "추석 명절, 연안여객선과 함께 안전하고 편안한 귀성·귀경길 되세요!",
@@ -2601,6 +2605,43 @@
         }
       ],
       "_attAt": "2026-09-21T07:33:44.865295+00:00"
+    },
+    {
+      "title": "[보도참고] 2026년 추석 차례상 비용 하락",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782737",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "주요 물가조사 기관에 따르면 올해 추석 차례상 비용은 과일·수산물 등 수급상황 안정과 정부의 민생안정대책 노력 등에 힘입어 전년대비 하락한 것으로 나타났습니다.※ 자세한 내용은 첨부를 참고하여 주시기 바랍니다. 문의. 재정경제부 민생경제국 물가정책과 권기민 (044-215-2827)",
+      "attachments": [
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557589&tblKey=GMN",
+          "filename": "260921 보도참고_추석대책.hwp"
+        }
+      ],
+      "_attAt": "2026-09-21T07:49:42.086550+00:00"
+    },
+    {
+      "title": "[보도자료] 국무조정실장 주재 천명수호처 위촉식",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782738",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "한국여성경제인협회 등 자살예방 위한 천명지킴 프로젝트 합류- 국무조정실장, 한국여성경제인협회, 한국상담심리학회, 한국상담학회, 신용보증재단중앙회를 천명수호처, 크라잉넛은 생명대사로 위촉- 생명대사·천명수호처는 각자의 분야에서 국민 생명을 지키기 위해 최선의 노력□ 임기근 국무조정실장은 9월 21일(월), 정부서울청사에서 「천명수호처 위촉장 수여식」을 개최하였다.ㅇ 이번 위촉식에는 한국여성경제인협회, 한국상담심리학회, 한국상담학회, 신용보증재단중앙회 4개 기관이 참여하여 위촉장을 받았다.□ 천명수호처는 각 기관의 전문성과 현장 기반을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557590&tblKey=GMN",
+          "filename": "260921_천명수호처 위촉장 수여식 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557591&tblKey=GMN",
+          "filename": "260921_천명수호처 위촉장 수여식 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-21T07:49:42.086550+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
