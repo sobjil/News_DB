@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T04:18:57.132576+00:00",
-  "count": 2602,
+  "updated": "2026-09-21T04:33:45.880493+00:00",
+  "count": 2603,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1902,6 +1902,27 @@
         }
       ],
       "_attAt": "2026-09-21T04:18:42.538082+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 글로벌 AI 허브 추진위원회 회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782686",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "한 총리, 글로벌 AI 허브 추진위원회 '첫 회의' 개최…선언을 넘어 실행으로- 글로벌 AI 허브 설립 추진 현황을 점검하고 입지선정 계획 논의 -□ 한성숙 국무총리는 9월 21일(월) 10:00, 정부서울청사에서 ｢글로벌 인공지능(AI) 허브(이하 '허브') 추진위원회｣ 회의를 개최하고, 허브 설립을 위한 추진 현황 및 허브 입지선정 기본계획 등을 논의하였다.□ 글로벌 AI 허브는 정부, 국제기구, 개발은행, 산·학·연 등 다양한 주체가 협업하는 국제 캠퍼스 형태의 개방적 AI 다자협력 플랫폼이다. 정부는 앞으로 국제기구의 AI ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557285&tblKey=GMN",
+          "filename": "260921_한성숙 국무총리, 글로벌 AI 허브 추진위원회 회의 개최 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557286&tblKey=GMN",
+          "filename": "260921_한성숙 국무총리, 글로벌 AI 허브 추진위원회 회의 개최 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-21T04:33:42.099864+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
