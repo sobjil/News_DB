@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T06:34:11.495873+00:00",
-  "count": 2624,
+  "updated": "2026-09-21T06:48:49.405227+00:00",
+  "count": 2625,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2390,6 +2390,27 @@
         }
       ],
       "_attAt": "2026-09-21T06:33:43.115964+00:00"
+    },
+    {
+      "title": "민간의 10년 실험, 공공이 정책으로 잇다 진흥원, 사회적가치 페스타서 사회적가치 창출 활성화 사업(SVC) 세션 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782722",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "- '사회적가치 창출 활성화 사업(SVC)'의 첫해와 미래 논의 -한국사회적기업진흥원(원장 정승국, 이하 '진흥원')은 사회적가치연구원(대표이사 나석권)과 함께 오는 9월 21일(월) 오후 3시, 서울 강남구 코엑스 A홀에서 '민간이 열고 공공이 잇다: 사회적가치와 성장의 새로운 공식, SVC'를 주제로 세션을 운영한다. 이번 세션은 제3회 대한민국 사회적가치 페스타의 일환으로 진행된다. 「사회적가치 창출 활성화 사업(Social Value Creation, 이하 'SVC')」은 사회적기업이 창출한 사회성과를 화폐가치로 측정하고, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557505&tblKey=GMN",
+          "filename": "260921_보도자료_제3회 대한민국 사회적가치 페스타 행사 운영 계획(한국사회적기업진흥원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557504&tblKey=GMN",
+          "filename": "260921_보도자료_제3회 대한민국 사회적가치 페스타 행사 운영 계획(한국사회적기업진흥원).pdf"
+        }
+      ],
+      "_attAt": "2026-09-21T06:48:45.554487+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
