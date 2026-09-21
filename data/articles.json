@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T04:33:45.880493+00:00",
-  "count": 2603,
+  "updated": "2026-09-21T04:49:01.773144+00:00",
+  "count": 2605,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -106,16 +106,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198556784&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556790&tblKey=GMN",
           "filename": "[26.9.20.(일) 보도참고자료] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다..pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198556785&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198556791&tblKey=GMN",
           "filename": "[26.9.20.(일) 보도참고자료] 유황 훈증 처리된 중국산 죽순 국내에 농산물로 수입되지 않았으나 통관단계에서 철저히 관리하고 있습니다..hwp"
         }
       ],
-      "_attAt": "2026-09-20T22:48:41.938617+00:00"
+      "_attAt": "2026-09-21T04:48:55.169338+00:00",
+      "_attRev": 1
     },
     {
       "title": "'규제자유특구(글로벌특구, 광역연계형특구 포함)' 후보과제 모집",
@@ -1923,6 +1924,43 @@
         }
       ],
       "_attAt": "2026-09-21T04:33:42.099864+00:00"
+    },
+    {
+      "title": "국립과천과학관에서 즐기는 특별한 한가위 K-놀이 축제",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782689",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "국립과천과학관에서 즐기는 특별한 한가위 K-놀이 축제 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557309&tblKey=GMN",
+          "filename": "260921 즉시 (보도) 국립과천과학관에서 즐기는 특별한 한가위 K-놀이 축제.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-21T04:48:55.169338+00:00"
+    },
+    {
+      "title": "기업과 지역이 함께 푸는 지역사회 문제… '아이디어 솔버톤 대회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782688",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-21T00:00:00+09:00",
+      "description": "- 9월 21일(월) 서울 코엑스에서 지역사회 문제해결 아이디어 솔버톤 대회 개최- 롯데카드, 카카오 등 기업 연계 5개 우수 아이디어 최종 선정- 「사회적가치 페스타」 연계 부스 운영… 지방정부·기업 협업 우수사례 소개 행정안전부(장관 윤호중)는 9월 21일(월), 서울 코엑스에서 「지역-기업 상생협력을 통한 지역사회 문제해결 아이디어 솔버톤*대회(이하 솔버톤 대회)」를 개최했다고 밝혔다. * Solve와 Marathon의 합성어로, 마라톤하듯 주어진 문제에 대한 해결방안 제시 이번 솔버톤 대회는 지역에 흩어져 있는 다양한 사회문",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557303&tblKey=GMN",
+          "filename": "260922 (13시30분) 기업과 지역이 함께 푸는 지역사회 문제… 아이디어 솔버톤 대회 개최(균형발전제도과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557304&tblKey=GMN",
+          "filename": "260922 (13시30분) 기업과 지역이 함께 푸는 지역사회 문제… 아이디어 솔버톤 대회 개최(균형발전제도과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-21T04:48:55.169338+00:00"
     },
     {
       "title": "건강하고 즐거운 취향으로 노담 이형훈 제2차관, 청년들과 노담러닝 참여",
