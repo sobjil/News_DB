@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T23:04:30.382321+00:00",
-  "count": 2696,
+  "updated": "2026-09-22T23:19:27.740409+00:00",
+  "count": 2698,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -118,6 +118,48 @@
         }
       ],
       "_attAt": "2026-09-22T22:19:22.183105+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 혁신 의료제품 상담사례 공개로 제품화 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783028",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-23T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 혁신 의료제품 상담사례 공개로 제품화 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559081&tblKey=GMN",
+          "filename": "[26.9.23.(수) 보도참고자료] 식약처, 혁신 의료제품 상담사례 공개로 제품화 지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559082&tblKey=GMN",
+          "filename": "[26.9.23.(수) 보도참고자료] 식약처, 혁신 의료제품 상담사례 공개로 제품화 지원.pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T23:19:22.021744+00:00"
+    },
+    {
+      "title": "추석 성수식품 일제점검 결과 위반업체 150곳 적발·조치",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783027",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-23T00:00:00+09:00",
+      "description": "추석 성수식품 일제점검 결과 위반업체 150곳 적발·조치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559079&tblKey=GMN",
+          "filename": "[26.9.23.(수) 보도자료] 추석 성수식품 일제점검 결과 위반업체 150곳 적발·조치.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559080&tblKey=GMN",
+          "filename": "[26.9.23.(수) 보도자료] 추석 성수식품 일제점검 결과 위반업체 150곳 적발·조치.pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T23:19:22.021744+00:00"
     },
     {
       "title": "한미일 외교장관회의(9.21) 결과",
