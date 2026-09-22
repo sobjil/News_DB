@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T20:49:34.205849+00:00",
-  "count": 2693,
+  "updated": "2026-09-22T21:04:26.200561+00:00",
+  "count": 2694,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "철도역은 편리하게, 이동은 더 촘촘하게 …코레일 자회사 통합",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783024",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-23T00:00:00+09:00",
+      "description": "철도역은 편리하게, 이동은 더 촘촘하게 …코레일 자회사 통합 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559068&tblKey=GMN",
+          "filename": "260923(석간) 철도역은 편리하게 이동은 더 촘촘하게 코레일 자회사 통합(철도운영과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559069&tblKey=GMN",
+          "filename": "260923(석간) 철도역은 편리하게 이동은 더 촘촘하게 코레일 자회사 통합(철도운영과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T21:04:21.718159+00:00"
+    },
     {
       "title": "한미일 외교장관회의(9.21) 결과",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782789",
