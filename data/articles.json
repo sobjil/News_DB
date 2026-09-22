@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T03:20:01.911752+00:00",
-  "count": 2705,
+  "updated": "2026-09-22T03:34:55.971272+00:00",
+  "count": 2706,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -101,8 +101,20 @@
       "agencyCode": "mcee",
       "pubDate": "2026-09-22T00:00:00+09:00",
       "description": "▷2026년 8월까지 수송용 수소 소비량 1만 3,711톤, 전년 동기대비 47% 증가▷추석연휴 및 수소공급시설 설비점검 대비 수송용 수소 수급대응반 운영기후에너지환경부(장관 김성환)는 9월 22일 오전 센터포인트광화문빌딩(서울 종로구 소재) 회의실에서 2026년 3차 수송용 수소 수급협의체 회의를 개최한다고 밝혔다. 이번 회의는 오일영 기후에너지환경부 기후에너지정책실장이 주재하고 국토교통부 등 관계 부처를 비롯해 인천, 경기 등 6개 지방정부 및 수소기업 등이 참석하여 수송용 수소 공급 동향, 업체별 설비점검 일정 및 대응계획 등",
-      "attachments": [],
-      "_attAt": "2026-09-21T21:19:43.931910+00:00"
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557915&tblKey=GMN",
+          "filename": "(수소경제 9.22) 추석연휴 및 4분기 수송용 수소 수급상황 점검(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557916&tblKey=GMN",
+          "filename": "(수소경제 9.22) 추석연휴 및 4분기 수송용 수소 수급상황 점검(보도자료).pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T03:34:43.709823+00:00",
+      "_attRev": 1
     },
     {
       "title": "폭염에도 전국 오존주의보 발령 감소… 8월과 남부권 감소폭 두드러져",
@@ -111,8 +123,20 @@
       "agencyCode": "mcee",
       "pubDate": "2026-09-22T00:00:00+09:00",
       "description": "▷5월부터 8월까지 전국 발령일 수 48일로, 2016년 이후 두 번째로 적어▷일사량·강수일 등 오존 생성에 불리한 기상 조건으로 주의보 감소기후에너지환경부 소속 국립환경과학원(원장 김영우)은 오존 고농도 시기인 5월부터 8월까지 전국 오존주의보 발령 현황을 분석한 결과, 올해 전국적으로 폭염이 두드러졌음에도 오존주의보 발령일 수는 예년보다 감소했으며, 특히 8월과 남부권에서 감소폭이 컸다고 밝혔다.※ 기후에너지환경부는 고농도 오존 발생 가능성이 높은 5~8월을 대상으로 '오존 고농도 시기 집중관리 대책'을 추진올해 5월부터 8월까",
-      "attachments": [],
-      "_attAt": "2026-09-21T21:19:43.931910+00:00"
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557913&tblKey=GMN",
+          "filename": "(과학원 9.22) 폭염에도 전국 오존주의보 발령 감소… 8월과 남부권 감소폭 두드러져(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557914&tblKey=GMN",
+          "filename": "(과학원 9.22) 폭염에도 전국 오존주의보 발령 감소… 8월과 남부권 감소폭 두드러져(보도자료).pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T03:34:43.709823+00:00",
+      "_attRev": 1
     },
     {
       "title": "안전한 추석 보내려면... 벌초·성묘길 '벌 조심', 음식 조리 땐 '불조심'",
@@ -1638,6 +1662,32 @@
         }
       ],
       "_attAt": "2026-09-22T03:19:42.580144+00:00"
+    },
+    {
+      "title": "[설명자료] 추석 당일 대체로 흐리고 일부 비, 보름달 보기 어려워",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782889",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-09-22T00:00:00+09:00",
+      "description": "추석 당일 대체로 흐리고 일부 비 보름달 보기 어려워- 추석 당일(25일) 흐린 가운데 오전 강원동해안·산지 중심, 늦은 밤 중부 비 - 26일(토) 새벽 전국, 오전~밤 남부·제주도, 27일(일) 오전 제주도 비- 평년과 비슷하거나 조금 높은 기온, 23일(수), 24일(목) 서해안·내륙 안개 [ 추석 연휴 기압계 모식도 ] [ 추석 연휴 날씨 요약 ] □ 기상청(청장 이미선)은 국민 생활 안전과 편의를 위해 추석 연휴 기간인 9월 23일(수)∼9월 27일(일)에 대한 기상 전망을 발표하였다.○ 연휴 기간 대체로 구름 많거나 흐린",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198558356&tblKey=GMN",
+          "filename": "20260922_설명자료 추석 연휴 날씨 전망H.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198558358&tblKey=GMN",
+          "filename": "20260922_설명자료 추석 연휴 날씨 전망H.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198558357&tblKey=GMN",
+          "filename": "20260922_설명자료 추석 연휴 날씨 전망H.hwp"
+        }
+      ],
+      "_attAt": "2026-09-22T03:34:43.709823+00:00"
     },
     {
       "title": "국방부-강원특별자치도 접경지역 5개군, 제13차 상생발전협의회 개최",
@@ -4485,8 +4535,8 @@
           "filename": "[보도참고자료] 복지·돌봄 AI 대전환 로드맵 수립 위한 관계 전문가 의견수렴.pdf"
         }
       ],
-      "_attAt": "2026-09-21T21:19:43.931910+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-22T03:34:43.709823+00:00",
+      "_attRev": 3
     },
     {
       "title": "중수청, 2차 특례임용 희망신청 201명 접수, 10월 2일 출범에 맞춰 순차 임용",
@@ -4507,8 +4557,8 @@
           "filename": "260921 (즉시) 중수청 2차 특례임용 희망신청 201명 접수 10월 2일 출범에 맞춰 순차 임용(중수청 개청준비단).pdf"
         }
       ],
-      "_attAt": "2026-09-21T21:19:43.931910+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-22T03:34:43.709823+00:00",
+      "_attRev": 3
     },
     {
       "title": "'아름다운 민간정원 30선'을 소개합니다!",
@@ -4520,22 +4570,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557763&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557975&tblKey=GMN",
           "filename": "(260921)보도자료-아름다운_민간정원_30선.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557765&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557977&tblKey=GMN",
           "filename": "(260921)보도자료-아름다운_민간정원_30선.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198557764&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198557976&tblKey=GMN",
           "filename": "(260921)보도자료-아름다운_민간정원_30선.hwp"
         }
       ],
-      "_attAt": "2026-09-21T21:19:43.931910+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-22T03:34:43.709823+00:00",
+      "_attRev": 3
     },
     {
       "title": "해양경찰청, 나흘간 짧은 추석 연휴 \"안전에 빈틈없이 대응\"",
