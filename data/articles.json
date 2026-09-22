@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T10:04:55.717752+00:00",
-  "count": 2767,
+  "updated": "2026-09-22T10:19:41.108298+00:00",
+  "count": 2768,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3017,6 +3017,27 @@
         }
       ],
       "_attAt": "2026-09-22T10:04:21.919333+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제1회 생명지킴 정책 간담회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783012",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-22T00:00:00+09:00",
+      "description": "한성숙 국무총리, \"생명지킴 정책 간담회 개최, 성과 중심의 자살예방대책 강조\"- 흩어진 위험신호를 데이터로 연결해 원인·경로 분석하고 현장 대응 강화- 추석 앞두고 \"가족·이웃에게 먼저 안부 묻는 관심\" 당부□ 한성숙 국무총리는 9월 22일(화) 정부세종청사에서 자살 예방 및 데이터 분야 전문가, 국가데이터처 등 관계기관과 함께 제1차 「생명지킴 정책 간담회」를 개최하였다.ㅇ 지난 7월 생명 안전 분야별 데이터 관계기관 회의에 이어, 데이터를 활용해 자살 위험을 더욱 정교하게 포착하고 실제 현장 대응으로 연결하기 위한 구체적인 방",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559013&tblKey=GMN",
+          "filename": "260922 1차 생명지킴 정책 간담회 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559014&tblKey=GMN",
+          "filename": "260922 1차 생명지킴 정책 간담회 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-09-22T10:19:23.295115+00:00"
     },
     {
       "title": "국방부-강원특별자치도 접경지역 5개군, 제13차 상생발전협의회 개최",
