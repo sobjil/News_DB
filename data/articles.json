@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T02:49:35.938256+00:00",
-  "count": 2738,
+  "updated": "2026-09-23T03:04:27.999408+00:00",
+  "count": 2739,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -80,7 +80,8 @@
           "filename": "260923(석간) 철도역은 편리하게 이동은 더 촘촘하게 코레일 자회사 통합(철도운영과).pdf"
         }
       ],
-      "_attAt": "2026-09-22T21:04:21.718159+00:00"
+      "_attAt": "2026-09-23T03:04:22.499963+00:00",
+      "_attRev": 1
     },
     {
       "title": "생활화학제품 2,213개 안전성 조사… 해외직구 향·도색·접착 제품에 부적합 집중",
@@ -965,6 +966,27 @@
         }
       ],
       "_attAt": "2026-09-23T02:34:21.443609+00:00"
+    },
+    {
+      "title": "[참고] 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783091",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-23T00:00:00+09:00",
+      "description": "[참고] 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559390&tblKey=GMN",
+          "filename": "260923(참고) 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더(주택기금과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559391&tblKey=GMN",
+          "filename": "260923(참고) 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더(주택기금과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-23T03:04:22.499963+00:00"
     },
     {
       "title": "한미일 외교장관회의(9.21) 결과",
