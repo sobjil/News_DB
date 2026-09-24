@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T02:19:24.164318+00:00",
-  "count": 2691,
+  "updated": "2026-09-24T02:34:34.254528+00:00",
+  "count": 2692,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[보도자료] 한성숙 국무총리, 추석 명절 대비 철도 수송·안전 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783165",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-24T00:00:00+09:00",
+      "description": "\"고속철도 통합 후 첫 명절, 더 안전하고 편리하게\"-한 총리, \"추석 연휴 나흘간 수송능력 극대화 및 비상대응체계 철저한 준비\" 당부-- 추석 연휴 첫날 서울역 방문…추석 대비 서울역 철도수송·안전 점검- 이번 추석 명절 동안 총 317만명 철도이용 예상, 특별교통대책본부 운영- 서울-수서간 이원화된 고속철도 통합後 첫 명절, 좌석 공급 확대(주 11.5만석) 및 서비스 개선(KTX 요금 평균 10% 인하 등) 성과□ 한성숙 국무총리는 추석 명절을 맞이하여 연휴 첫날인 9월 24일(목) 오전 10시에 대한민국 철도의 중심인 서울역",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559823&tblKey=GMN",
+          "filename": "260924_한성숙 국무총리, 추석 명절 대비 철도 수송‧안전 점검 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559824&tblKey=GMN",
+          "filename": "260924_한성숙 국무총리, 추석 명절 대비 철도 수송‧안전 점검 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-24T02:34:28.087288+00:00"
+    },
     {
       "title": "철도역은 편리하게, 이동은 더 촘촘하게 …코레일 자회사 통합",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783024",
@@ -1798,8 +1819,8 @@
           "filename": "260923 (보도자료) 경제협력개발기구(OECD) 중간 경제전망F.pdf"
         }
       ],
-      "_attAt": "2026-09-23T20:34:23.873166+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-24T02:34:28.087288+00:00",
+      "_attRev": 3
     },
     {
       "title": "양산산림항공관리소, 통도사 일원서 대대적 합동 캠페인",
@@ -1815,8 +1836,8 @@
           "filename": "(보도자료)양산산림항공관리소, 통도사 일원서 대대적 합동 캠페인.hwp"
         }
       ],
-      "_attAt": "2026-09-23T20:34:23.873166+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-24T02:34:28.087288+00:00",
+      "_attRev": 3
     },
     {
       "title": "(동정) 남재헌 해수부 차관, 울산항 위험물 하역 현장 방문, 철저한 해양 안전관리 당부",
