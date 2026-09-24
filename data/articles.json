@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T03:04:28.058276+00:00",
-  "count": 2692,
+  "updated": "2026-09-24T03:19:28.256661+00:00",
+  "count": 2693,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,6 +81,27 @@
         }
       ],
       "_attAt": "2026-09-24T02:34:28.087288+00:00"
+    },
+    {
+      "title": "조현 장관, UN총회 계기 양자 외교장관 회담 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783166",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-24T00:00:00+09:00",
+      "description": "조현 외교장관은 9.23.(수) 제81회 유엔총회 고위급회기 계기에 ▴우크라이나, ▴사우디, ▴독일, ▴파키스탄, ▴브라질, ▴이란 외교장관과 각각 회담을 갖고 양자관계, 실질협력, 유엔 기반 협력 및 지역정세 등에 대해 의견을 나누었다. 조 장관은 「안드리 시비하(Andrii Sybiha)」우크라이나 외교장관과 회담을 갖고, 양국 관계 및 지역 정세 등에 대한 의견을 교환하였다. 조 장관은 최근 NATO 정상회의에서 우리 정부가 우크라이나에 대한 지원 공약을 발표한 것을 상기하고, 우크라이나 국민들이 필요로 하는 지원을 지속해 나",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559825&tblKey=GMN",
+          "filename": "[26-775](보도자료) 조현 장관, UN총회 계기 양자 외교장관 회담 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559826&tblKey=GMN",
+          "filename": "[26-775](보도자료) 조현 장관, UN총회 계기 양자 외교장관 회담 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-24T03:19:22.033346+00:00"
     },
     {
       "title": "철도역은 편리하게, 이동은 더 촘촘하게 …코레일 자회사 통합",
@@ -1902,8 +1923,8 @@
           "filename": "260923 추석명절 비상근무기관 격려 방문 보도자료(최종).pdf"
         }
       ],
-      "_attAt": "2026-09-23T21:04:24.687353+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-24T03:19:22.033346+00:00",
+      "_attRev": 3
     },
     {
       "title": "강신철 국방부장관, 취임 후 첫 공식 현장지도로 서부전선 최전방 부대 방문",
