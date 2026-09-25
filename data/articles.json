@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T06:04:25.918724+00:00",
-  "count": 2592,
+  "updated": "2026-09-25T06:19:27.032525+00:00",
+  "count": 2593,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,32 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "한-멕시코 투자보장협정 개정 협상 타결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783180",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-25T00:00:00+09:00",
+      "description": "「대한민국 정부와 멕시코합중국 정부간의 투자의 증진 및 상호보호를 위한 협정」의 개정 협상이 2026.9.23.(수) 타결되었다. 대한민국 외교부와 멕시코 경제부는 2000년 서명되고 2002년 발효된 현행 투자보장협정을 변화된 국제투자환경에 부합하도록 현대화하기 위해 개정 협상을 진행해 왔으며, 2019년 협상 개시 이후 7년 만에 합의에 이르렀다.※ 투자보장협정: 투자유치국 내의 외국인 투자 보호 및 증대를 위한 목적으로 외국인 투자에 대한 보호규범을 규정한 조약(우리나라는 '26.9월 기준 총 102개 체결, 85개 발효 중)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559944&tblKey=GMN",
+          "filename": "[26-778](보도자료) 한-멕시코 투자보장협정 개정 협상 타결.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559947&tblKey=GMN",
+          "filename": "Joint Statement(비공식 국문 번역본).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559945&tblKey=GMN",
+          "filename": "[26-778](보도자료) 한-멕시코 투자보장협정 개정 협상 타결.pdf"
+        }
+      ],
+      "_attAt": "2026-09-25T06:19:23.647115+00:00"
+    },
     {
       "title": "[보도자료] 한성숙 국무총리, 추석 명절 대비 철도 수송·안전 점검",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783165",
