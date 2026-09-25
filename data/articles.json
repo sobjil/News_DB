@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:19:25.909708+00:00",
+  "updated": "2026-09-25T12:34:28.761330+00:00",
   "count": 2594,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -71,21 +71,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198559944&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559955&tblKey=GMN",
           "filename": "[26-778](보도자료) 한-멕시코 투자보장협정 개정 협상 타결.hwpx"
         },
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198559947&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559958&tblKey=GMN",
           "filename": "Joint Statement(비공식 국문 번역본).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198559945&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559956&tblKey=GMN",
           "filename": "[26-778](보도자료) 한-멕시코 투자보장협정 개정 협상 타결.pdf"
         }
       ],
-      "_attAt": "2026-09-25T06:19:23.647115+00:00"
+      "_attAt": "2026-09-25T12:34:24.153525+00:00",
+      "_attRev": 1
     },
     {
       "title": "문체부 장관, 한-멕시코 문화협력 방안 논의",
@@ -106,7 +107,8 @@
           "filename": "[0925]문체부 보도자료-문체부 장관과 멕시코 문화부 장관 면담.pdf"
         }
       ],
-      "_attAt": "2026-09-25T06:34:23.251513+00:00"
+      "_attAt": "2026-09-25T12:34:24.153525+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 추석 명절 대비 철도 수송·안전 점검",
