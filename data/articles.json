@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T06:19:27.032525+00:00",
-  "count": 2593,
+  "updated": "2026-09-25T06:34:27.734509+00:00",
+  "count": 2594,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -86,6 +86,27 @@
         }
       ],
       "_attAt": "2026-09-25T06:19:23.647115+00:00"
+    },
+    {
+      "title": "문체부 장관, 한-멕시코 문화협력 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783181",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-25T00:00:00+09:00",
+      "description": "문체부 장관, 한-멕시코 문화협력 방안 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0925]문체부 보도자료-문체부 장관과 멕시코 문화부 장관 면담.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559953&tblKey=GMN",
+          "filename": "[0925]문체부 보도자료-문체부 장관과 멕시코 문화부 장관 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198559952&tblKey=GMN",
+          "filename": "[0925]문체부 보도자료-문체부 장관과 멕시코 문화부 장관 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-09-25T06:34:23.251513+00:00"
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 추석 명절 대비 철도 수송·안전 점검",
