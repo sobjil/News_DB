@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T02:53:19.477028+00:00",
-  "count": 2379,
+  "updated": "2026-09-27T03:07:46.810853+00:00",
+  "count": 2380,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -165,6 +165,22 @@
         }
       ],
       "_attAt": "2026-09-27T02:07:42.402214+00:00"
+    },
+    {
+      "title": "과기정통부, 맞춤형 안전 지원으로 반도체 연구 든든히 뒷받침… 올해 시범 3곳·내년 22곳 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783195",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-09-27T00:00:00+09:00",
+      "description": "- 반도체 연구실에서 반드시 확인해야 하는 '자체 안전 점검표(체크리스트)' 보급, 신축 연구실엔 설계 단계부터 전문가 자문 지원- 화학물질 안전원과 손잡고 사고 예방부터 조사까지 빈틈없이 대응",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560148&tblKey=GMN",
+          "filename": "260928 조간 (보도) 과기정통부, 맞춤형 안전 지원으로 반도체 연구 든든히 뒷받침… 올해 3곳·내년 22곳 현장 점검.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-27T03:07:43.294360+00:00"
     },
     {
       "title": "한-멕시코 투자보장협정 개정 협상 타결",
