@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T21:01:42.859600+00:00",
-  "count": 2381,
+  "updated": "2026-09-27T21:16:47.438254+00:00",
+  "count": 2382,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "'26.2분기 건설공사 계약액",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783225",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "'26.2분기 건설공사 계약액 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560260&tblKey=GMN",
+          "filename": "260928(석간) ’26.2분기 건설공사 계약액(건설정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560261&tblKey=GMN",
+          "filename": "260928(석간) ’26.2분기 건설공사 계약액(건설정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-27T21:16:41.045999+00:00"
+    },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783194",
@@ -185,8 +206,8 @@
           "filename": "260928 조간 (보도) 과기정통부, 맞춤형 안전 지원으로 반도체 연구 든든히 뒷받침… 올해 3곳·내년 22곳 현장 점검.hwpx"
         }
       ],
-      "_attAt": "2026-09-27T15:12:41.792189+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-27T21:16:41.045999+00:00",
+      "_attRev": 3
     },
     {
       "title": "인공지능(AI)으로 만드는 안전한 일상, 재난안전 분야 인공지능 전환 본격 시동",
