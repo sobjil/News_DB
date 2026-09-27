@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T23:01:42.323479+00:00",
-  "count": 2382,
+  "updated": "2026-09-27T23:16:48.014243+00:00",
+  "count": 2384,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,6 +81,48 @@
         }
       ],
       "_attAt": "2026-09-27T21:16:41.045999+00:00"
+    },
+    {
+      "title": "낮아진 입국 문턱, 맞춤형 마케팅에 '너도나도 한국으로'… '26년 8월 누적 방한객 1,500만 명 돌파",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783226",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "낮아진 입국 문턱, 맞춤형 마케팅에 '너도나도 한국으로'… '26년 8월 누적 방한객 1,500만 명 돌파 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([0928]문체부보도자료-2026년 1~8월 방한 관광 동향.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560263&tblKey=GMN",
+          "filename": "[0928]문체부보도자료-2026년 1~8월 방한 관광 동향.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560262&tblKey=GMN",
+          "filename": "[0928]문체부보도자료-2026년 1~8월 방한 관광 동향.pdf"
+        }
+      ],
+      "_attAt": "2026-09-27T23:16:41.929039+00:00"
+    },
+    {
+      "title": "(부처합동) 메틸페니데이트 오남용 예방 홍보 \"공부 잘하는 약은 없습니다!\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783227",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "(부처합동) 메틸페니데이트 오남용 예방 홍보 \"공부 잘하는 약은 없습니다!\"",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560264&tblKey=GMN",
+          "filename": "(부처합동)[26.9.28.(월) 보도자료] 메틸페니데이트 오남용 예방 홍보 “공부 잘하는 약은 없습니다!”.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560265&tblKey=GMN",
+          "filename": "(부처합동)[26.9.28.(월) 보도자료] 메틸페니데이트 오남용 예방 홍보 “공부 잘하는 약은 없습니다!”.pdf"
+        }
+      ],
+      "_attAt": "2026-09-27T23:16:41.929039+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
