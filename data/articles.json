@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T01:31:46.603223+00:00",
-  "count": 2425,
+  "updated": "2026-09-28T01:46:45.884212+00:00",
+  "count": 2426,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -900,6 +900,27 @@
         }
       ],
       "_attAt": "2026-09-28T01:31:42.378165+00:00"
+    },
+    {
+      "title": "조달청, 고유가 대응 시장안정화 조치 연말까지 연장",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783283",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "조달청, 고유가 대응 시장안정화 조치 연말까지 연장- 아스콘, 종량제 봉투 다수공급자계약 2단계경쟁 면제, 가격 조정 요건 완화 조달청(청장 백승보)은 중동전쟁으로 촉발된 고유가 상황이 장기화됨에 따라 올해 9월말까지 한시적으로 시행 중인 유가 고영향 물품에 대한 조달시장 안정화 조치를 연말까지 연장한다고 밝혔다. 대상 물품은 유가의 영향을 많이 받는 아스콘과 국민 생활에 밀접한 종량제 봉투이다. 조달청은 올 3월 이들 물품에 대해 다수공급자계약 2단계 경쟁을 면제하여 신속한 납품이 이루어지도록 하는 한편, 원자재 가격 상승시 물품",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560454&tblKey=GMN",
+          "filename": "260928_(보도자료)_고유가 대응 시장 안정화 조치 연말까지 연장.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560453&tblKey=GMN",
+          "filename": "260928_(보도자료)_고유가 대응 시장 안정화 조치 연말까지 연장.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T01:46:40.948747+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
