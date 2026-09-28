@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T00:16:52.795913+00:00",
-  "count": 2397,
+  "updated": "2026-09-28T00:31:47.082800+00:00",
+  "count": 2398,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -406,6 +406,27 @@
         }
       ],
       "_attAt": "2026-09-28T00:16:41.906369+00:00"
+    },
+    {
+      "title": "이형일 부총리, 첫 경제현안간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783243",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관은 9.27(일) 17:00, 관계부처 장관 등과 함께 경제현안간담회를 개최하였습니다. * 자세한 내용은 첨부를 참고하여 주시기 바랍니다.문의. 재정경제부 경제정책국 종합정책과 강성빈 (044-215-2712)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560309&tblKey=GMN",
+          "filename": "260927_경제현안간담회_보도자료_ff.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560308&tblKey=GMN",
+          "filename": "260927_경제현안간담회_보도자료_ff.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T00:31:43.541927+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
