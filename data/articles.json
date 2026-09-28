@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T08:51:48.266005+00:00",
-  "count": 2474,
+  "updated": "2026-09-28T09:06:54.947645+00:00",
+  "count": 2475,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1239,7 +1239,8 @@
           "filename": "[9.29.화 조간] 동네에서 치료뿐 아니라 포괄적 건강관리까지 ‘지역사회 일차의료 혁신 시범사업’ 시작.pdf"
         }
       ],
-      "_attAt": "2026-09-28T03:06:43.840840+00:00"
+      "_attAt": "2026-09-28T09:06:45.971692+00:00",
+      "_attRev": 1
     },
     {
       "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재",
@@ -1251,21 +1252,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560518&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560779&tblKey=GMN",
           "filename": "260929(조간)_명륜당의 부당지원행위 및 가맹사업법 위반행위 제재.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560519&tblKey=GMN",
-          "filename": "260929(조간)_명륜당의 부당지원행위 및 가맹사업법 위반행위 제재.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198560780&tblKey=GMN",
+          "filename": "260929(조간) 명륜당의 부당지원행위 및 가맹사업법 위반행위 제재.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560516&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560778&tblKey=GMN",
           "filename": "260929(조간)_명륜당의 부당지원행위 및 가맹사업법 위반행위 제재.hwp"
         }
       ],
-      "_attAt": "2026-09-28T03:06:43.840840+00:00"
+      "_attAt": "2026-09-28T09:06:45.971692+00:00",
+      "_attRev": 1
     },
     {
       "title": "원주시 정기감사",
@@ -1286,7 +1288,8 @@
           "filename": "(20260928)보도자료(원주시 정기감사).hwp"
         }
       ],
-      "_attAt": "2026-09-28T03:06:43.840840+00:00"
+      "_attAt": "2026-09-28T09:06:45.971692+00:00",
+      "_attRev": 1
     },
     {
       "title": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과",
@@ -1990,6 +1993,27 @@
         }
       ],
       "_attAt": "2026-09-28T08:21:44.439362+00:00"
+    },
+    {
+      "title": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783352",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계- 9월 29일(화) 「글로벌 AI 프라이버시 포럼(Global AI Privacy Forum)」 개최- 국내외 개인정보 감독기구·국제기구·사업계 전문가 한자리에···인공지능 혁신과 개인정보 보호를 잇는 국제협력 논의개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 9월 29일(화) 서울 양재 엘타워에서 국내외 개인정보 보호·인공지능(AI) 분야의 정부·국제기구·기업·학계 전문가들이 참여하는 「글로벌 AI 프라이버시 포럼(Global AI Privacy Foru",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560802&tblKey=GMN",
+          "filename": "[260928 12시보도] 개인정보위, AI 혁신을 이끌 글로벌 프라이버시 가드레일 설계(국제협력담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560801&tblKey=GMN",
+          "filename": "[260928 12시보도] 개인정보위, AI 혁신을 이끌 글로벌 프라이버시 가드레일 설계(국제협력담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T09:06:45.971692+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
