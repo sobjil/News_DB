@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T08:37:15.225679+00:00",
+  "updated": "2026-09-28T08:51:48.266005+00:00",
   "count": 2474,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1208,16 +1208,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560511&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560682&tblKey=GMN",
           "filename": "260928_(보도자료)_보건산업 기업 해외조달시장으로 판로 넓힌다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560510&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560681&tblKey=GMN",
           "filename": "260928_(보도자료)_보건산업 기업 해외조달시장으로 판로 넓힌다.pdf"
         }
       ],
-      "_attAt": "2026-09-28T02:51:43.961975+00:00"
+      "_attAt": "2026-09-28T08:51:45.274487+00:00",
+      "_attRev": 1
     },
     {
       "title": "동네에서 치료뿐 아니라 포괄적 건강관리까지 '지역사회 일차의료 혁신 시범사업' 시작",
