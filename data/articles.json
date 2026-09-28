@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T06:21:54.592115+00:00",
-  "count": 2464,
+  "updated": "2026-09-28T06:36:52.687724+00:00",
+  "count": 2467,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -433,16 +433,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560309&tblKey=GMN",
-          "filename": "260927_경제현안간담회_보도자료_ff.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198560659&tblKey=GMN",
+          "filename": "260927_경제현안간담회_보도자료_fff.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560308&tblKey=GMN",
-          "filename": "260927_경제현안간담회_보도자료_ff.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198560660&tblKey=GMN",
+          "filename": "260927_경제현안간담회_보도자료_fff.pdf"
         }
       ],
-      "_attAt": "2026-09-28T00:31:43.541927+00:00"
+      "_attAt": "2026-09-28T06:36:44.289471+00:00",
+      "_attRev": 1
     },
     {
       "title": "질병관리청장, 유엔총회 계기 글로벌 보건안보 협력 강화(9.28.)",
@@ -1169,7 +1170,7 @@
       "agency": "조달청",
       "agencyCode": "pps",
       "pubDate": "2026-09-28T00:00:00+09:00",
-      "description": "보건산업 기업, 해외 조달시장으로 판로 넓힌다 조달청-한국보건산업진흥원 협력 강화 - 해외조달 지원 역량과 보건산업 전문성 연계…국제기구 조달시장 진출 협력 - 수출지원사업 공동 추진, 혁신제품 해외실증 및 해외 수요처 발굴 지원 조달청(청장 백승보)과 한국보건산업진흥원(이하 KHIDI, 원장 고상백)은 28일 정부대전청사에서 '보건산업 분야 기업의 해외조달시장 진출 지원을 위한 업무협약'을 체결했다. 이번 협약은 국제기구 조달시장에서 비중이 높은 의약품·백신·의료기기 등 보건산업 분야의 진출 기회를 확대하기 위해 추진됐다. 조달청",
+      "description": "보건산업 기업, 해외 조달시장으로 판로 넓힌다 조달청-한국보건산업진흥원 협력 강화 - 해외조달 지원 역량과 보건산업 전문성 연계…국제기구 조달시장 진출 협력 - 수출지원사업 공동 추진, 혁신제품 해외실증 및 해외 수요처 발굴 지원 조달청(청장 백승보)과 한국보건산업진흥원(이하 KHIDI, 원장 고상백)은 28일 정부대전청사에서 '보건산업 분야 기업의 해외조달시장 진출 지원을 위한 업무협약'을 체결했다. ▶ 백승보 조달청장(왼쪽)과 고상백 한국보건산업진흥원장이 28일 정부대전청사에서 '보건산업 분야 기업의 해외조달시장 진출 지원을 위",
       "attachments": [
         {
           "ext": "hwpx",
@@ -1739,6 +1740,69 @@
         }
       ],
       "_attAt": "2026-09-28T05:36:43.732406+00:00"
+    },
+    {
+      "title": "제48회 중국 상하이 국제기능올림픽대회 대한민국 종합 2위 달성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783340",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- 금 4개, 은 14개, 동 6개, 우수 16개 획득, 국제기능올림픽대회 조직위원회(WSI) 공식발표 4개 지표 기준 종합 2위- 정보통신기술(Information and Communication Technology) 분야(웹기술, IT네트워크시스템, 클라우드컴퓨팅, 모바일앱개발, 소프트웨어테스팅, 정보통신망설비) 대한민국 강세웹기술 직종 5회 연속 금메달 쾌거고용노동부(장관 김영훈)와 한국산업인력공단(이사장 이병훈, 국제기능올림픽대회 한국위원회 회장 겸직)은 제48회 국제기능올림픽대회(중국 상하이, 9.22.~9.27.)에서 우",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560733&tblKey=GMN",
+          "filename": "260928_보도자료_제48회 중국 상하이 국제기능올림픽대회 성과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560732&tblKey=GMN",
+          "filename": "260928_보도자료_제48회 중국 상하이 국제기능올림픽대회 성과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T06:36:44.289471+00:00"
+    },
+    {
+      "title": "베트남 재무부 고위급 대표단, 韓 재정개혁 경험 공유",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783341",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "기획예산처는 9월 28일(월) 응우옌 득 치(Nguyn đc Chi) 베트남 재무부 차관을 대표로 하는 베트남 고위급 대표단과 면담을 진행하였습니다. 자세한 내용은 첨부파일을 참고 부탁드립니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560734&tblKey=GMN",
+          "filename": "★(260928) 베트남 대표단 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560735&tblKey=GMN",
+          "filename": "★(260928) 베트남 대표단 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T06:36:44.289471+00:00"
+    },
+    {
+      "title": "(참고자료)CPTPP 가입 시 경제적 영향분석 경제성장 효과와 산업별 영향 잠정치 공개",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783342",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "CPTPP 가입 시 경제적 영향분석경제성장 효과와 산업별 영향 잠정치 공개- 협정 발효 10년 후 실질 GDP 0.38%p 증가, 협정 발효 후 15년간 연평균 국내생산 제조업 기반 6.3조~6.7조원 증가, 농림수산업 약 8,500억원 감소- 정부, 향후 다양한 소통 계기에 분석 결과 설명하고 각계 의견수렴 예정 산업통상부, 농림축산식품부, 해양수산부, 중소벤처기업부와 산림청은 관계 연구기관과 함께 진행한 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 관련 경제적 영향분석을 실시하고 잠정 결과를 발표하였다. 정부는 2021",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560737&tblKey=GMN",
+          "filename": "(참고자료 28(월) 14시엠바고)통상협정정책기획과, CPTPP 가입시 경제적 영향분석 경제성장 효과와 산업별 영향 잠정치 공개.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560736&tblKey=GMN",
+          "filename": "(참고자료 28(월) 14시엠바고)통상협정정책기획과, CPTPP 가입시 경제적 영향분석 경제성장 효과와 산업별 영향 잠정치 공개.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T06:36:44.289471+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
