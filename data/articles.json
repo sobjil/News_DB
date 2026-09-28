@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T01:17:05.036986+00:00",
-  "count": 2424,
+  "updated": "2026-09-28T01:31:46.603223+00:00",
+  "count": 2425,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -879,6 +879,27 @@
         }
       ],
       "_attAt": "2026-09-28T01:16:41.763653+00:00"
+    },
+    {
+      "title": "국민권익위, 청탁금지법 시행 10년 공공기관 청탁금지법 운영실태 점검 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783282",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "국민권익위, 청탁금지법 시행 10년 공공기관 청탁금지법 운영실태 점검 결과 발표 - 2025년 청탁금지법 위반신고 1,280건 역대 최저…제재인원도 340명으로 2024년 대비 23.8% 감소- 청탁금지법 위반 유형 중 '금품등 수수' 유형이 신고건수 및 제재인원에서 높은 비중을 보이는 것으로 나타나…공직자 대상 교육 강화 등 조치 예정 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 ｢부정청탁 및 금품등 수수의 금지에 관한 법률｣(이하 청탁금지법)이 시행된 2016년 9월 28일부터 지난해 말까지 약 10년 동안의 각급 공공",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560443&tblKey=GMN",
+          "filename": "(260928) 국민권익위 청탁금지법 시행 10년 공공기관 청탁금지법 운영실태 점검 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560444&tblKey=GMN",
+          "filename": "(260928) 국민권익위 청탁금지법 시행 10년 공공기관 청탁금지법 운영실태 점검 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T01:31:42.378165+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
