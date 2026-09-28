@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T03:06:50.786815+00:00",
-  "count": 2441,
+  "updated": "2026-09-28T03:22:37.163865+00:00",
+  "count": 2450,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -80,7 +80,8 @@
           "filename": "260928(석간) ’26.2분기 건설공사 계약액(건설정책과).pdf"
         }
       ],
-      "_attAt": "2026-09-27T21:16:41.045999+00:00"
+      "_attAt": "2026-09-28T03:22:19.031311+00:00",
+      "_attRev": 1
     },
     {
       "title": "낮아진 입국 문턱, 맞춤형 마케팅에 '너도나도 한국으로'… '26년 8월 누적 방한객 1,500만 명 돌파",
@@ -1235,6 +1236,190 @@
         }
       ],
       "_attAt": "2026-09-28T03:06:43.840840+00:00"
+    },
+    {
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783305",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560539&tblKey=GMN",
+          "filename": "[교육부 09-29(화) 조간보도자료](한국교육과정평가원) 2027학년도 수능 9월 모의평가 채점 결과.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560540&tblKey=GMN",
+          "filename": "[별첨1] 2027학년도 수능 9월 모의평가_응시자 현황.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "교육부, 지방교육행·재정통합시스템 '케이(K)-에듀파인'의 국제표준 인증 획득",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783304",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "교육부, 지방교육행·재정통합시스템 '케이(K)-에듀파인'의 국제표준 인증 획득",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560538&tblKey=GMN",
+          "filename": "[교육부 09-29(화) 조간보도자료] 교육부 지방교육행재정통합시스템 케이-에듀파인의 국제표준 인증 획득.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783302",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계- 9월 29일(화) 「글로벌 AI 프라이버시 포럼(Global AI Privacy Forum)」 개최- 국내외 개인정보 감독기구·국제기구·사업계 전문가 한자리에···인공지능 혁신과 개인정보 보호를 잇는 국제협력 논의개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 9월 29일(화) 서울 양재 엘타워에서 국내외 개인정보 보호·인공지능(AI) 분야의 정부·국제기구·기업·학계 전문가들이 참여하는 「글로벌 AI 프라이버시 포럼(Global AI Privacy Foru",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560534&tblKey=GMN",
+          "filename": "[260928 12시보도] 개인정보위, AI 혁신을 이끌 글로벌 프라이버시 가드레일 설계(국제협력담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560535&tblKey=GMN",
+          "filename": "[260928 12시보도] 개인정보위, AI 혁신을 이끌 글로벌 프라이버시 가드레일 설계(국제협력담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "해외 전문가 유치 위한 '인재사업 설명회' 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783301",
+      "agency": "인사혁신처",
+      "agencyCode": "mpm",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "세계 각국에서 활약하고 있는 지도자(리더)급 차세대 동포를 국가 전문가로 유치하기 위한 '국제(글로벌) 인재사업 설명회'가 개최된다. 인사혁신처(처장 최동석)는 29일 인천에서 열리는 재외동포청 주최 '2026 세계한인주간' 행사에서 '국제 인재사업 설명회'를 개최하고, 오는 30일까지 홍보관을 운영한다고 28일 밝혔다. 이번 설명회는 세계 각국에서 정치·법률·의료·경제 등 다양한 분야에서 활동하고 있는 해외 우수 한인 인재들에게 정부의 국제 인재 유치 정책과 참여 기회를 소개하기 위해 마련됐다. 설명회에는 '세계한인차세대대회' 참",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560532&tblKey=GMN",
+          "filename": "260928 (인재기획담당관) 해외 전문가 유치 위한 ‘인재사업 설명회’ 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560533&tblKey=GMN",
+          "filename": "260928 (인재기획담당관) 해외 전문가 유치 위한 ‘인재사업 설명회’ 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "일본 리스콘 한국관 3년 연속 운영, 한·일 재난안전산업 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783311",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- 행안부-지방정부 협업으로 국내 재난안전기업 23개사 참여 지원(9.30.~10.2.)- 구매·투자 설명회 및 맞춤형 바이어 상담 등 해외 판로 개척 다각화- 일본 내각부 면담 실시 및 '2027년 안전산업박람회' 일본 기업 초청 추진 행정안전부(장관 윤호중)는 국내 재난안전기업의 해외시장 진출을 지원하기 위해 오는 9월 30일(수)부터 10월 2일(금)까지 일본 도쿄 빅사이트에서 개최되는 '2026 리스콘 도쿄'(RISCON TOKYO 2026) 박람회에서 한국관을 운영한다고 밝혔다. 리스콘 도쿄는 재해 경감, 기업 위기관리, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560555&tblKey=GMN",
+          "filename": "260929 (조간) 일본 리스콘 한국관 3년 연속 운영 한일 재난안전산업 협력 강화(재난안전산업과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560554&tblKey=GMN",
+          "filename": "260929 (조간) 일본 리스콘 한국관 3년 연속 운영 한일 재난안전산업 협력 강화(재난안전산업과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "\"주민의 직접참여 확대, 지방정부와 함께 만든다\" 행안부, 주민참여제도 담당 공무원 워크숍 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783309",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- 행안부, 9월 29일(화) '2026년 주민참여제도 담당자 워크숍' 개최- 주민소환·주민조례·주민투표 등 주요 제도 안내와 전문가 특강 진행- 중앙-지방 간 정책 방향 공유 및 현장 애로사항 청취를 통한 제도 개선 모색 행정안전부(장관 윤호중)는 9월 29일(화) 정부세종청사에서 지방정부 주민참여제도 담당 공무원을 대상으로 '2026년 주민참여제도 담당자 공동 연수(워크숍)'를 개최한다고 밝혔다. 이번 공동 연수(워크숍)는 주민이 지역 현안 해결 과정에서 직접 참여할 수 있는 기회를 확대하고, 중앙정부와 지방정부 간 정책 방향을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560551&tblKey=GMN",
+          "filename": "260929 (조간) “주민의 직접참여 확대 지방정부와 함께 만든다” 행안부 주민참여제도 담당 공무원 워크숍 개최(주민자치혁신과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560550&tblKey=GMN",
+          "filename": "260929 (조간) “주민의 직접참여 확대 지방정부와 함께 만든다” 행안부 주민참여제도 담당 공무원 워크숍 개최(주민자치혁신과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "AI 정부 사절단, BSEC 회원국과 공공 혁신의 미래 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783307",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- 행안부, 9월 29일(화)~10월 4일(일) 루마니아·조지아에 'AI 정부 사절단' 파견- 9월 30일(수) 루마니아, 10월 2일(금) 조지아에서 각각 'AI 정부 정책포럼' 개최 행정안전부(장관 윤호중)는 흑해경제협력기구(BSEC)* 회원국과 인공지능(AI)을 활용한 공공혁신의 미래를 논의하고 협력 방안을 모색하기 위해 9월 29일(화)부터 10월 4일(일)까지 루마니아와 조지아에 'AI 정부 사절단'을 파견한다고 밝혔다. * BSEC(Black Sea Economic Cooperation Organization): 흑해 연",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560546&tblKey=GMN",
+          "filename": "260929 (조간) AI 정부 사절단 파견 BSEC 회원국과 공공 혁신의 미래 논의(인공지능정부협력과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560547&tblKey=GMN",
+          "filename": "260929 (조간) AI 정부 사절단 파견 BSEC 회원국과 공공 혁신의 미래 논의(인공지능정부협력과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "분산된 데이터 역량을 하나로, 「한국데이터원」 설립 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783303",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "국가데이터처(처장 안형준)는 지난 9.3.(목) 발표된 「공공기관 기능개혁 추진방안」의 일환으로, 소관 기관인 한국통계정보원과 한국통계진흥원을 통합한 특수법인 「한국데이터원」 설립을 추진한다. 이번 통합은 단순한 기관간 물리적 통합을 넘어, 통계 중심의 지원체계를 데이터 영역으로 확장하는 기능개혁이라는 데 의미가 있다. 이를 통해 양 기관에 분산된 통계·데이터 관련 기능과 전문역량을 유기적으로 연계하고 국가데이터 정책의 실행 기반을 강화한다. 「한국데이터원」은 국가데이터 정책의 실행을 뒷받침하고 관련 사업을 체계적으로 수행하는 핵심",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560536&tblKey=GMN",
+          "filename": "260928 보도자료(분산된 데이터 역량을 하나로, 한국데이터원 설립 추진).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560537&tblKey=GMN",
+          "filename": "260928 보도자료(분산된 데이터 역량을 하나로, 한국데이터원 설립 추진).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
+    },
+    {
+      "title": "한국형 위성항법시스템(KPS) 위성 1호기 탑재체 설계 최종 점검, 제작·시험 단계 준비 돌입",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783300",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- KPS 위성 1호기 탑재체 상세설계검토회의 개최('26.9.28.(월)~30.(수))- 올해 중 탑재체, 위성, 체계·지상·사용자시스템 상세설계 마무리 예정【관련 국정과제】 28. 세계를 선도할 넥스트(NEXT) 전략기술 육성 우주항공청(청장 오태석)은 9월 28일(월)부터 30일(수)까지 3일간 한국항공우주연구원에서 국토교통부, 해양수산부, 해양경찰청 등 관계부처 및 연구개발기관과 함께 한국형 위성항법시스템(Korean Positioning System, 이하 'KPS') 위성 1호기 탑재체 상세설계검토회의*(Critical ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560530&tblKey=GMN",
+          "filename": "20260929(조간) 한국형 위성항법시스템(KPS) 위성 1호기 탑재체 설계 최종 점검, 제작·시험 단계 준비 돌입.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560531&tblKey=GMN",
+          "filename": "20260929(조간) 한국형 위성항법시스템(KPS) 위성 1호기 탑재체 설계 최종 점검, 제작·시험 단계 준비 돌입.hwp"
+        }
+      ],
+      "_attAt": "2026-09-28T03:22:19.031311+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
