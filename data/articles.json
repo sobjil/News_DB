@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T05:21:57.642684+00:00",
-  "count": 2463,
+  "updated": "2026-09-28T05:36:50.589863+00:00",
+  "count": 2464,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -137,16 +137,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560267&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560271&tblKey=GMN",
           "filename": "260928_보도자료_메틸페니데이트 오남용 예방 홍보_최종배포.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560266&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560270&tblKey=GMN",
           "filename": "260928_보도자료_메틸페니데이트 오남용 예방 홍보_최종배포.pdf"
         }
       ],
-      "_attAt": "2026-09-27T23:31:43.236932+00:00"
+      "_attAt": "2026-09-28T05:36:43.732406+00:00",
+      "_attRev": 1
     },
     {
       "title": "당정, 반복 담합 근절 입법 추진방안 발표",
@@ -1705,6 +1706,27 @@
         }
       ],
       "_attAt": "2026-09-28T05:21:44.810192+00:00"
+    },
+    {
+      "title": "노사발전재단-한국생명존중희망재단, 중장년·취약노동자 생명 보호를 위해 손잡는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783335",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-28T00:00:00+09:00",
+      "description": "- 자살 예방 인식개선·고위험군 대상자 상호 연계 및 사후대응 협력 -- 전국 중장년내일센터·이음센터를 생명 안전망 거점으로, 생명위기 양방향 연계 체계 구축- 노사발전재단(사무총장 박종필)은 한국생명존중희망재단(이사장 정윤순)과 9월 28일(월) 14시 노사발전재단 6층 대회의실에서, 중장년과 취약노동자를 대상으로 한 생명존중 문화 확산을 위해 노사발전재단-한국생명존중희망재단 업무협약(MOU)을 체결했다. 경제적 위기계층의 자살 예방이 범정부 과제로 추진되는 가운데, 이번 협약은 전국에 분포하고 있는 재단의 네트워크를(중장년내일센",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560657&tblKey=GMN",
+          "filename": "260928_보도자료_노사발전재단-한국생명존중희망재단 업무협약 체결(노사발전재단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198560658&tblKey=GMN",
+          "filename": "260928_보도자료_노사발전재단-한국생명존중희망재단 업무협약 체결(노사발전재단).pdf"
+        }
+      ],
+      "_attAt": "2026-09-28T05:36:43.732406+00:00"
     },
     {
       "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
