@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T04:43:50.328721+00:00",
-  "count": 2526,
+  "updated": "2026-09-29T04:58:57.377202+00:00",
+  "count": 2529,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1547,6 +1547,64 @@
         }
       ],
       "_attAt": "2026-09-29T04:43:46.130786+00:00"
+    },
+    {
+      "title": "[참고] 서소문고가 철거공사 붕괴사고, 건설사고조사위원회 조사기간 연장",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783478",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "[참고] 서소문고가 철거공사 붕괴사고, 건설사고조사위원회 조사기간 연장 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561419&tblKey=GMN",
+          "filename": "260929(참고) 서소문고가 철거공사 붕괴사고 건설사고조사위원회 조사기간 연장(건설안전과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561420&tblKey=GMN",
+          "filename": "260929(참고) 서소문고가 철거공사 붕괴사고 건설사고조사위원회 조사기간 연장(건설안전과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T04:58:48.399474+00:00"
+    },
+    {
+      "title": "국방부-우주항공청, 제3회 미래국방과학기술 정책협의회 우주분과 공동 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783476",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "국방부-우주항공청, 제3회 미래국방과학기술 정책협의회 우주분과 공동 개최□ 국방부와 우주항공청은 9월 29일(화) 서울 국방부 청사에서 제3회 미래국방과학기술 정책협의회 우주분과(이하 '우주분과')를 공동으로 개최하였습니다.ㅇ우주분과는 국방부와 과학기술정보통신부가 2024년에 체결한 업무협약에 따라 설치된 국장급 협의체로서, 양 기관은 지난 2025년 6월 제1회 우주분과 회의 개최 이후 반기별 정례 회의를 통해 민·군 우주 업무 협업 필요사항을 논의하고 있습니다.ㅇ회의에는 국방부 방위정책관, 우주항공청 우주항공정책국장 직무대리 등",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561412&tblKey=GMN",
+          "filename": "260929 [국방부ㆍ우주항공청] 제3회 국방부-우주항공청 정책협의회 우주분과 공동 개최_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-09-29T04:58:48.399474+00:00"
+    },
+    {
+      "title": "2026년 300인 이상 공시기업의 노동자 592만명, 전년 대비 9.1만명 증가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783477",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "- 소속 노동자 규모 비중은 전년 대비 모두 증가, 소속 외 노동자는 감소- 2026년 고용형태 공시 결과 발표(매년 3월 31일 기준) 고용노동부(장관 김영훈)는 상시 노동자 수 300인 이상 기업을 대상으로 하는 '26년 고용형태 공시 결과를 발표했다. 고용 형태를 공시한 기업은 총 4,205개(공시율 99.9%)로 전년 대비 29개 기업이 증가했으며, 공시 노동자 수는 총 5,918천명으로 전년 대비 91천명 증가하여 공시기업 및 공시 노동자 수 모두 증가 추세를 지속했다. 고용형태 공시제는 상시 노동자 수 300인 이상 기업",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561414&tblKey=GMN",
+          "filename": "260929_보도자료_2026년 고용형태 공시 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561413&tblKey=GMN",
+          "filename": "260929_보도자료_2026년 고용형태 공시 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T04:58:48.399474+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
