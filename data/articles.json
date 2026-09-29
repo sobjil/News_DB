@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T01:06:53.709957+00:00",
-  "count": 2479,
+  "updated": "2026-09-29T01:21:55.535265+00:00",
+  "count": 2481,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -517,6 +517,48 @@
         }
       ],
       "_attAt": "2026-09-29T01:06:44.581594+00:00"
+    },
+    {
+      "title": "법제처, AI로 국민과 법의 거리를 좁힌다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783413",
+      "agency": "법제처",
+      "agencyCode": "moleg",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "법제처, AI로 국민과 법의 거리를 좁힌다- '국민과 법 사이, AI가 더 가깝게' 슬로건 下, AI 법제플랫폼 구축 집중 홍보법제처(처장 조원철)는 '국민과 법 사이-AI가 더 가깝게'라는 메시지를 바탕으로, 인공지능(AI)을 활용해 국민과 공무원이 법령정보를 보다 쉽고 편리하게 이용할 수 있도록 지원하는 주요 사업과 서비스를 공식 SNS 채널을 통해 홍보하고 있다. AI 기술이 단순히 디지털 전환을 넘어, 국민에게는 보다 쉬운 법령정보 접근을, 공무원에게는 보다 신속하고 효율적인 업무처리를 가능하게 한다는 점을 알리는데 초점을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561115&tblKey=GMN",
+          "filename": "[9월 29일 배포] 법제처, AI로 국민과 법의 거리를 좁힌다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561116&tblKey=GMN",
+          "filename": "[9월 29일 배포] 법제처, AI로 국민과 법의 거리를 좁힌다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T01:21:44.218484+00:00"
+    },
+    {
+      "title": "2026년 2분기 해외직접투자 동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783412",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "2026년 2분기(4~6월) 해외직접투자액은 총투자액 기준 205.2억 달러로전년 동기(155.0억 달러) 대비 32.3% 증가하였습니다. ※ 자세한 내용은 첨부 파일을 참고해 주시기 바랍니다.문의. 재정경제부 대외경제국 국제경제과 남궁향 (044-215-7632)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561098&tblKey=GMN",
+          "filename": "★260929 2026년 2분기 해외직접투자 동향.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561097&tblKey=GMN",
+          "filename": "★260929 2026년 2분기 해외직접투자 동향.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T01:21:44.218484+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
@@ -2344,8 +2386,8 @@
           "filename": "[260928 15시반보도] 개보위원장-통신3사 최고경영자 간담회 개최(개인정보보호정책과)_최종.pdf"
         }
       ],
-      "_attAt": "2026-09-28T19:06:48.010838+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-29T01:21:44.218484+00:00",
+      "_attRev": 3
     },
     {
       "title": "「국가데이터기본법」 관련 데이터전문가 자문회의 개최",
@@ -2371,8 +2413,8 @@
           "filename": "[국가데이터처] 「국가데이터기본법」 관련 데이터전문가 자문회의 개최(보도자료).hwp"
         }
       ],
-      "_attAt": "2026-09-28T19:06:48.010838+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-29T01:21:44.218484+00:00",
+      "_attRev": 3
     },
     {
       "title": "국가우주위원회 민간위원 워크숍 개최",
@@ -2393,8 +2435,8 @@
           "filename": "260929(조간) 국가우주위원회 민간위원 워크숍 개최.hwp"
         }
       ],
-      "_attAt": "2026-09-28T19:06:48.010838+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-29T01:21:44.218484+00:00",
+      "_attRev": 3
     },
     {
       "title": "부처별 흩어진 복지사업 점검해 빈틈없는 사회안전망 모색",
