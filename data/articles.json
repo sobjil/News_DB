@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T06:58:52.894848+00:00",
-  "count": 2550,
+  "updated": "2026-09-29T07:13:53.473768+00:00",
+  "count": 2551,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -538,7 +538,8 @@
           "filename": "260929 보도자료(김구 탄생 150주년 뮤지컬 공연， 10월 1일 국회서 개최)최종.pdf"
         }
       ],
-      "_attAt": "2026-09-29T01:06:44.581594+00:00"
+      "_attAt": "2026-09-29T07:13:47.248878+00:00",
+      "_attRev": 1
     },
     {
       "title": "법제처, AI로 국민과 법의 거리를 좁힌다",
@@ -2065,6 +2066,32 @@
         }
       ],
       "_attAt": "2026-09-29T06:43:47.847386+00:00"
+    },
+    {
+      "title": "정책을 만나고, 과학을 배우며, 안전한 미래를 그리다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783507",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "정책을 만나고, 과학을 배우며,안전한 미래를 그리다- 대학생과 함께하는「지진과학·정책 토크콘서트」 개최 기상청(청장 이미선)은 9월 29일(화) 고려대학교 메디힐지구환경관 1층 유임순홀에서 지진과 기상청 업무에 관심 있는 대학생과 일반인을 위한「지진과학·정책 토크콘서트」를 개최하였다.이번 행사는 미래세대가 지진과학을 쉽게 이해하고, 기상청이 추진하고 있는 주요 지진정책과 서비스를 살펴보며 자유롭게 의견을 나눌 수 있도록 마련되었다. 특히, 과학자와 대학생, 정책 담당자가 함께 소통함으로써 지진에 대한 이해와 공감대를 넓히고, 더욱 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561564&tblKey=GMN",
+          "filename": "20260928_보도자료_엠바고16시_정책을 만나고, 과학을 배우며, 안전한 미래를 그리다1.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561566&tblKey=GMN",
+          "filename": "20260928_보도자료_엠바고16시_정책을 만나고, 과학을 배우며, 안전한 미래를 그리다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561565&tblKey=GMN",
+          "filename": "20260928_보도자료_엠바고16시_정책을 만나고, 과학을 배우며, 안전한 미래를 그리다.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T07:13:47.248878+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
