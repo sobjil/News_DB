@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T04:28:48.256440+00:00",
-  "count": 2525,
+  "updated": "2026-09-29T04:43:50.328721+00:00",
+  "count": 2526,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1526,6 +1526,27 @@
         }
       ],
       "_attAt": "2026-09-29T04:21:46.616286+00:00"
+    },
+    {
+      "title": "우주항공청-국방부, 우주산업과 국방우주의 접점 넓힌다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783475",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "- 제3회 미래국방과학기술 정책협의회 우주분과 공동 개최 - 민·군 우주수송 협력 확대와 국방위성 국내 발사체 활용에 합의하고, 국가 우주역량 강화를 위한 협력 지속 우주항공청(청장 오태석)과 국방부는 9월 29일(화) 서울 국방부 청사에서 제3회 미래국방과학기술 정책협의회 우주분과(이하 '우주분과')를 공동으로 개최하였다. 우주분과는 국방부와 과학기술정보통신부가 2024년에 체결한 업무협약에 따라 설치된 국장급 협의체로서, 양 기관은 지난 2025년 6월 제1회 우주분과 회의 개최 이후 반기별 정례 회의를 통해 민·군 우주업무 협",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561403&tblKey=GMN",
+          "filename": "260930(조간) 우주항공청-국방부_우주산업과 국방우주의 접점 넓힌다.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561404&tblKey=GMN",
+          "filename": "260930(조간) 우주항공청-국방부_우주산업과 국방우주의 접점 넓힌다.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T04:43:46.130786+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
