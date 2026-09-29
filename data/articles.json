@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T05:43:55.240448+00:00",
-  "count": 2536,
+  "updated": "2026-09-29T05:58:54.486496+00:00",
+  "count": 2537,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -229,7 +229,8 @@
           "filename": "(260929) 방학 중 초등돌봄교실 점심급식 제공해야 적극행정 국민신청으로 복지사각지대 해소(최종).pdf"
         }
       ],
-      "_attAt": "2026-09-28T23:51:43.584493+00:00"
+      "_attAt": "2026-09-29T05:58:45.781177+00:00",
+      "_attRev": 1
     },
     {
       "title": "책으로 만나는 '청렴', 국민이 직접 추천한 청렴도서 30권은?",
@@ -250,7 +251,8 @@
           "filename": "(260929) 책으로 만나는 청렴， 국민이 추천한 청렴도서 30권.pdf"
         }
       ],
-      "_attAt": "2026-09-28T23:51:43.584493+00:00"
+      "_attAt": "2026-09-29T05:58:45.781177+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림휴양, 경험하고 아는 만큼 가치 보인다 - 국립산림과학원, 산림휴양 기능?혜택 인지한 국민, 지불의사액 2.2배 높아",
@@ -1756,6 +1758,27 @@
         }
       ],
       "_attAt": "2026-09-29T05:43:46.999573+00:00"
+    },
+    {
+      "title": "[참고] 추석 연휴기간 총 3,075만 명 이동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783487",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "[참고] 추석 연휴기간 총 3,075만 명 이동 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561481&tblKey=GMN",
+          "filename": "260929(참고) 추석 연휴기간 총 3,075만 명 이동(교통정책총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561482&tblKey=GMN",
+          "filename": "260929(참고) 추석 연휴기간 총 3,075만 명 이동(교통정책총괄과).pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T05:58:45.781177+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
