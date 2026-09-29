@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T08:14:06.958074+00:00",
-  "count": 2562,
+  "updated": "2026-09-29T08:28:55.871682+00:00",
+  "count": 2564,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -978,7 +978,8 @@
           "filename": "260929_KOSHA 옴부즈만 3차 회의 개최(안전보건공단).pdf"
         }
       ],
-      "_attAt": "2026-09-29T02:21:43.721524+00:00"
+      "_attAt": "2026-09-29T08:28:45.895384+00:00",
+      "_attRev": 1
     },
     {
       "title": "기상청, 태양광·풍력 발전량 예측 돕는 고해상도 일사·바람 예측자료 제공",
@@ -990,21 +991,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198561242&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561611&tblKey=GMN",
           "filename": "20260929_보도자료_엠바고11시_기상청, 태양광·풍력 발전량 예측 돕는 고해상도 일사·바람 예측자료 제공.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198561244&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561613&tblKey=GMN",
           "filename": "20260929_보도자료_엠바고11시_기상청, 태양광·풍력 발전량 예측 돕는 고해상도 일사·바람 예측자료 제공.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198561243&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561612&tblKey=GMN",
           "filename": "20260929_보도자료_엠바고11시_기상청, 태양광·풍력 발전량 예측 돕는 고해상도 일사·바람 예측자료 제공.hwp"
         }
       ],
-      "_attAt": "2026-09-29T02:21:43.721524+00:00"
+      "_attAt": "2026-09-29T08:28:45.895384+00:00",
+      "_attRev": 1
     },
     {
       "title": "고유가 상황 지속에 따라 연말까지 농·어업용 면세유 유가연동보조금 791억 원 추가 지원",
@@ -2341,6 +2343,48 @@
         }
       ],
       "_attAt": "2026-09-29T08:13:46.670388+00:00"
+    },
+    {
+      "title": "조현 장관, 3국협력사무국(TCS) 신임 사무총장단 만나 한중일 협력 위한 역할 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783523",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "조현 외교부 장관은 9.29.(화) 한중일 3국협력사무국(TCS) 니시오카 타쓰시(NISHIOKA Tatsushi) 사무총장, 김한규 사무차장, 리징(LI Jing) 사무차장을 접견하여 총장단의 취임(9.1.)을 축하하고 향후 한중일 3국 협력 강화를 위한 적극적인 역할을 당부했다. ※ 한중일 3국 협력 사무국(TCS, Trilateral Cooperation Secretariat) - (개요) 제2차 한중일 정상회의('09.10.10.) 계기 우리측 제안으로 '11년 서울에 설립, 한중일 3국 협력 심화를 위한 인적교류 사업 등을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561656&tblKey=GMN",
+          "filename": "[26-782](보도자료) 조현 장관, 3국협력사무국(TCS) 신임 사무총장단 만나 한중일 협력 위한 역할 당부.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561657&tblKey=GMN",
+          "filename": "[26-782](보도자료) 조현 장관, 3국협력사무국(TCS) 신임 사무총장단 만나 한중일 협력 위한 역할 당부.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T08:28:45.895384+00:00"
+    },
+    {
+      "title": "[보도자료] 2026 전국 현장소통 시리즈 '전주지역 소상공인 지원정책 간담회' 개최 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783522",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "\"전통시장·골목상권, 지역의 미래를 만드는 공간으로\"- 국무총리비서실, 「2026 전국 현장소통 시리즈」 전주에서 소상공인 정책간담회 개최 -- 빈 점포 활용부터 '라이프 디자인(Life Design) 상권'까지, 원도심 상권의 새로운 활용방안 논의- AI·온라인소비 확산에 대응, 개별 점포 넘어 '상권 단위' 지원 필요성 제기□ 국무총리비서실은 9월 29일 전북 전주시(남부시장 모이장*)에서 「2026 전국 현장소통 시리즈」의 일환으로 '전통시장과 골목상권 활성화'를 위한 소상공인 정책간담회를 개최**했다.* 전주 남부시장 내 옛",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561654&tblKey=GMN",
+          "filename": "260929_2026 전국 현장소통 시리즈 &#039;전주지역 소상공인 지원정책 간담회&#039; 개최 결과 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561655&tblKey=GMN",
+          "filename": "260929_2026 전국 현장소통 시리즈 &#039;전주지역 소상공인 지원정책 간담회&#039; 개최 결과 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T08:28:45.895384+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
