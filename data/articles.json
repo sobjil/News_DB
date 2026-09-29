@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T07:13:53.473768+00:00",
-  "count": 2551,
+  "updated": "2026-09-29T07:28:57.070592+00:00",
+  "count": 2554,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -560,7 +560,8 @@
           "filename": "[9월 29일 배포] 법제처, AI로 국민과 법의 거리를 좁힌다.pdf"
         }
       ],
-      "_attAt": "2026-09-29T01:21:44.218484+00:00"
+      "_attAt": "2026-09-29T07:28:48.088639+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 2분기 해외직접투자 동향",
@@ -572,16 +573,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198561098&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561151&tblKey=GMN",
           "filename": "★260929 2026년 2분기 해외직접투자 동향.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198561097&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561150&tblKey=GMN",
           "filename": "★260929 2026년 2분기 해외직접투자 동향.hwp"
         }
       ],
-      "_attAt": "2026-09-29T01:21:44.218484+00:00"
+      "_attAt": "2026-09-29T07:28:48.088639+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, 서울대에 '인공지능(AI) 반도체 혁신연구소' 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성",
@@ -2092,6 +2094,53 @@
         }
       ],
       "_attAt": "2026-09-29T07:13:47.248878+00:00"
+    },
+    {
+      "title": "충주국유림관리소, 안전보건협의체 개최 및 산림청 규제합리화 대표사례 홍보",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783511",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "산림청 충주국유림관리소(소장 조창준)는 9월 29일 관리소 회의실에서 도급·수급인 및 직영 근로자 대표 등 관계자 20여 명이 참석한 가운데 '2026년 제8차 안전보건협의체'를 개최했다.이번 협의체는 「산업안전보건법」 제64조에 따라 산림사업 현장의 산업재해를 예방하고 도급인과 수급인 간 소통을 강화하기 위해 마련된 자리로, 현장 위험성 평가와 안전사고 재발 방지 대책을 논의하고 위급 상황에 대비한 심폐소생술 교육 등 맞춤형 안전보건 교육을 진행했다.특히 충주국유림관리소는 이날 참석자들에게 산림청의 '2025~2026년 규제합리화",
+      "attachments": [],
+      "_attAt": "2026-09-29T07:28:48.088639+00:00"
+    },
+    {
+      "title": "동부지방산림청, 정선에서 임업인들과 산림규제 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783509",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "동부지방산림청(청장 남송희)은 추석 명절을 앞둔 9월 23일, 관내 유실수 재배 임가를 직접 방문하여 임업인의 노고를 격려하고 현장의 목소리를 청취했다. 이날 남송희 동부지방산림청장은 임산물 재배 현황과 생산 과정을 살펴보고, 밤 재배 임가에서 직접 밤 줍기에 참여해 수확 작업을 함께하며 임가의 일손을 보탰다. 아울러, 현장에서 임업인들과 소통하며 임산물 상품화 및 판로 등에 대한 임산물 생산 과정에서 겪는 어려움에 대한 의견을 들었다. 또한, 추석 명절을 맞아 임가에서 직접 생산한 임산물과 가공품을 구매하며 우리 임산물 소비 활성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561574&tblKey=GMN",
+          "filename": "(260929)보도자료(정선 산림분야 규제합리화 지역모니터링단 운영).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-29T07:28:48.088639+00:00"
+    },
+    {
+      "title": "통일부-스탠퍼드대 숙의민주주의연구소 MOU 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783512",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "통일부, 스탠퍼드大 숙의민주주의연구소와 손잡고 미래형 '시민대화' 선도한다 - 서면 교환방식으로 MOU 체결, 세계적 공론화 노하우에 AI 기술을 결합한 새로운 한국형 공론화 기법을 모색하다 - 【관련 국정과제】 117. 국민과 함께하는 한반도 평화·통일정책 추진 □ 통일부(장관 정동영)는 미국 스탠퍼드대학교 숙의민주주의연구소(Deliberative Democracy Lab, 소장 제임스 피시킨)와 숙의대화 분야 상호 협력을 위한 양해각서(MOU)를 지난 9월 1일(월) 자로 체결했다고 밝혔다. o 이번 MOU는 평화·통일 정책에 ",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561587&tblKey=GMN",
+          "filename": "260929 (통일부 보도자료) 통일부-스탠퍼드대 숙의민주주의연구소 MOU 체결.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561586&tblKey=GMN",
+          "filename": "260929 (통일부 보도자료) 통일부-스탠퍼드대 숙의민주주의연구소 MOU 체결.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T07:28:48.088639+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
