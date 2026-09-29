@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T04:58:57.377202+00:00",
-  "count": 2529,
+  "updated": "2026-09-29T05:14:00.767209+00:00",
+  "count": 2532,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -132,16 +132,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560974&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561383&tblKey=GMN",
           "filename": "[26.9.29.(화) 보도자료] 식약처, ‘마약류 회색지대, 어떻게 발견하고 개입할 것인가’ 주제로 세미나 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198560975&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561384&tblKey=GMN",
           "filename": "[26.9.29.(화) 보도자료] 식약처, ‘마약류 회색지대, 어떻게 발견하고 개입할 것인가’ 주제로 세미나 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-28T23:06:43.705915+00:00"
+      "_attAt": "2026-09-29T05:13:47.021868+00:00",
+      "_attRev": 1
     },
     {
       "title": "27개국 차세대동포 리더 59명, 송도에 모였다...'세계한인차세대대회(FLC)' 개막",
@@ -1605,6 +1606,74 @@
         }
       ],
       "_attAt": "2026-09-29T04:58:48.399474+00:00"
+    },
+    {
+      "title": "적극행정 점수 적립제도 5개 우수기관 첫 표창",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783481",
+      "agency": "인사혁신처",
+      "agencyCode": "mpm",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "공무원의 적극행정 실천에 점수를 부여해 적립하고, 쌓인 점수를 보상으로 연계한 '적극행정 점수 적립(마일리지)제도' 우수 운영 사례로 선정된 5개 기관이 첫 포상을 받는다. 인사혁신처(처장 최동석)는 적극행정 점수 적립제도를 체계적으로 운영하고, 특별한 보상으로 적극행정 문화를 확산한 우수사례 5건을 처음 선정하고, 29일 시상식을 개최한다고 밝혔다. 우수사례로 선정된 기관은 ▲국가유산청 ▲재외동포청 ▲법제처 ▲농림축산식품부 ▲해양경찰청 등이다. 국가유산청은 기존의 단순 금전적 보상에서 벗어나 다양한 보상방식을 마련해 직원들의 자발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561443&tblKey=GMN",
+          "filename": "260929 (적극행정과) 적극행정 점수 적립제도 5개 우수기관 첫 표창.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561444&tblKey=GMN",
+          "filename": "260929 (적극행정과) 적극행정 점수 적립제도 5개 우수기관 첫 표창.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T05:13:47.021868+00:00"
+    },
+    {
+      "title": "한국수치모델개발원 공식 출범,수치모델 기술의 지속 가능한 성장 기반 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783479",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "한국수치모델개발원 공식 출범,수치모델 기술의 지속 가능한 성장 기반 마련- 기상청, 9월 29일 한국수치모델개발원 출범식 개최 - 기상청(청장 이미선)은 9월 29일(화) 기상청 서울청사에서 「한국수치모델개발원 출범식」을 개최하고, 수치모델 연구개발을 전문적으로 수행하는 한국수치모델개발원의 공식 출범을 알렸다.이번 출범식에는 국회, 학계, 관계기관을 비롯한 국내외 수치모델 분야 주요 인사가 참석하였다. 특히 세계 수치예측 분야를 선도하는 유럽중기예보센터(ECMWF)와 기상청의 주요 협력 기관인 캐나다 환경기후변화부(ECCC), 호주",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561436&tblKey=GMN",
+          "filename": "20260929_보도자료_엠바고14시_한국수치모델개발원 공식 출범, 수치모델 기술의 지속 가능한 성장 기반 마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561438&tblKey=GMN",
+          "filename": "20260929_보도자료_엠바고14시_한국수치모델개발원 공식 출범, 수치모델 기술의 지속 가능한 성장 기반 마련.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561437&tblKey=GMN",
+          "filename": "20260929_보도자료_엠바고14시_한국수치모델개발원 공식 출범, 수치모델 기술의 지속 가능한 성장 기반 마련.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T05:13:47.021868+00:00"
+    },
+    {
+      "title": "제15기 글로벌 녹색성장 서포터스 해단식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783480",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "외교부는 9.29.(화) 제15기 글로벌 녹색성장 서포터스 해단식을 개최하였다. 30명의 국내·외 대학(원)생들로 구성된 제15기 글로벌 녹색성장 서포터스는, 약 3개월간 '생물다양성의 이해와 지속가능한 생태계 보전 방안 모색'을 주제로 다채로운 활동을 진행하였다. 제15기 글로벌 녹색성장 서포터스는 7.20.(월) 발대식을 개최하여 전문가 강연을 청취하고, 우리 환경외교 홍보 방안을 고민하는 시간을 가지며 활동을 시작하였다. 이후 국립생물자원관과 국립생태원에 방문하여 우리나라의 생태계 보전 노력에 대한 이해도를 높였다. 또한 청년",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561439&tblKey=GMN",
+          "filename": "[26-781](보도자료) 제15기 글로벌 녹색성장 서포터스 해단식 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561440&tblKey=GMN",
+          "filename": "[26-781](보도자료) 제15기 글로벌 녹색성장 서포터스 해단식 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-09-29T05:13:47.021868+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
