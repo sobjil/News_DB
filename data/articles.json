@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T09:58:54.702682+00:00",
-  "count": 2567,
+  "updated": "2026-09-29T10:20:14.751302+00:00",
+  "count": 2581,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2467,6 +2467,370 @@
         }
       ],
       "_attAt": "2026-09-29T09:13:49.439424+00:00"
+    },
+    {
+      "title": "농업과 우주기술의 만남… 농촌진흥청, '제1회 알디에이 인사이트 데이' 연다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783571",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 한국농식품생명과학협회, 식량과기후와 함께 9월 30일 농업과학도서관 오디토리움에서 '제1회 RDA 인사이트 데이'를 연다. 'RDA 인사이트 데이'는 빠르게 변화하는 농업과학 분야의 최신 연구·정책·산업 동향을 공유하고, 이를 농업 연구개발(R&D)의 새로운 아이디어로 연결하기 위해 마련한 개방형 지식 교류의 장이다. 이날 행사에는 농업의 미래와 과학기술에 관심이 있다면 누구나 참여할 수 있다. 농촌진흥청 직원과 연구자, 정책 담당자, 산업계 전문가뿐 아니라 대학생과 일반 국민에게도 행사를 개방한다. 서로",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561821&tblKey=GMN",
+          "filename": "23-3_농업과_우주기술의_만남_농촌진흥청__‘제1회_알디에이_인사이트_데이’_연다(연정국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561822&tblKey=GMN",
+          "filename": "23-3_농업과_우주기술의_만남_농촌진흥청__‘제1회_알디에이_인사이트_데이’_연다(연정국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561820&tblKey=GMN",
+          "filename": "23-3_농업과_우주기술의_만남_농촌진흥청__‘제1회_알디에이_인사이트_데이’_연다(연정국).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "환절기 닭 관리, 평소와 다른 변화부터 살피세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783569",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 환절기에는 닭의 성장 단계에 맞춰 계사 온도를 관리하고, 물·사료 섭취량과 행동 등 평소와 달라진 신호를 함께 살펴야 한다고 당부했다. 육계의 적정 사육 온도는 성장 단계에 따라 다르다. 0~1일령에는 34도, 2주령에는 28~29도, 5주령에는 22~23도 수준으로 성장할수록 온도를 단계적으로 낮춰 관리한다. 육계 후기에는 사육 온도가 적정 수준보다 10도 정도 낮아지면 사료 섭취량이 7% 이상 늘고, 같은 체중을 늘리는 데 필요한 사료량도 약 15% 증가할 수 있다. 환절기에는 낮과 밤의 기온 차가 커",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561815&tblKey=GMN",
+          "filename": "23-2_환절기_닭_관리__평소와_다른_변화부터_살피세요(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561816&tblKey=GMN",
+          "filename": "23-2_환절기_닭_관리__평소와_다른_변화부터_살피세요(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561814&tblKey=GMN",
+          "filename": "23-2_환절기_닭_관리__평소와_다른_변화부터_살피세요(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783567",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 벼 생육 조사에 영상과 인공지능(AI)을 적용한 '인공지능 벼 생육 모니터링 시스템'을 구축하고, 현장 적용성과 효과를 검증하고 있다고 밝혔다. 벼 생육 상태를 주기적으로 살펴보는 것은 농업인의 재배 관리뿐만 아니라 농업연구와 정책 수립에도 중요한 기초 자료로 활용된다. 최근 폭염과 집중호우 등 이상기상이 잦아지고 병해충을 비롯한 농업재해도 빈번해지면서 벼 생육상황을 보다 자주 확인할 필요성이 커지고 있다. 현재 벼 생육 조사는 조사원이 논에 직접 들어가 생육 상태와 수량 관련 형질을 조사하는 방식으로 이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561809&tblKey=GMN",
+          "filename": "23-1_사람_대신_영상과_인공지능(AI)으로_벼_생육을_살핀다(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561810&tblKey=GMN",
+          "filename": "23-1_사람_대신_영상과_인공지능(AI)으로_벼_생육을_살핀다(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561808&tblKey=GMN",
+          "filename": "23-1_사람_대신_영상과_인공지능(AI)으로_벼_생육을_살핀다(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "축산농가, 응급환자 발생 대비'구급차 진입로'미리 확인하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783565",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립축산과학원은 9월 22일, 외부인과 차량 출입이 엄격히 제한되는 가축사육구역 내에서 응급환자가 발생했을 때를 가정한 '가축사육구역 내 응급환자 발생 대응 훈련'을 실시했다. 이번 훈련은 방역 체계로 인해 구급대의 진입이 지체될 수 있는 축산업 특성을 고려해 환자 발견부터 신고, 상황 전파, 구급 차량 진입 과정을 점검하고 신속 대응체계를 구축하기 위해 마련됐다. 한우사 작업 직원이 폭염으로 의식을 잃고 쓰러진 상황을 실전과 동일하게 가정, 최초 환자 발견과 119 신고를 시작부터 △내부 상황 전파 △구급",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561803&tblKey=GMN",
+          "filename": "22-5_(즉시보도_통전지)축산농가__응급환자_발생_대비‘구급차_진입로’미리_확인하세요(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561804&tblKey=GMN",
+          "filename": "22-5_(즉시보도_통전지)축산농가__응급환자_발생_대비‘구급차_진입로’미리_확인하세요(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561802&tblKey=GMN",
+          "filename": "22-5_(즉시보도_통전지)축산농가__응급환자_발생_대비‘구급차_진입로’미리_확인하세요(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "\"추석 선물용 약초, 받는 이 취향 따라 고르세요\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783563",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 추석을 맞아 인삼, 도라지, 오미자, 황기, 참당귀 등 우리나라에서 오랫동안 식품과 약용 소재로 이용해 온 약용작물 5종을 소개하고, 받는 이의 취향에 맞는 선물 선택법과 일상에서 간편하게 즐기는 방법을 제안했다. △익숙하고 품격 있는 선물로 '인삼'= 면역력 증진과 피로 개선에 도움을 주는 대표 약용작물로, 명절 선물로 꾸준히 사랑받고 있다. 수삼 그대로 선물할 수 있고, 홍삼, 절편, 차, 분말 등 다양한 형태로 가공돼 받는 사람 나이와 기호에 맞게 고르기 쉽다. 수삼은 몸통이 단단하고 표면에 상처가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561797&tblKey=GMN",
+          "filename": "22-4_추석선물용약용작물취향따라고르세요(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561798&tblKey=GMN",
+          "filename": "22-4_추석선물용약용작물취향따라고르세요(원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561796&tblKey=GMN",
+          "filename": "22-4_추석선물용약용작물취향따라고르세요(원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "농촌진흥청 32개 누리집, AI 더 쉽고 빠르게 검색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783561",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 본청과 소속·산하기관 32개 누리집에 흩어진 농업·행정정보를 한곳에서 쉽고 빠르게 확인할 수 있도록, 생성형 인공지능(AI)을 활용한 '지능형 통합검색 서비스'를 시작한다고 밝혔다. 그동안 이용자는 원하는 정보를 얻으려면 어느 기관이 해당 자료를 제공하는지부터 확인한 뒤, 그 기관의 누리집으로 이동해 다시 검색하는 절차를 거쳐야 했다. 이번에 선보이는 서비스는 이러한 번거로움을 줄여 하나의 검색창에서 여러 기관의 정보를 한꺼번에 확인할 수 있도록 한 것이 특징이다. 검색 방식도 한층 간편해졌다. 이용자가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561791&tblKey=GMN",
+          "filename": "22-3_농촌진흥청_32개_누리집__AI_더_쉽고_빠르게_검색(지식정보화담당관)_수정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561792&tblKey=GMN",
+          "filename": "22-3_농촌진흥청_32개_누리집__AI_더_쉽고_빠르게_검색(지식정보화담당관)_수정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561790&tblKey=GMN",
+          "filename": "22-3_농촌진흥청_32개_누리집__AI_더_쉽고_빠르게_검색(지식정보화담당관)_수정.hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "우리 품종 맛보기 … '한 달, 한 품종–동행 밥상' 뜬다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783559",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)이 자체 개발한 우수 품종 한 가지를 매달 선정해 구내식당에서 제공하는 '한 달, 한 품종–동행 밥상'이 신선한 관심을 끌고 있다. '한 달, 한 품종–동행밥상'은 동일한 방식으로 진행되던 기존 '한 달, 한 품종' 프로그램을 현장 소통형 행사로 확대한 것이다. 농촌진흥청은 9월 품종으로 '해담쌀'을 선정하고, 한 달 내 '해담쌀'로 지은 밥을 제공함으로써 품종에 대한 이해를 돕고, 직원들이 앞장서 소비를 주도하는 기회를 만들고 있다. 이와 관련, 9월 21일에는 이승돈 청장과 품종 개발 육종가, '해담쌀' ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561785&tblKey=GMN",
+          "filename": "22-2_우리품종맛보기한달한품종_동행밥상뜬다(연정국_식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561786&tblKey=GMN",
+          "filename": "22-2_우리품종맛보기한달한품종_동행밥상뜬다(연정국_식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561784&tblKey=GMN",
+          "filename": "22-2_우리품종맛보기한달한품종_동행밥상뜬다(연정국_식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "고소애, '근력 유지' 건강기능식품 기능성 원료 인정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783557",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 고소애(갈색거저리 애벌레) 가수분해물*이 '노화로 인해 감소할 수 있는 근력 유지에 도움을 줄 수 있음'을 식품의약품안전처로부터 인정받아 건강기능식품 기능성 원료로 등록됐다고 밝혔다.* 가수분해물: 단백질을 효소 등을 이용해 작은 펩타이드나 아미노산으로 분해한 것농촌진흥청은 지난 2016년 3월 식품공전에 고소애를 일반식품 원료로 등록한 이래, 새로운 단백질 소재로 활용하기 위한 연구를 지속해 왔다. 수술 후 암 환자를 대상으로 한 영양개선에 관한 임상 연구에서는 고소애가 근 감소 억제와 면역세포 기능 향",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561779&tblKey=GMN",
+          "filename": "22-1_(농식품부브리핑)고소애근력유지건강기능식품기능성원료인정(농과원_농식품부).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561780&tblKey=GMN",
+          "filename": "22-1_(농식품부브리핑)고소애근력유지건강기능식품기능성원료인정(농과원_농식품부).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561778&tblKey=GMN",
+          "filename": "22-1_(농식품부브리핑)고소애근력유지건강기능식품기능성원료인정(농과원_농식품부).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "농촌진흥청, 전북 식품 연구 기관과 손잡고 지역 농식품 산업 키운다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783555",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립식량과학원은 9월 21일 전북특별자치도 완주군 본원에서 전북 지역식품 연구기관 협의회 소속 8개 기관과 '국가와 지역이 상생하는 협력체계 구축을 위한 업무협약'을 체결했다. 이번 협약에는 국립식량과학원을 비롯해 전북바이오융합산업진흥원, 전주농생명소재연구원, 농축산용미생물산업육성지원센터, 남원시바이오산업연구원, 진안홍삼연구소, 임실치즈앤식품연구소, 발효미생물산업진흥원, 고창식품산업연구원 등 모두 9개 기관이 참여했다. 협약의 핵심은 국가 연구기관의 연구개발 성과와 지역 연구기관이 보유한 산업 현장 네트워크",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561773&tblKey=GMN",
+          "filename": "21-6_(즉시보도_통전지)_농촌진흥청__전북_식품_연구기관과_손잡고_지역_농식품_산업_키운다(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561774&tblKey=GMN",
+          "filename": "21-6_(즉시보도_통전지)_농촌진흥청__전북_식품_연구기관과_손잡고_지역_농식품_산업_키운다(식량원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561772&tblKey=GMN",
+          "filename": "21-6_(즉시보도_통전지)_농촌진흥청__전북_식품_연구기관과_손잡고_지역_농식품_산업_키운다(식량원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783553",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 '2026년 치매관리시행계획 결과 평가'에서 치매 관리 정책 발전에 기여한 공로를 인정받아 보건복지부 장관 표창을 수상했다고 밝혔다. 이번 수상으로 농촌진흥청은 지난해에 이어 2년 연속 우수기관에 선정되는 성과를 거뒀다. 농업·농촌 자원을 활용한 치유농업 프로그램을 개발하고, 이를 지역 치매안심센터와 연계해 현장에 확산한 점이 높은 평가를 받았다. 농촌진흥청은 2020년 보건복지부와 '치유농업 활용 치매예방 업무협약'을 맺은 이후 치매 예방과 인지 건강 증진을 지원하는 치유농업 프로그램을 개발·보급해 왔다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561767&tblKey=GMN",
+          "filename": "21-5_(즉시보도_통전지)농촌진흥청__치매관리시행계획_평가_2년_연속_‘우수기관’(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561768&tblKey=GMN",
+          "filename": "21-5_(즉시보도_통전지)농촌진흥청__치매관리시행계획_평가_2년_연속_‘우수기관’(지원국).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561766&tblKey=GMN",
+          "filename": "21-5_(즉시보도_통전지)농촌진흥청__치매관리시행계획_평가_2년_연속_‘우수기관’(지원국).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "추석 명절상 더 풍성하게…돼지고기 부위별로 즐겨요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783551",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "올해 추석 명절에는 삼겹살과 목심뿐 아니라 앞다리, 뒷다리, 등심, 안심 등 다양한 돼지고기 부위를 활용해 보자. 부위마다 맛과 영양, 어울리는 조리법이 달라 특성을 알고 고르면 명절 음식을 한층 다채롭게 차릴 수 있다. 농촌진흥청(청장 이승돈)은 추석을 맞아 돼지고기의 부위별 영양 특성과 알맞은 조리법을 소개하고, 음식과 가족 구성원의 기호에 맞춰 다양한 부위를 활용할 것을 권했다. 돼지고기는 '식육의 부위별·등급별 및 종류별 구분 방법'에 따라 앞다리, 목심, 갈비, 등심, 안심, 삼겹살, 뒷다리 등 7개 대분할 부위와 25개 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561761&tblKey=GMN",
+          "filename": "21-4_추석_명절상_더_풍성하게…돼지고기_부위별로_즐겨요(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561762&tblKey=GMN",
+          "filename": "21-4_추석_명절상_더_풍성하게…돼지고기_부위별로_즐겨요(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561760&tblKey=GMN",
+          "filename": "21-4_추석_명절상_더_풍성하게…돼지고기_부위별로_즐겨요(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "폭염·폭우 겪은 약용작물 재배지, 내년 생육 위해 토양 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783549",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "더덕, 도라지, 황기처럼 몇 해에 걸쳐 재배하는 여러해살이 약용작물은 그해의 토양 환경 변화가 이듬해까지 이어질 수 있다. 농촌진흥청(청장 이승돈)은 여름철 폭염과 가뭄, 집중호우를 겪은 약용작물의 안정적 생육을 위해 철저한 토양 환경 관리를 당부했다. 약용작물 재배지는 폭염과 가뭄이 이어지면 토양 수분이 줄고 작물의 수분·양분 흡수 능력이 떨어진다. 반대로 집중호우 뒤에는 토양 빈틈(공극)이 물로 채워져 산소가 부족해지고, 축축한 상태가 지속된다. 또, 경사지·두둑의 겉흙(표토)과 양분이 유실되거나, 물길이 바뀔 수 있고, 젖은 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561755&tblKey=GMN",
+          "filename": "21-3_폭염폭우겪은약용작물재배지내년생육위해토양점검(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561756&tblKey=GMN",
+          "filename": "21-3_폭염폭우겪은약용작물재배지내년생육위해토양점검(원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561754&tblKey=GMN",
+          "filename": "21-3_폭염폭우겪은약용작물재배지내년생육위해토양점검(원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "추석 사과 시장, 우리 품종이 이끈다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783547",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "추석 사과 시장에서 국내 육성 품종의 존재감이 커지고 있다. 농촌진흥청(청장 이승돈)은 대표적인 추석 사과 품종인 '홍로'에 이어 '아리수', '이지플'까지 농촌진흥청 개발 품종이 잇따라 보급되면서 추석 사과 시장을 이끄는 우리 품종의 기반이 넓어지고 있다고 밝혔다. '홍로'는 9월 상순에 익는 품종으로, 껍질에 붉은색이 잘 들고 식감이 뛰어나 대표적인 추석 사과로 자리 잡았다. 현재 국내 사과 재배면적의 16.1%를 차지하며 국내 주요 사과 품종으로 자리매김하고 있다. '아리수'도 추석 시장에서 주목받고 있다. '아리수'는 9월 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561749&tblKey=GMN",
+          "filename": "21-2_추석사과시장우리품종이이끈다(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561750&tblKey=GMN",
+          "filename": "21-2_추석사과시장우리품종이이끈다(원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561748&tblKey=GMN",
+          "filename": "21-2_추석사과시장우리품종이이끈다(원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
+    },
+    {
+      "title": "국산 배 대목묘 생산에 '배 유전자원 보존 기술' 활용한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783545",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-09-29T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 배 유전자원의 보존·재생을 위해 개발한 기내 발근(시험관 내 뿌리내림) 기술을 현장 적용에 적합하도록 개선했다. '기내 발근'은 배양 용기 안에서 기른 식물체에 뿌리가 나도록 유도하는 과정이다. 배나무는 삽목* 등 일반 증식 방법으로 뿌리내림이 어렵고, 발근과 생장 속도도 품종마다 달라 균일한 묘목을 대량으로 생산하는 데 어려움이 있다. 이에 대량증식을 위한 조직배양 기술이 대안 중 하나로 떠오르고 있다.* 삽목: 식물의 가지, 잎, 뿌리 등을 자르거나 꺾어 흙 속에 꽂아 뿌리 내리게 하는 일 특히 국내 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561743&tblKey=GMN",
+          "filename": "21-1_국산배대목묘생산에배유전자원보존기술활용한다(농과원_원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561744&tblKey=GMN",
+          "filename": "21-1_국산배대목묘생산에배유전자원보존기술활용한다(농과원_원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198561742&tblKey=GMN",
+          "filename": "21-1_국산배대목묘생산에배유전자원보존기술활용한다(농과원_원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-09-29T10:19:48.623673+00:00"
     },
     {
       "title": "'26.2분기 건설공사 계약액",
