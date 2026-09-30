@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T22:58:55.719591+00:00",
-  "count": 2504,
+  "updated": "2026-09-30T23:13:52.757219+00:00",
+  "count": 2507,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -123,6 +123,69 @@
         }
       ],
       "_attAt": "2026-09-30T22:13:54.108230+00:00"
+    },
+    {
+      "title": "[보도참고] 글로벌 규제조화센터, 최신 ICH 가이드라인 교육으로 현장 적용 역랑 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783858",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "[보도참고] 글로벌 규제조화센터, 최신 ICH 가이드라인 교육으로 현장 적용 역랑 높인다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563203&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] 글로벌 규제조화센터, 최신 ICH 가이드라인 교육으로 현장 적용 역랑 높인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563204&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] 글로벌 규제조화센터, 최신 ICH 가이드라인 교육으로 현장 적용 역랑 높인다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:13:46.586725+00:00"
+    },
+    {
+      "title": "[보도참고] '25년 화장품 안전성 정보 보고 사례 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783857",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "[보도참고] '25년 화장품 안전성 정보 보고 사례 발표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563201&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] ’25년 화장품 안전성 정보 보고 사례 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563202&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] ’25년 화장품 안전성 정보 보고 사례 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:13:46.586725+00:00"
+    },
+    {
+      "title": "전국 어린이 6만여 명, 식생활 안전 정책에 직접 목소리 낸다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783856",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "전국 어린이 6만여 명, 식생활 안전 정책에 직접 목소리 낸다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563199&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도자료] 전국 어린이 6만여 명, 식생활 안전 정책에 직접 목소리 낸다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563200&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도자료] 전국 어린이 6만여 명, 식생활 안전 정책에 직접 목소리 낸다.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:13:46.586725+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
