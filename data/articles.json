@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T23:13:52.757219+00:00",
-  "count": 2507,
+  "updated": "2026-09-30T23:29:13.760437+00:00",
+  "count": 2512,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -186,6 +186,131 @@
         }
       ],
       "_attAt": "2026-09-30T23:13:46.586725+00:00"
+    },
+    {
+      "title": "올가을, 대한민국은 공연 중... 10~11월에 공연 보러 오세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783863",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "올가을, 대한민국은 공연 중... 10~11월에 공연 보러 오세요 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1001]문체부보도자료-2026 대한민국은 공연중 캠페인 추진.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563220&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-2026 대한민국은 공연중 캠페인 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563219&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-2026 대한민국은 공연중 캠페인 추진.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563221&tblKey=GMN",
+          "filename": "2026 대한민국은 공연중 프로그램북.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:28:45.914788+00:00"
+    },
+    {
+      "title": "문화 분야 사회적기업 현장 목소리 청취... 예비사회적기업 공모도 시작",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783862",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "문화 분야 사회적기업 현장 목소리 청취... 예비사회적기업 공모도 시작 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1001]문체부보도자료-문화 분야 사회적기업 대상 간담회 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563217&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-문화 분야 사회적기업 대상 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563216&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-문화 분야 사회적기업 대상 간담회 개최.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563218&tblKey=GMN",
+          "filename": "2026년도 문화체육관광형 예비사회적기업 지정 계획 공고.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:28:45.914788+00:00"
+    },
+    {
+      "title": "전직 재정당국 수장 한 목소리로, \"미래를 여는 전략적 투자 사령탑\" 역할 주문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783860",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "박홍근 장관은 9월 30일(수) 18시 30분 서울에서 역대 기획예산처 장관 정책 간담회를 개최하였습니다. 자세한 내용을 첨부를 참고해주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563209&tblKey=GMN",
+          "filename": "261001 (보도자료) 전직 기획예산처 장관 정책 간담회 ★.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563210&tblKey=GMN",
+          "filename": "261001 (보도자료) 전직 기획예산처 장관 정책 간담회 ★.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:28:45.914788+00:00"
+    },
+    {
+      "title": "외국인 관광객, '케이-투어 패스'로 교통·관광지 이용 할인 한 번에",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783861",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "외국인 관광객, '케이-투어 패스'로 교통·관광지 이용 할인 한 번에 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1001]문체부보도자료-외국인 관광객 전용 케이-투어 패스 시범 운영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563215&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-외국인 관광객 전용 케이-투어 패스 시범 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563214&tblKey=GMN",
+          "filename": "[1001]문체부보도자료-외국인 관광객 전용 케이-투어 패스 시범 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T23:28:45.914788+00:00"
+    },
+    {
+      "title": "「\"막힌 투자는 뚫고, 현장의 애로는 풉니다\" 현장중심 기업투자·혁신 지원방안(2차)」 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783859",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "정부는 10.1일(목) 08:00 이형일 경제부총리 주재로 개최된 비상경제본부 회의 겸 경제관계장관회의에서 관계부처 합동으로 「\"막힌 투자는 뚫고, 현장의 애로는 풉니다\" 현장중심 기업투자·혁신 지원방안(2차)」을 발표하였습니다.※ 자세한 내용은 첨부자료를 참고하여 주시기 바랍니다.문의. 재정경제부 정책조정관 정책조정총괄과 김근호 (044-215-4514)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563206&tblKey=GMN",
+          "filename": "261001 현장중심 기업투자혁신 지원방안(2차) 보도자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563208&tblKey=GMN",
+          "filename": "(별첨) 현장중심 기업투자혁신 지원방안(2차).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563205&tblKey=GMN",
+          "filename": "261001 현장중심 기업투자혁신 지원방안(2차) 보도자료.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563207&tblKey=GMN",
+          "filename": "(별첨) 현장중심 기업투자혁신 지원방안(2차).hwp"
+        }
+      ],
+      "_attAt": "2026-09-30T23:28:45.914788+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
@@ -2365,8 +2490,8 @@
           "filename": "제12회 포용적이고 지속가능한 삶의 질 측정 포럼 개최 보도자료.hwp"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"청년 첫 경력, 가장 확실한 투자\" 대담한 재정 투자와 세심한 정책 설계로 청년일자리 회복 추진 가속화",
@@ -2387,8 +2512,8 @@
           "filename": "260930_보도자료_2026년 제2차 청년고용촉진특별위원회 개최(수정).pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "산림청, 가로수 관리 현장 지원을 위한 컨설팅 실시",
@@ -2414,8 +2539,8 @@
           "filename": "(260930)보도자료-산림청，_가로수_관리_현장_지원을_위한_컨설팅_실시.hwp"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "강신철 국방부장관, 해군작전사령부 대비태세 현장지도 반드시 승리하는 '필승해군' 당부",
@@ -2431,8 +2556,8 @@
           "filename": "260930 [국방부 보도자료] 강신철 국방부장관 해군작전사령부 대비태세 현장지도_게시.hwpx"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "2025 회계연도 기업체노동비용조사 결과 발표",
@@ -2453,8 +2578,8 @@
           "filename": "260930_보도자료_2025 회계연도 기업체노동비용조사 결과.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 8월 사업체노동력조사 및 2026년 4월 시도별 임금·근로시간조사 결과",
@@ -2475,8 +2600,8 @@
           "filename": "260930_보도자료_&#039;26년 8월 사업체노동력조사 및 2026년 4월 시도별 임금·근로시간조사 결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "식약처, GLP-1 계열 비만치료제 안전사용 방법 안내",
@@ -2497,8 +2622,8 @@
           "filename": "[26.9.30.(수) 보도자료] 식약처, GLP-1 계열 비만치료제 안전사용 방법 안내.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "병무청장, 기관 인공지능(AI) 전문인재의 현장의견 청취",
@@ -2519,8 +2644,8 @@
           "filename": "20260930(최종배포) 기관 인공지능(AI)전문인재의 현장의견 청취.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "'제53회 관광의 날', '케이-관광' 새 역사 쓰고 있는 관광인 격려",
@@ -2541,8 +2666,8 @@
           "filename": "[0930]문체부보도자료-제53회 관광의 날 기념식 개최.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 생명지킴추진본부, 소상공인 자살예방을 위한 업무협약",
@@ -2563,8 +2688,8 @@
           "filename": "260929 생명지킴본부 소상공인 자살예방을 위한 업무협약 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-09-30T17:13:48.110109+00:00",
-      "_attRev": 2
+      "_attAt": "2026-09-30T23:28:45.914788+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도참고] 2등급 의료기기 인증 절차 '원스톱' 시행으로 신속 시장 진출 지원",
