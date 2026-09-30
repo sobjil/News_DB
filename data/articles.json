@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T06:14:18.386491+00:00",
-  "count": 2580,
+  "updated": "2026-09-30T06:28:57.495644+00:00",
+  "count": 2581,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -708,7 +708,8 @@
           "filename": "0930 조선왕릉 숲길에서 만나는 가을 낭만(붙임2).pdf"
         }
       ],
-      "_attAt": "2026-09-30T00:28:46.106238+00:00"
+      "_attAt": "2026-09-30T06:28:46.601903+00:00",
+      "_attRev": 1
     },
     {
       "title": "「순천 선암사 측간」 등 사찰 해우소 3개소 국가민속문화유산 지정",
@@ -729,7 +730,8 @@
           "filename": "0930 「순천 선암사 측간」 등 사찰 해우소 3개소 국가민속문화유산 지정(붙임2).pdf"
         }
       ],
-      "_attAt": "2026-09-30T00:28:46.106238+00:00"
+      "_attAt": "2026-09-30T06:28:46.601903+00:00",
+      "_attRev": 1
     },
     {
       "title": "국가유산수리 표준시방서·표준품셈의 현장 적용성 확대",
@@ -750,7 +752,8 @@
           "filename": "0930 국가유산수리 표준시방서·표준품셈의 현장 적용성 확대(붙임2).pdf"
         }
       ],
-      "_attAt": "2026-09-30T00:28:46.106238+00:00"
+      "_attAt": "2026-09-30T06:28:46.601903+00:00",
+      "_attRev": 1
     },
     {
       "title": "금년 국세수입은 478.6조원으로 전망",
@@ -762,16 +765,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198562014&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562044&tblKey=GMN",
           "filename": "26년 국세수입 재추계 보도자료.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198562015&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562045&tblKey=GMN",
           "filename": "26년 국세수입 재추계 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-09-30T00:28:46.106238+00:00"
+      "_attAt": "2026-09-30T06:28:46.601903+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림청, 소나무재선충병 현장 대응력 강화 위한 대책회의 개최",
@@ -2881,6 +2885,22 @@
         }
       ],
       "_attAt": "2026-09-30T06:13:47.771409+00:00"
+    },
+    {
+      "title": "동부지방산림청, 국유림영림단 대상 안전보건교육 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783761",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-09-30T00:00:00+09:00",
+      "description": "동부지방산림청(청장 남송희)은 9월 30일 정선군 임계면 백두대간생태수목원에서 29개 국유림영림단 단장들을 대상으로 산업재해 예방을 위한 안전보건교육과 소통간담회를 실시했다. 이번 교육은 「산업안전보건법」에 따른 사업주(국유림영림단)의 안전보건교육 이행을 지도·지원하기 위해 마련됐으며, 산림사업장의 사고를 예방하고 국유림영림단의 안전사고 대응 역량을 높이기 위해 추진됐다. 특히 10월에는 벌목작업 중심의 안전사고 위험이 높은 솎아베기 사업이 이루어지는 만큼, 위험요인에 선제적으로 대응할 수 있도록 교육을 실시했다. 주요 내용으로는 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562687&tblKey=GMN",
+          "filename": "보도자료(국유림영림단 대상 안전보건교육 실시).hwpx"
+        }
+      ],
+      "_attAt": "2026-09-30T06:28:46.601903+00:00"
     },
     {
       "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
