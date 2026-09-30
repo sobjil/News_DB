@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T01:14:23.323363+00:00",
-  "count": 2507,
+  "updated": "2026-09-30T01:28:51.577433+00:00",
+  "count": 2508,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1331,6 +1331,27 @@
         }
       ],
       "_attAt": "2026-09-30T01:13:46.758832+00:00"
+    },
+    {
+      "title": "세계유산 종묘에서 나만의 전통 향기 만든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783650",
+      "agency": "국가유산청",
+      "agencyCode": "khs",
+      "pubDate": "2026-09-30T00:00:00+09:00",
+      "description": "국가유산청 궁능유적본부 종묘관리소(소장 김영범)는 문화소외계층의 문화향유권을 확대하기 위해 10월 14일(수) 오후 3시 30분에 종묘(서울 종로구)에서 세계유산 종묘를 관람하고, 역사 속 전통 향기를 조향하는 체험행사 「미래로 피어나는 종묘의 향」을 운영한다. 이번 행사는 종묘관리소와 서울특별시중부교육지원청이 체결한 업무협약의 일환으로, 서울형 교육복지 특화 프로그램 '서울희망교실' 참여 학생의 문화 향유권을 확대하고 세계유산 종묘에 대한 관심을 제고하고자 마련되었다. 참여 학생과 교원은 종묘관리소 국가유산안내해설사의 이야기를 들",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562177&tblKey=GMN",
+          "filename": "0930 세계유산 종묘에서 나만의 전통 향기 만든다(본문).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562176&tblKey=GMN",
+          "filename": "0930 세계유산 종묘에서 나만의 전통 향기 만든다(붙임).pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T01:28:46.879728+00:00"
     },
     {
       "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
