@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T09:29:04.233760+00:00",
-  "count": 2619,
+  "updated": "2026-09-30T09:43:53.493380+00:00",
+  "count": 2621,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3889,6 +3889,53 @@
         }
       ],
       "_attAt": "2026-09-30T09:13:59.226173+00:00"
+    },
+    {
+      "title": "제2026-15회 원자력안전위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783844",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-09-30T00:00:00+09:00",
+      "description": "제2026-15회 원자력안전위원회 개최 원자력안전위원회(위원장 최원호, 이하 원안위)는 9월 30일(수) 제2026-15회 원자력안전위원회 회의를 개최하여 1건의 안건을 심의한 결과, 해당 안건을 재상정하기로 하였다. 심의·의결 제1호원안위는 한국수력원자력(주)(이하 한수원)이 고리 3·4호기와 한빛 1·2호기의 사고관리계획서* 승인(안) 및 운영변경허가**(안)에 대하여 제2026-14회('26.9.11)와 제2026-15회('26.9.30)에 상정하였으나, 안건의 중요성을 고려하여 추가 숙의가 필요하다는 위원들의 의견을 반영하여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563120&tblKey=GMN",
+          "filename": "260930_제2026-15회 원자력안전위원회 개최_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563121&tblKey=GMN",
+          "filename": "260930_제2026-15회 원자력안전위원회 개최_보도자료.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563122&tblKey=GMN",
+          "filename": "제2026-15회_제1호_WH900형 원전(고리 3·4호기， 한빛 1·2호기) 사고관리계획서 승인 및 운영변경허가(안).pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T09:43:47.600400+00:00"
+    },
+    {
+      "title": "일부 지역에 머물던 만성질환 관리, 더 많은 지역(국민)으로 확대(9.30.수)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783843",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-09-30T00:00:00+09:00",
+      "description": "일부 지역에 머물던 만성질환 관리, 더 많은 지역(국민)으로 확대- 일부 지역 대상 만성질환 관리사업을 단계적 전국 확대에 나서 보편적 건강권 보장 및 건강형평성 확보 노력- 기존 '고혈압·당뇨병 등록교육센터'를 '만성질환 통합관리센터로 개편·확대'하여 지역사회 만성질환 관리 기능 강화 질병관리청은(청장 임승관) 현재 19개 시·군·구에서 운영하고 있는 '고혈압·당뇨병 등록교육센터(이하 '고당센터')'를 '만성질환 통합관리센터(이하 '통합센터')로 개편하고 관리 대상 지역 확대를 추진할 계획이라고 밝혔다. 질병관리청은 현재 지역사회",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563116&tblKey=GMN",
+          "filename": "[9.30.보도참고자료] 일부 지역에 머물던 만성질환 관리, 더 많은 지역(국민)으로 확대.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563117&tblKey=GMN",
+          "filename": "[9.30.보도참고자료] 일부 지역에 머물던 만성질환 관리, 더 많은 지역(국민)으로 확대.pdf"
+        }
+      ],
+      "_attAt": "2026-09-30T09:43:47.600400+00:00"
     },
     {
       "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
