@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T04:14:00.016085+00:00",
-  "count": 2542,
+  "updated": "2026-09-30T04:28:51.067326+00:00",
+  "count": 2543,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2076,6 +2076,32 @@
         }
       ],
       "_attAt": "2026-09-30T04:13:47.872490+00:00"
+    },
+    {
+      "title": "국세청, 체납관리단 모범 실태확인원 및 체험수기 시상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783706",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-09-30T00:00:00+09:00",
+      "description": "국세청, 체납관리단 모범 실태확인원 및 체험수기 시상 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562388&tblKey=GMN",
+          "filename": "260928 “국민의 목소리를 담아 새롭게 도약하는 국세행정”.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562390&tblKey=GMN",
+          "filename": "260928 “국민의 목소리를 담아 새롭게 도약하는 국세행정”.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198562389&tblKey=GMN",
+          "filename": "260928 “국민의 목소리를 담아 새롭게 도약하는 국세행정”.hwp"
+        }
+      ],
+      "_attAt": "2026-09-30T04:28:47.559296+00:00"
     },
     {
       "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
