@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T23:11:58.181724+00:00",
-  "count": 2523,
+  "updated": "2026-10-01T23:26:46.944962+00:00",
+  "count": 2524,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -239,6 +239,27 @@
         }
       ],
       "_attAt": "2026-10-01T23:11:43.739136+00:00"
+    },
+    {
+      "title": "2026년 9월 소비자물가동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784075",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "□ 9월 소비자물가지수는 전월대비 0.3%, 전년동월대비 2.9% 각각 상승 o 전월비는 서비스는 하락하였으나, 전기·가스·수도, 농축수산물, 공업제품이 상승하여 전체 0.3% 상승 o 전년동월비는 농축수산물은 하락하였으나, 서비스, 공업제품, 전기·가스·수도가 상승하여 전체 2.9% 상승□ 식료품및에너지제외지수는 전월대비 0.1% 하락, 전년동월대비 2.8% 상승 농산물및석유류제외지수는 전월대비 0.2%, 전년동월대비 2.7% 각각 상승□ 생활물가지수는 전월대비 0.7%, 전년동월대비 2.5% 각각 상승 o 전년동월대비 식품은 1",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564235&tblKey=GMN",
+          "filename": "2026년 9월 소비자물가동향(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564236&tblKey=GMN",
+          "filename": "2026년 9월 소비자물가동향(보도자료).pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T23:26:42.332760+00:00"
     },
     {
       "title": "축산환경 분야 협업 우수사례를 찾습니다",
