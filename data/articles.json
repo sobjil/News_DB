@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:41:52.412642+00:00",
+  "updated": "2026-10-01T08:56:49.359160+00:00",
   "count": 2623,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1408,16 +1408,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563462&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563472&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취).hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563461&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563471&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취).hwp"
         }
       ],
-      "_attAt": "2026-10-01T02:43:45.552061+00:00"
+      "_attAt": "2026-10-01T08:56:44.255095+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, 피지컬 AI 확산을 지원할 '무선전력전송 실환경 테스트베드' 본격 가동",
@@ -1433,7 +1434,8 @@
           "filename": "261001 석간 (보도) 과기정통부, 피지컬 AI 확산을 지원할 ‘무선전력전송 실환경 테스트베드’ 본격 가동.hwpx"
         }
       ],
-      "_attAt": "2026-10-01T02:43:45.552061+00:00"
+      "_attAt": "2026-10-01T08:56:44.255095+00:00",
+      "_attRev": 1
     },
     {
       "title": "우량 종자에서 건강한 묘목까지, 산림종묘산업 발전 함께한다",
