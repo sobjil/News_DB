@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T02:29:02.967723+00:00",
-  "count": 2557,
+  "updated": "2026-10-01T02:43:52.424278+00:00",
+  "count": 2559,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1341,6 +1341,43 @@
         }
       ],
       "_attAt": "2026-10-01T02:28:48.331321+00:00"
+    },
+    {
+      "title": "서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783923",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취- 차나무 재배 임업경영체 찾아 임업직불금 이행상황 점검 및 소통 강화 -서부지방산림청(청장 김인천)은 지난 30일 관내 차나무 재배 임업경영체를 직접 방문하여 임업인의 경영 여건과 현장 실태를 살펴보는 소통의 시간을 가졌다.이번 현장 방문은 임업인들의 노고를 격려하고 실질적인 고충을 해소하기 위한 소통 행정의 일환으로 추진되었고, 임산물의 생산재배 과정에서의 어려움, 인력 및 판로 확보, 임업경영에 따른 행정 절차 등에 대한 의견을 청취하였다. 이날 현장에서 차나무 재배 임가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563462&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취).hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563461&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 임업경영체 현장 방문 및 애로사항 청취).hwp"
+        }
+      ],
+      "_attAt": "2026-10-01T02:43:45.552061+00:00"
+    },
+    {
+      "title": "과기정통부, 피지컬 AI 확산을 지원할 '무선전력전송 실환경 테스트베드' 본격 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783921",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "- 10.1.(목) 무선전력전송 실환경 테스트베드 개소식 개최- 전기차·로봇 등에 적용되는 중·대출력 무선전력전송 기술의 실증·상용화 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563455&tblKey=GMN",
+          "filename": "261001 석간 (보도) 과기정통부, 피지컬 AI 확산을 지원할 ‘무선전력전송 실환경 테스트베드’ 본격 가동.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-01T02:43:45.552061+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
