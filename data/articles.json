@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T17:57:04.261723+00:00",
-  "count": 2513,
+  "updated": "2026-10-01T18:11:52.039617+00:00",
+  "count": 2516,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,38 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "고혈압이 골관절염 악화시키는 '연결고리' 찾았다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784063",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "- 전남대·인제대 공동연구팀, 골관절염의 새로운 치료 전략 제시...사이언스誌 게재- 고혈압으로 증가한 뇌 호르몬이 수용체와 결합해 연골 파괴를 촉진하는 핵심 기전 규",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564211&tblKey=GMN",
+          "filename": "261002 조간 (보도) 고혈압이 골관절염 악화시키는 ‘연결고리’ 찾았다-전남대·인제대 공동연구팀, 골관절염의 새로운 치료 전략 제시.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-01T18:11:41.898962+00:00"
+    },
+    {
+      "title": "같은 원자, 다른 순서로 재료의 한계를 넘다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784062",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "- 포항공대 이대수 교수 연구팀, 원자층 '그라데이션' 설계 원리 규명...사이언스 지(誌) 게재- 차세대 전자소자와 반도체 절연막, 열 센서 개발을 위한 원천기술로 활용 기대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564206&tblKey=GMN",
+          "filename": "261002 조간 (보도) 같은 원자, 다른 순서로 재료의 한계를 넘다 포항공대 이대수 교수 연구팀, 원자층 ‘그라데이션’ 설계 원리 규명.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-01T18:11:41.898962+00:00"
+    },
     {
       "title": "축산환경 분야 협업 우수사례를 찾습니다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783854",
@@ -3008,6 +3040,27 @@
       ],
       "_attAt": "2026-10-01T17:56:44.185740+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "엘리엇 국제투자분쟁(ISDS) 환송중재 사건 판정 선고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784061",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "엘리엇 국제투자분쟁(ISDS) 환송중재 사건 판정 선고- 원중재와 같은 판정부가 인과관계를 인정, 동일한 배상원금 선고 - 어제 (9. 30.(수)) 19:00경(한국 시각) 미국 사모펀드 엘리엇(Elliott)이 韓-美 자유무역협정(FTA)에 기하여 한국 정부를 상대로 제기한 국제투자분쟁(ISDS) 사건의 환송중재 판정부는 '한국 정부는 청구인에게 배상원금 미화 약 4,849만 달러 및 지연이자(연 복리 5%) 등*을 지급하라'는 판정을 선고하였습니다. [※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564205&tblKey=GMN",
+          "filename": "(공동보도자료) 엘리엇 국제투자분쟁(ISDS) 환송중재 사건 판정 선고 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564204&tblKey=GMN",
+          "filename": "(공동보도자료) 엘리엇 국제투자분쟁(ISDS) 환송중재 사건 판정 선고 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T18:11:41.898962+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
