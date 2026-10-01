@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T06:43:53.306156+00:00",
-  "count": 2602,
+  "updated": "2026-10-01T06:59:06.130358+00:00",
+  "count": 2604,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -588,7 +588,8 @@
           "filename": "(국영문 동시배포) 1001 한국전통문화대, 주한 외국인 대상 ‘2026 K-헤리티지 리더십 프로그램’ 참가자 모집(붙임1,2).pdf"
         }
       ],
-      "_attAt": "2026-10-01T00:44:21.852910+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "공공부문 사이버보안 징계기준 강화, 기관장 엄중 책임",
@@ -614,7 +615,8 @@
           "filename": "(별첨)공공부문 사이버보안 책임성 강화 방안(최종).pdf"
         }
       ],
-      "_attAt": "2026-10-01T00:44:21.852910+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "다목적 SMR 상용 가속화를 위해 민관이 뭉친다",
@@ -630,7 +632,8 @@
           "filename": "261001 석간 (보도) 다목적 SMR 상용 가속화를 위해 민관이 뭉친다.hwpx"
         }
       ],
-      "_attAt": "2026-10-01T00:44:21.852910+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "메콩 지역 물 문제 해결을 위한 '제4차 한-메콩 국제 물포럼' 개최",
@@ -642,16 +645,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563304&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563353&tblKey=GMN",
           "filename": "메콩 지역 물 문제 해결을 위한 &#039;제4차 한-메콩 국제 물포럼&#039; 개최(보도자료)(물산업 10.1).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563305&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563354&tblKey=GMN",
           "filename": "메콩 지역 물 문제 해결을 위한 &#039;제4차 한-메콩 국제 물포럼&#039; 개최(보도자료)(물산업 10.1).pdf"
         }
       ],
-      "_attAt": "2026-10-01T00:44:21.852910+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "서부지방산림청, 현장 목소리 반영한 산림분야 규제합리화 추진",
@@ -663,16 +667,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563323&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563345&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 현장목소리 반영한 산림분야 규제합리화 추진).hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198563322&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563344&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 현장목소리 반영한 산림분야 규제합리화 추진).hwp"
         }
       ],
-      "_attAt": "2026-10-01T00:58:46.885411+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "창덕궁 후원의 작은 서재, 선향재에서 즐기는 고궁독서",
@@ -693,7 +698,8 @@
           "filename": "1001 창덕궁 후원의 작은 서재, 선향재에서 즐기는 고궁독서(붙임).pdf"
         }
       ],
-      "_attAt": "2026-10-01T00:58:46.885411+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "주말에도 만나는 가야 역사문화 체험학습",
@@ -714,7 +720,8 @@
           "filename": "1001 주말에도 만나는 가야 역사문화 체험학습(붙임).pdf"
         }
       ],
-      "_attAt": "2026-10-01T00:58:46.885411+00:00"
+      "_attAt": "2026-10-01T06:58:47.883478+00:00",
+      "_attRev": 1
     },
     {
       "title": "가상자산 활용 보이스피싱 피해 구제 확대 및 배달앱 원산지 표시 고지 의무화",
@@ -2298,6 +2305,53 @@
         }
       ],
       "_attAt": "2026-10-01T06:43:46.904813+00:00"
+    },
+    {
+      "title": "[보도참고] 정부-제약-의료·약업계 필수의약품 공급 안정화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783993",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "[보도참고] 정부-제약-의료·약업계 필수의약품 공급 안정화 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563816&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] 정부-제약-의료·약업계 필수의약품 공급 안정화 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563817&tblKey=GMN",
+          "filename": "[26.10.1.(목) 보도참고자료] 정부-제약-의료·약업계 필수의약품 공급 안정화 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T06:58:47.883478+00:00"
+    },
+    {
+      "title": "국립수목원 DMZ자생식물원, 세계와 함께 '다음 10년' 연다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783992",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "- 개원 10주년 국제심포지엄... CBD·IUCN·UNEP 등 국내외 전문가 참여 -- 10년간 축적한 DMZ 연구성과 바탕으로 생물다양성 회복과 평화협력 논의 - 산림청 국립수목원(원장 안병기)은 국립수목원의 분원인 DMZ자생식물원 개원 10주년을 맞아 10월 1일 국제심포지엄을 개최했다. 이번 행사는 지난 10년간 축적한 DMZ 식물 연구성과를 돌아보고, 이를 분쟁·접경지역의 생물다양성 보전과 평화협력으로 확장하기 위한 향후 협력 방향을 논의하는 자리로 마련됐다. 박은식 산림청장의 환영사와 김남중 통일부 차관, 추미애 경기도지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563811&tblKey=GMN",
+          "filename": "[보도자료]국립수목원 DMZ자생식물원 세계와 함께 &#039;다음 10년&#039;연다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563812&tblKey=GMN",
+          "filename": "[보도자료]국립수목원 DMZ자생식물원 세계와 함께 &#039;다음 10년&#039;연다.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563814&tblKey=GMN",
+          "filename": "[참고자료]DMZ자생식물원 현황 및 주요성과 10선.pdf.zip"
+        }
+      ],
+      "_attAt": "2026-10-01T06:58:47.883478+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
