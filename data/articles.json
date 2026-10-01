@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T04:13:59.150676+00:00",
-  "count": 2575,
+  "updated": "2026-10-01T04:28:58.975326+00:00",
+  "count": 2580,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -124,7 +124,8 @@
           "filename": "(10. 1. (목) 조간 보도자료) 전남권역 소방･경찰 특수목적견 합동훈련 실종자 수색부터 사체 탐지까지...현장 대응 역량 강화.hwpx"
         }
       ],
-      "_attAt": "2026-09-30T22:13:54.108230+00:00"
+      "_attAt": "2026-10-01T04:28:46.929686+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 글로벌 규제조화센터, 최신 ICH 가이드라인 교육으로 현장 적용 역랑 높인다",
@@ -1731,6 +1732,105 @@
         }
       ],
       "_attAt": "2026-10-01T04:13:48.529625+00:00"
+    },
+    {
+      "title": "?토착비리 특별단속? 우수사건 특별성과 포상금 수여",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783953",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "토착비리 특별단속 우수사건 특별성과 포상금 수여 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563599&tblKey=GMN",
+          "filename": "261002(조간용) 토착비리 특별단속 특별성과 포상금 우수사안 선정(반부패공공).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563600&tblKey=GMN",
+          "filename": "261002(조간용) 토착비리 특별단속 특별성과 포상금 우수사안 선정(반부패공공).pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T04:28:46.929686+00:00"
+    },
+    {
+      "title": "관계성 범죄는 '사적 문제' 아닌 '중대 범죄' 경찰, 엄정 대응으로 검거·격리조치 대폭 증가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783952",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "관계성 범죄는 '사적 문제' 아닌 '중대 범죄' 경찰, 엄정 대응으로 검거·격리조치 대폭 증가 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563597&tblKey=GMN",
+          "filename": "261002(조간용) 관계성 범죄 주요 대응 성과(여청범죄수사).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563598&tblKey=GMN",
+          "filename": "261002(조간용) 관계성 범죄 주요 대응 성과(여청범죄수사).pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T04:28:46.929686+00:00"
+    },
+    {
+      "title": "한화에어로스페이스(주) 대전사업장 특별감독 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783946",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "- 총 473건 위반, 189건 사법처리, 284건 과태료 5억원 부과- 특히, 폭발·화재·누출 관련 안전보건규칙 위반 91건 적발, 즉시 사법조치- 생산 확대와 신규 인력 증가에 따른 안전보건관리 기반 확보 개선 조치 고용노동부(장관 김영훈)는 '26.6.1.(월) 폭발 사고로 5명이 사망하고, 2명의 부상자가 발생한 한화에어로스페이스(주) 대전사업장을 대상으로 '26.6.29. ~9.18.까지 특별감독을 실시하고 그 결과를 발표했다. 이번 감독은 6월 발생한 사망사고 유형인 폭발·화재와 업종 특성에 따른 위험물질누출 관련 안전조",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563583&tblKey=GMN",
+          "filename": "261001_보도자료_한화에어로스페이스(주)대전사업장 특별감독 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563582&tblKey=GMN",
+          "filename": "261001_보도자료_한화에어로스페이스(주)대전사업장 특별감독 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-10-01T04:28:46.929686+00:00"
+    },
+    {
+      "title": "N잡러·프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783951",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "N잡러·프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563590&tblKey=GMN",
+          "filename": "261001 N잡러프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다(1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563592&tblKey=GMN",
+          "filename": "261001 N잡러프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다(1).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198563591&tblKey=GMN",
+          "filename": "261001 N잡러프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다(1).hwp"
+        }
+      ],
+      "_attAt": "2026-10-01T04:28:46.929686+00:00"
+    },
+    {
+      "title": "경기 광주시의 ○○공원과 아파트 진출입 도시계획도로 관련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783948",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-10-01T00:00:00+09:00",
+      "description": "경기 광주시의 ○○공원과 아파트 진출입 도시계획도로 관련 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [],
+      "_attAt": "2026-10-01T04:28:46.929686+00:00"
     },
     {
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
