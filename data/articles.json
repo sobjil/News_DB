@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T05:40:56.429309+00:00",
-  "count": 2590,
+  "updated": "2026-10-02T05:55:54.730778+00:00",
+  "count": 2593,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -281,16 +281,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198564248&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564258&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 산림유전자원보호구역 조사·관리와 현장 안전관리체계 강화).hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198564247&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564257&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 산림유전자원보호구역 조사·관리와 현장 안전관리체계 강화).hwp"
         }
       ],
-      "_attAt": "2026-10-01T23:41:41.767131+00:00"
+      "_attAt": "2026-10-02T05:55:44.150626+00:00",
+      "_attRev": 1
     },
     {
       "title": "산업재해 급여를 받을 '가능성'만으로 국민연금 미리 감액하는 것은 '과도'해",
@@ -1755,6 +1756,64 @@
         }
       ],
       "_attAt": "2026-10-02T05:40:44.676600+00:00"
+    },
+    {
+      "title": "삶의 마지막까지 익숙한 곳에서 보낼 수 있도록 재가 생애말기 의료·요양·돌봄 지원방안 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784179",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "삶의 마지막까지 익숙한 곳에서 보낼 수 있도록 재가 생애말기 의료·요양·돌봄 지원방안 모색- 복지부, 재가 생애말기 지원 체계 토론회 개최해 현장 의견 수렴-- 내년 장기요양보험 수급 대상자부터 재택임종 지원 시범사업 실시 - 보건복지부(장관 정은경)는 10월 2일(금) 오후 2시 서울스퀘어 상연재 회의실에서 현수엽 제1차관 주재로 누구나 '살던 곳에서 존엄한 노후'를 맞이할 수 있도록 재가 생애말기 지원 체계 마련을 위한 정책 토론회를 개최한다고 밝혔다. 많은 국민이 살고 있는 자택에서 삶의 마지막을 보내길 희망하고 있으나 실제 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564817&tblKey=GMN",
+          "filename": "[보도참고자료] 삶의 마지막까지 익숙한 곳에서 보낼 수 있도록 재가 생애말기 의료·요양·돌봄 지원방안 모색.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564818&tblKey=GMN",
+          "filename": "[보도참고자료] 삶의 마지막까지 익숙한 곳에서 보낼 수 있도록 재가 생애말기 의료·요양·돌봄 지원방안 모색.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T05:55:44.150626+00:00"
+    },
+    {
+      "title": "국산 인공지능 반도체 성능지표 'K-Perf', 공공 현장 도입 검증에 첫 활용",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784177",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "- 과기정통부, 한전-리벨리온-한국정보통신기술협회(TTA) 국산 인공지능 반도체 전력분야 기술협력 협약식 참석 - K-Perf를 전력현장 인공지능 영상분석에 활용, 성능 평가검증 영역 확대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564812&tblKey=GMN",
+          "filename": "261002 즉시 (보도) 국산 AI반도체 성능지표 K-Perf, 공공 현장 도입 검증에 첫 활용.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-02T05:55:44.150626+00:00"
+    },
+    {
+      "title": "[보도자료] 신산업 협·단체 오찬 간담회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784178",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "신산업 분야 규제혁신 간담회 개최- 한성숙 총리 주재 '신산업 분야 규제혁신 간담회(8.20)' 이후 신산업 현장과의 지속적인 소통 추진- ▴소액해외송금업체 이행보증금 산정기간 확대(직전월→직전3개월 일평균)로 일시적 송금수요 급증에 따른 변동성 부담 완화▴무인 자율주행자동차 임시운행 허가 이후 동일 사양의 차량을 추가로 허가 신청하는 경우 절차 완화▴국가 R&D 사업 추진 중 신기술 변화에 맞춰 유연한 목표 변경이 가능토록 개선하는 등 현장의 애로사항을 해결하기 위한 규제합리화 추진- 이 밖에 협회는 ▴자율주행 영상·위치정보 데이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564815&tblKey=GMN",
+          "filename": "261002_신산업 협단체 오찬 간담회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564816&tblKey=GMN",
+          "filename": "261002_신산업 협단체 오찬 간담회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T05:55:44.150626+00:00"
     },
     {
       "title": "축산환경 분야 협업 우수사례를 찾습니다",
@@ -4684,8 +4743,8 @@
           "filename": "(국립산림과학원 보도자료)도시숲 국가 탄소흡수원으로 역할 확대한다!.hwpx"
         }
       ],
-      "_attAt": "2026-10-01T23:41:41.767131+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-02T05:55:44.150626+00:00",
+      "_attRev": 3
     },
     {
       "title": "숲의 기록이 정책 데이터로... - 국립산림과학원, 가명정보 활용 경진대회 대상·최우수상 동시 석권",
