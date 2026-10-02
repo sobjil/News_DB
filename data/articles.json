@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T06:55:45.461847+00:00",
-  "count": 2607,
+  "updated": "2026-10-02T07:10:53.721151+00:00",
+  "count": 2612,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -504,16 +504,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198564312&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564320&tblKey=GMN",
           "filename": "261002 (브리핑 시작 시) 행정안전부장관 국가 정보시스템 안정성 강화에 총력(디지털인프라혁신과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198564313&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564321&tblKey=GMN",
           "filename": "261002 (브리핑 시작 시) 행정안전부장관 국가 정보시스템 안정성 강화에 총력(디지털인프라혁신과).pdf"
         }
       ],
-      "_attAt": "2026-10-02T00:56:41.624214+00:00"
+      "_attAt": "2026-10-02T07:10:41.926984+00:00",
+      "_attRev": 1
     },
     {
       "title": "공정위 상임위원에 김자봉 현(現) 한국금융연구원 선임연구위원 임명",
@@ -2136,6 +2137,121 @@
         }
       ],
       "_attAt": "2026-10-02T06:40:42.576627+00:00"
+    },
+    {
+      "title": "[보도참고자료] (공동) 후쿠시마 오염수 방류 대응 브리핑(335차)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784205",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "오염수 방류 대응 전반 브리퍼 : 국무조정실 김영수 국무1차장 - 1. 인사말씀 □ 국무조정실 국무1차장입니다. 2. 24차 오염수 방류계획 □ 도쿄전력은 어제(10.1) 24차 오염수 방류계획(10.5~10.23)을 발표하였습니다. ○ 오염수의 삼중수소 농도는 리터(ℓ)당 15만 베크렐(Bq)이며, 월요일(10.5)부터 리터(ℓ)당 1,500베크렐(Bq) 미만으로 해수와 희석하여 방류할 계획입니다. □ 정부는 방류 계획과 운영 현황을 지속적으로 확인하고 있으며, 앞으로도 방류 동향을 계속 모니터링하고 대응하여 국민의 우려가 없도록",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564956&tblKey=GMN",
+          "filename": "261002_335차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564957&tblKey=GMN",
+          "filename": "261002_335차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T07:10:41.926984+00:00"
+    },
+    {
+      "title": "제5차 인공지능책임관(CAIO) 협의회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784206",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "제5차 인공지능책임관(CAIO) 협의회 개최- 이해민 AI미래기획수석 첫 주재, 참석 범위 42개 기관으로 확대- 범정부 AI 입법 방향을 담은 「AI 입법 프레임워크(안)」 논의- 모두의 AI·데이터 공유·개인정보 보호 등 부처 제안 안건 협의국가인공지능전략위원회(위원장 대통령, 이하 '위원회')는 10월 2일(금) 오후 4시, 서울스퀘어(17층)에서 제5차 인공지능책임관협의회(이하 '협의회')를 개최했다고 밝혔다. 이번 회의는 이해민 AI미래기획수석비서관이 협의회 의장으로서 처음 주재한 회의로, 42개 중앙행정기관 인공지능책임관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564958&tblKey=GMN",
+          "filename": "[261002 16시보도] (부처합동) 제5차 인공지능책임관(CAIO) 협의회 개최(사전실태점검과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564959&tblKey=GMN",
+          "filename": "[261002 16시보도] (부처합동) 제5차 인공지능책임관(CAIO) 협의회 개최(사전실태점검과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T07:10:41.926984+00:00"
+    },
+    {
+      "title": "(참고) 후쿠시마 오염수 방류 대응 브리핑(335차, 서면)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784202",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "오염수 방류 대응 전반- 브리퍼 : 국무조정실 김영수 국무1차장 - 1. 인사말씀 □ 국무조정실 국무1차장입니다. 2. 24차 오염수 방류계획 □ 도쿄전력은 어제(10.1) 24차 오염수 방류계획(10.5~10.23)을 발표하였습니다. ○ 오염수의 삼중수소 농도는 리터(ℓ)당 15만 베크렐(Bq)이며, 월요일(10.5)부터 리터(ℓ)당 1,500베크렐(Bq) 미만으로 해수와 희석하여 방류할 계획입니다. □ 정부는 방류 계획과 운영 현황을 지속적으로 확인하고 있으며, 앞으로도 방류 동향을 계속 모니터링하고 대응하여 국민의 우려가 없도",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564943&tblKey=GMN",
+          "filename": "261002_335차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료★.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564942&tblKey=GMN",
+          "filename": "261002_335차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료★.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T07:10:41.926984+00:00"
+    },
+    {
+      "title": "농식품부 장관, 동물보호의 날 기념 팝업스토어 찾아 '공감과 실천' 강조",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784201",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "농림축산식품부 장관은 10월 2일(금) 서울 성수동에서 열린 제2회 동물보호의 날 기념 '오늘은 1004' 팝업스토어 개막식에 참석하여 사람과 동물이 더불어 살아가는 사회를 위한 '공감과 실천'을 강조하였다. 이번 행사는 국민들이 동물복지의 의미와 정책을 쉽고 친근하게 접하고, 동물에 대한 공감이 일상 속 실천으로 이어질 수 있도록 체험형 팝업스토어로 마련되었다. 송미령 장관은 가상 동물 입양·등록, 반려동물 응급상황 대처, 동물복지 인증계란 찾기 등 다양한 체험 프로그램에 직접 참여하며 동물복지를 일상에서 실천하는 방법을 국민들과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564938&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과) 농식품부 장관 동물보호의 날 기념 팝업스토어 찾아 ‘공감과 실천’ 강조(10. 2. 16시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564936&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과) 농식품부 장관 동물보호의 날 기념 팝업스토어 찾아 ‘공감과 실천’ 강조(10. 2. 16시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564937&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과) 농식품부 장관 동물보호의 날 기념 팝업스토어 찾아 ‘공감과 실천’ 강조(10. 2. 16시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-10-02T07:10:41.926984+00:00"
+    },
+    {
+      "title": "2026년 백두대간 사랑운동 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784204",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "2026년 백두대간 사랑운동 개최- 산림청, 102명과 함께 백두대간 보전 의지 다져 - 산림청(청장 박은식)은 경상북도 봉화군에 위치한 국립백두대간수목원에서 한반도 핵심 생태축인 백두대간 보호에 대한 국민적 인식 제고 및 참여 유도를 위해 백두대간 사랑운동을 개최했다고 2일 밝혔다. 2026년 백두대간 사랑운동은 ▲백두대간 영상홍보, ▲백두대간 붓글씨 축하공연, ▲백두대간 탐방 등 다양한 참여형 프로그램을 통해 백두대간 보호에 대한 국민적 공감대를 넓히고, 미래세대인 대학생과 백두대간 지역주민 등이 함께 참여해 백두대간 보전의 의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564953&tblKey=GMN",
+          "filename": "(261002)보도자료-2026년_백두대간_사랑운동_개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564955&tblKey=GMN",
+          "filename": "(261002)보도자료-2026년_백두대간_사랑운동_개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564954&tblKey=GMN",
+          "filename": "(261002)보도자료-2026년_백두대간_사랑운동_개최.hwp"
+        }
+      ],
+      "_attAt": "2026-10-02T07:10:41.926984+00:00"
     },
     {
       "title": "축산환경 분야 협업 우수사례를 찾습니다",
