@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T04:10:47.240836+00:00",
-  "count": 2572,
+  "updated": "2026-10-02T04:25:48.257143+00:00",
+  "count": 2574,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1349,6 +1349,48 @@
         }
       ],
       "_attAt": "2026-10-02T03:25:41.913904+00:00"
+    },
+    {
+      "title": "시장상황점검회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784152",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관은 '26.10.2.(금) 08:00, 전국은행연합회관에서 관계기관 합동 ｢시장상황점검회의｣를 개최*하여 국내외 금융·외환시장 동향과 채권시장 및 주택시장 상황 등을 종합적으로 점검하고 향후 대응방향을 논의하였다. * 참석자: 한국은행 총재 신현송, 국토교통부 장관 홍지선,금융위원회 위원장 이억원, 금융감독원 원장 이찬진※ 자세한 내용은 첨부를 참고해주시기 바랍니다.문의. 재정경제부 경제정책국 자금시장정책과 이장호 (044-215-2755)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564575&tblKey=GMN",
+          "filename": "261002_시장상황점검회의_보도자료_시장_간_연계_리스크에_대한_통합점검_강화ff.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564576&tblKey=GMN",
+          "filename": "261002_시장상황점검회의_보도자료_시장_간_연계_리스크에_대한_통합점검_강화ff.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T04:25:42.470711+00:00"
+    },
+    {
+      "title": "\"지역인적자원개발위원회, 지역 인력양성 우수성과 공유의 장 마련\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784151",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-02T00:00:00+09:00",
+      "description": "- 17개 지역인자위 참여, 우수 인자위·전담자 포상 및 혁신사례 발표- 지역 산업과 현장 중심의 인력 양성을 위한 우수사례 공유 고용노동부와 한국산업인력공단은 10월 2일(금) 호텔 엘리에나(서울 강남구)에서 「2026년 지역인적자원개발위원회의 날」을 개최했다. 이번 행사는 전국 17개 지역인적자원개발위원회(이하 '지역인자위')의 우수 운영사례와 성과를 공유하고, 지역인적자원개발 우수사례에 대한 상호 학습과 벤치마킹을 통해 지역 인력양성 사업의 발전 방향을 모색하기 위해 마련됐다. 이날 행사에는 고용노동부, 한국산업인력공단, 17",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564574&tblKey=GMN",
+          "filename": "261002 보도자료_지역인적자원개발위원회의 날 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198564573&tblKey=GMN",
+          "filename": "261002 보도자료_지역인적자원개발위원회의 날 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-02T04:25:42.470711+00:00"
     },
     {
       "title": "축산환경 분야 협업 우수사례를 찾습니다",
