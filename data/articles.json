@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T07:54:43.993954+00:00",
-  "count": 2407,
+  "updated": "2026-10-04T08:09:49.312563+00:00",
+  "count": 2408,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -82,6 +82,32 @@
       ],
       "_attAt": "2026-10-03T17:40:45.588955+00:00",
       "_attRev": 3
+    },
+    {
+      "title": "식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784259",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-03T00:00:00+09:00",
+      "description": "유엔 식량농업기구(FAO)*에 따르면, 2026년 9월 세계식량가격지수는 전월(134.0포인트) 대비 1.5% 상승한 136.0포인트**를 기록하였다. 곡물, 유지류, 설탕 가격은 상승하였고, 육류, 유제품 가격은 하락하였다. * 유엔 식량농업기구는 24개 품목에 대한 국제가격동향을 조사하여, 5개 품목군(곡물, 유지류, 육류, 유제품, 설탕)별 식량가격지수를 매월 작성, 발표(2014~2016년 평균=100) ** ('26.5월) 131.0 → (6월) 130.1 → (7월) 131.7 → (8월) 134.0 → (9월) 136.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565371&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승(10.3 배포시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565373&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승(10.3 배포시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565372&tblKey=GMN",
+          "filename": "(국제농식품협력관-국제협력총괄과) 식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승(10.3 배포시).hwp"
+        }
+      ],
+      "_attAt": "2026-10-04T08:09:45.688801+00:00"
     },
     {
       "title": "고혈압이 골관절염 악화시키는 '연결고리' 찾았다",
