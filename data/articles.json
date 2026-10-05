@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:56:49.482706+00:00",
+  "updated": "2026-10-05T19:12:16.929309+00:00",
   "count": 2391,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -252,11 +252,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565522&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565528&tblKey=GMN",
           "filename": "261006 조간 (보도) 배경훈 부총리, 세계 과학기술 지도자들과 미래 과학기술 비전 논의.hwpx"
         }
       ],
-      "_attAt": "2026-10-05T13:11:52.073548+00:00"
+      "_attAt": "2026-10-05T19:12:12.815741+00:00",
+      "_attRev": 1
     },
     {
       "title": "경제현안간담회 개최",
@@ -277,7 +278,8 @@
           "filename": "(보도자료) 261005_경제현안간담회 개최_배포.pdf"
         }
       ],
-      "_attAt": "2026-10-05T13:11:52.073548+00:00"
+      "_attAt": "2026-10-05T19:12:12.815741+00:00",
+      "_attRev": 1
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
