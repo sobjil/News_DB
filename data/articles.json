@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T03:16:47.441543+00:00",
-  "count": 2406,
+  "updated": "2026-10-05T03:31:48.504425+00:00",
+  "count": 2407,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -165,6 +165,27 @@
         }
       ],
       "_attAt": "2026-10-05T03:16:41.791034+00:00"
+    },
+    {
+      "title": "한국 관광의 샛별 재정 인센티브 규모 확정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784265",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-05T00:00:00+09:00",
+      "description": "한국 관광의 샛별 재정 인센티브 규모 확정 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1005]문체부보도자료-한국 관광의 샛별 재정 인센티브 규모 확정.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565399&tblKey=GMN",
+          "filename": "[1005]문체부보도자료-한국 관광의 샛별 재정 인센티브 규모 확정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565398&tblKey=GMN",
+          "filename": "[1005]문체부보도자료-한국 관광의 샛별 재정 인센티브 규모 확정.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T03:31:42.549014+00:00"
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
