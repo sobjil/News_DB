@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T05:56:44.838810+00:00",
-  "count": 2407,
+  "updated": "2026-10-05T06:11:49.342256+00:00",
+  "count": 2408,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -187,6 +187,32 @@
         }
       ],
       "_attAt": "2026-10-05T03:31:42.549014+00:00"
+    },
+    {
+      "title": "10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784267",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-10-05T00:00:00+09:00",
+      "description": "10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565417&tblKey=GMN",
+          "filename": "261005 10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565419&tblKey=GMN",
+          "filename": "261005 10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565418&tblKey=GMN",
+          "filename": "261005 10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장.hwp"
+        }
+      ],
+      "_attAt": "2026-10-05T06:11:44.288998+00:00"
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
