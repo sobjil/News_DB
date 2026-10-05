@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T02:01:43.513600+00:00",
-  "count": 2403,
+  "updated": "2026-10-05T02:16:45.799703+00:00",
+  "count": 2404,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,27 @@
         }
       ],
       "_attAt": "2026-10-05T01:32:17.670224+00:00"
+    },
+    {
+      "title": "해상교통안전 확립에 기여한 '해사안전 우수사업자'를 찾습니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784262",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-05T00:00:00+09:00",
+      "description": "해상교통안전 확립에 기여한 '해사안전 우수사업자'를 찾습니다 - 10.6.(화)~10.27.(화), 2026년 해사안전 우수사업자 공모 해양수산부(장관 황종우)는 한국해양교통안전공단(이사장 안영철)과 함께 10월 6일(화)부터 10월 27일(화)까지 '2026년 해사안전 우수사업자'를 공모*한다고 밝혔다. * 공모 신청 : 해양교통안전정보시스템 누리집(https://mtis.komsa.or.kr) 올해로 11회째를 맞는 해사안전 우수사업자 공모는 해사 안전 수준을 높이고, 해양 사고 감소에 기여한 사업자를 발굴·포상하여 자발적인 안",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565391&tblKey=GMN",
+          "filename": "261006(조간) 해상교통안전 확립에 기여한 &#039;해사안전 우수사업자&#039;를 찾습니다(해사안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565390&tblKey=GMN",
+          "filename": "261006(조간) 해상교통안전 확립에 기여한 &#039;해사안전 우수사업자&#039;를 찾습니다(해사안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T02:16:41.605488+00:00"
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
