@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T23:41:51.398190+00:00",
-  "count": 2400,
+  "updated": "2026-10-05T23:56:52.665817+00:00",
+  "count": 2402,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -246,6 +246,27 @@
       "_attAt": "2026-10-05T23:41:45.992346+00:00"
     },
     {
+      "title": "고위공무원 신규임용",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784307",
+      "agency": "방위사업청",
+      "agencyCode": "dapa",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "기획조정관 일반직고위공무원 조 용 진 끝",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565563&tblKey=GMN",
+          "filename": "261002 [방사청 보도자료] 고위공무원 신규임용.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565564&tblKey=GMN",
+          "filename": "261002 [방사청 보도자료] 고위공무원 신규임용.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T23:56:44.143942+00:00"
+    },
+    {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784260",
       "agency": "문화체육관광부",
@@ -464,6 +485,27 @@
       ],
       "_attAt": "2026-10-05T19:12:12.815741+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 제주해역 어선 전복사고 관련 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784306",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-05T00:00:00+09:00",
+      "description": "국무총리, 제주해역 어선 전복사고 관련 긴급지시□ 한성숙 국무총리는 10. 5.(월) 03:07경, 제주 차귀도 서방 약 33해리 해상에서 발생한 어선(7성진호, 29톤, 승선원 11명) 전복 상황을 보고받고 아래와 같이 긴급 지시했다.ㅇ 해양수산부, 해양경찰청은 경비함정 및 수중수색 구조대원 등 가용 장비･인력을 총동원하여 최우선적으로 인명을 구조하고, 정확한 승선원 확인을 통해 실종자 파악에도 최선을 다할 것ㅇ 행정안전부, 국방부, 제주도는 해상구조에 동원 가능한 인력과 장비를 적극 지원하여 현장 구조활동이 원활히 이루어질 수 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565561&tblKey=GMN",
+          "filename": "261005_한성숙 국무총리 제주해역 어선 전복사고 관련 긴급지시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565562&tblKey=GMN",
+          "filename": "261005_한성숙 국무총리 제주해역 어선 전복사고 관련 긴급지시.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T23:56:44.143942+00:00"
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
