@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T22:56:46.540772+00:00",
-  "count": 2392,
+  "updated": "2026-10-05T23:11:51.429880+00:00",
+  "count": 2395,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -76,6 +76,69 @@
         }
       ],
       "_attAt": "2026-10-05T22:26:42.697000+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784300",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565543&tblKey=GMN",
+          "filename": "[26-795](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565544&tblKey=GMN",
+          "filename": "[26-795](보도자료) 외교부 인사.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T23:11:44.568806+00:00"
+    },
+    {
+      "title": "[보도참고] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784299",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "[보도참고] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565541&tblKey=GMN",
+          "filename": "[26.10.6.(화) 보도참고자료] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565542&tblKey=GMN",
+          "filename": "[26.10.6.(화) 보도참고자료] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T23:11:44.568806+00:00"
+    },
+    {
+      "title": "식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784298",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565539&tblKey=GMN",
+          "filename": "[26.10.6.(화) 보도자료] 식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565540&tblKey=GMN",
+          "filename": "[26.10.6.(화) 보도자료] 식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T23:11:44.568806+00:00"
     },
     {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
