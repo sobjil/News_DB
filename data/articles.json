@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T01:16:43.584964+00:00",
-  "count": 2402,
+  "updated": "2026-10-05T01:32:22.083911+00:00",
+  "count": 2403,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,6 +81,27 @@
         }
       ],
       "_attAt": "2026-10-04T23:31:42.671857+00:00"
+    },
+    {
+      "title": "[설명] 부정청약에 대하여는 형사처벌, 계약취소 및 계약금 몰수, 청약제한 등 엄중 조치하고 있습니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784261",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-05T00:00:00+09:00",
+      "description": "[설명] 부정청약에 대하여는 형사처벌, 계약취소 및 계약금 몰수, 청약제한 등 엄중 조치하고 있습니다 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565388&tblKey=GMN",
+          "filename": "261005(설명) 부정청약에 대하여는 형사처벌, 계약취소 및 계약금 몰수, 청약제한 등 엄중 조치하고 있습니다(주택기금과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565389&tblKey=GMN",
+          "filename": "261005(설명) 부정청약에 대하여는 형사처벌, 계약취소 및 계약금 몰수, 청약제한 등 엄중 조치하고 있습니다(주택기금과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-05T01:32:17.670224+00:00"
     },
     {
       "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
