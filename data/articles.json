@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T07:28:51.754284+00:00",
-  "count": 2472,
+  "updated": "2026-10-06T07:43:52.364183+00:00",
+  "count": 2473,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -883,7 +883,8 @@
           "filename": "[보도참고자료] 요양병원 ‘인증’은 환자 안전의 기본, 미인증 기관에 대한 법적 조치 추진.pdf"
         }
       ],
-      "_attAt": "2026-10-06T01:40:42.996808+00:00"
+      "_attAt": "2026-10-06T07:43:42.340964+00:00",
+      "_attRev": 1
     },
     {
       "title": "'강풍 타고 확산하는 대형산불'한 총리, \"가을철 산불조심기간 철저히 대비\"",
@@ -895,21 +896,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565722&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565744&tblKey=GMN",
           "filename": "(261002)보도자료-레디코리아_산불진화_통합훈련 (1).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565723&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565745&tblKey=GMN",
           "filename": "(261002)보도자료-레디코리아_산불진화_통합훈련 (1).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565721&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565743&tblKey=GMN",
           "filename": "(261002)보도자료-레디코리아_산불진화_통합훈련 (1).hwp"
         }
       ],
-      "_attAt": "2026-10-06T01:40:42.996808+00:00"
+      "_attAt": "2026-10-06T07:43:42.340964+00:00",
+      "_attRev": 1
     },
     {
       "title": "어르신 식탁 더 안전하고 건강하게 「장기요양기관 급식관리 기준」 마련",
@@ -930,7 +932,8 @@
           "filename": "[보도참고자료] 어르신 식탁 더 안전하고 건강하게 장기요양기관 급식관리 기준 마련.pdf"
         }
       ],
-      "_attAt": "2026-10-06T01:40:42.996808+00:00"
+      "_attAt": "2026-10-06T07:43:42.340964+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림청은 드론을 활용하여 산불예방 및 감시활동을 적극 추진하고 있습니다.",
@@ -1684,6 +1687,22 @@
         }
       ],
       "_attAt": "2026-10-06T07:28:42.906472+00:00"
+    },
+    {
+      "title": "수상레저 음주·약물 조종 처벌 상향...조종면허 안전기준 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784422",
+      "agency": "해양경찰청",
+      "agencyCode": "kcg",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "수상레저 음주·약물 조종 처벌 상향...조종면허 안전기준 강화- ｢수상레저안전법｣ 개정안 국회 본회의 통과 -- 음주·약물 단속 기준 세분화부터 조종면허 신체검사 및 통합면허증 도입까지 - 해양경찰청은 조경태·윤준병·임호선 의원이 각각 대표발의한 ｢수상레저안전법｣ 일부개정법률안을 심사·통합한 대안이 10월 1일 국회 본회의를 통과했다고 밝혔다. 이번 개정안은 최근 수상레저활동이 다양화되고 이용자가 지속적으로 증가함에 따라 안전관리를 강화하고 국민이 안심하고 수상레저를 즐길 수 있는 환경을 조성하기 위해 마련됐다. 주요 내용은 ▲음주",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566067&tblKey=GMN",
+          "filename": "261006 (보도자료) 수상레저 음주·약물 조종 처벌 상향... 조종면허 안전기준 강화.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-06T07:43:42.340964+00:00"
     },
     {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
