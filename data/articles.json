@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:43:45.197123+00:00",
+  "updated": "2026-10-06T08:58:46.115621+00:00",
   "count": 2475,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1136,26 +1136,27 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565805&tblKey=GMN",
-          "filename": "(별첨) 복지돌봄 AI 대전환 로드맵.hwpx"
-        },
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565803&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566047&tblKey=GMN",
           "filename": "[10.6.화 국무회의 종료(별도 안내) 이후] AI의 도움으로 24시간 끊김없는 돌봄, 더 쉽게 누리는 복지, 사람에 집중하는 돌봄 만든다.hwpx"
         },
         {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566049&tblKey=GMN",
+          "filename": "(별첨) 복지돌봄 AI 대전환 로드맵.hwpx"
+        },
+        {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565804&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566048&tblKey=GMN",
           "filename": "[10.6.화 국무회의 종료(별도 안내) 이후] AI의 도움으로 24시간 끊김없는 돌봄, 더 쉽게 누리는 복지, 사람에 집중하는 돌봄 만든다.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565806&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566050&tblKey=GMN",
           "filename": "(별첨) 복지돌봄 AI 대전환 로드맵.pdf"
         }
       ],
-      "_attAt": "2026-10-06T02:55:41.882860+00:00"
+      "_attAt": "2026-10-06T08:58:43.197957+00:00",
+      "_attRev": 1
     },
     {
       "title": "겨울철새 남하 시작...10월 중하순 본격 도래 전망",
