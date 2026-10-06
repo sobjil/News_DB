@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T09:28:54.455185+00:00",
-  "count": 2475,
+  "updated": "2026-10-06T09:43:48.933531+00:00",
+  "count": 2476,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1762,6 +1762,27 @@
         }
       ],
       "_attAt": "2026-10-06T08:13:44.171713+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 주택공급 현장점검(위스테이 별내)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784448",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "주택 신속공급과 다양한 주거모델 동시 모색- 한 총리, \"다양한 요구가 반영된 주거선택권 확대되어야\"-- 위스테이 별내 방문…사회적 경제주체 참여형 공공지원민간임대 운영현황 점검- 다양한 주거수요에 맞는 주택공급 필요…사회적 경제주체의 역할 강조□ 한성숙 국무총리는 10월 6일(화) 경기도 남양주시 별내동에 위치한 '위스테이 별내'를 방문하여 사회적 경제주체 참여형 공공지원민간임대주택 운영현황을 살펴보고, 다양한 주거수요에 대응할 수 있는 주택공급 정책방향에 대해 현장 의견을 청취했다.※ (참석) 국토부 1차관, 남양주시장, LH ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566135&tblKey=GMN",
+          "filename": "261006_한성숙 국무총리, 주택공급 현장점검(위스테이 별내) 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566136&tblKey=GMN",
+          "filename": "261006_한성숙 국무총리, 주택공급 현장점검(위스테이 별내) 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-06T09:43:42.886956+00:00"
     },
     {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
