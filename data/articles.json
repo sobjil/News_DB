@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T07:13:53.031174+00:00",
-  "count": 2471,
+  "updated": "2026-10-06T07:28:51.754284+00:00",
+  "count": 2472,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -857,11 +857,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565697&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565709&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 붉가시나무 도토리 껍질 피부재생 2배·상처 회복 3배 효과 확인.hwpx"
         }
       ],
-      "_attAt": "2026-10-06T01:25:43.580519+00:00"
+      "_attAt": "2026-10-06T07:28:42.906472+00:00",
+      "_attRev": 1
     },
     {
       "title": "요양병원 '인증'은 환자 안전의 기본, 미인증 기관에 대한 법적 조치 추진",
@@ -1664,6 +1665,27 @@
       "_attAt": "2026-10-06T07:13:43.514724+00:00"
     },
     {
+      "title": "[보도자료] 한성숙 국무총리 주재 금융·공공기관 개인정보 유출 대응 관계장관회의 보도자료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784421",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "한성숙 총리, 최근 개인정보 유출 관련 대응상황 긴급 점검□ 한성숙 국무총리는 10월 6일(화) '금융·공공기관 개인정보 유출 대응 관계장관회의'를 소집·주재하고,·(일시/장소) 10.6(화) 8:30~9:30 / 서울청사(9층 대회의실)·(참석) 과기부, 행안부, 기후부, 금융위, 개보위, 경찰청, 국정원, AI전략위 등ㅇ 최근 잇따라 발생한 금융기관의 고객정보유출과 공공기관의 직원 정보 노출 사고에 대한 각 정부기관의 대응상황을 점검하고 향후 대책을 논의했다.□ 한 총리는 AI가 해킹 등에 광범위하게 활용되는 상황에서 정부의 대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566051&tblKey=GMN",
+          "filename": "261006_금융·공공기관 개인정보 유출 대응 관계장관회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566052&tblKey=GMN",
+          "filename": "261006_금융·공공기관 개인정보 유출 대응 관계장관회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-06T07:28:42.906472+00:00"
+    },
+    {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784260",
       "agency": "문화체육관광부",
@@ -1858,8 +1880,8 @@
           "filename": "261006 조간 (보도) 배경훈 부총리, 세계 과학기술 지도자들과 미래 과학기술 비전 논의.hwpx"
         }
       ],
-      "_attAt": "2026-10-06T01:25:43.580519+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-06T07:28:42.906472+00:00",
+      "_attRev": 3
     },
     {
       "title": "경제현안간담회 개최",
@@ -1880,8 +1902,8 @@
           "filename": "(보도자료) 261005_경제현안간담회 개최_배포.pdf"
         }
       ],
-      "_attAt": "2026-10-06T01:25:43.580519+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-06T07:28:42.906472+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 제주해역 어선 전복사고 관련 긴급지시",
