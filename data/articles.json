@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T05:05:48.721405+00:00",
-  "count": 2464,
+  "updated": "2026-10-06T05:20:57.798733+00:00",
+  "count": 2466,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -88,16 +88,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565543&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565553&tblKey=GMN",
           "filename": "[26-795](보도자료) 외교부 인사.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565544&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565554&tblKey=GMN",
           "filename": "[26-795](보도자료) 외교부 인사.pdf"
         }
       ],
-      "_attAt": "2026-10-05T23:11:44.568806+00:00"
+      "_attAt": "2026-10-06T05:20:47.848563+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결",
@@ -118,7 +119,8 @@
           "filename": "[26.10.6.(화) 보도참고자료] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결.pdf"
         }
       ],
-      "_attAt": "2026-10-05T23:11:44.568806+00:00"
+      "_attAt": "2026-10-06T05:20:47.848563+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표",
@@ -130,16 +132,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565539&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565551&tblKey=GMN",
           "filename": "[26.10.6.(화) 보도자료] 식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198565540&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565552&tblKey=GMN",
           "filename": "[26.10.6.(화) 보도자료] 식약처 GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-10-05T23:11:44.568806+00:00"
+      "_attAt": "2026-10-06T05:20:47.848563+00:00",
+      "_attRev": 1
     },
     {
       "title": "천여 종의 글꼴 개발, 한국어 세계화 등 한글 및 한국어 발전에 힘쓴 이들에게 '2026년 한글발전유공' 포상",
@@ -1482,6 +1485,32 @@
         }
       ],
       "_attAt": "2026-10-06T04:35:42.225993+00:00"
+    },
+    {
+      "title": "영주국유림관리소, 지역협의회 통한 소나무재선충병 국가방제벨트 적극 방제키로 협의 - 울진 금강송 등 국가적으로 중요한 소나무숲 보호에 앞장 !!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784403",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "산림청 영주국유림관리소(소장 김석문)는 지난 30일 관내 6개 시 ˙군(안동, 영주, 문경, 봉화, 예천, 의성)은 물론, 국가방제벨트 연접 시˙군(울진, 영양)과의 소나무재선충병 확산차단를 목표로, 2026년 하반기 소나무재선충병 방제 지역협의회를 개최하고, 국가방제벨트의 적극 방제를 통해 울진 금강송 등 국가적으로 중요소나무숲 보호에 적극 대응하기로 다짐했다.국가방제벨트는 최외곽 감염목을 연결한 국가선단지 위로 폭 4㎞의 이중방어선 구조의 확산 저지선으로 강력한 소나무재선충병 확산방지 전략이다. 영주국유림관리소는 관내 지자체와 ",
+      "attachments": [],
+      "_attAt": "2026-10-06T05:20:47.848563+00:00"
+    },
+    {
+      "title": "2026년 제19회 국제천문및천체물리올림피아드 한국대표단 전원 메달(금 5) 획득",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784404",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "2026년 제19회 국제천문및천체물리올림피아드 한국대표단 전원 메달(금 5) 획득 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565928&tblKey=GMN",
+          "filename": "261006 즉시 (보도) 제19회 국제천문및천체물리올림피아드 한국대표단 전원 메달(금 5) 획득.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-06T05:20:47.848563+00:00"
     },
     {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
