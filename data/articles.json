@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T04:20:57.368782+00:00",
-  "count": 2463,
+  "updated": "2026-10-06T04:35:48.697004+00:00",
+  "count": 2464,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -75,7 +75,8 @@
           "filename": "261004 북한 탄도미사일 발사 관련 국방부 입장_게시.hwpx"
         }
       ],
-      "_attAt": "2026-10-05T22:26:42.697000+00:00"
+      "_attAt": "2026-10-06T04:35:42.225993+00:00",
+      "_attRev": 1
     },
     {
       "title": "외교부 인사",
@@ -1460,6 +1461,27 @@
         }
       ],
       "_attAt": "2026-10-06T04:20:41.648400+00:00"
+    },
+    {
+      "title": "「전세사기특별법」 시행령 개정안,6일 국무회의 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784399",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-06T00:00:00+09:00",
+      "description": "「전세사기특별법」 시행령 개정안,6일 국무회의 의결 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565908&tblKey=GMN",
+          "filename": "261006(보도자료) 「전세사기특별법」 시행령 개정안 6일 국무회의 의결(피해지원총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198565909&tblKey=GMN",
+          "filename": "261006(보도자료) 「전세사기특별법」 시행령 개정안 6일 국무회의 의결(피해지원총괄과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-06T04:35:42.225993+00:00"
     },
     {
       "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
