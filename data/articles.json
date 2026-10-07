@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T09:43:43.813823+00:00",
-  "count": 2452,
+  "updated": "2026-10-07T09:58:48.404771+00:00",
+  "count": 2453,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1761,6 +1761,27 @@
         }
       ],
       "_attAt": "2026-10-07T08:24:49.161504+00:00"
+    },
+    {
+      "title": "초소형군집위성 양산기 5기 모두 초기 교신 성공",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784594",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)과 한국과학기술원(총장 배충식, 이하 'KAIST')은 10월 7일(수) 12시 25분 한국형발사체(누리호)에 실려 발사된 초소형군집위성 2~6호가 목표 궤도에 성공적으로 안착한 데 이어, 오늘 18시까지 대전 항우연, 남극 세종기지, 북극 스발바르 지상국과 양방향 교신에 성공하였다고 밝혔다. 초소형군집위성 6호가 13시 08분경 남극 세종기지 지상국과 첫 교신에 성공한 데 이어 14시 42분경 4호가 남극 세종기지 지상국, 15시 27분경 3호가 북극 스발바르 지상국, 16시 18분경 2호가 남극 세종기지 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566974&tblKey=GMN",
+          "filename": "261007(배포즉시) 초소형군집위성 양산기 5기 모두 초기 교신 성공.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566975&tblKey=GMN",
+          "filename": "261007(배포즉시) 초소형군집위성 양산기 5기 모두 초기 교신 성공.hwp"
+        }
+      ],
+      "_attAt": "2026-10-07T09:58:42.425492+00:00"
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
