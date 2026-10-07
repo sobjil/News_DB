@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T07:26:56.313099+00:00",
-  "count": 2443,
+  "updated": "2026-10-07T07:41:56.032003+00:00",
+  "count": 2446,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -532,7 +532,8 @@
           "filename": "261007 2026 청년정책 공모전 개최 보도자료_최종.pdf"
         }
       ],
-      "_attAt": "2026-10-07T01:32:43.552963+00:00"
+      "_attAt": "2026-10-07T07:41:44.507068+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고자료]「인구구조 변화와 일자리 공론화 특별위원회」1단계 공론화 추진 경과 및 결과 관련 기자간담회 인사말씀 및 참고자료",
@@ -544,16 +545,17 @@
       "attachments": [
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198566285&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566315&tblKey=GMN",
           "filename": "20261006 일자리공론화특위 기자브리핑 관련 위원장 인사말씀.hwp"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198566286&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566316&tblKey=GMN",
           "filename": "20261006 일자리공론화특위 기자브리핑 참고자료.hwp"
         }
       ],
-      "_attAt": "2026-10-07T01:32:43.552963+00:00"
+      "_attAt": "2026-10-07T07:41:44.507068+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰 수사 개혁위원회, 경찰수사 공정성 및 수사역량 강화 관련 권고",
@@ -574,7 +576,8 @@
           "filename": "261006(1800) 경찰 수사 개혁위원회, 경찰수사 공정성 및 수사역량 강화 관련 권고(수사기획).pdf"
         }
       ],
-      "_attAt": "2026-10-07T01:32:43.552963+00:00"
+      "_attAt": "2026-10-07T07:41:44.507068+00:00",
+      "_attRev": 1
     },
     {
       "title": "5년 만의 '인구감소지역' 재지정, 지역 활력 회복을 위한 지원을 강화한다",
@@ -1541,6 +1544,69 @@
         }
       ],
       "_attAt": "2026-10-07T07:26:43.490771+00:00"
+    },
+    {
+      "title": "\"청년의 목소리를 담기 위해 오늘도 달린다\" 충남대학교에서 '달리는 국민신문고' 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784550",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "\"청년의 목소리를 담기 위해 오늘도 달린다\" 충남대학교에서 '달리는 국민신문고' 운영 - 국민권익위, 청년 대상 4번째 '달리는 국민신문고' 운영- 취업·학비 등 청년 고충 분야 전문가 1:1 현장 상담, 오후에는 청년 간담회 개최 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)가 청년세대의 현실적인 어려움을 현장에서 직접 청취하고 실질적인 해결책을 모색하기 위해 국립충남대학교(이하 충남대학교)에서 '달리는 국민신문고'를 운영한다. * 달리는 국민신문고 : 국민권익위 조사관과 협업기관 전문가로 구성된 상담반이 국민들의 민원 현장",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566753&tblKey=GMN",
+          "filename": "(261007) 청년의 목소리를 담기 위해 오늘도 달린다 충남대학교에서 달리는 국민신문고 운영(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566754&tblKey=GMN",
+          "filename": "(261007) 청년의 목소리를 담기 위해 오늘도 달린다 충남대학교에서 달리는 국민신문고 운영(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T07:41:44.507068+00:00"
+    },
+    {
+      "title": "편성위원회 미구성 등 방송사에 시정명령",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784555",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "편성위원회 미구성 등 방송사에 시정명령- 편성위 미구성한 제주방송 및 편성규약 제·개정 미이행한 한국방송공사 등 11개 사 대상 - 편성위원회를 미구성한 제주방송과 방송편성규약 제·개정을 완료하지 않은 한국방송공사(KBS) 등 방송사들에 대해 시정명령이 내려졌다. 방송미디어통신위원회(위원장 김종철)는 7일 '2026년 제40차 전체회의'를 열고 「방송법」 상 편성위원회 구성 및 방송편성규약 제·개정 등 법적 의무를 이행하지 않은 방송사업자 총 11곳에 대해 시정명령을 의결했다. 지난해 8월 개정된 「방송법」은 방송사업자와 종사자가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566772&tblKey=GMN",
+          "filename": "261007 (보도자료) 편성위원회 미구성 등 방송사에 시정명령.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566771&tblKey=GMN",
+          "filename": "261007 (보도자료) 편성위원회 미구성 등 방송사에 시정명령.pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T07:41:44.507068+00:00"
+    },
+    {
+      "title": "2026년 제40차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784553",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "2026년 제40차 위원회 결과[의결 안건]가. ㈜딜라이브의 재허가 조건 위반에 대한 시정명령에 관한 건 o 부채비율 감소방안 제출·승인 관련 재허가 조건을 위반한 주식회사 딜라이브에 대해 「방송법」 제99조 제1항 제2호에 따라 시정명령을 처분하기로 의결했습니다.나. 「방송법」 위반 방송사업자에 대한 시정명령에 관한 건 o 「방송법」 제4조의2 제1항을 위반해 편성위원회를 구성하지 않은 주식회사 제주방송과 같은 법 제4조 제4항을 위반, 방송편성규약을 제·개정 하지 않은 한국방송공사 등 11개 사에 대해 같은 법 제99조 제1항 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566768&tblKey=GMN",
+          "filename": "제40차 위원회 결과 브리핑(261007).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566767&tblKey=GMN",
+          "filename": "제40차 위원회 결과 브리핑(261007).pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T07:41:44.507068+00:00"
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
