@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T06:02:51.377659+00:00",
-  "count": 2434,
+  "updated": "2026-10-07T06:17:52.319375+00:00",
+  "count": 2436,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -198,11 +198,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198566201&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566208&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료)특산수종 `노각나무` 유전정보 풀었다...개체 식별 DNA 마커 개발.hwpx"
         }
       ],
-      "_attAt": "2026-10-07T00:02:46.128040+00:00"
+      "_attAt": "2026-10-07T06:17:44.213049+00:00",
+      "_attRev": 1
     },
     {
       "title": "원전수출 시대 본격 추진",
@@ -223,7 +224,8 @@
           "filename": "1006(07석간)원전수출협력과, 원전수출 시대 본격 추진.pdf"
         }
       ],
-      "_attAt": "2026-10-07T00:02:46.128040+00:00"
+      "_attAt": "2026-10-07T06:17:44.213049+00:00",
+      "_attRev": 1
     },
     {
       "title": "안산 산단지역 불법파견 감독 결과 발표",
@@ -1353,6 +1355,48 @@
         }
       ],
       "_attAt": "2026-10-07T06:02:44.102315+00:00"
+    },
+    {
+      "title": "[설명] 국토교통부 산하기관(10개) 정부보안관제체계 연계를 조속히 추진하고 사이버보안을 강화하겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784532",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "[설명] 국토교통부 산하기관(10개) 정부보안관제체계 연계를 조속히 추진하고 사이버보안을 강화하겠습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566577&tblKey=GMN",
+          "filename": "261007(설명) 국토교통부 산하기관(10개) 정부보안관제체계 연계를 조속히 추진하고 사이버보안을 강화하겠습니다(정보보호담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566578&tblKey=GMN",
+          "filename": "261007(설명) 국토교통부 산하기관(10개) 정부보안관제체계 연계를 조속히 추진하고 사이버보안을 강화하겠습니다(정보보호담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T06:17:44.213049+00:00"
+    },
+    {
+      "title": "국내 최초 초소형군집위성 2~6호 실은 누리호 5차 발사 성공",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784534",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)과 한국항공우주연구원(원장 이상철, 이하 항우연)은 독자적인 우주수송 능력 확보를 위해 개발한 한국형발사체 누리호의 5차 발사가 국민의 관심과 성원 속에 성공적으로 이루어졌다고 발표했다. 오늘 10월 7일(수), 12시 25분 발사된 누리호가 비행을 종료한 뒤, 항우연은 발사체 비행 정보를 담고 있는 누리호 원격수신정보(텔레메트리)를 초기 분석한 결과, 누리호가 목표 고도에 도달하고 초소형군집위성 5기와 큐브위성 9기를 성공적으로 분리해 목표 궤도에 투입한 것을 확인했다. 누리호는 발사 후 사전에 설정된 비행",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566587&tblKey=GMN",
+          "filename": "261007(배포즉시) 국내 최초 초소형군집위성 2~6호 실은 누리호 5차 발사 성공.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566588&tblKey=GMN",
+          "filename": "261007(배포즉시) 국내 최초 초소형군집위성 2~6호 실은 누리호 5차 발사 성공.hwp"
+        }
+      ],
+      "_attAt": "2026-10-07T06:17:44.213049+00:00"
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
