@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T23:43:45.623380+00:00",
-  "count": 2339,
+  "updated": "2026-10-07T23:53:44.696830+00:00",
+  "count": 2340,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -149,6 +149,22 @@
         }
       ],
       "_attAt": "2026-10-07T23:25:41.336962+00:00"
+    },
+    {
+      "title": "반도체가 자라는 '시작점'까지 설계… 고집적·저전력 AI 반도체 구현의 새 길",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784602",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "- KAIST·UNIST·한양대·TDS Innovation 연구팀, 2차원 반도체의 핵생성을 원하는 위치로 제어...네이처 게재- 2차원 반도체 결정의 단일 중심 성장 성공, 차세대 적층 공정 활용으로 고집적·저전력 반도체 구현 기대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567020&tblKey=GMN",
+          "filename": "261008 조간 (보도) 반도체가 자라는 ‘시작점’까지 설계…고집적·저전력 AI 반도체 구현의 새 길 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-10-07T23:53:41.005864+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
