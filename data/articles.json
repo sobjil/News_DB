@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T23:10:53.762309+00:00",
-  "count": 2338,
+  "updated": "2026-10-07T23:25:51.207986+00:00",
+  "count": 2339,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -123,6 +123,32 @@
         }
       ],
       "_attAt": "2026-10-07T23:10:43.649540+00:00"
+    },
+    {
+      "title": "대한민국, 세계경제포럼 관광발전지수 '순위 1개 상승' 12위 기록",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784601",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "대한민국, 세계경제포럼 관광발전지수 '순위 1개 상승' 12위 기록 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1008]문체부보도자료-2025년 세계경제포럼 관광발전지수 발표 결과.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567018&tblKey=GMN",
+          "filename": "[1008]문체부보도자료-2025년 세계경제포럼 관광발전지수 발표 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567017&tblKey=GMN",
+          "filename": "[1008]문체부보도자료-2025년 세계경제포럼 관광발전지수 발표 결과.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567019&tblKey=GMN",
+          "filename": "한국문화관광연구원 2025 세계경제포럼 관광발전지수 정책리포트.pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T23:25:41.336962+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
@@ -1294,8 +1320,8 @@
           "filename": "261008 조간 (보도) 제47회 전국학생과학발명품경진대회 시상식 개최.hwpx"
         }
       ],
-      "_attAt": "2026-10-07T17:23:45.171960+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-07T23:25:41.336962+00:00",
+      "_attRev": 3
     },
     {
       "title": "외교부, 인도양위원회(IOC)와 협력기금 운영의 새 틀 마련",
@@ -1316,8 +1342,8 @@
           "filename": "[26-799](보도자료) 외교부, 인도양위원회(IOC)와 협력기금 운영의 새 틀 마련.hwp"
         }
       ],
-      "_attAt": "2026-10-07T17:23:45.171960+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-07T23:25:41.336962+00:00",
+      "_attRev": 3
     },
     {
       "title": "원안위, 한울 4호기 재가동 승인",
