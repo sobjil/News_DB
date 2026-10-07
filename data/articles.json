@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T05:02:48.249164+00:00",
-  "count": 2427,
+  "updated": "2026-10-07T05:17:53.094412+00:00",
+  "count": 2428,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -110,16 +110,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198566184&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566193&tblKey=GMN",
           "filename": "[1007]문체부보도자료-암표 거래 혐의자 수사 의뢰.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198566183&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566192&tblKey=GMN",
           "filename": "[1007]문체부보도자료-암표 거래 혐의자 수사 의뢰.pdf"
         }
       ],
-      "_attAt": "2026-10-06T23:17:44.004786+00:00"
+      "_attAt": "2026-10-07T05:17:45.310038+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, OECD 신생과학 자문그룹 회의 및 국제심포지엄 개최",
@@ -140,7 +141,8 @@
           "filename": "[26.10.7.(수) 보도자료] 식약처, OECD 신생과학 자문그룹 회의 및 국제심포지엄 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-06T23:17:44.004786+00:00"
+      "_attAt": "2026-10-07T05:17:45.310038+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 중남미와 식품안전 신뢰 강화하고 K-푸드 교역 기반 확대",
@@ -161,7 +163,8 @@
           "filename": "[26.10.7.(수) 보도자료] 식약처, 중남미와 식품안전 신뢰 강화하고 K-푸드 교역 기반 확대.pdf"
         }
       ],
-      "_attAt": "2026-10-06T23:17:44.004786+00:00"
+      "_attAt": "2026-10-07T05:17:45.310038+00:00",
+      "_attRev": 1
     },
     {
       "title": "독일 프랑크푸르트도서전에서 '케이-북' 수출 길 넓힌다",
@@ -1202,6 +1205,27 @@
         }
       ],
       "_attAt": "2026-10-07T05:02:42.644266+00:00"
+    },
+    {
+      "title": "원안위, 한울 4호기 재가동 승인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784522",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "원안위, 한울 4호기 재가동 승인 원자력안전위원회(위원장 최원호, 이하 원안위)는 '26년 8월 19일 자동정지된 한울 4호기의 사건 조사를 마치고, '26년 10월 7일 재가동을 승인하였다. 이번 정지는 발전기 차단기 단로기*의 고장과 원자로출력급감발계통**의 미작동이 복합적으로 작용하여 발생했다. 조사 결과, 단로기 접속부 불량으로 전기적 결함이 발생했으며, 원자로출력급감발계통 작동을 위한 계측기 내 이물질 유입 등의 영향으로 해당 계통이 정상 작동하지 못한 것으로 확인되었다.* 차단기 유지보수 중 작업자 감전 방지 등을 위해 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566514&tblKey=GMN",
+          "filename": "261007_원안위, 한울4호기 재가동 승인_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566515&tblKey=GMN",
+          "filename": "261007_원안위, 한울4호기 재가동 승인_보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T05:17:45.310038+00:00"
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
