@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T05:32:49.361898+00:00",
-  "count": 2429,
+  "updated": "2026-10-07T05:47:51.549019+00:00",
+  "count": 2431,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -185,7 +185,8 @@
           "filename": "[1007]문체부보도자료-2026 프랑크푸르트도서전 수출상담관 운영.pdf"
         }
       ],
-      "_attAt": "2026-10-06T23:32:44.518372+00:00"
+      "_attAt": "2026-10-07T05:47:43.884746+00:00",
+      "_attRev": 1
     },
     {
       "title": "특산수종 '노각나무' 유전정보 풀었다...개체 식별 DNA 마커 개발 - 국립산림과학원, 자생집단 보존부터 바이오 원료 이력 관리까지 한눈에 파악",
@@ -1247,6 +1248,48 @@
         }
       ],
       "_attAt": "2026-10-07T05:32:43.470057+00:00"
+    },
+    {
+      "title": "탄소 감축을 넘어 신성장동력으로, 정부 1,000조원 투자로 K-GX 본격 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784526",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "▷ 관계 부처, 민간 협단체 공동으로 '한국형 녹색대전환(K-GX) 전략' 수립▷ 10년간 정부 투자 1,000조원, 민간 K-GX 시그니처 프로젝트 220조원 투자▷ 탄소중립과 지속 가능한 경제성장의 동시 실현을 위한 10년('26~'35) 계획 발표정부는 10월 7일(수) 대한상공회의소 국제회의실(서울 중구)에서 '한국형 녹색대전환(이하 'K-GX*') 전략 국민보고회'를 개최했다. 행사는 재정경제부(경제부총리 이형일)와 기후에너지환경부(장관 김성환)가 각각 ▲K-GX 전략의 주요 내용과 ▲10대 시그니처 프로젝트 추진 방향을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566546&tblKey=GMN",
+          "filename": "탄소 감축을 넘어 신성장동력으로(보도자료)(부처합동 10.7).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566547&tblKey=GMN",
+          "filename": "탄소 감축을 넘어 신성장동력으로(보도자료)(부처합동 10.7).pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T05:47:43.884746+00:00"
+    },
+    {
+      "title": "경찰, 부패·비위에 '무관용 원칙' 확립... 온정주의 타파한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784527",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-07T00:00:00+09:00",
+      "description": "경찰, 부패·비위에 '무관용 원칙' 확립... 온정주의 타파한다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566552&tblKey=GMN",
+          "filename": "261007(1100) 전국 감사부서장 워크숍 개최(감사).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198566553&tblKey=GMN",
+          "filename": "261007(1100) 전국 감사부서장 워크숍 개최(감사).pdf"
+        }
+      ],
+      "_attAt": "2026-10-07T05:47:43.884746+00:00"
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
