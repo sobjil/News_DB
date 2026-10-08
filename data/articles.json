@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T06:41:55.206916+00:00",
-  "count": 2388,
+  "updated": "2026-10-08T06:56:56.799337+00:00",
+  "count": 2390,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -379,16 +379,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567062&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567089&tblKey=GMN",
           "filename": "261008 [방사청·우주청 공동] 우주항공·전력지원체계 기업까지 방위산업공제조합 가입 확대.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567063&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567088&tblKey=GMN",
           "filename": "261008 [방사청·우주청 공동] 우주항공·전력지원체계 기업까지 방위산업공제조합 가입 확대.pdf"
         }
       ],
-      "_attAt": "2026-10-08T00:52:42.534299+00:00"
+      "_attAt": "2026-10-08T06:56:43.346853+00:00",
+      "_attRev": 1
     },
     {
       "title": "휴양림에서 즐기는 지역 특산품… 국립자연휴양림, '주민 상생 직거래장터' 운영",
@@ -400,11 +401,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567067&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567095&tblKey=GMN",
           "filename": "(261008)국립자연휴양림 보도자료-지역주민 참여형 직거래장터.hwpx"
         }
       ],
-      "_attAt": "2026-10-08T00:52:42.534299+00:00"
+      "_attAt": "2026-10-08T06:56:43.346853+00:00",
+      "_attRev": 1
     },
     {
       "title": "세계유산 조선왕릉 제향의 가치, 방송인 크리스티나의 시선으로 전하다",
@@ -425,7 +427,8 @@
           "filename": "1008 세계유산 조선왕릉 제향의 가치, 방송인 크리스티나의 시선으로 전하다(붙임).pdf"
         }
       ],
-      "_attAt": "2026-10-08T00:52:42.534299+00:00"
+      "_attAt": "2026-10-08T06:56:43.346853+00:00",
+      "_attRev": 1
     },
     {
       "title": "붉게 물든 오대산, 의궤 속 정조의 군대가 되살아난다",
@@ -446,7 +449,8 @@
           "filename": "1008 붉게 물든 오대산, 의궤 속 정조의 군대가 되살아난다(붙임).pdf"
         }
       ],
-      "_attAt": "2026-10-08T00:52:42.534299+00:00"
+      "_attAt": "2026-10-08T06:56:43.346853+00:00",
+      "_attRev": 1
     },
     {
       "title": "울진국유림관리소, 안전사고 예방을 위한 산림토목사업장 안전보건 점검 실시",
@@ -1196,6 +1200,48 @@
         }
       ],
       "_attAt": "2026-10-08T06:41:43.967630+00:00"
+    },
+    {
+      "title": "조현 장관, 데이브 맥코믹 미국 상원의원 면담(10.8.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784670",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "조현 외교부 장관은 방한 중인 데이브 맥코믹(Dave McCormick) 미국 상원의원(공화, 펜실베이니아)과 10.8.(목) 조찬 면담을 갖고, 한미관계와 한반도 평화 등에 관해 의견을 교환하였다. 조 장관은 양 정상이 9.22.(화) 한미 정상회담을 통해 JFS의 충실한 이행 의지를 재확인한 만큼, 이제 양 국민이 체감할 수 있는 가시적 성과를 조속히 창출해 나갈 수 있도록 맥코믹 의원의 지속적인 관심과 지원을 당부한다고 하였다. 특히, 조 장관은 펜실베이니아주에 양국간 전략협력의 상징인 필리조선소가 위치해 있음을 상기하고, 한",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567352&tblKey=GMN",
+          "filename": "[26-801](보도자료) 조현 장관, 데이브 맥코믹 미국 상원의원 면담(10.8.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567353&tblKey=GMN",
+          "filename": "[26-801](보도자료) 조현 장관, 데이브 맥코믹 미국 상원의원 면담(10.8.).pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T06:56:43.346853+00:00"
+    },
+    {
+      "title": "제8차 한-아세안 싱크탱크 전략대화 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784669",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "외교부 국립외교원은 2026.10.7.(수)-10.8.(목) 양일간 '복합위기 시대 한-아세안 협력의 재구성(Reconfiguring ASEAN-ROK Cooperation in an Era of Polycrisis)'이라는 주제로 「제8차 한-아세안 싱크탱크 전략대화」를 개최하였다. ※ 일시 및 장소: 2026.10.7.(수)(비공개) - 2026.10.8.(목)(공개), 외교타운 12층 KNDA홀 이번 회의의 1일 차 비공개 회의(10.7.)에서는 김흥규 외교부 국립외교원장이 환영사를, 권재환 외교부 아세안국장이 기조연설(Lea",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567345&tblKey=GMN",
+          "filename": "[26-800](보도자료) 제8차 한-아세안 싱크탱크 전략대화 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567346&tblKey=GMN",
+          "filename": "[26-800](보도자료) 제8차 한-아세안 싱크탱크 전략대화 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T06:56:43.346853+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
