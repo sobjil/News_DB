@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T05:07:47.343919+00:00",
-  "count": 2381,
+  "updated": "2026-10-08T05:22:58.934467+00:00",
+  "count": 2385,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -124,7 +124,8 @@
           "filename": "[26.10. 8. 보도참고자료] 식약처, K-뷰티 할랄 인증 세미나 및 교육 실시.pdf"
         }
       ],
-      "_attAt": "2026-10-07T23:10:43.649540+00:00"
+      "_attAt": "2026-10-08T05:22:44.331431+00:00",
+      "_attRev": 1
     },
     {
       "title": "대한민국, 세계경제포럼 관광발전지수 '순위 1개 상승' 12위 기록",
@@ -1027,6 +1028,90 @@
         }
       ],
       "_attAt": "2026-10-08T05:07:44.015403+00:00"
+    },
+    {
+      "title": "한국과 이집트, 고등교육분야 국제협력 활성화의 새로운 장 연다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784658",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "한국과 이집트, 고등교육분야 국제협력 활성화의 새로운 장 연다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567246&tblKey=GMN",
+          "filename": "[교육부 10-08(목) 14시보도자료] 한국과 이집트 고등교육분야 국제협력 활성화의 새로운 장 연다.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-08T05:22:44.331431+00:00"
+    },
+    {
+      "title": "(참고자료)북아프리카 핵심 거점 이집트와 산업·통상 협력 가속화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784661",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "북아프리카 핵심 거점 이집트와산업·통상 협력 가속화「한-이집트 조선 협력 MOU」 로 조선산업 친환경 전환 협력 강화북아프리카 국가 최초로 이집트와 CEPA 협상 개시 공식 선언 산업통상부(장관 김정관)는 10월 8일(목) 압델 파타 알시시(Abdel Fattah el-Sisi) 이집트 대통령 방한을 계기로 개최된 한-이집트 정상회담(10.8 오전)에서 양국 정상 임석 하에 조선 협력 강화를 위한 양해각서(MOU)를 체결하고, 한-이집트 포괄적 경제동반자협정(CEPA)* 협상 개시를 공식 선언하였다. * CEPA (Comprehen",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567257&tblKey=GMN",
+          "filename": "(참고자료)중동아프리카통상과, 북아프리카 핵심 거점 이집트와 산업·통상 협력 가속화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567256&tblKey=GMN",
+          "filename": "(참고자료)중동아프리카통상과, 북아프리카 핵심 거점 이집트와 산업·통상 협력 가속화.pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T05:22:44.331431+00:00"
+    },
+    {
+      "title": "'생활비 경감 정책 아이디어 공모전' 시상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784659",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "재정경제부는 10월 8일(목) 정부세종청사에서 '민생플러스 생활비 경감 정책 아이디어 공모전'의 시상식을 개최하였습니다. ※ 자세한 내용은 첨부를 참고하시기 바랍니다.문의. 재정경제부 민생경제국 민생안정지원단 허정 (044-215-2865)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567248&tblKey=GMN",
+          "filename": "★보도자료_생활비 경감 정책 아이디어 공모전 시상.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567247&tblKey=GMN",
+          "filename": "★보도자료_생활비 경감 정책 아이디어 공모전 시상.pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T05:22:44.331431+00:00"
+    },
+    {
+      "title": "농지 조사 후속조치와 제도 개혁 방향에 대한 참고자료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784660",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "1. 조사 이후 제도 개혁 로드맵 ①단계 - 농지조사 ②단계 - 특별조치법 ③단계 – 농지법 개정농촌현장의 누적된 문제 규모·양태 파악⇨누적된 문제 정리를 위해 기존 농지법 규정 미적용⇨조사 결과를 토대로 현실과 괴리된 제도 개혁 □ 투기가 아닌 일반적인 사안은 이번 농지조사 결과를 근거로 농지법에 따른 처분절차를 진행하지 않는 방향으로 특별조치법 제정 추진 ○ 농지은행 위탁 여부와 관계없이 모두 처분이 진행되지 않는 방향이며, 만일 농지은행에 임대·매도하고 싶다면 농업인이 선택적으로 이용 □ 특별조치법 유효기간 중 희망하는 농업인",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567254&tblKey=GMN",
+          "filename": "(농업정책관-농지과) 농지 조사 후속조치와 제도 개혁 방향에 대한 참고자료(10. 8. 11시부터) (2).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567252&tblKey=GMN",
+          "filename": "(농업정책관-농지과) 농지 조사 후속조치와 제도 개혁 방향에 대한 참고자료(10. 8. 11시부터) (2).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567253&tblKey=GMN",
+          "filename": "(농업정책관-농지과) 농지 조사 후속조치와 제도 개혁 방향에 대한 참고자료(10. 8. 11시부터) (2).hwp"
+        }
+      ],
+      "_attAt": "2026-10-08T05:22:44.331431+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
@@ -2803,8 +2888,8 @@
           "filename": "(참고자료, 7(수) 18시엠바고)중동아프리카통상과, 이집트 대통령 국빈 방한 계기, 한 이집트 비즈니스 라운드테이블 열려.pdf"
         }
       ],
-      "_attAt": "2026-10-07T23:10:43.649540+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-08T05:22:44.331431+00:00",
+      "_attRev": 3
     },
     {
       "title": "북한 탄도미사일 발사 관련 국방부 입장",
