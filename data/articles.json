@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T04:52:48.404642+00:00",
-  "count": 2380,
+  "updated": "2026-10-08T05:07:47.343919+00:00",
+  "count": 2381,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1006,6 +1006,27 @@
         }
       ],
       "_attAt": "2026-10-08T04:52:42.728827+00:00"
+    },
+    {
+      "title": "(참고자료)한국, 주요국과 구조적 과잉생산 및 생산능력 대응을 위한 공동성명 참여",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784657",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "한국, 주요국과 구조적 과잉생산 및 생산능력 대응을 위한 공동성명 참여- 자동차·전기차, 배터리, 화학, 범용반도체, 태양광 패널 등5개 분야의 구조적 과잉생산 및 생산능력 대응을 위한 협력 플랫폼 구성 - 한국을 포함한 15개국*은 10.7(수) 오후(현지 시간), 프랑스 파리 OECD 본부에서 「구조적 과잉생산 대응을 위한 공동 장관성명(Joint Ministerial Statement on Addressing Structural Excess Capacity and Production)」을 발표하였다. * 아르헨티나, 호주, 캐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567243&tblKey=GMN",
+          "filename": "(참고자료)다자통상협력과, 한국, 주요국과 구조적 과잉생산 대응을 위한 공동성명 참여.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567242&tblKey=GMN",
+          "filename": "(참고자료)다자통상협력과, 한국, 주요국과 구조적 과잉생산 대응을 위한 공동성명 참여.pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T05:07:44.015403+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
