@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T05:22:58.934467+00:00",
-  "count": 2385,
+  "updated": "2026-10-08T05:38:24.596864+00:00",
+  "count": 2386,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -137,21 +137,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567018&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567145&tblKey=GMN",
           "filename": "[1008]문체부보도자료-2025년 세계경제포럼 관광발전지수 발표 결과.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567017&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567144&tblKey=GMN",
           "filename": "[1008]문체부보도자료-2025년 세계경제포럼 관광발전지수 발표 결과.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567019&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567146&tblKey=GMN",
           "filename": "한국문화관광연구원 2025 세계경제포럼 관광발전지수 정책리포트.pdf"
         }
       ],
-      "_attAt": "2026-10-07T23:25:41.336962+00:00"
+      "_attAt": "2026-10-08T05:38:18.955830+00:00",
+      "_attRev": 1
     },
     {
       "title": "반도체가 자라는 '시작점'까지 설계… 고집적·저전력 AI 반도체 구현의 새 길",
@@ -1112,6 +1113,32 @@
         }
       ],
       "_attAt": "2026-10-08T05:22:44.331431+00:00"
+    },
+    {
+      "title": "'27년 농어촌 기본소득 시범사업, 신규 참여지역 10.8일부터 공모 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784662",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 인구 감소 등으로 어려움을 겪고 있는 농어촌 지역에 새로운 활력을 불어 넣기 위해 추진 중인 농어촌 기본소득 시범사업(이하, '시범사업')에 참여할 '27년 신규 지역을 공모한다고 밝혔다. * 공모기간: '26. 10. 8.(목)~11. 3.(화) / 접수기간: 10. 20.(화)~11. 3.(화) 시범사업은 인구감소지역 중 군(郡)에 거주하고 있는 주민에게 매월 15만 원 상당의 지역사랑상품권을 지급해 농어촌 주민의 소득 안정을 도모하고, 지역 내 소비를 활성화해 지역 경제 및 공",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567273&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) &#039;27년 농어촌 기본소득 시범사업 신규 참여지역 10.8일부터 공모 개시(10. 8. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567272&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) &#039;27년 농어촌 기본소득 시범사업 신규 참여지역 10.8일부터 공모 개시(10. 8. 배포 시).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567271&tblKey=GMN",
+          "filename": "(농촌소득에너지정책관-농촌소득정책과) &#039;27년 농어촌 기본소득 시범사업 신규 참여지역 10.8일부터 공모 개시(10. 8. 배포 시).hwp"
+        }
+      ],
+      "_attAt": "2026-10-08T05:38:18.955830+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
