@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:56:49.492188+00:00",
+  "updated": "2026-10-08T10:11:47.216036+00:00",
   "count": 2424,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -813,16 +813,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567186&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567244&tblKey=GMN",
           "filename": "[10.8.목 행사 시작(13시) 이후] ‘세상에서 가장 아름다운 이름, 엄마&#039; 제21회 임산부의 날 기념행사 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567187&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567245&tblKey=GMN",
           "filename": "[10.8.목 행사 시작(13시) 이후] ‘세상에서 가장 아름다운 이름, 엄마&#039; 제21회 임산부의 날 기념행사 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-08T04:07:42.652380+00:00"
+      "_attAt": "2026-10-08T10:11:42.905290+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 제15회 국가정책조정회의",
@@ -843,7 +844,8 @@
           "filename": "제15회 국가정책조정회의 보도자료_261008_(최종).pdf"
         }
       ],
-      "_attAt": "2026-10-08T04:07:42.652380+00:00"
+      "_attAt": "2026-10-08T10:11:42.905290+00:00",
+      "_attRev": 1
     },
     {
       "title": "경찰, \"공무원 괴롭힐 목적의 정보공개 반복청구\" 관련 행정소송 승소",
