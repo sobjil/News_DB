@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T07:11:56.943674+00:00",
-  "count": 2393,
+  "updated": "2026-10-08T07:26:46.642493+00:00",
+  "count": 2394,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1300,6 +1300,27 @@
         }
       ],
       "_attAt": "2026-10-08T07:11:43.073123+00:00"
+    },
+    {
+      "title": "해파리 대량 발생 위기 경보 전면 해제",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784676",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-08T00:00:00+09:00",
+      "description": "해파리 대량 발생 위기 경보 전면 해제 - 국립수산과학원, 해파리 출현 현황 조사 결과, 추가 어업 피해 위험이 없을 것으로 판단되어, 10월 8일 16시부로 해파리 특보 전면 해제 해양수산부(장관 황종우)는 10월 8일(목) 16시부로 해파리 대량 발생 위기 경보를 해제한다고 밝혔다. 국립수산과학원이 9월 21일(월)부터 10월 2일(금)까지 해파리 출현 현황을 조사한 결과, 현재 특보가 발표된 4개 해역 중 부산·울산 앞바다, 경북 동해 앞바다, 전남 남해 앞바다에서는 해파리가 출현하지 않았다. 경남 남해 앞바다의 경우 평균 6",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567381&tblKey=GMN",
+          "filename": "261008(즉시) 해파리 대량 발생 위기 경보 전면 해제(수산자원정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567380&tblKey=GMN",
+          "filename": "261008(즉시) 해파리 대량 발생 위기 경보 전면 해제(수산자원정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-08T07:26:41.913682+00:00"
     },
     {
       "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
