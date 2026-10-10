@@ -1,21 +1,8 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "retentionDays": 7,
-  "count": 72,
+  "count": 70,
   "events": [
-    {
-      "id": "156784259",
-      "agency": "농림축산식품부",
-      "title": "식량농업기구(FAO) 9월 세계식량가격지수 전월 대비 1.5% 상승",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784259",
-      "pubDate": "2026-10-03T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "시세호재",
-      "strength": "약",
-      "emoji": "🌾",
-      "flavor": "세계적으로 곡물 가격이 상승했다는 소식에 우리 농장의 곡물 판매가도 오를 준비를 하고 있어요!",
-      "weight": 5
-    },
     {
       "id": "156784320",
       "agency": "산림청",
@@ -158,19 +145,6 @@
       "emoji": "📰",
       "flavor": "청년 임업 창업 교육 소식에 우리 농장도 새로운 산림 재배 아이디어가 샘솟는 것 같아요!",
       "weight": 2
-    },
-    {
-      "id": "156784340",
-      "agency": "농림축산식품부",
-      "title": "경북 예천군 소재 소(牛) 농장 예찰 검사에서 구제역 확인",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784340",
-      "pubDate": "2026-10-03T00:00:00+09:00",
-      "scope": "축산",
-      "kind": "재해",
-      "strength": "강",
-      "emoji": "🌀",
-      "flavor": "경북 예천에서 구제역이 추가로 확인되는 바람에 우리 축사도 방역 소독을 강화하고 이동 제한 조치를 지키느라 초비상이에요!",
-      "weight": 5
     },
     {
       "id": "156784450",
