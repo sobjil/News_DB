@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T20:51:43.366051+00:00",
-  "count": 2049,
+  "updated": "2026-10-11T21:06:46.263398+00:00",
+  "count": 2050,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "9월중 전세사기피해자등 623건 추가 결정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784785",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "9월중 전세사기피해자등 623건 추가 결정 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568035&tblKey=GMN",
+          "filename": "261012(석간) 9월중 전세사기피해자등 623건 추가 결정(전세사기피해지원단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568036&tblKey=GMN",
+          "filename": "261012(석간) 9월중 전세사기피해자등 623건 추가 결정(전세사기피해지원단).pdf"
+        }
+      ],
+      "_attAt": "2026-10-11T21:06:41.516098+00:00"
+    },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784750",
