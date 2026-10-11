@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T22:51:43.980364+00:00",
-  "count": 2054,
+  "updated": "2026-10-11T23:06:45.735961+00:00",
+  "count": 2055,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -160,6 +160,27 @@
         }
       ],
       "_attAt": "2026-10-11T22:36:41.030903+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 국제인증표준품 분양 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784790",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 국제인증표준품 분양 개시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568046&tblKey=GMN",
+          "filename": "[26.10.12.(월) 보도참고자료] 식약처, 국제인증표준품 분양 개시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568047&tblKey=GMN",
+          "filename": "[26.10.12.(월) 보도참고자료] 식약처, 국제인증표준품 분양 개시.pdf"
+        }
+      ],
+      "_attAt": "2026-10-11T23:06:42.066453+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
