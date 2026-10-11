@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T22:21:46.052965+00:00",
-  "count": 2052,
+  "updated": "2026-10-11T22:36:47.964905+00:00",
+  "count": 2054,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -118,6 +118,48 @@
         }
       ],
       "_attAt": "2026-10-11T22:21:42.015318+00:00"
+    },
+    {
+      "title": "유망 아이디어를 창업으로, 2차 ｢모두의 창업｣ AI 솔루션 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784789",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 10월 12일(월) 2차 ｢모두의 창업｣ 프로젝트(이하 ｢모두의 창업｣) 도전자의 아이디어 구체화와 사업 모델 고도화를 지원할 인공지능(이하 AI) 솔루션 공급기업 50개사, 103개 솔루션을 공개한다고 밝혔다. ｢모두의 창업｣은 아이디어를 가진 국민 누구나 창업에 도전하고, 교육·멘토링과 단계별 지원을 통해 창업 인재로 성장할 수 있도록 돕는 프로젝트다. 이 중 AI 솔루션 지원은 도전자가 시장 조사, 콘텐츠 제작, 서비스 개발 등 창업 준비에 필요한 작업을 수행하고, 자신의 아이디어를",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568042&tblKey=GMN",
+          "filename": "261012_유망_아이디어를_창업으로,_2차_모두의_창업_AI_솔루션_선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568043&tblKey=GMN",
+          "filename": "261012_유망_아이디어를_창업으로,_2차_모두의_창업_AI_솔루션_선정.pdf"
+        }
+      ],
+      "_attAt": "2026-10-11T22:36:41.030903+00:00"
+    },
+    {
+      "title": "중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784788",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)와 국세청(청장 임광현)은 미래 인공지능(이하 AI) 산업을 선도할 유망 AI 중소·스타트업의 성장을 뒷받침하기 위해 2,559개사를 대상으로 양 기관의 지원을 집중 연계한다고 밝혔다. 이번 지원은 지난해 12월 양 기관이 체결한 「AI 중소·스타트업 성장지원을 위한 업무협약」의 후속조치로, 중기부가 AI 분야에서 성장 가능성이 높은 중소·스타트업을 발굴하고 기술개발(R&D)·사업화·금융·창업·글로벌 진출 등을 지원하면, 국세청이 해당 기업에 세정지원을 연계하는 부처 협업 모델이다. 중기부는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568040&tblKey=GMN",
+          "filename": "261012_중기부·국세청,_2,559개_AI_중소·스타트업_집중_지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568041&tblKey=GMN",
+          "filename": "261012_중기부·국세청,_2,559개_AI_중소·스타트업_집중_지원.pdf"
+        }
+      ],
+      "_attAt": "2026-10-11T22:36:41.030903+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
