@@ -13,7 +13,7 @@ const KEYS = (() => {
   const single = (process.env.GEMINI_API_KEY || '').trim(); if (single) out.push(single);
   return [...new Set(out)];
 })();
-const MODELS = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
+const MODELS = ['gemini-3.6-flash', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
 const RETAIN_DAYS = 7, MAX_CALLS = 40;
 // AI의 direction → 게임 이벤트 kind(engine/events.js가 효과 수치 매핑)
 const DIR_KIND = { 지원금: '지원금', 판매가상승: '시세호재', 판매가하락: '시세악재', 비용증가: '시세악재', 재해: '재해', 중립: '중립' };
