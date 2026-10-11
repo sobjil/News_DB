@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:05:44.585646+00:00",
+  "updated": "2026-10-11T09:20:46.266047+00:00",
   "count": 2051,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -115,16 +115,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567921&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567928&tblKey=GMN",
           "filename": "고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198567922&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567929&tblKey=GMN",
           "filename": "고준위 방사성폐기물 관리위원회 출범 1년 50년 국가 난제 해결의 기틀 다져(보도자료)(고준위 10.11).pdf"
         }
       ],
-      "_attAt": "2026-10-11T03:13:40.761728+00:00"
+      "_attAt": "2026-10-11T09:20:44.088890+00:00",
+      "_attRev": 1
     },
     {
       "title": "중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원",
