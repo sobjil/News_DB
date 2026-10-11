@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T23:36:47.286277+00:00",
-  "count": 2058,
+  "updated": "2026-10-11T23:51:45.565155+00:00",
+  "count": 2059,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -244,6 +244,47 @@
         }
       ],
       "_attAt": "2026-10-11T23:21:40.819600+00:00"
+    },
+    {
+      "title": "제274차 대외경제장관회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784794",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관은 금일 8시 정부서울청사에서 제274차 대외경제장관회의를 주재하였습니다. 자세한 내용은 첨부 내용을 확인해주시기 바랍니다. 문의. 재정경제부 대외경제국 대외경제총괄과 우지완 (044-215-7613)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568055&tblKey=GMN",
+          "filename": "01. (모두말씀) 제274차 대경장 모두발언_최종.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568057&tblKey=GMN",
+          "filename": "02. (보도자료) 제274차 대외경제장관회의.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568059&tblKey=GMN",
+          "filename": "(별첨) GVCM 세부 추진 방안.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568056&tblKey=GMN",
+          "filename": "01. (모두말씀) 제274차 대경장 모두발언_최종.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568058&tblKey=GMN",
+          "filename": "02. (보도자료) 제274차 대외경제장관회의.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568060&tblKey=GMN",
+          "filename": "(별첨) GVCM 세부 추진 방안.pdf"
+        }
+      ],
+      "_attAt": "2026-10-11T23:51:41.162563+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
