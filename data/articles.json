@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T03:13:45.281165+00:00",
-  "count": 2047,
+  "updated": "2026-10-11T03:28:45.675934+00:00",
+  "count": 2048,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -123,6 +123,32 @@
         }
       ],
       "_attAt": "2026-10-11T03:13:40.761728+00:00"
+    },
+    {
+      "title": "중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784752",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-10-11T00:00:00+09:00",
+      "description": "중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567923&tblKey=GMN",
+          "filename": "261012_중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567925&tblKey=GMN",
+          "filename": "261012_중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198567924&tblKey=GMN",
+          "filename": "261012_중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원.hwp"
+        }
+      ],
+      "_attAt": "2026-10-11T03:28:40.811903+00:00"
     },
     {
       "title": "주한외교단, 강원의 매력에 빠지다.",
