@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "retentionDays": 7,
-  "count": 70,
+  "count": 69,
   "events": [
     {
       "id": "156784320",
@@ -80,71 +80,6 @@
       "emoji": "🌀",
       "flavor": "경북 칠곡에서 대형 산불 대비 훈련이 열려 우리 농장도 가을철 화재 예방에 각별히 신경 쓰게 되었어요!",
       "weight": 5
-    },
-    {
-      "id": "156784262",
-      "agency": "해양수산부",
-      "title": "해상교통안전 확립에 기여한 '해사안전 우수사업자'를 찾습니다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784262",
-      "pubDate": "2026-10-05T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "해상교통안전 우수사업자를 뽑는다는 소식이 들려왔지만, 우리 농장과는 크게 관련이 없어 조용히 지나갑니다.",
-      "weight": 1
-    },
-    {
-      "id": "156784264",
-      "agency": "기후에너지환경부",
-      "title": "환경영향평가 공탁제 첫 시범사업 추진",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784264",
-      "pubDate": "2026-10-05T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "댐 현대화 사업과 환경영향평가 소식이 들려오지만, 다행히 우리 농장 경영에는 별다른 영향이 없겠어요!",
-      "weight": 1
-    },
-    {
-      "id": "156784263",
-      "agency": "기후에너지환경부",
-      "title": "기업 에너지효율 투자 부담 낮춘다… 정책융자 금리 0.5%p 인하",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784263",
-      "pubDate": "2026-10-05T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "지원금",
-      "strength": "약",
-      "emoji": "💰",
-      "flavor": "에너지 절약 시설 설치 융자 금리가 내려가서, 우리 농장도 저렴한 이자로 고효율 장비를 들여올 수 있게 되었어요!",
-      "weight": 5
-    },
-    {
-      "id": "156784309",
-      "agency": "행정안전부",
-      "title": "행정안전부 장관, 제주 차귀도 서방 인근 어선 전복사고 관련 긴급지시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784309",
-      "pubDate": "2026-10-05T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "재해",
-      "strength": "중",
-      "emoji": "🌀",
-      "flavor": "먼바다에서 들려온 어선 사고 소식에 가슴이 철렁해져, 우리 배의 안전 장비들을 다시 한번 서둘러 점검했어요.",
-      "weight": 5
-    },
-    {
-      "id": "156784339",
-      "agency": "농림축산식품부",
-      "title": "한국농수산대학교, 한국임업진흥원과 청년 임업 창업 역량 강화에 나서",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784339",
-      "pubDate": "2026-10-05T00:00:00+09:00",
-      "scope": "농사",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "청년 임업 창업 교육 소식에 우리 농장도 새로운 산림 재배 아이디어가 샘솟는 것 같아요!",
-      "weight": 2
     },
     {
       "id": "156784450",
@@ -911,6 +846,58 @@
       "strength": "약",
       "emoji": "📰",
       "flavor": "우리나라 산림청이 세계 무대에서 산불 대응 리더십을 발휘했다는 소식에 우리 산골 농장도 왠지 더 안전해진 기분이에요!",
+      "weight": 1
+    },
+    {
+      "id": "156784796",
+      "agency": "행정안전부",
+      "title": "지방소멸대응기금 광역지원계정, 평가 기반 차등 배분 도입으로 성과 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784796",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "지방소멸대응기금의 지자체 평가 배분 소식이라 당장 우리 농장에 직접적인 영향은 없어요.",
+      "weight": 1
+    },
+    {
+      "id": "156784750",
+      "agency": "해양수산부",
+      "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784750",
+      "pubDate": "2026-10-11T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "내륙 지역 학생들을 대상으로 한 해양환경 이동교실 교육 소식이라 우리 농장 경영에는 별다른 영향이 없어요.",
+      "weight": 1
+    },
+    {
+      "id": "156784749",
+      "agency": "해양수산부",
+      "title": "'제13회 여수 해양법 아카데미' 개최, 22개국 미래 해양 인재 역량 강화한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784749",
+      "pubDate": "2026-10-11T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "여수에서 개발도상국을 위한 해양법 교육 프로그램이 열렸지만 우리 농장 운영에는 직접적인 영향을 주지 않네요.",
+      "weight": 1
+    },
+    {
+      "id": "156784751",
+      "agency": "기후에너지환경부",
+      "title": "고준위 방사성폐기물 관리위원회 출범 1년, 50년 국가 난제 해결의 기틀 다져",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784751",
+      "pubDate": "2026-10-11T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "방사성폐기물 관리위원회 출범 소식은 우리 농장 운영에는 별다른 영향을 주지 않는 뉴스네요.",
       "weight": 1
     }
   ]
