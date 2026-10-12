@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T09:41:43.345381+00:00",
-  "count": 2123,
+  "updated": "2026-10-12T09:56:52.491327+00:00",
+  "count": 2125,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,8 +102,8 @@
           "filename": "261009_제22회_전국우수시장박람회,_충남_공주서_개막...3일간_열린다.pdf"
         }
       ],
-      "_attAt": "2026-10-12T03:51:42.276116+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-12T09:56:41.762581+00:00",
+      "_attRev": 2
     },
     {
       "title": "국방부차관, 방일 및 한일 국방차관회담 실시",
@@ -1668,6 +1668,48 @@
         }
       ],
       "_attAt": "2026-10-12T09:11:42.888551+00:00"
+    },
+    {
+      "title": "유엔자원봉사단(UNV), 우리 국민의 국제기구 진출 지평을 넓히다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784918",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "외교부는 10.12.(월) 서울에서 우리 국민의 유엔자원봉사단(UN Volunteers, UNV) 파견 성과를 점검하고 향후 협력방안을 논의하기 위한 「제6차 한-UNV 전략대화」를 개최했다. 이어 우리 국민의 유엔 관련 국제기구 진출을 도모하기 위한 「UNV 설명회」을 진행했다.※ 유엔자원봉사단(UNV)는 1970.12월 유엔총회 결의에 따라 설립된 UNDP(유엔개발계획) 산하 국제기구로, 전 세계의 지속가능발전과 평화유지 기여를 목적으로 다양한 국제기구 현장사무소에 봉사단원을 파견하여 개발 및 인도적 지원사업 등을 수행중 - 2",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568614&tblKey=GMN",
+          "filename": "[26-813](보도자료) 유엔자원봉사단(UNV), 우리 국민의 국제기구 진출 지평을 넓히다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568615&tblKey=GMN",
+          "filename": "[26-813](보도자료) 유엔자원봉사단(UNV), 우리 국민의 국제기구 진출 지평을 넓히다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-12T09:56:41.762581+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 생명지킴 현장행보",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784917",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "한성숙 국무총리, \"자살 예방, 위기 넘긴 이후에도 지속적인 사후관리 중요\"- 보라매병원 방문해 자살시도자 응급치료 및 응급실 기반 사례관리 현황 점검- 권역정신응급의료센터 '30년까지17개소, 생명사랑위기대응센터 내년까지103개소로 확대- 자살 사망자 감소세 지속될 수 있도록 정책으로 뒷받침 할 것□ 한성숙 국무총리는 10월 12일(월) 오후 4시 서울특별시 권역정신응급의료센터 및 생명사랑위기대응센터를 운영중인 보라매병원을 방문해 자살시도자의 응급치료 및 응급실 기반 사례관리 운영현황을 점검하고, 의료진과 관계자들을 격려했다.ㅇ ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568610&tblKey=GMN",
+          "filename": "261012 생명지킴 현장행보 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568611&tblKey=GMN",
+          "filename": "261012 생명지킴 현장행보 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-12T09:56:41.762581+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
