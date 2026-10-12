@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T08:26:50.417428+00:00",
-  "count": 2121,
+  "updated": "2026-10-12T08:41:49.658332+00:00",
+  "count": 2122,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1614,6 +1614,27 @@
         }
       ],
       "_attAt": "2026-10-12T07:51:41.320574+00:00"
+    },
+    {
+      "title": "한국과 룩셈부르크, 문화협력 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784891",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "한국과 룩셈부르크, 문화협력 방안 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1012]문체부보도자료-문체부 장관과 룩셈부르크 문화부 장관 면담.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568534&tblKey=GMN",
+          "filename": "[1012]문체부보도자료-문체부 장관과 룩셈부르크 문화부 장관 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568533&tblKey=GMN",
+          "filename": "[1012]문체부보도자료-문체부 장관과 룩셈부르크 문화부 장관 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-10-12T08:41:44.482285+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
