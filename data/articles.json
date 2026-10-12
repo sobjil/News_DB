@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T22:11:53.497752+00:00",
-  "count": 2107,
+  "updated": "2026-10-12T22:26:53.179273+00:00",
+  "count": 2108,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784920",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "﻿﻿﻿﻿﻿﻿가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부- 최근 3년간 산악사고 구조 건수 3만 5백여 회… 연평균 구조 인원 7,155명- 단풍철 산악사고 집중 발생, 지정된 등산로 이용 등 안전수칙 준수 당부□ 소방청은 본격적인 가을 단풍철을 맞아 등산객이 급증함에 따라 산악사고 발생 위험이 크게 높아지고 있다며, 산행 시 안전수칙 준수 등 각별한 주의를 당부했다.○ 소방청 통계자료에 따르면, 최근 3년간(2023년~2025년)간 전국에서 발생한 산",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568659&tblKey=GMN",
+          "filename": "(10. 13. (화) 조간 보도자료) 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-12T22:26:46.198735+00:00"
+    },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784785",
@@ -1195,8 +1211,8 @@
           "filename": "261013(조간) k-조선 모두의 힘으로, m.ax 상생항로 나선다(스마트해운물류팀).pdf"
         }
       ],
-      "_attAt": "2026-10-12T16:11:49.397872+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-12T22:26:46.198735+00:00",
+      "_attRev": 3
     },
     {
       "title": "K-조선 모두의 힘으로, M.AX 상생항로 나선다",
