@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T05:36:50.967759+00:00",
-  "count": 2109,
+  "updated": "2026-10-12T05:51:48.173005+00:00",
+  "count": 2110,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -264,36 +264,37 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568055&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568076&tblKey=GMN",
           "filename": "01. (모두말씀) 제274차 대경장 모두발언_최종.hwpx"
         },
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568057&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568078&tblKey=GMN",
           "filename": "02. (보도자료) 제274차 대외경제장관회의.hwpx"
         },
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568059&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568080&tblKey=GMN",
           "filename": "(별첨) GVCM 세부 추진 방안.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568056&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568077&tblKey=GMN",
           "filename": "01. (모두말씀) 제274차 대경장 모두발언_최종.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568058&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568079&tblKey=GMN",
           "filename": "02. (보도자료) 제274차 대외경제장관회의.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568060&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568081&tblKey=GMN",
           "filename": "(별첨) GVCM 세부 추진 방안.pdf"
         }
       ],
-      "_attAt": "2026-10-11T23:51:41.162563+00:00"
+      "_attAt": "2026-10-12T05:51:43.035929+00:00",
+      "_attRev": 1
     },
     {
       "title": "지방소멸대응기금 광역지원계정, 평가 기반 차등 배분 도입으로 성과 높인다",
@@ -1332,6 +1333,27 @@
         }
       ],
       "_attAt": "2026-10-12T05:36:43.545013+00:00"
+    },
+    {
+      "title": "한일 대학생, 새로운 한일 관계 60년을 기대한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784870",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "외교부는 금년도 제55차 「한일 대학생 교류 사업」의 일환으로 일본 대학생 28명을 10.8.(목)-16.(금)간 방한 초청했다. 「한일 대학생 교류 사업」은 한·일 차세대 간 소통을 강화함으로써 양국 간 이해 제고와 미래지향적인 양국 관계 발전에 기여하고자 1972년부터 실시되고 있으며, 동 사업으로 현재까지 총 약 2,600명의 양국 대학생이 상호 방문했다. ※ (공동 주최) 한국 외교부, 일본 외무성 / (공동 주관) 한국국제교류재단, 일한문화교류기금 금년 사업은 '새로운 60년을 향해 더 나은 미래로'라는 주제로 진행되며, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568404&tblKey=GMN",
+          "filename": "[26-810] (보도자료) 한일 대학생, 새로운 한일 관계 60년을 기대한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568405&tblKey=GMN",
+          "filename": "[26-810] (보도자료) 한일 대학생, 새로운 한일 관계 60년을 기대한다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-12T05:51:43.035929+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
