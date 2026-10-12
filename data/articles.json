@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:26:45.815390+00:00",
+  "updated": "2026-10-12T10:41:50.254292+00:00",
   "count": 2125,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -119,8 +119,8 @@
           "filename": "261009 [국방부 보도자료] 국방부차관, 방일 및 한일 국방차관회담 실시_게시.hwpx"
         }
       ],
-      "_attAt": "2026-10-12T04:36:41.228301+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-12T10:41:42.810667+00:00",
+      "_attRev": 2
     },
     {
       "title": "유망 아이디어를 창업으로, 2차 ｢모두의 창업｣ AI 솔루션 선정",
@@ -141,8 +141,8 @@
           "filename": "261012_유망_아이디어를_창업으로,_2차_모두의_창업_AI_솔루션_선정.pdf"
         }
       ],
-      "_attAt": "2026-10-12T04:36:41.228301+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-12T10:41:42.810667+00:00",
+      "_attRev": 2
     },
     {
       "title": "중기부·국세청, 2,559개 AI 중소·스타트업 집중 지원",
@@ -163,8 +163,8 @@
           "filename": "261012_중기부·국세청,_2,559개_AI_중소·스타트업_집중_지원.pdf"
         }
       ],
-      "_attAt": "2026-10-12T04:36:41.228301+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-12T10:41:42.810667+00:00",
+      "_attRev": 2
     },
     {
       "title": "[보도참고] 식약처, 국제인증표준품 분양 개시",
@@ -1208,16 +1208,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568315&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568509&tblKey=GMN",
           "filename": "1012(13조간, 12(월) 13시엠바고)조선해양플랜트과, K-조선 모두의 힘으로, M.AX 상생항로 나선다.hwpx"
         },
         {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568510&tblKey=GMN",
+          "filename": "별첨_자율운항선박 개발 및 상용화 촉진 기본계획.hwpx"
+        },
+        {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568314&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568508&tblKey=GMN",
           "filename": "1012(13조간, 12(월) 13시엠바고)조선해양플랜트과, K-조선 모두의 힘으로, M.AX 상생항로 나선다.pdf"
         }
       ],
-      "_attAt": "2026-10-12T04:36:41.228301+00:00"
+      "_attAt": "2026-10-12T10:41:42.810667+00:00",
+      "_attRev": 1
     },
     {
       "title": "[참고] 청년주택드림 청약통장, 연 소득 7천만원까지 가입 문턱 낮춘다",
