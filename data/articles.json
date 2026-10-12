@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T03:51:45.135744+00:00",
-  "count": 2100,
+  "updated": "2026-10-12T04:06:45.888503+00:00",
+  "count": 2101,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1126,6 +1126,27 @@
         }
       ],
       "_attAt": "2026-10-12T03:21:42.317695+00:00"
+    },
+    {
+      "title": "K-조선 모두의 힘으로, M.AX 상생항로 나선다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784851",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-12T00:00:00+09:00",
+      "description": "K-조선 모두의 힘으로, M.AX 상생항로 나선다- \"함께 크는 M.AX 프로젝트\" ② : 조선 -① 자율운항선박 분과를 공정으로 확산, 「조선 M.AX 얼라이언스」 출범② 민관합동으로 '30년까지 1.4조원+α 규모 「3대 플래그십 프로젝트」 추진③ 첫 프로젝트인 AI 조선소 등대공장, 4,000억원 규모 민간투자 MOU 체결④ 자율운항 선박 로드맵, 「제1차 자율운항 선박 기본계획('26~'35)」 발표 산업통상부(장관 김정관, 이하 '산업부')·해양수산부(장관 황종우, 이하 '해수부')는 10월 12일(월) 13시 호텔 현대바",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568288&tblKey=GMN",
+          "filename": "261013(조간) k-조선 모두의 힘으로, m.ax 상생항로 나선다(스마트해운물류팀).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568289&tblKey=GMN",
+          "filename": "261013(조간) k-조선 모두의 힘으로, m.ax 상생항로 나선다(스마트해운물류팀).pdf"
+        }
+      ],
+      "_attAt": "2026-10-12T04:06:40.859440+00:00"
     },
     {
       "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
