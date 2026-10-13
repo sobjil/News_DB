@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T22:31:54.487616+00:00",
-  "count": 2065,
+  "updated": "2026-10-13T22:46:50.889259+00:00",
+  "count": 2066,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -134,6 +134,37 @@
         }
       ],
       "_attAt": "2026-10-13T22:16:43.006166+00:00"
+    },
+    {
+      "title": "「AI·융복합 K-뷰티 서비스 지원방안」 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785048",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "정부는 '26.10.14(목), 이형일 부총리 겸 재정경제부 장관 주재로 개최된 경제관계장관회의 겸 서비스산업발전 TF에서「AI·융복합 K-뷰티 서비스 지원방안」을 발표하였다. ※ 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다.문의. 재정경제부 정책조정관 서비스경제과 박상현 (044-215-4612)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569274&tblKey=GMN",
+          "filename": "261012 (보도자료) AI·융복합 K-뷰티 서비스 지원방안.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569276&tblKey=GMN",
+          "filename": "261014 AI 융복합 K-뷰티 서비스산업 지원방안.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569275&tblKey=GMN",
+          "filename": "261012 (보도자료) AI·융복합 K-뷰티 서비스 지원방안.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569277&tblKey=GMN",
+          "filename": "261014 AI 융복합 K-뷰티 서비스산업 지원방안.pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T22:46:43.721149+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
