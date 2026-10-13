@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T05:56:54.339666+00:00",
-  "count": 2159,
+  "updated": "2026-10-13T06:11:57.549184+00:00",
+  "count": 2160,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -132,16 +132,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568680&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568690&tblKey=GMN",
           "filename": "[보도자료]왕이 머물던 정원 시간을 넘어 영월에서 만나다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568681&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568691&tblKey=GMN",
           "filename": "[보도자료]왕이 머물던 정원 시간을 넘어 영월에서 만나다.pdf"
         }
       ],
-      "_attAt": "2026-10-13T00:11:46.391651+00:00"
+      "_attAt": "2026-10-13T06:11:47.440956+00:00",
+      "_attRev": 1
     },
     {
       "title": "질병관리청, 러시아 원인불명 폐렴(폐페스트 의심) 관련 국내 상황점검회의 개최(10.13.화)",
@@ -162,7 +163,8 @@
           "filename": "[10.13.보도참고자료] 질병관리청, 러시아 원인불명 폐렴(폐페스트 의심) 관련 국내 상황점검회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-13T00:11:46.391651+00:00"
+      "_attAt": "2026-10-13T06:11:47.440956+00:00",
+      "_attRev": 1
     },
     {
       "title": "공급망은 안정적으로, 새만금 협력은 활발하게... 한중 통상당국, 공급망·산단 실무회의 개최",
@@ -1160,6 +1162,22 @@
         }
       ],
       "_attAt": "2026-10-13T05:56:46.705196+00:00"
+    },
+    {
+      "title": "배경훈 부총리, 피지컬 AI 얼라이언스와 현장 중심의 실질적 성과 창출 가속화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784992",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "- 피지컬 AI 얼라이언스 간담회를 통해 산업 현장 애로 및 정책 수요 청취 - K-피지컬 AI 풀스택·산업별 실증·데이터·표준 등 추진성과 및 실행과제 점검 - 관계부처 사업·정책금융 연계해 현장 실증과 성공사례 창출 적극 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568997&tblKey=GMN",
+          "filename": "261014 조간 (보도) 배경훈 부총리, 피지컬 AI 얼라이언스와 현장 중심의 실질적 성과 창출 가속화.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-13T06:11:47.440956+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
