@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T09:41:46.907958+00:00",
-  "count": 2176,
+  "updated": "2026-10-13T09:56:50.294150+00:00",
+  "count": 2177,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1531,6 +1531,27 @@
         }
       ],
       "_attAt": "2026-10-13T09:26:46.932776+00:00"
+    },
+    {
+      "title": "정부, 파나마 강진 피해에 대한 인도적 지원 제공",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785016",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "우리 정부는 지난 10.9.(금) 파나마에서 발생한 강진으로 인한 피해에 대한 신속한 대응과 조기 복구를 지원하고자, 현지에서 활동 중인 국제기구를 통해 30만불 규모의 인도적 지원을 제공하기로 결정하였다.※ 유엔인도주의업무조정국(OCHA) 상황 보고서(10.11.)에 따르면 의료시설 29개소, 학교 419개소, 주택 820채가 파손되는 등 물적 피해 발생 우리 정부는 이번 지원이 피해 지역 복구와 해당 지역 주민들의 조속한 일상 복귀에 도움이 되기를 기대한다. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569190&tblKey=GMN",
+          "filename": "[26-815](보도자료) 파나마 지진 피해 인도적 지원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569191&tblKey=GMN",
+          "filename": "[26-815](보도자료) 파나마 지진 피해 인도적 지원.pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T09:56:45.846172+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
