@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T05:11:51.550388+00:00",
-  "count": 2154,
+  "updated": "2026-10-13T05:26:53.891585+00:00",
+  "count": 2157,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1058,6 +1058,69 @@
         }
       ],
       "_attAt": "2026-10-13T05:11:45.425529+00:00"
+    },
+    {
+      "title": "애니메이션 및 영화 분야 현장 목소리로 2027년 정부 예산안 및 정책 방향 설계",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784985",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "애니메이션 및 영화 분야 현장 목소리로 2027년 정부 예산안 및 정책 방향 설계 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1013]문체부보도자료-문화예술정책자문위원회 애니메이션 분과와 영화 분과 회의 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568964&tblKey=GMN",
+          "filename": "[1013]문체부보도자료-문화예술정책자문위원회 애니메이션 분과와 영화 분과 회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568963&tblKey=GMN",
+          "filename": "[1013]문체부보도자료-문화예술정책자문위원회 애니메이션 분과와 영화 분과 회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T05:26:45.315787+00:00"
+    },
+    {
+      "title": "세종 중심 국정운영 강화, 2차 중앙행정기관 이전 본격 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784986",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "세종 중심 국정운영 강화, 2차 중앙행정기관 이전 본격 추진 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568965&tblKey=GMN",
+          "filename": "(보도자료) 2차 중앙행정기관 이전(행정안전부).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568966&tblKey=GMN",
+          "filename": "(보도자료) 2차 중앙행정기관 이전(행정안전부).pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T05:26:45.315787+00:00"
+    },
+    {
+      "title": "세종 중심 국정운영 강화, 2차 중앙행정기관 이전 본격 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784984",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "- 수도권 소재 중앙행정기관 등 44개 기관, 9,929명 세종 이전 추진- 2027년 27개 기관 우선 이전, 17개 기관은 청사 신축 후 순차 이전 행정안전부(장관 윤호중)는 세종 중심의 국정 운영체계를 강화하기 위해 수도권에 소재한 중앙행정기관 등을 2027년부터 단계적으로 세종으로 이전한다고 밝혔다. 이번 이전은 수도권 과밀을 완화하고 국가균형발전을 촉진하는 한편, 그간 세종시와 수도권으로 양분화되어 운영되던 과도기적인 체계를 정상화하여 세종을 실질적인 국정운영의 중심으로 만들어 나가기 위한 것이다. 행정안전부는 지난 9월 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568960&tblKey=GMN",
+          "filename": "[보도자료] 261013 (브리핑 시작 시) 세종 중심 국정운영 강화 2차 중앙행정기관 이전 본격 추진(정부청사관리본부 청사기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568959&tblKey=GMN",
+          "filename": "[보도자료] 261013 (브리핑 시작 시) 세종 중심 국정운영 강화 2차 중앙행정기관 이전 본격 추진(정부청사관리본부 청사기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T05:26:45.315787+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
