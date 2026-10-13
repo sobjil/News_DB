@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T11:31:50.108726+00:00",
+  "updated": "2026-10-13T11:43:45.406772+00:00",
   "count": 2177,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1181,11 +1181,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568976&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568992&tblKey=GMN",
           "filename": "(261013)보도자료(국립산림레포츠센터 현장 점검).hwpx"
         }
       ],
-      "_attAt": "2026-10-13T05:41:45.387765+00:00"
+      "_attAt": "2026-10-13T11:43:42.470476+00:00",
+      "_attRev": 1
     },
     {
       "title": "중소 방송채널사용사업자 지원 근거 마련",
