@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T04:41:55.064968+00:00",
-  "count": 2151,
+  "updated": "2026-10-13T04:56:51.237755+00:00",
+  "count": 2152,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -990,6 +990,27 @@
         }
       ],
       "_attAt": "2026-10-13T04:41:46.155816+00:00"
+    },
+    {
+      "title": "\"야구장 앞 암표상, 형사처벌이 강화됩니다.\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784980",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "\"야구장 앞 암표상, 형사처벌이 강화됩니다.\" 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568942&tblKey=GMN",
+          "filename": "261013(석간용) 암표매매 집중단속(범죄예방정책).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568943&tblKey=GMN",
+          "filename": "261013(석간용) 암표매매 집중단속(범죄예방정책).pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T04:56:46.443460+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
