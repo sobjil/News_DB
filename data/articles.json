@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T07:41:49.462517+00:00",
-  "count": 2170,
+  "updated": "2026-10-13T07:56:56.379173+00:00",
+  "count": 2171,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -401,16 +401,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568773&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568790&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색).hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198568772&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568789&tblKey=GMN",
           "filename": "보도자료(서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색).hwp"
         }
       ],
-      "_attAt": "2026-10-13T01:41:46.124662+00:00"
+      "_attAt": "2026-10-13T07:56:48.977478+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능(AI)·자율주행 시대, APEC 스마트 모빌리티 협력 서울서 넓힌다",
@@ -1383,6 +1384,27 @@
         }
       ],
       "_attAt": "2026-10-13T07:41:45.059486+00:00"
+    },
+    {
+      "title": "\"대한민국, 인구의 판을 바꾸다!\" 인구비전을 국민과 함께 만들어갑니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785007",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "\"대한민국, 인구의 판을 바꾸다!\" 인구비전을 국민과 함께 만들어갑니다 - 10.14.(수) 14:00, 이재명 대통령 주재로 \"국민주권정부 인구전략 비전선포식 및 제1차 인구전략위원회\" 개최 - 국민주권정부 인구비전 로드맵 발표와 인구문제에 대한 생생한 현장의견을 듣는 국민참여토론 예정 인구전략위원회는 위원장인 이재명 대통령의 주재로 내일 10월 14일(수) 14:00, 청와대 영빈관에서 국민주권정부 인구전략 비전선포식 및 제1차 인구전략위원회를 개최한다. 이번 행사는 지난 9월 10일 저출산·고령사회기본법을 전면 개정한 인구전략",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569149&tblKey=GMN",
+          "filename": "[보도참고자료] “대한민국, 인구의 판을 바꾸다!” 인구비전을 국민과 함께 만들어갑니다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569150&tblKey=GMN",
+          "filename": "[보도참고자료] “대한민국, 인구의 판을 바꾸다!” 인구비전을 국민과 함께 만들어갑니다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T07:56:48.977478+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
