@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T00:42:05.630829+00:00",
-  "count": 2117,
+  "updated": "2026-10-13T00:56:50.344669+00:00",
+  "count": 2118,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -265,6 +265,27 @@
         }
       ],
       "_attAt": "2026-10-13T00:41:46.560018+00:00"
+    },
+    {
+      "title": "가을야구 암표, 현장에서 잡는다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784933",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "가을야구 암표, 현장에서 잡는다! 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1013]문체부보도자료-프로야구 포스트시즌 대비 암표 단속.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568734&tblKey=GMN",
+          "filename": "[1013]문체부보도자료-프로야구 포스트시즌 대비 암표 단속.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568733&tblKey=GMN",
+          "filename": "[1013]문체부보도자료-프로야구 포스트시즌 대비 암표 단속.pdf"
+        }
+      ],
+      "_attAt": "2026-10-13T00:56:45.180735+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
