@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T01:26:56.623203+00:00",
-  "count": 2122,
+  "updated": "2026-10-13T01:41:53.638629+00:00",
+  "count": 2123,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -375,6 +375,27 @@
         }
       ],
       "_attAt": "2026-10-13T01:26:46.031428+00:00"
+    },
+    {
+      "title": "서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784942",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-13T00:00:00+09:00",
+      "description": "서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색- 산림복지서비스 확대와 국민 불편 해소를 위한 규제개선 사례 공유 -서부지방산림청(청장 김인천)은 12일 함양국유림관리소 회의실에서 지방청, 함양국유림관리소, 함양군청, 산림복지전문업 운영기관이 참석해 산림복지분야 규제합리화 추진 방향을 공유하고, 현장에서 느끼는 애로사항과 제도개선 의견을 수렴했다.서부지방산림청은 이날 제기된 의견들을 검토해 관계부서와 공유하고, 향후 규제개선 과제 발굴 및 현장 지원 방안 마련에 활용할 예정이다.아울러 산림복지서비스 확대와 국민 불편 해소를 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568773&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색).hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198568772&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 국민이 체감하는 산림 규제 합리화 모색).hwp"
+        }
+      ],
+      "_attAt": "2026-10-13T01:41:46.124662+00:00"
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
