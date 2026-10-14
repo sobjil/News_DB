@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T04:16:56.184009+00:00",
-  "count": 2115,
+  "updated": "2026-10-14T04:31:50.106895+00:00",
+  "count": 2116,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1198,6 +1198,27 @@
         }
       ],
       "_attAt": "2026-10-14T04:16:44.012871+00:00"
+    },
+    {
+      "title": "제10차 확대간부회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785116",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "﻿기획예산처는 '26.10.14.(수) 9시 30분 정부세종청사 5-1동 4층 대회의실에서 박홍근 장관 주재로 제10차 확대간부회의를 개최하였습니다. 자세한 내용은 첨부자료를 참고해주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569499&tblKey=GMN",
+          "filename": "제10차 확대간부회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569498&tblKey=GMN",
+          "filename": "제10차 확대간부회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T04:31:45.123265+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
