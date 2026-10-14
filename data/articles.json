@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T22:59:44.330221+00:00",
-  "count": 2062,
+  "updated": "2026-10-14T23:14:53.040516+00:00",
+  "count": 2064,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -76,6 +76,48 @@
         }
       ],
       "_attAt": "2026-10-14T22:14:40.223013+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 의약품 허가 신청을 위한 최신 전자공통기술문서(eCTD v4.0) 서비스 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785231",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 의약품 허가 신청을 위한 최신 전자공통기술문서(eCTD v4.0) 서비스 개시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570086&tblKey=GMN",
+          "filename": "[26.10.15.(목) 보도참고자료] 식약처, 의약품 허가 신청을 위한 최신 전자공통기술문서(eCTD v4.0) 서비스 개시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570087&tblKey=GMN",
+          "filename": "[26.10.15.(목) 보도참고자료] 식약처, 의약품 허가 신청을 위한 최신 전자공통기술문서(eCTD v4.0) 서비스 개시.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T23:14:40.307844+00:00"
+    },
+    {
+      "title": "[보도참고] '해외직구 식품 올바로 웹앱' 국민이 직접 써보고 완성도 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785230",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "[보도참고] '해외직구 식품 올바로 웹앱' 국민이 직접 써보고 완성도 높인다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570084&tblKey=GMN",
+          "filename": "[26.10.15.(목) 보도참고자료] &amp;apos;해외직구 식품 올바로 웹앱&amp;apos; 국민이 직접 써보고 완성도 높인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570085&tblKey=GMN",
+          "filename": "[26.10.15.(목) 보도참고자료] &amp;apos;해외직구 식품 올바로 웹앱&amp;apos; 국민이 직접 써보고 완성도 높인다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T23:14:40.307844+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
@@ -1311,8 +1353,8 @@
           "filename": "(261012)_보도자료_국민이_뽑는_산림행정의_특별한_성과__포상으로_이어진다.hwp"
         }
       ],
-      "_attAt": "2026-10-14T16:59:42.340502+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:14:40.307844+00:00",
+      "_attRev": 3
     },
     {
       "title": "산림청, 10월 '이 달의 임업인'에 충북 보은에서 대추를 재배하는 신동우 임업인 선정",
@@ -1338,8 +1380,8 @@
           "filename": "(261002)보도자료-산림청__10월_‘이_달의_임업인’에_충북_보은에서_대추를_재배하는_신동우_임업인_선정.hwp"
         }
       ],
-      "_attAt": "2026-10-14T16:59:42.340502+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:14:40.307844+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 백두대간 사랑운동 개최",
@@ -1365,8 +1407,8 @@
           "filename": "(261002)보도자료-2026년_백두대간_사랑운동_개최.hwp"
         }
       ],
-      "_attAt": "2026-10-14T16:59:42.340502+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:14:40.307844+00:00",
+      "_attRev": 3
     },
     {
       "title": "[장관동정] 홍지선 장관, 신축매입 현장점검 \"제도개선이 실제 공급으로 이어지도록\"",
@@ -1387,8 +1429,8 @@
           "filename": "261014(동정)_홍지선_장관__신축매입_현장점검_“제도개선이_실제_공급으로_이어지도록”(주거복지지원과).pdf"
         }
       ],
-      "_attAt": "2026-10-14T16:59:42.340502+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:14:40.307844+00:00",
+      "_attRev": 3
     },
     {
       "title": "한-스코틀랜드, 반도체 분야 협력 강화 방안 논의",
