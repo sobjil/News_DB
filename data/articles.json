@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T05:07:46.425205+00:00",
-  "count": 2123,
+  "updated": "2026-10-14T05:14:45.031813+00:00",
+  "count": 2124,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1377,6 +1377,27 @@
         }
       ],
       "_attAt": "2026-10-14T05:07:41.352052+00:00"
+    },
+    {
+      "title": "조현 외교부 장관, 남수단 대통령특사 면담(10.14.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785129",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "조현 외교부 장관은 10.14.(수) 오전 방한 중인 아둣 살바 키르 마야르디트(Adut Salva Kiir Mayardit) 남수단 대통령특사와 면담을 갖고, ▴양국 관계 및 실질협력 증진 방안, ▴개발협력, ▴국제무대 협력 ▴지역정세 등에 대해 폭넓게 의견을 교환하였다.※ 아둣 키르 특사는 살바 키르 남수단 대통령의 장녀로, 2025.8월 대통령특별사업담당특사(Senior Presidential Special Envoy for Special Programs)로 임명※ 동 특사는 금번 방한(10.12-17) 중 국립국제교육원, K",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569571&tblKey=GMN",
+          "filename": "[26-816](보도자료) 조현 외교부 장관, 남수단 대통령특사 면담(10.14.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569572&tblKey=GMN",
+          "filename": "[26-816](보도자료) 조현 외교부 장관, 남수단 대통령특사 면담(10.14.).pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T05:14:40.225958+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
