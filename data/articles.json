@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T08:53:50.272258+00:00",
-  "count": 2166,
+  "updated": "2026-10-14T09:08:50.700005+00:00",
+  "count": 2167,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1022,16 +1022,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569452&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569921&tblKey=GMN",
           "filename": "261015(조간)_밀가루 부산물 가격담합 사건 심의 절차 개시.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569453&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569922&tblKey=GMN",
           "filename": "261015(조간)_밀가루 부산물 가격담합 사건 심의 절차 개시.pdf"
         }
       ],
-      "_attAt": "2026-10-14T03:01:47.477027+00:00"
+      "_attAt": "2026-10-14T09:08:42.991207+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 울산 울주군 공장화재 관련 긴급지시",
@@ -1052,7 +1053,8 @@
           "filename": "261014_한성숙 국무총리, 울산 울주군 공장화재 관련 긴급지시.pdf"
         }
       ],
-      "_attAt": "2026-10-14T03:01:47.477027+00:00"
+      "_attAt": "2026-10-14T09:08:42.991207+00:00",
+      "_attRev": 1
     },
     {
       "title": "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다",
@@ -2296,6 +2298,27 @@
         }
       ],
       "_attAt": "2026-10-14T08:53:41.983341+00:00"
+    },
+    {
+      "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785191",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "2026.10.14. 연합뉴스 「공급망기금 91% 대기업에... 지원체계 보완해야」 기사 관련입니다. * 자세한 내용은 첨부된 파일을 참고하여 주시기 바랍니다.문의. 재정경제부 경제공급망기획관 공급망대응담당관 장태규 (044-215-7884)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569925&tblKey=GMN",
+          "filename": "261014 연합뉴스 보도참고자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569926&tblKey=GMN",
+          "filename": "261014 연합뉴스 보도참고자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T09:08:42.991207+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
