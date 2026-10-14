@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T03:16:55.993119+00:00",
-  "count": 2110,
+  "updated": "2026-10-14T03:31:58.051071+00:00",
+  "count": 2111,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -71,16 +71,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569258&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569270&tblKey=GMN",
           "filename": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다(보도자료)(낙동강 10.14).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569259&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569271&tblKey=GMN",
           "filename": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다(보도자료)(낙동강 10.14).pdf"
         }
       ],
-      "_attAt": "2026-10-13T21:16:44.783597+00:00"
+      "_attAt": "2026-10-14T03:31:44.655655+00:00",
+      "_attRev": 1
     },
     {
       "title": "쓰레기도 에너지가 된다… 탄소중립 시대, 새로운 해법 찾는다",
@@ -92,16 +93,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569260&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569268&tblKey=GMN",
           "filename": "쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569261&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569269&tblKey=GMN",
           "filename": "쓰레기도 에너지가 된다… 탄소중립 시대 새로운 해법 찾는다(보도자료)(과학원 10.14).pdf"
         }
       ],
-      "_attAt": "2026-10-13T21:16:44.783597+00:00"
+      "_attAt": "2026-10-14T03:31:44.655655+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"특수재난대응 훈련을 통한 실전 대응력 강화\" 제32기 소방간부후보생 경호안전교육원 위탁교육 실시",
@@ -1089,6 +1091,22 @@
         }
       ],
       "_attAt": "2026-10-14T03:16:43.587408+00:00"
+    },
+    {
+      "title": "과기정통부, 국제 학술지 네이처(Nature)와 미래 로보틱스 발전 방향 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785110",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "- 「2026 네이처 컨퍼런스」 계기 네이처 편집위원 및 KAIST 관계자와 간담회- K-문샷으로 추진 중인 휴머노이드 기술 경쟁력 강화 방안 논의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569475&tblKey=GMN",
+          "filename": "261015 조간 (보도) 과기정통부, 국제 학술지 네이처(Nature)와 미래 로보틱스 발전 방향 논의.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-14T03:31:44.655655+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
@@ -2551,8 +2569,8 @@
           "filename": "261013 즉시 (보도) 과기정통부, 나의 연구 도전기 본선 대회 개최(보정).hwpx"
         }
       ],
-      "_attAt": "2026-10-13T21:16:44.783597+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T03:31:44.655655+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도자료] 한성숙 국무총리, 주택공급 현장점검(수원시 영통1구역 재개발 정비사업 현장) 및 간담회 개최",
@@ -2573,8 +2591,8 @@
           "filename": "261013_한성숙 국무총리, 주택공급 현장점검(수원시 영통1구역 재개발 정비사업 현장) 및 간담회.pdf"
         }
       ],
-      "_attAt": "2026-10-13T21:16:44.783597+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T03:31:44.655655+00:00",
+      "_attRev": 3
     },
     {
       "title": "국방부장관, 취임 후 첫 예비역단체(성우회, 재향군인회) 방문",
