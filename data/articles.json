@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T05:53:44.792192+00:00",
-  "count": 2130,
+  "updated": "2026-10-14T06:08:51.416703+00:00",
+  "count": 2131,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -303,7 +303,8 @@
           "filename": "261014 석간 (보도) 성능·전력 한계 넘는 차세대 반도체 개발 도전 (1).hwpx"
         }
       ],
-      "_attAt": "2026-10-14T00:01:45.953036+00:00"
+      "_attAt": "2026-10-14T06:08:43.081488+00:00",
+      "_attRev": 1
     },
     {
       "title": "해외규격인증획득 지원사업(3차) 참여기업 모집",
@@ -1533,6 +1534,27 @@
         }
       ],
       "_attAt": "2026-10-14T05:44:42.519114+00:00"
+    },
+    {
+      "title": "정비사업 조합 위법행위 특별현장점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785139",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "정비사업 조합 위법행위 특별현장점검 실시 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569613&tblKey=GMN",
+          "filename": "261015(조간) 정비사업 조합 위법행위 특별현장점검 실시(신도시정비기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569614&tblKey=GMN",
+          "filename": "261015(조간) 정비사업 조합 위법행위 특별현장점검 실시(신도시정비기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T06:08:43.081488+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
@@ -3078,8 +3100,8 @@
           "filename": "(보도자료) 검찰총장후보추천위원회 구성 및 천거 공고 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-10-14T00:01:45.953036+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T06:08:43.081488+00:00",
+      "_attRev": 3
     },
     {
       "title": "9월중 전세사기피해자등 623건 추가 결정",
