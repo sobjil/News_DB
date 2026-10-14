@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T06:38:55.646484+00:00",
-  "count": 2139,
+  "updated": "2026-10-14T06:53:52.758738+00:00",
+  "count": 2142,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -469,7 +469,8 @@
           "filename": "261014(보도참고) 금융위원회 안창국 상임위원 금융안정위원회(FSB) 규제·감독협력상임위(SRC) 및 ｢KOOM Week 2026｣ 참석.pdf"
         }
       ],
-      "_attAt": "2026-10-14T00:46:43.702931+00:00"
+      "_attAt": "2026-10-14T06:53:42.851836+00:00",
+      "_attRev": 1
     },
     {
       "title": "금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여",
@@ -481,16 +482,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569331&tblKey=GMN",
-          "filename": "261014(보도참고) 금융정보분석원장 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198569356&tblKey=GMN",
+          "filename": "261014(보도참고) 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198569332&tblKey=GMN",
-          "filename": "261014(보도참고) 금융정보분석원장 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198569357&tblKey=GMN",
+          "filename": "261014(보도참고) 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여.pdf"
         }
       ],
-      "_attAt": "2026-10-14T00:46:43.702931+00:00"
+      "_attAt": "2026-10-14T06:53:42.851836+00:00",
+      "_attRev": 1
     },
     {
       "title": "류제명 제2차관, 「피지컬 AI Tech Day」 참석",
@@ -1730,6 +1732,74 @@
         }
       ],
       "_attAt": "2026-10-14T06:38:42.356424+00:00"
+    },
+    {
+      "title": "산림청, 10월 이달의 임산물로 '대추' 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785155",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "산림청, 10월 이달의 임산물로 '대추' 선정산림청(청장 박은식)은 10월 이달의 임산물로 '대추'를 선정했다고 14일 밝혔다. 대추는 9~10월이 제철인 가을철 임산물로, 열매가 익을수록 껍질에 윤기가 돌고 적갈색을 띠며 달콤한 맛이 깊어진다. 한 나무에 많은 열매가 달려 예로부터 풍요와 자손 번창을 상징했으며, 혼례의 폐백과 명절 차례상 등에 활용되며 오랫동안 우리 생활과 함께해 왔다. '대추를 보고도 안 먹으면 늙는다'는 속담이 전해질 만큼 대추는 예로부터 노화 방지에 도움이 되는 먹거리로 여겨져 왔으며, 실제로 피부 손상을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569686&tblKey=GMN",
+          "filename": "(2601014)보도자료-산림청_10월_이달의_임산물로_‘대추’_선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569688&tblKey=GMN",
+          "filename": "(2601014)보도자료-산림청_10월_이달의_임산물로_‘대추’_선정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569687&tblKey=GMN",
+          "filename": "(2601014)보도자료-산림청_10월_이달의_임산물로_‘대추’_선정.hwp"
+        }
+      ],
+      "_attAt": "2026-10-14T06:53:42.851836+00:00"
+    },
+    {
+      "title": "'AI가 불러올 바이오헬스 혁신의 확산', 국제사회 리더들이 한 곳에 모인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785156",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "'AI가 불러올 바이오헬스 혁신의 확산', 국제사회 리더들이 한 곳에 모인다- 보건복지부·세계보건기구, 「2026 세계 바이오 서밋」 개최 (10.21.~22.) - 보건복지부(장관 정은경)는 10월 21일(수)부터 22일(목)까지 1박 2일 간 서울 코엑스마곡 컨벤션센터에서 「2026 세계 바이오 서밋(2026 World Bio Summit)」을 개최할 예정이라고 밝혔다. 이번 행사는 대한민국 정부와 세계보건기구(World Health Organization, WHO)가 공동으로 주최하고 한국보건산업진흥원(원장 고상백)이 주관하며",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569689&tblKey=GMN",
+          "filename": "[보도참고자료] ‘AI가 불러올 바이오헬스 혁신의 확산’, 국제사회 리더들이 한 곳에 모인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569690&tblKey=GMN",
+          "filename": "[보도참고자료] ‘AI가 불러올 바이오헬스 혁신의 확산’, 국제사회 리더들이 한 곳에 모인다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T06:53:42.851836+00:00"
+    },
+    {
+      "title": "첨단기술의 해외유출, '기술 잘 아는 경찰' 지식재산처가 끝까지 잡는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785153",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-10-14T00:00:00+09:00",
+      "description": "첨단기술의 해외유출, '기술 잘 아는 경찰' 지식재산처가 끝까지 잡는다 - 지식재산처, 국감 후속입법으로 기술경찰 수사범위 제도 개선 추진 - 지식재산처(처장 김용선)는 형사사법체계 개편에 따른 기술유출 범죄의 수사 공백을 방지하기 위해, 지식재산처 기술경찰의 수사범위를 영업비밀 침해를 넘어 국가핵심기술·국가첨단전략기술 유출 범죄까지 확대하는 '사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률'(이하 '사법경찰직무법') 개정을 조속히 추진하겠다고 14일 밝혔다. 이번 국정감사에서는 기술유출 범죄의 수사 공백을 해소하고, 신",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569672&tblKey=GMN",
+          "filename": "333 [지식재산처] 첨단기술의 해외유출, ‘기술 잘 아는 경찰’ 지식재산처가 끝까지 잡는다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198569673&tblKey=GMN",
+          "filename": "333 [지식재산처] 첨단기술의 해외유출, ‘기술 잘 아는 경찰’ 지식재산처가 끝까지 잡는다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T06:53:42.851836+00:00"
     },
     {
       "title": "가을 단풍 시기 산악사고 급증...산행 시 안전수칙 준수 신속한 출동 위해 정확한 사고위치 파악 중요‥지정된 등산로 이용 당부",
