@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T21:59:46.672315+00:00",
-  "count": 2061,
+  "updated": "2026-10-14T22:14:45.296420+00:00",
+  "count": 2062,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785229",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "﻿소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성\"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"- 시도 소방본부 및 일선 현장 수요과제를 중심으로 개발 가능성과 활용성을 검토하고 전문분야별 개발팀 구성- 12월까지 현장 맞춤형 인공지능(AI) 서비스 개발 추진… 보안성 검토 및 실증을 거쳐 전국 소방관서 활용 기반 마련□ 소방청은 인공지능(AI)을 활용해 재난현장 대응역량을 강화하고 소방행정의 효율성을 높이기 위해 전국 소방공무원 중 인공지능(AI) 활용 및 개발 역량을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570077&tblKey=GMN",
+          "filename": "(10. 15. (목) 조간 보도자료) 소방청%2C 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 ‘전문가 인력 자원(인력풀)’ 구성 “현장에 필요한 인공지능(AI)%2C 소방공무원이 직접 만든다”.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-14T22:14:40.223013+00:00"
+    },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785044",
