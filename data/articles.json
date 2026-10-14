@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T23:14:53.040516+00:00",
-  "count": 2064,
+  "updated": "2026-10-14T23:29:50.898544+00:00",
+  "count": 2067,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -118,6 +118,69 @@
         }
       ],
       "_attAt": "2026-10-14T23:14:40.307844+00:00"
+    },
+    {
+      "title": "대한민국 스포츠 기록과 감동을 한자리에, '국립스포츠박물관' 개관",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785234",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "대한민국 스포츠 기록과 감동을 한자리에, '국립스포츠박물관' 개관 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1015]문체부보도자료-국립스포츠박물관 개관.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570094&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-국립스포츠박물관 개관.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570093&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-국립스포츠박물관 개관.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T23:29:41.195640+00:00"
+    },
+    {
+      "title": "10월 15일은 '스포츠의 날', 일상 속 스포츠의 즐거움을 만끽하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785233",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "10월 15일은 '스포츠의 날', 일상 속 스포츠의 즐거움을 만끽하세요 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1015]문체부보도자료-2026년 스포츠의 날 기념 행사 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570091&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-2026년 스포츠의 날 기념 행사 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570090&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-2026년 스포츠의 날 기념 행사 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T23:29:41.195640+00:00"
+    },
+    {
+      "title": "기업의 기억과 지역의 일상을 연결한 복합문화공간 '유한양행 윌로우하우스', '2026 대한민국 공간문화대상' 대상 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785232",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "기업의 기억과 지역의 일상을 연결한 복합문화공간 '유한양행 윌로우하우스', '2026 대한민국 공간문화대상' 대상 수상 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1015]문체부보도자료-2026 대한민국 공간문화대상 수상작 발표.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570089&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-2026 대한민국 공간문화대상 수상작 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570088&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-2026 대한민국 공간문화대상 수상작 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-10-14T23:29:41.195640+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
@@ -1446,8 +1509,8 @@
           "filename": "261015 조간 (동정) 한-스코틀랜드, 반도체 분야 협력 강화 방안 논의.hwpx"
         }
       ],
-      "_attAt": "2026-10-14T17:14:42.917074+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:29:41.195640+00:00",
+      "_attRev": 3
     },
     {
       "title": "한-UAE 합동작전*으로 사이버도박 총책급 검거·송환",
@@ -1468,8 +1531,8 @@
           "filename": "261014(1200) 한-UAE 합동작전으로 사이버도박 총책급 검거송환(국제공조1과).pdf"
         }
       ],
-      "_attAt": "2026-10-14T17:14:42.917074+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-14T23:29:41.195640+00:00",
+      "_attRev": 3
     },
     {
       "title": "『5극3특 全권역별 현장행보 ➑』 'AI·청정산업 혁신거점'으로 거듭나는 강원 강원권 3대 성장엔진 본격 가동!",
