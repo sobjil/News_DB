@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-15",
   "retentionDays": 7,
-  "count": 16,
+  "count": 27,
   "events": [
     {
       "id": "156784796",
@@ -210,6 +210,149 @@
       "emoji": "📰",
       "flavor": "여성농업인의 날 기념 소식에 마을 농가들이 활기를 띠고 우리 농장도 힘찬 응원을 받았어요!",
       "weight": 2
+    },
+    {
+      "id": "156785383",
+      "agency": "기후에너지환경부",
+      "title": "체력에 맞는 탐방로 선택이 우선… 국립공원 가을 안전산행 종합 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785383",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "국립공원 가을 안전산행 안내 소식이 전해졌지만 우리 농장 운영에는 별다른 영향이 없어요.",
+      "weight": 1
+    },
+    {
+      "id": "156785384",
+      "agency": "해양수산부",
+      "title": "섬 주민의 일상을 지키는 뱃길, 운항결손금 지원으로 쉼없이 이어간다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785384",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "섬 주민들을 위한 여객선 운항 지원 소식이라 우리 농장 경영에는 직접적인 영향이 없어요.",
+      "weight": 1
+    },
+    {
+      "id": "156785268",
+      "agency": "기후에너지환경부",
+      "title": "원전 공론화위원회, 공론화 대주제 \"우리는 앞으로 어떤 전기로 살 것인가\"로 확정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785268",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "국가 전력 정책에 대한 공론화 소식이 들려오지만, 당장 우리 농장 운영에는 별다른 영향이 없어요.",
+      "weight": 1
+    },
+    {
+      "id": "156785272",
+      "agency": "농림축산식품부",
+      "title": "브라질산 계란 수입은 AI 발생에 대비한 신규 공급망 확보 목적의 시범 도입",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785272",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "축산",
+      "kind": "시세악재",
+      "strength": "약",
+      "emoji": "🥀",
+      "flavor": "브라질산 계란 시범 수입 소식에 우리 축산 농장의 계란 판매 가격이 떨어질까 봐 걱정돼요.",
+      "weight": 5
+    },
+    {
+      "id": "156785279",
+      "agency": "해양수산부",
+      "title": "무인도서의 가치를 지키는 손길, 여수 바다로 이어진다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785279",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "어업",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "무인도서 해양정화 캠페인 덕분에 우리 바다가 한결 더 깨끗하고 쾌적해지고 있어요!",
+      "weight": 2
+    },
+    {
+      "id": "156785278",
+      "agency": "농림축산식품부",
+      "title": "겨울철 가축전염병 예방을 위한 특별방역대책점검회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785278",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "축산",
+      "kind": "시세악재",
+      "strength": "중",
+      "emoji": "🥀",
+      "flavor": "겨울철 조류인플루엔자 예방을 위해 우리 농장 축사도 철저한 방역과 소독 준비에 들어갔어요!",
+      "weight": 5
+    },
+    {
+      "id": "156785277",
+      "agency": "농림축산식품부",
+      "title": "국립종자원, 아시아 9개국에 종자 기술 전수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785277",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "농사",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "우리나라의 선진 종자 기술이 아시아 여러 나라에 전수된다니 농사를 짓는 농부로서 자부심이 더욱 커져요!",
+      "weight": 2
+    },
+    {
+      "id": "156785282",
+      "agency": "기상청",
+      "title": "기상청, 세계적인 온실가스 정밀 분석 능력 재확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785282",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "기상청의 온실가스 정밀 분석 능력 재확인 소식은 우리 농장 경영에 별다른 영향을 주지 않아요.",
+      "weight": 1
+    },
+    {
+      "id": "156785281",
+      "agency": "산림청",
+      "title": "단풍 여행, 휴양림 지도 하나로 끝",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785281",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "국립자연휴양림 단풍 예측지도 공개 소식은 우리 농장 운영에 별다른 영향을 주지 않아요.",
+      "weight": 1
+    },
+    {
+      "id": "156785285",
+      "agency": "산림청",
+      "title": "임업직불제 업무도 AI 시대! AI 챗봇 서비스 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785285",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "전체",
+      "kind": "지원금",
+      "strength": "약",
+      "emoji": "💰",
+      "flavor": "임업직불제 AI 챗봇 서비스 덕분에 직불금 신청과 처리 절차가 한결 빨라졌어요!",
+      "weight": 5
+    },
+    {
+      "id": "156785288",
+      "agency": "산림청",
+      "title": "북부지방산림청, '우리가 키운 우수조림지' 최우수 기관 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785288",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "scope": "무관",
+      "kind": "중립",
+      "strength": "약",
+      "emoji": "📰",
+      "flavor": "우수한 헛개나무 밀원수림 조림지 수상 소식이 전해졌지만, 우리 농장 경영에는 당장 큰 변화가 없어요.",
+      "weight": 1
     }
   ]
 }
