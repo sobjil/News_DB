@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T05:44:43.541920+00:00",
-  "count": 2130,
+  "updated": "2026-10-15T05:59:44.868186+00:00",
+  "count": 2131,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1526,6 +1526,27 @@
         }
       ],
       "_attAt": "2026-10-15T05:14:40.888092+00:00"
+    },
+    {
+      "title": "[설명] 도시재생사업을 통해 조성된 거점시설의 사후관리 및 지원을 강화해 나가겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785320",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "[설명] 도시재생사업을 통해 조성된 거점시설의 사후관리 및 지원을 강화해 나가겠습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570476&tblKey=GMN",
+          "filename": "261015(설명) 도시재생사업을 통해 조성된 거점시설의 사후관리 및 지원을 강화해 나가겠습니다(도시재생과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570477&tblKey=GMN",
+          "filename": "261015(설명) 도시재생사업을 통해 조성된 거점시설의 사후관리 및 지원을 강화해 나가겠습니다(도시재생과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T05:59:41.171759+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
