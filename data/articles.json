@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T08:14:55.122676+00:00",
-  "count": 2149,
+  "updated": "2026-10-15T08:29:50.306170+00:00",
+  "count": 2151,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1106,21 +1106,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570291&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570307&tblKey=GMN",
           "filename": "(261015)보도자료-임업직불제_업무도_AI_시대_AI_챗봇서비스_개시.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570293&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570309&tblKey=GMN",
           "filename": "(261015)보도자료-임업직불제_업무도_AI_시대_AI_챗봇서비스_개시.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570292&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570308&tblKey=GMN",
           "filename": "(261015)보도자료-임업직불제_업무도_AI_시대_AI_챗봇서비스_개시.hwp"
         }
       ],
-      "_attAt": "2026-10-15T02:29:41.484351+00:00"
+      "_attAt": "2026-10-15T08:29:42.570547+00:00",
+      "_attRev": 1
     },
     {
       "title": "중견기업 성장을 위한 월드클래스 10大 날개 프로젝트 시작한다",
@@ -1141,7 +1142,8 @@
           "filename": "1015(16조간)중견기업지원과, 중견기업 성장을 위한 월드클래스 10大 날개 프로젝트 시작한다.pdf"
         }
       ],
-      "_attAt": "2026-10-15T02:29:41.484351+00:00"
+      "_attAt": "2026-10-15T08:29:42.570547+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"큰 오빠 유해 꼭 찾으라는 어머니 유언, 76년 만에 이룹니다\" 고(故) 조차상 일병 '호국의 영웅 귀환 행사'",
@@ -1976,6 +1978,48 @@
         }
       ],
       "_attAt": "2026-10-15T07:59:42.334309+00:00"
+    },
+    {
+      "title": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785351",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부장관은 10.15(목) 가타야마 사쓰키(Katayama Satsuki) 일본 재무장관과 태국 방콕에서 만나 올해 만기가 예정된 한일 통화스왑 연장에 합의하고, 양국 경제·금융협력 발전방향 등에 대해 논의하였습니다. ※ 자세한 내용은 첨부 자료를 참고하여 주시기 바랍니다.문의. 재정경제부 국제금융국 금융협력과 변재만 (044-215-4831)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570634&tblKey=GMN",
+          "filename": "261015_한일 통화스왑 연장.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570635&tblKey=GMN",
+          "filename": "261015_한일 통화스왑 연장.pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T08:29:42.570547+00:00"
+    },
+    {
+      "title": "[보도자료] 생명지킴추진본부, 천명지킴 워크숍 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785352",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "중앙·지방정부·현장·전문가가 함께 「제6차 자살예방기본계획」 실행력을 높인다- 범정부 생명지킴추진본부, 10월 15일 「천명지킴 워크숍」 개최- 「제6차 자살예방기본계획」 공유 및 실행력 제고 방안 논의- 중앙·지방정부, 자살예방센터, 전문가 등 한자리에 모여 정책방향 공유□ 범정부 생명지킴추진본부(본부장 송민섭, 이하 생명본부)는 10월 15일(목) 정부세종청사에서 중앙부처와 16개 광역지방정부, 자살예방센터, 전문가 등이 참석하는「천명지킴 워크숍」을 개최했다.ㅇ 이번 워크숍은 중앙부처와 지방정부, 정책 현장 간 연계와 협력을 강",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570636&tblKey=GMN",
+          "filename": "261015 생명지킴본부, 천명지킴 워크숍 개최 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570637&tblKey=GMN",
+          "filename": "261015 생명지킴본부, 천명지킴 워크숍 개최 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T08:29:42.570547+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
