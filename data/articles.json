@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T07:15:00.629172+00:00",
-  "count": 2141,
+  "updated": "2026-10-15T07:29:45.760751+00:00",
+  "count": 2142,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1788,6 +1788,27 @@
         }
       ],
       "_attAt": "2026-10-15T07:14:44.095177+00:00"
+    },
+    {
+      "title": "문화가 이끄는 인공지능 미래를 설계할 제1기 '문화기술 연합체(얼라이언스)' 출범",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785337",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "문화가 이끄는 인공지능 미래를 설계할 제1기 '문화기술 연합체(얼라이언스)' 출범 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1015]문체부보도자료-제1기 문화기술 연합체(얼라이언스) 출범.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570552&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-제1기 문화기술 연합체(얼라이언스) 출범.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570551&tblKey=GMN",
+          "filename": "[1015]문체부보도자료-제1기 문화기술 연합체(얼라이언스) 출범.pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T07:29:41.360704+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
