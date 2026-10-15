@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T23:02:44.937158+00:00",
-  "count": 2009,
+  "updated": "2026-10-15T23:17:46.292871+00:00",
+  "count": 2010,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -156,6 +156,32 @@
         }
       ],
       "_attAt": "2026-10-15T22:47:43.571044+00:00"
+    },
+    {
+      "title": "26년 9월 고용동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785387",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "[2026년 9월 고용동향]▣ 15~64세 고용률(OECD 비교기준)은 70.6%로 전년동월대비 0.2%p 상승▣ 실업률은 2.0%로 전년동월대비 0.1%p 하락 ○ 실업자는 600천명으로 전년동월대비 3만4천명(-5.4%) 감소 ○ 청년층 실업률은 5.4%로 전년동월대비 0.6%p 상승 ○ 계절조정 실업률은 2.6%로 전월대비 0.1%p 하락▣ 2026년 8월 취업자는 29,266천명으로 전년동월대비 11만 3천명(0.4%) 증가** 자세한 내용은 첨부파일을 참고하시기 바랍니다 ** (ssec2609(통합): 보도자료 본문 및 통",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570816&tblKey=GMN",
+          "filename": "ssec2609.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570817&tblKey=GMN",
+          "filename": "ssec2609(통계표).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570815&tblKey=GMN",
+          "filename": "ssec2609(통합).pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T23:17:42.604496+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
