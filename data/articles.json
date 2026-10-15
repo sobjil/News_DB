@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T04:29:47.089214+00:00",
-  "count": 2125,
+  "updated": "2026-10-15T04:44:50.045124+00:00",
+  "count": 2126,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1406,6 +1406,27 @@
         }
       ],
       "_attAt": "2026-10-15T04:29:41.137661+00:00"
+    },
+    {
+      "title": "경찰, 「AI 악용 범죄」 대응 능력 업그레이드",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785315",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "경찰, 「AI 악용 범죄」 대응 능력 업그레이드 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570433&tblKey=GMN",
+          "filename": "261016(조간용) 인공지능(AI) 악용 범죄 대응 능력 향상(디지털포렌식).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570434&tblKey=GMN",
+          "filename": "261016(조간용) 인공지능(AI) 악용 범죄 대응 능력 향상(디지털포렌식).pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T04:44:42.000149+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
@@ -3812,8 +3833,8 @@
           "filename": "261014 제1차 경찰개혁위원회 위촉식 및 회의 보도자료(최종).pdf"
         }
       ],
-      "_attAt": "2026-10-14T22:44:40.311035+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-15T04:44:42.000149+00:00",
+      "_attRev": 3
     },
     {
       "title": "조현 장관, 메릴린 스트릭랜드 미국 하원의원 면담(10.14.)",
@@ -3834,8 +3855,8 @@
           "filename": "[26-819](보도자료) 조현 장관, 메릴린 스트릭랜드 미국 하원의원 면담(10.14.).pdf"
         }
       ],
-      "_attAt": "2026-10-14T22:44:40.311035+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-15T04:44:42.000149+00:00",
+      "_attRev": 3
     },
     {
       "title": "한-싱가포르 외교장관 통화(10.14.) 결과",
