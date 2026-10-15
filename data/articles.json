@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T08:29:50.306170+00:00",
-  "count": 2151,
+  "updated": "2026-10-15T08:44:46.430913+00:00",
+  "count": 2153,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2020,6 +2020,48 @@
         }
       ],
       "_attAt": "2026-10-15T08:29:42.570547+00:00"
+    },
+    {
+      "title": "제주의 밭담, 수원에서 만나다...",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785353",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 10월 15일(목) 경기도 수원시 소재 국립농업박물관에서 '제주밭담 야외체험공간 완공식 및 국가중요농업유산 정책협력 워크숍'을 개최했다. 행사에는 제주특별자치도, 국가중요농업유산 지역 지방정부·주민협의체, 유관기관 관계자들이 함께했다. 국가중요농업유산은 농업인이 지역의 환경과 문화에 적응하며 오랫동안 발전시켜 온 보전 가치가 높은 유·무형의 농업자원으로, 현재 제주밭담 등 전국 20개소가 지정되어 있다. 이 가운데 청산도 구들장논, 제주밭담 등 6개소*가 유엔식량농업기구(FAO)의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570644&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 아시아 9개국에 종자 기술 전수(10. 15. 11시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570643&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 아시아 9개국에 종자 기술 전수(10. 15. 11시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570642&tblKey=GMN",
+          "filename": "(국립종자원) 국립종자원 아시아 9개국에 종자 기술 전수(10. 15. 11시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-10-15T08:44:39.892214+00:00"
+    },
+    {
+      "title": "중부지방산림청, 하천·계곡 불법시설 자진 철거 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785355",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "중부지방산림청(청장 도재영)은 10월 15일, 충남 서산시 운산면 일원을 방문해 산림 내 하천·계곡 불법 상행위 시설에 대한 현장 점검을 실시했다고 밝혔다. 이번 점검은 올해 상반기 중 계곡 주변 국유림을 무단으로 점용하여 불법 상행위를 하다 적발된 개소들을 대상으로 진행되었다. 중부지방산림청은 적발된 불법 상행위 시설물(평상, 천막 등)에 대해 올해 하반기 중 자진 철거 및 원상복구를 유도한 바 있으며, 이번 현장 점검을 통해 실제 철거가 적절하게 이행되었는지와 추가적인 산림 훼손이 발생하지 않았는지 여부를 꼼꼼히 확인하였다. 자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570648&tblKey=GMN",
+          "filename": "(261015) 보도자료(하천·계곡 불법시설 자진철거 현장 점검).hwpx"
+        }
+      ],
+      "_attAt": "2026-10-15T08:44:39.892214+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
