@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T23:59:52.334541+00:00",
-  "count": 2067,
+  "updated": "2026-10-15T00:14:45.012937+00:00",
+  "count": 2068,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -181,6 +181,27 @@
         }
       ],
       "_attAt": "2026-10-14T23:29:41.195640+00:00"
+    },
+    {
+      "title": "전 세계 '지문감정 전문가' 한자리에... 경찰청?인터폴 공동 개최 ?제3회 국제 지문감정 경연대회? 성료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785235",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-15T00:00:00+09:00",
+      "description": "전 세계 '지문감정 전문가' 한자리에... 경찰청인터폴 공동 개최 제3회 국제 지문감정 경연대회 성료 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570097&tblKey=GMN",
+          "filename": "261015(석간용) 제3회 국제 지문감정 경연대회 결과(과학수사분석)_수정본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570098&tblKey=GMN",
+          "filename": "261015(석간용) 제3회 국제 지문감정 경연대회 결과(과학수사분석)_수정본.pdf"
+        }
+      ],
+      "_attAt": "2026-10-15T00:14:40.973887+00:00"
     },
     {
       "title": "생물다양성과 기후위기를 주제로 체험형 교육 교구 아이디어를 찾습니다",
