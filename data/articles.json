@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T17:59:43.179912+00:00",
-  "count": 2004,
+  "updated": "2026-10-15T18:14:51.855123+00:00",
+  "count": 2005,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "원자 바꿔 반도체 소재 자유자재로... 차세대 초고성능 소자 구현",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785382",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "- 기초과학연구원(IBS), 선택적 원자 치환으로 반도체·절연막·준금속 구현하는 '모듈형 트랜지스터 제작 기술' 개발- 초미세·초저전력 반도체 개발을 위한 새로운 공정 인식체계(패러다임) 제시, 사이언스 지(誌) 게재연구진 인터뷰 영상https://drive.google.com/file/d/1hKm1bUsquleyHCqx4y8TgPE8paf85SDI/viewusp=drive_link연구현장 스케치 영상https://drive.google.com/file/d/1MQabF-k2zMBcsFTSbqEsZFEpsFZJKYfQ/viewusp=",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570797&tblKey=GMN",
+          "filename": "261016 조간 (보도) 원자 바꿔 반도체 소재 자유자재로... 차세대 초고성능 소자 구현.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-15T18:14:44.235885+00:00"
+    },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785229",
@@ -1609,8 +1625,8 @@
           "filename": "261015(설명) 도시재생사업을 통해 조성된 거점시설의 사후관리 및 지원을 강화해 나가겠습니다(도시재생과).pdf"
         }
       ],
-      "_attAt": "2026-10-15T11:59:42.167913+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-15T18:14:44.235885+00:00",
+      "_attRev": 2
     },
     {
       "title": "국립수목원, 기후변화·AI 대응 위한 연구조직 혁신 방향 논의",
