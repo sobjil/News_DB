@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T08:23:48.222576+00:00",
-  "count": 2089,
+  "updated": "2026-10-16T08:38:48.531337+00:00",
+  "count": 2091,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -861,7 +861,8 @@
           "filename": "붙임) 국영문 이력서.hwp"
         }
       ],
-      "_attAt": "2026-10-16T02:27:41.459262+00:00"
+      "_attAt": "2026-10-16T08:38:42.026598+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 산림사업 추진실태 합동점검 결과",
@@ -2036,6 +2037,48 @@
         }
       ],
       "_attAt": "2026-10-16T08:23:40.069833+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 위장관기질종양 치료 희귀의약품 허가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785523",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 위장관기질종양 치료 희귀의약품 허가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571438&tblKey=GMN",
+          "filename": "[26.10.16.(금) 보도참고자료] 식약처, 위장관기질종양 치료 희귀의약품 허가.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571439&tblKey=GMN",
+          "filename": "[26.10.16.(금) 보도참고자료] 식약처, 위장관기질종양 치료 희귀의약품 허가.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T08:38:42.026598+00:00"
+    },
+    {
+      "title": "[보도참고] 소비기한 미표시 소스 회수 조치",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785522",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "[보도참고] 소비기한 미표시 소스 회수 조치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571436&tblKey=GMN",
+          "filename": "[26.10.16.(금) 보도참고자료] 소비기한 미표시 소스 회수 조치.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571437&tblKey=GMN",
+          "filename": "[26.10.16.(금) 보도참고자료] 소비기한 미표시 소스 회수 조치.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T08:38:42.026598+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
