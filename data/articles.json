@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T03:27:44.270794+00:00",
-  "count": 2043,
+  "updated": "2026-10-16T03:42:49.555242+00:00",
+  "count": 2045,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -111,16 +111,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570802&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570806&tblKey=GMN",
           "filename": "261016(석간) 섬 주민의 일상을 지키는 뱃길, 운항결손금 지원으로 쉼없이 이어간다(연안해운과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570803&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570807&tblKey=GMN",
           "filename": "261016(석간) 섬 주민의 일상을 지키는 뱃길, 운항결손금 지원으로 쉼없이 이어간다(연안해운과).pdf"
         }
       ],
-      "_attAt": "2026-10-15T21:29:41.410308+00:00"
+      "_attAt": "2026-10-16T03:42:40.875746+00:00",
+      "_attRev": 1
     },
     {
       "title": "소방청, 제3회 '119메모리얼데이' 추모문화제 개최",
@@ -892,6 +893,48 @@
         }
       ],
       "_attAt": "2026-10-16T03:12:41.798932+00:00"
+    },
+    {
+      "title": "[보도자료] '대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다' 개최 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785439",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "사회대개혁위원회, '대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다' 개최- 돌봄 노동자를 포함한 사회서비스 종사자의 저임금 일자리 문제 개선 주장- 돌봄 격차 줄이기 위한 충청 지역 4개 시·도 사회서비스원의 프로그램 소개□ 사회대개혁위원회(위원장 박석운, 이하 '사개위')는 10월 15일(목) 14시, 대전근현대사전시관 대회의실에서 '대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다'를 개최했다.□ 토론회 1부에서는 윤홍식 인하대학교 사회복지학과 교수가 기조발제의 형식으로 \"대한민국의 K자형 양극화를 극복하기 위해서",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571048&tblKey=GMN",
+          "filename": "261016_‘대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다’ 개최 결과 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571049&tblKey=GMN",
+          "filename": "261016_‘대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다’ 개최 결과 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T03:42:40.875746+00:00"
+    },
+    {
+      "title": "주요 20개국(G20)·주요 7개국(G7) 재무장관회의 참석 및 주요인사 면담 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785438",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관(이하 이 부총리)은 10.15(목) 태국 방콕(Bangkok)에서 열린 주요 20개국(G20) 재무장관·중앙은행 총재 회의 및 주요 7개국(G7) 재무장관·중앙은행 총재 회의에 참석하였습니다. ※ 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다.문의. 재정경제부 국제금융국 다자금융과 정민기 (044-215-4812)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571046&tblKey=GMN",
+          "filename": "261015_이형일 부총리, 주요20개국(G20), 주요 7개국(G7) 재무장관회의 참석 및 주요 인사 면담 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571047&tblKey=GMN",
+          "filename": "261015_이형일 부총리, 주요20개국(G20), 주요 7개국(G7) 재무장관회의 참석 및 주요 인사 면담 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T03:42:40.875746+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
