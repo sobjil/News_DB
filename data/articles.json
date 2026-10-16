@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T02:27:45.281676+00:00",
-  "count": 2040,
+  "updated": "2026-10-16T02:43:02.078721+00:00",
+  "count": 2041,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -828,6 +828,27 @@
         }
       ],
       "_attAt": "2026-10-16T02:27:41.459262+00:00"
+    },
+    {
+      "title": "[보도자료] 산림사업 추진실태 합동점검 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785434",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "산림사업 추진실태 합동점검 결과 발표- 산림사업법인 전수점검 결과, 1,073개 법인 4,716명 기술자 위법 의심- 행정편의 등을 위한 관행적 수의계약 과다(전체 계약 중 82.8%)- 대형산불피해 복원 조림·숲가꾸기 사업 부적정 사례 79건 적발▣ 국무조정실 정부합동 부패예방추진단(단장:김영수 국무1차장)은 산림청과 합동으로 국가정상화 프로젝트 1차 과제인 「건전한 산림사업법인 시장질서 확립」의 이행과 산림사업 전반의 부조리 근절을 위한 정부합동 점검 결과 및 개선방안을 발표함 산림사업 추진실태 합동점검 결과산림사업법인 관리 부",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571030&tblKey=GMN",
+          "filename": "261016_산림사업추진실태합동점검결과 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571031&tblKey=GMN",
+          "filename": "261016_산림사업추진실태합동점검결과 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T02:42:40.762215+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
