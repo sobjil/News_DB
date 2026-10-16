@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T09:08:47.375905+00:00",
-  "count": 2092,
+  "updated": "2026-10-16T09:23:48.111326+00:00",
+  "count": 2093,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -905,7 +905,8 @@
           "filename": "261017 (조간) 평화를 향한 여정 화합을 위한 광장 제44회 대통령기 이북도민 체육대회 개최(이북5도).pdf"
         }
       ],
-      "_attAt": "2026-10-16T03:12:41.798932+00:00"
+      "_attAt": "2026-10-16T09:23:41.520027+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 하반기 지역별고용조사 실시",
@@ -917,16 +918,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571036&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571044&tblKey=GMN",
           "filename": "2026년 하반기 지역별고용조사 실시 보도자료.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571037&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571045&tblKey=GMN",
           "filename": "2026년 하반기 지역별고용조사 실시 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-10-16T03:12:41.798932+00:00"
+      "_attAt": "2026-10-16T09:23:41.520027+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] '대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다' 개최 결과",
@@ -2101,6 +2103,27 @@
         }
       ],
       "_attAt": "2026-10-16T09:08:43.008281+00:00"
+    },
+    {
+      "title": "(참고자료)11차 최고가격, 10차 수준으로 동결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785525",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "11차 최고가격, 10차 수준으로 동결- 리터당 휘발유 1,784원, 경유 1,773원, 등유 1,380원 -- 10월 17일(토) 00시부터 4주간 적용 - 산업통상부(장관 김정관, 이하 산업부)는 10월 17일(토) 00시부터 향후 4주간 적용될 11차 석유 최고가격을 기존 10차 최고가격으로 동결한다고 발표하였다. 이번 11차 최고가격은 10차와 같이 리터당 휘발유 1,784원, 경유 1,773원, 등유 1,380원이다. 최근 호르무즈 해협 통과 선박에 대한 이란의 공격이 이어지고, 예멘 후티 반군이 사우디아라비아의 주요시설(",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571444&tblKey=GMN",
+          "filename": "(참고자료, 16(금) 18시엠바고)석유산업과, 11차 최고가격 10차 수준으로 동결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571443&tblKey=GMN",
+          "filename": "(참고자료, 16(금) 18시엠바고)석유산업과, 11차 최고가격 10차 수준으로 동결.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T09:23:41.520027+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
