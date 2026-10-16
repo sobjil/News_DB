@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T07:38:51.013857+00:00",
-  "count": 2083,
+  "updated": "2026-10-16T07:53:47.215724+00:00",
+  "count": 2084,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1898,6 +1898,27 @@
         }
       ],
       "_attAt": "2026-10-16T07:38:42.304328+00:00"
+    },
+    {
+      "title": "경찰청·행안부·한국도로공사, 체납 차량 합동단속",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785513",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "경찰청·행안부·한국도로공사, 체납 차량 합동단속 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571352&tblKey=GMN",
+          "filename": "261016(1300) 상습 체납차량 합동단속(교통안전).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571353&tblKey=GMN",
+          "filename": "261016(1300) 상습 체납차량 합동단속(교통안전).pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T07:53:42.387708+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
