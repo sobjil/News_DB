@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T00:17:54.073833+00:00",
-  "count": 2018,
+  "updated": "2026-10-16T00:33:20.287467+00:00",
+  "count": 2022,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -351,6 +351,100 @@
         }
       ],
       "_attAt": "2026-10-16T00:17:43.943113+00:00"
+    },
+    {
+      "title": "제11차 관계부처 합동 일자리전담반(TF) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785401",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "권대영 재정경제부 1차관과 권창준 고용노동부 차관은 10.16(금) 08:00 정부서울청사에서 관계부처 합동 일자리전담반(TF)을 주재하여 '26년 9월 고용동향 및 3대 핵심 사회정책 추진을 위한 일자리 분야 과제를 논의·점검하였습니다. 자세한 내용은 첨부된 보도자료를 참고해주시길 바랍니다.문의. 재정경제부 민생경제국 인력정책과 최중원 (044-215-2846)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570871&tblKey=GMN",
+          "filename": "261016 일자리전담반 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570872&tblKey=GMN",
+          "filename": "261016 일자리전담반 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T00:33:10.662489+00:00"
+    },
+    {
+      "title": "(참고) '26.9월 취업자수 11.3만명 증가, 제조업 취업자수는 27개월만에 증가 전환",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785400",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "- 서비스업 증가폭 조정, 건설업 감소폭 확대, 농림어업 감소폭 축소 - 상용근로자 증가폭 확대되며 9월 기준 상용직 비중 역대 1위 - 성장의 과실이 일자리 통해 확산되도록 국민일자리 프로젝트 추진방안 마련'26.9월 15세 이상 고용률은 63.5%로 전년대비 △0.2%p 하락했으며, 15~64세 고용률은 70.6%로 +0.2%p 상승했다. 경제활동참가율(64.8%)은 전년대비 △0.2%p 하락, 실업률(2.0%)은 △0.1%p 하락했다. * 9월 고용지표('25→'26년, %):고용률63.7→63.5 경활률65.0→64.8 실업",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570870&tblKey=GMN",
+          "filename": "261016_보도참고_9월 고용동향.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570869&tblKey=GMN",
+          "filename": "261016_보도참고_9월 고용동향.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T00:33:10.662489+00:00"
+    },
+    {
+      "title": "여름철 산사태 피해 대폭 감소, 산림청·지방정부 총력 대응으로 피해 최소화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785399",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "여름철 산사태 피해 대폭 감소, 산림청·지방정부 총력 대응으로 피해 최소화 - 산사태 피해면적 88%, 피해금액 85% 감소 - 산림청(청장 박은식)은 5월 15일부터 10월 15일까지 '2026년 여름철 자연재난 대책기간' 동안 산사태예방지원본부를 운영한 결과, 산사태 피해면적은 69.5헥타르(ha, 391건), 피해금액은 182억원으로 전년대비 피해면적은 88%, 피해금액은 85% 감소했다고 15일 밝혔다. * '25년 산사태피해 면적 및 피해금액 : 612헥타르(ha, 2,637건), 1,206억원 올여름 전국 강수량은 평년보",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570864&tblKey=GMN",
+          "filename": "(261015)보도자료_2026년_산사태예방지원본부_운영_종료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570866&tblKey=GMN",
+          "filename": "(261015)보도자료_2026년_산사태예방지원본부_운영_종료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570865&tblKey=GMN",
+          "filename": "(261015)보도자료_2026년_산사태예방지원본부_운영_종료.hwp"
+        }
+      ],
+      "_attAt": "2026-10-16T00:33:10.662489+00:00"
+    },
+    {
+      "title": "산림청, 한국정책학회와 함께 미래 산림정책의 방향 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785397",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "산림청, 한국정책학회와 함께 미래 산림정책의 방향 모색- 박은식 산림청장, 국립세종수목원에서 열린 한국정책학회 추계학술대회 참석·환영사 - 산림청(청장 박은식)은 국립세종수목원에서 열린 '2026 한국정책학회 추계학술대회'에서 박은식 산림청장이 환영사를 통해 미래 산림정책 발전을 위한 정책학계의 관심과 지혜를 모아줄 것을 당부했다고 15일 밝혔다. 한국정책학회가 주관하는 이번 학술대회는 10월 15일부터 16일까지 이틀간 'AI 대전환 시대의 정책거버넌스 혁신: AI 시대와 좋은사회, 정책윤리와 사회적 신뢰회복'을 주제로 인공지능 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570852&tblKey=GMN",
+          "filename": "(261015)보도자료_산림청__한국정책학회와_함께_미래_산림정책의_방향_모색.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570854&tblKey=GMN",
+          "filename": "(261015)보도자료_산림청__한국정책학회와_함께_미래_산림정책의_방향_모색.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570853&tblKey=GMN",
+          "filename": "(261015)보도자료_산림청__한국정책학회와_함께_미래_산림정책의_방향_모색.hwp"
+        }
+      ],
+      "_attAt": "2026-10-16T00:33:10.662489+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
