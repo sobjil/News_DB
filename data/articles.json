@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T05:08:42.213997+00:00",
-  "count": 2045,
+  "updated": "2026-10-16T05:23:45.974085+00:00",
+  "count": 2046,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -163,30 +163,31 @@
       "_attRev": 1
     },
     {
-      "title": "26년 9월 고용동향",
+      "title": "2026년 9월 고용동향",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785387",
       "agency": "국가데이터처",
       "agencyCode": "mods",
       "pubDate": "2026-10-16T00:00:00+09:00",
-      "description": "[2026년 9월 고용동향]▣ 15~64세 고용률(OECD 비교기준)은 70.6%로 전년동월대비 0.2%p 상승▣ 실업률은 2.0%로 전년동월대비 0.1%p 하락 ○ 실업자는 600천명으로 전년동월대비 3만4천명(-5.4%) 감소 ○ 청년층 실업률은 5.4%로 전년동월대비 0.6%p 상승 ○ 계절조정 실업률은 2.6%로 전월대비 0.1%p 하락▣ 2026년 8월 취업자는 29,266천명으로 전년동월대비 11만 3천명(0.4%) 증가** 자세한 내용은 첨부파일을 참고하시기 바랍니다 ** (ssec2609(통합): 보도자료 본문 및 통",
+      "description": "[2026년 9월 고용동향]▣ 15~64세 고용률(OECD 비교기준)은 70.6%로 전년동월대비 0.2%p 상승▣ 실업률은 2.0%로 전년동월대비 0.1%p 하락 ○ 실업자는 600천명으로 전년동월대비 3만4천명(-5.4%) 감소 ○ 청년층 실업률은 5.4%로 전년동월대비 0.6%p 상승 ○ 계절조정 실업률은 2.6%로 전월대비 0.1%p 하락▣ 2026년 9월 취업자는 29,266천명으로 전년동월대비 11만 3천명(0.4%) 증가** 자세한 내용은 첨부파일을 참고하시기 바랍니다 ** (ssec2609(통합): 보도자료 본문 및 통",
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570816&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571061&tblKey=GMN",
           "filename": "ssec2609.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570817&tblKey=GMN",
-          "filename": "ssec2609(통계표).pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198571060&tblKey=GMN",
+          "filename": "ssec2609(통합).pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570815&tblKey=GMN",
-          "filename": "ssec2609(통합).pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198571062&tblKey=GMN",
+          "filename": "ssec2609(통계표).pdf"
         }
       ],
-      "_attAt": "2026-10-15T23:17:42.604496+00:00"
+      "_attAt": "2026-10-16T05:23:41.260318+00:00",
+      "_attRev": 1
     },
     {
       "title": "'아름다운 우리 한복 바르게 입기'에 동참해 주세요",
@@ -937,6 +938,32 @@
         }
       ],
       "_attAt": "2026-10-16T03:42:40.875746+00:00"
+    },
+    {
+      "title": "미래 과학 인재 육성을 위한 「'25-'26 기상·기후 연구개발 성과경진대회」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785443",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "미래 과학 인재 육성을 위한 「'25-'26 기상·기후 연구개발 성과경진대회」 개최 관련 내용입니다. 자세한 사항은 붙임파일 (20261015_보도자료_미래 과학 인재 육성을 위한 「'25-'26 기상기후 연구개발 성과경진대회」 개최.hwpx)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571096&tblKey=GMN",
+          "filename": "20261015_보도자료_미래 과학 인재 육성을 위한 「’25-’26 기상기후 연구개발 성과경진대회」 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571098&tblKey=GMN",
+          "filename": "20261015_보도자료_미래 과학 인재 육성을 위한 「’25-’26 기상기후 연구개발 성과경진대회」 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571097&tblKey=GMN",
+          "filename": "20261015_보도자료_미래 과학 인재 육성을 위한 「’25-’26 기상기후 연구개발 성과경진대회」 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-10-16T05:23:41.260318+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
