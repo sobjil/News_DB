@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T23:47:45.913285+00:00",
-  "count": 2014,
+  "updated": "2026-10-16T00:02:47.258946+00:00",
+  "count": 2015,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -266,6 +266,27 @@
         }
       ],
       "_attAt": "2026-10-15T23:47:41.236828+00:00"
+    },
+    {
+      "title": "\"사회적가치, 국민이 직접 평가하고 투자한다\"？2026년 사회적가치 비즈니스 모델 공모전？ 청중평가단 모집 및 국민가치투자자 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785392",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "- 국민의 눈높이에서 사회적가치를 직접 평가할 '청중평가단' 30명 모집- 가상 투자 체험을 통해 사회적경제에 참여하는 '국민가치투자자' 운영- 11월 4일(수) '밸류업 데이(Value-up Day)'서 본선 10개 기업의 최종 성과 발표·심사한국사회적기업진흥원(원장 정승국, 이하 '진흥원')은 2026년 사회적가치 비즈니스 모델 공모전의 최종 성과를 발표하는 행사인 '밸류업 데이(Value-up Day)'에 참여해 본선 진출 기업의 사회적가치와 비즈니스 모델을 직접 평가할 '청중평가단'을 모집하고, 현장 참석자를 대상으로 '국민",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570836&tblKey=GMN",
+          "filename": "261016_보도자료_2026년 사회적가치 비즈니스 모델 공모전, 밸류업 데이 개최(한국사회적기업진흥원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570835&tblKey=GMN",
+          "filename": "261016_보도자료_2026년 사회적가치 비즈니스 모델 공모전, 밸류업 데이 개최(한국사회적기업진흥원).pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T00:02:42.452839+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
