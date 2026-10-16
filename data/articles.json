@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T08:53:46.020920+00:00",
-  "count": 2091,
+  "updated": "2026-10-16T09:08:47.375905+00:00",
+  "count": 2092,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2080,6 +2080,27 @@
         }
       ],
       "_attAt": "2026-10-16T08:38:42.026598+00:00"
+    },
+    {
+      "title": "우리 기자단 일본 방문, 언론인 간 협력 강화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785524",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "외교부 출입기자단(4개 언론 매체)이 '2026년도 한일 기자단 교류사업'의 일환으로 10.19.(월)-10.24.(토) 간 일본 도쿄 및 센다이를 방문할 예정이다. 이번 방일에서 우리 기자단은 △일본 내각부·외무성 등 관계자 면담, △센다이 시청 방문 및 브리핑, △일본 언론사와의 교류 등의 일정을 가질 예정이다. 한일 기자단 교류사업은 1981년 양국 기자단 상호 방문을 시작으로 현재까지 40년 이상 이어져온 의미깊은 사업이다. 금번 우리 기자단의 방일은 한일 양국의 언론 및 차세대·민간 교류의 활성화에도 기여할 것으로 기대된다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571440&tblKey=GMN",
+          "filename": "[26-831](보도자료) 우리 기자단 일본 방문, 언론인 간 협력 강화 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571441&tblKey=GMN",
+          "filename": "[26-831](보도자료) 우리 기자단 일본 방문, 언론인 간 협력 강화 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T09:08:43.008281+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
