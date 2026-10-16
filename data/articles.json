@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T02:12:48.976425+00:00",
-  "count": 2039,
+  "updated": "2026-10-16T02:27:45.281676+00:00",
+  "count": 2040,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -802,6 +802,32 @@
         }
       ],
       "_attAt": "2026-10-16T02:12:42.760465+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785433",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-16T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571027&tblKey=GMN",
+          "filename": "[26-825](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571028&tblKey=GMN",
+          "filename": "[26-825](보도자료) 외교부 인사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571029&tblKey=GMN",
+          "filename": "붙임) 국영문 이력서.hwp"
+        }
+      ],
+      "_attAt": "2026-10-16T02:27:41.459262+00:00"
     },
     {
       "title": "소방청, 인공지능(AI) 전문역량 갖춘 소방공무원 40명으로 '전문가 인력 자원(인력풀)' 구성 \"현장에 필요한 인공지능(AI), 소방공무원이 직접 만든다\"",
