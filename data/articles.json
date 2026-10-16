@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:23:45.974085+00:00",
+  "updated": "2026-10-16T05:38:48.095253+00:00",
   "count": 2046,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -199,16 +199,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570824&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570832&tblKey=GMN",
           "filename": "[1016]문체부보도자료-한복 바르게 입기 캠페인 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198570823&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198570831&tblKey=GMN",
           "filename": "[1016]문체부보도자료-한복 바르게 입기 캠페인 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-15T23:32:44.003789+00:00"
+      "_attAt": "2026-10-16T05:38:42.371953+00:00",
+      "_attRev": 1
     },
     {
       "title": "'제3차 지역문화진흥기본계획' 권역별 설명회 개최",
@@ -229,7 +230,8 @@
           "filename": "[1016]문체부보도자료-제3차 지역문화진흥기본계획 권역별 설명회 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-15T23:32:44.003789+00:00"
+      "_attAt": "2026-10-16T05:38:42.371953+00:00",
+      "_attRev": 1
     },
     {
       "title": "'제107회 전국체육대회', 10월 16일 제주에서 개막",
@@ -250,7 +252,8 @@
           "filename": "[1016]문체부보도자료-제107회 전국체육대회 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-15T23:32:44.003789+00:00"
+      "_attAt": "2026-10-16T05:38:42.371953+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"이주대책대상자로 선정되도록 도와주세요!\" 영동양수발전소 이주민들 고충 듣는다",
