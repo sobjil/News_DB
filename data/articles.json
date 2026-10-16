@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T23:08:42.627237+00:00",
-  "count": 1907,
+  "updated": "2026-10-16T23:23:45.331907+00:00",
+  "count": 1908,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785531",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-17T00:00:00+09:00",
+      "description": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1017]문체부보도자료-2026 문화의 달 기념 행사 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571505&tblKey=GMN",
+          "filename": "[1017]문체부보도자료-2026 문화의 달 기념 행사 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571504&tblKey=GMN",
+          "filename": "[1017]문체부보도자료-2026 문화의 달 기념 행사 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-16T23:23:41.095251+00:00"
+    },
     {
       "title": "원자 바꿔 반도체 소재 자유자재로... 차세대 초고성능 소자 구현",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785382",
