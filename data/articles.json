@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T12:57:41.487419+00:00",
-  "count": 1909,
+  "updated": "2026-10-17T13:12:47.166422+00:00",
+  "count": 1911,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -105,6 +105,43 @@
       ],
       "_attAt": "2026-10-17T11:27:41.369497+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "문체부와 전남광주통합특별시, 문화·체육·관광 정책 협력 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785541",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-17T00:00:00+09:00",
+      "description": "문체부와 전남광주통합특별시, 문화·체육·관광 정책 협력 방안 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1017]문체부보도자료-문체부와 전남광주통합특별시 문화·체육·관광 정책 협력 방안 논의.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571615&tblKey=GMN",
+          "filename": "[1017]문체부보도자료-문체부와 전남광주통합특별시 문화·체육·관광 정책 협력 방안 논의.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571616&tblKey=GMN",
+          "filename": "[1017]문체부보도자료-문체부와 전남광주통합특별시 문화·체육·관광 정책 협력 방안 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-10-17T13:12:41.121738+00:00"
+    },
+    {
+      "title": "소방청, 부천 공장 화재 진압 중 부상 입은 소방공무원 순직",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785542",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-10-17T00:00:00+09:00",
+      "description": "﻿소방청, 부천 공장 화재 진압 중부상 입은 소방공무원 순직- 16일 경기 부천시 공장 화재 현장에서 진화활동 중 중상…17일 순직- 고인의 숭고한 헌신과 희생 기려 1계급 특진 예우 및 옥조근정훈장 추서 예정- 세종중앙공원에 분향소 설치…17일 오후 2시부터 영결식 종료 시까지 운영□ 소방청은 지난 16일(금) 경기 부천시 소재 공장 화재 현장에서 진화활동 중 중상을 입은 부천소방서 소속 김진석 소방위가 17일(토) 오전 0시 55분 끝내 순직했다고 밝혔다.○ 고인은 화재 현장에서 국민의 생명과 안전을 지키기 위해 진화활동을 수행",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571618&tblKey=GMN",
+          "filename": "(10. 17. (토) 즉시 보도자료) 소방청 부천 공장 화재 진압 중 부상 입은 소방공무원 순직.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-17T13:12:41.121738+00:00"
     },
     {
       "title": "원자 바꿔 반도체 소재 자유자재로... 차세대 초고성능 소자 구현",
