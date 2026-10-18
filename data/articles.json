@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T23:04:42.465478+00:00",
-  "count": 1830,
+  "updated": "2026-10-18T23:19:49.213614+00:00",
+  "count": 1833,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -99,6 +99,69 @@
         }
       ],
       "_attAt": "2026-10-18T22:22:43.573157+00:00"
+    },
+    {
+      "title": "'2026 한복문화주간', 전국 곳곳에서 한복의 멋 즐기세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785590",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "'2026 한복문화주간', 전국 곳곳에서 한복의 멋 즐기세요 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1019]문체부보도자료-2026 한복문화주간 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571776&tblKey=GMN",
+          "filename": "[1019]문체부보도자료-2026 한복문화주간 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571775&tblKey=GMN",
+          "filename": "[1019]문체부보도자료-2026 한복문화주간 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T23:19:41.398949+00:00"
+    },
+    {
+      "title": "[보도참고] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785589",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "[보도참고] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571773&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도참고자료] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571774&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도참고자료] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요.pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T23:19:41.398949+00:00"
+    },
+    {
+      "title": "일교차 큰 가을 단풍 나들이, 식중독 주의하세요!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785588",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "일교차 큰 가을 단풍 나들이, 식중독 주의하세요!",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571771&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도자료] 일교차 큰 가을 단풍 나들이, 식중독 주의하세요!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571772&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도자료] 일교차 큰 가을 단풍 나들이, 식중독 주의하세요!.pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T23:19:41.398949+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
