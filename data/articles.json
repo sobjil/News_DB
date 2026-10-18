@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T05:50:43.775922+00:00",
-  "count": 1829,
+  "updated": "2026-10-18T06:05:48.219468+00:00",
+  "count": 1830,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -396,6 +396,27 @@
         }
       ],
       "_attAt": "2026-10-18T03:20:42.483561+00:00"
+    },
+    {
+      "title": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785558",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-18T00:00:00+09:00",
+      "description": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571696&tblKey=GMN",
+          "filename": "261018(참고) 강남 3구 중심 서울 집값 상승률 둔화 공급 확대 등 시장안정 기반 강화에 총력(주택정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571697&tblKey=GMN",
+          "filename": "261018(참고) 강남 3구 중심 서울 집값 상승률 둔화 공급 확대 등 시장안정 기반 강화에 총력(주택정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T06:05:44.311274+00:00"
     },
     {
       "title": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다",
