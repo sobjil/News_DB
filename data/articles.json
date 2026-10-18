@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T15:50:44.018722+00:00",
-  "count": 1828,
+  "updated": "2026-10-18T16:05:47.720537+00:00",
+  "count": 1829,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785586",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571767&tblKey=GMN",
+          "filename": "261019(설명) 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.(항공교통과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571768&tblKey=GMN",
+          "filename": "261019(설명) 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.(항공교통과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T16:05:42.953635+00:00"
+    },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785543",
