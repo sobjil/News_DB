@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T06:20:46.013614+00:00",
-  "count": 1830,
+  "updated": "2026-10-18T06:35:48.741485+00:00",
+  "count": 1831,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -418,6 +418,27 @@
         }
       ],
       "_attAt": "2026-10-18T06:05:44.311274+00:00"
+    },
+    {
+      "title": "중기부, 2026년 수탁·위탁거래 정기 실태조사 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785559",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-10-18T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 기업 간 수탁․위탁거래 과정에서 발생하는 불공정거래행위를 바로잡고 공정한 거래질서를 확립하기 위해 19일(월)부터 ｢2026년 수탁․위탁거래 정기 실태조사｣를 실시한다고 밝혔다. 수탁·위탁거래 정기 실태조사는 ｢대․중소기업 상생협력 촉진에 관한 법률｣(이하 상생협력법)에 따라 매년 실시하는 법정 조사다. 이번 조사에서는 수탁․위탁거래 관계에 있는 총 1만 5,000개사(위탁 3,000개사, 수탁 1만 2,000개사)를 대상으로 2025년 한 해 동안 이루어진 거래 전반의 불공정거래행위 여",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571699&tblKey=GMN",
+          "filename": "261019_중기부,_2026년_수탁위탁거래_정기_실태조사_실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571698&tblKey=GMN",
+          "filename": "261019_중기부,_2026년_수탁위탁거래_정기_실태조사_실시.pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T06:35:45.031507+00:00"
     },
     {
       "title": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다",
