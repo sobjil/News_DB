@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T00:05:44.775982+00:00",
-  "count": 1816,
+  "updated": "2026-10-18T00:20:46.122783+00:00",
+  "count": 1817,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -82,6 +82,27 @@
         }
       ],
       "_attAt": "2026-10-17T23:20:42.857636+00:00"
+    },
+    {
+      "title": "데이터로 읽는 우리 교육 제16호 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785544",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-10-18T00:00:00+09:00",
+      "description": "데이터로 읽는 우리 교육 제16호 발간- OECD 교육지표를 통해 본 우리나라 고등교육의 특성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571645&tblKey=GMN",
+          "filename": "[교육부 10-19(월) 조간 보도참고자료] ?데이터로 읽는 우리 교육? 제16호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571646&tblKey=GMN",
+          "filename": "[별첨] 「데이터로 읽는 우리 교육」 2026년 제16호_OECD 교육지표를 통해 본 우리나라 고등교육의 특성.pdf"
+        }
+      ],
+      "_attAt": "2026-10-18T00:20:41.798138+00:00"
     },
     {
       "title": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다",
