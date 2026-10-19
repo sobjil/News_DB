@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T07:04:59.286319+00:00",
-  "count": 1910,
+  "updated": "2026-10-19T07:19:51.494457+00:00",
+  "count": 1911,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -739,7 +739,8 @@
           "filename": "261019_보도자료_AI윤리 준수기관 확인마크 획득(한국고용정보원).pdf"
         }
       ],
-      "_attAt": "2026-10-19T01:19:41.427862+00:00"
+      "_attAt": "2026-10-19T07:19:41.840451+00:00",
+      "_attRev": 1
     },
     {
       "title": "기술유출 사각지대 없애고 일벌백계로 엄정 대응",
@@ -760,7 +761,8 @@
           "filename": "1016(19석간, 19일(월) 10시엠바고)기술안보과, 기술유출 사각지대 없애고 일벌백계로 엄정 대응.pdf"
         }
       ],
-      "_attAt": "2026-10-19T01:19:41.427862+00:00"
+      "_attAt": "2026-10-19T07:19:41.840451+00:00",
+      "_attRev": 1
     },
     {
       "title": "건설근로자공제회, '건설 현장 휴게시설 개선지원 사업' 접수 개시",
@@ -772,16 +774,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571890&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571903&tblKey=GMN",
           "filename": "261019_ 보도자료_건설근로자공제회, &#039;건설현장 휴게시설 개선 지원사업 접수 개시(건설근로자공제회).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571892&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571905&tblKey=GMN",
           "filename": "261019_ 보도자료_건설근로자공제회, &#039;건설현장 휴게시설 개선 지원사업 접수 개시(건설근로자공제회).pdf"
         }
       ],
-      "_attAt": "2026-10-19T01:19:41.427862+00:00"
+      "_attAt": "2026-10-19T07:19:41.840451+00:00",
+      "_attRev": 1
     },
     {
       "title": "개인정보 보호, 생활 속 실천과 사전 점검이 중요합니다",
@@ -802,7 +805,8 @@
           "filename": "[261019 즉시보도] 개인정보 보호, 생활 속 실천과 사전 점검이 중요합니다(사전실태점검과).pdf"
         }
       ],
-      "_attAt": "2026-10-19T01:19:41.427862+00:00"
+      "_attAt": "2026-10-19T07:19:41.840451+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 한중 미래지향 교류사업 제2차 대표단 방한",
@@ -1813,6 +1817,27 @@
         }
       ],
       "_attAt": "2026-10-19T07:04:41.648254+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 식의약 공공데이터·AI 활용 우수작 5건 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785697",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 식의약 공공데이터·AI 활용 우수작 5건 선정",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572206&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도참고자료] 식약처, 식의약 공공데이터·AI 활용 우수작 5건 선정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572205&tblKey=GMN",
+          "filename": "[26.10.19.(월) 보도참고자료] 식약처, 식의약 공공데이터·AI 활용 우수작 5건 선정.hwp"
+        }
+      ],
+      "_attAt": "2026-10-19T07:19:41.840451+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
