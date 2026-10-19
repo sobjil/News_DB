@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T04:49:47.723175+00:00",
-  "count": 1893,
+  "updated": "2026-10-19T05:04:47.672991+00:00",
+  "count": 1895,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1381,6 +1381,43 @@
         }
       ],
       "_attAt": "2026-10-19T04:49:42.237195+00:00"
+    },
+    {
+      "title": "아태이론물리센터, 2026년도 이휘소상 수상자 선정 및 강연 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785674",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "아태이론물리센터, 2026년도 이휘소상 수상자 선정 및 강연 개최 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572133&tblKey=GMN",
+          "filename": "261020 조간 (보도) 아태이론물리센터, 2026년도 이휘소상 수상자 선정 및 강연 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-19T05:04:41.966762+00:00"
+    },
+    {
+      "title": "기상청 기관정기감사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785675",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "기상청 기관정기감사 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572135&tblKey=GMN",
+          "filename": "공개문 전문.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572136&tblKey=GMN",
+          "filename": "(20261019)보도자료(기상청 정기감사).hwp"
+        }
+      ],
+      "_attAt": "2026-10-19T05:04:41.966762+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
