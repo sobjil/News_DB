@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T01:19:49.788495+00:00",
-  "count": 1862,
+  "updated": "2026-10-19T01:34:46.463201+00:00",
+  "count": 1863,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -727,6 +727,27 @@
         }
       ],
       "_attAt": "2026-10-19T01:19:41.427862+00:00"
+    },
+    {
+      "title": "2026년 한중 미래지향 교류사업 제2차 대표단 방한",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785629",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "※ 한중 미래지향 교류사업 : 한중 지방정부간 교류 활성화 차원에서 1999년부터 시행중인 중국 지방정부 외사 담당 국장급·처장(과장)급 인사 대상 방한 초청 사업 / 올해 6월 1차 대표단(국장급) 방한 완료 중국 지방정부 외사 담당업무 담당 중견간부로 구성된 ｢2026년 한중 미래지향 교류사업｣ 제2차 대표단(총 20명)이 외교부 초청으로 2026.10.19.(월)-23.(금) 간 한국을 방문한다. ※ 베이징·광둥·장시 등 중국 지방정부 외사판공실 처장(과장)급으로 구성 대표단은 서울·전북·경기 등을 방문하여, △외교부 관계자 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571900&tblKey=GMN",
+          "filename": "[26-834](보도자료) 2026년 한중미래지향 교류사업 제2차 대표단 방한.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571901&tblKey=GMN",
+          "filename": "[26-834](보도자료) 2026년 한중미래지향 교류사업 제2차 대표단 방한.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T01:34:41.322574+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
