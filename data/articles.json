@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T07:49:42.694106+00:00",
+  "updated": "2026-10-19T08:04:43.635720+00:00",
   "count": 1913,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -840,16 +840,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571942&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572021&tblKey=GMN",
           "filename": "261019_규제합리화 대국민 공모전 온라인 투표 실시 보도자료.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198571943&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572022&tblKey=GMN",
           "filename": "261019_규제합리화 대국민 공모전 온라인 투표 실시 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-10-19T01:49:42.165742+00:00"
+      "_attAt": "2026-10-19T08:04:41.128419+00:00",
+      "_attRev": 1
     },
     {
       "title": "제4기 농식품부 2030청년자문단 공개모집",
@@ -1773,7 +1774,7 @@
       "_attAt": "2026-10-19T06:19:42.108003+00:00"
     },
     {
-      "title": "남재헌 해수부 차관, 순직선원 합동위령제 참석",
+      "title": "(동정) 남재헌 해수부 차관, 순직선원 합동위령제 참석",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785694",
       "agency": "해양수산부",
       "agencyCode": "mof",
