@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T05:19:49.438576+00:00",
-  "count": 1898,
+  "updated": "2026-10-19T05:34:52.122566+00:00",
+  "count": 1900,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -120,7 +120,8 @@
           "filename": "[1019]문체부보도자료-2026 한복문화주간 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-18T23:19:41.398949+00:00"
+      "_attAt": "2026-10-19T05:34:42.178485+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요",
@@ -141,7 +142,8 @@
           "filename": "[26.10.19.(월) 보도참고자료] 첨단바이오의약품 개발, 필요한 규제정보를 한눈에 확인하세요.pdf"
         }
       ],
-      "_attAt": "2026-10-18T23:19:41.398949+00:00"
+      "_attAt": "2026-10-19T05:34:42.178485+00:00",
+      "_attRev": 1
     },
     {
       "title": "일교차 큰 가을 단풍 나들이, 식중독 주의하세요!",
@@ -162,7 +164,8 @@
           "filename": "[26.10.19.(월) 보도자료] 일교차 큰 가을 단풍 나들이, 식중독 주의하세요!.pdf"
         }
       ],
-      "_attAt": "2026-10-18T23:19:41.398949+00:00"
+      "_attAt": "2026-10-19T05:34:42.178485+00:00",
+      "_attRev": 1
     },
     {
       "title": "총 3조원 규모 앰코 광주 공장 증축 착공식 개최",
@@ -1486,6 +1489,48 @@
         }
       ],
       "_attAt": "2026-10-19T05:19:40.644431+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785681",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572152&tblKey=GMN",
+          "filename": "[26-836](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572153&tblKey=GMN",
+          "filename": "[26-836](보도자료) 외교부 인사.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T05:34:42.178485+00:00"
+    },
+    {
+      "title": "기상청 기관정기감사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785684",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "기상청 기관정기감사 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572154&tblKey=GMN",
+          "filename": "공개문 전문.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572155&tblKey=GMN",
+          "filename": "(20261019)보도자료(기상청 정기감사).hwp"
+        }
+      ],
+      "_attAt": "2026-10-19T05:34:42.178485+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
