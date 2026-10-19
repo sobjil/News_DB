@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T23:05:44.408168+00:00",
-  "count": 1889,
+  "updated": "2026-10-19T23:13:48.627572+00:00",
+  "count": 1892,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,6 +98,69 @@
         }
       ],
       "_attAt": "2026-10-19T22:20:43.954801+00:00"
+    },
+    {
+      "title": "식약처, 화장품 점자 등 세부 표시 방법 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785736",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "식약처, 화장품 점자 등 세부 표시 방법 안내",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572398&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 식약처, 화장품 점자 등 세부 표시 방법 안내.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572399&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 식약처, 화장품 점자 등 세부 표시 방법 안내.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T23:13:40.544764+00:00"
+    },
+    {
+      "title": "수능 앞둔 수험생 여러분, 카페인 함유 식품 섭취 시 주의하세요!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785735",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "수능 앞둔 수험생 여러분, 카페인 함유 식품 섭취 시 주의하세요!",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572396&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 수능 앞둔 수험생 여러분, 카페인 함유 식품 섭취 시 주의하세요!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572397&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 수능 앞둔 수험생 여러분, 카페인 함유 식품 섭취 시 주의하세요!.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T23:13:40.544764+00:00"
+    },
+    {
+      "title": "정부, 신생아·암환자 치료 의약품 등 국가필수의약품 8종 신규 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785734",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "정부, 신생아·암환자 치료 의약품 등 국가필수의약품 8종 신규 지정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572395&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 정부, 신생아·암환자 치료 의약품 등 국가필수의약품 8종 신규 지정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572394&tblKey=GMN",
+          "filename": "[26.10.20.(화) 보도자료] 정부, 신생아·암환자 치료 의약품 등 국가필수의약품 8종 신규 지정.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T23:13:40.544764+00:00"
     },
     {
       "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
@@ -1526,8 +1589,8 @@
           "filename": "336 [지식재산처] 한국 전고체 배터리 및 재사용 우주 발사체, 특허 증가율 세계 2위.pdf"
         }
       ],
-      "_attAt": "2026-10-19T17:08:41.340888+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-19T23:13:40.544764+00:00",
+      "_attRev": 3
     },
     {
       "title": "아태이론물리센터, 2026년도 이휘소상 수상자 선정 및 강연 개최",
