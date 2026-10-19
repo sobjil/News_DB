@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T01:34:46.463201+00:00",
-  "count": 1863,
+  "updated": "2026-10-19T01:49:46.053365+00:00",
+  "count": 1864,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -748,6 +748,27 @@
         }
       ],
       "_attAt": "2026-10-19T01:34:41.322574+00:00"
+    },
+    {
+      "title": "[보도자료] 규제합리화 대국민 공모전 온라인 투표 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785634",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-19T00:00:00+09:00",
+      "description": "내 손으로 바꾸는 규제...국민이 제안한 『규제합리화 과제 Best14』 투표 시작- 국무조정실, 규제합리화 대국민 공모전 우수제안과제 14개 선정- 국민이 직접 참여하는 온라인 투표*(10.19~30)를 통해 최종 순위 확정 예정* 공모전 전용 웹페이지(www.better.go.kr/voice)에서 참여 가능□ 국무조정실(실장 임기근)은 국민이 현장에서 체감할 수 있는 실생활과 밀접한 규제 개선을 위해 '규제합리화 대국민 공모전'을 실시하여 소관 부처 및 국조실 검토, 전문가 심의를 거쳐 우수제안과제 14개를 선정하였다.ㅇ 우수제",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571942&tblKey=GMN",
+          "filename": "261019_규제합리화 대국민 공모전 온라인 투표 실시 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198571943&tblKey=GMN",
+          "filename": "261019_규제합리화 대국민 공모전 온라인 투표 실시 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-19T01:49:42.165742+00:00"
     },
     {
       "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
