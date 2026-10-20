@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T07:27:49.945545+00:00",
+  "updated": "2026-10-20T07:42:44.943503+00:00",
   "count": 1961,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -578,16 +578,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572500&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572680&tblKey=GMN",
           "filename": "261020_보도자료__26년 3분기 재해조사대상 사망사고 발생 현황 통계 발표.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572499&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572679&tblKey=GMN",
           "filename": "261020_보도자료__26년 3분기 재해조사대상 사망사고 발생 현황 통계 발표.pdf"
         }
       ],
-      "_attAt": "2026-10-20T01:28:41.725887+00:00"
+      "_attAt": "2026-10-20T07:42:42.101996+00:00",
+      "_attRev": 1
     },
     {
       "title": "영덕국유림관리소, 소나무재선충병 확산 방지 위해 관계기관 머리 맞대",
