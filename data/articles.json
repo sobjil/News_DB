@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T06:43:43.180835+00:00",
-  "count": 1954,
+  "updated": "2026-10-20T06:49:54.986500+00:00",
+  "count": 1957,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -424,16 +424,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572437&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572497&tblKey=GMN",
           "filename": "261020 관세청 중앙관세분석소, 국제 마약 분석 능력 우수성 입증.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572438&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572498&tblKey=GMN",
           "filename": "261020 관세청 중앙관세분석소, 국제 마약 분석 능력 우수성 입증.pdf"
         }
       ],
-      "_attAt": "2026-10-20T00:43:42.412936+00:00"
+      "_attAt": "2026-10-20T06:49:42.691058+00:00",
+      "_attRev": 1
     },
     {
       "title": "과장급 인사발령(2026.10.20.자)",
@@ -445,16 +446,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572444&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572472&tblKey=GMN",
           "filename": "261020 (통일부 보도자료) 과장급 인사발령(2026.10.20.자).pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572443&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572471&tblKey=GMN",
           "filename": "261020 (통일부 보도자료) 과장급 인사발령(2026.10.20.자).hwp"
         }
       ],
-      "_attAt": "2026-10-20T00:43:42.412936+00:00"
+      "_attAt": "2026-10-20T06:49:42.691058+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 가을철 산불 대응 '실전형 진화훈련' 실시",
@@ -1473,6 +1475,69 @@
         }
       ],
       "_attAt": "2026-10-20T06:34:51.776505+00:00"
+    },
+    {
+      "title": "[보도자료] 기후대응위, 2026년 넷제로프렌즈 성과공유회 및 시상식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785838",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "청년의 기후위기 대응 해법, 기업이 적용하고 정부가 뒷받침한다- 기후대응위, 넷제로프렌즈 제4기 성과공유회 및 시상식 개최(10.20.)- 158개 팀 중 최종 8개 팀 선정... 최우수팀은 11월 튀르키예 COP31 부대행사에서 '26년 넷제로프렌즈 성과 발표□ 대통령 직속 국가기후위기대응위원회(공동위원장: 한성숙 국무총리, 이창훈 민간위원장, 이하 '기후대응위')는 10월 20일(화) 아모레퍼시픽 본사에서 '2026년 넷제로프렌즈 성과공유회 및 시상식'을 개최했다.ㅇ '넷제로프렌즈'는 기후위기 대응에 대한 국민 인식 제고를 위해",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573398&tblKey=GMN",
+          "filename": "261020_기후대응위, 2026년 넷제로프렌즈 성과공유회 및 시상식 개최 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573399&tblKey=GMN",
+          "filename": "261020_기후대응위, 2026년 넷제로프렌즈 성과공유회 및 시상식 개최 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T06:49:42.691058+00:00"
+    },
+    {
+      "title": "[차관동정] 김이탁 제1차관, \"로봇의 건설현장 확산으로 혁신 앞당길 것\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785840",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "[차관동정] 김이탁 제1차관, \"로봇의 건설현장 확산으로 혁신 앞당길 것\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573574&tblKey=GMN",
+          "filename": "261020(동정)_김이탁_제1차관__“로봇의_건설현장_확산으로_혁신_앞당길_것”(건설산업과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573575&tblKey=GMN",
+          "filename": "261020(동정)_김이탁_제1차관__“로봇의_건설현장_확산으로_혁신_앞당길_것”(건설산업과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T06:49:42.691058+00:00"
+    },
+    {
+      "title": "「민간임대주택에 관한 특별법」 시행령 개정안, 20일 국무회의 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785839",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "「민간임대주택에 관한 특별법」 시행령 개정안, 20일 국무회의 의결 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573572&tblKey=GMN",
+          "filename": "261020(보도자료) 「민간임대주택에 관한 특별법」 시행령 개정안, 20일 국무회의 의결(민간임대정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573573&tblKey=GMN",
+          "filename": "261020(보도자료) 「민간임대주택에 관한 특별법」 시행령 개정안, 20일 국무회의 의결(민간임대정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T06:49:42.691058+00:00"
     },
     {
       "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
