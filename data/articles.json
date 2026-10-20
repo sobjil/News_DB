@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T10:57:46.926174+00:00",
-  "count": 1988,
+  "updated": "2026-10-20T11:12:46.111801+00:00",
+  "count": 1989,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2256,6 +2256,27 @@
         }
       ],
       "_attAt": "2026-10-20T10:57:42.626216+00:00"
+    },
+    {
+      "title": "방위사업계약심의위원회 개최 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785913",
+      "agency": "방위사업청",
+      "agencyCode": "dapa",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "- 계약심의위원회 개최 결과, '입찰참가자격 제한 24개월' 처분방위사업청(청장 이용철)은 10월 20일(화) 오후 정부과천청사에서 방위사업계약심의위원회(이하 '위원회')를 개최하고, LIG D&A에 대한 부정당업자 제재 처분을 심의·의결했습니다.이번 심의는 지난 8월 20일 검찰이 발표한 LIG D&A 뇌물 및 원가부정 사건에 대한 후속 조치로 이루어졌습니다. 위원회는 관련 계약 과정에서 발생한 뇌물 제공 행위와 부정한 원가 산정에 대해 집중적으로 검토했습니다.특히, 심의의 공정성과 객관성 제고를 위해 다수의 민간위원이 참여한 가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574303&tblKey=GMN",
+          "filename": "261020 [방사청 보도자료] 방위사업계약심의위원회 개최 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574302&tblKey=GMN",
+          "filename": "261020 [방사청 보도자료] 방위사업계약심의위원회 개최 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T11:12:41.225937+00:00"
     },
     {
       "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
