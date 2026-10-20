@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T05:30:17.259927+00:00",
-  "count": 1944,
+  "updated": "2026-10-20T05:30:57.772025+00:00",
+  "count": 1945,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1250,6 +1250,27 @@
         }
       ],
       "_attAt": "2026-10-20T05:29:43.215006+00:00"
+    },
+    {
+      "title": "(참고) 「(약칭) 초광역특구법 관련 원포인트 사회적 대화」 제5차 실무협의체 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785826",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "고용노동부(장관 김영훈)는 10.20.(화) 이해당사자인 노사와 관계부처가 모두 참여하는 「(약칭)초광역특구법 관련 원포인트 사회적 대화」 제5차 실무협의체(실장급)를 개최했다고 밝혔다. 실무협의체 참석자 (노동계) 한국노총 정책본부장, 민주노총 기획실장 (경영계) 경총 이사, 대한상의 본부장 (정부) 노동부, 국조실, 재경부, 산업부 실 국장 (경사노위) 기획위원(代)오늘 회의에서는 대한상의가 메가특구 노동정책에 대한 제안을 발제하고, 정부가 약칭초광역특구법 주요내용을 설명했다.제6차 실무협의체는 10.28.(수) 16:00에 개",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573273&tblKey=GMN",
+          "filename": "261020_보도참고_초광역특구_사회적_대화_제5차_실무협의체_개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573272&tblKey=GMN",
+          "filename": "261020_보도참고_초광역특구_사회적_대화_제5차_실무협의체_개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T05:30:53.346982+00:00"
     },
     {
       "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
