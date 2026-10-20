@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T22:11:43.445179+00:00",
-  "count": 1852,
+  "updated": "2026-10-20T22:26:45.897758+00:00",
+  "count": 1853,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785914",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "\"영웅의 헌신, 일상 속 기억으로\"소방청, 제3회 '119메모리얼데이' 추모문화제 성료- 17일 세종중앙공원에서 국민·유가족·소방공무원 등 약 1만 명이 함께하며 영웅들의 숭고한 희생 기억- 순직 소방관 이름을 가슴에 새기고 달린 '119메모리얼 런', 참가비 전액 유가족 단체에 기부, 故 박승원 소방경의 목소리를 되살린 인공지능(AI) 음성복원 '국기에 대한 맹세' 등 국민참여 추모식으로 깊은 울림 전해- 추모전시, 안전체험 및 가을밤 위로와 감동을 전한 '메모리얼 연주회(콘서트)'까지 국민과 함께하는 추모문화 정착에 기여□ 소방",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574552&tblKey=GMN",
+          "filename": "(10. 21. (수) 조간 보도자료) 영웅의 헌신%2C 일상 속 기억으로 소방청%2C 제3회 %27119메모리얼데이%27 추모문화제 성료.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-20T22:26:41.115477+00:00"
+    },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785731",
