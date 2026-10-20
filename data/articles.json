@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T03:04:45.159676+00:00",
-  "count": 1923,
+  "updated": "2026-10-20T03:20:00.295550+00:00",
+  "count": 1931,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -72,16 +72,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572385&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572673&tblKey=GMN",
           "filename": "261020(석간) 모두의카드 카드정보 현행화 하지 않은 이용자는 10월 26일까지 현행화하세요(광역교통경제과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198572386&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572674&tblKey=GMN",
           "filename": "261020(석간) 모두의카드 카드정보 현행화 하지 않은 이용자는 10월 26일까지 현행화하세요(광역교통경제과).pdf"
         }
       ],
-      "_attAt": "2026-10-19T21:05:40.815484+00:00"
+      "_attAt": "2026-10-20T03:19:41.402042+00:00",
+      "_attRev": 1
     },
     {
       "title": "국립소방연구원, 과학적 분석 기반 화재안전기술기준 마련 추진 \"데이터센터 화재위험, 실물 실험으로 검증한다\"",
@@ -816,6 +817,169 @@
         }
       ],
       "_attAt": "2026-10-20T02:19:42.451255+00:00"
+    },
+    {
+      "title": "아시아태평양경제협력체(APEC) 학교 경영자, 함께 모여 인공지능 기반 교육 혁신의 길을 찾다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785807",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "아시아태평양경제협력체(APEC) 학교 경영자, 함께 모여 인공지능 기반 교육 혁신의 길을 찾다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573053&tblKey=GMN",
+          "filename": "[교육부 10-21(수) 조간보도자료] 아시아태평양경제협력체(APEC) 학교 경영자 함께 모여 인공지능 기반 교육 혁신의 길을 찾다.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "우수한 민간구급차 '인증마크' 단다, 응급환자이송업 품질 인증제 시범 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785802",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "우수한 민간구급차 '인증마크' 단다, 응급환자이송업 품질 인증제 시범 운영- 10월 21일부터 30일까지 참여업체 신청 접수, 서면·현장심사 실시 -- 법정기준 준수와 운영·인력·장비·감염·기록 등 이송서비스 품질 평가 - 보건복지부(장관 정은경)와 국립중앙의료원(원장 서길준) 중앙응급의료센터는 10월 21일(수)부터 30일(금)까지 「응급환자이송업 품질 인증제 시범사업」에 참여할 업체를 모집한다. 응급환자이송업은 「응급의료에 관한 법률」에 따라 구급차 등을 이용하여 응급환자 등을 이송하는 업으로, 병원 간 환자 이송 등 응급의료체",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573042&tblKey=GMN",
+          "filename": "[10.21.수 조간] 우수한 민간구급차 ‘인증마크’ 단다, 응급환자이송업 품질 인증제 시범 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573043&tblKey=GMN",
+          "filename": "[10.21.수 조간] 우수한 민간구급차 ‘인증마크’ 단다, 응급환자이송업 품질 인증제 시범 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "장애인·노인 일상 바꾸는 기술 국립재활원, 2026년 보조기기 메이커 페어 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785803",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "장애인·노인 일상 바꾸는 기술 국립재활원, 2026년 보조기기 메이커 페어 개최- 능동회피 휠체어 등 보조기기 연구성과 23종 전시 -- 지속적인 연구개발과 현장 검증 통한 장애인·노인 보조기기 실용화 박차 -국립재활원(원장 김동아) 보조기기실용화연구개발사업단(이하 사업단)은 10월 21일(수)부터 23일(금)까지 「2026년 보조기기 메이커 페어」를 개최한다고 밝혔다. 행사는 서울 코엑스 D홀(서울시 강남구)에서 열리는 2026 홈케어·재활·복지전시회(Reha·Homecare 2026)에서 보조기기 23종이 전시되며, 전시회에 참",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573044&tblKey=GMN",
+          "filename": "[10.21.수 조간] 장애인·노인 일상 바꾸는 기술 국립재활원, 2026년 보조기기 메이커 페어 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573045&tblKey=GMN",
+          "filename": "[10.21.수 조간] 장애인·노인 일상 바꾸는 기술 국립재활원, 2026년 보조기기 메이커 페어 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "기후부-산업계, 인공지능 시대 녹색 경쟁력 함께 만든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785806",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "▷ 정부, 산업계, 해외 기업 등과 녹색산업 생태계 구축 협력방안 논의기후에너지환경부(장관 김성환)와 한국지속가능발전기업협의회(회장 박재완)는 10월 21일 오후 그랜드 인터컨티넨탈 서울 파르나스(서울 강남구 소재)에서 '제8회 지속가능기업혁신 토론회(포럼)'를 개최한다.기후에너지환경부와 한국지속가능발전기업협의회는 2019년부터 매년 지속가능발전에 관한 시의적절한 주제를 선정하여 민간과 정부가 창의적 해법을 논의하고 있다.이번 토론회는 탄소국경조정제도 등 국제사회의 기후 규범이 본격화되고 녹색산업 중심의 공급망 재편이 국가, 기업의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573051&tblKey=GMN",
+          "filename": "기후부-산업계 인공지능 시대 녹색 경쟁력 함께 만든다(보도자료)(탈탄소 10.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573052&tblKey=GMN",
+          "filename": "기후부-산업계 인공지능 시대 녹색 경쟁력 함께 만든다(보도자료)(탈탄소 10.20).pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "기후위기 시대, 위성 융합으로 해법 찾는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785805",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "▷ 제8회 '2026 천리안위성 2호 융복합 활용 학술대회(콘퍼런스)' 개최▷ 위성자료 융복합 연구성과 공유 및 후속 정지궤도 위성 개발·활용 방향 논의기후에너지환경부 소속 국립환경과학원(원장 김영우)은 10월 21일부터 이틀간 파라다이스호텔(부산 해운대구 소재)에서 국가기상위성센터·국립해양조사원·한국해양과학기술원과 공동으로 '제8회 천리안위성 2호 융복합 활용 학술대회(콘퍼런스)'를 개최한다고 밝혔다.이번 학술대회는 4개 기관이 참여하는 '천리안위성 2호 융복합 활용 협의체'가 공동으로 추진하는 것이다. 협의체는 2020년부터 천",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573049&tblKey=GMN",
+          "filename": "기후위기 시대 위성 융합으로 해법 찾는다(보도자료)(과학원 10.20).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573050&tblKey=GMN",
+          "filename": "기후위기 시대 위성 융합으로 해법 찾는다(보도자료)(과학원 10.20).pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785804",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다 관련 내용입니다. 자세한 사항은 붙임파일 (20261019_보도자료_★엠바고 온라인 20일(화) 12시, 21일(수) 조간★_기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다.hwpx)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573046&tblKey=GMN",
+          "filename": "20261019_보도자료_★엠바고 온라인 20일(화) 12시, 21일(수) 조간★_기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573048&tblKey=GMN",
+          "filename": "20261019_보도자료_★엠바고 온라인 20일(화) 12시, 21일(수) 조간★_기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573047&tblKey=GMN",
+          "filename": "20261019_보도자료_★엠바고 온라인 20일(화) 12시, 21일(수) 조간★_기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다.hwp"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "국민제안 감사 아이디어 공모에 적극적 참여 이어져",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785808",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "국민제안 감사 아이디어 공모에 적극적 참여 이어져",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198573054&tblKey=GMN",
+          "filename": "(20261020)보도자료(국민제안 감사 아이디어 공모에 적극적 참여 이어져).hwpx"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
+    },
+    {
+      "title": "청소년 사이버도박 예방부터 치유까지, 관계기관 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785800",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-10-20T00:00:00+09:00",
+      "description": "청소년 사이버도박 예방부터 치유까지, 관계기관 협력 강화- 원민경 장관, 20일 한국도박문제예방치유원 방문해 청소년 도박 대응체계 협의- 현장 상담인력 전문교육 내실화·기관 간 연계 간소화 등 조기 발견과 치유 지원 논의□ 원민경 성평등가족부 장관은 20일(화) 한국도박문제예방치유원(이하 '예방치유원')을 방문하여 청소년 도박문제 예방 및 치유 지원을 위한 관계기관 간 협력 방안을 논의한다. ㅇ 이번 방문은 최근 심각해지고 있는 청소년 도박문제에 대응하기 위해 도박문제 전문기관과의 협력을 강화하고, 청소년 사이버도박 예방부터 상담·",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572967&tblKey=GMN",
+          "filename": "261019_보도자료_원민경 장관 한국도박문제예방치유원 현장방문_최종배포본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198572966&tblKey=GMN",
+          "filename": "261019_보도자료_원민경 장관 한국도박문제예방치유원 현장방문_최종배포본.pdf"
+        }
+      ],
+      "_attAt": "2026-10-20T03:19:41.402042+00:00"
     },
     {
       "title": "[설명] 전용기 늦장 이륙이 연쇄 지연 사태를 불러왔다는 것은 사실이 아닙니다.",
