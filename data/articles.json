@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T06:35:48.716021+00:00",
-  "count": 1921,
+  "updated": "2026-10-21T06:41:50.238838+00:00",
+  "count": 1922,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -229,7 +229,8 @@
           "filename": "[10.21.수 행사 시작(9시 30분) 이후] AI 혁신 혜택의 공평한 접근 약속...보건복지부 세계보건기구 AI 헬스케어 서울선언문 공동 발표.pdf"
         }
       ],
-      "_attAt": "2026-10-21T00:41:41.888760+00:00"
+      "_attAt": "2026-10-21T06:41:42.795071+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"학부모 교육도 필요해요\"...동포사회 건의, 한글학교 연수에 반영",
@@ -241,16 +242,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574589&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574661&tblKey=GMN",
           "filename": "261021_“학부모 교육도 필요해요”...동포사회 건의, 한글학교 연수에 반영.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574590&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574662&tblKey=GMN",
           "filename": "261021_“학부모 교육도 필요해요”...동포사회 건의, 한글학교 연수에 반영.pdf"
         }
       ],
-      "_attAt": "2026-10-21T00:41:41.888760+00:00"
+      "_attAt": "2026-10-21T06:41:42.795071+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, \"상용SW 조달 규제 철폐\"... 기업 편의 중심으로 MAS규정 전면 개편",
@@ -271,7 +273,8 @@
           "filename": "261021_(보도자료)_상용SW 조달규제 대폭 완화.pdf"
         }
       ],
-      "_attAt": "2026-10-21T00:41:41.888760+00:00"
+      "_attAt": "2026-10-21T06:41:42.795071+00:00",
+      "_attRev": 1
     },
     {
       "title": "창경궁과 창덕궁의 밤을 잇는 '동궐동락'",
@@ -1525,6 +1528,27 @@
         }
       ],
       "_attAt": "2026-10-21T06:35:43.910095+00:00"
+    },
+    {
+      "title": "[부처합동] 한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786002",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "[부처합동] 한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574931&tblKey=GMN",
+          "filename": "(부처합동)[26.10.21.(수) 보도자료] 한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시!.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574932&tblKey=GMN",
+          "filename": "(부처합동)[26.10.21.(수) 보도자료] 한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시!.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T06:41:42.795071+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
