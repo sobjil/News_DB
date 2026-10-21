@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T03:56:45.050390+00:00",
-  "count": 1901,
+  "updated": "2026-10-21T04:11:47.924225+00:00",
+  "count": 1903,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1093,6 +1093,53 @@
         }
       ],
       "_attAt": "2026-10-21T03:26:41.851780+00:00"
+    },
+    {
+      "title": "함께 만드는 우리 아이의 성장기준(10.21.수)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785976",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "함께 만드는 우리 아이의 성장기준 - 「2027 소아청소년 성장도표」 개정을 위한 공청회 개최 -- 성장도표는 소아청소년의 성장상태를 평가하는 중요한 지표로 대한소아청소년과학회와 공동으로 약 10년 주기로 개정- 「2027 소아청소년 성장도표」 개정 계획 공유 및 활용자의 다양한 의견 수렴을 위한 공청회 개최질병관리청(청장 임승관)은 대한소아청소년과학회와 함께 「2027 소아청소년 성장도표」 개정에 앞서 다양한 활용자의 의견 수렴을 위해 공청회를 개최한다. 소아청소년 성장도표는 소아청소년의 신장, 체중 등 신체계측치의 분포를 곡선이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574793&tblKey=GMN",
+          "filename": "[10.21.보도참고자료] 함께 만드는 우리 아이의 성장기준.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574794&tblKey=GMN",
+          "filename": "[10.21.보도참고자료] 함께 만드는 우리 아이의 성장기준.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574795&tblKey=GMN",
+          "filename": "(별첨) 2027 소아청소년 성장도표 개정을 위한 공청회 자료집.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T04:11:41.459315+00:00"
+    },
+    {
+      "title": "박홍근 장관, 일?가정 양립 직원 오찬 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785975",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "박홍근 기획예산처 장관은 10월 21일(수) 12시, 워킹맘, 워킹대디, 신혼인 기획예산처 직원들과의 오찬 간담회를 개최하였습니다. * 자세한 사항은 첨부의 내용을 참고하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574792&tblKey=GMN",
+          "filename": "261021 (보도자료) 일가정 양립 기획처 직원 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574791&tblKey=GMN",
+          "filename": "261021 (보도자료) 일가정 양립 기획처 직원 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T04:11:41.459315+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
