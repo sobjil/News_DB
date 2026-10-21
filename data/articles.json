@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T07:24:47.354741+00:00",
-  "count": 1936,
+  "updated": "2026-10-21T07:39:49.933929+00:00",
+  "count": 1940,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -493,7 +493,8 @@
           "filename": "261021 (즉시) 중앙과 지방정부의 협업으로 민생규제 지역산업 규제를 집중 발굴 개선한다(민생경제지원과).pdf"
         }
       ],
-      "_attAt": "2026-10-21T01:26:41.003266+00:00"
+      "_attAt": "2026-10-21T07:39:38.950259+00:00",
+      "_attRev": 1
     },
     {
       "title": "가을철 산불 절반 이상 '입산자 실화·불법 소각'…올해 10월 급증 - 국립산림과학원, 최근 10년간 가을철(10~11월) 산불 분석 결과 발표",
@@ -1902,6 +1903,80 @@
         }
       ],
       "_attAt": "2026-10-21T07:24:33.334486+00:00"
+    },
+    {
+      "title": "\"곶자왈을 깨끗하게, 지역주민과 함께!\" - 국립산림과학원, 저지마을 주민과 곶자왈 3km 구간 칡 제거·환경정화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786033",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "산림청 국립산림과학원(원장 김용관)은 지난 16일(금) 제주시 한경면 저지곶자왈 일대에서 저지마을 주민들과 함께 칡 제거와 산림생태계 보전을 위한 지역 환경정화를 실시했다고 밝혔다.이번 행사는 난대·아열대산림연구소가 곶자왈 산림생태계를 보전하고 지역주민의 생활환경을 개선하기 위해 마련했다. 최근 기후변화의 영향으로 제주도에 확산중인 칡은 숲 생태계를 교란하고 주민 생활공간까지 번지고 있어 관리가 필요한 상황이다.이날 연구소 직원과 마을 주민들은 저지리 일대 약 3km 구간에서 칡을 제거하고 주변 환경을 정비했다. 이번 활동은 연구소",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575051&tblKey=GMN",
+          "filename": "(국립산림과학원 보도자료) 곶자왈을 깨끗하게, 지역주민과 함께!.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-21T07:39:38.950259+00:00"
+    },
+    {
+      "title": "5G 기반 지하철 와이파이, 국민과 함께 체험",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786030",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "- 시범노선(인천 1·2호선)의 지하철 와이파이 고도화(LTE → 5G) 완료- 과기정통부 류제명 제2차관, 국민과 함께 개선된 통신 품질 직접 체험",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575040&tblKey=GMN",
+          "filename": "261022 조간 (보도) 5G 기반 지하철 와이파이, 국민과 함께 체험 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-10-21T07:39:38.950259+00:00"
+    },
+    {
+      "title": "인공지능(AI)·로봇으로 진화하는 케이(K)-치안,『2026 국제치안산업대전』 개막",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786029",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "인공지능(AI)·로봇으로 진화하는 케이(K)-치안,『2026 국제치안산업대전』 개막 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575036&tblKey=GMN",
+          "filename": "261021(1600) 국제치안산업대전 개막(치안연구개발).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575037&tblKey=GMN",
+          "filename": "261021(1600) 국제치안산업대전 개막(치안연구개발).pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T07:39:38.950259+00:00"
+    },
+    {
+      "title": "한-EU, 수출애로 해소 및 규제협력 등 주요 통상현안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786031",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "한-EU, 수출애로 해소 및 규제협력 등 주요 통상현안 논의- 제14차 한-EU FTA 상품무역위원회를 개최하여 FTA 이행 평가 산업통상부(장관 김정관)는 10월 21일(수) 유럽연합(EU)과 제14차 한-EU 자유무역협정(FTA) 상품무역위원회를 화상으로 개최하였다. 상품무역위원회는 한-EU FTA에 따라 상품무역에 관한 관세 및 비관세 현안을 논의하는 협의 채널로, 양측은 FTA 이행상황을 점검하는 한편, 주요 통상현안과 양측 기업의 시장진출 애로 해소방안 등을 논의하였다. * (한국측 수석대표) 김영만 통상정책국장 / (EU",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575043&tblKey=GMN",
+          "filename": "1021(22조간, 21(수) 16시엠바고)구주통상과, 한-EU, 수출애로 해소 및 규제협력 등 주요 통상현안 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575042&tblKey=GMN",
+          "filename": "1021(22조간, 21(수) 16시엠바고)구주통상과, 한-EU, 수출애로 해소 및 규제협력 등 주요 통상현안 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T07:39:38.950259+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
