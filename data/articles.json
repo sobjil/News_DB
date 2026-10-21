@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T05:48:43.405261+00:00",
-  "count": 1914,
+  "updated": "2026-10-21T06:02:50.076554+00:00",
+  "count": 1916,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -154,16 +154,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574572&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574721&tblKey=GMN",
           "filename": "(261021) 신청기한을 놓쳤지만 불가피한 사유였는지 심의해야 부모급여 받을 길 열려(최종).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574573&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574722&tblKey=GMN",
           "filename": "(261021) 신청기한을 놓쳤지만 불가피한 사유였는지 심의해야 부모급여 받을 길 열려(최종).pdf"
         }
       ],
-      "_attAt": "2026-10-20T23:56:41.169094+00:00"
+      "_attAt": "2026-10-21T06:02:42.354434+00:00",
+      "_attRev": 1
     },
     {
       "title": "병무청, 심리검사로 발견한 청년 마음건강 위기… 상담·치료와 회복까지 잇는다",
@@ -1365,6 +1366,48 @@
         }
       ],
       "_attAt": "2026-10-21T05:40:41.418090+00:00"
+    },
+    {
+      "title": "에너지 전환·환경 보호·기후변화 대응 등 한-유럽연합(EU) 그린 파트너십 심화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785995",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "한국과 유럽연합(EU)간 에너지, 환경, 기후변화 분야 협력 강화를 위한 「제8차 한-EU 에너지·환경·기후변화 작업반 회의」가 10.20.(화) 서울 외교부에서 화상병행으로 개최되었다. 이번 회의는 황준식 외교부 기후환경과학외교국장과 마리아 카스티요 페르난데즈(Maria Castillo Fernandez) 유럽대외관계청(EEAS) 인도 태평양 특사가 수석대표로 공동주재하였다. ㅇ 동 작업반 회의에는 우리측 외교부, 기후에너지환경부, 해수부 등 관계부처 및 EU측 기후행동총국, 에너지총국, 환경총국 등 EU 집행위원회 담당자들이 참",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574892&tblKey=GMN",
+          "filename": "[26-843](보도자료) 에너지 전환·환경 보호·기후변화 대응 등 한-유럽연합(EU) 그린 파트너십 심화.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574893&tblKey=GMN",
+          "filename": "[26-843](보도자료) 에너지 전환·환경 보호·기후변화 대응 등 한-유럽연합(EU) 그린 파트너십 심화.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T06:02:42.354434+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, \"속도감 있는 정비로 체감성과 앞당겨야\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785994",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, \"속도감 있는 정비로 체감성과 앞당겨야\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574888&tblKey=GMN",
+          "filename": "261021(동정)_홍지선_장관__“속도감_있는_정비로_체감성과_앞당겨야”(신도시정비지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574889&tblKey=GMN",
+          "filename": "261021(동정)_홍지선_장관__“속도감_있는_정비로_체감성과_앞당겨야”(신도시정비지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T06:02:42.354434+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
