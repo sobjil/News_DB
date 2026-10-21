@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T08:24:48.183713+00:00",
-  "count": 1946,
+  "updated": "2026-10-21T08:39:42.294743+00:00",
+  "count": 1947,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -729,7 +729,8 @@
           "filename": "261021(1100) 2026년 경찰영웅 심연수 경사, 김선현 경감(복지정책).pdf"
         }
       ],
-      "_attAt": "2026-10-21T02:26:41.908173+00:00"
+      "_attAt": "2026-10-21T08:39:34.425432+00:00",
+      "_attRev": 1
     },
     {
       "title": "제81주년 경찰의 날 기념식 개최, \"개혁·쇄신과 공정 수사로 국민의 일상을 가장 가까운 곳에서 굳건히 지키겠다고 다짐\"",
@@ -750,7 +751,8 @@
           "filename": "261021(1100) 제81주년 경찰의 날 기념식(경무).pdf"
         }
       ],
-      "_attAt": "2026-10-21T02:26:41.908173+00:00"
+      "_attAt": "2026-10-21T08:39:34.425432+00:00",
+      "_attRev": 1
     },
     {
       "title": "피지컬 AI시대, 중소기업 혁신전략",
@@ -762,16 +764,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574708&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574723&tblKey=GMN",
           "filename": "261021 리더스포럼 정책토론회 보도자료.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198574709&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574724&tblKey=GMN",
           "filename": "261021 리더스포럼 정책토론회 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-10-21T02:26:41.908173+00:00"
+      "_attAt": "2026-10-21T08:39:34.425432+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 「'26년 지방규제혁신 추진성과」 규제합리화위원회 보고 결과",
@@ -2097,6 +2100,27 @@
         }
       ],
       "_attAt": "2026-10-21T08:24:33.256268+00:00"
+    },
+    {
+      "title": "경찰청, 싱가포르 과학기술청(HTX)과 미래치안 과학기술 협력 강화를 위한 업무협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786042",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "경찰청, 싱가포르 과학기술청(HTX)과 미래치안 과학기술 협력 강화를 위한 업무협약 체결 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575101&tblKey=GMN",
+          "filename": "261021(1700) 경찰청, 싱가포르 과학기술청과 업무협약 체결(치안연구개발).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575102&tblKey=GMN",
+          "filename": "261021(1700) 경찰청, 싱가포르 과학기술청과 업무협약 체결(치안연구개발).pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T08:39:34.425432+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
