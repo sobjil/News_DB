@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T23:00:42.812076+00:00",
-  "count": 1807,
+  "updated": "2026-10-21T23:15:47.722889+00:00",
+  "count": 1809,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,48 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786080",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575208&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도참고자료] 식약처, 축산물 신규 수출 정보 안내.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575209&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도참고자료] 식약처, 축산물 신규 수출 정보 안내.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T23:15:40.779986+00:00"
+    },
+    {
+      "title": "[보도참고] '디지털의료·건강지원기기 성능인증 제도' KIMES 현장 세미나 및 홍보관 운영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786079",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "[보도참고] '디지털의료·건강지원기기 성능인증 제도' KIMES 현장 세미나 및 홍보관 운영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575207&tblKey=GMN",
+          "filename": "[26.10.22(목) 보도참고자료] ‘디지털의료·건강지원기기 성능인증 제도’ KIMES 현장 세미나 및 홍보관 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575206&tblKey=GMN",
+          "filename": "[26.10.22(목) 보도참고자료] ‘디지털의료·건강지원기기 성능인증 제도’ KIMES 현장 세미나 및 홍보관 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T23:15:40.779986+00:00"
+    },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785914",
@@ -1316,8 +1358,8 @@
           "filename": "261022 조간 (보도) 양자통신 상용화를 위한 실증 기반 확대 본격 착수(수수정).hwpx"
         }
       ],
-      "_attAt": "2026-10-21T17:00:42.434696+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-21T23:15:40.779986+00:00",
+      "_attRev": 3
     },
     {
       "title": "국방부, 금융위원회와 장병금융워크숍 개최",
