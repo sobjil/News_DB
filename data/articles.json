@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T09:54:38.981474+00:00",
-  "count": 1950,
+  "updated": "2026-10-21T10:09:37.117200+00:00",
+  "count": 1951,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2195,6 +2195,27 @@
         }
       ],
       "_attAt": "2026-10-21T09:54:33.383930+00:00"
+    },
+    {
+      "title": "초국가범죄 범정부 대응 1년, \"국경 넘어 끝까지 추적\"… 기관 간 공조 강화로 초국가범죄 대응의 틀 바꿨다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786048",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "초국가범죄 범정부 대응 1년, \"국경 넘어 끝까지 추적\"… 기관 간 공조 강화로 초국가범죄 대응의 틀 바꿨다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575133&tblKey=GMN",
+          "filename": "261022(조간용_부처합동) 초국가범죄 범정부 대응 1년 성과(수사기획).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575134&tblKey=GMN",
+          "filename": "261022(조간용_부처합동) 초국가범죄 범정부 대응 1년 성과(수사기획).pdf"
+        }
+      ],
+      "_attAt": "2026-10-21T10:09:32.790086+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
