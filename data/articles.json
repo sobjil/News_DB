@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T04:26:54.438504+00:00",
-  "count": 1908,
+  "updated": "2026-10-21T04:41:44.980480+00:00",
+  "count": 1909,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1246,6 +1246,22 @@
         }
       ],
       "_attAt": "2026-10-21T04:26:41.891401+00:00"
+    },
+    {
+      "title": "양자통신 상용화를 위한 실증 기반 확대 본격 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785982",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-21T00:00:00+09:00",
+      "description": "- 과기정통부, 「개방형 양자 테스트베드 고도화·확산」 착수보고회 개최 - 국내 실증망 확대부터 해외 연계·차세대 기술 검증까지, 3개 거점 구축 추진 - 미래성장동력 「7대 SEED 프로젝트」 양자 분야 상용화·산업 확산 뒷받침",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198574813&tblKey=GMN",
+          "filename": "261022 조간 (보도) 양자통신 상용화를 위한 실증 기반 확대 본격 착수(수수정).hwpx"
+        }
+      ],
+      "_attAt": "2026-10-21T04:41:41.131722+00:00"
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
