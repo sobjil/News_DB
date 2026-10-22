@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T02:24:58.700516+00:00",
-  "count": 1840,
+  "updated": "2026-10-22T02:30:46.845327+00:00",
+  "count": 1841,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -753,6 +753,27 @@
         }
       ],
       "_attAt": "2026-10-22T02:24:42.763152+00:00"
+    },
+    {
+      "title": "경찰청장 직무대행, '국민중심 경찰서비스'를 위한 첫 현장행보 나선다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786119",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "경찰청장 직무대행, '국민중심 경찰서비스'를 위한 첫 현장행보 나선다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575423&tblKey=GMN",
+          "filename": "261022(1100) 직무대행님 현장행보(피해자보호).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575424&tblKey=GMN",
+          "filename": "261022(1100) 직무대행님 현장행보(피해자보호).pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T02:30:43.015507+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
