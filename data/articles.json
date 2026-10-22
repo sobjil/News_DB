@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T22:56:43.753824+00:00",
-  "count": 1807,
+  "updated": "2026-10-22T23:11:47.422347+00:00",
+  "count": 1808,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -161,6 +161,37 @@
         }
       ],
       "_attAt": "2026-10-22T22:26:41.767298+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786219",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575784&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도참고자료] “시험 잘 보는 약은 없습니다”… 식약처, 프로프라놀롤 성분 안전 사용 안내.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575786&tblKey=GMN",
+          "filename": "[26.10.23.(금), 보도참고자료] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575785&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도참고자료] “시험 잘 보는 약은 없습니다”… 식약처, 프로프라놀롤 성분 안전 사용 안내.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575787&tblKey=GMN",
+          "filename": "[26.10.23.(금), 보도참고자료] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T23:11:43.506661+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
