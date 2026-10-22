@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T08:43:43.430995+00:00",
-  "count": 1883,
+  "updated": "2026-10-22T08:58:44.595931+00:00",
+  "count": 1884,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1668,6 +1668,27 @@
         }
       ],
       "_attAt": "2026-10-22T08:16:41.162405+00:00"
+    },
+    {
+      "title": "북부지방산림청, 제4차 국유림위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786176",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "북부지방산림청, 제4차 국유림위원회 개최 - 제2기 국유림위원회 출범 후 첫 심의회 개최, 국유림의 효율적 관리 및 보전 방안 논의 - 북부지방산림청(청장 송준호)은 10월 22일 북부지방산림청 대회의실에서 국유림의 체계적인 관리와 효율적인 운영을 위해 '제4차 국유림위원회'를 개최했다고 밝혔다. 국유림위원회는 국유림의 보전 및 이용에 관한 중요 사항을 심의·의결하는 기구로, 교수·기술사·변호사·산림전문가 등으로 구성되어 있다. 특히 이번 심의회는 제2기 국유림위원회가 출범한 이후 처음으로 정식 안건을 심의하는 자리로, 급변하는 산",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575661&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 제4차 국유림위원회 개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575660&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 제4차 국유림위원회 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-10-22T08:58:40.673574+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
