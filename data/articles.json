@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T07:16:56.735342+00:00",
-  "count": 1872,
+  "updated": "2026-10-22T07:31:54.669109+00:00",
+  "count": 1875,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -478,11 +478,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575338&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575359&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료)시·공간 데이터로 산림탄소의 현재와 미래를 진단한다.hwpx"
         }
       ],
-      "_attAt": "2026-10-22T01:24:41.583210+00:00"
+      "_attAt": "2026-10-22T07:31:43.052782+00:00",
+      "_attRev": 1
     },
     {
       "title": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정",
@@ -494,16 +495,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575299&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575392&tblKey=GMN",
           "filename": "원전 공론화위원회 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정(보도자료)(원전공론화 _10_22).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575300&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575393&tblKey=GMN",
           "filename": "원전 공론화위원회 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정(보도자료)(원전공론화 _10_22).pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:24:41.583210+00:00"
+      "_attAt": "2026-10-22T07:31:43.052782+00:00",
+      "_attRev": 1
     },
     {
       "title": "소득과 지역에 따라 차이 나는 건강수명, 그 원인과 해결책을 모색하다",
@@ -1428,6 +1430,74 @@
         }
       ],
       "_attAt": "2026-10-22T07:16:41.770053+00:00"
+    },
+    {
+      "title": "제9회 서울아프리카대화 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786159",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "외교부는 10.22.(목) 한·아프리카재단과 공동으로 '글로벌 불확실성 속 한-아프리카 파트너십의 재구상'을 주제로「제9회 서울아프리카대화」를 서울 롯데호텔에서 개최하였다. ※ 서울아프리카대화는 아프리카 지역의 주요 이슈 및 협력 현황 등을 종합적으로 전망하기 위해 2018년부터 개최되어온 1.5트랙 형식의 국제학술회의 / 한국 및 아프리카 학계, 전문가, 외교단 등 약 200여 명 참석 이번 개회식에는 이주영 전 국회부의장, 샤픽 라샤디(Chafik Rachadi) 주한아프리카외교단장, 김영채 한·아프리카재단 이사장 등이 참석하였",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575552&tblKey=GMN",
+          "filename": "[26-847](보도자료) 제9회 서울아프리카대화 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575553&tblKey=GMN",
+          "filename": "[26-847](보도자료) 제9회 서울아프리카대화 개최.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575556&tblKey=GMN",
+          "filename": "첨부2_2026 서울아프리카대화 프로그램북_온라인.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T07:31:43.052782+00:00"
+    },
+    {
+      "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786160",
+      "agency": "재외동포청",
+      "agencyCode": "oka",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결- 인천도시역사관 활용해 2027년 리모델링 착수… 교육·문화·교류 복합 거점 구축 - 역사유물 전시·디지털 아카이브 구축… 세계한인회장대회 등 관련 사무국 설치 지원☐ 재외동포청과 인천시가 대한민국 이민 역사의 상징성을 바탕으로 재외동포와 모국 간 교류를 활성화하고 차세대 동포의 정체성을 강화하기 위한 실질적인 협력 기반 마련에 나선다.☐ 재외동포청(청장 김경협)과 인천광역시(시장 박찬대)는 10월 22일 인천도시역사관에서 '재외동포교육문화센터 조성을 위한 양해각서(MO",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575557&tblKey=GMN",
+          "filename": "261022_재외동포청·인천시, ‘재외동포교육문화센터’ 조성 업무협약 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575558&tblKey=GMN",
+          "filename": "261022_재외동포청·인천시, ‘재외동포교육문화센터’ 조성 업무협약 체결.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T07:31:43.052782+00:00"
+    },
+    {
+      "title": "통일부 장관, EU 인도·태평양 특사 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786161",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "통일부 장관, EU 인도·태평양 특사 면담□ 정동영 통일부 장관은 10월 22일(목) 오전, 방한 중인 마리아 카스티요 페르난데즈(Maria Castillo Fernández) EU 인도·태평양 특사와의 면담에서 국제, 한반도 정세 등에 대해 의견을 교환했다.□ 정 장관은 우리 정부의 한반도 평화 정착 노력을 소개하고 한-EU간의 협력이 더욱 강화되어야 한다고 당부했다. o 러·우 전쟁에서 보듯이 유럽과 한반도 안보의 상호 연계성이 심화되고 있다고 평가하며, - 북한이 고립에서 탈피하여 국제사회에 복귀하는 것이 전쟁 종결에 도움이 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575562&tblKey=GMN",
+          "filename": "261022 (통일부 보도자료) 통일부 장관 EU 인도·태평양 특사 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575563&tblKey=GMN",
+          "filename": "261021 (통일부 보도자료) 통일부 장관, WHO 사무총장 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T07:31:43.052782+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
