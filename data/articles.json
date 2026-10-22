@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T04:15:55.051219+00:00",
-  "count": 1854,
+  "updated": "2026-10-22T04:30:48.003892+00:00",
+  "count": 1856,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1032,6 +1032,48 @@
         }
       ],
       "_attAt": "2026-10-22T04:15:43.914501+00:00"
+    },
+    {
+      "title": "풍력발전 유지？보수는 안전수칙 확인부터!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786137",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "- 기후에너지환경부, 풍력발전 현장 작업자 안전 OPS 배포- 작업위치별 위험요인, 공정별 핵심 안전수칙, 위험성평가(JSA) 예시 수록 고용노동부(장관 김영훈)는 기후에너지환경부(장관 김성환)와 풍력발전 유지보수작업 중 발생할 수 있는 사고를 예방하기 위해 한눈에 보는 풍력발전 유지보수 안전 포인트 OPS(One Page Sheet)*를 공동으로 제작해 배포한다고 밝혔다. * 핵심 안전수칙을 그림도표 중심으로 정리한 현장용 자료 지난 3월 23일 영덕 풍력발전소 화재사고 이후 고용노동부와 기후에너지환경부는 고소작업, 밀폐공간 작업",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575478&tblKey=GMN",
+          "filename": "261022_보도자료_풍력발전 유지보수 안전수칙(OPS) 배포.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575477&tblKey=GMN",
+          "filename": "261022_보도자료_풍력발전 유지보수 안전수칙(OPS) 배포.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T04:30:42.057661+00:00"
+    },
+    {
+      "title": "(동정) 황종우 해수부 장관, 원양 업계와 지속 가능한 발전 방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786136",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "황종우 해수부 장관, 원양 업계와 지속 가능한 발전 방안 논의- 어선 현대화, 해외어장 확보, 선원 근무 여건 개선 등 현장 의견 청취 황종우 해양수산부 장관은 10월 22일(목) 한국원양산업협회장과 원양선사 대표들의 초청으로 마련된 간담회에 참석해 원양산업의 주요 현안과 발전 방안에 대한 의견을 나누었다. 이번 간담회에서는 노후 어선 교체, 환경 규제 대응, 안정적인 해외 어장 확보, 국제 협력 강화, 선원 확보 및 근무 여건 개선 등을 위한 지원 방안과 제도 개선 과제를 논의했다. 황 장관은 국민의 먹거리 공급과 원양산업의 발전",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575476&tblKey=GMN",
+          "filename": "261022_(동정)_황종우_해수부_장관__원양업계와_지속_가능한_발전방안_논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575475&tblKey=GMN",
+          "filename": "261022_(동정)_황종우_해수부_장관__원양업계와_지속_가능한_발전방안_논의.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T04:30:42.057661+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
