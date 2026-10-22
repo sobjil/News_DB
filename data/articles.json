@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T20:56:44.224738+00:00",
-  "count": 1802,
+  "updated": "2026-10-22T21:11:56.521731+00:00",
+  "count": 1803,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,32 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "농식품부, 연대와 협력으로 농촌의 가치를 높인다! 농업·농촌형 예비사회적기업 7개소 신규 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786214",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 농촌의 돌봄 공백과 일자리 부족, 농가소득 정체 등을 해결하고 공동체적 가치를 실천할 '농업·농촌형 예비사회적기업' 7개소를 새롭게 지정했다고 밝혔다. 이번에 지정된 기업들은 개별기업 수준에서 창출하는 사회적 성과를 넘어, 지역사회 다양한 주체들과 긴밀하게 소통하며 농촌 생활권 전반의 변화를 도모하고 연대와 협력 기반의 지속가능한 상생 모델을 구축하고자 한다는 점이 특징적이다. 우곡봄봄사회적협동조합(경상북도 고령), 농업법인 ㈜꽃담(경상남도 함양), 농업회사법인 (유)온도농장(전북특",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575769&tblKey=GMN",
+          "filename": "(국립농산물품질관리원) “우리 농산물 100% 전통식품“ 급식 학생 입맛 사로잡았다.(10. 22. 11시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575768&tblKey=GMN",
+          "filename": "(국립농산물품질관리원) “우리 농산물 100% 전통식품“ 급식 학생 입맛 사로잡았다.(10. 22. 11시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575767&tblKey=GMN",
+          "filename": "(국립농산물품질관리원) “우리 농산물 100% 전통식품“ 급식 학생 입맛 사로잡았다.(10. 22. 11시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-10-22T21:11:50.588806+00:00"
+    },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786080",
@@ -1735,8 +1761,8 @@
           "filename": "(북부지방산림청) 북부지방산림청, 제4차 국유림위원회 개최.hwp"
         }
       ],
-      "_attAt": "2026-10-22T15:11:42.360109+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-22T21:11:50.588806+00:00",
+      "_attRev": 2
     },
     {
       "title": "한·중 해양경계획정 제16차 국장급 회담 개최(10.22.)",
