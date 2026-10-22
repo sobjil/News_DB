@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T01:39:57.751300+00:00",
-  "count": 1832,
+  "updated": "2026-10-22T01:54:47.488064+00:00",
+  "count": 1834,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -575,6 +575,48 @@
         }
       ],
       "_attAt": "2026-10-22T01:39:41.524699+00:00"
+    },
+    {
+      "title": "조용범 차관, 미래대응기금 정책 심포지엄 축사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786108",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "조용범 기획예산처 차관은 10.22일(목) 은행회관에서 개최된 미래대응기금 정책 심포지엄에 참석하여 축사를 하였습니다. 자세한 내용 첨부파일을 참고하여 주시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575379&tblKey=GMN",
+          "filename": "261022 미래대응기금 정책 심포지엄.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575378&tblKey=GMN",
+          "filename": "261022 미래대응기금 정책 심포지엄.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T01:54:40.896844+00:00"
+    },
+    {
+      "title": "성평등가족부, 2025년도 공공기관 폭력예방교육 등 실적 점검결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786109",
+      "agency": "성평등가족부",
+      "agencyCode": "mogef",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "성평등가족부, 2025년도 공공기관 폭력예방교육 등 실적 점검결과 발표주요 내용□ 종사자 94.6%, 기관장 99.8%, 고위직 95.5%, 학생 90.6% 참여 □ 성희롱·성폭력 사건 발생기관 전부 재발방지 대책 수립□ 성희롱·성폭력 사건 지속 증가에 따른 피해자 보호 및 기관 책무성 강화 추진□ 성평등가족부(장관 원민경)는 지난해 공공기관의 폭력예방교육 실시율이 99.9%로 3년 연속 같은 수준*을 유지하고, 교육 부진기관은 전년보다 감소한 것으로 나타났다고 22일(목) 밝혔다. * 실시율(대상기관 개수) : ('23) 99.9",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575389&tblKey=GMN",
+          "filename": "261022_보도자료_ 2025 공공기관 폭력예방교육 실적점검 결과_최종배포본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575388&tblKey=GMN",
+          "filename": "261022_보도자료_ 2025 공공기관 폭력예방교육 실적점검 결과_최종배포본.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T01:54:40.896844+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
