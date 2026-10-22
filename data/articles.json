@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T07:01:46.278698+00:00",
-  "count": 1870,
+  "updated": "2026-10-22T07:16:56.735342+00:00",
+  "count": 1872,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -345,7 +345,8 @@
           "filename": "[10.22.목 포럼 시작(10시) 이후] WHO·코크란 등 글로벌 전문기구 모여 통합돌봄에서 재활의 역할과 전략 논의.pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "권오을 장관， 최규하 박정희 전 대통령 묘소 참배",
@@ -366,7 +367,8 @@
           "filename": "261022 보도자료(권오을 장관， 최규하 박정희 전 대통령 묘소 참배)최종.pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "권오을 장관， 임채원 국가인재원장과 신임 공직자 보훈역사 체험 확대 논의",
@@ -387,7 +389,8 @@
           "filename": "261022 보도자료(권오을 장관， 임채원 국가인재원장과 신임 공직자 보훈역사 체험 확대 논의)최종.pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "AI관련 표시광고 가이드라인 초안 의견청취 실시",
@@ -413,7 +416,8 @@
           "filename": "261022(참고) [별첨] AI관련 표시광고 가이드라인 초안 의견청취 실시.pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "가을 나들이, 단풍과 축제가 있는 수목원으로",
@@ -425,21 +429,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575286&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575326&tblKey=GMN",
           "filename": "(261022)보도자료-가을_나들이，_단풍과_축제가_있는_수목원으로.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575288&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575328&tblKey=GMN",
           "filename": "(261022)보도자료-가을_나들이，_단풍과_축제가_있는_수목원으로.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575287&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575327&tblKey=GMN",
           "filename": "(261022)보도자료-가을_나들이，_단풍과_축제가_있는_수목원으로.hwp"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "우주항공 · 양자 산업을 국민성장펀드의 지원대상산업에 추가하고자 합니다. - 한국산업은행법 시행령 개정령안 입법예고(10.22~12.1일)",
@@ -460,7 +465,8 @@
           "filename": "261022(보도참고) 우주항공 · 양자 산업을 국민성장펀드의 지원대상산업에 추가하고자 합니다..pdf"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "시·공간 데이터로 산림탄소의 현재와 미래를 진단한다 - 국립산림과학원, 지상관측?위성정보 연계한 산림탄소 MRV 발전 방향 모색",
@@ -1380,6 +1386,48 @@
         }
       ],
       "_attAt": "2026-10-22T07:01:42.523478+00:00"
+    },
+    {
+      "title": "개인정보위, PHP 보안 취약점 관련 개인정보 유출 예방조치 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786156",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "개인정보위, PHP 보안 취약점 관련 개인정보 유출 예방조치 당부-PHP 보안 패치 및 DB 관리도구 접근통제 등 긴급 보호조치 안내-개인정보 대량조회, 반출 등 의심스러운 접속 점검 등 관리 체계 강화 개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 최근 공개된 PHP 보안 취약점과 관련하여 공공기관과 민간기업 등 개인정보처리자에게 개인정보 유출 예방을 위한 보호조치를 당부했다. 지난 10월 21일 발표된 'PHP2Shell'은 공격자가 별도의 로그인이나 인증 절차 없이도 웹서버에서 임의의 악성 명령을 실행할 수 있는 취",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575544&tblKey=GMN",
+          "filename": "[261022 즉시보도] 개인정보위, PHP 보안 취약점 관련 개인정보 유출 예방조치 당부(사전실태점검과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575545&tblKey=GMN",
+          "filename": "[261022 즉시보도] 개인정보위, PHP 보안 취약점 관련 개인정보 유출 예방조치 당부(사전실태점검과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T07:16:41.770053+00:00"
+    },
+    {
+      "title": "지방세 환급금, 이제 평소 쓰던 민간 앱에서 간편하게 확인하고 신청까지 한 번에!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786158",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "- 민간 앱 활용, ｢지방세 환급금 조회･환급 서비스｣ 업무협약(10.22.)- 국민이 익숙한 민간 앱에서 지방세 환급금 조회 및 지급 청구 가능('26.12월~)- 공공의 행정정보와 민간의 디지털･금융 서비스 연계로 국민 편의 제고 행정안전부(장관 윤호중)는 국민에게 더욱 편리한 납세 서비스를 제공하기 위해 금융･플랫폼 기업*과 손을 맞잡는다. * 카카오 등 온라인 플랫폼을 기반으로 금융 및 다양한 서비스를 제공하는 기업 행정안전부는 10월 22일(목) 민간 앱을 활용한 ｢지방세 환급금 조회･환급 서비스｣의 성공적인 추진을 위해 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575548&tblKey=GMN",
+          "filename": "261023 (16시) 지방세 환급금 이제 평소 쓰던 민간 앱에서 간편하게 확인하고 신청까지 한 번에!(지방세정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575549&tblKey=GMN",
+          "filename": "261023 (16시) 지방세 환급금 이제 평소 쓰던 민간 앱에서 간편하게 확인하고 신청까지 한 번에!(지방세정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T07:16:41.770053+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
@@ -3618,16 +3666,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575255&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575302&tblKey=GMN",
           "filename": "261021 (통일부 보도자료) 통일부 장관, WHO 사무총장 면담.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575254&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575301&tblKey=GMN",
           "filename": "261021 (통일부 보도자료) 통일부 장관 WHO 사무총장 면담.hwp"
         }
       ],
-      "_attAt": "2026-10-22T01:09:41.868374+00:00"
+      "_attAt": "2026-10-22T07:16:41.770053+00:00",
+      "_attRev": 1
     },
     {
       "title": "모두의카드 카드정보 현행화하지 않은 이용자는 10월 26일까지 현행화하세요!",
