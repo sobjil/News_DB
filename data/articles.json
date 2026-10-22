@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T06:00:47.017389+00:00",
-  "count": 1864,
+  "updated": "2026-10-22T06:15:48.887809+00:00",
+  "count": 1865,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1259,6 +1259,27 @@
         }
       ],
       "_attAt": "2026-10-22T05:45:42.220816+00:00"
+    },
+    {
+      "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786149",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-22T00:00:00+09:00",
+      "description": "- 감독결과, 206건 위반, 61건 사법처리, 145건 과태료 부과 예정- 감독과정에서 확인된 산재은폐, 즉시 범죄인지 및 수사 착수 고용노동부는 '26.10.22.(목) 국회와 언론 등을 통해 제기된 쿠팡 계열사의 산재은폐, 불법파견 등 노동관계법 위반 의혹에 대한 기획감독 결과와, 산재은폐 등 고발 사건에 대한 수사 결과를 발표했다. 기획감독은 산업안전 분야와 노동분야로 나누어 실시하였다. 산업안전 감독은 '26.3.16.부터 쿠팡, 쿠팡풀필먼트서비스, 쿠팡로지스틱스(이하 '쿠팡 계열사') 물류센터 및 배송캠프 105개소를 대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575516&tblKey=GMN",
+          "filename": "261022_보도자료_쿠팡 산업안전·근로기준 감독 결과 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575515&tblKey=GMN",
+          "filename": "261022_보도자료_쿠팡 산업안전·근로기준 감독 결과 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-10-22T06:15:45.176734+00:00"
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
