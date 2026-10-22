@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:19:47.424491+00:00",
+  "updated": "2026-10-22T10:34:45.857089+00:00",
   "count": 1890,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1089,16 +1089,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575478&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575480&tblKey=GMN",
           "filename": "261022_보도자료_풍력발전 유지보수 안전수칙(OPS) 배포.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575477&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575479&tblKey=GMN",
           "filename": "261022_보도자료_풍력발전 유지보수 안전수칙(OPS) 배포.pdf"
         }
       ],
-      "_attAt": "2026-10-22T04:30:42.057661+00:00"
+      "_attAt": "2026-10-22T10:34:41.069228+00:00",
+      "_attRev": 1
     },
     {
       "title": "(동정) 황종우 해수부 장관, 원양 업계와 지속 가능한 발전 방안 논의",
@@ -1119,7 +1120,8 @@
           "filename": "261022_(동정)_황종우_해수부_장관__원양업계와_지속_가능한_발전방안_논의.pdf"
         }
       ],
-      "_attAt": "2026-10-22T04:30:42.057661+00:00"
+      "_attAt": "2026-10-22T10:34:41.069228+00:00",
+      "_attRev": 1
     },
     {
       "title": "7대 SEED, 분야별 이행전략 수립 본격화",
