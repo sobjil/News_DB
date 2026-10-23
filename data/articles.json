@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T06:11:53.039099+00:00",
-  "count": 1871,
+  "updated": "2026-10-23T06:26:49.431745+00:00",
+  "count": 1874,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -208,7 +208,8 @@
           "filename": "(보도자료) 베트남 진출 기업들을 위한 법률 안내서 나온다 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:12:43.669230+00:00"
+      "_attAt": "2026-10-23T06:26:41.681771+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청 시설공사 주간('26.10.26.~'26.10.30.)입찰 동향",
@@ -1540,6 +1541,74 @@
         }
       ],
       "_attAt": "2026-10-23T06:11:41.008447+00:00"
+    },
+    {
+      "title": "경찰대학 치안정책연구소, 「수사·기소 분리에 따른 바람직한 경찰 수사체계의 방향」 학술 발표회(세미나) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786305",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "경찰대학 치안정책연구소, 「수사·기소 분리에 따른 바람직한 경찰 수사체계의 방향」 학술 발표회(세미나) 개최 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576159&tblKey=GMN",
+          "filename": "261023(1330) 바람직한 경찰 수사체계의 방향 학술대회 개최(경찰대학).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576160&tblKey=GMN",
+          "filename": "261023(1330) 바람직한 경찰 수사체계의 방향 학술대회 개최(경찰대학).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T06:26:41.681771+00:00"
+    },
+    {
+      "title": "관세청 인사(부이사관 승진)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786304",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "보 도 자 료 관세청 인사－ 부이사관 승진 (2026년 10월 23일자) 관세청 대변인 정 구 천 (鄭求天) 관세평가분류원장오 현 진 (吳鎭) 인천공항세관 여행자통관1국장 강 병 로 (姜秉輅)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576149&tblKey=GMN",
+          "filename": "261023 관세청 인사(부이사관 승진).hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576151&tblKey=GMN",
+          "filename": "261023 부이사관 승진 프로필.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576150&tblKey=GMN",
+          "filename": "261023 관세청 인사(부이사관 승진).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576152&tblKey=GMN",
+          "filename": "261023 부이사관 승진 프로필.pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T06:26:41.681771+00:00"
+    },
+    {
+      "title": "비무장지대 군사분계선 관련 군사당국회담 제안을 위한 담화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786306",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "비무장지대 군사분계선 관련 군사당국회담 제안을 위한 담화우리 국방부는 최근 수년간 북한군의 군사분계선 일대 전술도로와 철책선 설치, 지뢰매설과 그 과정에서 군사분계선 침범상황을 예의주시해 왔습니다.작년 11월에는 쌍방간 군사분계선 위치에 대한인식차이를 해소하기 위해남북군사당국회담을 제안했지만, 북측은 호응하지 않고 있습니다.그리고 지난 9월 21일우리측의 비무장지대 수색작전간지뢰가 폭발하여 우리 장병들이 부상당한 사실이 있었으며, 우리 군당국의 조사결과 북측이 군사분계선 이남 지역에매설한 지뢰와 관련된 것으로 확인되었습니다.남북간 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576161&tblKey=GMN",
+          "filename": "261023 [국방부 대북 담화문] 비무장지대 군사분계선 관련 군사당국회담 제안을 위한 담화_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-23T06:26:41.681771+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
