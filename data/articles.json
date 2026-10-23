@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T00:42:51.354959+00:00",
-  "count": 1814,
+  "updated": "2026-10-23T00:54:45.285477+00:00",
+  "count": 1815,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -323,6 +323,27 @@
         }
       ],
       "_attAt": "2026-10-23T00:42:41.882034+00:00"
+    },
+    {
+      "title": "'26.10월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786227",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "재정경제부는 최근 국고채 발행실적 및 수급여건 등을 감안하여 '26.10월에는 「모집 방식 비경쟁인수」를 통한 국고채 발행을 실시하지 않을 계획임을 알려드립니다.자세한 내용은 첨부를 참고하시기 바랍니다.문의. 재정경제부 국고정책관 국채정책과 김선익 (044-215-5131)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575825&tblKey=GMN",
+          "filename": "261022 [보도자료] 26.10월 모집 방식 비경쟁인수 국고채 발행계획.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575826&tblKey=GMN",
+          "filename": "261022 [보도자료] 26.10월 모집 방식 비경쟁인수 국고채 발행계획.pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T00:54:41.079309+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
