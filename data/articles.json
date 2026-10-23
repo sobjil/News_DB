@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T06:26:49.431745+00:00",
-  "count": 1874,
+  "updated": "2026-10-23T06:41:52.102434+00:00",
+  "count": 1875,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -230,7 +230,8 @@
           "filename": "261023_(보도자료)_시설공사 주간입찰동향.pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:27:40.971747+00:00"
+      "_attAt": "2026-10-23T06:41:41.615838+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 대한건축학회서'스마트건설기술 기반 공공공사 혁신'정책방향 모색",
@@ -242,16 +243,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575804&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575978&tblKey=GMN",
           "filename": "261023_(보도자료)_조달청 대한건축학회서 ‘스마트건설기술 기반 공공공사 혁신’ 정책방향 모색.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575803&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575977&tblKey=GMN",
           "filename": "261023_(보도자료)_조달청 대한건축학회서 ‘스마트건설기술 기반 공공공사 혁신’ 정책방향 모색.pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:27:40.971747+00:00"
+      "_attAt": "2026-10-23T06:41:41.615838+00:00",
+      "_attRev": 1
     },
     {
       "title": "우리나라 최초 국제 유류오염보상기금 합동감사기구 위원 선출",
@@ -272,7 +274,8 @@
           "filename": "261022 (즉시) 우리나라 최초 국제유류오염보상기금 합동감사기구 위원 선출(해사안전정책과).pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:27:40.971747+00:00"
+      "_attAt": "2026-10-23T06:41:41.615838+00:00",
+      "_attRev": 1
     },
     {
       "title": "(참고) 노동과 함께하는 산업전환의 토대, '정의로운전환 특별지구' 지정기준 행정예고",
@@ -1609,6 +1612,27 @@
         }
       ],
       "_attAt": "2026-10-23T06:26:41.681771+00:00"
+    },
+    {
+      "title": "경찰대학, 치안데이터와 현장 연구로 '안전한 인천'의 해법 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786307",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "경찰대학, 치안데이터와 현장 연구로 '안전한 인천'의 해법 모색 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576175&tblKey=GMN",
+          "filename": "261023(1500) &#039;안전한 인천의 해법&#039; 경찰대학 등 공동 학술세미나 개최(경찰대학).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576176&tblKey=GMN",
+          "filename": "261023(1500) &#039;안전한 인천의 해법&#039; 경찰대학 등 공동 학술세미나 개최(경찰대학).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T06:41:41.615838+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
@@ -3411,8 +3435,8 @@
           "filename": "261022_한성숙 국무총리 제7차 주택공급 현장점검(舊 공항고등학교 부지) 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:27:40.971747+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-23T06:41:41.615838+00:00",
+      "_attRev": 3
     },
     {
       "title": "[참고] 국제교통포럼(ITF) 김영태 사무총장 3연임 가능성 열려",
@@ -3433,8 +3457,8 @@
           "filename": "261022(참고) 국제교통포럼 김영태 사무총장 3연임 가능성 열려(교통정책총괄과).pdf"
         }
       ],
-      "_attAt": "2026-10-23T00:27:40.971747+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-23T06:41:41.615838+00:00",
+      "_attRev": 3
     },
     {
       "title": "\"영웅의 헌신, 일상 속 기억으로\" 소방청, 제3회 '119메모리얼데이' 추모문화제 성료",
