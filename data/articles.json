@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T05:11:57.235504+00:00",
-  "count": 1858,
+  "updated": "2026-10-23T05:26:56.261935+00:00",
+  "count": 1864,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -177,26 +177,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575784&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575913&tblKey=GMN",
           "filename": "[26.10.22.(목) 보도참고자료] “시험 잘 보는 약은 없습니다”… 식약처, 프로프라놀롤 성분 안전 사용 안내.hwpx"
         },
         {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575786&tblKey=GMN",
-          "filename": "[26.10.23.(금), 보도참고자료] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보.hwpx"
-        },
-        {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575785&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575914&tblKey=GMN",
           "filename": "[26.10.22.(목) 보도참고자료] “시험 잘 보는 약은 없습니다”… 식약처, 프로프라놀롤 성분 안전 사용 안내.pdf"
-        },
-        {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575787&tblKey=GMN",
-          "filename": "[26.10.23.(금), 보도참고자료] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보.pdf"
         }
       ],
-      "_attAt": "2026-10-22T23:11:43.506661+00:00"
+      "_attAt": "2026-10-23T05:26:42.026570+00:00",
+      "_attRev": 1
     },
     {
       "title": "베트남 진출 기업들을 위한 법률 안내서 나온다",
@@ -1256,6 +1247,132 @@
         }
       ],
       "_attAt": "2026-10-23T05:11:41.921753+00:00"
+    },
+    {
+      "title": "교정(校庭)과 교정(矯正)이 만나, 새로운 길을 열다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786294",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "교정(校庭)과 교정(矯正)이 만나, 새로운 길을 열다- 법무부, 동국대서 학술 포럼·제2차 전국 교정공무원 토론회 열어 - 교정행정의 미래를 설계하는 자리에 학계와 현장이 함께 했습니다. 법무부(장관 직무대행 차관 이진수)는 2026. 10. 22.(목) 13:00 동국대학교에서 교정청 신설 관련 ｢학술 포럼 및 제2차 전국 교정공무원 토론회｣를 개최했습니다.[※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576058&tblKey=GMN",
+          "filename": "(보도자료) 교정(校庭)과 교정(矯正)이 만나, 새로운 길을 열다 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576057&tblKey=GMN",
+          "filename": "(보도자료) 교정(校庭)과 교정(矯正)이 만나, 새로운 길을 열다 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
+    },
+    {
+      "title": "식약처, 세계를 선도하는 규제합리화로 K-바이오 성장에 속도를 더한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786293",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "식약처, 세계를 선도하는 규제합리화로 K-바이오 성장에 속도를 더한다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576055&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도자료] 식약처, 세계를 선도하는 규제합리화로 K-바이오 성장에 속도를 더한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576056&tblKey=GMN",
+          "filename": "[26.10.22.(목) 보도자료] 식약처, 세계를 선도하는 규제합리화로 K-바이오 성장에 속도를 더한다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
+    },
+    {
+      "title": "[보도자료] 규제합리화위원회 제2차 전체회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786291",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "\"성장에 날개를, 민생에 활력을, 지역에 미래를\"대통령 주재 규제합리화위원회 제2차 전체회의 개최- ➀메가프로젝트·5극3특 성장엔진 등 지방주도 성장 조기성과 창출 적극 뒷받침▸단일 법률 역대 최대 규제특례 + 범정부 지원을 결합한 초광역특구법 제정 추진▸메가프로젝트로봇·반도체·AI데이터센터·5극3특 성장엔진자율차·바이오 경쟁국 수준 규제 합리화- ➁창업기업 규제합리화를 통해 국가창업시대로의 전환 가속화▸획일적·경직적 창업 인정 기준, 불합리한 금융거래 등 창업 핵심 규제 해소▸과도한 서류 폐지, 분량과 양식 합리화 등 창업기업 행",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576039&tblKey=GMN",
+          "filename": "261022_규제합리화위원회 제2차 전체회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576040&tblKey=GMN",
+          "filename": "261022_규제합리화위원회 제2차 전체회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
+    },
+    {
+      "title": "[정부합동] '성장에 날개를, 민생에 활력을, 지역에 미래를' 대통령 주재 규제합리화위원회 제2차 전체회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786292",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "[정부합동] '성장에 날개를, 민생에 활력을, 지역에 미래를' 대통령 주재 규제합리화위원회 제2차 전체회의 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576054&tblKey=GMN",
+          "filename": "(정부합동)[26.10.22.(목) 보도자료]&amp;apos;성장에 날개를, 민생에 활력을, 지역에 미래를&amp;apos; 대통령 주재 규제합리화위원회 제2차 전체회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576053&tblKey=GMN",
+          "filename": "(정부합동)[26.10.22.(목) 보도자료]&amp;apos;성장에 날개를, 민생에 활력을, 지역에 미래를&amp;apos; 대통령 주재 규제합리화위원회 제2차 전체회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
+    },
+    {
+      "title": "한국고용노동교육원, 추계학술대회에서 세대상생을 위한 고용노동교육 발전방안 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786290",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "- 10월 23일 한국인사관리학회·한양인구문제연구원과 공동학술대회 개최- 고용노동교육 2.0시대, 세대상생을 위한 고용노동교육 발전방안 논의한국고용노동교육원(원장 이종선)은 오는 10월 23일(금) 한국인사관리학회, 한양인구문제연구소와 공동으로 추계학술대회를 개최하고, 세대상생을 위한 고용노동교육의 역할과 발전 방향을 논의한다고 밝혔다. 이번 학술대회는 인구구조 변화와 고령화, 노동시장 내 세대 구성의 다양화 등 변화하는 고용노동환경에 대응하여 세대 간 상생과 지속가능한 인적자원관리 방안을 모색하기 위해 마련되었다. 특히 한국고용노",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576037&tblKey=GMN",
+          "filename": "261023_보도자료_추계학술대회 공동개최(한국고용노동교육원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576038&tblKey=GMN",
+          "filename": "261023_보도자료_추계학술대회 공동개최(한국고용노동교육원).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
+    },
+    {
+      "title": "에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786289",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "▷ 4대 재설계 방향(①공공자료로 대체 ②신청서류 면제 ③서류 통폐합 ④제출정보 재활용)에 맞춰 창업기업의 규제부담 완화▷ 정책지원 등 주요 행정서비스 부문 사업당 평균 제출서류 가짓수 50.4% 및 서류 분량 37.4% 감소 예정기후에너지환경부(장관 김성환)는 10월 23일 오후 청와대에서 열리는 제2차 규제합리화위원회 전체회의에서 에너지·환경분야 창업기업 지원을 위한 행정서류 재설계 추진방안을 발표한다. 상대적으로 인력과 행정역량이 부족한 창업기업에게는 인·허가 뿐만 아니라 정책 지원을 위한 서비스를 신청하기 위한 서류 작성도 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576035&tblKey=GMN",
+          "filename": "에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576036&tblKey=GMN",
+          "filename": "에너지·환경분야 창업기업 행정 부담 경감을 위한 행정서류 간소화 추진(보도자료)(규제개혁 10.23).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T05:26:42.026570+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
