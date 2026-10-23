@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T06:56:54.520753+00:00",
-  "count": 1878,
+  "updated": "2026-10-23T07:11:48.886806+00:00",
+  "count": 1879,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -367,7 +367,8 @@
           "filename": "[261023 배포즉시] 대구디지털혁신진흥원 개인정보 이노베이션 존 본격 운영 시작(데이터안전정책과).pdf"
         }
       ],
-      "_attAt": "2026-10-23T01:09:42.013354+00:00"
+      "_attAt": "2026-10-23T07:11:41.265070+00:00",
+      "_attRev": 1
     },
     {
       "title": "법무부 교정본부, 메가스터디교육과 손잡고 교정공무원 자녀 교육 지원 나선다",
@@ -388,7 +389,8 @@
           "filename": "(보도자료) 법무부 교정본부, 메가스터디교육과 손잡고 교정공무원 자녀 교육 지원 나선다 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-10-23T01:09:42.013354+00:00"
+      "_attAt": "2026-10-23T07:11:41.265070+00:00",
+      "_attRev": 1
     },
     {
       "title": "남부권산불방지센터, '산불현장 통합지휘 합동훈련' 실시",
@@ -1719,6 +1721,32 @@
         }
       ],
       "_attAt": "2026-10-23T06:56:41.809800+00:00"
+    },
+    {
+      "title": "외교부 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786314",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576250&tblKey=GMN",
+          "filename": "[26-856](보도자료) 외교부 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576251&tblKey=GMN",
+          "filename": "[26-856](보도자료) 외교부 인사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576252&tblKey=GMN",
+          "filename": "국영문 이력서.hwp"
+        }
+      ],
+      "_attAt": "2026-10-23T07:11:41.265070+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
