@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T04:26:55.044123+00:00",
-  "count": 1848,
+  "updated": "2026-10-23T04:41:45.573473+00:00",
+  "count": 1849,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1041,6 +1041,27 @@
         }
       ],
       "_attAt": "2026-10-23T04:26:42.901089+00:00"
+    },
+    {
+      "title": "해외 스캠 조직, 세계 각국 경찰이 함께 잡는다 대한민국 주도 국제공조협의체(IICA) 첫 총회… 공동 대응 원칙 채택",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786273",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "해외 스캠 조직, 세계 각국 경찰이 함께 잡는다 대한민국 주도 국제공조협의체(IICA) 첫 총회… 공동 대응 원칙 채택 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575969&tblKey=GMN",
+          "filename": "261023(1200) 국제공조협의체 제1차 총회 개최(국제공조1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575970&tblKey=GMN",
+          "filename": "261023(1200) 국제공조협의체 제1차 총회 개최(국제공조1).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T04:41:42.029471+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
