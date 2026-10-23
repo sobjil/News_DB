@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T07:39:54.851337+00:00",
+  "updated": "2026-10-23T07:54:45.273637+00:00",
   "count": 1880,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -617,16 +617,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575875&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575903&tblKey=GMN",
           "filename": "261023_(보도자료)_계약이행능력 없는 기업에 빼앗긴 낙찰기회 진짜 일하는 기업에 돌려준다_배포용.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198575874&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575902&tblKey=GMN",
           "filename": "261023_(보도자료)_계약이행능력 없는 기업에 빼앗긴 낙찰기회 진짜 일하는 기업에 돌려준다_배포용.pdf"
         }
       ],
-      "_attAt": "2026-10-23T01:54:41.205972+00:00"
+      "_attAt": "2026-10-23T07:54:42.244793+00:00",
+      "_attRev": 1
     },
     {
       "title": "조세이 탄광 유해 DNA 감정 결과",
