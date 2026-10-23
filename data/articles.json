@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T00:05:41.619781+00:00",
-  "count": 1808,
+  "updated": "2026-10-23T00:12:48.242950+00:00",
+  "count": 1809,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -192,6 +192,27 @@
         }
       ],
       "_attAt": "2026-10-22T23:11:43.506661+00:00"
+    },
+    {
+      "title": "베트남 진출 기업들을 위한 법률 안내서 나온다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786220",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-10-23T00:00:00+09:00",
+      "description": "베트남 진출 기업들을 위한 법률 안내서 나온다- 법무부, 「해외진출기업 법률길라잡이 – 베트남편」 발간법무부(장관 직무대행 차관 이진수)는 우리 기업의 안정적인 베트남 시장 진출과 현지에서 발생할 수 있는 법률 문제에 대한 대응을 지원하기 위해 『해외진출기업 법률 길라잡이–베트남 편(개정판)』을 발간하였습니다. [※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575802&tblKey=GMN",
+          "filename": "(보도자료) 베트남 진출 기업들을 위한 법률 안내서 나온다 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198575801&tblKey=GMN",
+          "filename": "(보도자료) 베트남 진출 기업들을 위한 법률 안내서 나온다 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-10-23T00:12:43.669230+00:00"
     },
     {
       "title": "[보도참고] 식약처, 축산물 신규 수출 정보 안내",
