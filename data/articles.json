@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T04:57:42.703529+00:00",
-  "count": 1885,
+  "updated": "2026-10-24T05:12:46.007263+00:00",
+  "count": 1886,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,6 +98,22 @@
         }
       ],
       "_attAt": "2026-10-24T03:12:40.676857+00:00"
+    },
+    {
+      "title": "아이들의 상상력이 인공지능을 만나는 첫 경험! 「전 국민 인공지능 경진대회」, 인공지능 창작대회 본선 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786340",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-24T00:00:00+09:00",
+      "description": "아이들의 상상력이 인공지능을 만나는 첫 경험! 「전 국민 인공지능 경진대회」, 인공지능 창작대회 본선 개최 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576373&tblKey=GMN",
+          "filename": "261026 조간 (보도) 아이들의 상상력이 AI를 만나는 첫 경험! 「전국민 AI 경진대회」, AI 창작대회 본선 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-24T05:12:41.128329+00:00"
     },
     {
       "title": "농식품부, 연대와 협력으로 농촌의 가치를 높인다! 농업·농촌형 예비사회적기업 7개소 신규 지정",
