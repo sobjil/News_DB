@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T05:12:42.467076+00:00",
-  "count": 1898,
+  "updated": "2026-10-25T05:27:47.404504+00:00",
+  "count": 1899,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -428,6 +428,27 @@
       ],
       "_attAt": "2026-10-25T03:57:42.292329+00:00",
       "_attRev": 3
+    },
+    {
+      "title": "태풍 '참피' 북상에 따라 제주·남해안 풍수해 위기경보 '주의'로 상향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786359",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-10-24T00:00:00+09:00",
+      "description": "- 행안부, 24일 18시부로 위기경보 수준 상향 … 선제적 대응체계 가동- 5개 시·도 현장상황관리관 긴급 파견 및 취약 시설물 집중 점검 행정안전부(장관 윤호중)는 제30호 태풍 '참피'의 영향으로 제주도 및 남해안 지역(전남광주, 부산, 울산, 경남)의 풍수해 재난 위기경보 수준을 10월 24일 18시를 기해 '관심'에서 '주의' 단계로 상향 조정하였다. 이번 조치는 10월 24일 16시에 제주도남쪽바깥먼바다와 남해동부바깥먼바다에 태풍예비특보가 발표*됨에 따라, 자연재난대응국장 주재로 상황판단회의를 거쳐 결정하였다. * 발효 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576494&tblKey=GMN",
+          "filename": "261024 (즉시보도) 태풍 참피 북상에 따라 제주 남해안 풍수해 위기경보 주의로 상향(자연재난대응과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576495&tblKey=GMN",
+          "filename": "261024 (즉시보도) 태풍 참피 북상에 따라 제주 남해안 풍수해 위기경보 주의로 상향(자연재난대응과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-25T05:27:43.827707+00:00"
     },
     {
       "title": "농식품부, 연대와 협력으로 농촌의 가치를 높인다! 농업·농촌형 예비사회적기업 7개소 신규 지정",
