@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T23:57:43.155953+00:00",
-  "count": 1884,
+  "updated": "2026-10-25T00:12:45.785030+00:00",
+  "count": 1885,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "인공지능 시대, '인문학은 질문합니다.'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786342",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-10-25T00:00:00+09:00",
+      "description": "인공지능 시대, '인문학은 질문합니다.'",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576451&tblKey=GMN",
+          "filename": "[교육부 10-26(월) 조간보도자료] 인공지능 시대 인문학은 질문합니다.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-25T00:12:42.078765+00:00"
+    },
     {
       "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786330",
