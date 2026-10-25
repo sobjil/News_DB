@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T10:42:43.272013+00:00",
-  "count": 1899,
+  "updated": "2026-10-25T10:57:46.599261+00:00",
+  "count": 1900,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -364,6 +364,27 @@
       ],
       "_attAt": "2026-10-25T09:12:42.299352+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "\"신규 지방노동감독관, '감독학교'에서 베테랑의 노하우 배운다\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786381",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-10-25T00:00:00+09:00",
+      "description": "- 숙련 감독관 노하우를 36개 점검 항목으로 표준화, 9개 업종 감독 실습- 법 시행('26.12.8.) 앞두고 5개 지방정부의 감독 수행능력 점검·보완고용노동부(장관 김영훈)는 10월 26일(월) 신규 지방노동감독관을 위한 실습교육인 '감독학교'를 시작한다고 밝혔다. 감독학교는 숙련 감독관의 현장 노하우를 담은 표준 매뉴얼로 9개 업종 모의 사업장에 대해 감독 全 과정을 실습한다. 아울러 12월 8일 지방감독 시행에 앞서, 경기·제주 등 5개 지방정부의 위임사무 수행능력도 점검한다.[ 숙련 감독관 노하우를 표준화한 매뉴얼 개발 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576547&tblKey=GMN",
+          "filename": "261025_보도자료_제1차_신규_지방노동감독관_감독수사학교_교육_및_지방정부_감독_수행능력_점검_개시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576546&tblKey=GMN",
+          "filename": "261025_보도자료_제1차_신규_지방노동감독관_감독수사학교_교육_및_지방정부_감독_수행능력_점검_개시.pdf"
+        }
+      ],
+      "_attAt": "2026-10-25T10:57:42.693303+00:00"
     },
     {
       "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
