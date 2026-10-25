@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T01:12:43.087221+00:00",
-  "count": 1885,
+  "updated": "2026-10-25T01:27:45.711949+00:00",
+  "count": 1886,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -77,6 +77,27 @@
         }
       ],
       "_attAt": "2026-10-25T00:12:42.078765+00:00"
+    },
+    {
+      "title": "2026 아이치-나고야 아시안패러게임 대한민국 선수단 귀국 환영",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786343",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-25T00:00:00+09:00",
+      "description": "2026 아이치-나고야 아시안패러게임 대한민국 선수단 귀국 환영 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1025]문체부보도자료-2026 아이치-나고야 아시안패러게임 대한민국 선수단 귀국 환영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576453&tblKey=GMN",
+          "filename": "[1025]문체부보도자료-2026 아이치-나고야 아시안패러게임 대한민국 선수단 귀국 환영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576452&tblKey=GMN",
+          "filename": "[1025]문체부보도자료-2026 아이치-나고야 아시안패러게임 대한민국 선수단 귀국 환영.pdf"
+        }
+      ],
+      "_attAt": "2026-10-25T01:27:41.070358+00:00"
     },
     {
       "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
