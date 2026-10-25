@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T23:03:43.862061+00:00",
-  "count": 1903,
+  "updated": "2026-10-25T23:18:48.031815+00:00",
+  "count": 1905,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -103,6 +103,48 @@
         }
       ],
       "_attAt": "2026-10-25T21:33:40.580635+00:00"
+    },
+    {
+      "title": "2026년 문화예술 유공 시상식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786386",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "2026년 문화예술 유공 시상식 개최 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1026]문체부보도자료-2026년 문화예술 유공 시상식 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576568&tblKey=GMN",
+          "filename": "[1026]문체부보도자료-2026년 문화예술 유공 시상식 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576567&tblKey=GMN",
+          "filename": "[1026]문체부보도자료-2026년 문화예술 유공 시상식 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-25T23:18:42.493707+00:00"
+    },
+    {
+      "title": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786385",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576565&tblKey=GMN",
+          "filename": "[26.10.26.(월) 보도자료] 식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576566&tblKey=GMN",
+          "filename": "[26.10.26.(월) 보도자료] 식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한.pdf"
+        }
+      ],
+      "_attAt": "2026-10-25T23:18:42.493707+00:00"
     },
     {
       "title": "인공지능 시대, '인문학은 질문합니다.'",
