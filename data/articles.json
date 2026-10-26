@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T22:49:03.617684+00:00",
-  "count": 1997,
+  "updated": "2026-10-26T23:03:46.150423+00:00",
+  "count": 1998,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,6 +98,27 @@
         }
       ],
       "_attAt": "2026-10-26T22:18:43.383221+00:00"
+    },
+    {
+      "title": "「문화예술진흥법」 개정 논의, 예술 현장 목소리 듣는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786580",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "「문화예술진흥법」 개정 논의, 예술 현장 목소리 듣는다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1027]문체부보도자료-문화예술진흥법 개정을 위한 정책토론회 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577954&tblKey=GMN",
+          "filename": "[1027]문체부보도자료-문화예술진흥법 개정을 위한 정책토론회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577953&tblKey=GMN",
+          "filename": "[1027]문체부보도자료-문화예술진흥법 개정을 위한 정책토론회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T23:03:42.576865+00:00"
     },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
