@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T00:48:49.193476+00:00",
-  "count": 1928,
+  "updated": "2026-10-26T01:03:46.402759+00:00",
+  "count": 1930,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -481,6 +481,43 @@
         }
       ],
       "_attAt": "2026-10-26T00:48:41.353759+00:00"
+    },
+    {
+      "title": "프랑스 참전용사 유해봉환식 27일 인천국제공항서 거행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786420",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "261026 보도자료 (프랑스 참전용사 유해봉환식 27일 인천국제공항서 거행)최종",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576714&tblKey=GMN",
+          "filename": "261026 보도자료 (프랑스 참전용사 유해봉환식 27일 인천국제공항서 거행)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576713&tblKey=GMN",
+          "filename": "261026 보도자료 (프랑스 참전용사 유해봉환식 27일 인천국제공항서 거행)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T01:03:40.493091+00:00"
+    },
+    {
+      "title": "과기정통부, ㈜더존비즈온 침해사고 조사 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786421",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "과기정통부, ㈜더존비즈온 침해사고 조사 착수 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576716&tblKey=GMN",
+          "filename": "261026 즉시 (보도) 과기정통부, (주)더존비즈온 침해사고 조사 착수.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-26T01:03:40.493091+00:00"
     },
     {
       "title": "인공지능 시대, '인문학은 질문합니다.'",
