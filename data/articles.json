@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T20:48:50.125544+00:00",
-  "count": 1995,
+  "updated": "2026-10-26T21:03:49.455804+00:00",
+  "count": 1996,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "'26년 노후 산업단지 재생사업 공모 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786578",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "'26년 노후 산업단지 재생사업 공모 착수 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577950&tblKey=GMN",
+          "filename": "261027(석간) ‘26년 노후 산업단지 재생사업 공모 착수(산업입지정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577951&tblKey=GMN",
+          "filename": "261027(석간) ‘26년 노후 산업단지 재생사업 공모 착수(산업입지정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T21:03:43.827797+00:00"
+    },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786384",
@@ -2410,8 +2431,8 @@
           "filename": "(261026)동부지방산림청， 현장의 ‘아차사고’에서 중대재해 예방 해법 찾는다.hwpx"
         }
       ],
-      "_attAt": "2026-10-26T15:03:41.459899+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-26T21:03:43.827797+00:00",
+      "_attRev": 2
     },
     {
       "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정",
