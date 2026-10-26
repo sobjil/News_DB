@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T08:18:48.549614+00:00",
-  "count": 2005,
+  "updated": "2026-10-26T08:33:51.294386+00:00",
+  "count": 2008,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1004,7 +1004,8 @@
           "filename": "261026_336차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료.pdf"
         }
       ],
-      "_attAt": "2026-10-26T02:33:40.496255+00:00"
+      "_attAt": "2026-10-26T08:33:42.157903+00:00",
+      "_attRev": 1
     },
     {
       "title": "6만 기술사, 재난재해 대응기술 실증을 주도한다",
@@ -2274,6 +2275,69 @@
         }
       ],
       "_attAt": "2026-10-26T08:18:40.974439+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, 무안공항 찾아 12·29여객기 참사 유가족 만나, \"유가족 일상회복 위해 계속해서 노력할 것\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786546",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, 무안공항 찾아 12·29여객기 참사 유가족 만나, \"유가족 일상회복 위해 계속해서 노력할 것\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577821&tblKey=GMN",
+          "filename": "261026(동정)_홍지선_장관__무안공항_찾아_12·29여객기_참사_유가족_만나__“유가족_일상회복_위해_계속해서_노력할_것”(기획총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577822&tblKey=GMN",
+          "filename": "261026(동정)_홍지선_장관__무안공항_찾아_12·29여객기_참사_유가족_만나__“유가족_일상회복_위해_계속해서_노력할_것”(기획총괄과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T08:33:42.157903+00:00"
+    },
+    {
+      "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786545",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담- 자율운항선박 국제 규범 마련 및 수산물 교역 확대 등에 대한 협력 방안 논의 남재헌 해양수산부 차관은 10월 26일(월) '세계 해사의 날' 기념 행사에 참석한 마리안네 시베르첸 네스(Marianne Sivertsen Næss) 노르웨이 통상산업수산부 수산해양정책장관과 면담을 가졌다. 남 차관은 한국과 노르웨이가 국제해사기구(IMO) A그룹의 이사국으로서 해운·해사 분야에서 오랜 협력 관계를 유지해 온 점을 높이 평가하고, 자율운항선박(MASS) 국제규범 마련 등 글로벌",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577820&tblKey=GMN",
+          "filename": "261026_(동정)_남재헌_차관__노르웨이_수산해양정책_장관과_면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577819&tblKey=GMN",
+          "filename": "261026_(동정)_남재헌_차관__노르웨이_수산해양정책_장관과_면담.pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T08:33:42.157903+00:00"
+    },
+    {
+      "title": "'우주쓰레기 청소선 '승리호'가 현실로' 우주물체 능동제어 위성 조립 전 최종상태 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786544",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 10월 26일(월) 한국과학기술원(KAIST) 인공위성연구소에서 우주쓰레기* 제거 임무를 수행하는 우주물체 능동제어위성(Active Debris Removal Satellite, ADR-SAT)의 시스템통합준비검토회의**를 개최했다고 밝혔다. * 우주쓰레기: 기능을 잃은 채 지구 궤도에 남아 있는 인공물체로 임무가 끝난 위성, 발사체 잔해, 충돌·폭발로 생긴 파편 등을 포함 ** 시스템통합준비검토회의(System Integration Readiness Review, S-IRR): 부품, 구성품 및 서브시스",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577809&tblKey=GMN",
+          "filename": "261026(배포즉시) &#039;우주쓰레기 청소선 ‘승리호’가 현실로&#039; 우주물체 능동제어 위성 조립 전 최종상태 점검.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577808&tblKey=GMN",
+          "filename": "261026(배포즉시) &#039;우주쓰레기 청소선 ‘승리호’가 현실로&#039; 우주물체 능동제어 위성 조립 전 최종상태 점검.hwp"
+        }
+      ],
+      "_attAt": "2026-10-26T08:33:42.157903+00:00"
     },
     {
       "title": "인공지능 시대, '인문학은 질문합니다.'",
