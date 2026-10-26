@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T05:18:51.168215+00:00",
-  "count": 1990,
+  "updated": "2026-10-26T05:33:50.849698+00:00",
+  "count": 1992,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -116,16 +116,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198576568&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576637&tblKey=GMN",
           "filename": "[1026]문체부보도자료-2026년 문화예술 유공 시상식 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198576567&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198576636&tblKey=GMN",
           "filename": "[1026]문체부보도자료-2026년 문화예술 유공 시상식 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-25T23:18:42.493707+00:00"
+      "_attAt": "2026-10-26T05:33:42.811673+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한",
@@ -146,7 +147,8 @@
           "filename": "[26.10.26.(월) 보도자료] 식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한.pdf"
         }
       ],
-      "_attAt": "2026-10-25T23:18:42.493707+00:00"
+      "_attAt": "2026-10-26T05:33:42.811673+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"청년과 사회적기업이 함께 만든 성장과 변화의 이야기\" 「2026년도 사회적가치형 청년 일경험 지원사업 우수사례 수기 공모전」 개최",
@@ -1874,6 +1876,43 @@
         }
       ],
       "_attAt": "2026-10-26T05:18:41.404909+00:00"
+    },
+    {
+      "title": "치안현장의 숨은 영웅들... 국민의 평온한 일상을 지키다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786520",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "치안현장의 숨은 영웅들... 국민의 평온한 일상을 지키다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577315&tblKey=GMN",
+          "filename": "261027(조간용) 국민생명보호활동 특별성과 포상금 우수활동 선정(지역경찰운영).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577316&tblKey=GMN",
+          "filename": "261027(조간용) 국민생명보호활동 특별성과 포상금 우수활동 선정(지역경찰운영).pdf"
+        }
+      ],
+      "_attAt": "2026-10-26T05:33:42.811673+00:00"
+    },
+    {
+      "title": "중부지방산림청, 유관기관 합동 산불진화 훈련 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786517",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-26T00:00:00+09:00",
+      "description": "중부지방산림청(청장 도재영)은 유관기관 간 긴밀한 협력체계를 구축하고 산불재난에 대한 선제적 대응 역량을 강화하기 위해 지난 23일 국립괴산호국원 일원에서 유관기관 합동 산불진화훈련을 실시했다고 밝혔다.이번 훈련에는 중부지방산림청을 비롯해 충청북도 11개 시군과 소방, 경찰 등 유관기관이 합동훈련을 했으며, 산불 발생 시 신속하고 체계적인 대응을 통해 산불 확산을 방지하고 인명과 산림자원의 피해를 최소화하는 데 중점을 두고 진행됐다.특히, 산불 발생 상황을 가정한 실전형 훈련을 통해 기관별 임무와 역할을 사전에 점검하고, 현장 여건",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198577162&tblKey=GMN",
+          "filename": "중부지방산림청, 유관기관 합동 산불진화훈련 실시.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-26T05:33:42.811673+00:00"
     },
     {
       "title": "인공지능 시대, '인문학은 질문합니다.'",
