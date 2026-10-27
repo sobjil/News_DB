@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T23:44:53.262417+00:00",
-  "count": 1999,
+  "updated": "2026-10-27T23:59:56.822948+00:00",
+  "count": 2001,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -161,6 +161,37 @@
         }
       ],
       "_attAt": "2026-10-27T23:14:52.133199+00:00"
+    },
+    {
+      "title": "행복청, 시설사업 20년 경험을 행정수도 완성에 활용한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786733",
+      "agency": "행정중심복합도시건설청",
+      "agencyCode": "",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "행복청, 시설사업 20년 경험을 행정수도 완성에 활용한다",
+      "attachments": [],
+      "_attAt": "2026-10-27T23:59:51.257797+00:00"
+    },
+    {
+      "title": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786732",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1028]문체부보도자료-서울아레나 건설 현장 방문.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578501&tblKey=GMN",
+          "filename": "[1028]문체부보도자료-서울아레나 건설 현장 방문.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578500&tblKey=GMN",
+          "filename": "[1028]문체부보도자료-서울아레나 건설 현장 방문.pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T23:59:51.257797+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
