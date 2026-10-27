@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T06:44:49.867037+00:00",
-  "count": 2062,
+  "updated": "2026-10-27T06:59:53.004235+00:00",
+  "count": 2063,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -348,16 +348,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198577991&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578177&tblKey=GMN",
           "filename": "261027_보도자료_산업안전보건법 개정안 공포.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198577990&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578178&tblKey=GMN",
           "filename": "261027_보도자료_산업안전보건법 개정안 공포.pdf"
         }
       ],
-      "_attAt": "2026-10-27T00:48:42.257775+00:00"
+      "_attAt": "2026-10-27T06:59:44.392451+00:00",
+      "_attRev": 1
     },
     {
       "title": "국립자연휴양림, 증빙서류 없이 휴대전화로 자격정보 확인",
@@ -369,11 +370,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198577988&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578001&tblKey=GMN",
           "filename": "(261027)국립자연휴양림 보도자료-공공 마이데이터 간편확인서비스 도입.hwpx"
         }
       ],
-      "_attAt": "2026-10-27T00:48:42.257775+00:00"
+      "_attAt": "2026-10-27T06:59:44.392451+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026년 3분기 공적자금 운용현황",
@@ -394,7 +396,8 @@
           "filename": "261026(보도자료) 2026년 3분기 공적자금 운용현황.pdf"
         }
       ],
-      "_attAt": "2026-10-27T00:48:42.257775+00:00"
+      "_attAt": "2026-10-27T06:59:44.392451+00:00",
+      "_attRev": 1
     },
     {
       "title": "로또복권 우선계약 대상 확대 추진 및 전자복권 관련 수탁사업자 위약벌 부과",
@@ -1496,6 +1499,27 @@
         }
       ],
       "_attAt": "2026-10-27T06:29:44.736479+00:00"
+    },
+    {
+      "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786670",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "자동차·가전부터 한우·수산물까지...최대 50% 할인정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15) - (대규모 할인) 한우·수산물·의류 최대 50%, 김장재료 40%, 중소기업 가전 39% 할인 - (소비 촉진 이벤트) 상생소비복권 총 17억원 규모, 지역사랑상품권 추가 할인 등 - (관광·외국인 소비 촉진) 전국 면세점 25% 할인, 4대 궁 무료 개방, 국립극장 무료 공연 정부는 내수 활성화와 지역 상권에 활력을 불어넣기 위해 10월 29일(목)부터 11월 15일(일)까지 18일간 제2회 「코리아 그랜드 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578284&tblKey=GMN",
+          "filename": "261027 [관계부처 합동] 정부, 「제2회 코리아 그랜드 페스티벌」 시작.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578285&tblKey=GMN",
+          "filename": "261027 [관계부처 합동] 정부, 「제2회 코리아 그랜드 페스티벌」 시작.pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T06:59:44.392451+00:00"
     },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
