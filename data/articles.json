@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T09:59:43.336271+00:00",
-  "count": 2085,
+  "updated": "2026-10-27T10:14:51.817131+00:00",
+  "count": 2087,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2024,6 +2024,48 @@
         }
       ],
       "_attAt": "2026-10-27T09:14:44.784039+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제4차 범부처 주택 신속공급 점검회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786726",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "한 총리, \"연말까지 남은 두 달, 금년도 공급 목표 달성하도록 책임있게 챙길 것\"- 계획을 넘어 국민이 체감하는 성과로 -- 주택착공 연말에 집중, 수도권 공급물량 80% 차지하는 민간부문 사업 중요- 수원 영통1구역 등 민간재개발사업 지연해소 위한 개선방안 마련할 것- 주택공급 디지털 상황판 조속 구축을 위해 관계기관 적극 협력 필요□ 한성숙 국무총리는 10월 27일(화) 16시 정부서울청사에서 ｢제4차 범부처 주택 신속공급 점검회의*｣를 주재하고, 연말 주택공급 목표 달성을 위한 추진상황과 공급실적을 점검하는 한편, 민간 정비",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578477&tblKey=GMN",
+          "filename": "261027 주택 신속공급 점검 4차 회의 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578478&tblKey=GMN",
+          "filename": "261027 주택 신속공급 점검 4차 회의 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T10:14:43.922343+00:00"
+    },
+    {
+      "title": "(보도설명) 정부는 감사원이 지적한 세수추계 모형을 이미 개선하였으며, 세수추계 신뢰성을 높이기 위해 지속 노력하고 있습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786725",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "□ 2026.10.27. 연합뉴스 「정부 세수 추계, 2021년부터 4년간 연평균 51조원 오차」 기사관련 보도설명 자료입니다. * 자세한 내용은 아래의 첨부자료를 참고하여 주시기 바랍니다. 문의. 재정경제부 조세총괄정책관 조세추계과 구본녕 (044-215-4121)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578476&tblKey=GMN",
+          "filename": "261027 (연합뉴스) 보도설명(감사원 세수추계 오차)F.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578475&tblKey=GMN",
+          "filename": "261027 (연합뉴스) 보도설명(감사원 세수추계 오차)F.pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T10:14:43.922343+00:00"
     },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
