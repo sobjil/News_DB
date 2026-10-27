@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T04:29:49.844328+00:00",
-  "count": 2051,
+  "updated": "2026-10-27T04:44:45.210659+00:00",
+  "count": 2052,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1234,6 +1234,27 @@
         }
       ],
       "_attAt": "2026-10-27T04:29:43.350169+00:00"
+    },
+    {
+      "title": "[보도자료] 국제개발협력본부, 인재양성 ODA 현장 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786653",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "개도국 예술 인재 양성으로문화역량 강화한다- AMA+ 사업 현장 목소리 반영하여 문화협력 사업 실효성 제고□ 국무조정실 국제개발협력본부(본부장: 김진남)는 인재양성 공적개발원조(ODA) 사업 현장 간담회의 네 번째*로 '해외 예술계 인력양성 사업(AMA+, Art Major Asian plus) 간담회'를 10월 27일(화) 한국예술종합학교(이하 한예종)에서 개최하였다.*▴(5.12) 복지부, 이종욱 펠로우십 프로그램 ▴(5.28) 교육부, 정부초청 외국인 장학사업▴(6.2) KDI 국제정책대학원, 국제학생 학위과정 장학지원 사업ㅇ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578199&tblKey=GMN",
+          "filename": "261027 해외 예술계 인재양성 ODA 현장 간담회 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578200&tblKey=GMN",
+          "filename": "261027 해외 예술계 인재양성 ODA 현장 간담회 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T04:44:41.475124+00:00"
     },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
