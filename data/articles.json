@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T22:59:51.667928+00:00",
-  "count": 1997,
+  "updated": "2026-10-27T23:14:57.150843+00:00",
+  "count": 1999,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -119,6 +119,48 @@
         }
       ],
       "_attAt": "2026-10-27T22:14:50.351948+00:00"
+    },
+    {
+      "title": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786730",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1028]문체부보도자료-서울아레나 건설 현장 방문.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578495&tblKey=GMN",
+          "filename": "[1028]문체부보도자료-2026년 도서관 운영 유공 우수도서관 포상.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578494&tblKey=GMN",
+          "filename": "[1028]문체부보도자료-서울아레나 건설 현장 방문.pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T23:14:52.133199+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 최신의 디지털의료기기 허가심사 기준 짚어준다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786731",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 최신의 디지털의료기기 허가심사 기준 짚어준다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578496&tblKey=GMN",
+          "filename": "[26.10.28 보도참고자료] 식약처, 최신의 디지털의료기기 허가심사 기준 짚어준다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578497&tblKey=GMN",
+          "filename": "[26.10.28 보도참고자료] 식약처, 최신의 디지털의료기기 허가심사 기준 짚어준다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T23:14:52.133199+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
