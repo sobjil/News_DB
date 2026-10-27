@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T04:59:47.516490+00:00",
-  "count": 2053,
+  "updated": "2026-10-27T05:14:51.030389+00:00",
+  "count": 2056,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -120,7 +120,8 @@
           "filename": "[1027]문체부보도자료-문화예술진흥법 개정을 위한 정책토론회 개최.pdf"
         }
       ],
-      "_attAt": "2026-10-26T23:03:42.576865+00:00"
+      "_attAt": "2026-10-27T05:14:42.531182+00:00",
+      "_attRev": 1
     },
     {
       "title": "국악방송과 전통공연예술진흥재단 통합 추진으로 국악·전통예술 진흥의 탄탄한 기반 마련",
@@ -1276,6 +1277,69 @@
         }
       ],
       "_attAt": "2026-10-27T04:59:43.466539+00:00"
+    },
+    {
+      "title": "'26년 3분기 전국 지가 0.62% 상승",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786655",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "'26년 3분기 전국 지가 0.62% 상승 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578208&tblKey=GMN",
+          "filename": "261028(조간) 26년 3분기 전국 지가 0.62퍼센트 상승(부동산평가과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578209&tblKey=GMN",
+          "filename": "261028(조간) 26년 3분기 전국 지가 0.62퍼센트 상승(부동산평가과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T05:14:42.531182+00:00"
+    },
+    {
+      "title": "민선 9기 지자체장, 재난안전관리 교육으로 겨울철 재난 대비 태세 갖춘다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786659",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "- 국가재난안전교육원, 민선 9기 출범 후 세 번째 '지방자치단체장 재난안전관리 교육' 실시(10.27.)- 국가 재난관리 정책방향, 자살 예방 등 '생명 존중' 단체장 역할과 재난 대응 사례 등 공유 행정안전부(장관 윤호중)은 10월 27일(화) 민선 9기 기초자치단체장을 대상으로 '2026 지방자치단체장 재난안전관리 교육'을 실시한다고 밝혔다. ※ (일시) '26.10.27.(화) 14~17시 / (장소) 대구광역시 메리어트호텔 이번 교육은 민선 9기 출범 이후 올해 7월과 9월에 이어 세 번째로 실시하는 자치단체장 교육으로, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578216&tblKey=GMN",
+          "filename": "261028 (14시) 민선 9기 지자체장 재난안전관리 교육으로 겨울철 재난 대비 태세 갖춘다(국가재난안전교육원 재난안전교육과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578217&tblKey=GMN",
+          "filename": "261028 (14시) 민선 9기 지자체장 재난안전관리 교육으로 겨울철 재난 대비 태세 갖춘다(국가재난안전교육원 재난안전교육과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T05:14:42.531182+00:00"
+    },
+    {
+      "title": "[차관동정] 김이탁 제1차관,모듈러주택 활성화를 위한 협의체 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786656",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-27T00:00:00+09:00",
+      "description": "[차관동정] 김이탁 제1차관,모듈러주택 활성화를 위한 협의체 개최 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578210&tblKey=GMN",
+          "filename": "261027(동정)_김이탁_제1차관_모듈러주택_활성화를_위한_협의체_개최(주택건설운영과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578211&tblKey=GMN",
+          "filename": "261027(동정)_김이탁_제1차관_모듈러주택_활성화를_위한_협의체_개최(주택건설운영과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-27T05:14:42.531182+00:00"
     },
     {
       "title": "소상공인이 만드는, 더 큰 대한민국... 중기부, 「2026 대한민국 소상공인대회」 개최",
