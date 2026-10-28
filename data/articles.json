@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T11:45:06.745842+00:00",
-  "count": 2125,
+  "updated": "2026-10-28T12:00:02.108344+00:00",
+  "count": 2127,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2058,7 +2058,8 @@
           "filename": "261028_보도자료_공공기관 AI 혁신챌린지 우수상 수상(한국고용정보원).pdf"
         }
       ],
-      "_attAt": "2026-10-28T05:59:50.340296+00:00"
+      "_attAt": "2026-10-28T11:59:51.765740+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"현장이 원하는 걸 물었다\" 종사자 설문 통해 「현장 안전 핸드북」 제작·배포",
@@ -2070,16 +2071,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198578956&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578969&tblKey=GMN",
           "filename": "261028_보도자료_현장 안전 핸드북 제작 및 전국 배포(폴리텍대학).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198578957&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578970&tblKey=GMN",
           "filename": "261028_보도자료_현장 안전 핸드북 제작 및 전국 배포(폴리텍대학).pdf"
         }
       ],
-      "_attAt": "2026-10-28T05:59:50.340296+00:00"
+      "_attAt": "2026-10-28T11:59:51.765740+00:00",
+      "_attRev": 1
     },
     {
       "title": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 -",
@@ -2842,6 +2844,38 @@
         }
       ],
       "_attAt": "2026-10-28T11:14:56.430738+00:00"
+    },
+    {
+      "title": "아시아 8개국 전문가 한자리에...국립산림과학원, 첨단 기술 융합 '도시숲 연구 연대' 강화 - 위성·AI 기술 기반 아시아 도시숲 공동 모니터링 체계 구축 방향 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786940",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "산림청 국립산림과학원(원장 김용관)은 27일(화)부터 28일(수)까지 '제5회 아시아도시숲네트워크(Asia Urban Forests Network, AUFN) 국제 워크숍'을 개최했다고 밝혔다.이번 워크숍에는 한국, 일본, 인도 , 말레이시아, 베트남, 필리핀, 인도네시아, 태국 등 아시아 8개국의 도시숲 전문가와 국내 연구자 등 50여명이 참석했다. 참석자들은 지난 5년간의 국제 공동 연구성과를 공유하고, 기후 위기 대응을 위한 도시숲의 역할과 국제협력 방안을 논의했다.특히 국가별 도시숲 통계와 연구 정보를 교류해 온 기존 협력을",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579353&tblKey=GMN",
+          "filename": "(국립산림과학원 보도자료) 아시아 8개국 전문가 한자리에...국립산림과학원, 첨단 기술 융합 ‘도시숲 연구 연대’ 강화.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-28T11:59:51.765740+00:00"
+    },
+    {
+      "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·호주 국방장관회담 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786938",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·호주 국방장관회담 개최□ 강신철 국방부장관은 필리핀에서 개최된 제13차 아세안 확대 국방장관회의(ADMM-Plus) 참가를 계기로 10월 28일(수) 리차드 말즈 (Richard Marles) 호주 부총리 겸 국방장관과 회담을 개최하였습니다.□ 강신철 장관은 양국이 연합훈련·고위급 교류·방산수출 등 국방·안보 전 영역에서의 긴밀한 협력을 지속해 나가고 있는 점을 높이 평가하였습니다.□ 말즈 부총리는 역내 안정 유지를 위한 양국의 안보 협력 강화 필요성을 강조하며, 방산 현지화 등",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579348&tblKey=GMN",
+          "filename": "261028 [국방부 보도자료] 아세안 확대 국방장관회의(ADMM-Plus) 계기 한-호주 국방장관회담 개최_게시.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-28T11:59:51.765740+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
