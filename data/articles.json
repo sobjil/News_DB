@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T07:45:10.247191+00:00",
-  "count": 2110,
+  "updated": "2026-10-28T07:59:58.474020+00:00",
+  "count": 2111,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -695,16 +695,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198578614&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579084&tblKey=GMN",
           "filename": "(보도자료) ‘제81주년 교정의 날’ 기념식 개최 (배포즉시보도).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198578613&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579083&tblKey=GMN",
           "filename": "(보도자료) ‘제81주년 교정의 날’ 기념식 개최 (배포즉시보도).pdf"
         }
       ],
-      "_attAt": "2026-10-28T01:59:51.886963+00:00"
+      "_attAt": "2026-10-28T07:59:52.002860+00:00",
+      "_attRev": 1
     },
     {
       "title": "해양수산 분야 인공지능 전환(AX)으로 바다의 가치를 혁신한다",
@@ -725,7 +726,8 @@
           "filename": "261028(10시) 해양수산 분야 인공지능 전환(ax)으로 바다의 가치를 혁신한다(데이터전략팀).pdf"
         }
       ],
-      "_attAt": "2026-10-28T01:59:51.886963+00:00"
+      "_attAt": "2026-10-28T07:59:52.002860+00:00",
+      "_attRev": 1
     },
     {
       "title": "불씨는 막고, 진화는 빠르게··· 가을 산불 총력 대응",
@@ -2493,6 +2495,27 @@
         }
       ],
       "_attAt": "2026-10-28T07:44:51.314509+00:00"
+    },
+    {
+      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786886",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신- 지역·필수의료 수가 2.7조 원 상향, 과보상 검체·CT·MRI 수가는 연 2.6조 원 조정 -- 의원·치과 초진 진찰료, 병원 주사료·식대 인상 -- 검사의 질 향상을 위한 위수탁기관 조건부 보상 추진 -- 마약류 중독환자 치료지원과 어린이 재활의료기관 운영 시범사업 논의 - 보건복지부(장관 정은경)는 10월 28일(수) 오후 2시에 2026년 제19차 건강보험정책심의위원회(이하 '건정심', 위원장 : 이형훈 제2차관)를 개최해 지역과 필수의료 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579177&tblKey=GMN",
+          "filename": "[10.28.수 위원회 종료(별도 안내) 이후] 지역·필수의료 수가 2.7조 원 우선 투입, ‘27년 1월부터 본격 수가 구조 혁신.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579178&tblKey=GMN",
+          "filename": "[10.28.수 위원회 종료(별도 안내) 이후] 지역·필수의료 수가 2.7조 원 우선 투입, ‘27년 1월부터 본격 수가 구조 혁신.pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T07:59:52.002860+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
