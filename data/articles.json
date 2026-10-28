@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T04:14:57.784617+00:00",
-  "count": 2058,
+  "updated": "2026-10-28T04:30:01.793826+00:00",
+  "count": 2060,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1415,6 +1415,48 @@
         }
       ],
       "_attAt": "2026-10-28T03:14:50.965790+00:00"
+    },
+    {
+      "title": "경찰, ?지역 유착 5대 비리? 뿌리 뽑는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786807",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "경찰, 지역 유착 5대 비리 뿌리 뽑는다 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578796&tblKey=GMN",
+          "filename": "261029(조간용) 지역 유착 5대 비리 특별단속 추진(반부패공공범죄).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578797&tblKey=GMN",
+          "filename": "261029(조간용) 지역 유착 5대 비리 특별단속 추진(반부패공공범죄).pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:29:51.290436+00:00"
+    },
+    {
+      "title": "최휘영 장관, '역대 최대 외래관광객 달성' 성과 및 '3천만·4천만 명 시대 준비' 역점 과제 공유",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786806",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "최휘영 장관, '역대 최대 외래관광객 달성' 성과 및 '3천만·4천만 명 시대 준비' 역점 과제 공유 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1028]문체부 보도자료-2026년 관광 분야 성과와 향후 정책 방향 공유.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578795&tblKey=GMN",
+          "filename": "[1028]문체부 보도자료-2026년 관광 분야 성과와 향후 정책 방향 공유.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578794&tblKey=GMN",
+          "filename": "[1028]문체부 보도자료-2026년 관광 분야 성과와 향후 정책 방향 공유.pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:29:51.290436+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
