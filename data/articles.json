@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T04:45:42.596973+00:00",
-  "count": 2067,
+  "updated": "2026-10-28T04:59:59.971319+00:00",
+  "count": 2070,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1465,7 +1465,19 @@
       "agencyCode": "molit",
       "pubDate": "2026-10-28T00:00:00+09:00",
       "description": "[참고] 정부는 구룡마을 이재민분들의 주거안정을 위해 적극 지원해 나가겠습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
-      "_attFails": 1
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578802&tblKey=GMN",
+          "filename": "261028(참고) 정부는 구룡마을 화재로 인한 이재민분들의 주거안정을 위해 적극 지원해나가겠습니다(주거복지지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578803&tblKey=GMN",
+          "filename": "261028(참고) 정부는 구룡마을 화재로 인한 이재민분들의 주거안정을 위해 적극 지원해나가겠습니다(주거복지지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:59:51.706349+00:00"
     },
     {
       "title": "「몽골 단체관광객 단체사증」제도 시행",
@@ -1592,6 +1604,69 @@
         }
       ],
       "_attAt": "2026-10-28T04:44:50.909820+00:00"
+    },
+    {
+      "title": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786817",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다- 관세청, 지자체·생산자단체와 손잡고 '지역 특화 제조업' 보호를 위한 전방위 대책 시행- 수입품의 국산 둔갑, 탈세 등 '이중 반칙' 차단…성실한 중소 제조기업엔 맞춤형 수출 지원도 병행 관세청은 10월 28일(수) 저가 수입품의 국산 둔갑 등 불공정 무역 행위를 뿌리 뽑는 '엄정한 단속'과 위기에 처한 지역 중소기업을 일으켜 세우는 '따뜻한 지원'을 양대 축으로 하는 「K-제조업 보호를 위한 전방위 대책」을 본격 추진한다고 밝혔다. ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578823&tblKey=GMN",
+          "filename": "261028 관세청, 가짜 ‘Made in Korea’로부터 &amp;apos;지역 중소 제조업&amp;apos; 지킨다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578824&tblKey=GMN",
+          "filename": "261028 관세청, 가짜 ‘Made in Korea’로부터 &amp;apos;지역 중소 제조업&amp;apos; 지킨다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:59:51.706349+00:00"
+    },
+    {
+      "title": "지역주민 곁을 지켜온 80년, 보건소의 새로운 100년을 준비합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786816",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "지역주민 곁을 지켜온 80년, 보건소의 새로운 100년을 준비합니다- '보건소 설립 80주년 기념행사' 개최 -- 지역사회 건강 지켜온 보건소 발자취 조명 및 유공기관·개인 포상 - 보건복지부(장관 정은경)와 한국건강증진개발원(원장 김헌주), 지역보건의료기관협의회*(회장 오상철)는 10월 28일(수) 오전 10시 30분 서울 강남구 그랜드 머큐어 임피리얼 팰리스 서울 강남에서 「보건소 설립 80주년 기념행사」를 공동으로 개최했다고 밝혔다. * 「지역보건법」 제18조의2에 따른 공동 대응과 관계기관 소통 강화를 위한 협의회 올해는 1",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578819&tblKey=GMN",
+          "filename": "[보도참고자료] 지역주민 곁을 지켜온 80년, 보건소의 새로운 100년을 준비합니다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578820&tblKey=GMN",
+          "filename": "[보도참고자료] 지역주민 곁을 지켜온 80년, 보건소의 새로운 100년을 준비합니다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:59:51.706349+00:00"
+    },
+    {
+      "title": "이형훈 제2차관, 생명사랑위기대응센터 방문, 자살시도자 등 고위험군 적극적 사례관리 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786815",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-28T00:00:00+09:00",
+      "description": "이형훈 제2차관, 생명사랑위기대응센터 방문, 자살시도자 등 고위험군 적극적 사례관리 당부- '26.8월 자살자수 1,078명, 전년 동월(1,175명) 대비 8.3% 감소 -- 현장 종사자 애로사항 청취 및 사후 관리 체계 강화 위한 지원 확대 약속 - 보건복지부(장관 정은경)는 10월 28일(수) 이형훈 제2차관이 분당서울대학교병원 생명사랑위기대응센터를 방문하여 응급실 내원 자살시도자 사후관리 업무를 수행하는 현장의 어려움과 제도개선 방안을 청취하고, 종사자들의 노고를 격려하였다고 밝혔다. 생명사랑위기대응센터는 응급실에 내원한 자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578817&tblKey=GMN",
+          "filename": "[보도참고자료] 이형훈 제2차관, 생명사랑위기대응센터 방문, 자살시도자 등 고위험군 적극적 사례관리 당부.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198578818&tblKey=GMN",
+          "filename": "[보도참고자료] 이형훈 제2차관, 생명사랑위기대응센터 방문, 자살시도자 등 고위험군 적극적 사례관리 당부.pdf"
+        }
+      ],
+      "_attAt": "2026-10-28T04:59:51.706349+00:00"
     },
     {
       "title": "'26년 노후 산업단지 재생사업 공모 착수",
