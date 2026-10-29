@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T08:15:28.177762+00:00",
-  "count": 2152,
+  "updated": "2026-10-29T08:30:01.277871+00:00",
+  "count": 2153,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1673,7 +1673,8 @@
           "filename": "261029 (보도자료) 기획예산처-국회미래연구원 공동세미나 개최(최종).pdf"
         }
       ],
-      "_attAt": "2026-10-29T02:29:52.894103+00:00"
+      "_attAt": "2026-10-29T08:29:55.802390+00:00",
+      "_attRev": 1
     },
     {
       "title": "첨단산업의 경쟁력, 국민생활의 신뢰... 계량측정이 뒷받침한다",
@@ -3358,6 +3359,27 @@
         }
       ],
       "_attAt": "2026-10-29T08:14:56.216958+00:00"
+    },
+    {
+      "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787150",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-29T00:00:00+09:00",
+      "description": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580454&tblKey=GMN",
+          "filename": "261029(1600) 안보지킴이 공모전 시상식 개최(안보기획관리).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580455&tblKey=GMN",
+          "filename": "261029(1600) 안보지킴이 공모전 시상식 개최(안보기획관리).pdf"
+        }
+      ],
+      "_attAt": "2026-10-29T08:29:55.802390+00:00"
     },
     {
       "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
