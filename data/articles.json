@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T02:15:14.380010+00:00",
-  "count": 2074,
+  "updated": "2026-10-29T02:29:58.242957+00:00",
+  "count": 2075,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1579,6 +1579,32 @@
         }
       ],
       "_attAt": "2026-10-29T02:14:51.644011+00:00"
+    },
+    {
+      "title": "「기획예산처-국회미래연구원 공동세미나」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787037",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-29T00:00:00+09:00",
+      "description": "기획예산처와 국회미래연구원은 10월 29일 '인구구조 변화, 대한민국의 미래와 대응 방향'을 주제로 공동세미나를 개최하였습니다.자세한 내용은 첨부한 파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579777&tblKey=GMN",
+          "filename": "261029 (보도자료) 기획예산처-국회미래연구원 공동세미나 개최(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579775&tblKey=GMN",
+          "filename": "261029 (배포책자) 인구구조 변화, 대한민국의 미래와 대응방향(기획예산처-국회미래연구원 공동세미나).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198579776&tblKey=GMN",
+          "filename": "261029 (보도자료) 기획예산처-국회미래연구원 공동세미나 개최(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-10-29T02:29:52.894103+00:00"
     },
     {
       "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
@@ -4117,8 +4143,8 @@
           "filename": "[10.28.수 위원회 종료(별도 안내) 이후] 지역·필수의료 수가 2.7조 원 우선 투입, ‘27년 1월부터 본격 수가 구조 혁신.pdf"
         }
       ],
-      "_attAt": "2026-10-28T20:14:52.978605+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-29T02:29:52.894103+00:00",
+      "_attRev": 3
     },
     {
       "title": "식약처, 바이오의약품 원료물질 인증제도 현장과 함께 만든다",
