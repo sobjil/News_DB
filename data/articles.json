@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T09:30:03.520652+00:00",
-  "count": 2156,
+  "updated": "2026-10-29T09:45:01.614094+00:00",
+  "count": 2157,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3464,6 +3464,27 @@
         }
       ],
       "_attAt": "2026-10-29T09:14:55.591493+00:00"
+    },
+    {
+      "title": "2026년 제6회 민간투자사업심의위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787156",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-10-29T00:00:00+09:00",
+      "description": "조용범 기획예산처 차관은 26.10.29일 2026년 제6회 민간투자사업심의위원회를 개최하여 3개 사업을 심의, 의결하였습니다. 자세한 내용은 첨부파일을 참고 부탁드립니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580510&tblKey=GMN",
+          "filename": "제6회 민투심 보도자료(최종) ★.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580509&tblKey=GMN",
+          "filename": "제6회 민투심 보도자료(최종) ★.pdf"
+        }
+      ],
+      "_attAt": "2026-10-29T09:44:55.558413+00:00"
     },
     {
       "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
