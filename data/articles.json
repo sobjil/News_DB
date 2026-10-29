@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T23:00:12.043659+00:00",
-  "count": 1987,
+  "updated": "2026-10-29T23:15:10.533578+00:00",
+  "count": 1989,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -198,6 +198,53 @@
         }
       ],
       "_attAt": "2026-10-29T22:15:06.008807+00:00"
+    },
+    {
+      "title": "'케이-컬처' 전진기지 확대, 말레이시아에 한국문화원 개원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787189",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "'케이-컬처' 전진기지 확대, 말레이시아에 한국문화원 개원 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1030]문체부보도자료-주말레이시아 한국문화원 개원.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580667&tblKey=GMN",
+          "filename": "[1030]문체부보도자료-주말레이시아 한국문화원 개원.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580666&tblKey=GMN",
+          "filename": "[1030]문체부보도자료-주말레이시아 한국문화원 개원.pdf"
+        }
+      ],
+      "_attAt": "2026-10-29T23:15:04.964571+00:00"
+    },
+    {
+      "title": "2026년 9월 산업활동동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787190",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "□(생산)전산업생산은 광공업(9.0%)*과 서비스업(0.5%)** 등에서 생산이 늘어 전월대비 3.0% 증가 * 반도체, 자동차 등에서 증가 ** 도소매, 운수·창고 등에서 증가□(소비)소매판매는 음식료품, 승용차 등에서 판매가 늘어 전월대비 3.6% 증가 □(투자)설비투자는 기계류 및 운송장비에서 투자가 늘어 전월대비 5.3% 증가, 건설기성은 건축 및 토목에서 공사실적이 늘어 전월대비 5.8% 증가□(경기)동행종합지수 순환변동치는 전월대비 0.5p 상승, 선행종합지수 순환변동치는 전월대비 0.1p 하락",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580670&tblKey=GMN",
+          "filename": "2026년 9월 산업활동동향 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580668&tblKey=GMN",
+          "filename": "2026년 9월 산업활동동향 보도자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580669&tblKey=GMN",
+          "filename": "2026년 9월 산업활동동향 보도자료.hwp"
+        }
+      ],
+      "_attAt": "2026-10-29T23:15:04.964571+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
