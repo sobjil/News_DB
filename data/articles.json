@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T21:30:09.015133+00:00",
-  "count": 1985,
+  "updated": "2026-10-29T21:45:13.814885+00:00",
+  "count": 1986,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -161,6 +161,27 @@
         }
       ],
       "_attAt": "2026-10-29T21:15:06.226566+00:00"
+    },
+    {
+      "title": "로컬창업 소상공인 투자유치 1,227억원 달성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787187",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 10월 29일(목) ｢로컬창업 소상공인 대상 민간투자 동향 및 분석 결과｣를 발표했다. 립스*는 중기부가 지정한 운영사(민간투자사)가 지역의 고유한 자원, 문화, 특성을 가진 로컬창업 소상공인에게 먼저 투자하면, 중기부가 정책자금 및 사업화 자금을 매칭 지원하는 프로그램이다. 이번 분석에서는 `23년 사업 도입 이후 실적을 바탕으로 로컬창업 소상공인에 대한 투자 흐름과 성장 성과를 살펴봤다. * LIPS(Local & Lifestyle biz Incubator Program for Str",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580663&tblKey=GMN",
+          "filename": "261027_로컬창업_소상공인_투자유치_1,227억원_달성.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580662&tblKey=GMN",
+          "filename": "261027_로컬창업_소상공인_투자유치_1,227억원_달성.pdf"
+        }
+      ],
+      "_attAt": "2026-10-29T21:45:07.316027+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
@@ -3644,8 +3665,8 @@
           "filename": "제6회 민투심 보도자료(최종) ★.pdf"
         }
       ],
-      "_attAt": "2026-10-29T15:45:01.119094+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-29T21:45:07.316027+00:00",
+      "_attRev": 2
     },
     {
       "title": "한-독일 이중과세방지협정 개정의정서 서명",
