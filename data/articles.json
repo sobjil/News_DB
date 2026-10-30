@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T02:45:27.991668+00:00",
-  "count": 2047,
+  "updated": "2026-10-30T03:00:19.246698+00:00",
+  "count": 2048,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1456,6 +1456,22 @@
         }
       ],
       "_attAt": "2026-10-30T02:45:14.601262+00:00"
+    },
+    {
+      "title": "제5차 한-캐나다 과학기술혁신공동위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787275",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "- 인공지능·양자·생명공학(바이오) 등 핵심신흥기술 및 연구안보 협력 논의 - - 양국 연구지원기관(한한국연구재단 – 캐국가연구위원회) 간 업무협약 체결 - - 혁신과학경제개발부 차관 면담을 통해 협력 확대 모색 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580984&tblKey=GMN",
+          "filename": "261030 석간 (보도) 제5차 한-캐나다 과학기술혁신공동위원회 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-30T03:00:15.515751+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
