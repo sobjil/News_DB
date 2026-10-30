@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T08:45:34.631819+00:00",
-  "count": 2114,
+  "updated": "2026-10-30T09:00:27.646292+00:00",
+  "count": 2115,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1533,11 +1533,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580984&tblKey=GMN",
-          "filename": "261030 석간 (보도) 제5차 한-캐나다 과학기술혁신공동위원회 개최.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198581507&tblKey=GMN",
+          "filename": "261030 석간 (보도) 제5차 한-캐나다 과학기술혁신공동위원회 개최.((수정).hwpx"
         }
       ],
-      "_attAt": "2026-10-30T03:00:15.515751+00:00"
+      "_attAt": "2026-10-30T09:00:22.197689+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능시대사이버보안영재교육지원을위한 교육부.LG유플러스.티오리한국 업무협약 체결",
@@ -3044,6 +3045,27 @@
         }
       ],
       "_attAt": "2026-10-30T08:45:23.541443+00:00"
+    },
+    {
+      "title": "고(故) 최불암 배우 금관문화훈장 추서",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787380",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "고(故) 최불암 배우 금관문화훈장 추서 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1030]문체부 보도자료-고 최불암 배우 금관문화훈장 추서.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581556&tblKey=GMN",
+          "filename": "[1030]문체부 보도자료-고 최불암 배우 금관문화훈장 추서.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581555&tblKey=GMN",
+          "filename": "[1030]문체부 보도자료-고 최불암 배우 금관문화훈장 추서.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T09:00:22.197689+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
