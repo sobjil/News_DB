@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T23:45:25.553921+00:00",
-  "count": 1997,
+  "updated": "2026-10-30T00:00:17.151016+00:00",
+  "count": 1998,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -413,6 +413,27 @@
         }
       ],
       "_attAt": "2026-10-29T23:45:09.111813+00:00"
+    },
+    {
+      "title": "'26.9월 및 3분기 산업활동동향 및 평가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787199",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "'26.9월 및 3분기 산업활동동향 및 평가입니다. 자세한 내용은 첨부파일을 참고해 주시기 바랍니다.문의. 재정경제부 경제정책국 경제분석과 김수현 (044-215-2731)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580687&tblKey=GMN",
+          "filename": "★261030 (보도자료) 9월 및 3분기 산업활동동향_Final.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580688&tblKey=GMN",
+          "filename": "★261030 (보도자료) 9월 및 3분기 산업활동동향_Final.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T00:00:11.049916+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
@@ -3918,8 +3939,8 @@
           "filename": "[26-867](공동보도자료) 한-독일 이중과세방지협정 개정의정서 서명.pdf"
         }
       ],
-      "_attAt": "2026-10-29T18:00:05.908347+00:00",
-      "_attRev": 1
+      "_attAt": "2026-10-30T00:00:11.049916+00:00",
+      "_attRev": 2
     },
     {
       "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
