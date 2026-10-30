@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:15:33.218470+00:00",
+  "updated": "2026-10-30T12:30:25.617788+00:00",
   "count": 2122,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2169,16 +2169,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581230&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581236&tblKey=GMN",
           "filename": "261030-(보도자료)-주요 국책과제 이행점검 TF-★.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581231&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581237&tblKey=GMN",
           "filename": "261030-(보도자료)-주요 국책과제 이행점검 TF-★.pdf"
         }
       ],
-      "_attAt": "2026-10-30T06:30:20.966792+00:00"
+      "_attAt": "2026-10-30T12:30:22.415016+00:00",
+      "_attRev": 1
     },
     {
       "title": "동부지방산림청, 가을철 산불방지대책본부 본격 운영",
