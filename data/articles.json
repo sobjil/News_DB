@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T05:15:33.362835+00:00",
-  "count": 2061,
+  "updated": "2026-10-30T05:30:32.563540+00:00",
+  "count": 2064,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -274,7 +274,8 @@
           "filename": "[26.10.30.(금) 보도자료] 식약처, ‘과일 찹쌀떡·샌드위치’ 등 배달 음식점 및 무인 식품 판매점 집중 점검.pdf"
         }
       ],
-      "_attAt": "2026-10-29T23:30:06.945276+00:00"
+      "_attAt": "2026-10-30T05:30:22.888001+00:00",
+      "_attRev": 1
     },
     {
       "title": "'케이-콘텐츠' 지식재산, 유럽·중국에서 해외 진출 기반 넓혀",
@@ -295,7 +296,8 @@
           "filename": "[1030]문체부보도자료-케이-콘텐츠 지식재산 해외 진출 지원.pdf"
         }
       ],
-      "_attAt": "2026-10-29T23:30:06.945276+00:00"
+      "_attAt": "2026-10-30T05:30:22.888001+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"청년이 주도하는 청렴 문화\" 국민권익위-한국전력 교류회 개최",
@@ -1758,6 +1760,69 @@
         }
       ],
       "_attAt": "2026-10-30T05:15:21.391280+00:00"
+    },
+    {
+      "title": "경찰청장 직무대행, 핼러윈 데이 이태원 인파 안전관리 현장점검에 나서",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787294",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "경찰청장 직무대행, 핼러윈 데이 이태원 인파 안전관리 현장점검에 나서 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581118&tblKey=GMN",
+          "filename": "261030(1100) 경찰, 핼러윈 인파관리 집중 대응(대테러위기).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581119&tblKey=GMN",
+          "filename": "261030(1100) 경찰, 핼러윈 인파관리 집중 대응(대테러위기).pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T05:30:22.888001+00:00"
+    },
+    {
+      "title": "생애말 의료·돌봄 공론화 위한 두 번째 의료혁신 시민패널 토론회 준비 최종 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787293",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "생애말 의료·돌봄 공론화 위한 두 번째 의료혁신 시민패널 토론회 준비 최종 점검- 제19차 시민패널 운영위원회 개최(10.30) -- 11.7.~11.8. 연명의료결정제도 포함한 '생애 말 의료와 돌봄' 주제로 시민패널 숙의토론 예정 - 의료혁신위원회(위원장 정기현) 산하 시민패널 운영위원회*(위원장 김학린)가 '생애 말 의료와 돌봄 강화'를 주제로 한 제2차 의료혁신 시민패널 공론화 숙의토론회의 최종 준비 상황을 점검했다. 제2차 토론회는 연명의료 결정과 생애 말 돌봄이라는 중요한 사회적 과제에 대해 300명의 시민패널이 직접 참",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581114&tblKey=GMN",
+          "filename": "[보도참고자료] 생애말 의료·돌봄 공론화 위한 두 번째 의료혁신 시민패널 토론회 준비 최종 점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581115&tblKey=GMN",
+          "filename": "[보도참고자료] 생애말 의료·돌봄 공론화 위한 두 번째 의료혁신 시민패널 토론회 준비 최종 점검.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T05:30:22.888001+00:00"
+    },
+    {
+      "title": "AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787292",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다- 2026년 하반기 보건의료데이터 활용 정기교육 개최 -- 가이드라인 개정 방향 안내 및 AI 기반 연구 사례 교육으로 연구자 실무 역량 강화 - 보건복지부(장관 정은경)와 한국보건의료정보원(원장 염민섭), 대한의료정보학회(이사장 김종엽)는 10월 30일(금) 14시 서울 서소문 부영태평빌딩 컨벤션홀에서 의료계·학계·산업계 등 연구자를 대상으로 2026년 하반기 보건의료데이터 활용 정기교육을 진행했다고 밝혔다. 이번 교육은 10월 28일부터 10월 3일까지 의견수렴을 거쳐",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581112&tblKey=GMN",
+          "filename": "[보도참고자료] AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581113&tblKey=GMN",
+          "filename": "[보도참고자료] AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T05:30:22.888001+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
