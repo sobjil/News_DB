@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T00:00:17.151016+00:00",
-  "count": 1998,
+  "updated": "2026-10-30T00:15:19.588478+00:00",
+  "count": 2000,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -72,11 +72,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580649&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580652&tblKey=GMN",
           "filename": "261030 조간 (보도) 더 정교한 촉매 설계의 실마리 찾았다... 화학 결합의 장거리 영향 규명.hwpx"
         }
       ],
-      "_attAt": "2026-10-29T18:15:04.892741+00:00"
+      "_attAt": "2026-10-30T00:15:11.271408+00:00",
+      "_attRev": 1
     },
     {
       "title": "2025년 장애인학대 신고 6,608건 1년 새 9.6%↑, 학대의심사례의 23.9%는 본인 신고",
@@ -434,6 +435,53 @@
         }
       ],
       "_attAt": "2026-10-30T00:00:11.049916+00:00"
+    },
+    {
+      "title": "행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787201",
+      "agency": "행정중심복합도시건설청",
+      "agencyCode": "",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580693&tblKey=GMN",
+          "filename": "261029 행복청 26-94호 보도자료(행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580694&tblKey=GMN",
+          "filename": "261029 행복청 26-94호 보도자료(행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580695&tblKey=GMN",
+          "filename": "261029 행복청 26-94호 보도자료(행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의).hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T00:15:11.271408+00:00"
+    },
+    {
+      "title": "의료기관 방사선관계종사자 피폭선량 30년 분석, 1인당 연평균 피폭선량 84.9% 감소(10.30.금)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787200",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "의료기관 방사선관계종사자 피폭선량 30년 분석, 1인당 연평균 피폭선량 84.9% 감소- 방사선관계종사자 피폭선량 30년 기록(1996년~2025년) 첫 발표- 방사선관계종사자 수 15,187명(1996년)에서 116,770명(2025년)으로 7.7배 증가,1인당 연간 평균 피폭선량은 2.25mSv(1996년)에서 0.34mSv(2025년)로 84.9% 감소- 안전관리 중·장기 정책 수립 기초자료로 활용 기대 질병관리청(청장 임승관)은 「2025년 의료기관 방사선관계종사자*의 개인 피폭선량 연보」를 발간한다. 이번 연보에는 2025",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580692&tblKey=GMN",
+          "filename": "[10.30.보도참고자료] 의료기관 방사선관계종사자 피폭선량 30년 분석, 1인당 연평균 피폭선량 84.9% 감소.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580691&tblKey=GMN",
+          "filename": "[10.30.보도참고자료] 의료기관 방사선관계종사자 피폭선량 30년 분석, 1인당 연평균 피폭선량 84.9% 감소.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T00:15:11.271408+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
