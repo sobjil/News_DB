@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T03:00:19.246698+00:00",
-  "count": 2048,
+  "updated": "2026-10-30T03:15:34.268602+00:00",
+  "count": 2054,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -103,7 +103,8 @@
           "filename": "[별첨] 2025 장애인학대 현황보고서.pdf"
         }
       ],
-      "_attAt": "2026-10-29T21:15:06.226566+00:00"
+      "_attAt": "2026-10-30T03:15:14.193843+00:00",
+      "_attRev": 1
     },
     {
       "title": "'26년 9월 주택통계",
@@ -124,7 +125,8 @@
           "filename": "261030(석간)_‘26년_9월_주택통계(주택정책과).pdf"
         }
       ],
-      "_attAt": "2026-10-29T21:15:06.226566+00:00"
+      "_attAt": "2026-10-30T03:15:14.193843+00:00",
+      "_attRev": 1
     },
     {
       "title": "대구경북통합신공항 민간공항 기본계획 변경 고시",
@@ -145,7 +147,8 @@
           "filename": "261030(석간)_대구경북통합신공항_민간공항_기본계획_변경_고시(대구경북통합신공항건설추진단).pdf"
         }
       ],
-      "_attAt": "2026-10-29T21:15:06.226566+00:00"
+      "_attAt": "2026-10-30T03:15:14.193843+00:00",
+      "_attRev": 1
     },
     {
       "title": "교육부, 제3회 특별성과 우수사례 시상",
@@ -161,7 +164,8 @@
           "filename": "[교육부 10-30(금) 석간보도자료] 교육부 제3회 특별성과 우수사례 시상.hwpx"
         }
       ],
-      "_attAt": "2026-10-29T21:15:06.226566+00:00"
+      "_attAt": "2026-10-30T03:15:14.193843+00:00",
+      "_attRev": 1
     },
     {
       "title": "로컬창업 소상공인 투자유치 1,227억원 달성",
@@ -1472,6 +1476,137 @@
         }
       ],
       "_attAt": "2026-10-30T03:00:15.515751+00:00"
+    },
+    {
+      "title": "인공지능시대사이버보안영재교육지원을위한 교육부.LG유플러스.티오리한국 업무협약 체결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787281",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "인공지능시대사이버보안영재교육지원을위한 교육부.LG유플러스.티오리한국 업무협약 체결",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581008&tblKey=GMN",
+          "filename": "[교육부 10-31(토) 조간보도자료] AI 시대 사이버보안 영재교육 지원을 위한 교육부-LG유플러스-티오리한국 MOU 체결.hwpx"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
+    },
+    {
+      "title": "2026년 재배면적조사 결과_가을배추, 가을무",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787280",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "○ 2026년 재배면적조사 결과_가을배추, 가을무○ 주요내용 - 가을배추 재배면적은 13,909ha로 전년 13,182ha보다 5.5% 증가 - 가을무 재배면적은 5,749ha로 전년 5,826ha보다 1.3% 감소",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581006&tblKey=GMN",
+          "filename": "2026년 가을배추·무 재배면적조사 결과 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581005&tblKey=GMN",
+          "filename": "2026년 가을배추·무 재배면적조사 결과 보도자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581007&tblKey=GMN",
+          "filename": "2026년 가을배추·무 재배면적조사 결과 보도자료.hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
+    },
+    {
+      "title": "따스한 가정의 품으로, 국가봉사동물의 견(犬)생 2막을 지원합니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787276",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')와 농림축산검역본부(본부장 직무대리 정승교, 이하 '검역본부')는 10월 30일 영종도 검역탐지견센터에서 은퇴 검역탐지견 11마리와 입양 가족들과 함께 검역탐지견 홈커밍데이를 개최하였다. 홈커밍데이는 입양 가족들과의 지속적인 소통을 위해 매년 10월 은퇴한 검역탐지견과 입양 가족을 탐지견센터로 초청하는 행사이다. 2023년부터 시작한 홈커밍데이는 검역탐지견의 입양 이후의 근황을 점검하고 입양 가족 간의 경험과 정보를 나누는 교류의 장으로 자리매김하고 있다. 이날 행사에서는 입양 가족 대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580998&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과 농림축산검역본부) 따스한 가정의 품으로 국가봉사동물의 견(犬)생 2막을 지원합니다(10. 30. 12시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580996&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과 농림축산검역본부) 따스한 가정의 품으로 국가봉사동물의 견(犬)생 2막을 지원합니다(10. 30. 12시부터).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580997&tblKey=GMN",
+          "filename": "(동물복지정책국-동물복지정책과 농림축산검역본부) 따스한 가정의 품으로 국가봉사동물의 견(犬)생 2막을 지원합니다(10. 30. 12시부터).hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
+    },
+    {
+      "title": "미래항공 핵심부품 성능 및 신뢰성 검증 기반 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787279",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 10월 30일(금) 서산시 바이오웰빙연구특구에 미래항공 핵심부품 성능과 신뢰성을 검증할 '그린 UAM-AAV* 시험평가인증지원센터(이하 '센터')'를 완공했다고 밝혔다. * UAM(Urban Air Mobility): 도심항공교통 / AAV(Advanced Air Vehicle): 미래항공기체 충청남도, 서산시와 함께 추진한 '그린 UAM-AAV 핵심부품 시험평가 기반구축' 사업을 통해 센터를 건립하였고, 우주항공청은 센터를 활용한 수소연료전지·전기엔진 등 미래항공기체 핵심부품의 성능·신뢰성 검증과 이착륙",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581004&tblKey=GMN",
+          "filename": "261031(조간) 미래항공 핵심부품 성능 및 신뢰성 검증 기반 마련.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581003&tblKey=GMN",
+          "filename": "261031(조간) 미래항공 핵심부품 성능 및 신뢰성 검증 기반 마련.hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
+    },
+    {
+      "title": "\"2032년 달 착륙선 어디에 내릴까\" 착륙 후보 지역 분석 결과 공개",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787278",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 10월 30일(금), 한국우주과학회 가을학술대회에서「우리나라 달 탐사 착륙지 선정을 위한 간담회」를 개최하여 2032년 달 착륙선의 착륙 후보 지역에 대한 과학·공학적 분석 결과를 발표하였다. 이번 간담회는 2032년 발사 예정인 연착륙 검증선과 달 착륙선의 착륙 후보 지역을 검토하고, 관련 분야 산·학·연 전문가들의 의견을 듣기 위해 마련되었다. 간담회에서는 착륙 후보 지역에 대한 과학·공학적 분석 결과를 발표하고, 후보 지역의 과학적 가치와 착륙 안전성 등을 중심으로 논의를 진행하였다. 2032년 상반",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581002&tblKey=GMN",
+          "filename": "261031(조간) ”2032년 달 착륙선 어디에 내릴까” 착륙 후보 지역 분석 결과 공개.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581001&tblKey=GMN",
+          "filename": "261031(조간) ”2032년 달 착륙선 어디에 내릴까” 착륙 후보 지역 분석 결과 공개.hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, \"8·13 대책 신속 추진, 서울 연내 3.1만호 착공 지원\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787277",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, \"8·13 대책 신속 추진, 서울 연내 3.1만호 착공 지원\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580999&tblKey=GMN",
+          "filename": "261030(동정)_홍지선_장관__8·13_대책_신속_추진__서울_연내_3.1만호_착공_지원(주택정비정책과_등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581000&tblKey=GMN",
+          "filename": "261030(동정)_홍지선_장관__8·13_대책_신속_추진__서울_연내_3.1만호_착공_지원(주택정비정책과_등).pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T03:15:14.193843+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
@@ -4933,8 +5068,8 @@
           "filename": "261029 (5급공채팀) 국가공무원 5급·외교관후보자 최종합격자 발표.pdf"
         }
       ],
-      "_attAt": "2026-10-29T21:15:06.226566+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-30T03:15:14.193843+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 제6회 민간투자사업심의위원회 개최",
