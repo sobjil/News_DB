@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T07:45:50.362814+00:00",
-  "count": 2105,
+  "updated": "2026-10-30T08:00:28.689436+00:00",
+  "count": 2106,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1076,7 +1076,8 @@
           "filename": "26-3_인공지능시대농업대전환이끌_현장강사역량높인다(농촌인적자원개발센터).hwp"
         }
       ],
-      "_attAt": "2026-10-30T02:00:10.815029+00:00"
+      "_attAt": "2026-10-30T08:00:21.890290+00:00",
+      "_attRev": 1
     },
     {
       "title": "농촌진흥청, 이달의 신간",
@@ -1164,16 +1165,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580906&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580939&tblKey=GMN",
           "filename": "[26-868] (보도자료) 한-인도네시아 외교장관회담(10.29.) 결과.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580907&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580940&tblKey=GMN",
           "filename": "[26-868] (보도자료) 한-인도네시아 외교장관회담(10.29.) 결과.pdf"
         }
       ],
-      "_attAt": "2026-10-30T02:00:10.815029+00:00"
+      "_attAt": "2026-10-30T08:00:21.890290+00:00",
+      "_attRev": 1
     },
     {
       "title": "현대차그룹 새만금 현지 사무소 30일 개소, 새만금 9조원 투자 실행 본격화",
@@ -2817,6 +2819,27 @@
         }
       ],
       "_attAt": "2026-10-30T07:45:22.089420+00:00"
+    },
+    {
+      "title": "제10차 한-몽골 공동위원회 개최(10.30.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787364",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "김진아 외교부 제2차관은 10.30.(금) 서울에서 바트투무르 엥흐바야르(Battumur ENKHBAYAR) 몽골 내각사무처 장관과 제10차 한-몽골 공동위원회를 개최하고, 지난 7월 한-몽골 정상회담 후속조치 및 경제협력, 사회·문화, 인적교류 등 분야 실질협력 강화 방안에 대해 논의하였다. ※ 한-몽골 공동위원회는 2015년부터 정례 개최되는 양국 간 포괄적 고위급 협의체로, 제9차 공동위는 25.11월 몽골 울란바타르에서 개최 양측은 올해 7월 이재명 대통령의 몽골 국빈 방문을 통해 한-몽골 황금시대 개막을 위한 동력이 마련된",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581454&tblKey=GMN",
+          "filename": "[26-869](보도자료) 제10차 한-몽골 공동위원회 개최(10.30.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581455&tblKey=GMN",
+          "filename": "[26-869](보도자료) 제10차 한-몽골 공동위원회 개최(10.30.).pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T08:00:21.890290+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
