@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T06:15:29.424408+00:00",
-  "count": 2075,
+  "updated": "2026-10-30T06:30:25.174210+00:00",
+  "count": 2076,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2083,6 +2083,27 @@
         }
       ],
       "_attAt": "2026-10-30T06:15:20.143007+00:00"
+    },
+    {
+      "title": "권대영 1차관, 「주요 국책과제 이행점검」 TF 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787314",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "권대영 재정경제부 제1차관은 10.30(금) 14:00 관계부처 차관 등*과 함께 ｢주요 국책과제 이행점검 TF｣ 킥오프 회의를 개최하였다. * 고용노동부 차관, 금융위원회 부위원장, 국가데이터처 처장, 기후에너지환경부 기후에너지정책실장, 과학기술정보통신부 과학기술정책국장 등｢주요 국책과제 이행점검 TF(재경부 1차관 주재)｣는 주요 국책과제 중 국민 파급효과가 크고, 전 부처의 협업이 필요한 ①한국형 녹색대전환(K-GX), ②7대 SEED, ③3대 민생 프로젝트(주거·일자리·서민금융) 등 3개 주요 국책과제의 이행계획을 구체화하고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581230&tblKey=GMN",
+          "filename": "261030-(보도자료)-주요 국책과제 이행점검 TF-★.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581231&tblKey=GMN",
+          "filename": "261030-(보도자료)-주요 국책과제 이행점검 TF-★.pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T06:30:20.966792+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
