@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T05:45:39.865314+00:00",
-  "count": 2070,
+  "updated": "2026-10-30T06:00:31.824729+00:00",
+  "count": 2073,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -441,16 +441,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580687&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580689&tblKey=GMN",
           "filename": "★261030 (보도자료) 9월 및 3분기 산업활동동향_Final.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198580688&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198580690&tblKey=GMN",
           "filename": "★261030 (보도자료) 9월 및 3분기 산업활동동향_Final.pdf"
         }
       ],
-      "_attAt": "2026-10-30T00:00:11.049916+00:00"
+      "_attAt": "2026-10-30T06:00:21.660982+00:00",
+      "_attRev": 1
     },
     {
       "title": "행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의",
@@ -1980,6 +1981,69 @@
         }
       ],
       "_attAt": "2026-10-30T05:45:20.420110+00:00"
+    },
+    {
+      "title": "서부지방산림청, 가을철 산불방지대책본부 운영 개시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787310",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "서부지방산림청, 가을철 산불방지대책본부 운영 개시- 11월 1일부터 본격적인 가을철 산불조심기간 돌입 -서부지방산림청(청장 김인천)은 가을철 산불조심기간(11월 1일~12월 15일)을 앞두고 산불예방 및 대응태세 확립을 다짐하기 위해 10월 30일 청사에서 '가을철 산불방지대책본부 현판식'을 개최하고 가을철 산불방지대책본부를 본격 가동한다고 밝혔다.현판식을 기점으로 본격 가동되는 '가을철 산불방지대책본부'는 비상근무 체계에 돌입하며, 산불취약지 집중 감시, 불법소각 행위 단속, 주민 및 등산객 대상 홍보활동을 대폭 강화할 방침이다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581187&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 가을철 산불방지대책본부 운영 개시).hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581186&tblKey=GMN",
+          "filename": "보도자료(서부지방산림청, 가을철 산불방지대책본부 운영 개시).hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T06:00:21.660982+00:00"
+    },
+    {
+      "title": "북부지방산림청, 가을철 산불조심기간 시작… 산불 예방 총력 대응",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787308",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "북부지방산림청, 가을철 산불조심기간 시작… 산불 예방 총력 대응- 11월 1일부터 12월 15일까지 산불방지대책본부 운영… 24시간 대응 체계 가동 - 북부지방산림청(청장 송준호)은 11월 1일부터 12월 15일까지 운영되는 가을철 산불조심기간 동안 산불 예방과 대응에 총력을 기울이기 위해 산불방지대책본부 현판식을 개최했다고 밝혔다. 최근 기후변화 등 건조한 날씨의 지속으로 산불 발생 위험이 높아지는 가운데, 특히 올해 가을철에는 평년보다 높은 기온으로 산행 인구가 증가할 것으로 예상되어 어느 해보다 산불에 대한 철저한 대비가 필요",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581177&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 가을철 산불조심기간 시작… 산불 예방 총력 대응.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581176&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 가을철 산불조심기간 시작… 산불 예방 총력 대응.hwp"
+        }
+      ],
+      "_attAt": "2026-10-30T06:00:21.660982+00:00"
+    },
+    {
+      "title": "서울출입국·외국인청 문정동 신청사에서 36년 만에 새출발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787311",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-10-30T00:00:00+09:00",
+      "description": "서울출입국·외국인청 문정동 신청사에서36년 만에 새출발-10월 30일 개청식... 대기시간 단축·질높은 서비스 제공으로 민원 편의 높인다-법무부(장관 직무대행 차관 이진수)는 10월 30일 서울 송파구 문정동 법조타운 내 서울출입국·외국인청(이하 '서울청') 신축 청사에서 개청식을 열었다. [※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581192&tblKey=GMN",
+          "filename": "(보도자료) 서울출입국·외국인청 문정동 신청사에서 36년 만에 새출발 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581191&tblKey=GMN",
+          "filename": "(보도자료) 서울출입국·외국인청 문정동 신청사에서 36년 만에 새출발 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-10-30T06:00:21.660982+00:00"
     },
     {
       "title": "2026 코리아 튜닝카 페스티벌 열린다",
@@ -5485,8 +5549,8 @@
           "filename": "[26-867](공동보도자료) 한-독일 이중과세방지협정 개정의정서 서명.pdf"
         }
       ],
-      "_attAt": "2026-10-30T00:00:11.049916+00:00",
-      "_attRev": 2
+      "_attAt": "2026-10-30T06:00:21.660982+00:00",
+      "_attRev": 3
     },
     {
       "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
