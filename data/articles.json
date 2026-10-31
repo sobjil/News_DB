@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:01:43.980911+00:00",
+  "updated": "2026-10-31T08:16:46.677128+00:00",
   "count": 1995,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -93,16 +93,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581651&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581655&tblKey=GMN",
           "filename": "[26-875](보도자료) 우리나라 주도 &#039;군사분야 AI&#039; 유엔 결의 3년 연속 채택.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581652&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581656&tblKey=GMN",
           "filename": "[26-875](보도자료) 우리나라 주도 &#039;군사분야 AI&#039; 유엔 결의 3년 연속 채택.pdf"
         }
       ],
-      "_attAt": "2026-10-31T02:16:41.588896+00:00"
+      "_attAt": "2026-10-31T08:16:44.146072+00:00",
+      "_attRev": 1
     },
     {
       "title": "외교부 2030 청년자문단 3기 역량강화 연수 개최",
