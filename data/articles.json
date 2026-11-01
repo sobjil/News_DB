@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T00:03:55.159740+00:00",
-  "count": 1881,
+  "updated": "2026-11-01T00:18:59.411519+00:00",
+  "count": 1882,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -165,6 +165,27 @@
         }
       ],
       "_attAt": "2026-10-31T23:18:56.959592+00:00"
+    },
+    {
+      "title": "데이터로 읽는 우리 교육 제17호 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787409",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-01T00:00:00+09:00",
+      "description": "데이터로 읽는 우리 교육 제17호 발간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581806&tblKey=GMN",
+          "filename": "[교육부 11-02(월) 조간 보도참고자료] 데이터로 읽는 우리 교육 제17호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581807&tblKey=GMN",
+          "filename": "[별첨] 「데이터로 읽는 우리 교육」 2026년 제17호_외국인 유학생 30만 명 시대 출신국은 넓어지고 중도탈락은 줄었다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T00:18:55.433447+00:00"
     },
     {
       "title": "한미일 외교장관회의(10.30.) 결과",
