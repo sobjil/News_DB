@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T00:48:58.809950+00:00",
-  "count": 1882,
+  "updated": "2026-11-01T01:04:00.061737+00:00",
+  "count": 1883,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -186,6 +186,27 @@
         }
       ],
       "_attAt": "2026-11-01T00:18:55.433447+00:00"
+    },
+    {
+      "title": "충남 서산시 출신 독립유공자 미전수 훈장 전시회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787410",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-11-01T00:00:00+09:00",
+      "description": "충남 서산시 출신 독립유공자 미전수 훈장 전시회 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581809&tblKey=GMN",
+          "filename": "261101 보도자료(충남 서산시 출신 독립유공자 미전수 훈장 전시회 개최)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581808&tblKey=GMN",
+          "filename": "261101 보도자료(충남 서산시 출신 독립유공자 미전수 훈장 전시회 개최)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T01:03:55.188970+00:00"
     },
     {
       "title": "한미일 외교장관회의(10.30.) 결과",
