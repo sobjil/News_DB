@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T23:18:52.163861+00:00",
-  "count": 1898,
+  "updated": "2026-11-01T23:33:50.338750+00:00",
+  "count": 1901,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -233,6 +233,64 @@
         }
       ],
       "_attAt": "2026-11-01T23:18:43.227413+00:00"
+    },
+    {
+      "title": "261102(참고) 공정위, GCR 평가 13년 연속 매우 우수 이상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787463",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "공정위, GCR 평가 13년 연속 '매우 우수' 이상 등급 - 28개 경쟁당국 중 공동 3위, 아시아 경쟁당국 중 가장 높은 평가- 카르텔 중심의 법집행 및 디지털 시장 대응에 대한 성과가 그 동력 공정거래위원회(위원장 주병기, 이하 '공정위')는 영국의 경쟁법 전문 매체인 GCR(Global Competition Review)이 10. 29.(목) 발표한 2026년도 경쟁당국 평가에서 '매우 우수(Very Good, 별 4.5개)' 등급을 받았다. GCR은 2001년부터 매년 각국 경쟁당국의 직전 연도 성과를 평가하여 등급을 발표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581977&tblKey=GMN",
+          "filename": "261102(참고) 공정위, GCR 평가 13년 연속 매우 우수 이상.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581978&tblKey=GMN",
+          "filename": "261102(참고) 공정위, GCR 평가 13년 연속 매우 우수 이상.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:33:43.666604+00:00"
+    },
+    {
+      "title": "식약처, 위생용품 신설 영업 시행 대비 민원인 설명회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787460",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "식약처, 위생용품 신설 영업 시행 대비 민원인 설명회 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581968&tblKey=GMN",
+          "filename": "[26.11.2.(월) 보도참고자료] 식약처, 위생용품 신설 영업 시행 대비 민원인 설명회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581969&tblKey=GMN",
+          "filename": "[26.11.2.(월) 보도참고자료] 식약처, 위생용품 신설 영업 시행 대비 민원인 설명회.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:33:43.666604+00:00"
+    },
+    {
+      "title": "'가을 산불, 번지기 전에 잡는다\"… 소방청 선제 대응체계 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787461",
+      "agency": "소방청",
+      "agencyCode": "nfa",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "﻿'가을 산불, 번지기 전에 잡는다\"…소방청 선제 대응체계 가동- 11월 1일부터 12월 15일까지 45일간 가을철 산불 예방·대응 대책 추진- 취약시간대 순찰·드론 감시 강화, 산림청·지방정부 동시 출동 및 국가소방력 총동원- 대형산불 우려 시 국가소방력 초기 총동원으로 인명·재산 피해 최소화□ 소방청은 가을철 산불 발생 위험에 선제적으로 대응하고 국민의 생명과 재산을 보호하기 위해 11월 1일부터 12월 15일까지 45일간 「2026년 가을철 산불 예방·대응 대책」을 추진한다고 밝혔다. ○ 가을철에는 건조한 날씨와 강풍 등 기상",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581970&tblKey=GMN",
+          "filename": "(11. 2. (월) 조간 보도자료)가을 산불%2C 번지기 전에 잡는다...소방청%2C 선제 대응체계 가동.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-01T23:33:43.666604+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
