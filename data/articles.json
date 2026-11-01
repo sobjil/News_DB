@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T22:03:43.461294+00:00",
-  "count": 1892,
+  "updated": "2026-11-01T22:18:47.193736+00:00",
+  "count": 1893,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,32 @@
         }
       ],
       "_attAt": "2026-11-01T21:18:42.581792+00:00"
+    },
+    {
+      "title": "30살 국제해양법재판소, 해양법의 미래를 항해하다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787454",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "외교부가 주최하고 국제해양법재판소(International Tribunal for the Law of the Sea, ITLOS) 및 대한국제법학회가 공동주관하는 「제11회 해양법 국제학술회의」가 2026.11.3.-4. 서울에서 개최된다. 올해는 \"ITLOS 설립 30주년 기념: 해양법 미래의 모색\"이라는 주제로 지난 30년간 ITLOS가 해양 분쟁의 평화적 해결에 기여해 온 성과를 돌아보고 해양법 판례의 최근 동향과 향후 과제에 대해 논의한다. 개회식에서는 김진아 외교부 2차관의 환영사, 소병천 대한국제법학회장의 개회사 및 모리",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581947&tblKey=GMN",
+          "filename": "[26-884](보도자료) 30살 국제해양법재판소, 해양법의 미래를 항해하다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581948&tblKey=GMN",
+          "filename": "[26-884](보도자료) 30살 국제해양법재판소, 해양법의 미래를 항해하다.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581949&tblKey=GMN",
+          "filename": "261102_ICLS 2026 poster and program.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T22:18:43.717281+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
