@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T23:03:45.205400+00:00",
-  "count": 1893,
+  "updated": "2026-11-01T23:18:52.163861+00:00",
+  "count": 1898,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -128,6 +128,111 @@
         }
       ],
       "_attAt": "2026-11-01T22:18:43.717281+00:00"
+    },
+    {
+      "title": "'11월 저작권 주간' 운영, 저작권 가치와 존중 문화 확산",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787459",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "'11월 저작권 주간' 운영, 저작권 가치와 존중 문화 확산 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1102]문체부보도자료-11월 저작권 주간 운영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581967&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-11월 저작권 주간 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581966&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-11월 저작권 주간 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:18:43.227413+00:00"
+    },
+    {
+      "title": "도서관에서 피어난 문화예술, 주민들의 무대와 작품으로 만난다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787458",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "도서관에서 피어난 문화예술, 주민들의 무대와 작품으로 만난다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1102]문체부보도자료-2026년 도서관 문화예술 동아리 활동 지원 성과공유회 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581964&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-2026년 도서관 문화예술 동아리 활동 지원 성과공유회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581963&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-2026년 도서관 문화예술 동아리 활동 지원 성과공유회 개최.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581965&tblKey=GMN",
+          "filename": "성과공유회 참여 동아리 목록.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:18:43.227413+00:00"
+    },
+    {
+      "title": "[보도참고] '나의 부작용 정보, 나눌수록 안전해져요', 2026 약물안전캠페인 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787456",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "[보도참고] '나의 부작용 정보, 나눌수록 안전해져요', 2026 약물안전캠페인 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581959&tblKey=GMN",
+          "filename": "[26.11.2.(월) 보도참고자료] ‘나의 부작용 정보, 나눌수록 안전해져요‘, 2026 약물안전캠페인 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581960&tblKey=GMN",
+          "filename": "[26.11.2.(월) 보도참고자료] ‘나의 부작용 정보, 나눌수록 안전해져요‘, 2026 약물안전캠페인 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:18:43.227413+00:00"
+    },
+    {
+      "title": "정부혁신 국내 최고 사례 선정 발판 삼아, '꿈의 예술단 2.0'으로 아동·청소년의 예술적 성장을 한 단계 더 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787457",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "정부혁신 국내 최고 사례 선정 발판 삼아, '꿈의 예술단 2.0'으로 아동·청소년의 예술적 성장을 한 단계 더 높인다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1102]문체부보도자료-꿈의 예술단 고도화 추진.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581962&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-꿈의 예술단 고도화 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581961&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-꿈의 예술단 고도화 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T23:18:43.227413+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 첨단 신기술 기반 바이오의약품 가이드라인 현장 활용 지원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787455",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 첨단 신기술 기반 바이오의약품 가이드라인 현장 활용 지원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581958&tblKey=GMN",
+          "filename": "[26.11.2.(월) 보도참고자료] 식약처, 첨단 신기술 기반 바이오의약품 가이드라인 현장 활용 지원.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-01T23:18:43.227413+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
