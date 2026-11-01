@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T01:34:04.131344+00:00",
-  "count": 1883,
+  "updated": "2026-11-01T01:48:58.884522+00:00",
+  "count": 1884,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -207,6 +207,27 @@
         }
       ],
       "_attAt": "2026-11-01T01:03:55.188970+00:00"
+    },
+    {
+      "title": "2026년 10월 수출입 동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787411",
+      "agency": "산업통상부",
+      "agencyCode": "motir",
+      "pubDate": "2026-11-01T00:00:00+09:00",
+      "description": "2026년 10월 수출입 동향- 수출 2개월 연속 1,100억 달러 상회, 무역흑자 2개월 연속 400억 달러 상회- 20대 주요 품목 중 18개 품목 증가- 연 수출 1조 달러까지 남은 금액 700억 달러, 11월 중 달성 확실시 * 10월 수출 1,153억 달러(+93.7%), 수입 728억 달러(+36.0%), 수지 425억 달러 흑자* 1~10월 누적 수출 9,300억 달러(+60.6%), 수입 6,351억 달러(+21.4%), 수지 2,949억 달러 흑자 【총괄】'26.10월 수출은 전년 동월 대비 93.7% 증가한 1,1",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581811&tblKey=GMN",
+          "filename": "2026년 10월 수출입동향_3보_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198581810&tblKey=GMN",
+          "filename": "2026년 10월 수출입동향_3보_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-11-01T01:48:53.884973+00:00"
     },
     {
       "title": "한미일 외교장관회의(10.30.) 결과",
