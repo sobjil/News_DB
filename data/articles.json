@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T09:45:48.596178+00:00",
-  "count": 2006,
+  "updated": "2026-11-02T10:00:46.527649+00:00",
+  "count": 2007,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2471,6 +2471,27 @@
         }
       ],
       "_attAt": "2026-11-02T09:16:16.686504+00:00"
+    },
+    {
+      "title": "[보도자료] 가습기살균제 배상 심의위원회 위촉식",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787654",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "제1차 가습기살균제 배상 심의위원회 개최, 국가·기업 공동 배상체계 본격 가동- 국무총리, 위촉식에서 피해자들의 온전한 배상 위한 위원회 역할 당부- 민간위원장 주재 제1차 회의 개최, 위원회 운영계획 심의 및 배상기준 논의□ 한성숙 국무총리는 11월 2일(월) 오후 정부서울청사에서 가습기살균제 배상 심의위원회(이하\"심의위원회\")의 위촉식을 진행하였다.ㅇ 심의위원회는 가습기살균제 건강피해에 대한 배상을 심의·의결하기 위해 국무총리 소속으로 설치된 위원회로 박종운 위원장을 포함하여 법률·의료 분야 민간위원 19명과 법관 8명, 정부위",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582826&tblKey=GMN",
+          "filename": "261102 가습기살균제 배상 심의위원회 위촉식.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582827&tblKey=GMN",
+          "filename": "261102 가습기살균제 배상 심의위원회 위촉식.pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T10:00:41.783109+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
