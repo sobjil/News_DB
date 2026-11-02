@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T09:00:44.882618+00:00",
-  "count": 2005,
+  "updated": "2026-11-02T09:16:20.806001+00:00",
+  "count": 2006,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2443,6 +2443,22 @@
         }
       ],
       "_attAt": "2026-11-02T08:45:42.813911+00:00"
+    },
+    {
+      "title": "중부지방산림청, 가을철 산불방지대책본부 본격 가동",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787622",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "중부지방산림청(청장 도재영)은 10월 30일 가을철 산불방지대책본부 현판식을 개최하고, 가을철 산불조심기간(11월 1일~12월 15일) 동안 산불방지대책본부를 본격 운영한다고 밝혔다.산불방지대책본부는 산불 발생 시 신고 접수부터 상황 종료까지 진화인력과 장비를 체계적으로 관리하고, 유관기관과 긴밀한 협력체계를 구축해 산불 발생 초기부터 신속하게 대응할 계획이다.특히 가을철 산불의 주요 원인인 입산자 실화와 소각산불을 예방하기 위해 산불감시 인력과 산불예방 ICT플랫폼 장비를 활용한 예방활동을 강화하고, 산불예방 홍보 및 계도활동도 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582758&tblKey=GMN",
+          "filename": "중부지방산림청, 가을철 산불방지대책본부 본격 가동.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-02T09:16:16.686504+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
