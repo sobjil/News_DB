@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T02:03:54.270993+00:00",
-  "count": 1956,
+  "updated": "2026-11-02T02:18:47.716898+00:00",
+  "count": 1957,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1376,6 +1376,27 @@
         }
       ],
       "_attAt": "2026-11-02T02:03:41.976258+00:00"
+    },
+    {
+      "title": "정부, 전후납북자 추가 인정 결정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787547",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "정부, 전후납북자 추가 인정, 분단으로 인한 피해와 아픔 보듬는다- 전후납북자 규모 조정(516명 → 519명), 납북피해자 지원 및 가족 아픔 치유 노력 지속- 대영호 선원 3명 추가 인정 및 피해가족 대상 위로금 지급 결정 【관련 국정과제】 116. 분단고통 해소와 인도적 문제 해결 □ 통일부는 ｢군사정전에 관한 협정 체결 이후 납북피해자의 보상 및 지원에 관한 법률｣(약칭: 전후납북자법) 제6조에 따라 ｢납북 피해자 보상 및 지원 심의위원회｣를 개최하고, 전후납북자를 추가로 인정하고 위로금 지급을 결정했다. * 이번 심의위원회",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582308&tblKey=GMN",
+          "filename": "261102 (통일부 보도자료) 정부, 전후납북자 추가 인정 결정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582309&tblKey=GMN",
+          "filename": "261102 (통일부 보도자료) 정부, 전후납북자 추가 인정 결정.pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T02:18:42.960918+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
