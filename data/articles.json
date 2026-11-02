@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T20:49:56.002496+00:00",
-  "count": 2008,
+  "updated": "2026-11-02T21:04:58.162158+00:00",
+  "count": 2009,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787656",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-03T00:00:00+09:00",
+      "description": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582863&tblKey=GMN",
+          "filename": "261103(석간) 공장 지을 곳 더 찾기 쉬워진다 스마트폰으로 입지 규제 미리 확인(국가공간정보센터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582864&tblKey=GMN",
+          "filename": "261103(석간) 공장 지을 곳 더 찾기 쉬워진다 스마트폰으로 입지 규제 미리 확인(국가공간정보센터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T21:04:53.668368+00:00"
+    },
     {
       "title": "이소영 중기부 장관, 울산 대학창업부터 영주 지역상권까지 1박 2일 경상권 현장 행보",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787453",
