@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T04:18:47.820768+00:00",
-  "count": 1972,
+  "updated": "2026-11-02T04:33:50.037091+00:00",
+  "count": 1975,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -115,21 +115,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581947&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582072&tblKey=GMN",
           "filename": "[26-884](보도자료) 30살 국제해양법재판소, 해양법의 미래를 항해하다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581948&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582073&tblKey=GMN",
           "filename": "[26-884](보도자료) 30살 국제해양법재판소, 해양법의 미래를 항해하다.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198581949&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582074&tblKey=GMN",
           "filename": "261102_ICLS 2026 poster and program.pdf"
         }
       ],
-      "_attAt": "2026-11-01T22:18:43.717281+00:00"
+      "_attAt": "2026-11-02T04:33:42.100299+00:00",
+      "_attRev": 1
     },
     {
       "title": "'11월 저작권 주간' 운영, 저작권 가치와 존중 문화 확산",
@@ -1709,6 +1710,47 @@
         }
       ],
       "_attAt": "2026-11-02T04:18:42.884775+00:00"
+    },
+    {
+      "title": "기획예산처, 2045 국가발전전략 수립을 위해 미래전략 전문가와 심층 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787576",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "기획예산처 장관은 11.2.(월) 미래 대응 관련 전문가와 함께 「미래전략자문회의」를 개최하였습니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582498&tblKey=GMN",
+          "filename": "(보도자료) 261102 미래전략자문회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582497&tblKey=GMN",
+          "filename": "(보도자료) 261102 미래전략자문회의 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T04:33:42.100299+00:00"
+    },
+    {
+      "title": "함양국유림관리소 \"가을철 산불방지대책본부 가동\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787571",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "서부지방산림청 함양국유림관리소(소장 심종민)는 가을철 건조한 날씨로 산불 발생 위험이 높아짐에 따라 11월 1일부터 12월 15일까지 산불방지대책본부를 운영하고, 산불 예방과 신속한 대응에 총력을 기울인다고 밝혔다. 산불방지대책본부 현판식을 시작으로 본격적인 산불 예방·대응 활동에 나섰다. 산불감시 인력과 감시카메라, 드론 등을 활용해 산불 취약지역에 대한 감시와 순찰을 강화하는 한편, 산불 발생 시 신속한 초기 진화가 이루어질 수 있도록 비상 대응체계를 점검했다. 특히 지난해 가을철 총 5건의 산불이 발생해 0.76ha의 산림이 ",
+      "attachments": [],
+      "_attAt": "2026-11-02T04:33:42.100299+00:00"
+    },
+    {
+      "title": "함양국유림관리소, 소나무재선충병 차단 '공동방제' 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787569",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "서부지방산림청 함양국유림관리소(소장 심종민)는 지난 10월 30일, 소나무재선충병의 확산을 조기에 차단하기 위해 산림청의 핵심 방어선인 '국가선단지'를 중심으로 산청군청과 협업 방제에 나섰다.이번 조치는 산림청과 지자체가 협업하여 소나무재선충병 방제 효과를 극대화하기 위한 것으로, 양 기관은 행정 경계를 넘어선 포괄적 공동방제 체계를 구축하여 대응에 나선다.공동방제구역은 기관별 소유 구조나 행정 구역 경계로 인해 발생하는 방제 사각지대를 해소하고, 동시다발적인 확산을 선제적으로 차단하기 위해 운영된다. 양 기관은 드론과 전문 인력을",
+      "attachments": [],
+      "_attAt": "2026-11-02T04:33:42.100299+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
