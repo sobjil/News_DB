@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T08:15:56.613277+00:00",
-  "count": 2000,
+  "updated": "2026-11-02T08:31:07.262564+00:00",
+  "count": 2001,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1452,16 +1452,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582308&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582317&tblKey=GMN",
           "filename": "261102 (통일부 보도자료) 정부, 전후납북자 추가 인정 결정.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582309&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582318&tblKey=GMN",
           "filename": "261102 (통일부 보도자료) 정부, 전후납북자 추가 인정 결정.pdf"
         }
       ],
-      "_attAt": "2026-11-02T02:18:42.960918+00:00"
+      "_attAt": "2026-11-02T08:31:02.168924+00:00",
+      "_attRev": 1
     },
     {
       "title": "국방드론본부 창설",
@@ -2346,6 +2347,27 @@
         }
       ],
       "_attAt": "2026-11-02T08:15:41.595468+00:00"
+    },
+    {
+      "title": "[보도자료] 규제합리화 라이브클럽 현장 간담회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787616",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "라이브클럽 규제, 현장에서 해법을 찾는다- 규제합리화위원회, 11.2.(월) 마포구청에서 '라이브클럽 규제합리화 현장간담회' 개최- 박용진 규제합리화위원회 부위원장 주재, 전국 라이브클럽(오방가르드 등) 대표 및 관계부처 등과 함께 현장 애로 청취 및 법·제도 개선방향 논의□ 규제합리화위원회 민생분과(분과위원장 박용진)는 11월 2일(월) 서울 마포구청에서 일반음식점으로서 '음향시설을 갖춘 공연장(라이브클럽)'으로 운영 중인 관계자들과 함께 '라이브클럽 규제합리화 현장간담회'를 개최했다.·(일시/장소) 11.2(월) 15:00~17",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582728&tblKey=GMN",
+          "filename": "261102_규제합리화 라이브클럽 현장 간담회 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582729&tblKey=GMN",
+          "filename": "261102_규제합리화 라이브클럽 현장 간담회 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T08:31:02.168924+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
