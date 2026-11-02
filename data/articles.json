@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T04:48:47.046651+00:00",
-  "count": 1976,
+  "updated": "2026-11-02T05:03:49.294856+00:00",
+  "count": 1978,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1772,6 +1772,48 @@
         }
       ],
       "_attAt": "2026-11-02T04:48:42.700902+00:00"
+    },
+    {
+      "title": "한국과 베트남, 문화산업 분야 협력 강화 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787582",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "한국과 베트남, 문화산업 분야 협력 강화 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1102]문체부보도자료-문체부 제1차관과 베트남 문체부 차관 면담.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582525&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-문체부 제1차관과 베트남 문체부 차관 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582524&tblKey=GMN",
+          "filename": "[1102]문체부보도자료-문체부 제1차관과 베트남 문체부 차관 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T05:03:42.869448+00:00"
+    },
+    {
+      "title": "\"기술 배우고 싶은 국민 누구나\" 폴리텍, 직업교육과정 교육생 모집",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787581",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-02T00:00:00+09:00",
+      "description": "- 만 15세 이상 '전문기술', 39세 이하 '하이테크', 40세 이상 '중장년특화'- 교육비 전액 국비 지원에 훈련수당까지…전문기술·하이테크 취업률 74.4%한국폴리텍대학(이사장 이철수)이 11월 1일부터 내년 3월 중순까지 2027학년도 직업교육과정 신입생을 모집한다. 전국 39개 캠퍼스 201개 학과에서 총 5,590명을 선발하며, 모든 과정의 교육비 무료이고, 훈련수당도 지급된다. 한국폴리텍대학 직업교육과정은 학교를 갓 떠난 10대부터 신산업 분야로 도약하려는 청년, 인생 2막을 준비하는 중장년까지 생애 단계에 맞춰 교육과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582521&tblKey=GMN",
+          "filename": "261102_보도자료_2027 직업교육과정 교육생 모집(폴리텍대학).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582523&tblKey=GMN",
+          "filename": "261102_보도자료_2027 직업교육과정 교육생 모집(폴리텍대학).pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T05:03:42.869448+00:00"
     },
     {
       "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석",
