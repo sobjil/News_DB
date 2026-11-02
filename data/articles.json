@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T23:34:45.833125+00:00",
-  "count": 2018,
+  "updated": "2026-11-02T23:49:48.033910+00:00",
+  "count": 2020,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -270,6 +270,53 @@
         }
       ],
       "_attAt": "2026-11-02T23:19:43.405009+00:00"
+    },
+    {
+      "title": "\"11월에도 달리는 국민신문고는 전국 순회 중\"… 이번에는 거제·하동·진안으로",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787668",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-11-03T00:00:00+09:00",
+      "description": "\"11월에도 달리는 국민신문고는 전국순회 중\"… 이번에는 거제·하동·진안으로 - 국민권익위, 8월부터 상담의 접근성을 높이기 위해 각 지역별로 본(本) 상담장 이외에 2곳의 부(副) 상담장 별도 설치해 운영 중 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 경상남도 거제시(4일), 하동군(5일), 전북특별자치도 진안군(6일)에서 각각 생활 속 고충과 불편을 상담하는 '달리는 국민신문고'를 운영한다. 이번에 개최되는 '달리는 국민신문고' 상담장에서는 거제시, 하동군, 진안군 지역주민들은 물론 인접한 통영시, 고성군, 남해군, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582906&tblKey=GMN",
+          "filename": "(261103) 11월에도 달리는 국민신문고는 전국 순회 중 이번에는 거제 하동 진안으로(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582907&tblKey=GMN",
+          "filename": "(261103) 11월에도 달리는 국민신문고는 전국 순회 중 이번에는 거제 하동 진안으로(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-11-02T23:49:41.940613+00:00"
+    },
+    {
+      "title": "10월 소비자물가는 2.8% 기록, 김장재료 수급안정 위해 역대 최대규모 김장대책(640억원) 시행, 동절기 농축수산물 수급 안정 총력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787669",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-03T00:00:00+09:00",
+      "description": "권대영 재정경제부 제1차관은 11.3(화) 08:00 「물가관계차관회의*」를 주재하여 ➊10월 소비자물가동향 및 주요특징, ➋동절기 대비 주요 농축수산물 수급 위험요인 점검 및 대응, ➌김장재료 수급안정 대책 등을 논의했다. * 참석부처 : 재경부(주재), 농식품부, 해수부, 데이터처 권 차관은 \"10월 소비자물가는 내구재 등 상승압력에도 불구하고, 정부의 정책 노력에 힘입어 농축수산물 가격이 전년대비 하락하여 2.8% 상승했다\"며, \"중동전쟁 불확실성과 고유가가 지속되는 상황에서도 주요국* 대비 비교적 안정적인 수준을 보이고 있다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582910&tblKey=GMN",
+          "filename": "(관계부처 합동) 11월 물가관계차관회의 개최(11.3. 08시부터) (1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582908&tblKey=GMN",
+          "filename": "(관계부처 합동) 11월 물가관계차관회의 개최(11.3. 08시부터) (1).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582909&tblKey=GMN",
+          "filename": "(관계부처 합동) 11월 물가관계차관회의 개최(11.3. 08시부터) (1).hwp"
+        }
+      ],
+      "_attAt": "2026-11-02T23:49:41.940613+00:00"
     },
     {
       "title": "이소영 중기부 장관, 울산 대학창업부터 영주 지역상권까지 1박 2일 경상권 현장 행보",
