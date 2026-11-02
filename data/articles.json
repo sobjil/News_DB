@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:04:54.538744+00:00",
+  "updated": "2026-11-02T15:19:49.153637+00:00",
   "count": 2008,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2501,11 +2501,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582758&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582764&tblKey=GMN",
           "filename": "중부지방산림청, 가을철 산불방지대책본부 본격 가동.hwpx"
         }
       ],
-      "_attAt": "2026-11-02T09:16:16.686504+00:00"
+      "_attAt": "2026-11-02T15:19:46.171609+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도자료] 가습기살균제 배상 심의위원회 위촉식",
