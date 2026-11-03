@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T09:29:03.168889+00:00",
-  "count": 2123,
+  "updated": "2026-11-03T09:43:45.007854+00:00",
+  "count": 2124,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2547,6 +2547,27 @@
         }
       ],
       "_attAt": "2026-11-03T09:28:42.124463+00:00"
+    },
+    {
+      "title": "최휘영 장관, 전북도지사 만나 '2036 하계올림픽' 유치 현안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787813",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-03T00:00:00+09:00",
+      "description": "최휘영 장관, 전북도지사 만나 '2036 하계올림픽' 유치 현안 논의 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1103]문체부보도자료-2036 하계올림픽 유치 논의.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583609&tblKey=GMN",
+          "filename": "[1103]문체부보도자료-2036 하계올림픽 유치 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583608&tblKey=GMN",
+          "filename": "[1103]문체부보도자료-2036 하계올림픽 유치 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-11-03T09:43:41.880548+00:00"
     },
     {
       "title": "이소영 중기부 장관, 울산 대학창업부터 영주 지역상권까지 1박 2일 경상권 현장 행보",
