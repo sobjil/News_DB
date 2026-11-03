@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T05:59:56.384665+00:00",
-  "count": 2109,
+  "updated": "2026-11-03T06:08:13.485478+00:00",
+  "count": 2110,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -344,7 +344,8 @@
           "filename": "1103 국가유산청-대한암협회, 암 투병 중인 전승자에 치료비·간병비 지원(본문).hwpx"
         }
       ],
-      "_attAt": "2026-11-03T00:04:42.480709+00:00"
+      "_attAt": "2026-11-03T06:08:06.656826+00:00",
+      "_attRev": 1
     },
     {
       "title": "적극행정 우수 공무원 선정... 20년간 쌓은 행정 자료 인공지능(AI)로 찾는다",
@@ -354,7 +355,8 @@
       "pubDate": "2026-11-03T00:00:00+09:00",
       "description": "적극행정 우수 공무원 선정... 20년간 쌓은 행정 자료 인공지능(AI)로 찾는다 입니다.",
       "attachments": [],
-      "_attAt": "2026-11-03T00:04:42.480709+00:00"
+      "_attAt": "2026-11-03T06:08:06.656826+00:00",
+      "_attRev": 1
     },
     {
       "title": "세계 최고 수준의 3,600톤급 디젤잠수함 '서희함' 진수",
@@ -366,16 +368,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582911&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582978&tblKey=GMN",
           "filename": "261103 [청·해군 공동] 세계 최고 수준의 3 600톤급 디젤잠수함 ‘서희함’ 진수.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582912&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198582979&tblKey=GMN",
           "filename": "261103 [청·해군 공동] 세계 최고 수준의 3 600톤급 디젤잠수함 ‘서희함’ 진수.pdf"
         }
       ],
-      "_attAt": "2026-11-03T00:04:42.480709+00:00"
+      "_attAt": "2026-11-03T06:08:06.656826+00:00",
+      "_attRev": 1
     },
     {
       "title": "(국영문 동시배포) 국립문화유산연구원, 한국고고학회와 「제50회 한국고고학전국대회」 개최",
@@ -2170,6 +2173,22 @@
         }
       ],
       "_attAt": "2026-11-03T05:49:41.432752+00:00"
+    },
+    {
+      "title": "휴머노이드가 '일하는 법' 배우는 데이터 생산기지 문 연다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787790",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-03T00:00:00+09:00",
+      "description": "- 공공 개방형 'AI 휴머노이드 데이터 팩토리' 개소 -- 국산 휴머노이드 'KAIROS' 개발 연계… 2027년 말 산학연 개방 추진 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583475&tblKey=GMN",
+          "filename": "261104 조간 (보도) 휴머노이드가 일하는 법 배우는 데이터 생산기지 문 연다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-03T06:08:06.656826+00:00"
     },
     {
       "title": "이소영 중기부 장관, 울산 대학창업부터 영주 지역상권까지 1박 2일 경상권 현장 행보",
