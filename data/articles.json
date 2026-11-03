@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T06:43:52.755463+00:00",
+  "updated": "2026-11-03T06:58:45.664987+00:00",
   "count": 2112,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -659,16 +659,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582997&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583377&tblKey=GMN",
           "filename": "261103_보도자료_제14차 ASEAN+3 HRD 포럼 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198582996&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583376&tblKey=GMN",
           "filename": "261103_보도자료_제14차 ASEAN+3 HRD 포럼 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-03T00:49:41.694334+00:00"
+      "_attAt": "2026-11-03T06:58:41.454141+00:00",
+      "_attRev": 1
     },
     {
       "title": "새만금 개발 대전환 - 개발목표 2050년에서 15년 앞당겨 2035년으로 -",
@@ -694,7 +695,8 @@
           "filename": "261028 새만금 개발 대전환 개발목표 2050년에서 15년 앞당겨 2035년으로.hwp"
         }
       ],
-      "_attAt": "2026-11-03T00:49:41.694334+00:00"
+      "_attAt": "2026-11-03T06:58:41.454141+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"연결을 넘어, AI가 만드는 새로운 가치\" 「2026 AIoT Week Korea」 개막",
