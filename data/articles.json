@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T22:54:00.018542+00:00",
-  "count": 2115,
+  "updated": "2026-11-03T23:08:53.401691+00:00",
+  "count": 2117,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -134,6 +134,48 @@
         }
       ],
       "_attAt": "2026-11-03T22:23:45.103060+00:00"
+    },
+    {
+      "title": "[보도참고] 식품안전나라 'AI 기반 검색'·'자주 찾는 민원'으로 쉽고 빠르게",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787852",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "[보도참고] 식품안전나라 'AI 기반 검색'·'자주 찾는 민원'으로 쉽고 빠르게",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583718&tblKey=GMN",
+          "filename": "[26.11.4.(수) 보도참고자료] 식품안전나라 ‘AI 기반 검색’·‘자주 찾는 민원’으로 쉽고 빠르게.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583719&tblKey=GMN",
+          "filename": "[26.11.4.(수) 보도참고자료] 식품안전나라 ‘AI 기반 검색’·‘자주 찾는 민원’으로 쉽고 빠르게.pdf"
+        }
+      ],
+      "_attAt": "2026-11-03T23:08:44.883946+00:00"
+    },
+    {
+      "title": "덜 짜고 덜 단 식품 선택의 폭 넓힌다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787851",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "덜 짜고 덜 단 식품 선택의 폭 넓힌다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583716&tblKey=GMN",
+          "filename": "[26.11.4.(수) 보도자료] 덜 짜고 덜 단 식품 선택의 폭 넓힌다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583717&tblKey=GMN",
+          "filename": "[26.11.4.(수) 보도자료] 덜 짜고 덜 단 식품 선택의 폭 넓힌다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-03T23:08:44.883946+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
@@ -2107,8 +2149,8 @@
           "filename": "261103_보도자료_대불산단 간담회.pdf"
         }
       ],
-      "_attAt": "2026-11-03T17:08:43.446090+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-03T23:08:44.883946+00:00",
+      "_attRev": 3
     },
     {
       "title": "말하기 어려웠던 연구 현장의 목소리, 익명의 문자 한 통(1551-1441)으로 듣는다",
