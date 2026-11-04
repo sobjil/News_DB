@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T06:31:52.643135+00:00",
-  "count": 2191,
+  "updated": "2026-11-04T06:46:48.855260+00:00",
+  "count": 2192,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -535,16 +535,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583788&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583986&tblKey=GMN",
           "filename": "[보도참고자료] 희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583789&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583987&tblKey=GMN",
           "filename": "[보도참고자료] 희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진.pdf"
         }
       ],
-      "_attAt": "2026-11-04T00:41:13.753457+00:00"
+      "_attAt": "2026-11-04T06:46:42.531764+00:00",
+      "_attRev": 1
     },
     {
       "title": "지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간",
@@ -556,16 +557,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583786&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583992&tblKey=GMN",
           "filename": "348 [지식재산처] 지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583787&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583993&tblKey=GMN",
           "filename": "348 [지식재산처] 지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간.pdf"
         }
       ],
-      "_attAt": "2026-11-04T00:41:13.753457+00:00"
+      "_attAt": "2026-11-04T06:46:42.531764+00:00",
+      "_attRev": 1
     },
     {
       "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행!",
@@ -1706,6 +1708,27 @@
         }
       ],
       "_attAt": "2026-11-04T06:16:49.529302+00:00"
+    },
+    {
+      "title": "[보도자료] 대테러 전담조직 저격수 역량강화 훈련 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787943",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "대테러센터, 군·경찰·해경저격수 합동 역량 강화훈련 실시- 대테러특공대·특수임무대 저격수 실전 대응역량 및 관계기관 공조체계 강화□ 테러 현장에서 인질의 생명을 구하고 작전의 성패를 좌우하는 저격수들의 실전 역량 강화와 대테러 작전 공조체계 확립을 위한 훈련이 군·경찰·해경 합동으로 실시됐다.□ 국무조정실 대테러센터(센터장 박원호)는 11. 2.(월)부터 11. 4.(수)까지 경북 포항 수성사격장(해병대 훈련장)에서 3개 기관 23개 부대가 참가한 가운데 ｢대테러특공대 저격수 역량강화 훈련｣을 실시했다고 4일 밝혔다. 대테러특공대 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584124&tblKey=GMN",
+          "filename": "261104 대테러 전담조직 저격수 역량강화 훈련 실시(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584125&tblKey=GMN",
+          "filename": "261104 대테러 전담조직 저격수 역량강화 훈련 실시(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T06:46:42.531764+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
