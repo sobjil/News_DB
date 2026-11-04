@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T07:16:57.295950+00:00",
-  "count": 2199,
+  "updated": "2026-11-04T07:31:56.091868+00:00",
+  "count": 2202,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -798,7 +798,8 @@
           "filename": "[교육부 11-04(수) 10시 보도자료] 의대 신설 지역 대학 선정 및 정원 배정.hwpx"
         }
       ],
-      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 복잡한 외자구매 간소화해 수요기관 부담 낮춰",
@@ -810,16 +811,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583843&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583868&tblKey=GMN",
           "filename": "261104_(보도자료)_복잡한 외자구매 간소화해 수요기관 부담 낮춰.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583842&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583867&tblKey=GMN",
           "filename": "261104_(보도자료)_복잡한 외자구매 간소화해 수요기관 부담 낮춰.pdf"
         }
       ],
-      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 계약현장과 소통하며 공공조달 개선방안 찾는다",
@@ -831,16 +833,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583841&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584071&tblKey=GMN",
           "filename": "261104_(보도자료)_조달청 계약현장과 소통 공공조달 개선방안 찾는다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583840&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584070&tblKey=GMN",
           "filename": "261104_(보도자료)_조달청 계약현장과 소통 공공조달 개선방안 찾는다.pdf"
         }
       ],
-      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 1
     },
     {
       "title": "[2026년 10월 기후특성] 변동 컸던 10월, 상순 건조 → 중순 이상고온 → 하순 잦은 강수",
@@ -852,21 +855,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583833&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583860&tblKey=GMN",
           "filename": "20261103_보도자료_2026년 10월 기후특성_최종.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583835&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583862&tblKey=GMN",
           "filename": "20261103_보도자료_2026년 10월 기후특성_최종.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583834&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583861&tblKey=GMN",
           "filename": "20261103_보도자료_2026년 10월 기후특성_최종.hwp"
         }
       ],
-      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 1
     },
     {
       "title": "분양가의 25%로 입주하는 LH 공공분양주택, 금년 12월 고양창릉서 첫 분양",
@@ -1901,6 +1905,64 @@
         }
       ],
       "_attAt": "2026-11-04T07:16:43.588115+00:00"
+    },
+    {
+      "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787961",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 지난 '24년 티몬･위메프(이하 티메프) 사태로 피해를 입은 중소기업의 금융부담 완화를 위해 '티메프 피해기업 대상 정책자금 특별만기연장'을 시행한다고 11월 4일(수) 밝혔다. '24년 9월부터 12월까지 티메프 피해기업 지원프로그램을 통해 중소기업 긴급경영안정자금을 지원받은 기업들의 2년간 원금상환 거치기간이 순차적으로 종료되고, 3년간의 원금상환 시기가 도래함에 따라 피해기업의 상환부담이 가중될 것으로 예상된다. 이에 중기부는 피해 중소기업의 경영안정을 지원하기 위해 이번 특별 만기",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584192&tblKey=GMN",
+          "filename": "261104_중기부,_티메프_피해_중소기업_특별만기연장_시행.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584193&tblKey=GMN",
+          "filename": "261104_중기부,_티메프_피해_중소기업_특별만기연장_시행.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T07:31:42.324836+00:00"
+    },
+    {
+      "title": "북부지방산림청, 가을철 산불재난대응 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787960",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "북부지방산림청, 가을철 산불재난대응 현장 점검- 11월 4일부터 6개 국유림관리소 순차 점검… 진화 인력·장비 출동 태세 확인 - 북부지방산림청(청장 송준호)은 가을철 산불조심기간을 맞아 관내 6개 국유림관리소를 대상으로 '산불재난대응 준비태세 현장 점검'을 본격적으로 실시한다고 밝혔다. 이번 점검은 건조한 날씨와 강풍으로 산불 위험이 커지는 가을철을 맞아, 일선 현장의 산불 대응 태세를 사전에 확립하고 유기적인 비상근무 체계를 점검하기 위해 마련됐다. 송준호 북부지방산림청장은 이번 점검 기간 동안 홍천국유림관리소를 시작으로 춘천,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584188&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 가을철 산불재난대응 현장 점검.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584187&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 가을철 산불재난대응 현장 점검.hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T07:31:42.324836+00:00"
+    },
+    {
+      "title": "동부지방산림청, '2026년 산림조사 현장교육' 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787958",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "동부지방산림청(청장 이광호)은 국유림의 효율적 관리와 과학적 산림경영 기반을 마련하기 위해 관내 경영분야 담당 공무원 및 신규임용자를 대상으로 '2026년 산림조사 현장교육'을 실시한다고 밝혔다. 이번 교육은 지속 가능한 산림경영계획 수립의 기초가 되는 산림조사 업무의 전문성을 제고하고, 현장 담당자들의 데이터 수집·분석 역량을 한층 강화하기 위해 추진되었다. 특히 이번 현장교육은 수목의 가슴높이지름(DBH) 및 수고 측정, 수종 식별, 표준지 설정 등 산림자원량 조사의 기본 실무를 재점검하고, 현장 조사의 정밀도를 높이기 위한 실",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584178&tblKey=GMN",
+          "filename": "보도자료(2026년 산림조사 현장교육 실시).hwpx"
+        }
+      ],
+      "_attAt": "2026-11-04T07:31:42.324836+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
@@ -4470,8 +4532,8 @@
           "filename": "261103 즉시 (보도) 청년들의 창의적 아이디어로 합성생물학의 미래를 연다 - 26년 합성생물학 경진대회 본선대회 개최.hwpx"
         }
       ],
-      "_attAt": "2026-11-04T01:23:42.166071+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 3
     },
     {
       "title": "국민인공지능서비스혁신추진단, 전문임기제공무원 2차 공개 모집",
@@ -4487,8 +4549,8 @@
           "filename": "261103 즉시 (보도) 국민인공지능서비스혁신추진단, 전문임기제공무원 2차 공개 모집.hwpx"
         }
       ],
-      "_attAt": "2026-11-04T01:25:42.013454+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-04T07:31:42.324836+00:00",
+      "_attRev": 3
     },
     {
       "title": "이소영 중기부 장관, 울산 대학창업부터 영주 지역상권까지 1박 2일 경상권 현장 행보",
