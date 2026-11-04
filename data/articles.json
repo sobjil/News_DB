@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T07:01:54.827893+00:00",
-  "count": 2194,
+  "updated": "2026-11-04T07:16:57.295950+00:00",
+  "count": 2199,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -689,16 +689,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583831&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583988&tblKey=GMN",
           "filename": "[11.4.수 10시 이후] 의대 신설 지역 대학 선정 및 정원 배정.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583832&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583989&tblKey=GMN",
           "filename": "[11.4.수 10시 이후] 의대 신설 지역 대학 선정 및 정원 배정.pdf"
         }
       ],
-      "_attAt": "2026-11-04T01:08:42.035478+00:00"
+      "_attAt": "2026-11-04T07:16:43.588115+00:00",
+      "_attRev": 1
     },
     {
       "title": "순국선열의 날 기념식， 한 편의 뮤지컬 서사극인 '공연형 정부기념식'으로 새롭게 선보인다",
@@ -719,7 +720,8 @@
           "filename": "261104 보도자료(순국선열의 날 기념식， 한 편의 뮤지컬 서사극인 &#039;공연형 정부기념식&#039;으로 새롭게 선보인다)최종.pdf"
         }
       ],
-      "_attAt": "2026-11-04T01:08:42.035478+00:00"
+      "_attAt": "2026-11-04T07:16:43.588115+00:00",
+      "_attRev": 1
     },
     {
       "title": "중국 산동행정 연수단, 조정원 방문…선진 분쟁조정 노하우 배운다",
@@ -740,7 +742,8 @@
           "filename": "261104(참고) 중국 산동행정학원 연수단, 한국공정거래조정원 방문… 선진 분쟁조정 노하우 배운다.pdf"
         }
       ],
-      "_attAt": "2026-11-04T01:08:42.035478+00:00"
+      "_attAt": "2026-11-04T07:16:43.588115+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 우수 임업경영체 찾아 현장중심 산림지원 방안 모색",
@@ -752,16 +755,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583827&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583856&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 우수 임업경영체 찾아 현장중심 산림지원 방안 모색.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583826&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583855&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 우수 임업경영체 찾아 현장중심 산림지원 방안 모색.hwp"
         }
       ],
-      "_attAt": "2026-11-04T01:08:42.035478+00:00"
+      "_attAt": "2026-11-04T07:16:43.588115+00:00",
+      "_attRev": 1
     },
     {
       "title": "중부지방산림청, 충청북도 산불 대응 역량 강화 교육실tl",
@@ -773,11 +777,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583818&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583847&tblKey=GMN",
           "filename": "중부지방산림청, 충청북도 산불 대응 역량 강화 교육실시.hwpx"
         }
       ],
-      "_attAt": "2026-11-04T01:08:42.035478+00:00"
+      "_attAt": "2026-11-04T07:16:43.588115+00:00",
+      "_attRev": 1
     },
     {
       "title": "의대 신설 지역/대학 선정 및 정원 배정",
@@ -1771,6 +1776,131 @@
         }
       ],
       "_attAt": "2026-11-04T07:01:41.925295+00:00"
+    },
+    {
+      "title": "농촌진흥청, 한우농가 찾아 정보통신기술 활용 현장 살펴",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787955",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "이승돈 농촌진흥청장은 11월 2일 전북특별자치도 정읍시 서우농장을 방문해 한우 사육과 정보통신기술(ICT) 장비 활용 현황을 살피고, 현장 지원 방향을 논의했다. 이 청장은 발정탐지기와 로봇포유기 등 정보통신기술(ICT) 장비를 활용한 번식·송아지 관리 사례를 살펴보고, 농장 운영과 장비 활용 과정에서의 개선점 등을 수렴했다. 또한, 번식 관리와 송아지 사육 시설을 둘러보고, 농장 운영과 정보통신기술(ICT) 활용 과정에서 겪은 어려움과 해법을 들었다. 이어 우수 관리 사례를 다른 농가에서도 활용할 수 있게끔 확산 방안에 대해서도 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584167&tblKey=GMN",
+          "filename": "3-4_(즉시보도_전매체_현장방문)농촌진흥청장,_한우농가_찾아_정보통신기술_활용_현장_살펴(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584168&tblKey=GMN",
+          "filename": "3-4_(즉시보도_전매체_현장방문)농촌진흥청장,_한우농가_찾아_정보통신기술_활용_현장_살펴(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584166&tblKey=GMN",
+          "filename": "3-4_(즉시보도_전매체_현장방문)농촌진흥청장,_한우농가_찾아_정보통신기술_활용_현장_살펴(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T07:16:43.588115+00:00"
+    },
+    {
+      "title": "젖소 메탄 배출량, 품종별 생산 특성 함께 살펴야",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787953",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 국내 사육 환경에서 저지종과 홀스타인종 젖소의 메탄 배출량을 직접 측정한 결과, 저지종 한 마리당 하루 평균 배출량이 홀스타인종보다 27.4% 적은 것으로 나타났다고 밝혔다. 연구진은 사료 섭취량과 우유 생산량 등도 함께 분석해 품종별 메탄 배출 특성을 비교했다. 젖소가 배출하는 메탄은 체중과 사료 섭취량, 우유 생산량 등 여러 요인에 의해 영향을 받는다. 따라서 품종별 메탄 배출 특성을 정확히 파악하려면 한 마리당 배출량뿐 아니라 이러한 생산 특성을 함께 살펴볼 필요가 있다. 저지종은 국내에서 주로 사육",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584161&tblKey=GMN",
+          "filename": "3-3_젖소_메탄_배출량__품종별_생산_특성_함께_살펴야(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584162&tblKey=GMN",
+          "filename": "3-3_젖소_메탄_배출량__품종별_생산_특성_함께_살펴야(축산원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584160&tblKey=GMN",
+          "filename": "3-3_젖소_메탄_배출량__품종별_생산_특성_함께_살펴야(축산원).hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T07:16:43.588115+00:00"
+    },
+    {
+      "title": "이 땅에 집 지을 수 있나요? \"복잡한 인허가, 인공지능(AI)으로 쉽게\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787948",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "이 땅에 집 지을 수 있나요 \"복잡한 인허가, 인공지능(AI)으로 쉽게\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584146&tblKey=GMN",
+          "filename": "261105(조간) 이 땅에 집 지을 수 있나요 복잡한 인허가 인공지능으로 쉽게(국토정보정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584147&tblKey=GMN",
+          "filename": "261105(조간) 이 땅에 집 지을 수 있나요 복잡한 인허가 인공지능으로 쉽게(국토정보정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T07:16:43.588115+00:00"
+    },
+    {
+      "title": "시장 출하 앞둔 감 '봉황' 현장 평가회, 새로운 모양·식감 주목",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787951",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "단감처럼 아삭하게, 연시*처럼 부드럽게 즐길 수 있는 감 '봉황'이 첫 시장 출하를 앞두고 농업인과 소비자 평가를 받는다. 농촌진흥청(청장 이승돈)은 11월 3일 국립원예특작과학원 배연구센터(전남광주통합특별시 나주)에서 '봉황'과 우수 단감 계통을 소개하는 현장 평가회를 연다.* 감이 자연적으로 후숙되어 과육이 말랑하고 달콤하게 된 상태 이번 평가회는 도입 품종인 '부유'와 '태추'를 대체할 국산 단감을 현장에 선보이고, 농업인과 소비자, 유통업계, 묘목업계 관계자들의 의견을 듣기 위해 마련했다. 단감에 관심 있는 국민이면 누구나 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584155&tblKey=GMN",
+          "filename": "3-2_시장출하앞둔감봉황현장평가회새로운모양식감주목(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584156&tblKey=GMN",
+          "filename": "3-2_시장출하앞둔감봉황현장평가회새로운모양식감주목(원예원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584154&tblKey=GMN",
+          "filename": "3-2_시장출하앞둔감봉황현장평가회새로운모양식감주목(원예원).hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T07:16:43.588115+00:00"
+    },
+    {
+      "title": "대마 기능성 성분 '칸플라빈' 생산 적합한 숙주-효소 조합 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787949",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 어떤 숙주 생물을 이용하느냐에 따라 대마에 소량 존재하는 기능성 성분 '칸플라빈' 생성 활성이 달라지는 것을 확인했다. 칸플라빈은 대마에서 생성되는 천연물로, 대표적으로 칸플라빈 에이(A)와 비(B)가 있다. 다양한 생리활성이 보고된 이들의 활용 가능성이 연구되고 있으나, 대마에 0.02% 미만(건조 중량 기준)으로 매우 적게 존재해 식물에서 직접 추출하는 것으로는 충분한 양을 확보하기 어렵다. 이에 연구진은 직접 칸플라빈을 추출하는 대신 효모나 식물 등 다른 생물을 이용해 칸플라빈을 생성하는 방법에 주목",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584149&tblKey=GMN",
+          "filename": "3-1_대마기능성성분칸플라빈생산적합한숙주효소조합확인(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584150&tblKey=GMN",
+          "filename": "3-1_대마기능성성분칸플라빈생산적합한숙주효소조합확인(농과원).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584148&tblKey=GMN",
+          "filename": "3-1_대마기능성성분칸플라빈생산적합한숙주효소조합확인(농과원).hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T07:16:43.588115+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
