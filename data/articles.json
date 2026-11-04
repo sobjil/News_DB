@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T10:01:50.464121+00:00",
-  "count": 2211,
+  "updated": "2026-11-04T10:31:49.071131+00:00",
+  "count": 2212,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1443,7 +1443,8 @@
           "filename": "(식품산업정책관-푸드테크정책과) “맛으로 잇는 세계 K-푸드로 통하다”… 「푸드위크 코리아 2026」 화려한 막 올려(11. 4. 13시부터).pdf"
         }
       ],
-      "_attAt": "2026-11-04T04:16:42.287959+00:00"
+      "_attAt": "2026-11-04T10:31:43.715938+00:00",
+      "_attRev": 1
     },
     {
       "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어",
@@ -2174,6 +2175,37 @@
         }
       ],
       "_attAt": "2026-11-04T10:01:44.259576+00:00"
+    },
+    {
+      "title": "OECD 가입 30주년, 한국경제의 새로운 도약을 위한 성장전략 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787996",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "외교부는 주OECD대표부 주관으로 11월 4일(수) 서울 더그랜드롯데에서 'OECD와의 동행 30년과 새로운 미래'를 주제로 「OECD 가입 30주년 기념 세미나」를 개최하였다. 1996년 OECD 가입 이후 30년간 한국의 경제·사회 발전과 한-OECD 협력 성과를 돌아보고, 한국경제의 성장잠재력 확충과 구조전환을 위한 정책 방향을 논의하기 위해 마련되었다. 지난 4월 파리 OECD 본부 기념 세미나에 이어 열린 이번 행사에는 한성숙 국무총리와 마티아스 코먼(Mathias Cormann) OECD 사무총장은 영상축사로 참여하였으며",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584328&tblKey=GMN",
+          "filename": "붙임1. 국무총리 영상축사 배포본.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584327&tblKey=GMN",
+          "filename": "[26-895] (보도자료) OECD 가입 30주년, 한국경제의 새로운 도약을 위한 성장전략 논의.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584329&tblKey=GMN",
+          "filename": "붙임2. 프로그램.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584326&tblKey=GMN",
+          "filename": "[26-895] (보도자료) OECD 가입 30주년, 한국경제의 새로운 도약을 위한 성장전략 논의.hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T10:31:43.715938+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
