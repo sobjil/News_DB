@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T09:46:50.639226+00:00",
-  "count": 2210,
+  "updated": "2026-11-04T10:01:50.464121+00:00",
+  "count": 2211,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2153,6 +2153,27 @@
         }
       ],
       "_attAt": "2026-11-04T09:31:48.183538+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787995",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시□ 한성숙 국무총리는 11월 4일(수) 경기 연천군 소재 산란계 농장에서 고병원성 조류인플루엔자(AI)가 확진됨에 따라 다음과 같이 긴급 지시하였다.ㅇ 농림축산식품부는 이번 동절기 농장에서 처음으로 고병원성 조류인플루엔자가 발생한 만큼, 경각심을 가지고 초동 방역에 만전을 기하여 추가 확산을 막을 것- 발생 농장에 대한 출입통제, 살처분, 방역대 내 농장의 이동제한, 소독 등 긴급행동지침에 따른 차단방역을 철저히 이행할 것- 농장 간 전파를 막기 위해 가금농장 및 관련",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584324&tblKey=GMN",
+          "filename": "261104_한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584325&tblKey=GMN",
+          "filename": "261104_한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T10:01:44.259576+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
