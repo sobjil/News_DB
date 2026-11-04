@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T05:16:55.983672+00:00",
-  "count": 2185,
+  "updated": "2026-11-04T05:32:00.995986+00:00",
+  "count": 2188,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -193,16 +193,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583732&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584038&tblKey=GMN",
           "filename": "[1104]문체부보도자료-점자교원 2급 자격증 취득자 첫 배출.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583731&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584037&tblKey=GMN",
           "filename": "[1104]문체부보도자료-점자교원 2급 자격증 취득자 첫 배출.pdf"
         }
       ],
-      "_attAt": "2026-11-03T23:23:48.929551+00:00"
+      "_attAt": "2026-11-04T05:31:51.156850+00:00",
+      "_attRev": 1
     },
     {
       "title": "한글 점자 '훈맹정음' 반포 100주년 의미 되새긴다",
@@ -223,7 +224,8 @@
           "filename": "[1104]문체부보도자료-한글 점자 반포 100주년 기념식 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-03T23:23:48.929551+00:00"
+      "_attAt": "2026-11-04T05:31:51.156850+00:00",
+      "_attRev": 1
     },
     {
       "title": "생성형 인공지능 시대, 저작권 기술의 미래를 논하다",
@@ -244,7 +246,8 @@
           "filename": "[1104]문체부보도자료-2026 국제 저작권기술 콘퍼런스 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-03T23:23:48.929551+00:00"
+      "_attAt": "2026-11-04T05:31:51.156850+00:00",
+      "_attRev": 1
     },
     {
       "title": "한-폴란드, 방산·배터리·인프라 분야 실질협력 강화",
@@ -256,16 +259,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583720&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583733&tblKey=GMN",
           "filename": "[26-891](보도자료) 한-폴란드 방산·배터리·인프라 분야 실질협력 강화.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198583721&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583734&tblKey=GMN",
           "filename": "[26-891](보도자료) 한-폴란드 방산·배터리·인프라 분야 실질협력 강화.pdf"
         }
       ],
-      "_attAt": "2026-11-03T23:23:48.929551+00:00"
+      "_attAt": "2026-11-04T05:31:51.156850+00:00",
+      "_attRev": 1
     },
     {
       "title": "농식품부 장관, 배추 등 가격 하락 김장채소류 실질적 소비촉진 대책 추진 당부",
@@ -1564,6 +1568,69 @@
         }
       ],
       "_attAt": "2026-11-04T05:16:43.947199+00:00"
+    },
+    {
+      "title": "가장 가까운 위협으로부터 국민이 안심할 수 있도록... 경찰청, 관계성 범죄 전수점검 결과 발표",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787937",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "가장 가까운 위협으로부터 국민이 안심할 수 있도록... 경찰청, 관계성 범죄 전수점검 결과 발표 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584056&tblKey=GMN",
+          "filename": "★★261103 (보도자료) 경찰청, 관계성 범죄 전수점검 결과 발표(게재용).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584057&tblKey=GMN",
+          "filename": "★★261103 (보도자료) 경찰청, 관계성 범죄 전수점검 결과 발표(게재용).pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T05:31:51.156850+00:00"
+    },
+    {
+      "title": "관세청, 「코리아 커스텀즈 위크 2026」 성공적 마무리… 수출기업 통관 장벽 낮췄다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787936",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "관세청, 「코리아 커스텀즈 위크 2026」 성공적 마무리… 수출기업 통관 장벽 낮췄다- 미국 관세청·주한 유럽연합 대표부 등 글로벌 관세당국 및 기업 관계자 721명 참석- 미국 통관 실무 사례 공유, 유럽연합(EU) 탄소국경조정제도(CBAM) 등 최신 통상 이슈 대응- 주요국과 7차례 양자면담 진행, 우리 기업의 해외 통관 불확실성 해소 기여 관세청은 11월 2일(월)부터 4일(수)까지 사흘간 서울 롯데호텔 월드에서 개최한 「코리아 커스텀즈 위크(Korea Customs Week, KCW) 2026」이 성공적으로 마무리되었다고 밝",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584044&tblKey=GMN",
+          "filename": "261104 관세청, 「코리아 커스텀즈 위크 2026」 성공적 마무리… 수출기업 통관 장벽 낮췄다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584045&tblKey=GMN",
+          "filename": "261104 관세청, 「코리아 커스텀즈 위크 2026」 성공적 마무리… 수출기업 통관 장벽 낮췄다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T05:31:51.156850+00:00"
+    },
+    {
+      "title": "디지털크리에이터, 아시아 최대 규모 라이선싱 엑스포 첫 참가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787934",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "디지털크리에이터, 아시아 최대 규모 라이선싱 엑스포 첫 참가- 차이나 엑스포서 146건 해외 기업 매칭과 86.5억 원 규모 계약 상담 성과 - 국내 디지털크리에이터들*이 아시아 최대 규모의 라이선싱 엑스포에 처음 참가해 총 146건의 기업 매칭과 약 653만 달러(한화 86.5억 원) 규모의 계약 상담 성과를 거뒀다. * (디지털크리에이터) 온라인동영상플랫폼을 통해 동영상을 제작·유통·소통하는 사업자 방송미디어통신위원회(위원장 김종철)와 한국전파진흥협회(회장 홍범식)는 지난달 21~23일 중국 상하이에서 열린 '2026 차이나 라",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584034&tblKey=GMN",
+          "filename": "261104 (보도자료) 디지털크리에이터, 아시아 최대 규모 라이선싱 엑스포 첫 참가.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584033&tblKey=GMN",
+          "filename": "261104 (보도자료) 디지털크리에이터, 아시아 최대 규모 라이선싱 엑스포 첫 참가.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T05:31:51.156850+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
