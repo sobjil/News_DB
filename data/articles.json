@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T07:46:47.327485+00:00",
-  "count": 2203,
+  "updated": "2026-11-04T08:01:47.981625+00:00",
+  "count": 2205,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -20,6 +20,7 @@
     "국가유산청",
     "국무조정실",
     "국민권익위원회",
+    "국민통합위원회",
     "국방부",
     "국세청",
     "국토교통부",
@@ -1984,6 +1985,48 @@
         }
       ],
       "_attAt": "2026-11-04T07:46:43.683291+00:00"
+    },
+    {
+      "title": "통합위, 제22차 전체회의 개최…국민통합 국민제안 도출 및 제도적 기반 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787963",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584215&tblKey=GMN",
+          "filename": "통합위, 제22차 전체회의 개최…국민통합 국민제안 도출 및 제도적 기반 마련.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584214&tblKey=GMN",
+          "filename": "통합위, 제22차 전체회의 개최…국민통합 국민제안 도출 및 제도적 기반 마련.hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T08:01:43.991370+00:00"
+    },
+    {
+      "title": "(동정) 남재헌 해수부 차관, 부산국제수산엑스포에서 수산식품 수출 현장 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787964",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "남재헌 해수부 차관, 부산국제수산엑스포에서 수산식품 수출 현장 점검- '제24회 부산국제수산엑스포' 개막식 참석하고 무역상담회 방문- 수산식품 수출 기업을 격려하고 수출 확대 독려 남재헌 해양수산부 차관은 11월 4일(수) 부산 벡스코에서 열린 '제24회 부산국제수산엑스포' 개막식에 참석하고, 엑스포와 연계한 해외 바이어 초청 수산식품 수출 무역 상담회를 점검했다. 남 차관은 무역 상담회 현장을 방문하여 국내 수출 기업과 해외 바이어 간 일대일 무역 상담 진행 상황을 살펴보고, 해외 시장 개척 사업 홍보관과 무역지원센터를 방문해 관",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584218&tblKey=GMN",
+          "filename": "261104_(동정)_남재헌_해수부_차관__부산국제수산엑스포에서_수산식품_수출_현장_점검.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584217&tblKey=GMN",
+          "filename": "261104_(동정)_남재헌_해수부_차관__부산국제수산엑스포에서_수산식품_수출_현장_점검.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T08:01:43.991370+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
