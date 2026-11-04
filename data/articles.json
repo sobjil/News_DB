@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T01:08:51.746159+00:00",
-  "count": 2145,
+  "updated": "2026-11-04T01:23:52.113858+00:00",
+  "count": 2149,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -749,6 +749,90 @@
         }
       ],
       "_attAt": "2026-11-04T01:08:42.035478+00:00"
+    },
+    {
+      "title": "의대 신설 지역/대학 선정 및 정원 배정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787886",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "의대 신설 지역/대학 선정 및 정원 배정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583838&tblKey=GMN",
+          "filename": "[교육부 11-04(수) 10시 보도자료] 의대 신설 지역 대학 선정 및 정원 배정.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+    },
+    {
+      "title": "조달청, 복잡한 외자구매 간소화해 수요기관 부담 낮춰",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787888",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "조달청, 복잡한 외자구매 간소화해 수요기관 부담 낮춰- 규격검토 절차 개선 등으로 외자구매 소요일수 10일 이상 단축- '27년 기타기관 조달수수료 5% 할인을 추진하고 사전컨설팅 지원 확대 조달청(청장 백승보)은 수요기관의 외자구매부담을 줄이고 전문적인 중앙조달 서비스를 보다 쉽게 이용할 수 있도록 계약절차 간소화, 규격검토 개선, 조달수수료 할인 및 사전컨설팅 확대 등 외자구매 개선방안을 마련해 추진한다고 밝혔다. 외자구매란 슈퍼컴퓨터, 대형 헬기 등 국내 생산·공급이 어려운 물품을 해외에서 구매하는 것으로, 국제입찰과 계약, ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583843&tblKey=GMN",
+          "filename": "261104_(보도자료)_복잡한 외자구매 간소화해 수요기관 부담 낮춰.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583842&tblKey=GMN",
+          "filename": "261104_(보도자료)_복잡한 외자구매 간소화해 수요기관 부담 낮춰.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+    },
+    {
+      "title": "조달청, 계약현장과 소통하며 공공조달 개선방안 찾는다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787887",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "조달청, 계약현장과 소통하며 공공조달 개선방안 찾는다 - 본청·지방청 구매업무 계약담당자 140여명 참석 소통 간담회 개최 - 공공조달 가격관리 강화, 무분별 입찰 방지, MAS 신속계약체결 등 토론 조달청(청장 백승보)은 11월 4일 정부대전청사 인근에서 구매계약업무 담당 약 140명의 직원이 참여한 가운데 \"본·지방청 구매업무 계약담당자 대상 소통 간담회\"를 개최했다. (사진 별첨) 이번 간담회는 최근 언론 등에서 제기되고 있는 공공조달 관련 이슈들에 대해 계약 현장의 다양한 의견을 폭넓게 청취하고, 이를 바탕으로 실천 가능한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583841&tblKey=GMN",
+          "filename": "261104_(보도자료)_조달청 계약현장과 소통 공공조달 개선방안 찾는다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583840&tblKey=GMN",
+          "filename": "261104_(보도자료)_조달청 계약현장과 소통 공공조달 개선방안 찾는다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T01:23:42.166071+00:00"
+    },
+    {
+      "title": "[2026년 10월 기후특성] 변동 컸던 10월, 상순 건조 → 중순 이상고온 → 하순 잦은 강수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787885",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "[2026년 10월 기후특성] 변동 컸던 10월, 상순 건조 → 중순 이상고온 → 하순 잦은 강수 관련 내용입니다. 자세한 사항은 붙임파일 (20261103_보도자료_2026년 10월 기후특성_최종.hwpx)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583833&tblKey=GMN",
+          "filename": "20261103_보도자료_2026년 10월 기후특성_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583835&tblKey=GMN",
+          "filename": "20261103_보도자료_2026년 10월 기후특성_최종.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583834&tblKey=GMN",
+          "filename": "20261103_보도자료_2026년 10월 기후특성_최종.hwp"
+        }
+      ],
+      "_attAt": "2026-11-04T01:23:42.166071+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
@@ -3318,8 +3402,8 @@
           "filename": "261103 즉시 (보도) 청년들의 창의적 아이디어로 합성생물학의 미래를 연다 - 26년 합성생물학 경진대회 본선대회 개최.hwpx"
         }
       ],
-      "_attAt": "2026-11-03T19:08:55.502298+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-04T01:23:42.166071+00:00",
+      "_attRev": 2
     },
     {
       "title": "국민인공지능서비스혁신추진단, 전문임기제공무원 2차 공개 모집",
