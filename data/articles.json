@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T07:31:56.091868+00:00",
-  "count": 2202,
+  "updated": "2026-11-04T07:46:47.327485+00:00",
+  "count": 2203,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1963,6 +1963,27 @@
         }
       ],
       "_attAt": "2026-11-04T07:31:42.324836+00:00"
+    },
+    {
+      "title": "모두의 일상에 더 가까이, 모두의 삶이 더 든든히!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787962",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 11월 4일(수) 오후 세종시 박연문화관에서 ｢2026년 농식품 정책콘서트｣를 개최하였다. 올해로 9회째를 맞은 ｢2026년 농식품 정책콘서트｣는 정책 담당자가 혁신정책 성과를 발표하고, 현장 국민평가단 등 참석자들이 직접 우수사례를 선정하는 국민 참여형 행사로 2018년부터 매년 개최되어 왔다. 이번 행사는 \"모두의 일상에 더 가까이, 모두의 삶이 더 든든히\"라는 주제로 진행되었으며, 본부와 소속·산하기관을 대상으로 공모를 실시하여 전문가 심사 등을 통해 6개의 혁신 우수사례*가 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584195&tblKey=GMN",
+          "filename": "(정책기획관-혁신행정담당관) 모두의 일상에 더 가까이 모두의 삶이 더 든든히!(11. 4. 16시 30분부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584194&tblKey=GMN",
+          "filename": "(정책기획관-혁신행정담당관) 모두의 일상에 더 가까이 모두의 삶이 더 든든히!(11. 4. 16시 30분부터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-04T07:46:43.683291+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
