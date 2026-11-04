@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T02:46:42.279281+00:00",
-  "count": 2160,
+  "updated": "2026-11-04T03:01:49.079642+00:00",
+  "count": 2162,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1064,6 +1064,38 @@
         }
       ],
       "_attAt": "2026-11-04T02:31:43.627736+00:00"
+    },
+    {
+      "title": "대한민국 과학기술인상 11월 수상자 이종원 단장 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787901",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "-한국형 AI 휴머노이드 'KAPEX' 개발…핵심부품 국산화·20kg 이상 작업능력 구현 - -기술이전·산학연 협력으로 K-휴머노이드 산업 생태계 구축…피지컬AI 글로벌 1강 박차 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583921&tblKey=GMN",
+          "filename": "261105 조간 (보도) 11월 대한민국과학기술인상 이종원 단장.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-04T03:01:42.456930+00:00"
+    },
+    {
+      "title": "과기정통부, 소프트웨어마이스터고등학교 세계적 인재 양성으로 4년연속 실리콘밸리 취업",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787900",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-04T00:00:00+09:00",
+      "description": "과기정통부, 소프트웨어마이스터고등학교 세계적 인재 양성으로 4년연속 실리콘밸리 취업 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.※ 대용량 첨부파일은 바로보기가 지원되지 않으니, 첨부파일명을 클릭하여 확인하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198583919&tblKey=GMN",
+          "filename": "261105 조간 (보도) 과기정통부, 소프트웨어마이스터고등학교 세계적 인재 양성으로 4년연속 실리콘밸리 취업.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-04T03:01:42.456930+00:00"
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
@@ -3484,8 +3516,8 @@
           "filename": "261103_위기채무자 지원 강화를 위한 업무협약 체결식 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-11-03T20:53:51.453046+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-04T03:01:42.456930+00:00",
+      "_attRev": 3
     },
     {
       "title": "정부, 여수·순천 10·19사건 희생자 고(故)박찬길 검사 유족 제기 국가배상소송 항소 포기",
