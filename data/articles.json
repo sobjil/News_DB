@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T22:49:46.788992+00:00",
-  "count": 2156,
+  "updated": "2026-11-05T23:04:46.192817+00:00",
+  "count": 2158,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -135,6 +135,48 @@
         }
       ],
       "_attAt": "2026-11-05T22:19:42.003624+00:00"
+    },
+    {
+      "title": "'2026 코리아시즌', 태국·베트남에서 '케이-컬처' 빛나다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788167",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "'2026 코리아시즌', 태국·베트남에서 '케이-컬처' 빛나다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1106]문체부보도자료-태국과 베트남에서 2026 코리아시즌 추진.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585193&tblKey=GMN",
+          "filename": "[1106]문체부보도자료-태국과 베트남에서 2026 코리아시즌 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585192&tblKey=GMN",
+          "filename": "[1106]문체부보도자료-태국과 베트남에서 2026 코리아시즌 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:04:41.515509+00:00"
+    },
+    {
+      "title": "'2026 인문문화축제', 인공지능 시대에 '인문지능'을 묻다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788166",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "'2026 인문문화축제', 인공지능 시대에 '인문지능'을 묻다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1106]문체부보도자료-2026 인문문화축제 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585191&tblKey=GMN",
+          "filename": "[1106]문체부보도자료-2026 인문문화축제 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585190&tblKey=GMN",
+          "filename": "[1106]문체부보도자료-2026 인문문화축제 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:04:41.515509+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
