@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T04:22:49.477379+00:00",
-  "count": 2189,
+  "updated": "2026-11-05T04:37:46.876320+00:00",
+  "count": 2190,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -645,7 +645,7 @@
       "_attAt": "2026-11-05T01:22:41.630848+00:00"
     },
     {
-      "title": "2025년 호스피스 신규 이용 환자 26,020명으로 전년 대비 1,662명 증가",
+      "title": "2025년 호스피스 신규 이용 환자 26,020명으로 전년 대비 1,702명 증가",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788040",
       "agency": "보건복지부",
       "agencyCode": "mw",
@@ -1272,6 +1272,27 @@
         }
       ],
       "_attAt": "2026-11-05T04:07:42.857590+00:00"
+    },
+    {
+      "title": "국방부·국방과학연구소, K-MOSA 성과공유회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788070",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "국방부·국방과학연구소, K-MOSA 성과공유회 개최□ 국방부와 국방과학연구소는 11월 5일(목) 오후 전쟁기념관 피스앤파크컨벤션에서「2026 K-MOSA 발전을 위한 성과공유회」를 개최하였습니다.ㅇ이번 성과공유회는 그동안 추진해 온 K-MOSA(Korea Modular Open Systems Approach, 모듈형 개방형 시스템 접근법) 정책의 주요 성과를 대내·외에 공유하고, 향후 발전 방향의 논의 목적으로 마련되었습니다. ㅇ 행사에는 국방부와 방위사업청, 각 군, 국방 연구기관, 방산업체, 학계 등의 전문가 약 300명이 참석",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584755&tblKey=GMN",
+          "filename": "261105 [국방부 보도자료] 국방부 국방과학연구소 K-MOSA 성과공유회_게시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584756&tblKey=GMN",
+          "filename": "261105 [국방부 보도자료] 국방부 국방과학연구소 K-MOSA 성과공유회_게시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T04:37:42.618472+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
@@ -3451,8 +3472,8 @@
           "filename": "붙임2. 프로그램.pdf"
         }
       ],
-      "_attAt": "2026-11-04T22:33:45.060329+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T04:37:42.618472+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 메콩 지역 공관장회의 개최",
