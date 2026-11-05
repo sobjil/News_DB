@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T23:35:02.415102+00:00",
-  "count": 2164,
+  "updated": "2026-11-05T23:49:48.997503+00:00",
+  "count": 2167,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -303,6 +303,58 @@
         }
       ],
       "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "제276차 대외경제장관회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788176",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관은 11.6일(금) 08:00 정부서울청사에서 제276차 대외경제장관회의를 주재하였습니다.자세한 내용은 첨부를 참고해주시기 바랍니다. 문의. 재정경제부 대외경제국 대외경제총괄과 우지완 (044-215-7613)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585221&tblKey=GMN",
+          "filename": "01. (모두말씀) 제276차 대경장 모두발언_최종.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585223&tblKey=GMN",
+          "filename": "02. (보도자료) 제276차 대외경제장관회의_최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585220&tblKey=GMN",
+          "filename": "01. (모두말씀) 제276차 대경장 모두발언_최종.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585222&tblKey=GMN",
+          "filename": "02. (보도자료) 제276차 대외경제장관회의_최종.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:49:41.272172+00:00"
+    },
+    {
+      "title": "법무부, 인지청구소송 중인 한국인의 외국적 혼외자녀 및 양육자의 체류 어려움을 살핀다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788175",
+      "agency": "법무부",
+      "agencyCode": "moj",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "법무부, 인지청구소송 중인 한국인의 외국적 혼외자녀 및 양육자의 체류 어려움을 살핀다 법무부(장관 직무대행 차관 이진수)는 한국인 부 또는 모를 상대로 인지청구소송을 진행하고 있는 외국인 혼외자녀와 그 양육자가 소송 기간동안 안정적으로 체류하고, 필요한 경우 취업도 가능하도록 체류관리 기준을 개선하였습니다.[※ 상세내용 첨부파일 참조]",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585219&tblKey=GMN",
+          "filename": "(보도자료) 법무부, 인지청구소송 중인 한국인의 외국적 혼외자녀 및 양육자의 체류 어려움을 살핀다 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585218&tblKey=GMN",
+          "filename": "(보도자료) 법무부, 인지청구소송 중인 한국인의 외국적 혼외자녀 및 양육자의 체류 어려움을 살핀다 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:49:41.272172+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -1843,8 +1895,8 @@
           "filename": "(261104)영문보도자료-산림정책_발전_위한_민관소통_이어간다.hwp"
         }
       ],
-      "_attAt": "2026-11-05T17:49:41.146948+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T23:49:41.272172+00:00",
+      "_attRev": 3
     },
     {
       "title": "북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최",
@@ -2554,6 +2606,27 @@
       ],
       "_attAt": "2026-11-05T21:04:41.398707+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "전남광주 장흥 육용오리 농장에서 H5형 조류인플루엔자 항원 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788177",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "고병원성 조류인플루엔자 중앙사고수습본부(본부장 송미령 농림축산식품부장관, 이하 '중수본')는 11월 5일(목) 전남광주 장흥 소재 육용오리 농장(2만 2천 여 마리)에서 H5형 조류인플루엔자 항원이 확인*되었다고 밝혔다. * 고병원성 여부는 농림축산검역본부에서 정밀검사 중에 있음(약 1∼3일 소요 예상) ** 가금농장 고병원성 조류인플루엔자 발생 현황('26.11.3.~) : 1건(경기 연천 1) 중수본은 H5형 항원 검출에 따라 조류인플루엔자 긴급행동지침(SOP) 등 관련 규정에 따라 선제적으로 해당 농장에 초동대응팀을 투입하여 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585224&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 전남광주 장흥 육용오리 농장에서 H5형 조류인플루엔자 항원 확인(11. 5. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585225&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 전남광주 장흥 육용오리 농장에서 H5형 조류인플루엔자 항원 확인(11. 5. 배포 시).pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:49:41.272172+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
