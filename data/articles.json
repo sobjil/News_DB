@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T09:07:58.958310+00:00",
-  "count": 2225,
+  "updated": "2026-11-05T09:22:45.509474+00:00",
+  "count": 2226,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2082,6 +2082,27 @@
         }
       ],
       "_attAt": "2026-11-05T09:07:43.607319+00:00"
+    },
+    {
+      "title": "외교부 중남미국장 베네수엘라 방문 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788123",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "최준호 외교부 중남미국장은 11.4.(수)-5.(목)간 베네수엘라 카라카스를 방문하여 「유리 알렉산드레 피멘텔 모우라(Yuri Alexandre Pimentel Moura)」 베네수엘라 외교통상부 제1차관 및 「라다메스 헤수스 고메즈 아수아헤(Radamés Jesús Gómez Azuaje)」 탄화수소부 차관을 각각 면담하고, 한-베네수엘라 관계 발전 및 양국간 협력 강화 방안에 대해 심도있게 논의하였다. 이번 면담은 지난 8월 12일 조현 외교장관과 플라센시아 베네수엘라 외교통상부 장관간 통화에서 양국 정부 간 소통을 활성화하기로",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585059&tblKey=GMN",
+          "filename": "[26-897](보도자료) 외교부 중남미국장 베네수엘라 방문 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585060&tblKey=GMN",
+          "filename": "[26-897](보도자료) 외교부 중남미국장 베네수엘라 방문 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T09:22:42.166097+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
