@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T23:04:46.192817+00:00",
-  "count": 2158,
+  "updated": "2026-11-05T23:20:01.810237+00:00",
+  "count": 2164,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -177,6 +177,132 @@
         }
       ],
       "_attAt": "2026-11-05T23:04:41.515509+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788173",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585207&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, &amp;apos;연조직고정용장치 허가심사 가이드라인(민원인안내서)&amp;apos; 마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585208&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, &amp;apos;연조직고정용장치 허가심사 가이드라인(민원인안내서)&amp;apos; 마련.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "[보도참고] '대국민 단짠 탈출 공모전' 최우수 작품은",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788172",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[보도참고] '대국민 단짠 탈출 공모전' 최우수 작품은",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585205&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] ‘대국민 단짠 탈출 공모전’ 최우수 작품은.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585206&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] ‘대국민 단짠 탈출 공모전’ 최우수 작품은.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 신생아·소아환자의 치료를 위한 긴급도입 의료기기 신규 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788171",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 신생아·소아환자의 치료를 위한 긴급도입 의료기기 신규 지정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585203&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, 신생아·소아환자의 치료를 위한 긴급도입 의료기기 신규 지정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585204&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, 신생아·소아환자의 치료를 위한 긴급도입 의료기기 신규 지정.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "외교부 공관장 인사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788174",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "붙임 파일 참조. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585210&tblKey=GMN",
+          "filename": "[26-899](보도자료) 외교부 공관장 인사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585209&tblKey=GMN",
+          "filename": "[26-899](보도자료) 외교부 공관장 인사.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585211&tblKey=GMN",
+          "filename": "국영문 이력서.hwp"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "[보도참고] 독감(인플루엔자 A, B형) 진단키트 품질검사 결과 모두 적합",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788170",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[보도참고] 독감(인플루엔자 A, B형) 진단키트 품질검사 결과 모두 적합",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585202&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 독감(인플루엔자 A, B형) 진단키트 품질검사 결과 모두 적합.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585201&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 독감(인플루엔자 A, B형) 진단키트 품질검사 결과 모두 적합.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
+    },
+    {
+      "title": "국립산림과학원, 제21회 전국 산림생태복원 기술대전 최우수상 수상 - 멸종위기 고산 침엽수종의 현장 복원 성공 사례 인정 받아...",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788169",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "산림청 국립산림과학원(원장 김용관)은 5일(목) 소노벨 변산에서 열린 「제21회 전국 산림생태복원 기술대전」에서 '멸종위기 고산 침엽수종 구상나무의 기후변화 대응을 위한 유전다양성 기반 산림생태 복원 모델' 시공 사례가 최우수상(산림청장상)을 수상했다. 전국 생태복원 기술대전은 전국의 산림복원 관계자들이 모여 생태복원의 중요성을 공유하고, 우수 복원지 시상식과 함께 기술 교류를 도모하는 행사다. 산림청 국립산림과학원 산림생명정보연구과는 멸종위기 고산침엽수종의 유전다양성에 기반한 복원 연구를 수행해 오고 있다. 특히, 고산침엽수종 복",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585198&tblKey=GMN",
+          "filename": "(국립산림과학원 보도자료) 국립산림과학원, 제21회 전국 산림생태복원 기술대전 최우수상 수상.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-05T23:19:43.727184+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -1470,8 +1596,8 @@
           "filename": "[보도참고자료] 국립나주병원, ‘청소년 행위중독’ 과학적 해법 모색.pdf"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 3
     },
     {
       "title": "'국민이 어디서나 안심하고 치료받는 공공보건의료체계 확립' 위한 정책 의견 수렴",
@@ -1492,8 +1618,8 @@
           "filename": "[11.5.목 공청회 시작(14시) 이후] ‘국민이 어디서나 안심하고 치료받는 공공보건의료체계 확립&#039; 위한 정책 의견 수렴.pdf"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 3
     },
     {
       "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
@@ -1509,8 +1635,8 @@
           "filename": "261106 조간 (보도) 2027년도 기초연구사업 2.91조원 투자 총 과제 수 18,516개로 역대 최대 지원 (1).hwpx"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 3
     },
     {
       "title": "ICT 고급인재양성 연구센터 신규 개소 및 공동 현판증정식 개최",
@@ -1526,8 +1652,8 @@
           "filename": "261106 조간 (보도) ICT 고급인재양성 연구센터 신규 개소 및 공동 현판증정식 개최.hwpx"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 3
     },
     {
       "title": "원주교도소, 47년 만에 새 보금자리로...새로운 도약 나선다",
@@ -2316,8 +2442,8 @@
           "filename": "[26-898](보도자료) 차관보, 영국 의회 대표단 면담(11.5.).pdf"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 2
     },
     {
       "title": "중소벤처기업부, 신임 소상공인정책실장에 조경원 창업정책관 발탁",
@@ -2338,8 +2464,8 @@
           "filename": "261105_중소벤처기업부,_신임_소상공인정책실장에_조경원_창업정책관_발탁.pdf"
         }
       ],
-      "_attAt": "2026-11-05T17:19:40.887170+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-05T23:19:43.727184+00:00",
+      "_attRev": 2
     },
     {
       "title": "(설명) 전주MBC, \"'사망사고 은폐 시도' 노무사..자료 넘긴 노동청 직원도 송치\" 기사 관련",
