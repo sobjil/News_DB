@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T20:49:42.935770+00:00",
-  "count": 2152,
+  "updated": "2026-11-05T21:04:48.702132+00:00",
+  "count": 2154,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,48 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "철도안전법 위반 철도운영기관 및 철도차량 정비조직 등에 과징금 부과 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788163",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "철도안전법 위반 철도운영기관 및 철도차량 정비조직 등에 과징금 부과 의결 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585186&tblKey=GMN",
+          "filename": "261106(석간) 철도안전법 위반 철도운영기관 및 철도차량 정비조직 등에 과징금 부과 의결(철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585187&tblKey=GMN",
+          "filename": "261106(석간) 철도안전법 위반 철도운영기관 및 철도차량 정비조직 등에 과징금 부과 의결(철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T21:04:41.398707+00:00"
+    },
+    {
+      "title": "'26년 공간정보 품질관리 수준 15.9% 향상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788162",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "'26년 공간정보 품질관리 수준 15.9% 향상 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585184&tblKey=GMN",
+          "filename": "261106(석간) ’26년 공간정보 품질관리 수준 15.9퍼센트 향상(국가공간정보센터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585185&tblKey=GMN",
+          "filename": "261106(석간) ’26년 공간정보 품질관리 수준 15.9퍼센트 향상(국가공간정보센터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T21:04:41.398707+00:00"
+    },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787998",
@@ -2301,16 +2343,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198585181&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585183&tblKey=GMN",
           "filename": "261105_보도자료_하청업체와_공모해_간이대지급금을_부정수급하게_한_사업주_구속(인북지청).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198585180&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585182&tblKey=GMN",
           "filename": "261105_보도자료_하청업체와_공모해_간이대지급금을_부정수급하게_한_사업주_구속(인북지청).pdf"
         }
       ],
-      "_attAt": "2026-11-05T14:49:45.458480+00:00"
+      "_attAt": "2026-11-05T21:04:41.398707+00:00",
+      "_attRev": 1
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
