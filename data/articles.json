@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T11:40:49.034994+00:00",
-  "count": 2231,
+  "updated": "2026-11-05T11:55:50.304461+00:00",
+  "count": 2232,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -302,8 +302,8 @@
           "filename": "(261105) 영구임대주택 임차인의 권익 보호는 현재 진행 중 이번에는 여수로(최종).pdf"
         }
       ],
-      "_attAt": "2026-11-05T05:52:42.801491+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-05T11:55:43.476594+00:00",
+      "_attRev": 2
     },
     {
       "title": "\"종이헌혈증 대신 모바일헌혈증으로\"… 대국민 설문조사 통해 '국민제안'으로 키운다",
@@ -324,8 +324,8 @@
           "filename": "(261105) 종이헌혈증 대신 모바일헌혈증으로 대국민 설문조사 통해 국민제안으로 키운다(최종).pdf"
         }
       ],
-      "_attAt": "2026-11-05T05:52:42.801491+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-05T11:55:43.476594+00:00",
+      "_attRev": 2
     },
     {
       "title": "AI로 구매실례 검색부터 견적 요청까지 예정가격 작성 더 쉽고 빨라진다",
@@ -1614,16 +1614,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584866&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584882&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584865&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584881&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최.hwp"
         }
       ],
-      "_attAt": "2026-11-05T05:52:42.801491+00:00"
+      "_attAt": "2026-11-05T11:55:43.476594+00:00",
+      "_attRev": 1
     },
     {
       "title": "국제 공동연구 추진 및 연구자 교류 확대 등 한·중 전통의학 글로벌 협력 강화",
@@ -2217,6 +2218,27 @@
         }
       ],
       "_attAt": "2026-11-05T11:22:44.901436+00:00"
+    },
+    {
+      "title": "전국 유망 소공인, 성수동에 모인다 중기부, 무신사·오아시스와 판로개척 성과보고대회 개최 - 2026년 소공인 디깅위크(DIGGING WEEK), 11월 4일 개막 -",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788158",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 11월 4일(수)부터 8일(일)까지 5일간 서울 성수동 Y173(연무장 17길 3)과 구 비젼모터스(연무장11길 7)에서 「2026 소공인 판로개척 성과보고대회(2026 소공인 디깅위크(DIGGING WEEK))」를 개최한다고 밝혔다. 중기부는 올해 한국중소벤처기업유통원(이하 한유원)과 함께 '소공인 판로개척지원사업'을 추진하고 있다. 무신사, 오아시스와 협력해 패션·뷰티·식품 분야의 유망 소공인 120개사를 발굴하고, 시설·인프라 제공, 신제품 개발, 컨설팅 등을 지원하고 있다. 아울러",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585160&tblKey=GMN",
+          "filename": "261104_전국_유망_소공인,_성수동에_모인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585161&tblKey=GMN",
+          "filename": "261104_전국_유망_소공인,_성수동에_모인다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T11:55:43.476594+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
