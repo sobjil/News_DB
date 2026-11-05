@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T06:22:53.550827+00:00",
-  "count": 2207,
+  "updated": "2026-11-05T06:37:50.381630+00:00",
+  "count": 2209,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -413,16 +413,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584484&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584502&tblKey=GMN",
           "filename": "261105 [방사청 보도자료] 기동·화력 무기체계 분야 방산기업 대상 원가업무 간담회 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584485&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584503&tblKey=GMN",
           "filename": "261105 [방사청 보도자료] 기동·화력 무기체계 분야 방산기업 대상 원가업무 간담회 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-05T00:31:42.020224+00:00"
+      "_attAt": "2026-11-05T06:37:42.260869+00:00",
+      "_attRev": 1
     },
     {
       "title": "국내복귀 포럼, 기업과 지역을 잇는 투자유치 플랫폼으로",
@@ -443,7 +444,8 @@
           "filename": "1104(05석간)해외투자과 국내복귀 포럼 기업과 지역을 잇는 투자유치 플랫폼으로.pdf"
         }
       ],
-      "_attAt": "2026-11-05T00:31:42.020224+00:00"
+      "_attAt": "2026-11-05T06:37:42.260869+00:00",
+      "_attRev": 1
     },
     {
       "title": "산불 대응! 과학과 현장의 연결로 강화한다 - 국립산림과학원, 가을철 산불조심기간 맞아 제4회 미래산림포럼 개최",
@@ -455,11 +457,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584489&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584507&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 산불 대응! 과학과 현장의 연결로 강화한다.hwpx"
         }
       ],
-      "_attAt": "2026-11-05T00:31:42.020224+00:00"
+      "_attAt": "2026-11-05T06:37:42.260869+00:00",
+      "_attRev": 1
     },
     {
       "title": "'전국 병원체 감시기관 한자리에 모인다' 감염병 대응 성과와 개선 방안 논의(11.5.목)",
@@ -1660,6 +1663,48 @@
         }
       ],
       "_attAt": "2026-11-05T06:22:44.173847+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788098",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584906&tblKey=GMN",
+          "filename": "[26.11.5.(목) 보도참고자료] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584907&tblKey=GMN",
+          "filename": "[26.11.5.(목) 보도참고자료] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T06:37:42.260869+00:00"
+    },
+    {
+      "title": "「2026 대한민국 드론 공방전」 본선 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788097",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "드론과 대드론 기술의 경쟁으로 미래 국방 무인전력 발전 모색□ 국방부는 11월 3일(화)부터 4일(수)까지 포천 승진과학화훈련장에서 ｢2026 국방 드론 공방전(이하 '드론 공방전')｣ 본선을 개최했습니다.□ 이번 대회는 국방 무인 무기체계의 핵심 분야인 드론과 대드론 기술의 발전을 도모하고, 관련 산업계 성장을 촉진하기 위해 마련됐습니다. 대회는 국방부를 비롯해 과학기술정보통신부, 산업통상부, 국토교통부, 중소벤처기업부, 방위사업청이 공동 주최하고, 육군교육사령부가 주관했습니다.□ 본선에는 지난 6월 예선을 통과한 총 6개 팀이 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584904&tblKey=GMN",
+          "filename": "261105 [국방부 보도자료] 「2026 대한민국 드론 공방전」 본선 개최_게시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584905&tblKey=GMN",
+          "filename": "261105 [국방부 보도자료] 「2026 대한민국 드론 공방전」 본선 개최_게시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T06:37:42.260869+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
