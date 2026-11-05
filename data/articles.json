@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T00:46:50.450481+00:00",
-  "count": 2153,
+  "updated": "2026-11-05T01:01:50.583237+00:00",
+  "count": 2155,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -466,6 +466,48 @@
         }
       ],
       "_attAt": "2026-11-05T00:46:42.451125+00:00"
+    },
+    {
+      "title": "6.25참전유공자들 미8군사령부 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788024",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "261105 보도자료(6.25참전유공자들 미8군사령부 방문)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584517&tblKey=GMN",
+          "filename": "261105 보도자료(6.25참전유공자들 미8군사령부 방문)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584516&tblKey=GMN",
+          "filename": "261105 보도자료(6.25참전유공자들 미8군사령부 방문)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T01:01:43.449972+00:00"
+    },
+    {
+      "title": "｢\"취재정보로 매매해 ○○억 부당이득\"···○○신문 조사 마무리｣ 보도 관련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788022",
+      "agency": "금융위원회",
+      "agencyCode": "fsc",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "｢\"취재정보로 매매해 ○○억 부당이득\"···○○신문 조사 마무리｣ 보도 관련 - KBS 11월 4일 16:28 최초 보도 - 1. 기사 내용 □ KBS는 11.4일자 ｢\"취재정보로 매매해 ○○억 부당이득\"··· ○○신문 조사 마무리｣ 제하의 기사(16:28 최초 보도)에서 ㅇ\"주가조작 근절 합동대응단은 지난 2월 시작한 조사를 마무리하고, 어제(3일) 회의를 열어 혐의자 8명에 대한 조사 결과와 제재 방향을 결정하였습니다.\"등의 내용을 보도했습니다. 2. 보도에 대한 반박 □ 합동대응단은 어제 회의를 열어 조사 결과와 제재 방향을 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584510&tblKey=GMN",
+          "filename": "261104_(보도반박) ○○신문 조사 마무리 보도 관련f.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584511&tblKey=GMN",
+          "filename": "261104_(보도반박) ○○신문 조사 마무리 보도 관련f.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T01:01:43.449972+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
@@ -2190,8 +2232,8 @@
           "filename": "261104 대테러 전담조직 저격수 역량강화 훈련 실시(최종).pdf"
         }
       ],
-      "_attAt": "2026-11-04T18:48:47.050371+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T01:01:43.449972+00:00",
+      "_attRev": 3
     },
     {
       "title": "[관계부처 합동] 이 땅에 집 지을 수 있나요? 복잡한 토지개발 인허가, 인공지능(AI)으로 쉽게",
