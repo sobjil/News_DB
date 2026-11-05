@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T14:41:42.579866+00:00",
-  "count": 2233,
+  "updated": "2026-11-05T14:49:48.509706+00:00",
+  "count": 2234,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2279,6 +2279,27 @@
         }
       ],
       "_attAt": "2026-11-05T13:53:43.146583+00:00"
+    },
+    {
+      "title": "(인천북부지청) 간이대지급금 약 1억 3천만원을 부정수급 및 추가 편취 시도한 사업주 구속",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788161",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "- 인천북부지청, 하청업체 대표 및 허위 근로자 등 동원하여 총 28명에게 약 7천만원 부정수급하게 하고 약 6천만원의 부정수급 시도한 건설업자 구속- 허위 임금 체불 신고 이후 대지급금을 공사대금 청산 및 개인 도박 자금으로 편취하는 등 악의적인 부정수급 적발하여 엄정한 조치 계획 중부지방고용노동청 인천북부지청(지청장 이재희)은 11월 6일(금), 실내인테리어공사업을 운영하면서 하청업체 대표 및 내부 직원과 공모해 21명에게 대지급금 6,957만원을 부정수급하게 하고 9명에게 5,839만원을 추가로 부정수급 하게 하려다 적발된 원",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585181&tblKey=GMN",
+          "filename": "261105_보도자료_하청업체와_공모해_간이대지급금을_부정수급하게_한_사업주_구속(인북지청).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585180&tblKey=GMN",
+          "filename": "261105_보도자료_하청업체와_공모해_간이대지급금을_부정수급하게_한_사업주_구속(인북지청).pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T14:49:45.458480+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
