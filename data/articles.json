@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T05:37:52.376141+00:00",
-  "count": 2202,
+  "updated": "2026-11-05T05:52:49.861946+00:00",
+  "count": 2203,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -303,16 +303,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584418&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584432&tblKey=GMN",
           "filename": "(261105) 영구임대주택 임차인의 권익 보호는 현재 진행 중 이번에는 여수로(최종).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584419&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584433&tblKey=GMN",
           "filename": "(261105) 영구임대주택 임차인의 권익 보호는 현재 진행 중 이번에는 여수로(최종).pdf"
         }
       ],
-      "_attAt": "2026-11-04T23:47:46.934199+00:00"
+      "_attAt": "2026-11-05T05:52:42.801491+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"종이헌혈증 대신 모바일헌혈증으로\"… 대국민 설문조사 통해 '국민제안'으로 키운다",
@@ -324,16 +325,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584416&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584430&tblKey=GMN",
           "filename": "(261105) 종이헌혈증 대신 모바일헌혈증으로 대국민 설문조사 통해 국민제안으로 키운다(최종).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198584417&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584431&tblKey=GMN",
           "filename": "(261105) 종이헌혈증 대신 모바일헌혈증으로 대국민 설문조사 통해 국민제안으로 키운다(최종).pdf"
         }
       ],
-      "_attAt": "2026-11-04T23:47:46.934199+00:00"
+      "_attAt": "2026-11-05T05:52:42.801491+00:00",
+      "_attRev": 1
     },
     {
       "title": "AI로 구매실례 검색부터 견적 요청까지 예정가격 작성 더 쉽고 빨라진다",
@@ -1555,6 +1557,27 @@
         }
       ],
       "_attAt": "2026-11-05T05:37:44.420688+00:00"
+    },
+    {
+      "title": "북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788090",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최- 11월 5일 국립횡성숲체원서 100여 명 참여… 숲길 걷기·반려숲 입양 등 진행 - 북부지방산림청(청장 송준호)은 11월 5일 국립횡성숲체원에서 장애인과 가족, 관련 기관 관계자 등 100여 명이 참여하는 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 행사를 개최했다고 밝혔다. 2022년 첫걸음을 시작한 이 행사는 신체적·환경적 여건으로 산림복지서비스를 누리기 어려운 장애인과 사회적 취약계층에게 숲길 걷기와 다양한 숲 체험 기회를 제공하고, 장애인과 비장애인이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584866&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584865&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-11-05T05:52:42.801491+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
@@ -3756,8 +3779,8 @@
           "filename": "[26-896](보도자료) 2026년 메콩 지역 공관장회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-04T23:47:46.934199+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T05:52:42.801491+00:00",
+      "_attRev": 3
     },
     {
       "title": "공장 지을 곳 더 찾기 쉬워진다, 스마트폰으로 입지·규제 미리 확인",
