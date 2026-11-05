@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T02:07:56.759554+00:00",
-  "count": 2177,
+  "updated": "2026-11-05T02:22:49.419354+00:00",
+  "count": 2179,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1010,6 +1010,48 @@
         }
       ],
       "_attAt": "2026-11-05T02:07:42.330302+00:00"
+    },
+    {
+      "title": "권대영 1차관, 「기업활력 제고 TF」 첫 회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788055",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "권대영 재정경제부 1차관은 11월 5일(목) 10:30, 한국산업은행에서 경제6단체, 민·관 싱크탱크, 국책은행 연구소와 ｢기업활력 제고 TF｣ 첫 회의를 개최하였습니다. * 자세한 내용은 첨부자료를 참고하여 주시기 바랍니다.문의. 재정경제부 정책조정관 기업환경과 노영수 (044-215-4633)",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584700&tblKey=GMN",
+          "filename": "(보도자료) 261105 기업활력 제고 TF.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584699&tblKey=GMN",
+          "filename": "(보도자료) 261105 기업활력 제고 TF.hwp"
+        }
+      ],
+      "_attAt": "2026-11-05T02:22:41.888943+00:00"
+    },
+    {
+      "title": "국방홍보원 KFN TV 위문열차 해병대 연평부대 공연 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788054",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-11-05T00:00:00+09:00",
+      "description": "국방홍보원 KFN TV 위문열차 해병대 연평부대 공연 개최□ 국방홍보원(원장 배종호) KFN TV는 11월 4일(수) 오후 해병대 연평부대에서 15년 만의 위문열차 공연을 개최했다.□ 위문열차는 지난 1962년 시작되어 전국 각지의 군부대 장병들을 위해 공연을 해 온 국내 최장수 공연 프로그램으로, 특히 베트남전 당시 최전선으로 찾아가 특별 위문공연을 펼치는 등 현재까지 3,000회가 넘는 공연으로 한국 기네스에 등재된 대한민국 대표 공연물이다.ㅇ위문열차는 매회 인기가수들의 공연은 물론, 특히 장병 장기자랑 코너인 [생활관 스타워즈",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584695&tblKey=GMN",
+          "filename": "261105 [국방홍보원 보도자료] KFN 위문열차 해병대 연평부대 공연 개최_게시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198584696&tblKey=GMN",
+          "filename": "261105 [국방홍보원 보도자료] KFN 위문열차 해병대 연평부대 공연 개최_게시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-05T02:22:41.888943+00:00"
     },
     {
       "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
@@ -3052,8 +3094,8 @@
           "filename": "20261104 (최종배포) “극장에서 만난 청춘들의 병역이야기”병무청, 2026 청춘예찬 영화제 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-04T20:18:48.564232+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-05T02:22:41.888943+00:00",
+      "_attRev": 3
     },
     {
       "title": "'27년 농어촌 기본소득 시범사업 신규 공모에 34개 군 신청",
