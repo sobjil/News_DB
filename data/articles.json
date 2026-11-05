@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T21:04:48.702132+00:00",
-  "count": 2154,
+  "updated": "2026-11-05T21:19:46.967256+00:00",
+  "count": 2155,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -103,6 +103,22 @@
         }
       ],
       "_attAt": "2026-11-05T21:04:41.398707+00:00"
+    },
+    {
+      "title": "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585188&tblKey=GMN",
+          "filename": "[교육부 11-06(금) 석간보도자료] 강의실을 넘어 세계로 반도체 인공지능(AI) 인재 한자리에 모이다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-05T21:19:41.850891+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -2115,8 +2131,8 @@
           "filename": "261105 즉시 (보도) 유망 딥테크 스타트업 정부와 민간이 함께 키운다 (1).hwpx"
         }
       ],
-      "_attAt": "2026-11-05T15:04:41.596296+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-05T21:19:41.850891+00:00",
+      "_attRev": 2
     },
     {
       "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 시드(SEED) 프로젝트 뒷받침",
