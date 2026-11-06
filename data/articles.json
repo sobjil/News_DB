@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T02:53:42.856793+00:00",
-  "count": 2199,
+  "updated": "2026-11-06T03:08:53.411065+00:00",
+  "count": 2202,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -81,7 +81,8 @@
           "filename": "261106(석간) 철도안전법 위반 철도운영기관 및 철도차량 정비조직 등에 과징금 부과 의결(철도안전정책과).pdf"
         }
       ],
-      "_attAt": "2026-11-05T21:04:41.398707+00:00"
+      "_attAt": "2026-11-06T03:08:43.884340+00:00",
+      "_attRev": 1
     },
     {
       "title": "'26년 공간정보 품질관리 수준 15.9% 향상",
@@ -102,7 +103,8 @@
           "filename": "261106(석간) ’26년 공간정보 품질관리 수준 15.9퍼센트 향상(국가공간정보센터).pdf"
         }
       ],
-      "_attAt": "2026-11-05T21:04:41.398707+00:00"
+      "_attAt": "2026-11-06T03:08:43.884340+00:00",
+      "_attRev": 1
     },
     {
       "title": "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다",
@@ -1031,6 +1033,69 @@
         }
       ],
       "_attAt": "2026-11-06T02:49:41.107861+00:00"
+    },
+    {
+      "title": "환자 자기결정권 및 존엄성 보장 위한 생애 말 의료·돌봄 공론화 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788230",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "환자 자기결정권 및 존엄성 보장 위한 생애 말 의료·돌봄 공론화 착수- 의료혁신위, 제2차 의료혁신 시민패널 공론화 숙의토론회 개최(11.7.~11.8.) -- 연명의료 유보·중단시점과 대리결정 주체, 생애 말 의료돌봄 지원 방안 논의 -- 전문가 발제, 분임 토의 결과 등 보건복지부 유튜브 생중계 - 보건복지부(장관 정은경)와 의료혁신위원회*(위원장 정기현)는 11월 7일(토)부터 8일(일)까지 이틀간 서울대학교 시흥캠퍼스에서 생애 말 의료와 돌봄 강화를 위한 제2차 의료혁신 시민패널 공론화 숙의토론회를 개최한다고 밝혔다. 토론회",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585427&tblKey=GMN",
+          "filename": "[11.7.토 조간] 환자 자기결정권 및 존엄성 보장 위한 생애 말 의료·돌봄 공론화 착수.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585428&tblKey=GMN",
+          "filename": "[11.7.토 조간] 환자 자기결정권 및 존엄성 보장 위한 생애 말 의료·돌봄 공론화 착수.pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T03:08:43.884340+00:00"
+    },
+    {
+      "title": "[참고] 현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788229",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[참고] 현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585425&tblKey=GMN",
+          "filename": "261106(참고) 현재 유포되고 있는 부동산 종합 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.(주택정책과 등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585426&tblKey=GMN",
+          "filename": "261106(참고) 현재 유포되고 있는 부동산 종합 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.(주택정책과 등).pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T03:08:43.884340+00:00"
+    },
+    {
+      "title": "[참고] 대학생의 참신한 아이디어, 미래 도심항공교통(UAM) 이끈다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788228",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[참고] 대학생의 참신한 아이디어, 미래 도심항공교통(UAM) 이끈다 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585423&tblKey=GMN",
+          "filename": "261106(참고)_대학생의_참신한_아이디어__미래_도심항공교통(UAM)_이끈다(도심항공교통정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585424&tblKey=GMN",
+          "filename": "261106(참고)_대학생의_참신한_아이디어__미래_도심항공교통(UAM)_이끈다(도심항공교통정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T03:08:43.884340+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -3280,8 +3345,8 @@
           "filename": "261105_보도자료_하청업체와_공모해_간이대지급금을_부정수급하게_한_사업주_구속(인북지청).pdf"
         }
       ],
-      "_attAt": "2026-11-05T21:04:41.398707+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-06T03:08:43.884340+00:00",
+      "_attRev": 2
     },
     {
       "title": "전남광주 장흥 육용오리 농장에서 H5형 조류인플루엔자 항원 확인",
