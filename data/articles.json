@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T10:23:52.017704+00:00",
-  "count": 2256,
+  "updated": "2026-11-06T10:38:46.256566+00:00",
+  "count": 2257,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2309,6 +2309,27 @@
         }
       ],
       "_attAt": "2026-11-06T10:08:41.298517+00:00"
+    },
+    {
+      "title": "박윤주 제1차관, 벨기에 외교부 사무차관 면담(11.6.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788304",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "박윤주 외교부 제1차관은 방한 중인 「테오도라 겐치스 (Theodora Gentzis)」 벨기에 외교부 사무차관과 11월 6일 면담을 갖고, 지난 6월 이재명 대통령의 벨기에 방문 계기 개최된 양국간 정상회담 후속조치 현황을 점검하고, 양국간 실질협력 강화 방안 및 주요 지역·글로벌 정세에 대해서도 의견을 교환하였다. 박 차관은 올해 우리 정상의 벨기에 양자 방문을 통해 경제·통상, 과학기술, 교육 등 다양한 분야에서 양국 협력을 한층 발전시킬 새로운 동력이 마련된 점을 평가하였다. 겐치스 사무차관은 수교 125주년을 맞는 뜻깊은 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585753&tblKey=GMN",
+          "filename": "[26-904](보도자료) 1차관, 벨기에 외교부 사무차관 면담(11.6.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585754&tblKey=GMN",
+          "filename": "[26-904](보도자료) 1차관, 벨기에 외교부 사무차관 면담(11.6.).pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T10:38:42.432693+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
