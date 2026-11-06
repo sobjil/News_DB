@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T09:39:11.475594+00:00",
-  "count": 2254,
+  "updated": "2026-11-06T09:53:46.232109+00:00",
+  "count": 2255,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2264,6 +2264,27 @@
         }
       ],
       "_attAt": "2026-11-06T09:39:07.738981+00:00"
+    },
+    {
+      "title": "[보도자료] 국무조정실장, 국토대전환 전략자문단 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788302",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "임기근 국무조정실장, 국토대전환 전문가와 토론... 다양한 제언, 현장의견 청취- 정부가 놓친 현장의 문제까지 발굴, 정책 실행에 적극 반영□ 임기근 국무조정실장은 11월 6일(금) 오전, 정부서울청사에서 국토대전환 전략자문단과 오찬을 겸한 간담회를 개최했다.ㅇ 이날 간담회에는 국토·산업·지역발전 등 다양한 분야의 전문가 9명*이 참석하였으며, 위촉패 수여에 이어 국토대전환 주요 정책과 향후 추진방향에 대해 의견을 나눴다.* 김남조 한양대 관광학과 교수, 김의준 서울대 지역정보학 전공 교수, 김현수 단국대 도시계획과 교수, 홍창남 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585745&tblKey=GMN",
+          "filename": "261106_국무조정실장, 국토대전환 전략자문단 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585746&tblKey=GMN",
+          "filename": "261106_국무조정실장, 국토대전환 전략자문단 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T09:53:42.579294+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
