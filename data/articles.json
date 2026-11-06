@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T04:38:42.977267+00:00",
-  "count": 2206,
+  "updated": "2026-11-06T04:53:47.525097+00:00",
+  "count": 2207,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1182,6 +1182,27 @@
         }
       ],
       "_attAt": "2026-11-06T04:23:42.306935+00:00"
+    },
+    {
+      "title": "한국고용노동교육원, 2026 한국산업노동학회 가을학술대회 공동 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788237",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "- 동 프란체스코회관에서 공공기관, 중소사업장의 노동인권교육 함의와 방안 등 노동인권교육의 발전 방향 논의고용노동교육 2.0 시대를 위한 전방위적인 노동인권교육 체계 구축 모색한국고용노동교육원(원장 이종선, 이하 '노동교육원')은 11월 6일(금) 정동 프란체스코회관에서 한국산업노동학회와「2026 한국산업노동학회 가을학술대회」를 공동 개최한다고 밝혔다. 이번 학술대회에서 한국고용노동교육원은「고용노동교육 2.0시대, 노동현안이슈와 고용노동교육 실태」세션을 맡아 공공기관, 중소사업장의 노동현안을 중심으로 노동인권교육의 함의를 모색하고,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585454&tblKey=GMN",
+          "filename": "261106_보도자료_2026 산업노동학회 가을학술대회 공동개최(한국고용노동교육원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585453&tblKey=GMN",
+          "filename": "261106_보도자료_2026 산업노동학회 가을학술대회 공동개최(한국고용노동교육원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T04:53:44.434862+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
