@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T00:34:49.265323+00:00",
-  "count": 2174,
+  "updated": "2026-11-06T00:49:46.087300+00:00",
+  "count": 2175,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -512,6 +512,27 @@
         }
       ],
       "_attAt": "2026-11-06T00:34:40.742084+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 의약품 허가·심사 수수료 현실화 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788186",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 의약품 허가·심사 수수료 현실화 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585256&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, 의약품 허가·심사 수수료 현실화 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585257&tblKey=GMN",
+          "filename": "[26.11.6.(금) 보도참고자료] 식약처, 의약품 허가·심사 수수료 현실화 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T00:49:41.050154+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -2157,8 +2178,8 @@
           "filename": "[보도자료] 소규모 사업장 안전보건관리자의 활용을 위한 방안 합의문.hwp"
         }
       ],
-      "_attAt": "2026-11-05T18:34:42.358488+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-06T00:49:41.050154+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도참고] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다",
