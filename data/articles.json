@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T03:08:53.411065+00:00",
-  "count": 2202,
+  "updated": "2026-11-06T03:23:48.083770+00:00",
+  "count": 2203,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -120,7 +120,8 @@
           "filename": "[교육부 11-06(금) 석간보도자료] 강의실을 넘어 세계로 반도체 인공지능(AI) 인재 한자리에 모이다.hwpx"
         }
       ],
-      "_attAt": "2026-11-05T21:19:41.850891+00:00"
+      "_attAt": "2026-11-06T03:23:41.822192+00:00",
+      "_attRev": 1
     },
     {
       "title": "전국 의용소방대 산불예방 총력, 전국 동시 홍보(캠페인) 실시",
@@ -1096,6 +1097,27 @@
         }
       ],
       "_attAt": "2026-11-06T03:08:43.884340+00:00"
+    },
+    {
+      "title": "부산 불꽃축제, 관람객 안전 최우선으로 빈틈없이 관리한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788232",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-06T00:00:00+09:00",
+      "description": "- 김광용 재난안전관리본부장, 축제 당일 안전대책 점검회의 주재·현장점검 행정안전부(장관 윤호중) 김광용 재난안전관리본부장은 11월 7일(토) 제21회 부산불꽃축제가 열리는 광안리해수욕장 일대를 찾아 관계기관* 안전대책 점검회의를 주재하고, 축제장 안전관리 상황을 점검한다. * 부산시, 부산 남구·해운대구·수영구, 경찰·소방·해경, 부산교통공사, 부산축제조직위원회 등 100만 명 이상 찾는 부산불꽃축제, 합동점검으로 위험 요인 보완 부산 불꽃축제는 매년 100만 명 이상의 국내외 관람객이 찾는 우리나라 대표 가을축제로, 7일 오후 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585431&tblKey=GMN",
+          "filename": "261107 (조간) 부산 불꽃축제 관람객 안전 최우선으로 빈틈없이 관리한다(재난안전점검과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585432&tblKey=GMN",
+          "filename": "261107 (조간) 부산 불꽃축제 관람객 안전 최우선으로 빈틈없이 관리한다(재난안전점검과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-06T03:23:41.822192+00:00"
     },
     {
       "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표",
@@ -3104,12 +3126,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198585043&tblKey=GMN",
-          "filename": "261105 즉시 (보도) 유망 딥테크 스타트업 정부와 민간이 함께 키운다 (1).hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198585361&tblKey=GMN",
+          "filename": "261106 (조간) 유망 딥테크 스타트업, 정부와 민간이 함께 키운다.hwpx"
         }
       ],
-      "_attAt": "2026-11-05T21:19:41.850891+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-06T03:23:41.822192+00:00",
+      "_attRev": 3
     },
     {
       "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 시드(SEED) 프로젝트 뒷받침",
