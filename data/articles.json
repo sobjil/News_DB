@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:37:43.915259+00:00",
+  "updated": "2026-11-07T07:52:44.766817+00:00",
   "count": 2167,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -94,16 +94,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198585770&tblKey=GMN",
-          "filename": "261107_보도참고_긴급기관장회의.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198585804&tblKey=GMN",
+          "filename": "261107_보도참고_긴급 기관장회의.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198585769&tblKey=GMN",
-          "filename": "261107_보도참고_긴급기관장회의.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198585803&tblKey=GMN",
+          "filename": "261107_보도참고_긴급 기관장회의.pdf"
         }
       ],
-      "_attAt": "2026-11-07T01:37:43.721946+00:00"
+      "_attAt": "2026-11-07T07:52:42.709298+00:00",
+      "_attRev": 1
     },
     {
       "title": "수상의 영광을 시장의 기회로, K-Sool의 도약이 시작된다.",
