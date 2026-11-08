@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "retentionDays": 7,
-  "count": 133,
+  "count": 128,
   "events": [
     {
       "id": "156787470",
@@ -118,84 +118,6 @@
       "strength": "약",
       "emoji": "📰",
       "flavor": "인근 산림항공관리소에서 산불 진화 훈련을 실시해서 우리 농장 주변 산불 걱정을 한시름 덜었어요!",
-      "weight": 2
-    },
-    {
-      "id": "156787414",
-      "agency": "해양수산부",
-      "title": "11월의 수산물, 어촌 여행지, 해양생물, 등대, 무인도서 선정",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787414",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "시세호재",
-      "strength": "약",
-      "emoji": "🌾",
-      "flavor": "11월 이달의 수산물로 삼치와 가리비가 선정되어 찾는 손님들이 더욱 늘어날 것 같아요!",
-      "weight": 5
-    },
-    {
-      "id": "156787413",
-      "agency": "해양수산부",
-      "title": "「지속가능한 연근해어업 발전법」 시행령·시행규칙 제정안 입법예고",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787413",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "시세악재",
-      "strength": "약",
-      "emoji": "🥀",
-      "flavor": "연근해 어획량과 거래 내역을 관리하는 새로운 어업 법안이 시행되어 어업 기록에 조금 더 신경 써야겠어요!",
-      "weight": 5
-    },
-    {
-      "id": "156787412",
-      "agency": "해양수산부",
-      "title": "한국해양교통안전공단과 한국항로표지기술원 통합 추진한다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787412",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "어업",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "해상 교통과 선박 안전 관리 기관이 통합되어 앞으로 바닷길이 더 안전해진대요!",
-      "weight": 2
-    },
-    {
-      "id": "156787420",
-      "agency": "기후에너지환경부",
-      "title": "야생동물 질병 전문인력 양성, 연구성과 공유의 장 마련",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787420",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "무관",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "야생동물 질병 전문인력을 양성하는 학술 행사가 열렸지만 당장 우리 농장에 미치는 영향은 없어요.",
-      "weight": 1
-    },
-    {
-      "id": "156787419",
-      "agency": "기후에너지환경부",
-      "title": "국립공원공단, 가을 산불 총력 대응 나선다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787419",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "전체",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "가을철 산불조심 기간을 맞아 농장 주변의 산불 예방과 불씨 관리에 각별히 주의하고 있어요!",
-      "weight": 2
-    },
-    {
-      "id": "156787475",
-      "agency": "농림축산식품부",
-      "title": "농관원, '2026 푸드위크 코리아'참가, 우리 농식품의 가치를 알린다",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787475",
-      "pubDate": "2026-11-01T00:00:00+09:00",
-      "scope": "직판",
-      "kind": "중립",
-      "strength": "약",
-      "emoji": "📰",
-      "flavor": "푸드위크 박람회 홍보 덕분에 우리 농장 인증 농산물의 가치와 신뢰도가 한층 높아졌어요!",
       "weight": 2
     },
     {
@@ -1730,6 +1652,19 @@
       "strength": "강",
       "emoji": "🌀",
       "flavor": "고병원성 조류인플루엔자 확진 소식에 우리 농장도 방역 수칙을 철저히 점검하고 차단 방역에 긴장을 늦추지 말아야겠어요!",
+      "weight": 5
+    },
+    {
+      "id": "156788310",
+      "agency": "농림축산식품부",
+      "title": "수상의 영광을 시장의 기회로, K-Sool의 도약이 시작된다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788310",
+      "pubDate": "2026-11-07T00:00:00+09:00",
+      "scope": "가공",
+      "kind": "시세호재",
+      "strength": "중",
+      "emoji": "🌾",
+      "flavor": "우리 농장에서 빚은 전통주가 해외 바이어 상담회와 팝업스토어를 통해 새로운 판로를 얻게 되었어요!",
       "weight": 5
     }
   ]
