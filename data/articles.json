@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T03:42:43.337855+00:00",
-  "count": 2179,
+  "updated": "2026-11-08T03:57:47.722850+00:00",
+  "count": 2180,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -350,6 +350,27 @@
         }
       ],
       "_attAt": "2026-11-08T03:12:43.430801+00:00"
+    },
+    {
+      "title": "고용보험 부정수급, 지금 신고하세요! 자진신고하면 추가징수 면제",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788331",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-08T00:00:00+09:00",
+      "description": "- 고용노동부, 11.9.~12.31. 고용보험 부정수급 집중신고기간 운영- 실업급여 반복수급해외체류 중 의심사례 특별점검 병행 고용노동부는 11월 9일부터 12월 31일까지 '2026년 하반기 고용보험 부정수급 집중신고기간'을 운영한다고 밝혔다. 이번 집중신고기간은 실업급여, 육아휴직급여 등 모성보호급여와 고용장려금, 직업능력개발사업 등 고용보험사업 전반의 부정수급에 대한 자진신고와 국민 제보를 활성화하기 위해 운영된다. 부정수급 사실을 자진신고하면 추가징수를 면제받을 수 있고, 부정수급을 제보하면 신고포상금을 받을 수 있다. 자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585953&tblKey=GMN",
+          "filename": "261108_보도자료__26년_하반기_고용보험_부정수급_집중신고기간_실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585952&tblKey=GMN",
+          "filename": "261108_보도자료__26년_하반기_고용보험_부정수급_집중신고기간_실시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-08T03:57:43.743561+00:00"
     },
     {
       "title": "'학대의 신호도, 마음의 신호도 놓치지 마세요', 2026 발달장애인 가족치유행사 홍보부스 운영",
