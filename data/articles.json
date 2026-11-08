@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T23:57:44.032843+00:00",
-  "count": 2165,
+  "updated": "2026-11-08T00:12:46.521187+00:00",
+  "count": 2166,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788317",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-08T00:00:00+09:00",
+      "description": "폐교의 새로운 시작, 지역의 가능성을 열다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198585909&tblKey=GMN",
+          "filename": "[교육부 11-09(월) 조간보도자료] (관계부처합동) 폐교의 새로운 시작 지역의 가능성을 열다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-08T00:12:42.311696+00:00"
+    },
     {
       "title": "'학대의 신호도, 마음의 신호도 놓치지 마세요', 2026 발달장애인 가족치유행사 홍보부스 운영",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788305",
