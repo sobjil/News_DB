@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T07:50:52.035468+00:00",
-  "count": 2266,
+  "updated": "2026-11-09T08:05:49.373005+00:00",
+  "count": 2267,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1721,6 +1721,22 @@
         }
       ],
       "_attAt": "2026-11-09T07:50:46.554918+00:00"
+    },
+    {
+      "title": "배경훈 부총리, 국제전기통신연합 전권회의에서 국제 디지털 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788469",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-09T00:00:00+09:00",
+      "description": "- 고위급 정책연설 등을 통해 한국의 인공지능·디지털 정책 미래상 공유 -- 국제전기통신연합 이사국, 전파규칙위원회 위원 선거 출마, 국제 정보통신기술 협력 확대 추진 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586612&tblKey=GMN",
+          "filename": "261110 조간 (보도) 배경훈 부총리, 국제전기통신연합(ITU) 전권회의에서 글로벌 디지털 협력 강화 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-11-09T08:05:45.545788+00:00"
     },
     {
       "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
