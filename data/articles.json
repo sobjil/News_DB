@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T22:20:57.296177+00:00",
-  "count": 2270,
+  "updated": "2026-11-09T22:35:50.270466+00:00",
+  "count": 2271,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -119,6 +119,27 @@
         }
       ],
       "_attAt": "2026-11-09T22:20:47.758857+00:00"
+    },
+    {
+      "title": "K-소상공인 수출성과, '로컬'을 넘어 '글로컬'로 도약",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788511",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 11월 10일(화), 해외 판로 개척을 지원하는 '글로벌 소상공인 육성사업' 선정 100개사의 수출 성과를 발표했다. 2026년 신규로 시작한 '글로벌 소상공인 육성 사업'은 소비재 분야에서 수출 잠재력이 높은 소상공인을 대상으로 수출 역량 강화 교육, 수출형 제품 개발 및 사업화(최대 1억원), 해외 소비재 박람회 참가 등을 단계적으로 지원해 해외 판로 개척을 돕는 사업이다. 올해 선정된 100개사 중 수출 실적이 있는 92개사의 수출액은 2025년 1월~9월 452만 달러에서 2026",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586733&tblKey=GMN",
+          "filename": "20261110_(보도자료)_K_소상공인_제주에서_성과공유.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586732&tblKey=GMN",
+          "filename": "20261110_(보도자료)_K_소상공인_제주에서_성과공유.pdf"
+        }
+      ],
+      "_attAt": "2026-11-09T22:35:47.258998+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
