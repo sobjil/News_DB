@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T04:50:48.963935+00:00",
-  "count": 2252,
+  "updated": "2026-11-09T05:05:50.617867+00:00",
+  "count": 2253,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1405,6 +1405,22 @@
         }
       ],
       "_attAt": "2026-11-09T04:50:45.955449+00:00"
+    },
+    {
+      "title": "과기정통부, 전직급 인공지능 대화형 코딩으로 행정혁신 앞당긴다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788451",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-09T00:00:00+09:00",
+      "description": "- 관리자부터 실무자까지 대화형 코딩 실습 교육으로 인공지능 활용 역량 제고 -- 국산 인공지능 모델을 활용해 소프트웨어 개발 및 업무방식 변화 직접 체험 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586443&tblKey=GMN",
+          "filename": "261110 조간 (보도) 과기정통부, 전직급 AI 바이브코딩으로 행정혁신 앞당긴다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-09T05:05:46.995339+00:00"
     },
     {
       "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
