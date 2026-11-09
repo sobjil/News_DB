@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T10:20:47.068536+00:00",
-  "count": 2273,
+  "updated": "2026-11-09T10:35:50.032636+00:00",
+  "count": 2274,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1867,6 +1867,22 @@
         }
       ],
       "_attAt": "2026-11-09T09:35:46.359056+00:00"
+    },
+    {
+      "title": "2026년 제48차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788505",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-11-09T00:00:00+09:00",
+      "description": "2026년 제48차 위원회 결과[의결 안건]가. 방송심의 제재 조치의 처분 명령에 관한 건 o 방송미디어통신심의위원회가 심의·의결하여 처분을 요청한 사항 11건(지상파방송 부문 경고 1건, 방송광고 부문 주의 9건, 상품판매방송 부문 주의 1건)에 대해 방송미디어통신위원회는 제재조치의 처분 명령을 심의·의결했습니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586696&tblKey=GMN",
+          "filename": "제48차 위원회 결과 (서면)브리핑(261109).hwpx"
+        }
+      ],
+      "_attAt": "2026-11-09T10:35:46.862256+00:00"
     },
     {
       "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
