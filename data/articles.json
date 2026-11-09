@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T20:50:47.979257+00:00",
-  "count": 2267,
+  "updated": "2026-11-09T21:05:50.821006+00:00",
+  "count": 2268,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788508",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증- 만성콩팥병 환자에서 극단적인 단백질 섭취 제한은 투석 위험 42%, 사망 위험 117% 증가- 국내 만성콩팥병 환자 14년 장기 추적 데이터로 100년간 이어진 '무조건적 저단백 식사' 통념 첫 재평가질병관리청(청장 임승관) 국립보건연구원(원장 남재환)은 투석을 받지 않는 만성콩팥병 환자를 장기 추적한 결과, 단백질 섭취량이 매우 낮은 환자에서 투석·신장이식이 필요한 신부전과 사망 위험이 높게 나타났다고 밝혔다. ※ 연구 결과는 『JAMA Network ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586726&tblKey=GMN",
+          "filename": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 &amp;#039;독&amp;#039;, 투석·사망 위험 급증.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586727&tblKey=GMN",
+          "filename": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 &amp;#039;독&amp;#039;, 투석·사망 위험 급증.pdf"
+        }
+      ],
+      "_attAt": "2026-11-09T21:05:46.981831+00:00"
+    },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788359",
