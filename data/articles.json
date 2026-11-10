@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T04:31:44.115064+00:00",
-  "count": 2323,
+  "updated": "2026-11-10T04:46:54.599120+00:00",
+  "count": 2329,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -142,7 +142,8 @@
           "filename": "20261110_(보도자료)_K_소상공인_제주에서_성과공유.pdf"
         }
       ],
-      "_attAt": "2026-11-09T22:35:47.258998+00:00"
+      "_attAt": "2026-11-10T04:46:41.692284+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 화장품 인체적용시험기관 대상 정책설명회 개최",
@@ -1240,6 +1241,117 @@
         }
       ],
       "_attAt": "2026-11-10T04:30:41.574793+00:00"
+    },
+    {
+      "title": "G7 외교장관회의 계기 한-사우디 외교장관회담(11.9.) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788576",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "조현 외교장관은 2026년 제2차 G7 외교장관회의(11.9.-10., 프랑스 파리) 참석 계기 11.9.(월) 파이살 빈 파르한 알 사우드(H.H. Prince Faisal bin Farhan Al Saud) 사우디아라비아 외교장관과 면담을 갖고, 고위급 교류 및 실질 협력 확대, 한반도 및 중동 정세 등에 대한 의견을 교환하였다. 양 장관은 미래지향적 전략 동반자로서 고위급 교류를 지속해나가면서 원전, 첨단기술, 방산 등 다양한 분야에서 호혜적이고 실질적인 협력을 더욱 확대해 나가기로 하였다. 한편, 조 장관은 최근 후티 반군의",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586978&tblKey=GMN",
+          "filename": "[26-911](보도자료) G7 외교장관회의 계기 한-사우디 외교장관회담(11.9.) 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586979&tblKey=GMN",
+          "filename": "[26-911](보도자료) G7 외교장관회의 계기 한-사우디 외교장관회담(11.9.) 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
+    },
+    {
+      "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788579",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "「유아교육법 시행령」 일부개정령안 국무회의 통과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586984&tblKey=GMN",
+          "filename": "[교육부 11-10(화) 국무회의종료시 보도자료] 유아교육법 시행령 일부개정령안 국무회의 통과.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
+    },
+    {
+      "title": "「영유아보육법 시행령」 일부개정령안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788578",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "「영유아보육법 시행령」 일부개정령안 국무회의 통과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586983&tblKey=GMN",
+          "filename": "[교육부 11-10(화) 국무회의종료시 보도자료] 영유아보육법 시행령 일부개정령안 국무회의 통과.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
+    },
+    {
+      "title": "「교육공무원 임용령」 일부개정령안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788577",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "「교육공무원 임용령」 일부개정령안 국무회의 통과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586982&tblKey=GMN",
+          "filename": "[교육부 11-10(화) 국무회의종료시 보도자료] 교육공무원 임용령 일부개정령안 국무회의 통과.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
+    },
+    {
+      "title": "지역방송 콘텐츠, 해외 진출 지원 나서",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788573",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "지역방송 콘텐츠, 해외 진출 지원 나서- 해외 방송 관계사와 콘텐츠 교류협력 행사 개최…5개국 7개 방송사 참여 - 우수한 지역방송 콘텐츠가 해외 방송 관계사와의 협력을 통해 세계 시청자들에게 전달될 수 있도록 지원하는 콘텐츠 교류의 장이 마련됐다. 방송미디어통신위원회(위원장 김종철)는 10일 서울에서 지역방송 콘텐츠의 해외 진출과 글로벌 협력 기반 마련을 지원하기 위해 '지역방송 콘텐츠 교류협력 행사'를 개최했다. 이번 행사는 지역 문화와 역사, 고유한 이야기를 담은 우수한 지역방송 콘텐츠가 해외 시장에서 새로운 기회를 찾고, 해",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586966&tblKey=GMN",
+          "filename": "261110 (보도자료) 지역방송 콘텐츠, 해외 진출 지원 나서.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586965&tblKey=GMN",
+          "filename": "261110 (보도자료) 지역방송 콘텐츠, 해외 진출 지원 나서.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
+    },
+    {
+      "title": "「한반도 평화체제 및 평화경제 미래비전 국제세미나」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788580",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "평화공존과 평화경제의 청사진을 그리다, ｢한반도 평화체제 및 평화경제 미래비전 국제세미나｣ 개최 - '한반도 평화체제 구상과 평화경제 추진방향'을 주제로 평화체제 구축 및 남북 공동성장을 위한 실천적 해법 논의 - △(일시) 11.16.(월)~11.17.(화) △(장소) 웨스틴조선서울 △(주최) 통일부·경제인문사회연구회 △(주관) 통일연구원 【관련 국정과제】 117. 국민과 함께하는 한반도 평화·통일정책 추진 118. 한반도 평화경제 및 공동성장의 미래 준비 □ 통일부와 경제·인문사회 연구회는 11월 16일(월)부터 17일(화)까지",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586985&tblKey=GMN",
+          "filename": "261110 (통일부 보도자료) 「한반도 평화체제 및 평화경제 미래비전 국제세미나」 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586986&tblKey=GMN",
+          "filename": "261110 (통일부 보도자료) 「한반도 평화체제 및 평화경제 미래비전 국제세미나」 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T04:46:41.692284+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
