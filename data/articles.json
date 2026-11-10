@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T22:30:57.592268+00:00",
-  "count": 2292,
+  "updated": "2026-11-10T22:46:00.203841+00:00",
+  "count": 2293,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -119,6 +119,27 @@
         }
       ],
       "_attAt": "2026-11-10T22:15:55.721305+00:00"
+    },
+    {
+      "title": "G7 외교장관회의 계기 한-우크라이나 외교장관회담(11.10) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788659",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "조현 외교부 장관은 G7 외교장관회의 참석 계기 11.10.(화) 오후 안드리 시비하(Andrii Sybiha) 우크라이나 외교장관과 회담을 갖고, 주요 양자 현안 및 지역 정세 등에 대해 의견을 교환하였다. 조 장관은 지난 9월 유엔총회 계기 양자회담에 이어 양국 외교장관 간 지속적인 소통이 이루어지고 있는 점을 긍정적으로 평가한다고 하였다. 조 장관은 국가 간 상호 존중과 신뢰와 성실한 합의 이행은 양국 관계 발전을 위한 기본 전제조건임을 강조하면서, 양국 간 제반 현안이 원만히 해결되기를 바란다고 하였고, 시비하 장관은 양국 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587385&tblKey=GMN",
+          "filename": "[26-921](보도자료) G7 외교장관회의 계기 한-우크라이나 외교장관회담(11.10) 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587386&tblKey=GMN",
+          "filename": "[26-921](보도자료) G7 외교장관회의 계기 한-우크라이나 외교장관회담(11.10) 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T22:45:57.100481+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
