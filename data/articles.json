@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T12:30:53.507559+00:00",
-  "count": 2364,
+  "updated": "2026-11-10T12:45:48.866078+00:00",
+  "count": 2365,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1723,21 +1723,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587150&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587177&tblKey=GMN",
           "filename": "(261110)_보도자료_산림청__울진_금강소나무림_효과적_보호를_위한_방제전략_마련_회의_개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587151&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587178&tblKey=GMN",
           "filename": "(261110)_보도자료_산림청__울진_금강소나무림_효과적_보호를_위한_방제전략_마련_회의_개최.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587149&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587176&tblKey=GMN",
           "filename": "(261110)_보도자료_산림청__울진_금강소나무림_효과적_보호를_위한_방제전략_마련_회의_개최.hwp"
         }
       ],
-      "_attAt": "2026-11-10T06:40:42.134508+00:00"
+      "_attAt": "2026-11-10T12:45:41.791985+00:00",
+      "_attRev": 1
     },
     {
       "title": "외교부, 피지컬 AI 경쟁 속 한국의 경제안보 대응 모색",
@@ -1758,7 +1759,8 @@
           "filename": "[26-913](보도자료) 외교부, 피지컬 AI 경쟁 속 한국의 경제안보 대응 모색.pdf"
         }
       ],
-      "_attAt": "2026-11-10T06:40:42.134508+00:00"
+      "_attAt": "2026-11-10T12:45:41.791985+00:00",
+      "_attRev": 1
     },
     {
       "title": "제2차 G7 외교장관회의 계기 한-이집트 외교장관회담(11.9.) 개최",
@@ -2116,6 +2118,27 @@
         }
       ],
       "_attAt": "2026-11-10T12:30:42.495290+00:00"
+    },
+    {
+      "title": "한미 외교장관 환담(11.10.) 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788654",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "조현 외교부 장관은 11.10.(화) G7 외교장관회의 2일차 회의 계기 마르코 루비오(Marco Rubio) 미국 국무장관과 별도 환담을 갖고 △한미관계 전반 △고위급 교류 △북한 문제 등에 대해 의견을 교환하고, 정상 간 합의 사항 진전을 포함하여 양국 관계 지속 발전을 위해 긴밀히 협력해 나가기로 하였다. 붙임 : 환담 사진. 끝.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587346&tblKey=GMN",
+          "filename": "[26-919](보도자료) 한미 외교장관 환담(11.10.) 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587347&tblKey=GMN",
+          "filename": "[26-919](보도자료) 한미 외교장관 환담(11.10.) 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T12:45:41.791985+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
