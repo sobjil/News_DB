@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T08:30:43.233419+00:00",
-  "count": 2356,
+  "updated": "2026-11-10T08:45:44.140283+00:00",
+  "count": 2357,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1919,6 +1919,27 @@
         }
       ],
       "_attAt": "2026-11-10T08:27:42.298362+00:00"
+    },
+    {
+      "title": "ODA에 대한 청년의 생각, 직접 듣고 싶습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788622",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "외교부는 11월 10일 무상원조 정책에 대한 청년 관점에서의 제언을 듣고, 우리 청년의 국제개발협력 참여 확대 방안을 논의하기 위해 이규호 개발협력국장 주재로 「2030 외교부 청년자문단 개발협력분과위 간담회」를 개최하였다. 이번 간담회는 김민주 외교부 청년보좌역과 2030 외교부 청년자문단 개발협력분과위 위원들이 참석하여 우리 무상원조 정책이 나아갈 방향에 대해 논의하는 한편, 국제개발협력 활동에 대한 우리 청년층의 관심과 이를 실질적인 참여 확대로 연결하는 방안에 대해 의견을 교환하였다. 우리 정부는 「제4차 무상분야 기본계획」",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587241&tblKey=GMN",
+          "filename": "[26-915](보도자료) ODA에 대한 청년의 생각, 직접 듣고 싶습니다..hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587242&tblKey=GMN",
+          "filename": "[26-915](보도자료) ODA에 대한 청년의 생각, 직접 듣고 싶습니다..pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T08:45:40.780375+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
