@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T23:16:01.612819+00:00",
-  "count": 2296,
+  "updated": "2026-11-10T23:31:06.324205+00:00",
+  "count": 2298,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -203,6 +203,48 @@
         }
       ],
       "_attAt": "2026-11-10T23:15:55.823950+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, GLP-1 계열 의약품 안전조치 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788664",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "[보도참고] 식약처, GLP-1 계열 의약품 안전조치 추진",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587402&tblKey=GMN",
+          "filename": "[26.11.11.(수) 보도참고자료] 식약처, GLP-1 계열 의약품 안전조치 추진.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587403&tblKey=GMN",
+          "filename": "[26.11.11.(수) 보도참고자료] 식약처, GLP-1 계열 의약품 안전조치 추진.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T23:30:56.276739+00:00"
+    },
+    {
+      "title": "동물병원 수의사 '케타민' 셀프 투약 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788663",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "동물병원 수의사 '케타민' 셀프 투약 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587400&tblKey=GMN",
+          "filename": "[26.11.11.(수) 보도자료] 동물병원 수의사 ‘케타민’ 셀프 투약 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587401&tblKey=GMN",
+          "filename": "[26.11.11.(수) 보도자료] 동물병원 수의사 ‘케타민’ 셀프 투약 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T23:30:56.276739+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
@@ -1572,8 +1614,8 @@
           "filename": "[보도참고자료] 전국 재난의료 인력 150명 모여 대형 재난 대비 현장 대응 역량 점검.pdf"
         }
       ],
-      "_attAt": "2026-11-10T17:30:42.266686+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-10T23:30:56.276739+00:00",
+      "_attRev": 3
     },
     {
       "title": "'유출지하수, 하·폐수, 공업용수'까지 수열에너지 범위 대폭 넓힌다",
@@ -1594,8 +1636,8 @@
           "filename": "‘유출지하수 하·폐수 공업용수’까지 수열에너지 범위 대폭 넓힌다(보도자료)(물이용 11.10).pdf"
         }
       ],
-      "_attAt": "2026-11-10T17:30:42.266686+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-10T23:30:56.276739+00:00",
+      "_attRev": 3
     },
     {
       "title": "경찰, 멈춤 없는 단속, 예외 없는 엄단 「부동산범죄 3차 특별단속」 추진",
@@ -2215,8 +2257,8 @@
           "filename": "[26-917](보도자료) 한일 에너지 파트너십의 미래 - 탄소중립과 에너지 공급망 회복력 강화를 위한 한일 민관 협력 강화 방안 논의.pdf"
         }
       ],
-      "_attAt": "2026-11-10T17:30:42.266686+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-10T23:30:56.276739+00:00",
+      "_attRev": 2
     },
     {
       "title": "진주국제농식품박람회서 산림바이오 소재 연구성과 선보여... - 국립산림과학원, 가시나무류 및 보리밥나무 등 다양한 산림소재 활용 기술이전 성과 전시",
@@ -2232,8 +2274,8 @@
           "filename": "(국립산림과학원 보도자료) 진주국제농식품박람회서 산림바이오 소재 연구성과 선보여....hwpx"
         }
       ],
-      "_attAt": "2026-11-10T17:30:42.266686+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-10T23:30:56.276739+00:00",
+      "_attRev": 2
     },
     {
       "title": "한국 정부대표단, 프랑스 주최 「G7+ 마약밀매 대응 항만 네트워크」 출범회의 참석",
