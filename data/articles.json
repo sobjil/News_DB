@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T00:33:42.764577+00:00",
-  "count": 2277,
+  "updated": "2026-11-10T00:48:45.722975+00:00",
+  "count": 2278,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -266,6 +266,27 @@
         }
       ],
       "_attAt": "2026-11-10T00:18:41.856799+00:00"
+    },
+    {
+      "title": "대·중소기업 간 대금지급 관행 개선을 위한 현장 의견 청취",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788518",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 11월 10일(화) 서울에서 '대·중소기업 간 대금지급 혁신 TF 3차 회의'를 개최했다고 밝혔다. '대·중소기업 간 대금지급 혁신 TF'는 기업 간 거래 현장에서 고착화된 대금지급 관행을 개선하기 위한 과제를 발굴하고 다양한 의견을 수렴하기 위해 지난 6월부터 업계·전문가·관계 부처가 참여한 가운데 운영되어 왔다. 대·중소기업 간 대금지급 혁신 TF 개요 ·[구성] 중기부 2차관(팀장), 국토부·금융위·공정위 국·과장급, 중소기업중앙회·한국중견기업연합회·한국경제인협회·대한건설협회·대한전",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586759&tblKey=GMN",
+          "filename": "261111(보도자료)_대중소기업간_대금지급_혁신_TF.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586758&tblKey=GMN",
+          "filename": "261111(보도자료)_대중소기업간_대금지급_혁신_TF.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T00:48:42.805412+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
