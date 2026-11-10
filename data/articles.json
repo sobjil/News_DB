@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T09:30:42.083144+00:00",
-  "count": 2358,
+  "updated": "2026-11-10T09:45:53.014519+00:00",
+  "count": 2360,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1238,16 +1238,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586943&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586949&tblKey=GMN",
           "filename": "261110 (국무회의 종료 시) ’2026년 시·도교육청 등 230개 공공기관 기록관리 기관평가 결과’ 공개(국가기록원 기록협력과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586942&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586948&tblKey=GMN",
           "filename": "261110 (국무회의 종료 시) ’2026년 시·도교육청 등 230개 공공기관 기록관리 기관평가 결과’ 공개(국가기록원 기록협력과).pdf"
         }
       ],
-      "_attAt": "2026-11-10T03:45:41.180891+00:00"
+      "_attAt": "2026-11-10T09:45:41.577781+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"소음피해, 사고 위험에서 주민 보호해야\"… 서대전역 광장 교통혼잡 문제 해결한다",
@@ -1971,6 +1972,48 @@
         }
       ],
       "_attAt": "2026-11-10T09:15:43.154344+00:00"
+    },
+    {
+      "title": "국방부, 국군사관학교 민간자문특별위원회 회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788625",
+      "agency": "국방부",
+      "agencyCode": "mnd",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "국방부, 국군사관학교 민간자문특별위원회 회의 개최□ 강신철 국방부장관은 11월 10일(화) 오후, 서울 용산 국방컨벤션에서 국군사관학교 민간자문특별위원회 회의를 주관했습니다.ㅇ이날 행사에는 국방부장관을 비롯한 국방부 주요직위자와 학계·연구기관 등 각계 전문가로 구성된 민간자문특별위원 15명이 참석했습니다.□ 이번 행사는 미래 국방을 선도하는 정예장교 육성할 국군사관학교 창설과 관련하여 민간전문가들의 전문적인 식견과 다양한 의견을 정책에 실질적으로 반영하기 위해 마련되었습니다.□민간자문특별위원회는 국군사관학교 창설을 위한 조직운영·교",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587259&tblKey=GMN",
+          "filename": "261110 [국방부 보도자료] 국방부 국군사관학교 민간자문특별위원회 회의 개최_제공.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587258&tblKey=GMN",
+          "filename": "261110 [국방부 보도자료] 국방부 국군사관학교 민간자문특별위원회 회의 개최_제공.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T09:45:41.577781+00:00"
+    },
+    {
+      "title": "외교부, 2026년 하반기 선교단체와의 안전간담회(11.10.) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788624",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "외교부는 해외 파송 선교사의 안전 확보와 선교단체의 해외 안전의식 제고를 위해 11.10.(화) 조주성 해외안전기획관 주재로 「2026년 하반기 선교단체 안전간담회」를 개최했다. 금번 간담회에는 문화체육관광부, 테러정보통합센터 등 유관기관과 한국위기관리재단, 교단 선교부 및 지역 선교단체 등 해외 파송 선교단체 관계자가 참석했다. 조 기획관은 급변하는 국제 정세와 기후변화로 인한 자연재난 등으로 해외 선교활동을 둘러싼 안전 환경이 더욱 복잡하고 불확실해지고 있다면서, 해외 선교활동시 ▴종교활동 관련 현지 법령 및 문화를 존중할 필요",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587255&tblKey=GMN",
+          "filename": "[26-916](보도자료) 외교부, 선교단체와의 안전간담회(11.10.) 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587256&tblKey=GMN",
+          "filename": "[26-916](보도자료) 외교부, 선교단체와의 안전간담회(11.10.) 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T09:45:41.577781+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
