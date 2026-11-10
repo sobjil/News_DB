@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T05:16:55.363224+00:00",
-  "count": 2336,
+  "updated": "2026-11-10T05:31:51.755466+00:00",
+  "count": 2337,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -155,16 +155,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586745&tblKey=GMN",
-          "filename": "[26.11.10.(화) 보도참고자료] 화장품 인체적용시험기관 대상 정책설명회 개최.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198586757&tblKey=GMN",
+          "filename": "[26.11.10.(화) 보도참고자료] 화장품 인체적용시험기관 대상 정책설명회 개최 (1).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586744&tblKey=GMN",
-          "filename": "[26.11.10.(화) 보도참고자료] 화장품 인체적용시험기관 대상 정책설명회 개최.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198586756&tblKey=GMN",
+          "filename": "[26.11.10.(화) 보도참고자료] 화장품 인체적용시험기관 대상 정책설명회 개최 (1).pdf"
         }
       ],
-      "_attAt": "2026-11-09T23:23:41.923780+00:00"
+      "_attAt": "2026-11-10T05:31:42.230222+00:00",
+      "_attRev": 1
     },
     {
       "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사",
@@ -185,7 +186,8 @@
           "filename": "[26.11.10.(화) 보도자료] 식약처, 겨울철 다소비 수산물 집중 수거.검사.pdf"
         }
       ],
-      "_attAt": "2026-11-09T23:23:41.923780+00:00"
+      "_attAt": "2026-11-10T05:31:42.230222+00:00",
+      "_attRev": 1
     },
     {
       "title": "G7 외교장관회의 계기 한-프랑스 외교장관회담(11.9.) 개최",
@@ -197,16 +199,17 @@
       "attachments": [
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586735&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586747&tblKey=GMN",
           "filename": "[26-909](보도자료) G7 외교장관회의 계기 한-프랑스 외교장관회담(11.9.) 개최.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198586734&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198586746&tblKey=GMN",
           "filename": "[26-909](보도자료) G7 외교장관회의 계기 한-프랑스 외교장관회담(11.9.) 개최.hwp"
         }
       ],
-      "_attAt": "2026-11-09T23:23:41.923780+00:00"
+      "_attAt": "2026-11-10T05:31:42.230222+00:00",
+      "_attRev": 1
     },
     {
       "title": "창립 20주년 한국도핑방지위원회, 새로운 도약 다짐",
@@ -227,7 +230,8 @@
           "filename": "[1110]문체부보도자료-한국도핑방지위원회 창립 20주년 기념행사 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-09T23:23:41.923780+00:00"
+      "_attAt": "2026-11-10T05:31:42.230222+00:00",
+      "_attRev": 1
     },
     {
       "title": "청와대 사랑채, 강원 지역문화 상징하는 전시와 특별공연 선사",
@@ -248,7 +252,8 @@
           "filename": "[1110]문체부보도자료-청와대 사랑채 기획전시와 특별공연 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-09T23:23:41.923780+00:00"
+      "_attAt": "2026-11-10T05:31:42.230222+00:00",
+      "_attRev": 1
     },
     {
       "title": "서비스 수출실적 증명, 더 쉽고 편리하게",
@@ -1464,7 +1469,7 @@
       "_attAt": "2026-11-10T05:16:42.967064+00:00"
     },
     {
-      "title": "< 울산광역시 6개 공공기관 공동 개최 > 「2026 울산 공공기관 합동 혁신 경진대회」 개최",
+      "title": "「2026 울산 공공기관 합동 혁신 경진대회」 개최",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788589",
       "agency": "고용노동부",
       "agencyCode": "moel",
@@ -1504,6 +1509,27 @@
         }
       ],
       "_attAt": "2026-11-10T05:16:42.967064+00:00"
+    },
+    {
+      "title": "경찰, 연말 고속도로 사망자 감소를 위해, 전국 단위 '화물차 등 계도·단속' 나선다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788590",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-11-10T00:00:00+09:00",
+      "description": "경찰, 연말 고속도로 사망자 감소를 위해, 전국 단위 '화물차 등 계도·단속' 나선다. 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587060&tblKey=GMN",
+          "filename": "261111(조간용) 경찰청, 고속도로 사망자 감소 위해 총력 대응(교통안전).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587061&tblKey=GMN",
+          "filename": "261111(조간용) 경찰청, 고속도로 사망자 감소 위해 총력 대응(교통안전).pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T05:31:42.230222+00:00"
     },
     {
       "title": "예술인의 세계 무대 도전 지원하는 '케이-아츠 온더고', 2027년도 제1차 공모 시작",
