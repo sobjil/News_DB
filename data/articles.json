@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T23:01:08.016992+00:00",
-  "count": 2293,
+  "updated": "2026-11-10T23:16:01.612819+00:00",
+  "count": 2296,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -140,6 +140,69 @@
         }
       ],
       "_attAt": "2026-11-10T22:45:57.100481+00:00"
+    },
+    {
+      "title": "'제10회 서점의 날', 책과 사람을 잇는 서점의 가치 되새겨",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788660",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "'제10회 서점의 날', 책과 사람을 잇는 서점의 가치 되새겨 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1111]문체부보도자료-제10회 서점의 날 서점 문화 발전 유공 포상.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587393&tblKey=GMN",
+          "filename": "[1111]문체부보도자료-제10회 서점의 날 서점 문화 발전 유공 포상.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587392&tblKey=GMN",
+          "filename": "[1111]문체부보도자료-제10회 서점의 날 서점 문화 발전 유공 포상.pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T23:15:55.823950+00:00"
+    },
+    {
+      "title": "디지털·AI 경쟁력, 전년대비 8단계 상승한 10위 기록",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788662",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 2026년 IMD 세계 디지털·AI 경쟁력 평가 결과 발표 -- 韓, 인구 2천만명 이상 32개국 중 美·加·中에 이어 4위 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587398&tblKey=GMN",
+          "filename": "261111 석간 (보도참고) 디지털·AI 경쟁력, 전년대비 8단계 상승한 10위 기록.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-10T23:15:55.823950+00:00"
+    },
+    {
+      "title": "2026년 10월 고용동향",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788661",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "[2026년 10월 고용동향]▣ 15~64세 고용률(OECD 비교기준)은 70.4%로 전년동월대비 0.3%p 상승▣ 실업률은 2.0%로 전년동월대비 0.2%p 하락 ○ 실업자는 602천명으로 전년동월대비 5만6천명(-8.5%) 감소 ○ 청년층 실업률은 5.2%로 전년동월대비 0.1%p 하락 ○ 계절조정 실업률은 2.5%로 전월대비 0.1%p 하락▣ 2026년 10월 취업자는 29,179천명으로 전년동월대비 13만 9천명(0.5%) 증가** 자세한 내용은 첨부파일을 참고하시기 바랍니다 ** (ssec2610(통합): 보도자료 본문 및",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587395&tblKey=GMN",
+          "filename": "ssec2610.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587394&tblKey=GMN",
+          "filename": "ssec2610(통합).pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587396&tblKey=GMN",
+          "filename": "ssec2610(통계표).pdf"
+        }
+      ],
+      "_attAt": "2026-11-10T23:15:55.823950+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
