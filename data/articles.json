@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T06:01:08.149460+00:00",
-  "count": 2378,
+  "updated": "2026-11-11T06:16:20.812149+00:00",
+  "count": 2382,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -296,7 +296,8 @@
           "filename": "보도참고(10월 고용동향)_F.pdf"
         }
       ],
-      "_attAt": "2026-11-11T00:15:56.383600+00:00"
+      "_attAt": "2026-11-11T06:16:02.714906+00:00",
+      "_attRev": 1
     },
     {
       "title": "제13차 관계부처 합동 일자리전담반(TF) 개최",
@@ -308,16 +309,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587414&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587468&tblKey=GMN",
           "filename": "261111 일자리전담반 보도자료.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587415&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587469&tblKey=GMN",
           "filename": "261111 일자리전담반 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-11-11T00:15:56.383600+00:00"
+      "_attAt": "2026-11-11T06:16:02.714906+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, 민원현장 목소리 듣고 국민 신뢰 높인다",
@@ -1900,6 +1902,90 @@
         }
       ],
       "_attAt": "2026-11-11T06:01:03.487052+00:00"
+    },
+    {
+      "title": "한-인니 방산협력 강화, 정상회담 성과 이어 한 단계 더 도약",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788769",
+      "agency": "방위사업청",
+      "agencyCode": "dapa",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 제12차 한-인니 방산협력위원회 개최...정상회담 후속조치 이행 및 협력 강화 논의- 양국 기업 총 40여 개사 참여... 현지화·공동수출 등 협력 모델 다변화 모색 방위사업청은 11월 11일(수) 인도네시아 자카르타에서 인도네시아 국방부와 제12차 한-인니 방산협력위원회를 개최했습니다. 이번 위원회는 지난 4월 한-인니 정상회담에서 논의된 방산 분야 합의사항을 차질 없이 이행하고, 양국 간 방산협력을 한 단계 발전시키기 위한 후속조치의 일환으로 추진됐습니다. 이번 위원회는 정기영 방위사업청 미래전력사업본부장과 스리얀또(Sri ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587897&tblKey=GMN",
+          "filename": "261111 [방사청 보도자료] 한-인니 방산협력위원회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587898&tblKey=GMN",
+          "filename": "261111 [방사청 보도자료] 한-인니 방산협력위원회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+    },
+    {
+      "title": "김성환 기후부 장관, 나주 에너지 특화도시 조성을 위해 현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788772",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "▷ 전남광주 나주시에서 에너지 특화도시 조성 및 한국에너지공과대학 발전방향 점검▷ 한전·에너지공대 주축으로 에너지 기업 집적 및 창업·사업화 활성화 기대기후에너지환경부(장관 김성환)는 11월 11일 오후 김성환 장관이 우리나라 에너지 산업의 핵심 거점인 전남광주 나주시를 방문하여 '나주 에너지 특화도시' 조성을 위한 발전방안을 모색하고 현장의 의견을 듣는 간담회를 갖는다고 밝혔다.이번 방문은 기후위기 대응과 에너지 대전환 시대를 맞아, 나주가 가진 우수한 에너지 혁신 기반시설(인프라)을 바탕으로 지역과 국가의 미래 성장동력을 창출하",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587916&tblKey=GMN",
+          "filename": "김성환 기후부 장관 나주 에너지 특화도시 조성을 위해 현장 방문(보도자료)(전력산업 11.11).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587917&tblKey=GMN",
+          "filename": "김성환 기후부 장관 나주 에너지 특화도시 조성을 위해 현장 방문(보도자료)(전력산업 11.11).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+    },
+    {
+      "title": "성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788771",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 성층권 태양광 무인기 'EAV-4'의 170시간 5분 연속비행 성공에 이어 미래 항공 산업을 위한 하이브리드 수직이착륙기 개발을 본격 추진한다고 밝혔다. 우주항공청과 한국항공우주연구원은 8월 18일부터 25일까지 성층권 태양광 무인기 'EAV-4' 비행시험에서 7일(170시간 5분) 연속비행에 성공하였다. 이는 2020년 무인기(EAV-3) 국내 기록(53시간)을 3배 이상 넘어선 성과이자, 유럽 에어버스(Airbus)의 '제퍼(Zephyr)'에 이어 세계 2위에 해당하는 대기록이다. 특히 비행시험 기간 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587914&tblKey=GMN",
+          "filename": "261112(조간) 성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587915&tblKey=GMN",
+          "filename": "261112(조간) 성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+    },
+    {
+      "title": "'우주기술 연구실에서 시장으로' 전국 5개 우주기술 실용화센터 한자리에",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788770",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 11월 11일(수) 한국항공우주학회 2026년도 추계학술대회가 개최되는 강원도 정선 하이원리조트에서 전국 5개 우주기술 실용화센터(이하 '실용화센터')*와 우주실용화팀(이하 '실용화팀')이 참여하는 「우주기술실용화 성과교류회」를 개최했다고 밝혔다. * 건국대학교, 경상국립대학교, 인하대학교, 한국과학기술원, 한국항공대학교 우주항공청이 2026년부터 신규로 추진 중인「우주기술실용화촉진지원사업(R&D)」의 일환으로 추진되는 이번 성과교류회에서는 우주항공청의 사업 지원체계에 대한 설명을 시작으로 ▲우주기술 실용",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587913&tblKey=GMN",
+          "filename": "261112(조간) &#039;우주기술 연구실에서 시장으로&#039; 전국 5개 우주기술 실용화센터 한자리에.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587912&tblKey=GMN",
+          "filename": "261112(조간) &#039;우주기술 연구실에서 시장으로&#039; 전국 5개 우주기술 실용화센터 한자리에.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T06:16:02.714906+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
@@ -3951,8 +4037,8 @@
           "filename": "[26-918](공동보도자료) 프랑스 주최 G7+ 마약밀매 대응 항만 네트워크 출범회의 참석.pdf"
         }
       ],
-      "_attAt": "2026-11-11T00:15:56.383600+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-11T06:16:02.714906+00:00",
+      "_attRev": 3
     },
     {
       "title": "한국 정부대표단, 프랑스가 개최한 'G7+ 마약 밀매 대응 항만 네트워크' 출범 회의 참석",
@@ -4039,7 +4125,8 @@
           "filename": "261111_보도자료_일자리전담반 회의 개최(관계부처 합동).pdf"
         }
       ],
-      "_attAt": "2026-11-11T00:15:56.383600+00:00"
+      "_attAt": "2026-11-11T06:16:02.714906+00:00",
+      "_attRev": 1
     },
     {
       "title": "행복청·충북도, 오송역~인천공항 버스 운행으로 접근성 높인다",
