@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T08:46:15.712321+00:00",
-  "count": 2394,
+  "updated": "2026-11-11T09:01:15.897930+00:00",
+  "count": 2396,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1364,16 +1364,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587705&tblKey=GMN",
-          "filename": "261111(석간) 동반위, 동반성장지수 평가 및 상생금융지수 시범평가 결과 발표.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198587780&tblKey=GMN",
+          "filename": "261111_2025년도 동반성장 지수 평가결과 발표.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587706&tblKey=GMN",
-          "filename": "261111(석간) 동반위, 동반성장지수 평가 및 상생금융지수 시범평가 결과 발표.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198587781&tblKey=GMN",
+          "filename": "261111_2025년도 동반성장 지수 평가결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-11-11T03:00:55.238283+00:00"
+      "_attAt": "2026-11-11T09:01:06.401997+00:00",
+      "_attRev": 1
     },
     {
       "title": "국고채 입찰 관련 15개 사업자의 부당한 공동행위 제재",
@@ -1394,7 +1395,8 @@
           "filename": "261112(조간)_국고채 입찰 관련 15개 사업자의 부당한 공동행위 제재.pdf"
         }
       ],
-      "_attAt": "2026-11-11T03:00:55.238283+00:00"
+      "_attAt": "2026-11-11T09:01:06.401997+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 도급사업 안전보건협의체 개최",
@@ -1406,16 +1408,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587698&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587716&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청 도급사업 안전보건협의체 개최.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587699&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587717&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 도급사업 안전보건협의체 개최.hwp"
         }
       ],
-      "_attAt": "2026-11-11T03:00:55.238283+00:00"
+      "_attAt": "2026-11-11T09:01:06.401997+00:00",
+      "_attRev": 1
     },
     {
       "title": "제3차 글로벌 핵심 투자자 협의체 개최",
@@ -2317,6 +2320,48 @@
         }
       ],
       "_attAt": "2026-11-11T08:46:07.900794+00:00"
+    },
+    {
+      "title": "농협 개혁법안 국회 농해수위 전체회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788794",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "농림축산식품부(장관, 송미령, 이하 농식품부)는 11월 11일 농협중앙회장 조합원 직선제 도입, 농협감사위원회(이하 농감위원회) 신설, 농협 운영 투명성 강화 및 임직원 책임 강화 등을 주요 내용으로 하는 ｢농업협동조합법 일부개정법률안(대안)｣이 국회 농해수위 전체회의를 통과했다고 밝혔다. 이번 개정안은 반복되는 금품선거와 비위 문제, 취약한 내부통제 등 농협의 구조적 문제를 개선하고, 농협이 조합원과 농업인을 위한 협동조합으로서 본연의 역할에 집중할 수 있도록 제도적 기반을 마련하기 위한 것이다. 당정협의(3.11, 4.1)를 통",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588072&tblKey=GMN",
+          "filename": "(농업정책관-농업금융정책과) 농협 개혁법안 국회 농해수위 전체회의 통과(11. 11. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588073&tblKey=GMN",
+          "filename": "(농업정책관-농업금융정책과) 농협 개혁법안 국회 농해수위 전체회의 통과(11. 11. 배포 시).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T09:01:06.401997+00:00"
+    },
+    {
+      "title": "농식품부, 배추 수급안정을 위해 공급과잉량 시장격리 등 대책 조기 추진!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788793",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 최근 가을배추 생산량 증가로 가격이 하락함에 따라, 지난 11월 3일 발표한 김장재료 수급안정 대책에 이어 산지 출하정지, 수매비축 확대 등 추가 대책을 시행한다고 밝혔다. 1. 배추 가격 등 수급상황 올해 가을배추는 재배기간 중 양호한 기상으로 생산량이 전년보다 크게 증가한 반면, 김치 소비 감소 등으로 수요는 줄어 가격 약세를 보이고 있다. 11월 상순 기준 배추 도매가격은 포기당 1,900원으로 전년 동기보다 42%, 평년보다 32% 낮은 수준이며, 소비자가격도 포기당 3,21",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588070&tblKey=GMN",
+          "filename": "(유통소비정책관-원예산업과) 농식품부 배추 수급안정을 위해 공급과잉량 시장격리 등 대책 조기 추진!(11. 11. 14시부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588071&tblKey=GMN",
+          "filename": "(유통소비정책관-원예산업과) 농식품부 배추 수급안정을 위해 공급과잉량 시장격리 등 대책 조기 추진!(11. 11. 14시부터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T09:01:06.401997+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
