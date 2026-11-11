@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T04:31:04.367772+00:00",
-  "count": 2360,
+  "updated": "2026-11-11T04:46:08.071821+00:00",
+  "count": 2363,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -142,7 +142,8 @@
           "filename": "[26-921](보도자료) G7 외교장관회의 계기 한-우크라이나 외교장관회담(11.10) 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-10T22:45:57.100481+00:00"
+      "_attAt": "2026-11-11T04:46:01.153457+00:00",
+      "_attRev": 1
     },
     {
       "title": "'제10회 서점의 날', 책과 사람을 잇는 서점의 가치 되새겨",
@@ -1527,6 +1528,74 @@
         }
       ],
       "_attAt": "2026-11-11T04:31:00.265731+00:00"
+    },
+    {
+      "title": "지식재산처, 건강식품 지식재산권 허위표시 597건 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788745",
+      "agency": "지식재산처",
+      "agencyCode": "moip",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "지식재산처, 건강식품 지식재산권 허위표시 597건 적발 - 건강식품 지식재산권 허위표시에 주의하세요 - 지식재산처(처장 김용선)는 건강 증진을 목적으로 섭취하는 건강식품을 대상으로 온라인 판매 건강식품의 지식재산권 표시 실태를 조사*한 결과, 총 597건의 허위표시 사례를 적발했다고 밝혔다. * 온라인 플랫폼 7개사의 건강식품 판매 게시글 1만 건('26. 8. 24.∼9. 14.) 최근 온라인 건강식품 거래가 꾸준히 증가하고 있으나 온라인에서는 소비자가 제품을 직접 확인하기 어려워 표시·광고 내용에 대한 의존도가 높다. 이에 지식",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587791&tblKey=GMN",
+          "filename": "362 [지식재산처] 지식재산처, 건강식품 지식재산권 허위표시 597건 적발.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587790&tblKey=GMN",
+          "filename": "362 [지식재산처] 지식재산처, 건강식품 지식재산권 허위표시 597건 적발.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T04:46:01.153457+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, 공공·민간 협력으로 2030 착공목표 차질 없이 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788743",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, 공공·민간 협력으로 2030 착공목표 차질 없이 추진 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587784&tblKey=GMN",
+          "filename": "261111(동정)_홍지선_장관__공공_민간_협력으로_2030_착공목표_차질_없이_추진(도심주택정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587785&tblKey=GMN",
+          "filename": "261111(동정)_홍지선_장관__공공_민간_협력으로_2030_착공목표_차질_없이_추진(도심주택정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T04:46:01.153457+00:00"
+    },
+    {
+      "title": "국가데이터 민관협의체 4차 회의 개최, 국가데이터 관리를 위한 현장의 목소리 청취",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788744",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "국가데이터처는 11월 11일 오전 10시 「국가데이터 민관협의체」 4차 회의를 개최 올해 4번째 개최되는 「국가데이터 민관협의체」회의는 국가데이터 운영의 효율성을 극대화하기 위한 다각적인 방안이 논의되었다.( 주요 안건 ) 1. 국가데이터의 효율적인 운영을 위한 현황조사 방안 2. 국가차원에서 관리가 필요한 데이터에 대한 수요 발굴※ 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587786&tblKey=GMN",
+          "filename": "[보도자료] 국가데이터 민관협의체 4차 회의 개최..국가데이터 관리를 위한 현장의 목소리 청취.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587788&tblKey=GMN",
+          "filename": "[보도자료] 국가데이터 민관협의체 4차 회의 개최..국가데이터 관리를 위한 현장의 목소리 청취.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587787&tblKey=GMN",
+          "filename": "[보도자료] 국가데이터 민관협의체 4차 회의 개최..국가데이터 관리를 위한 현장의 목소리 청취.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T04:46:01.153457+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
