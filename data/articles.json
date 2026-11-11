@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T01:16:11.162014+00:00",
-  "count": 2324,
+  "updated": "2026-11-11T01:31:02.701315+00:00",
+  "count": 2326,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -773,6 +773,43 @@
         }
       ],
       "_attAt": "2026-11-11T01:15:55.901415+00:00"
+    },
+    {
+      "title": "고교 일학습병행 학습근로자 대상 '도메인 인공지능(AI) 특강' 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788702",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 자동차 '도메인 인공지능(AI)' 특강 및 산업현장 체험 프로그램 운영 한국산업인력공단(이사장 이병훈, 이하 '공단')은 11일 현대자동차 국가인적자원개발컨소시엄 산업전환 공동훈련센터(충남 아산시)에서 고교 일학습병행 학습근로자 100명을 대상으로 '도메인 AI*' 프로그램 「다이(DAI)루어질지니~」를 개최했다. * 도메인 AI : 특정 산업 분야 또는 직무 등에 맞춰 활용하는 AI 이번 특강은 자동차 산업과 인공지능(AI) 기술에 대한 이해를 높이고, 미래 산업 변화에 대응할 수 있는 역량을 갖춘 인재 양성을 위해 마련됐다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587568&tblKey=GMN",
+          "filename": "261111_보도자료_고교 일학습병행 학습근로자 대상 도메인 AI 특강 실시(한국산업인력공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587567&tblKey=GMN",
+          "filename": "261111_보도자료_고교 일학습병행 학습근로자 대상 도메인 AI 특강 실시(한국산업인력공단).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T01:30:55.626413+00:00"
+    },
+    {
+      "title": "세계적 인공지능바이오 강국 도약을 위한 소버린 바이오 전략 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788703",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 7대 SEED, K-문샷 등 미래 바이오 전략 논의 - - 과학기술정보통신부, 11월 11일(수) 「2026 바이오 미래 포럼」 개최 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587569&tblKey=GMN",
+          "filename": "261112 석간 (보도) 글로벌 인공지능바이오 강국 도약을 위한 소버린 바이오 전략 모색 (1).hwpx"
+        }
+      ],
+      "_attAt": "2026-11-11T01:30:55.626413+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
@@ -2570,8 +2607,8 @@
           "filename": "261111 (16시) 폭설에도 제설제 공급 차질 없도록 민관협력체계 가동(재난자원관리과).pdf"
         }
       ],
-      "_attAt": "2026-11-10T19:30:50.724128+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-11T01:30:55.626413+00:00",
+      "_attRev": 3
     },
     {
       "title": "LG디스플레이, 2026년 특허기술상 1등 영예",
