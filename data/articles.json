@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:31:34.031132+00:00",
+  "updated": "2026-11-11T14:46:20.316274+00:00",
   "count": 2405,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2348,21 +2348,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588060&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588080&tblKey=GMN",
           "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588061&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588081&tblKey=GMN",
           "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588059&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588079&tblKey=GMN",
           "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.hwp"
         }
       ],
-      "_attAt": "2026-11-11T08:46:07.900794+00:00"
+      "_attAt": "2026-11-11T14:46:17.797422+00:00",
+      "_attRev": 1
     },
     {
       "title": "농협 개혁법안 국회 농해수위 전체회의 통과",
