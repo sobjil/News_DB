@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T12:01:09.718379+00:00",
-  "count": 2403,
+  "updated": "2026-11-11T12:16:19.036897+00:00",
+  "count": 2404,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -296,8 +296,8 @@
           "filename": "보도참고(10월 고용동향)_F.pdf"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 2
     },
     {
       "title": "제13차 관계부처 합동 일자리전담반(TF) 개최",
@@ -318,8 +318,8 @@
           "filename": "261111 일자리전담반 보도자료.pdf"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 2
     },
     {
       "title": "조달청, 민원현장 목소리 듣고 국민 신뢰 높인다",
@@ -2019,16 +2019,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587897&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587941&tblKey=GMN",
           "filename": "261111 [방사청 보도자료] 한-인니 방산협력위원회 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587898&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587942&tblKey=GMN",
           "filename": "261111 [방사청 보도자료] 한-인니 방산협력위원회 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 1
     },
     {
       "title": "김성환 기후부 장관, 나주 에너지 특화도시 조성을 위해 현장 방문",
@@ -2040,16 +2041,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587916&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587984&tblKey=GMN",
           "filename": "김성환 기후부 장관 나주 에너지 특화도시 조성을 위해 현장 방문(보도자료)(전력산업 11.11).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587917&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587985&tblKey=GMN",
           "filename": "김성환 기후부 장관 나주 에너지 특화도시 조성을 위해 현장 방문(보도자료)(전력산업 11.11).pdf"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 1
     },
     {
       "title": "성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다",
@@ -2061,16 +2063,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587914&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587969&tblKey=GMN",
           "filename": "261112(조간) 성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587915&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587970&tblKey=GMN",
           "filename": "261112(조간) 성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다.hwp"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 1
     },
     {
       "title": "'우주기술 연구실에서 시장으로' 전국 5개 우주기술 실용화센터 한자리에",
@@ -2091,7 +2094,8 @@
           "filename": "261112(조간) &#039;우주기술 연구실에서 시장으로&#039; 전국 5개 우주기술 실용화센터 한자리에.hwp"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00"
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 1
     },
     {
       "title": "정읍국유림관리소, 유역관리사업장 합동점검 실시",
@@ -2531,6 +2535,27 @@
         }
       ],
       "_attAt": "2026-11-11T11:01:06.379796+00:00"
+    },
+    {
+      "title": "(참고) 2035년 전 세계 전기화율 35% 달성 공약,한국 지지 의사 표명",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788824",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "▷ 제31차 유엔기후변화협약 당사국총회(COP31) 계기, 튀르키예가 제안한 '35-바이(by)-35 공약'에 한국도 지지 표명▷ 2035년 전 세계 전기화율 향상을 위해 국내·외 모두 지속 노력키로기후에너지환경부(장관: 김성환)는 튀르키예 안탈리아에서 열리고 있는 제31차 유엔기후변화협약 당사국총회(COP31)를 계기로, 우리나라도 튀르키예가 제안한 '35-바이(by)-35' 공약을 지지한다고 밝혔다.'35-바이(by)-35' 공약은 2035년까지 전 세계 최종에너지소비 중 전력 소비 비중을 35%로 확대하는 것을 목표로 한다. ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588214&tblKey=GMN",
+          "filename": "2035년 전 세계 전기화율 35 달성 공약한국 지지 의사 표명(보도참고자료)(국제협력 11.11).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588215&tblKey=GMN",
+          "filename": "2035년 전 세계 전기화율 35 달성 공약한국 지지 의사 표명(보도참고자료)(국제협력 11.11).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T12:16:07.731355+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
@@ -4670,8 +4695,8 @@
           "filename": "261111_보도자료_일자리전담반 회의 개최(관계부처 합동).pdf"
         }
       ],
-      "_attAt": "2026-11-11T06:16:02.714906+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-11T12:16:07.731355+00:00",
+      "_attRev": 2
     },
     {
       "title": "행복청·충북도, 오송역~인천공항 버스 운행으로 접근성 높인다",
