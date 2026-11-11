@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T03:01:07.345317+00:00",
-  "count": 2350,
+  "updated": "2026-11-11T03:16:16.627658+00:00",
+  "count": 2358,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -72,16 +72,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587372&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587380&tblKey=GMN",
           "filename": "261111(석간) 제11회 부동산산업의 날 국민 신뢰와 산업 혁신 다짐(토지정책과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587373&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587381&tblKey=GMN",
           "filename": "261111(석간) 제11회 부동산산업의 날 국민 신뢰와 산업 혁신 다짐(토지정책과).pdf"
         }
       ],
-      "_attAt": "2026-11-10T21:15:49.977607+00:00"
+      "_attAt": "2026-11-11T03:15:55.327201+00:00",
+      "_attRev": 1
     },
     {
       "title": "전국 겨울철새 서식지 100곳, 27년간의 생태기록으로 과학적 관리체계 구축",
@@ -93,16 +94,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587374&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587382&tblKey=GMN",
           "filename": "전국 겨울철새 서식지 100곳 27년간의 생태기록으로 과학적 관리체계 구축(보도자료)(자원관 11.11).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198587375&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587383&tblKey=GMN",
           "filename": "전국 겨울철새 서식지 100곳 27년간의 생태기록으로 과학적 관리체계 구축(보도자료)(자원관 11.11).pdf"
         }
       ],
-      "_attAt": "2026-11-10T21:15:49.977607+00:00"
+      "_attAt": "2026-11-11T03:15:55.327201+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"사용이 끝난 배터리, 남아 있는 에너지에 주의해야\" 국립소방연구원, 폐리튬이온배터리 열폭주 실험으로 화재위험 확인",
@@ -1329,6 +1331,159 @@
         }
       ],
       "_attAt": "2026-11-11T03:00:55.238283+00:00"
+    },
+    {
+      "title": "제3차 글로벌 핵심 투자자 협의체 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788740",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "문지성 재정경제부 국제경제관리관은 11.10(화) 제3차「글로벌 핵심 투자자 협의체」를 개최(화상)하여, 11.3(화)에 발표된 '증권시장 결제주기 단축(T+1) 로드맵(초안)'을 글로벌 투자자들에게 설명하고 의견을 청취하였다. 아울러, 최근 외환·자본시장 제도개선 진행상황을 공유하고 투자자들로부터 건의사항과 실제 투자과정에서 겪는 애로사항을 청취하였다.문의. 재정경제부 국제금융국 국제금융과 홍석찬 (044-215-4714)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587739&tblKey=GMN",
+          "filename": "2. (보도자료) 글로벌 핵심 투자자 협의체 개최 보도자료_수정9.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587738&tblKey=GMN",
+          "filename": "2. (보도자료) 글로벌 핵심 투자자 협의체 개최 보도자료_수정9.pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788735",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587725&tblKey=GMN",
+          "filename": "[교육부 11-12(목) 조간보도자료] 미국 한국어반 고등학생들의 한글 그림 샌프란시스코 현대미술관에 걸린다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788734",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587724&tblKey=GMN",
+          "filename": "[교육부 11-12(목) 조간보도자료] 제3회 대학기초연구소 지원(G-LAMP) 사업 축제(페스티벌) 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "교육부, EBS·금융감독원 등과 함께 케이무크로 청년 경제·금융 이해력 높인다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788733",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "교육부, EBS·금융감독원 등과 함께 케이무크로 청년 경제·금융 이해력 높인다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587723&tblKey=GMN",
+          "filename": "[교육부 11-12(목) 조간보도자료] 교육부, EBS 금융감독원 등과 함께 케이무크로 청년 경제 금융 이해력 높인다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "행안부·질병청, 정부24서 잠복결핵·감염병 등 질병 민원 서류 한 번에 발급",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788739",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 11월 12일(목)부터 잠복결핵감염 검진 확인서·결과서, 감염병 신고확인서, 희귀질환자 의료비 지원 대상 증명서 등 4종 우선 제공- 보건소 방문 없이 온라인 발급 및 조회 가능… 연간 15만 건의 물리적 방문 부담 해소- 향후 '정부24 AI국민비서'를 활용해 국민의 연령·성별·위치에 맞는 서비스로 발전 행정안전부(장관 윤호중)와 질병관리청(청장 임승관)은 국민이 보건소나 개별 기관 누리집을 일일이 방문하지 않고도 잠복결핵감염·감염병 등 주요 질병 관련 서비스를 보다 쉽고 편리하게 이용할 수 있도록 11월 12일(목)부터 '정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587732&tblKey=GMN",
+          "filename": "261112 (조간) 행안부·질병청 정부24서 잠복결핵·감염병 등 질병 민원 서류 한 번에 발급(통합포털정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587733&tblKey=GMN",
+          "filename": "261112 (조간) 행안부·질병청 정부24서 잠복결핵·감염병 등 질병 민원 서류 한 번에 발급(통합포털정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "재난·사고조사 전문기관 한자리에 과학적 조사역량 및 협력체계 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788737",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "- 국립재난안전연구원·한국가스안전공사, 11월 12~13일 연합컨퍼런스 공동 개최- 11개 기관 약 200명 참여 예정, 명사 초청특강·유공자 포상 등 프로그램 다각화 행정안전부 국립재난안전연구원(원장 이철규)과 한국가스안전공사(사장 박경국)는 11월 12일부터 13일까지 충북 제천 청풍리조트에서 '2026년 재난·사고조사 유관기관 연합컨퍼런스'를 공동 개최한다. 이번 컨퍼런스는 양 기관이 2025년 체결한 업무협약의 후속조치로, 기관 간 협업과 정보 공유로 재난·사고조사의 전문성을 높이기 위해 마련됐다. 컨퍼런스에는 경찰청, 해양",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587728&tblKey=GMN",
+          "filename": "261112 (조간) 재난사고조사 전문기관 한자리에 과학적 조사역량 및 협력체계 강화(국립재난안전연구원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587729&tblKey=GMN",
+          "filename": "261112 (조간) 재난사고조사 전문기관 한자리에 과학적 조사역량 및 협력체계 강화(국립재난안전연구원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "제주에서 열대·아열대성 어류 연이어 발견… 기후변화와 남방계 어류 유입에 주목",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788732",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "▷ 국립호남권생물자원관, 제주 연안에서 국내 미기록 어류 5종 발견기후에너지환경부 산하 국립호남권생물자원관(관장 박진영)은 올해(2026년) 4월부터 최근까지 제주도 인근 바닷가에서 잠수 조사를 실시한 결과, 5종의 국내 미기록 어류를 연이어 발견했다고 밝혔다. 이들 국내 미기록 어류 5종은 열대·아열대성 어류이며, △동갈돔과 붉은망사거울돔(Cercamia eremia), △양태과 얼룩무늬양태(Thysanophrys celebica), △자리돔과 연두자리돔(Chromis yamakawai), △망둑어과 작은점세모망둑(Fusigobi",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587722&tblKey=GMN",
+          "filename": "제주에서 열대·아열대성 어류 연이어 발견… 기후변화와 남방계 어류 유입에 주목(보도자료)(호남권 11.11).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587721&tblKey=GMN",
+          "filename": "제주에서 열대·아열대성 어류 연이어 발견… 기후변화와 남방계 어류 유입에 주목(보도자료)(호남권 11.11).pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
+    },
+    {
+      "title": "[11.12.목.조간](관계부처합동) 질병 관련 서류, 보건소 찾아가지 말고 이제 「정부24」에서 찾으세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788731",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "질병 관련 서류, 보건소 찾아가지 말고 이제 「정부24」에서 찾으세요- 질병청·행안부 협업으로 주요 질병 관련 서비스 연계, 국민 이용 편의 개선 - 잠복결핵감염 검진 확인서 발급, 감염병 신고내역 조회 등 정부24에서 편리하게 - 향후 '정부24 AI국민비서'를 활용해 국민의 연령·성별·위치에 맞는 서비스로 발전질병관리청(청장 임승관)과 행정안전부(장관 윤호중)는 국민이 보건소나 개별 기관 누리집을 일일이 방문하지 않고도 잠복결핵감염·감염병 등 주요 질병 관련 서비스를 보다 쉽고 편리하게 이용할 수 있도록 11월 12일(목)부터 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587710&tblKey=GMN",
+          "filename": "[11.12.목.조간](관계부처합동) 질병 관련 서류, 보건소 찾아가지 말고 이제 「정부24」에서 찾으세요.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587709&tblKey=GMN",
+          "filename": "[11.12.목.조간](관계부처합동) 질병 관련 서류, 보건소 찾아가지 말고 이제 「정부24」에서 찾으세요.pdf"
+        }
+      ],
+      "_attAt": "2026-11-11T03:15:55.327201+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
@@ -3275,8 +3430,8 @@
           "filename": "261110 [국방부 보도자료] 국방부장관, 육·해·공군사관학교 생도 및 사관학교장 간담회 개최_게시.pdf"
         }
       ],
-      "_attAt": "2026-11-10T21:15:49.977607+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-11T03:15:55.327201+00:00",
+      "_attRev": 3
     },
     {
       "title": "국방부, 국군사관학교 민간자문특별위원회 회의 개최",
