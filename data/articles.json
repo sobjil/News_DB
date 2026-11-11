@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T01:46:11.235276+00:00",
-  "count": 2331,
+  "updated": "2026-11-11T02:00:59.272641+00:00",
+  "count": 2332,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -920,6 +920,32 @@
         }
       ],
       "_attAt": "2026-11-11T01:45:55.454298+00:00"
+    },
+    {
+      "title": "산림청, 소나무재선충병 확산 차단 위해 국비 추가 투입",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788710",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "산림청, 소나무재선충병 확산 차단 위해 국비 추가 투입- 피해 확산과 지방정부 방제 여건 악화에 대응해 추가 재원 마련 - 산림청(청장 박은식)은 소나무재선충병 피해가 전국적으로 빠르게 확산되고 지방정부의 재정 부담과 현장 대응 여건이 악화됨에 따라, 방제에 필요한 국비를 추가로 투입할 계획이라고 11일 밝혔다. 이번 국비 투입은 재선충병 피해가 심각해지고 있는 지역의 방제 수요에 적극 대응하고, 지방정부의 재정 여건 등으로 방제에 어려움을 겪는 현장을 지원하기 위한 것으로, 상반기 1,700억원 투입에 이어서 9월 115억원, 1",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587608&tblKey=GMN",
+          "filename": "(261111)보도자료-산림청，_소나무재선충병_확산_차단_위해_국비_추가_투입.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587609&tblKey=GMN",
+          "filename": "(261111)보도자료-산림청，_소나무재선충병_확산_차단_위해_국비_추가_투입.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198587607&tblKey=GMN",
+          "filename": "(261111)보도자료-산림청，_소나무재선충병_확산_차단_위해_국비_추가_투입.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T02:00:55.465910+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
