@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T08:31:16.743498+00:00",
-  "count": 2393,
+  "updated": "2026-11-11T08:46:15.712321+00:00",
+  "count": 2394,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2291,6 +2291,32 @@
         }
       ],
       "_attAt": "2026-11-11T08:31:06.557772+00:00"
+    },
+    {
+      "title": "한국산림재난안전기술공단, 공공기관 신규 지정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788792",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-11T00:00:00+09:00",
+      "description": "한국산림재난안전기술공단, 공공기관 신규 지정- 공공기관 효율화 정책의 산림 분야 첫 성과... 산림재난 전문성과 공공성 강화 - 산림청(청장 박은식)은 재정경제부 공공기관운영위원회 심의·의결을 거쳐 한국산림재난안전기술공단(이하 '산림안전공단')이 공공기관으로 신규 지정됐다고 11일 밝혔다. 산림안전공단은 '산림재난방지법' 시행에 맞춰 한국산불방지기술협회, 한국치산기술협회, 한국임업진흥원 산림병해충모니터링센터 등 3개 기관을 통합해 지난 4월 10일 출범한 산림재난 대응 전문기관이다. 산림안전공단은 산불·산사태·산림병해충 분야의 조사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588060&tblKey=GMN",
+          "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588061&tblKey=GMN",
+          "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588059&tblKey=GMN",
+          "filename": "(261111)보도자료-한국산림재난안전기술공단_공공기관_신규지정.hwp"
+        }
+      ],
+      "_attAt": "2026-11-11T08:46:07.900794+00:00"
     },
     {
       "title": "[11.10.화.석간] 만성콩팥병 환자, 단백질 무조건 줄이면 오히려 '독', 투석·사망 위험 급증",
