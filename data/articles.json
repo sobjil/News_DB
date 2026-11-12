@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T03:31:18.819614+00:00",
-  "count": 2396,
+  "updated": "2026-11-12T03:46:14.617453+00:00",
+  "count": 2397,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1358,6 +1358,32 @@
         }
       ],
       "_attAt": "2026-11-12T03:16:09.214237+00:00"
+    },
+    {
+      "title": "내년도 오피스텔 및 상업용 건물 기준시가 사전열람, 12월 2일까지 의견 제출하세요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788907",
+      "agency": "국세청",
+      "agencyCode": "nts",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "내년도 오피스텔 및 상업용 건물 기준시가 사전열람, 12월 2일까지 의견 제출하세요 관련 보도자료 내용입니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588557&tblKey=GMN",
+          "filename": "261112 내년도 오피스텔 및 상업용 건물 기준시가 사전열람, 12월 2일까지 의견 제출하세요.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588559&tblKey=GMN",
+          "filename": "261112 내년도 오피스텔 및 상업용 건물 기준시가 사전열람, 12월 2일까지 의견 제출하세요.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588558&tblKey=GMN",
+          "filename": "261112 내년도 오피스텔 및 상업용 건물 기준시가 사전열람, 12월 2일까지 의견 제출하세요.hwp"
+        }
+      ],
+      "_attAt": "2026-11-12T03:46:11.296730+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
