@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T05:16:28.209742+00:00",
-  "count": 2417,
+  "updated": "2026-11-12T05:31:24.308711+00:00",
+  "count": 2419,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -230,7 +230,8 @@
           "filename": "[1112]문체부보도자료-2026 대중문화예술 제작스태프 대상 시상식 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T23:31:06.572612+00:00"
+      "_attAt": "2026-11-12T05:31:12.367974+00:00",
+      "_attRev": 1
     },
     {
       "title": "문화진흥 4개 기관 통합 추진으로 국민 문화 향유 혁신 기반 마련한다",
@@ -242,16 +243,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588254&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588258&tblKey=GMN",
           "filename": "[1112]문체부보도자료-(가칭) 한국문화진흥원 설립 추진 특별전담팀 첫 회의 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588253&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588257&tblKey=GMN",
           "filename": "[1112]문체부보도자료-(가칭) 한국문화진흥원 설립 추진 특별전담팀 첫 회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T23:31:06.572612+00:00"
+      "_attAt": "2026-11-12T05:31:12.367974+00:00",
+      "_attRev": 1
     },
     {
       "title": "공개토론회로 「관광진흥법」 시행규칙 개정안 의견 수렴",
@@ -272,7 +274,8 @@
           "filename": "[1112]문체부보도자료-관광진흥법 시행규칙 개정 위한 공개토론회 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T23:31:06.572612+00:00"
+      "_attAt": "2026-11-12T05:31:12.367974+00:00",
+      "_attRev": 1
     },
     {
       "title": "'2026 오늘전통축제' 개막, 전통문화를 오늘의 즐거움으로",
@@ -293,7 +296,8 @@
           "filename": "[1112]문체부보도자료-2026 오늘전통축제 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T23:31:06.572612+00:00"
+      "_attAt": "2026-11-12T05:31:12.367974+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능과 저작권의 상생 모델 모색",
@@ -314,7 +318,8 @@
           "filename": "[1112]문체부보도자료-2026 서울 저작권 포럼 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-11T23:31:06.572612+00:00"
+      "_attAt": "2026-11-12T05:31:12.367974+00:00",
+      "_attRev": 1
     },
     {
       "title": "고용노동부, 금년 마지막 5회차외국인 노동자(E-9) 고용허가 접수 안내",
@@ -1781,6 +1786,48 @@
         }
       ],
       "_attAt": "2026-11-12T05:16:13.677851+00:00"
+    },
+    {
+      "title": "문체부, 미등록 대중문화예술기획업체 16개소 수사 의뢰",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788944",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "문체부, 미등록 대중문화예술기획업체 16개소 수사 의뢰 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1112]문체부보도자료-미등록 대중문화예술기획업체 수사 의뢰.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588692&tblKey=GMN",
+          "filename": "[1112]문체부보도자료-미등록 대중문화예술기획업체 수사 의뢰.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588691&tblKey=GMN",
+          "filename": "[1112]문체부보도자료-미등록 대중문화예술기획업체 수사 의뢰.pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T05:31:12.367974+00:00"
+    },
+    {
+      "title": "\"행동하는 인공지능 시대, 이용자 보호 방안은\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788942",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "\"행동하는 인공지능 시대, 이용자 보호 방안은\"- 인공지능서비스 이용자 보호 컨퍼런스 개최…\"정부·서비스 제공자 함께 나서야\" - 방송·미디어·통신 환경에 인공지능 영향이 커지면서 새로운 이용자 보호 이슈가 발생, 이에 대한 국내 제도 개선과 정책 대응 방안 등을 모색하는 자리가 마련됐다. 방송미디어통신위원회(위원장 김종철)는 12일 서울에서 인공지능서비스 생태계의 주축인 이용자와 서비스 제공자, 규제 당국이 각자 역할과 책임을 통해 건전한 인공지능 이용 환경을 조성에 기여하기 위한 방안을 논의하는 '2026 인공지능서비스 이용자 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588688&tblKey=GMN",
+          "filename": "261112 (보도자료) “행동하는 인공지능 시대, 이용자 보호 방안은”.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588687&tblKey=GMN",
+          "filename": "261112 (보도자료) “행동하는 인공지능 시대, 이용자 보호 방안은”.pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T05:31:12.367974+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
