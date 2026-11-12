@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T07:16:37.792380+00:00",
-  "count": 2437,
+  "updated": "2026-11-12T07:31:22.739515+00:00",
+  "count": 2438,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -989,26 +989,27 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588439&tblKey=GMN",
-          "filename": "(보도자료)양극화 대응 총괄반 1차 회의 개최.hwpx"
-        },
-        {
-          "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588441&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588866&tblKey=GMN",
           "filename": "(별첨) 양극화 대응 추진방향.hwpx"
         },
         {
-          "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588440&tblKey=GMN",
-          "filename": "(보도자료)양극화 대응 총괄반 1차 회의 개최.pdf"
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588868&tblKey=GMN",
+          "filename": "(보도자료)양극화 대응 TF 총괄반 1차 회의 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588442&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588867&tblKey=GMN",
           "filename": "(별첨) 양극화 대응 추진방향.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588869&tblKey=GMN",
+          "filename": "(보도자료)양극화 대응 TF 총괄반 1차 회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-12T01:31:10.776015+00:00"
+      "_attAt": "2026-11-12T07:31:18.116091+00:00",
+      "_attRev": 1
     },
     {
       "title": "영주국유림관리소, 산불무인감시카메라 확충으로 산불 감시기능 강화 - 첨단 산불 감시망 구축, 올해 조망형카메라 4대 추가 -",
@@ -2235,6 +2236,27 @@
         }
       ],
       "_attAt": "2026-11-12T07:16:18.681522+00:00"
+    },
+    {
+      "title": "의료 정보보호 강화 위한 민관 협력기반 마련, 의료기관 보안 현황 점검 및 개선방안 논의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788970",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "의료 정보보호 강화 위한 민관 협력기반 마련, 의료기관 보안 현황 점검 및 개선방안 논의- 복지부 장관 주재, 의료기관 정보보호 현안 간담회(11.12.) 개최 - - 의료기관 통합관제 운영 현황 및 사이버 위협 대응 체계 점검 - 보건복지부는 11월 12일(목) 정은경 장관 주재로 고도화되는 사이버 공격으로부터 국민의 소중한 의료정보를 보호하고 안전한 의료서비스 환경을 조성하기 위해 의료계 및 전문기관 등과 함께 현안 간담회를 개최하였다. 최근 사이버 공격이 고도화되면서 의료기관을 대상으로 한 침해 위협도 증가하고 있다. 이에 따",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588860&tblKey=GMN",
+          "filename": "[보도참고자료] 의료 정보보호 강화 위한 민관 협력기반 마련, 의료기관 보안 현황 점검 및 개선방안 논의.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588861&tblKey=GMN",
+          "filename": "[보도참고자료] 의료 정보보호 강화 위한 민관 협력기반 마련, 의료기관 보안 현황 점검 및 개선방안 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T07:31:18.116091+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
