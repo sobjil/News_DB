@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T05:31:24.308711+00:00",
-  "count": 2419,
+  "updated": "2026-11-12T05:46:24.976928+00:00",
+  "count": 2422,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1828,6 +1828,74 @@
         }
       ],
       "_attAt": "2026-11-12T05:31:12.367974+00:00"
+    },
+    {
+      "title": "근로복지공단, 제47회 노동자문화예술제 시상식 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788949",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "- 전국 노동자 5,532명, 문학·미술·가요·댄스 분야 참가 -- 대통령상에 이나래 씨의 서예 작품 「마음의 꽃」근로복지공단(이사장 박승흡)은 12일 서울 마포구 상암동 중소기업DMC타워에서 제47회 노동자문화예술제 시상식을 열었다. 올해 예술제에는 전국 노동자 5,532명이 문학·미술·가요와 시범 운영한 댄스 분야에 참가해 작품과 공연을 선보였다. 올해 처음 열린 댄스제에서는 직장 동료들이 함께 연습한 춤을 무대에 올렸다. 참가자들이 호흡을 맞추며 무대를 즐기는 모습이 좋은 평가를 받았고, 청년 노동자들의 관심도 높았다. 공단은",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588719&tblKey=GMN",
+          "filename": "261112_보도자료_&#039;26년도 제47회 노동자문화예술제 시상식 개최(근로복지공단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588718&tblKey=GMN",
+          "filename": "261112_보도자료_&#039;26년도 제47회 노동자문화예술제 시상식 개최(근로복지공단).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T05:46:16.561424+00:00"
+    },
+    {
+      "title": "통합위, 오는 15일 MBN 서울마라톤서 「대한민국 국민통합 런」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788948",
+      "agency": "국민통합위원회",
+      "agencyCode": "k_cohesion",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588709&tblKey=GMN",
+          "filename": "통합위, 오는 15일 MBN 서울마라톤서 「대한민국 국민통합 런」 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588708&tblKey=GMN",
+          "filename": "통합위, 오는 15일 MBN 서울마라톤서 「대한민국 국민통합 런」 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-11-12T05:46:16.561424+00:00"
+    },
+    {
+      "title": "원주시 정기감사(별도처리)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788947",
+      "agency": "감사원",
+      "agencyCode": "",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "원주시 정기감사(별도처리) 자세한 내용은 첨부파일 확인해주세요.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588706&tblKey=GMN",
+          "filename": "(20261112)보도자료(원주시 정기감사 별도처리).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588705&tblKey=GMN",
+          "filename": "공개문 전문.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588707&tblKey=GMN",
+          "filename": "(20261112)보도자료(원주시 정기감사 별도처리).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T05:46:16.561424+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
