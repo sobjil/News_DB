@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T08:46:30.212530+00:00",
-  "count": 2452,
+  "updated": "2026-11-12T09:01:35.024228+00:00",
+  "count": 2462,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1217,7 +1217,8 @@
           "filename": "261113 조간 (보도) IoT 제품, 제조사의 적극적 보안 강화와 소비자의 보안 수칙 실천이 필요.hwpx"
         }
       ],
-      "_attAt": "2026-11-12T03:01:10.862151+00:00"
+      "_attAt": "2026-11-12T09:01:18.795761+00:00",
+      "_attRev": 1
     },
     {
       "title": "4.16의 기록, 오늘의 교육이 되다",
@@ -2533,6 +2534,216 @@
         }
       ],
       "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "농촌진흥청, '토마토갈색주름과실바이러스' 공적 방제 결정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789014",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 토마토갈색주름과실바이러스(ToBRFV)' 발생 농가에 대한 공적 방제를 추진한다고 발표했다. 11월 9일 김상경 차장 주재로 열린 농작물 병해충 예찰 방제 심의회에는 농촌진흥청, 농림축산식품부, 농림축산검역본부 관계관 및 담당자와 대학 식물바이러스 전문가, 각 도 농업기술원 기술보급담당관 등이 참석했다. 이 자리에서 △발생 농가에 대한 공적 방제 추진 △확진 재배 시설(하우스 동 단위) 식물체·생산물·배지 등 전량 폐기(밀봉 후 소각) 및 시설 내외부 소독 △식물·작업 도구·유통 상자 등 반출 금지 및 작",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589012&tblKey=GMN",
+          "filename": "10-9_(즉시보도_전매체)농촌진흥청토마토갈색주름과실바이러스공적방제결정(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589013&tblKey=GMN",
+          "filename": "10-9_(즉시보도_전매체)농촌진흥청토마토갈색주름과실바이러스공적방제결정(지원국).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "농촌진흥청, 농식품부산물로 사료비 줄인 한우농가 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789012",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립축산과학원은 11월 10일 강원특별자치도 횡성군 우용농장을 방문해 농식품부산물을 활용한 사료비 절감 성과를 확인하고, 겨울철 한파에 대비한 사육 관리를 당부했다. 한우 416마리를 사육하는 이 농장은 2024년 '농식품부산물 활용 한우 경산우 비육품질 고급화 시범사업'에 참여했다. 이후 농식품부산물을 활용한 섬유질배합사료(TMR)를 먹이고 전문가의 맞춤형 기술 지도를 받으며 사육 관리를 개선해 왔다. 그 결과, 경산우(새끼를 낳은 암소) 평균 도체중은 30kg 늘고, 사료비는 30% 줄었다. 이러한 성과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589008&tblKey=GMN",
+          "filename": "10-8_(즉시보도_통전지)농촌진흥청__농식품부산물로_사료비_줄인_한우농가_방문(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589009&tblKey=GMN",
+          "filename": "10-8_(즉시보도_통전지)농촌진흥청__농식품부산물로_사료비_줄인_한우농가_방문(축산원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "비료는 한 번만, 밀 재배 더 간편하게!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789010",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립식량과학원은 11월 10일 충청남도 서천군에서 '완효성비료 활용 밀 파종 현장연시회'를 열었다. 이번 연시회는 기존 번거로운 시비 과정을 단순화하고 밀 재배 효율성을 높여 농가 부담을 줄이자는 취지에서 마련됐다. 또한, 중동 긴장 지속으로 비료 공급에 차질이 우려됨에 따라 동계 맥류 작물 파종 전 토양진단을 통해 적정 비료 사용 실천을 결의하는 홍보 활동(캠페인)도 벌였다. 지역 밀 재배 농가와 충남도농업기술원, 서천농업기술센터, 농촌진흥청 등 관계 기관 담당자 50여 명은 파종, 거름(시비), 북돋기(",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589004&tblKey=GMN",
+          "filename": "10-7_(즉시보도_통전지_현장방문)비료는_한_번만__밀_재배_더_간편하게!(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589005&tblKey=GMN",
+          "filename": "10-7_(즉시보도_통전지_현장방문)비료는_한_번만__밀_재배_더_간편하게!(식량원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "김용석 대광위원장,고양창릉 광역교통개선대책 추진상황 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788997",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "김용석 대광위원장,고양창릉 광역교통개선대책 추진상황 점검 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588978&tblKey=GMN",
+          "filename": "261112(동정) 김용석 대광위원장 “고양창릉 광역교통개선대책 추진상황 점검”(광역교통정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588979&tblKey=GMN",
+          "filename": "261112(동정) 김용석 대광위원장 “고양창릉 광역교통개선대책 추진상황 점검”(광역교통정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "국내외 전문가 모여 농약 안전성평가 미래 논한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789008",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 국가독성과학연구소와 함께 11월 10일 개막해 11일까지 '첨단독성시험법(NAMs, New Approach Methodologies)으로 여는 농약 안전성평가의 미래'를 주제로 국제 학술대회를 연다. 첨단독성시험법은 인공지능(AI) 기반 독성 예측, 인체·세포 조직이나 장기 유사체(오가노이드) 등을 활용해 농약 등 화학물질의 독성을 평가하는 새로운 접근법이다. 기존 동물실험을 보완하거나 대체하고, 독성 영향의 과학적 이해를 높일 기술로 주목받고 있다. 이번 학술대회는 국내외 첨단독성시험법의 최신 연구 성과",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589000&tblKey=GMN",
+          "filename": "10-6_(즉시보도_통전지)국내외전문가모여농약안전성평가의미래논한다(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589001&tblKey=GMN",
+          "filename": "10-6_(즉시보도_통전지)국내외전문가모여농약안전성평가의미래논한다(농과원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "농업·산림·해양·관광 분야 치유정책 공유…부처 간 협력 강화",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789006",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 11월 10일 충남 논산에서 농림축산식품부, 해양수산부, 문화체육관광부, 산림청이 참여하는 '치유정책 협의체' 제8차 회의를 주관했다. 치유정책 협의체는 각 부처가 추진하는 치유정책의 효율적 운영을 위해 지난 2022년 구성한 협력 기구이다. 올해 4월 '치유관광산업법' 시행령 시행을 계기로 이번 회의부터 문화체육관광부가 참여하면서 총 5개 부처로 확대됐다. 이날 회의에서는 기관별 관계관 및 실무자가 참석해 사회적농업(농림축산식품부), 해양치유(해양수산부), 치유관광(문화체육관광부), 치유농업(농촌진흥청)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588996&tblKey=GMN",
+          "filename": "10-5_(즉시보도_통전지)농업산림해양관광분야치유정책현황공유부처간협력강화(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588997&tblKey=GMN",
+          "filename": "10-5_(즉시보도_통전지)농업산림해양관광분야치유정책현황공유부처간협력강화(지원국).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "겨울철 한파·폭설 대비 사양관리 안내·기술 지원 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789004",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 본격적인 겨울철을 앞두고 가축 건강과 축사 관리 요령을 안내하고, 한파·폭설 피해 예방을 위한 현장 기술지원을 이어간다고 밝혔다. △한우와 젖소= 추위로 늘어나는 에너지 소모를 고려해 사료 급여량을 평소보다 10∼20% 정도 늘리고, 품질 좋은 풀사료를 공급한다. 20도(℃) 내외의 물을 공급하고, 급수시설이 얼지 않도록 점검한다 축사 바람막이로 찬 바람을 막고, 송아지는 방한복과 보온시설을 활용해 보온 관리한다. 돼지는 성장 단계에 맞춰 젖 먹는 어린 돼지는 30∼35도, 젖 뗀 어린 돼지는 22∼29도",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588992&tblKey=GMN",
+          "filename": "10-4_겨울철_한파·폭설_대비_사양관리_안내_및_기술지원_추진(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588993&tblKey=GMN",
+          "filename": "10-4_겨울철_한파·폭설_대비_사양관리_안내_및_기술지원_추진(축산원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "속까지 붉은 양조용 포도 '쇼콜라누아' 개발, 와인 차별화 기대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789002",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 국산 와인(포도주)의 품질 경쟁력을 높이기 위해 양조용 포도 '쇼콜라누아'를 개발했다. '쇼콜라누아(Chocolat Noir)'는 프랑스어로 '검은 초콜릿'을 뜻한다. 짙은 과육 색과 초콜릿 풍미를 지닌 와인 특성을 담아 이름 붙였다. 일반 적포도와 달리, 껍질뿐 아니라 과육까지 붉어 와인으로 가공했을 때 색이 매우 진하다. 시험 양조 결과, 와인 1리터당 폴리페놀 함량은 3,587㎎, 색소 성분인 안토시아닌 함량은 685㎎으로, 같은 조건에서 만든 '캠벨얼리' 와인(684㎎, 253㎎)보다 각각 약 5.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588988&tblKey=GMN",
+          "filename": "10-3_속까지붉은양조용포도쇼콜라누아개발와인차별화기대(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588989&tblKey=GMN",
+          "filename": "10-3_속까지붉은양조용포도쇼콜라누아개발와인차별화기대(원예원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "농촌진흥청, '농업 연구 협업용 인공지능' 첫발 뗐다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789000",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 과학기술정보통신부에서 지원받은 그래픽 처리 장치(GPU)*를 활용해 농생명 특화 거대언어모델(LLM) 개발에 성공하고, 이를 바탕으로 '연구 협업용 인공지능' 개발에 착수했다.* 그래픽 처리장치(GPU): 인공지능의 복잡한 연산을 초고속으로 처리하는 인공지능의 핵심 두뇌 농촌진흥청은 지난 4월 과학기술정보통신부가 추진한 '범국가 인공지능 혁신을 위한 국가 인공지능 프로젝트'에 28개 부처 121개 과제 중 최종 선정돼 최신형 엔비디아(NVIDIA) B200 서버 4대(그래픽 처리 장치 32장)를 지원받았다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588984&tblKey=GMN",
+          "filename": "10-2_농촌진흥청농업연구협업용인공지능첫발뗐다(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588985&tblKey=GMN",
+          "filename": "10-2_농촌진흥청농업연구협업용인공지능첫발뗐다(농과원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
+    },
+    {
+      "title": "\"현장 소통\"으로 활용도 높은 디지털육종 완성한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788998",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 디지털육종 전환에 속도를 내고 국내 종자산업 경쟁력을 높이기 위해 농업기술원, 종자기업, 대학, 연구소 등 육종 관계자를 초청해 11월 10일 본청에서 '디지털육종 성과공유회'를 연다. 디지털육종은 육종가 경험과 작물 특성 정보를 데이터로 분석해 품종 개발을 지원하는 기술이다. 기후변화에 대응해 필요한 형질을 더 효율적으로 선발하고, 품종 개발 시간과 노동력을 줄이는 데 활용할 수 있다. 이번 성과공유회는 콩·밀·벼·고추·딸기 등을 대상으로 빅데이터와 인공지능(AI)을 활용한 형질 예측 모형(모델)을 개발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588980&tblKey=GMN",
+          "filename": "10-1_현장소통으로활용도높은디지털육종을완성한다(농과원_식량원_원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588981&tblKey=GMN",
+          "filename": "10-1_현장소통으로활용도높은디지털육종을완성한다(농과원_식량원_원예원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T09:01:18.795761+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
