@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T22:11:47.212756+00:00",
-  "count": 2367,
+  "updated": "2026-11-12T22:26:44.101243+00:00",
+  "count": 2368,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -119,6 +119,27 @@
         }
       ],
       "_attAt": "2026-11-12T22:11:42.245792+00:00"
+    },
+    {
+      "title": "제27차 한·불 원자력공동조정위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789074",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "▷ 한·불 정상회담 후속조치로 원자력공동조정위원회 수석대표 격상▷ 원자력 연구개발, 안전, 산업 등 3개 분야 21개 의제 협의 【관련 국정과제】 26-4. 전략적 과학기술 국제협력으로 기술 주권 확보과학기술정보통신부(부총리 겸 장관 배경훈, 이하 '과기정통부')와 기후에너지환경부(장관 김성환, 이하 '기후부')는 프랑스 원자력·대체에너지청(CEA)과 공동으로 11월 12일(목)부터 11월 13일(금)까지 양일간 프랑스 사클레에서 제27차 한·불 원자력공동조정위원회(이하 '공동위')를 개최하였다고 밝혔다.'81년 「한·불 원자력 협",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589186&tblKey=GMN",
+          "filename": "제27차 한·불 원자력공동조정위원회 개최(보도자료)(부처합동 11.13).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589187&tblKey=GMN",
+          "filename": "제27차 한·불 원자력공동조정위원회 개최(보도자료)(부처합동 11.13).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T22:26:40.987489+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
