@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T21:12:10.873574+00:00",
-  "count": 2365,
+  "updated": "2026-11-12T21:26:45.417235+00:00",
+  "count": 2366,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -82,6 +82,27 @@
         }
       ],
       "_attAt": "2026-11-12T21:11:46.894114+00:00"
+    },
+    {
+      "title": "땅속 깊은 곳까지 더 안전하게… 지하수 조사 표준 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789072",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "▷ 시추공 기반 심부 지질환경의 수리지질특성화 절차 국가표준 2종 제정기후에너지환경부 소속 국립환경과학원(원장 김영우)은 시추공 기반으로 땅속 깊은 곳의 지하수 특성을 조사하는 수리지질특성화 절차에 관한 고유표준 2건*을 개발하여 11월 13일에 국가표준(KS)으로 제정·고시한다고 밝혔다.* KS I 0957-1 「시추공 기반 심부 지질환경의 수리지질특성화 제1부: 개요」, KS I 0957-2 「시추공 기반 심부 지질환경의 수리지질특성화 제2부: 시추공 설계」이번 국가표준 제정은 지하 연구시설, 방사성 폐기물 처분시설, 석유 비축",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589178&tblKey=GMN",
+          "filename": "땅속 깊은 곳까지 더 안전하게…지하수 조사 표준 마련(보도자료)(과학원 11.13.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589179&tblKey=GMN",
+          "filename": "땅속 깊은 곳까지 더 안전하게…지하수 조사 표준 마련(보도자료)(과학원 11.13.).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T21:26:41.418693+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
