@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T06:01:23.615696+00:00",
-  "count": 2425,
+  "updated": "2026-11-12T06:16:34.198234+00:00",
+  "count": 2430,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -331,16 +331,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588270&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588463&tblKey=GMN",
           "filename": "261112_보도자료_5회차 외국인노동자(E-9) 신규 고용허가 신청접수.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588269&tblKey=GMN",
-          "filename": "261111_보도자료_고용위기 선제대응지역 지정기간 연장 심의.pdf"
+          "url": "https://www.korea.kr/common/download.do?fileId=198588462&tblKey=GMN",
+          "filename": "261112_보도자료_5회차 외국인노동자(E-9) 신규 고용허가 신청접수.pdf"
         }
       ],
-      "_attAt": "2026-11-12T00:16:06.038034+00:00"
+      "_attAt": "2026-11-12T06:16:14.865756+00:00",
+      "_attRev": 1
     },
     {
       "title": "위기 앞에서도 빛난 노사 신뢰! 2026년 노사문화대상 10개 사 선정",
@@ -361,7 +362,8 @@
           "filename": "261112_보도자료_&#039;26년 노사문화대상 선정 결과 발표.pdf"
         }
       ],
-      "_attAt": "2026-11-12T00:16:06.038034+00:00"
+      "_attAt": "2026-11-12T06:16:14.865756+00:00",
+      "_attRev": 1
     },
     {
       "title": "생산적 금융 시대, 지식재산(IP) 금융으로 실현한다",
@@ -373,16 +375,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588265&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588398&tblKey=GMN",
           "filename": "364 [지식재산처] 생산적 금융 시대, 지식재산(IP) 금융으로 실현한다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588266&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588399&tblKey=GMN",
           "filename": "364 [지식재산처] 생산적 금융 시대, 지식재산(IP) 금융으로 실현한다.pdf"
         }
       ],
-      "_attAt": "2026-11-12T00:16:06.038034+00:00"
+      "_attAt": "2026-11-12T06:16:14.865756+00:00",
+      "_attRev": 1
     },
     {
       "title": "복잡한 외자구매…이젠 더 쉽고, 더 빠르게",
@@ -403,7 +406,8 @@
           "filename": "261112_(보도자료)_복잡한 외자구매 이젠 더 쉽고 더 빠르게.pdf"
         }
       ],
-      "_attAt": "2026-11-12T00:16:06.038034+00:00"
+      "_attAt": "2026-11-12T06:16:14.865756+00:00",
+      "_attRev": 1
     },
     {
       "title": "양극화 대응 TF 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집",
@@ -415,26 +419,27 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588259&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588299&tblKey=GMN",
           "filename": "[11.12.목 9시 이후] ？양극화 대응 TF？ 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집.hwpx"
         },
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588261&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588301&tblKey=GMN",
           "filename": "(별첨) 양극화 대응 추진방향.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588260&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588300&tblKey=GMN",
           "filename": "[11.12.목 9시 이후] ？양극화 대응 TF？ 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집.pdf"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588262&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588302&tblKey=GMN",
           "filename": "(별첨) 양극화 대응 추진방향.pdf"
         }
       ],
-      "_attAt": "2026-11-12T00:16:06.038034+00:00"
+      "_attAt": "2026-11-12T06:16:14.865756+00:00",
+      "_attRev": 1
     },
     {
       "title": "유럽연합 탄소국경조정제도(CBAM) 국내 첫 검증기관 인정",
@@ -1959,6 +1964,100 @@
         }
       ],
       "_attAt": "2026-11-12T06:01:16.135900+00:00"
+    },
+    {
+      "title": "[참고] 진에어-에어서울-에어부산 합병 인가, 27년 3월 17일부터 진에어로 통합 예정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788954",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "[참고] 진에어-에어서울-에어부산 합병 인가, 27년 3월 17일부터 진에어로 통합 예정 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588765&tblKey=GMN",
+          "filename": "261112(참고) 진에어-에어서울-에어부산 합병 인가(항공산업과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588766&tblKey=GMN",
+          "filename": "261112(참고) 진에어-에어서울-에어부산 합병 인가(항공산업과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T06:16:14.865756+00:00"
+    },
+    {
+      "title": "(참고) 「에너지 팀코리아」, 글로벌 에너지 전환과 우리 기업 해외 진출 함께 견인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788959",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "▷ 기후부, 「전기화 시대, 에너지 팀코리아 전략적 대응방안」 간담회 개최▷ K-GX 확산을 통한 국제사회 기여 및 에너지 산업 해외 경쟁력 강화 방안 모색기후에너지환경부(장관 김성환)는 11월 12일 15시, 한국무역보험공사 대회의실(서울시 종로구 소재)에서 「전기화 시대, 에너지 팀코리아 전략적 대응방안 간담회」를 개최한다고 밝혔다.이번 간담회는 기후위기 대응과 인공지능(AI) 확산 등으로 글로벌 전력수요가 빠르게 증가하면서 에너지 인프라 시장이 새로운 성장 기회로 부상하는 가운데, 우리 에너지 산업의 해외 진출 전략과 민·관 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588779&tblKey=GMN",
+          "filename": "에너지 팀코리아 글로벌 에너지 전환과 우리 기업 해외 진출 함께 견인(보도참고자료)(국제협력 11.12).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588780&tblKey=GMN",
+          "filename": "에너지 팀코리아 글로벌 에너지 전환과 우리 기업 해외 진출 함께 견인(보도참고자료)(국제협력 11.12).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T06:16:14.865756+00:00"
+    },
+    {
+      "title": "민간과 함께 풍동시험 기술과 경험 나눈다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788958",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 11월 12일(목) 한국항공우주학회 2026년도 추계학술대회가 개최되는 강원도 정선 하이원리조트에서 \"우주항공 풍동 산학연 협의체(이하 '협의체') 교류회\"를 개최하였다. 이번 행사는 국내 산업체·대학·연구기관이 우주항공 연구개발에 활용할 민간 개방형 풍동 시험시설을 구축하는 「우주항공 통합 풍동센터 구축」사업의 일환으로 마련됐다. 풍동은 비행체의 비행환경을 지상에서 모사하는 시험시설로, 연구개발 과정 중에 우주나 하늘에서 직접 시험할 수 없는 우주항공 분야 특성상 꼭 필요한 인프라다. 이 사업은 ▲아음속",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588778&tblKey=GMN",
+          "filename": "261113(조간) 민간과 함께 풍동시험 기술과 경험 나눈다.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588777&tblKey=GMN",
+          "filename": "261113(조간) 민간과 함께 풍동시험 기술과 경험 나눈다.hwp"
+        }
+      ],
+      "_attAt": "2026-11-12T06:16:14.865756+00:00"
+    },
+    {
+      "title": "인천 강화 산란계 농장에 대한 정기 예찰 검사에서 H5형 조류인플루엔자 항원 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788953",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "고병원성 조류인플루엔자 중앙사고수습본부(본부장 송미령 농림축산식품부장관, 이하 '중수본')는 11월 12일(목) 인천 강화 소재 산란계 농장(4만8천여 마리)에서 H5형 조류인플루엔자 항원이 확인*되었다고 밝혔다. * 고병원성 여부는 농림축산검역본부에서 정밀검사 중에 있음(약 1∼3일 소요 예상) ** 가금농장 고병원성 조류인플루엔자 발생 현황('26.11.3.~) : 3건(연천 1, 장흥 1, 여주1) 중수본은 H5형 항원 검출에 따라 조류인플루엔자 긴급행동지침(SOP) 등 관련 규정에 따라 선제적으로 해당 농장에 초동대응팀을 투",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588764&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 인천 강화 산란계 농장에 대한 정기 예찰 검사에서 H5형 조류인플루엔자 항원 확인(11. 12. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588763&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 인천 강화 산란계 농장에 대한 정기 예찰 검사에서 H5형 조류인플루엔자 항원 확인(11. 12. 배포 시).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T06:16:14.865756+00:00"
+    },
+    {
+      "title": "정읍국유림관리소, 영농부산물 파쇄지원으로 가을철 산불예방",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788956",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "정읍국유림관리소, 영농부산물 파쇄지원으로 가을철 산불예방 - 순창군 쌍치면 일대서 영농부산물 수거파쇄 지원 및 산불예방 홍보활동 전개 -서부지방산림청 정읍국유림관리소(소장 김정오)는 가을철 산불조심기간을 맞아 불법 소각으로 인한 산불 발생을 사전에 차단하기 위해 12일 순창군 쌍치면 일대에서 \"영농부산물 수거파쇄지원과 함께 산불예방 홍보활동\"을 실시했다고 밝혔다.영농부산물 파쇄지원은 농업기계 활용이 어려운 고령 농가농 또는 소규모 농가 등을 대상으로 가을철 수확 후 발생하는 고춧대, 깻대, 과수 가지 등을 안전하게 처리하도록 지원하",
+      "attachments": [],
+      "_attAt": "2026-11-12T06:16:14.865756+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
