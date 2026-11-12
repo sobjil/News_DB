@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T08:31:22.264880+00:00",
-  "count": 2446,
+  "updated": "2026-11-12T08:46:30.212530+00:00",
+  "count": 2452,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1169,16 +1169,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588517&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588573&tblKey=GMN",
           "filename": "(유통소비정책관-원예산업과) 송미령 장관 김장 한 포기 더 담고 이웃과 따뜻한 정 나누기 당부(11. 12. 11시 30분부터).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588516&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588572&tblKey=GMN",
           "filename": "(유통소비정책관-원예산업과) 송미령 장관 김장 한 포기 더 담고 이웃과 따뜻한 정 나누기 당부(11. 12. 11시 30분부터).pdf"
         }
       ],
-      "_attAt": "2026-11-12T02:46:12.939951+00:00"
+      "_attAt": "2026-11-12T08:46:18.163165+00:00",
+      "_attRev": 1
     },
     {
       "title": "K-온디바이스 AI반도체, '상생'으로 속도낸다",
@@ -1199,7 +1200,8 @@
           "filename": "1112(13조간)첨단반도체과, K-온디바이스 AI반도체 &#039;상생&#039;으로 속도 낸다.pdf"
         }
       ],
-      "_attAt": "2026-11-12T02:46:12.939951+00:00"
+      "_attAt": "2026-11-12T08:46:18.163165+00:00",
+      "_attRev": 1
     },
     {
       "title": "사물인터넷 제품, 제조사의 적극적 보안 강화와 소비자의 보안 수칙 실천이 필요",
@@ -2410,6 +2412,127 @@
         }
       ],
       "_attAt": "2026-11-12T08:31:18.811621+00:00"
+    },
+    {
+      "title": "해경청, 포스코이앤씨와 깨끗한 바다 위해 맞손",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788996",
+      "agency": "해양경찰청",
+      "agencyCode": "kcg",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "해경청, 포스코이앤씨와 깨끗한 바다 위해 맞손- 해양쓰레기·기후위기 대응 등 깨끗한 바다 환경 조성 협력 지속 - 해양경찰청(청장 하만식)은 해양환경보전과 사회공헌을 위해 환경·사회·투명 경영(ESG)을 실천하는 기업인 포스코이앤씨와 업무협약을 연장했다고 밝혔다. 이번 업무협약은 지난 2023년 11월 체결한 협약의 기간이 만료됨에 따라, 하만식 해양경찰청장, 송치영 포스코이앤씨 사장 등 양 기관의 주요 관계자가 참석하여 그간의 협력 성과를 바탕으로 앞으로도 깨끗한 해양환경 조성과 사회공헌 활동을 지속해 나가기로 뜻을 모았다. *(",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588970&tblKey=GMN",
+          "filename": "261112 (보도자료) 해경청, 포스코이앤씨와 깨끗한 바다 위해 맞손.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "농촌진흥청, 콩 전 과정 기계화·스마트 기술 성과공유회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788994",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 11월 9일 전북특별자치도 김제시에 있는 국립식량과학원 간척지농업연구센터에서 '콩 전 과정 기계화 및 스마트기술 성과공유회'를 개최했다. 이날 행사에는 농업인과 산업체 관계자 등 100여 명이 참석해 파종, 재배 관리, 방제, 수확 공정별 농업기계 시연을 참관했다. 또한, 자율주행, 무인기(드론) 방제 등 스마트 기술 연구 성과를 공유하고, 기술 활용과 확산 방안을 모색했다.이 자리에서 밭농업기계화 및 노지 스마트농업 추진 현황과 경운·정지에서 수확까지 콩 생산 전 과정 기계 및 무인 농작업 지능형 농업기",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588966&tblKey=GMN",
+          "filename": "9-6_(즉시보도_전매체)농촌진흥청콩_전과정기계화_스마트기술성과공유회_개최(연정국,농과원,식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588967&tblKey=GMN",
+          "filename": "9-6_(즉시보도_전매체)농촌진흥청콩_전과정기계화_스마트기술성과공유회_개최(연정국,농과원,식량원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "돼지 육질 예측해 우수 씨돼지 고른다…진단 기술 개발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788992",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 돼지 육질을 예측하는 데 필요한 유전자형을 3시간 이내에 확인할 수 있는 진단 기술을 개발했다고 밝혔다. 돼지고기 육질을 평가하는 주요 요소로는 근육 속 지방인 '근내지방(마블링)' 함량과 고기 색 등이 있다. 이러한 특성은 일반적으로 도축 후 도체 상태(부분육)에서 확인할 수 있기 때문에 살아있는 돼지에서 육질이 우수한 개체를 골라 번식에 활용하는 데 한계가 있다. 국립축산과학원이 개발한 기술은 돼지 혈액이나 털뿌리(모근)에서 유전정보를 추출해 육질과 관련된 유전자형을 확인하는 방식이다. 돼지마다 다른 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588962&tblKey=GMN",
+          "filename": "9-5_돼지_육질_예측해_우수_씨돼지_고른다(축산원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588963&tblKey=GMN",
+          "filename": "9-5_돼지_육질_예측해_우수_씨돼지_고른다(축산원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "인삼 수확·저장 관리 요령 제시, 상품성 저하 예방",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788990",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 본격적인 인삼 수확 철을 맞아, 수확 과정에서 발생하는 뿌리 손상과 수확 후 저장·유통 중 품질 저하를 막기 위한 관리 요령을 제시했다. 인삼은 보통은 9~11월 수확하는데, 수확한 수삼*은 수분 함량이 약 75%로 높아 저장과 유통 과정에서 부패하기 쉽다. 반대로 환경이 지나치게 건조하면 급격한 수분 손실로 품질이 떨어질 수 있다. 따라서 수확 직후부터 선별, 포장, 저장까지 단계별 꼼꼼한 관리가 필요하다.* 수삼(水蔘): 밭에서 수확한 인삼을 말리거나 찌는 등의 가공 과정을 거치지 않은 신선한 상태의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588958&tblKey=GMN",
+          "filename": "9-4_인삼수확저장관리요령제시상품성저하예방(원예원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588959&tblKey=GMN",
+          "filename": "9-4_인삼수확저장관리요령제시상품성저하예방(원예원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "전분 함량 높고 병에 강한 신품종 고구마 '다온미', 제주에서 선보인다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788988",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈) 국립식량과학원은 11월 10일 제주특별자치도 서귀포시 대정읍에서 경상남도농업기술원, 대정농협과 공동으로 전분용 고구마 신품종 '다온미'의 현장 평가회를 개최한다. 이번 행사에서는 제주 지역의 새로운 소득작물 발굴 요구에 부응해 추진한 '다온미'*의 지역 적응 시범 재배 결과를 공유하고, 제주 고구마 전분 산업의 재도약 가능성을 모색한다.* '다온미'는 고구마 전분 산업에 좋은 결실을 가져오기를 바라는 뜻을 담아 지은 이름또한, '다온미' 생육을 살펴보고 비닐덮기, 잎에 비료 주기(엽면시비) 등 재배 기술에 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588954&tblKey=GMN",
+          "filename": "9-3_전분_함량_높고_병에_강한_신품종_고구마_‘다온미’__제주에서_선보인다(식량원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588955&tblKey=GMN",
+          "filename": "9-3_전분_함량_높고_병에_강한_신품종_고구마_‘다온미’__제주에서_선보인다(식량원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
+    },
+    {
+      "title": "토양개량제 지원 받으려면 \"수확 끝난 지금 흙부터 검사\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788986",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 작물 수확이 마무리되는 11월을 맞아 농가에 '토양검정'을 미리 받으라고 당부했다. 토양검정은 농경지 산도(pH)와 전기전도도(EC), 양분 함량 등을 분석해 작물 재배에 알맞은 비료 사용량을 정하는 과정이다. 농가가 한 필지 안 여러 지점에서 0~15cm 깊이의 흙을 고루 채취해 섞은 뒤 가까운 시군 농업기술센터에 의뢰하면 된다. 이후 분석 결과와 함께 발급되는 비료사용처방서에는 적정 비료량뿐만 아니라 석회·규산 등 토양개량제의 권장 사용량도 담겨 있다. 토양개량제는 산성 토양을 중화하고 작물에 필요한 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588950&tblKey=GMN",
+          "filename": "9-2_토양개량제지원받으려면수확끝난지금흙부터검사(농과원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588951&tblKey=GMN",
+          "filename": "9-2_토양개량제지원받으려면수확끝난지금흙부터검사(농과원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:46:18.163165+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
