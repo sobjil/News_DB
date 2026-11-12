@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T04:01:16.417073+00:00",
-  "count": 2397,
+  "updated": "2026-11-12T04:16:16.279532+00:00",
+  "count": 2398,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -72,12 +72,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198588229&tblKey=GMN",
-          "filename": "261112 조간 (보도) 얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 AR 안경에 한 걸음.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198588522&tblKey=GMN",
+          "filename": "261112 조간 (보도) 얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 AR 안경에 한 걸음(수정).hwpx"
         }
       ],
-      "_attAt": "2026-11-11T22:16:06.458266+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-12T04:16:11.721392+00:00",
+      "_attRev": 2
     },
     {
       "title": "전세사기피해자등 480건 추가 결정",
@@ -1384,6 +1384,27 @@
         }
       ],
       "_attAt": "2026-11-12T03:46:11.296730+00:00"
+    },
+    {
+      "title": "방한 외국인 관광객 2,000만 명 돌파, 대한민국 관광의 새 역사",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788908",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "방한 외국인 관광객 2,000만 명 돌파, 대한민국 관광의 새 역사 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1112]문체부보도자료-방한 외국인 관광객 2천만 명 돌파.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588576&tblKey=GMN",
+          "filename": "[1112]문체부보도자료-방한 외국인 관광객 2천만 명 돌파.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588575&tblKey=GMN",
+          "filename": "[1112]문체부보도자료-방한 외국인 관광객 2천만 명 돌파.pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T04:16:11.721392+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
