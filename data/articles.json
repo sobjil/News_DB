@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T08:16:30.490972+00:00",
-  "count": 2445,
+  "updated": "2026-11-12T08:31:22.264880+00:00",
+  "count": 2446,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2389,6 +2389,27 @@
         }
       ],
       "_attAt": "2026-11-12T08:16:18.655994+00:00"
+    },
+    {
+      "title": "더 안전한 축산 환경, 관계 기관·단체 힘 모아 만든다!",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788983",
+      "agency": "농촌진흥청",
+      "agencyCode": "rda",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "농촌진흥청(청장 이승돈)은 지난 11월 6일 본청에서 '축산분야 안전관리 협의체' 제1차 회의를 개최했다. 축산분야 안전관리 협의체는 농림축산식품부, 축산환경관리원, 한국산업안전보건공단, 전국한우협회, 대한한돈협회, 한국낙농육우협회, 대한양계협회, 농협 등 9개 기관·단체로 조직돼 있다. 이들 관계 기관과 생산자단체는 축산농가에서 반복 발생하는 안전사고를 예방하고, 현장 밀착형 지원체계 마련을 위해 협력하고 있다. 제1차 회의에서는 각 기관·단체가 추진 중인 축산농가 대상 안전관리 사업과 지원 현황을 공유했다. 현재 운영 중인 교육",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588937&tblKey=GMN",
+          "filename": "9-1_더안전한축산환경관계기관단체힘모아만든다(지원국).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588938&tblKey=GMN",
+          "filename": "9-1_더안전한축산환경관계기관단체힘모아만든다(지원국).pdf"
+        }
+      ],
+      "_attAt": "2026-11-12T08:31:18.811621+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
