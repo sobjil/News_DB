@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T02:46:17.724203+00:00",
-  "count": 2386,
+  "updated": "2026-11-12T03:01:14.097678+00:00",
+  "count": 2387,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1151,6 +1151,22 @@
         }
       ],
       "_attAt": "2026-11-12T02:46:12.939951+00:00"
+    },
+    {
+      "title": "사물인터넷 제품, 제조사의 적극적 보안 강화와 소비자의 보안 수칙 실천이 필요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788896",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-12T00:00:00+09:00",
+      "description": "보안점검 결과와 유럽 냉장·냉동설비 제어시스템 해킹 사고를 계기로 사물인터넷 제품 보안관리 중요성 강조 - - 안전한 비밀번호 설정, 주기적 보안 최신화 등 안전한 디지털 생활을 위한 소비자와 제조사의 관심 또한 필수적 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198588526&tblKey=GMN",
+          "filename": "261113 조간 (보도) IoT 제품, 제조사의 적극적 보안 강화와 소비자의 보안 수칙 실천이 필요.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-12T03:01:10.862151+00:00"
     },
     {
       "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\"",
