@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T03:27:07.491972+00:00",
-  "count": 2433,
+  "updated": "2026-11-13T03:41:45.099039+00:00",
+  "count": 2434,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1482,6 +1482,27 @@
         }
       ],
       "_attAt": "2026-11-13T03:26:42.328730+00:00"
+    },
+    {
+      "title": "국민과 함께만든 특별성과! 탁월한 성과에는 파격적인 보상으로",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789171",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 11월 13일(금), 정부세종청사에서 국민이 체감하는 탁월한 성과를 이뤄낸 직원에게 특별 포상금과 장관 표창을 수여했다. 이번 포상은 지난 8월에 이어 세 번째 포상으로 '열심히 일하고 성과를 내면 반드시 그에 상응하는 보상을 받는다'는 확실한 메시지를 공직사회에 전파하고자 마련됐다. 동료와 본인 및 국민 추천을 받은 성과들 중에서 내·외부 전문가와 국민평가단의 엄정한 성과 검증 및 평가를 거치고, 정책 수요자인 일반 국민이 직접 자유롭게 참여하는 '온라인 체감도 평가' 결과를 반영",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589693&tblKey=GMN",
+          "filename": "(정책기획관-혁신행정담당관) 국민과 함께만든 특별성과! 탁월한 성과에는 파격적인 보상으로(11. 13. 12시 30분부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589692&tblKey=GMN",
+          "filename": "(정책기획관-혁신행정담당관) 국민과 함께만든 특별성과! 탁월한 성과에는 파격적인 보상으로(11. 13. 12시 30분부터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T03:41:41.379396+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
