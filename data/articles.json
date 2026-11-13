@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T09:41:46.128294+00:00",
-  "count": 2477,
+  "updated": "2026-11-13T09:56:46.190261+00:00",
+  "count": 2478,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2480,6 +2480,27 @@
         }
       ],
       "_attAt": "2026-11-13T09:41:41.597508+00:00"
+    },
+    {
+      "title": "김진아 외교부 2차관, 유엔 정무평화구축국 사무차장 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789231",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "김진아 외교부 제2차관은 방한 중인 로즈메리 디칼로(Rosemary DiCarlo) 유엔 정무평화구축국(DPPA) 사무차장을 11.13.(금) 외교부 청사에서 면담하고, 평화·안보 분야 한-유엔 협력 방안, 북한 문제, 글로벌 현안 등에 대해 의견을 교환했다.※ 디칼로 유엔 정무평화구축국 사무차장은 11.11.(수)-11.14.(토) 방한 중 - 유엔 정무평화구축국(DPPA, Department of Political and Peacebuilding Affairs)은 유엔 사무국 내에서 북한 문제를 포함하여 분쟁예방과 평화구축을 담",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590118&tblKey=GMN",
+          "filename": "[26-937](보도자료) 김진아 외교부 2차관, 유엔 정무평화구축국 사무차장 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590119&tblKey=GMN",
+          "filename": "[26-937](보도자료) 김진아 외교부 2차관, 유엔 정무평화구축국 사무차장 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T09:56:42.943616+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
