@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:41:55.877360+00:00",
+  "updated": "2026-11-13T10:56:47.473133+00:00",
   "count": 2479,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1622,11 +1622,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589720&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589741&tblKey=GMN",
           "filename": "(국립산림과학원 보도자료) 국내 자생 오동나무, 미래 산림자원으로 육성한다!.hwpx"
         }
       ],
-      "_attAt": "2026-11-13T04:56:42.081127+00:00"
+      "_attAt": "2026-11-13T10:56:42.269031+00:00",
+      "_attRev": 1
     },
     {
       "title": "관세청, 빈틈없는 마약밀수 저지선 구축을 위한단속 사각지대 집중 점검",
@@ -1638,16 +1639,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589706&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589927&tblKey=GMN",
           "filename": "261113 관세청, 빈틈없는 마약밀수 저지선 구축을 위한 단속 사각지대 집중 점검.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589707&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589928&tblKey=GMN",
           "filename": "261113 관세청, 빈틈없는 마약밀수 저지선 구축을 위한 단속 사각지대 집중 점검.pdf"
         }
       ],
-      "_attAt": "2026-11-13T04:56:42.081127+00:00"
+      "_attAt": "2026-11-13T10:56:42.269031+00:00",
+      "_attRev": 1
     },
     {
       "title": "올해 쌀 최종 생산량은 예상 대비 1만 톤 감소",
@@ -1668,7 +1670,8 @@
           "filename": "(식량정책관-식량정책과 식량산업과) 올해 쌀 최종 생산량은 예상 대비 1만 톤 감소(11. 13. 12시부터).pdf"
         }
       ],
-      "_attAt": "2026-11-13T04:56:42.081127+00:00"
+      "_attAt": "2026-11-13T10:56:42.269031+00:00",
+      "_attRev": 1
     },
     {
       "title": "AI 기반 의료데이터 표준화로 기관 간 정보 연계·활용 확대",
