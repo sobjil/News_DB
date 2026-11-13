@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T04:56:48.062636+00:00",
-  "count": 2439,
+  "updated": "2026-11-13T05:11:48.865831+00:00",
+  "count": 2443,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1293,7 +1293,7 @@
       "_attAt": "2026-11-13T03:11:40.888660+00:00"
     },
     {
-      "title": "조용범 차관, 제4차 기금자산운용정책위원회 개최",
+      "title": "제4차 기금자산운용정책위원회 개최",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789158",
       "agency": "기획예산처",
       "agencyCode": "mpb",
@@ -1601,6 +1601,90 @@
         }
       ],
       "_attAt": "2026-11-13T04:56:42.081127+00:00"
+    },
+    {
+      "title": "AI 기반 의료데이터 표준화로 기관 간 정보 연계·활용 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789187",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "AI 기반 의료데이터 표준화로 기관 간 정보 연계·활용 확대- 보건복지부, 보건의료데이터 상호운용성 R&D 2차년도 성과교류회 개최 -- 표준데이터모델·표준통합운영체계와 AI 소프트웨어 시제품 공개·시연 - 보건복지부(장관 정은경)는 11월 13일(금) 분당서울대학교병원(경기 성남시 분당구 소재)에서 한국보건의료정보원(원장 염민섭)과 함께 「2026 보건의료데이터 상호운용성 지원 기술개발(R&D) 성과교류회」를 개최했다. 이번 행사에서는 의료기관마다 서로 다른 데이터 구조로 인해 발생하는 표준 적용의 어려움을 해결하기 위해 개발된 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589750&tblKey=GMN",
+          "filename": "[보도참고자료] AI 기반 의료데이터 표준화로 기관 간 정보 연계 활용 확대.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589751&tblKey=GMN",
+          "filename": "[보도참고자료] AI 기반 의료데이터 표준화로 기관 간 정보 연계 활용 확대.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T05:11:40.965144+00:00"
+    },
+    {
+      "title": "법제처, 2026년 법무담당관 및 법령해석 담당자 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789186",
+      "agency": "법제처",
+      "agencyCode": "moleg",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "법제처, 2026년 법무담당관 및 법령해석 담당자 간담회 개최- 정부입법의 체계적 추진과 법령해석제도 발전을 위한 협력 방안 논의법제처(처장 조원철)는 11월 13일(금), 한국프레스센터(서울특별시 중구 소재)에서 '2026년 법무담당관 및 법령해석 담당자 간담회'를 개최했다. 이번 간담회는 주요 법제정책 추진 방향과 법령해석 사례를 공유하고, 중앙행정기관 및 지방정부의 법제업무 담당자 간의 협력과 소통을 강화하기 위하여 마련됐다. 이날 행사에는 26개 중앙행정기관과 13개 시·도의 법무담당관과 법제업무 담당자가 참석했다. 1부에서",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589744&tblKey=GMN",
+          "filename": "[11월 13일 배포] 2026년 법무담당관 및 법령해석 담당자 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589745&tblKey=GMN",
+          "filename": "[11월 13일 배포] 2026년 법무담당관 및 법령해석 담당자 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T05:11:40.965144+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, \"교통산업의 지속적 성장을 위해 지원 아끼지 않을 것\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789185",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, \"교통산업의 지속적 성장을 위해 지원 아끼지 않을 것\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589736&tblKey=GMN",
+          "filename": "261113(동정)_홍지선_장관_“교통산업의_지속적_성장을_위해_지원_아끼지_않을_것”(교통정책총괄과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589737&tblKey=GMN",
+          "filename": "261113(동정)_홍지선_장관_“교통산업의_지속적_성장을_위해_지원_아끼지_않을_것”(교통정책총괄과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T05:11:40.965144+00:00"
+    },
+    {
+      "title": "한국사회적기업진흥원, 「2026 제2회 SE 브릿지데이」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789184",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "- 사회적기업과 민간·공공기관의 협업을 통한 사회문제 해결 모색 -- 사회문제 해결 우수사례 공유 및 제2차 SE 브릿지 공모전 지원금 전달 -한국사회적기업진흥원(원장 정승국, 이하 '진흥원')은 11월 13일(금) 서울2센터(서울 중구 티타워)에서 사회적기업의 혁신적인 사회문제 해결 사례를 공유하고, 민간·공공기관과의 협업 확대를 위한 제2회 SE 브릿지데이를 개최했다. 이번 행사에는 민간·공공기관의 CSR·ESG 담당자와 사회연대경제 기업 관계자 등 약 100명이 참석하여 사회문제 해결을 위한 협업을 공유하고, 새로운 협력 방안",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589732&tblKey=GMN",
+          "filename": "261113_보도자료_「2026 제2회 SE 브릿지데이」 개최(한국사회적기업진흥원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589733&tblKey=GMN",
+          "filename": "261113_보도자료_「2026 제2회 SE 브릿지데이」 개최(한국사회적기업진흥원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T05:11:40.965144+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
