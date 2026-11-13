@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T10:11:43.860819+00:00",
-  "count": 2478,
+  "updated": "2026-11-13T10:26:49.314061+00:00",
+  "count": 2479,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -116,12 +116,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589184&tblKey=GMN",
-          "filename": "261113 석간 (보도) 제27차 한-불 원자력공동조정위원회 개최.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198590096&tblKey=GMN",
+          "filename": "261113 석간 (보도) 제27차 한-불 원자력공동조정위원회 개최.(수정).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590097&tblKey=GMN",
+          "filename": "261113 석간 (보도) 제27차 한-불 원자력공동조정위원회 개최.(수정).pdf"
         }
       ],
-      "_attAt": "2026-11-13T04:26:41.471844+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-13T10:26:43.565005+00:00",
+      "_attRev": 2
     },
     {
       "title": "제27차 한·불 원자력공동조정위원회 개최",
@@ -142,8 +147,8 @@
           "filename": "제27차 한·불 원자력공동조정위원회 개최(보도자료)(부처합동 11.13).pdf"
         }
       ],
-      "_attAt": "2026-11-13T04:26:41.471844+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-13T10:26:43.565005+00:00",
+      "_attRev": 2
     },
     {
       "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설",
@@ -2501,6 +2506,27 @@
         }
       ],
       "_attAt": "2026-11-13T09:56:42.943616+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, \"본격적인 추위 시작… 겨울철 제설대책 이행 철저\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789232",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, \"본격적인 추위 시작… 겨울철 제설대책 이행 철저\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590124&tblKey=GMN",
+          "filename": "261113(동정)_홍지선_장관__“본격적인_추위_시작…겨울철_제설대책_이행_철저(도로관리과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590125&tblKey=GMN",
+          "filename": "261113(동정)_홍지선_장관__“본격적인_추위_시작…겨울철_제설대책_이행_철저(도로관리과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T10:26:43.565005+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
