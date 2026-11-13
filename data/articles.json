@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T07:42:04.904527+00:00",
-  "count": 2467,
+  "updated": "2026-11-13T07:56:49.411611+00:00",
+  "count": 2468,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1075,7 +1075,8 @@
           "filename": "261113_보도자료_반도체 업체 간담회.pdf"
         }
       ],
-      "_attAt": "2026-11-13T01:56:40.688443+00:00"
+      "_attAt": "2026-11-13T07:56:43.530195+00:00",
+      "_attRev": 1
     },
     {
       "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
@@ -1087,16 +1088,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589467&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589504&tblKey=GMN",
           "filename": "261113 (10시30분) 행정안전부 2027학년도 수능 대비 지진 대응태세 철저히 점검한다(지진방재관리과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589468&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589505&tblKey=GMN",
           "filename": "261113 (10시30분) 행정안전부 2027학년도 수능 대비 지진 대응태세 철저히 점검한다(지진방재관리과).pdf"
         }
       ],
-      "_attAt": "2026-11-13T01:56:40.688443+00:00"
+      "_attAt": "2026-11-13T07:56:43.530195+00:00",
+      "_attRev": 1
     },
     {
       "title": "산림청, 국유품종 민간 보급으로 임업소득 기반 넓힌다",
@@ -2249,6 +2251,27 @@
         }
       ],
       "_attAt": "2026-11-13T07:41:42.796126+00:00"
+    },
+    {
+      "title": "[참고] 백령도 소형공항 건설사업, 타당성재조사 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789220",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "[참고] 백령도 소형공항 건설사업, 타당성재조사 통과 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590000&tblKey=GMN",
+          "filename": "261113(참고) 백령도 소형공항 건설사업 타당성재조사 통과(공항건설팀).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590001&tblKey=GMN",
+          "filename": "261113(참고) 백령도 소형공항 건설사업 타당성재조사 통과(공항건설팀).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T07:56:43.530195+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
