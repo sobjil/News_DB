@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T06:41:55.020202+00:00",
-  "count": 2457,
+  "updated": "2026-11-13T06:56:46.450219+00:00",
+  "count": 2459,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2013,6 +2013,48 @@
         }
       ],
       "_attAt": "2026-11-13T06:41:47.391284+00:00"
+    },
+    {
+      "title": "기획예산처-산업연구원 정책간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789210",
+      "agency": "기획예산처",
+      "agencyCode": "mpb",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "조용범 기획예산처 차관은 11월 13일(금) 산업연구원 권남훈 원장과 정책간담회를 개최하였습니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589939&tblKey=GMN",
+          "filename": "261113 (보도자료) 산업연 정책간담회.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589938&tblKey=GMN",
+          "filename": "261113 (보도자료) 산업연 정책간담회.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T06:56:41.750677+00:00"
+    },
+    {
+      "title": "행정안전부, 본격적인 겨울철 앞두고 대설·한파 대비 범정부 대응체계 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789209",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "- 적설 취약구조물 반복 점검, 제설 사각지대 해소 등 사전 준비 철저- 수험생 안전관리, 한파쉼터 운영, 한파 대비 행동요령 홍보 강화도 당부 행정안전부(장관 윤호중)는 겨울철 자연재난(대설·한파) 대책기간(2026.11.15.~2027.3.15.)을 앞두고, 11월 13일(금) 김광용 재난안전관리본부장 주재로 겨울철 자연재난 대책 점검회의를 개최했다. 이번 회의에는 24개 중앙행정기관*과 16개 지방정부, 주요 공공기관**이 참석하여 올겨울 기상 전망을 공유하고, 기관별 사전 준비 상황과 중점 추진 대책 등을 논의했다. * 중앙",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589936&tblKey=GMN",
+          "filename": "261114 (15시30분) 행정안전부 본격적인 겨울철 앞두고 대설‧한파 대비 범정부 대응체계 점검(자연재난대응과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589937&tblKey=GMN",
+          "filename": "261114 (15시30분) 행정안전부 본격적인 겨울철 앞두고 대설‧한파 대비 범정부 대응체계 점검(자연재난대응과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T06:56:41.750677+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
