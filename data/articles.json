@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T06:56:46.450219+00:00",
-  "count": 2459,
+  "updated": "2026-11-13T07:11:50.525351+00:00",
+  "count": 2462,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -498,7 +498,8 @@
           "filename": "261113_시설공사 주간 입찰동향_배포용.pdf"
         }
       ],
-      "_attAt": "2026-11-13T00:56:42.864480+00:00"
+      "_attAt": "2026-11-13T07:11:42.693505+00:00",
+      "_attRev": 1
     },
     {
       "title": "북부지방산림청, 지역 중심 산림정책 발전방안 모색",
@@ -510,16 +511,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589338&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589369&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 지역 중심 산림정책 발전방안 모색.hwpx"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198589337&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589368&tblKey=GMN",
           "filename": "(북부지방산림청) 북부지방산림청, 지역 중심 산림정책 발전방안 모색.hwp"
         }
       ],
-      "_attAt": "2026-11-13T00:56:42.864480+00:00"
+      "_attAt": "2026-11-13T07:11:42.693505+00:00",
+      "_attRev": 1
     },
     {
       "title": "농촌진흥청, 중동 사태 대응 '농자재 절감 기술' 자료집 발간",
@@ -2055,6 +2057,69 @@
         }
       ],
       "_attAt": "2026-11-13T06:56:41.750677+00:00"
+    },
+    {
+      "title": "경북 포항 호미반도 국가해양생태공원 조성 사업 예비타당성조사 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789211",
+      "agency": "해양수산부",
+      "agencyCode": "mof",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "경북 포항 호미반도 국가해양생태공원 조성 사업 예비타당성조사 통과 - 총사업비 1,007억 원 규모, 동해안 대표 해양 생태관광 거점 조성 기대 - 호미반도 보전센터·심해 체험 바다 학교·해안단구 생태원 등 6개 사업 추진【관련 국정과제】 71-4. 국민 해양관광 활성화로 연안경제 활력 제고 해양수산부(장관 황종우)는 11월 13일(금) 기획예산처 '제9차 재정투자평가위원회'에서 호미반도 국가해양생태공원 조성 사업이 예비타당성조사를 통과했다고 밝혔다. 이번 예비타당성조사 통과는 국가해양생태공원 중 최초이며, 해양생태계의 보전과 이용",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589954&tblKey=GMN",
+          "filename": "261113(즉시 보도 가능) 경북 포항 호미반도 국가해양생태공원 조성 사업 예비타당성조사 통과(해양생태과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589953&tblKey=GMN",
+          "filename": "261113(즉시 보도 가능) 경북 포항 호미반도 국가해양생태공원 조성 사업 예비타당성조사 통과(해양생태과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T07:11:42.693505+00:00"
+    },
+    {
+      "title": "정연두 외교전략정보본부장, 제25차 한-유엔 군축·비확산회의 참석 및 나카미츠 유엔 군축고위대표와 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789213",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "정연두 외교전략정보본부장은 외교부와 유엔군축실(UNODA: UN Office for Disarmament Affairs)이 공동으로 11.12.(목)-13.(금) 간 주최하는 ｢제25차 한-유엔 군축·비확산회의｣에 참석하여 개회사를 실시하고, 참석자들을 위한 공식 만찬 리셉션을 주최하였다. 정연두 외교전략정보본부장은 개회사에서 군축·비확산·군비통제 분야 전반으로 인공지능(AI)의 영향력이 확대되는 가운데, 군사 분야에서의 AI 활용으로 인한 기회 요소를 모색하는 동시에, 그에 수반되는 도전적 측면에 대해서도 효과적으로 대응해 나가는",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589959&tblKey=GMN",
+          "filename": "[26-934](보도자료) 정연두 외교전략정보본부장 제25차 한-유엔 군축·비확산회의 참석 및 나카미츠 유엔 군축고위대표와 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589960&tblKey=GMN",
+          "filename": "[26-934](보도자료) 정연두 외교전략정보본부장 제25차 한-유엔 군축·비확산회의 참석 및 나카미츠 유엔 군축고위대표와 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T07:11:42.693505+00:00"
+    },
+    {
+      "title": "[보도참고] 금속성 이물 혼입된 수입 코코아분말 회수 조치",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789212",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "[보도참고] 금속성 이물 혼입된 수입 코코아분말 회수 조치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589956&tblKey=GMN",
+          "filename": "[26.11.13.(금) 보도참고자료] 금속성 이물 혼입된 수입 코코아분말 회수 조치.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589955&tblKey=GMN",
+          "filename": "[26.11.13.(금) 보도참고자료] 금속성 이물 혼입된 수입 코코아분말 회수 조치.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T07:11:42.693505+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
