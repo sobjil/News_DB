@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T02:11:51.678897+00:00",
-  "count": 2419,
+  "updated": "2026-11-13T02:26:46.526400+00:00",
+  "count": 2421,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1146,6 +1146,58 @@
         }
       ],
       "_attAt": "2026-11-13T02:11:40.941943+00:00"
+    },
+    {
+      "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789153",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589544&tblKey=GMN",
+          "filename": "(보도자료)_제3차_주택공급_정례브리핑.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589545&tblKey=GMN",
+          "filename": "별첨1(브리핑문)_제3차_주택공급_정례브리핑.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589546&tblKey=GMN",
+          "filename": "주요내용 인포그래픽_보고.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589547&tblKey=GMN",
+          "filename": "(보도자료)_제3차_주택공급_정례브리핑.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T02:26:41.202971+00:00"
+    },
+    {
+      "title": "'위기가구 찾고, 희망 연결하는' 전국 통합사례관리 담당자 소통의 장 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789154",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-13T00:00:00+09:00",
+      "description": "'위기가구 찾고, 희망 연결하는' 전국 통합사례관리 담당자 소통의 장 마련 - 2026년 통합사례관리 전국대회 개최 -- 정년퇴직자 공로상 및 우수사례 시상 통한 복지 현장 헌신 감사 및 격려 - 보건복지부(장관 정은경)와 한국사회보장정보원(원장 김현준)은 11월 13일(금) 엘타워(서울 서초)에서 「2026년 통합사례관리 전국대회」를 개최하였다고 밝혔다. 올해로 여섯 번째를 맞는 이번 행사는 230개 지방정부에서 실시하는 통합사례관리 사업*의 성과를 공유하는 한편, 업무 담당자들의 소통과 화합의 장으로 마련되었으며, 전국의 통합사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589568&tblKey=GMN",
+          "filename": "[보도참고자료] ‘위기가구 찾고, 희망 연결하는’ 전국 통합사례관리 담당자 소통의 장 마련.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198589569&tblKey=GMN",
+          "filename": "[보도참고자료] ‘위기가구 찾고, 희망 연결하는’ 전국 통합사례관리 담당자 소통의 장 마련.pdf"
+        }
+      ],
+      "_attAt": "2026-11-13T02:26:41.202971+00:00"
     },
     {
       "title": "얇은 렌즈로 밝은 야외에서도 뚜렷하게, 일상 속 증강현실 안경에 한 걸음",
