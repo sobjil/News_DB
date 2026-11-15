@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T04:01:43.501750+00:00",
-  "count": 2309,
+  "updated": "2026-11-15T04:16:46.353233+00:00",
+  "count": 2310,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -350,6 +350,27 @@
         }
       ],
       "_attAt": "2026-11-15T03:16:49.414386+00:00"
+    },
+    {
+      "title": "옷 한 벌에 담은 따뜻한 마음, 이주노동자와 함께 나눕니다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789260",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "- 11월 15일 울산에서 '이주노동자 겨울옷·작업복 나눔 행사' 개최 고용노동부(장관 김영훈)는 11월 15일(일), 울산 북구 오토밸리복지센터에서 4개 노동권익재단*과 함께 '이주노동자 겨울옷·작업복 나눔 행사'를 개최했다. * (재)공공상생연대기금(이사장 노광표), 금융산업공익재단(이사장 주완), 사무금융우분투재단(이사장 이창곤), 전태일재단(이사장 송경용) 이번 행사는 고용노동부와 4개 노동권익재단이 지난 4월 체결한 이주노동자 노동권익 향상을 위한 업무협약에 따른 협력사업으로 마련됐다. 그간 울산, 광주, 경북 예천, 충남",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590354&tblKey=GMN",
+          "filename": "261115_보도자료_이주노동자 겨울옷 나눔행사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590353&tblKey=GMN",
+          "filename": "261115_보도자료_이주노동자 겨울옷 나눔행사.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T04:16:43.226347+00:00"
     },
     {
       "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다",
