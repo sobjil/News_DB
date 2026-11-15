@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T23:59:20.313294+00:00",
-  "count": 2295,
+  "updated": "2026-11-15T00:14:26.623776+00:00",
+  "count": 2298,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,64 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "데이터로 읽는 우리 교육 제18호 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789247",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "데이터로 읽는 우리 교육 제18호 발간",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590305&tblKey=GMN",
+          "filename": "[교육부 11-16(월) 조간 보도참고자료] 데이터로 읽는 우리 교육 제18호 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590306&tblKey=GMN",
+          "filename": "[별첨] 데이터로 읽는 우리 교육 2026년 제18호_대학생 주거 걱정 한 걸음 덜기 행복기숙사부터 긱사까지.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T00:14:19.832965+00:00"
+    },
+    {
+      "title": "의과대학 교육의 새로운 변화, 우수사례 8편 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789246",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "의과대학 교육의 새로운 변화, 우수사례 8편 선정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590304&tblKey=GMN",
+          "filename": "[교육부 11-16(월) 조간보도자료] 의과대학 교육의 새로운 변화 우수사례 8편 선정.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-15T00:14:19.832965+00:00"
+    },
+    {
+      "title": "한-투르크메니스탄 세관상호지원협정 발효",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789245",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "한-투르크메니스탄 정상회담(2026.9.15.) 계기에 서명된 ｢대한민국 정부와 투르크메니스탄 정부 간의 세관 분야에서의 협력 및 상호 지원에 관한 협정(한-투르크메니스탄 세관상호지원협정)｣이 2026.11.15.(일)자로 발효된다. ※ (세관상호지원협정) 양국간 세관 분야에서의 상호 행정지원 및 협력의 법적 기반을 규정한 조약 - 우리나라 세관상호지원협정 체결·발효 현황 : 2026.11월 기준 총 29개 체결, 27개 발효 한-투르크메니스탄 세관상호지원협정은 양국 관세당국 간 정보교환과 기술적 지원 등 세관 분야 협력의 제도적 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590302&tblKey=GMN",
+          "filename": "[26-940](보도자료) 한-투르크메니스탄 세관상호지원협정 발효.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590303&tblKey=GMN",
+          "filename": "[26-940](보도자료) 한-투르크메니스탄 세관상호지원협정 발효.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T00:14:19.832965+00:00"
+    },
     {
       "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789235",
