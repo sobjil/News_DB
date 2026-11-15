@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T05:16:44.506713+00:00",
-  "count": 2311,
+  "updated": "2026-11-15T05:31:52.528413+00:00",
+  "count": 2313,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -392,6 +392,37 @@
         }
       ],
       "_attAt": "2026-11-15T05:16:41.045293+00:00"
+    },
+    {
+      "title": "아시아태평양경제협력체(APEC) 최종고위관리회의(CSOM) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789264",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "2026년 아시아태평양경제협력체(APEC) 최종고위관리회의(CSOM: Concluding Senior Officials' Meeting)가 11.14.(토)~11.15.(일)간 중국 선전에서 개최되었다.※ APEC은 아시아태평양 최대 경제협력체로, 우리나라, 미국, 중국, 일본, 러시아 등 총 21개 회원이 참여 이번 회의는 금년도 의장국인 중국이 제시한 ｢함께 번영하는 아태 공동체 구축｣이라는 주제 아래 무역, 연계성, 혁신, 개발 등 4개 분야에서 지난 1년간 진행된 APEC 논의를 마무리하고, 연간 활동 성과를 종합적으로 점검",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590361&tblKey=GMN",
+          "filename": "[26-941](보도자료) 아시아태평양경제협력체(APEC) 최종고위관리회의(CSOM) 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590362&tblKey=GMN",
+          "filename": "[26-941](보도자료) 아시아태평양경제협력체(APEC) 최종고위관리회의(CSOM) 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T05:31:47.709769+00:00"
+    },
+    {
+      "title": "부여국유림관리소, \"하천·계곡 불법시설 정비 및 집중단속\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789263",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-15T00:00:00+09:00",
+      "description": "부여국유림관리소는 여름철 국유림 내 하천·계곡 및 주변 지역 불법시설 정비 및 집중단속을 지속적으로 추진한다고 밝혔다.주요 단속 대상은 하천·계곡 및 주변 지역 국유림에 설치된 평상, 가설건축물, 천막, 주차장 등 각종 불법시설 설치를 비롯한 불법 산지전용 및 임목 훼손 등이다.금번 단속에는 행정구역인 보령시 성주계곡, 서산시 용현계곡 등에서 인력 및 드론 등을 활용하여 집중적으로 단속할 방침이며, 불법시설을 설치하는 경우 관련법령에 따라 최대 5년 이하의 징역 또는 5,000만원 이하의 벌금, 행정대집행 실시 및 복구비용 청구 등",
+      "attachments": [],
+      "_attAt": "2026-11-15T05:31:47.709769+00:00"
     },
     {
       "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다",
