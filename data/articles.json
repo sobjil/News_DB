@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T22:59:42.720769+00:00",
-  "count": 2320,
+  "updated": "2026-11-15T23:14:49.173019+00:00",
+  "count": 2323,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -182,6 +182,69 @@
         }
       ],
       "_attAt": "2026-11-15T22:14:43.358898+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 혁신의료기기 정책 포럼 2026 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789282",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 혁신의료기기 정책 포럼 2026 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590437&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도참고자료] 식약처, 혁신의료기기 정책 포럼 2026 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590436&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도참고자료] 식약처, 혁신의료기기 정책 포럼 2026 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T23:14:42.204039+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789281",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590434&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도참고자료] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590435&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도참고자료] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T23:14:42.204039+00:00"
+    },
+    {
+      "title": "식약처, 수능 대비 마약류 등 의약품 온라인 불법 판매·알선 점검…571건 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789280",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "식약처, 수능 대비 마약류 등 의약품 온라인 불법 판매·알선 점검…571건 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590432&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도자료] 식약처, 수능 대비 마약류 등 의약품 온라인 불법 판매·알선 점검…571건 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590433&tblKey=GMN",
+          "filename": "[26.11.16.(월) 보도자료] 식약처, 수능 대비 마약류 등 의약품 온라인 불법 판매·알선 점검…571건 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-11-15T23:14:42.204039+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
@@ -615,8 +678,8 @@
           "filename": "261115_보도참고_세무사 시험 AI 활용 부정행위 관련 비상대책 회의 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-15T16:59:42.911360+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-15T23:14:42.204039+00:00",
+      "_attRev": 2
     },
     {
       "title": "경제현안간담회 개최",
