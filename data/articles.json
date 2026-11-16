@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T22:29:42.826073+00:00",
-  "count": 2426,
+  "updated": "2026-11-16T22:44:53.994149+00:00",
+  "count": 2428,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -135,6 +135,48 @@
         }
       ],
       "_attAt": "2026-11-16T22:14:42.068955+00:00"
+    },
+    {
+      "title": "[보도참고자료] 식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789510",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591311&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도참고자료] 식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591312&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도참고자료] 식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T22:44:44.012660+00:00"
+    },
+    {
+      "title": "[보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789509",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591309&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591310&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T22:44:44.012660+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
@@ -1591,8 +1633,8 @@
           "filename": "[261116 10시보도] 중남미로 개인정보 보호 협력 네트워크 확대(국제협력담당관).pdf"
         }
       ],
-      "_attAt": "2026-11-16T16:29:42.297454+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-16T22:44:44.012660+00:00",
+      "_attRev": 3
     },
     {
       "title": "원안위, 겨울철 원자력이용시설 특별점검",
@@ -1613,8 +1655,8 @@
           "filename": "261116_원안위, 겨울철 원자력이용시설 특별점검_보도자료.pdf"
         }
       ],
-      "_attAt": "2026-11-16T16:29:42.297454+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-16T22:44:44.012660+00:00",
+      "_attRev": 3
     },
     {
       "title": "행정기관 업무용 이메일 해킹사고 관련 정부합동점검 착수",
