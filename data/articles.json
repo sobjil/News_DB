@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T04:14:43.370538+00:00",
-  "count": 2385,
+  "updated": "2026-11-16T04:29:46.913813+00:00",
+  "count": 2387,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -186,7 +186,8 @@
           "filename": "[26-942](보도자료)강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 활동 성료.pdf"
         }
       ],
-      "_attAt": "2026-11-15T22:14:43.358898+00:00"
+      "_attAt": "2026-11-16T04:29:40.889309+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 혁신의료기기 정책 포럼 2026 개최",
@@ -1436,6 +1437,48 @@
         }
       ],
       "_attAt": "2026-11-16T03:14:42.366872+00:00"
+    },
+    {
+      "title": "개인정보위, 중남미로 개인정보 보호 협력 네트워크 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789398",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "개인정보위, 중남미로 개인정보 보호 협력 네트워크 확대- 브라질 국가데이터보호청(ANPD)과 개인정보 보호 협력 업무협약(MOU) 체결- 중남미 국가와 최초 협약 체결로 글로벌 협력 기반 확대 및 조사·집행 분야 공조 강화 기반 마련개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 11월 15일(일)(현지시간) 브라질 국가데이터보호청(ANPD*)과 개인정보 보호 분야 협력 강화를 위한 업무협약(MOU)을 체결했다. * ANPD : Agência Nacional de Proteção de Dados, 브라질 개인정보 보호 감독",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590841&tblKey=GMN",
+          "filename": "[261116 10시보도] 중남미로 개인정보 보호 협력 네트워크 확대(국제협력담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590842&tblKey=GMN",
+          "filename": "[261116 10시보도] 중남미로 개인정보 보호 협력 네트워크 확대(국제협력담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T04:29:40.889309+00:00"
+    },
+    {
+      "title": "원안위, 겨울철 원자력이용시설 특별점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789397",
+      "agency": "원자력안전위원회",
+      "agencyCode": "nssc",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "원안위, 겨울철 원자력이용시설 특별점검 폭설·동파 등 자연재해 및 화재 대비 선제 점검비상대응체계 유지 등 철저한 대비 당부 원자력안전위원회(위원장 최원호, 이하 원안위)는 폭설, 동파 등 겨울철 자연재해와 화재로 인한 원자력발전소 등 원자력이용시설의 사고·고장 예방을 위해 11월 16일부터 20일까지 특별점검을 실시한다. 이번 특별점검은 원안위와 한국원자력안전기술원(KINS), 한국원자력통제기술원(KINAC)이 참여하며, 원자력발전소와 중저준위 방사성폐기물 처분시설 등을 대상으로 이루어질 예정이다. 기상청에 따르면, 올해는 평년보",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590839&tblKey=GMN",
+          "filename": "261116_원안위, 겨울철 원자력이용시설 특별점검_보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590840&tblKey=GMN",
+          "filename": "261116_원안위, 겨울철 원자력이용시설 특별점검_보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T04:29:40.889309+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
