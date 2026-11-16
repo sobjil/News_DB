@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T09:29:59.912470+00:00",
-  "count": 2433,
+  "updated": "2026-11-16T09:44:45.478417+00:00",
+  "count": 2434,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2515,6 +2515,27 @@
         }
       ],
       "_attAt": "2026-11-16T09:14:42.342702+00:00"
+    },
+    {
+      "title": "2026년 제49차 위원회 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789466",
+      "agency": "방송미디어통신위원회",
+      "agencyCode": "kmcc",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "2026년 제49차 위원회 결과[의결 안건]가. 유진이엔티(주) 청문 관련 처리방안에 관한 건 o 우리 위원회는 유진이엔티의 취소절차 보류신청을 불수용하고, 실체적 하자 2개 항목은 필요한 조사사항임을 청문주재자, 청문당사자에게 명확하게 전달하고, 청문주재자들에게 조속히 청문을 실시하고 지체없이 청문조서 및 의견서를 제출하도록 강력하게 촉구하기로 하였습니다. (제1안 수정)나. 상품판매형 방송채널사용사업자 변경 승인에 관한 건 - ㈜현대홈쇼핑 - o 방미통위는 상품판매형 방송채널사용사업자 ㈜현대홈쇼핑의 유통사업부문(홈쇼핑)과 투자사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591144&tblKey=GMN",
+          "filename": "261116 제49차 위원회 결과 브리핑(261113)_게시용.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591143&tblKey=GMN",
+          "filename": "261116 제49차 위원회 결과 브리핑(261113)_게시용.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T09:44:41.586909+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
