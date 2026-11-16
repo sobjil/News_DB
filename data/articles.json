@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T22:59:44.387684+00:00",
-  "count": 2428,
+  "updated": "2026-11-16T23:14:45.031200+00:00",
+  "count": 2429,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -177,6 +177,27 @@
         }
       ],
       "_attAt": "2026-11-16T22:44:44.012660+00:00"
+    },
+    {
+      "title": "이천선수촌에서 장애인체육의 미래 키운다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789511",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "이천선수촌에서 장애인체육의 미래 키운다 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1117]문체부보도자료-2026 국제장애청소년스포츠캠프 운영.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591316&tblKey=GMN",
+          "filename": "[1117]문체부보도자료-2026 국제장애청소년스포츠캠프 운영.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591315&tblKey=GMN",
+          "filename": "[1117]문체부보도자료-2026 국제장애청소년스포츠캠프 운영.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T23:14:41.833093+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
