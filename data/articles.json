@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T04:44:44.483015+00:00",
-  "count": 2388,
+  "updated": "2026-11-16T04:59:46.386949+00:00",
+  "count": 2390,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1500,6 +1500,38 @@
         }
       ],
       "_attAt": "2026-11-16T04:44:41.154354+00:00"
+    },
+    {
+      "title": "2026 제3회 산업계 대학교육 혁신포럼 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789403",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "2026 제3회 산업계 대학교육 혁신포럼 개최",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590858&tblKey=GMN",
+          "filename": "[교육부 11-17(화) 조간보도자료] 2026 제3회 산업계 대학교육 혁신포럼 개최.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-16T04:59:41.351847+00:00"
+    },
+    {
+      "title": "건강 취약학생 지원 강화를 위한 「학교건강검사규칙」 입법예고",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789402",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "건강 취약학생 지원 강화를 위한 「학교건강검사규칙」 입법예고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590857&tblKey=GMN",
+          "filename": "[교육부 11-17(화) 조간보고자료] 건강 취약학생 지원 강화를 위한 학교건강검사규칙 개정입법예고.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-16T04:59:41.351847+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
