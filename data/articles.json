@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T00:45:05.571445+00:00",
-  "count": 2352,
+  "updated": "2026-11-16T00:59:50.329248+00:00",
+  "count": 2356,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -749,6 +749,90 @@
         }
       ],
       "_attAt": "2026-11-16T00:44:53.543914+00:00"
+    },
+    {
+      "title": "교통 과태료 고지서, 이제 카카오톡·PASS로 받고 위반 사진·영상도 바로 확인 가능",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789324",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "교통 과태료 고지서, 이제 카카오톡·PASS로 받고 위반 사진·영상도 바로 확인 가능 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590535&tblKey=GMN",
+          "filename": "261116(조간용) 모바일 전자고지 등 시범운영(교통안전).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590536&tblKey=GMN",
+          "filename": "261116(조간용) 모바일 전자고지 등 시범운영(교통안전).pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T00:59:41.034713+00:00"
+    },
+    {
+      "title": "퇴직연금 기능강화, 노사정 합의정신을 입법단계에서도 이어 나가겠습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789320",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "- 퇴직연금 노사정TF 간담회 개최, 퇴직연금 기능강화 방안 논의- '26.2.6. 노사정 공동선언의 뜻을 모아 퇴직급여법 개정까지 지속 협력고용노동부(장관 김영훈)는 11월 16일(월) 8시 퇴직연금 노사정TF 간담회를 개최했다. 이번 간담회는 지난 2월 6일 퇴직연금 노사정 공동선언을 이끈 주체들이 다시 모여 합의 정신을 구체화한 퇴직연금 기능강화 방안에 대한 의견을 나누고 향후 입법과정에서도 협력을 이어나가기 위해 마련됐다.*(노) 한국노총 본부장, 민주노총 국장 (사) 경총 본부장, 중기중 실장(정) 노동부 차관, 근로기준정",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590525&tblKey=GMN",
+          "filename": "261116_보도자료_노사정TF 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590524&tblKey=GMN",
+          "filename": "261116_보도자료_노사정TF 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T00:59:41.034713+00:00"
+    },
+    {
+      "title": "조달청-국방부, '군수품 무분별 공급입찰 근절 위해 맞손'",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789321",
+      "agency": "조달청",
+      "agencyCode": "pps",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "조달청-국방부, '군수품 무분별 공급입찰 근절 위해 맞손' - 조달청·국방부·방위사업청 등 관계기관 합동회의 개최 - 입찰보증금 부과 및 합동 현장점검 통해 계약이행 능력 검증 강화 조달청은 16일 국방부에서 무분별한 입찰 업체를 조사하고 실효성 있는 대응책을 마련하기 위해 국방부와 합동점검 방안을 논의하는 자리를 가졌다. 이번 합동회의에는 조달청 국방물자구매 담당자들을 비롯해 국방부 군수관리국장, 군 및 방위사업청의 주요 관계자들이 참석했다. 회의에서는 그동안 조달청이 무분별한 입찰을 근절하기 위해 추진해 온 주요 사항들을 공유하",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590530&tblKey=GMN",
+          "filename": "261116_(보도자료)_조달청-국방부 군수품 무분별 공급입찰 근절 위해 &amp;#039;맞손&amp;#039;_배포용.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590529&tblKey=GMN",
+          "filename": "261116_(보도자료)_조달청-국방부 군수품 무분별 공급입찰 근절 위해 &amp;#039;맞손&amp;#039;_배포용.pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T00:59:41.034713+00:00"
+    },
+    {
+      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789322",
+      "agency": "금융위원회",
+      "agencyCode": "fsc",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "'26.11.16.(월) 금융위원회 신진창 부위원장은 금융감독원 수석부원장과 함께 박상원 금융보안원장을 면담하는 자리를 가지고, 지난 11월 9일 금융보안원에서 발생한 침해사고 관련 사고경위·조사상황 등을 확인하고 면밀한 사고원인 조사와 철저한 재발방지 대책을 주문하였다. 이번에 금융보안원을 방문한 것은 최근 AI 기술의 급속한 발전으로 사이버위협이 심화되고, 금융권 침해사고가 잇따라 발생하는 등 全 금융권의 보안역량 강화가 그 어느 때보다 절실히 요구되는 상황에서, 금융권 사이버보안의 중추적인 역할을 수행하는 금융보안원에서 침해사",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590531&tblKey=GMN",
+          "filename": "261116(보도참고) 정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다..hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590532&tblKey=GMN",
+          "filename": "261116(보도참고) 정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다..pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T00:59:41.034713+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
