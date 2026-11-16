@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T04:29:46.913813+00:00",
-  "count": 2387,
+  "updated": "2026-11-16T04:44:44.483015+00:00",
+  "count": 2388,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1479,6 +1479,27 @@
         }
       ],
       "_attAt": "2026-11-16T04:29:40.889309+00:00"
+    },
+    {
+      "title": "행정기관 업무용 이메일 해킹사고 관련 정부합동점검 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789401",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "- 11월 9일(월), 업무용 이메일 해킹 사실 통보, 행정안전부와 관계기관은 정부 합동점검을 착수, 연말까지 원인 규명하고 보안대책 마련 예정 행정안전부는 지난 11월 9일 유관기관으로부터 행정기관의 업무용 이메일 등에 대한 외부 해킹 사실을 통보받고, 정확한 사고 원인과 피해 현황을 파악하기 위해 관계기관 합동점검에 착수하였습니다. 현재까지 확인된 바에 따르면, 공격자는 일부 지방정부의 취약한 네트워크를 통해 국가정보자원관리원이 운영하는 행정업무용 이메일시스템 등의 SSO(Single Sign-On) 취약점을 악용하여 접근한 것",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590849&tblKey=GMN",
+          "filename": "261116 (13시30분) 행정기관 업무용 이메일 해킹사고 관련 정부합동점검 착수(국가정보자원관리원 사이버장애지원단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198590850&tblKey=GMN",
+          "filename": "261116 (13시30분) 행정기관 업무용 이메일 해킹사고 관련 정부합동점검 착수(국가정보자원관리원 사이버장애지원단).pdf"
+        }
+      ],
+      "_attAt": "2026-11-16T04:44:41.154354+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
