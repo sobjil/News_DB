@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:29:59.402511+00:00",
+  "updated": "2026-11-16T15:44:45.622867+00:00",
   "count": 2422,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -2574,16 +2574,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198591144&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591154&tblKey=GMN",
           "filename": "261116 제49차 위원회 결과 브리핑(261113)_게시용.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198591143&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591153&tblKey=GMN",
           "filename": "261116 제49차 위원회 결과 브리핑(261113)_게시용.pdf"
         }
       ],
-      "_attAt": "2026-11-16T09:44:41.586909+00:00"
+      "_attAt": "2026-11-16T15:44:43.013641+00:00",
+      "_attRev": 1
     },
     {
       "title": "서부지방산림청, 벌목작업 중대재해 예방 특별 안전교육 실시",
