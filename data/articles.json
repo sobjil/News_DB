@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:32:36.441966+00:00",
-  "count": 2518,
+  "updated": "2026-11-17T08:47:38.749858+00:00",
+  "count": 2519,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -762,7 +762,8 @@
           "filename": "261117 [국유단 보도자료] 고 정춘이 일병 호국의 영웅 귀환 행사_게시.pdf"
         }
       ],
-      "_attAt": "2026-11-17T02:32:32.730968+00:00"
+      "_attAt": "2026-11-17T08:47:33.790719+00:00",
+      "_attRev": 1
     },
     {
       "title": "과기정통부, '팀 코리아'로 K-블록체인 아시아 시장 진출 지원",
@@ -2052,6 +2053,27 @@
         }
       ],
       "_attAt": "2026-11-17T08:32:32.583922+00:00"
+    },
+    {
+      "title": "폴리텍대학, 미국 WITCC와 손잡고 글로벌 인재 양성",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789637",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "- 17일 인천 인스파이어서 업무협약…해외 인턴십·어학·단기 교육 프로그램 교류 한국폴리텍대학(이사장 이철수)은 17일 오후 인천 영종도 인스파이어 비즈니스센터에서 미국 Western Iowa Tech Community College(이하, WITCC, 총장 Terry Lindsay)와 글로벌 기술인재 양성을 위한 업무협약을 체결했다고 밝혔다. WITCC는 1966년 설립된 미국 중서부 아이오와주 수시티에 위치한 2년제 공립 고등교육기관으로, 간호·보건을 비롯해 회계·자동차·항공·방송멀티미디어 등 다양한 전공을 운영하고 있다. 재학",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591924&tblKey=GMN",
+          "filename": "261117_보도자료_미국 WITCC와 손잡고 글로벌 인재 양성(폴리텍대학).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591923&tblKey=GMN",
+          "filename": "261117_보도자료_미국 WITCC와 손잡고 글로벌 인재 양성(폴리텍대학).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T08:47:33.790719+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
