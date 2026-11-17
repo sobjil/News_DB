@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:17:57.996385+00:00",
-  "count": 2517,
+  "updated": "2026-11-17T08:32:36.441966+00:00",
+  "count": 2518,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2031,6 +2031,27 @@
         }
       ],
       "_attAt": "2026-11-17T08:17:42.756722+00:00"
+    },
+    {
+      "title": "'축산의 미래를 만나다' 제4회 스마트축산 AI 경진대회",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789636",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 농식품부)는 11월 17일(화)「제4회 스마트축산 인공지능(AI) 경진대회(이하 경진대회)」를 개최하고 `26년 인공지능을 활용한 스마트축산 우수 솔루션 모델을 시상하였다. 2023년부터 시작한 경진대회는 가축 생육 정보와 축사 온·습도 등 환경 데이터를 연계 학습해 생산성 향상 등 현장 문제 해결에 기여한 스마트축산 AI 활용 우수사례를 발굴해 확산하기 위한 것이다. 오늘 행사에는 한우·오리 등 여러 축산생산자단체장, 학계, 청년 선도농, 대학생 등 신구 축산농가가 함께해 스마트축산이 축종과 세대",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591906&tblKey=GMN",
+          "filename": "(축산정책관-축산정책과) &#039;축산의 미래를 만나다&#039; 제4회 스마트축산 AI 경진대회(11. 17. 16시 30분부터).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591907&tblKey=GMN",
+          "filename": "(축산정책관-축산정책과) &#039;축산의 미래를 만나다&#039; 제4회 스마트축산 AI 경진대회(11. 17. 16시 30분부터).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T08:32:32.583922+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
