@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T03:17:53.535918+00:00",
-  "count": 2469,
+  "updated": "2026-11-17T03:32:38.432242+00:00",
+  "count": 2470,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1007,6 +1007,27 @@
         }
       ],
       "_attAt": "2026-11-17T03:17:32.174195+00:00"
+    },
+    {
+      "title": "「주택법 시행령」 개정안, 국무회의 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789559",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "「주택법 시행령」 개정안, 국무회의 의결 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591489&tblKey=GMN",
+          "filename": "261117(보도자료) 주택법 시행령 개정안, 국무회의 의결(주택정비정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591490&tblKey=GMN",
+          "filename": "261117(보도자료) 주택법 시행령 개정안, 국무회의 의결(주택정비정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T03:32:33.880176+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
@@ -3507,8 +3528,8 @@
           "filename": "(식품산업정책관-농식품수출진흥과) 결의 한 달 만에 해냈다 …“K-포도 신선농산물 단일 품목 최초 수출 1억 달러 달성”(11. 16. 18시부터).pdf"
         }
       ],
-      "_attAt": "2026-11-16T21:29:43.103123+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-17T03:32:33.880176+00:00",
+      "_attRev": 3
     },
     {
       "title": "2026년 제49차 위원회 결과",
