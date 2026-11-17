@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T23:48:08.237597+00:00",
-  "count": 2431,
+  "updated": "2026-11-17T00:02:46.646373+00:00",
+  "count": 2432,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2879,6 +2879,27 @@
       ],
       "_attAt": "2026-11-16T20:14:54.505477+00:00",
       "_attRev": 1
+    },
+    {
+      "title": "경기 김포 메추리 농장에서 H5형 조류인플루엔자 항원 확인",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789514",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-16T00:00:00+09:00",
+      "description": "고병원성 조류인플루엔자 중앙사고수습본부(본부장 송미령 농림축산식품부장관, 이하 '중수본')는 11월 16일(월) 경기 김포 소재 메추리 농장에서 H5형 조류인플루엔자 항원이 확인*되었다고 밝혔다. * 고병원성 여부는 농림축산검역본부에서 정밀검사 중에 있음(약 1∼3일 소요 예상) ** 가금농장 고병원성 조류인플루엔자 발생 현황('26.11.3.~) : 7건(연천 1, 장흥 1, 여주1, 강화 1, 진천 1, 파주 1, 경주 1) 중수본은 H5형 항원 검출에 따라 조류인플루엔자 긴급행동지침(SOP) 등 관련 규정에 따라 선제적으로 해",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591328&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 경기 김포 메추리 농장에서 H5형 조류인플루엔자 항원 확인(11. 16. 배포 시).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591327&tblKey=GMN",
+          "filename": "(방역정책국-조류인플루엔자방역과) 경기 김포 메추리 농장에서 H5형 조류인플루엔자 항원 확인(11. 16. 배포 시).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T00:02:42.570648+00:00"
     },
     {
       "title": "데이터로 읽는 우리 교육 제18호 발간",
