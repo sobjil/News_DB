@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T23:32:41.719144+00:00",
-  "count": 2449,
+  "updated": "2026-11-17T23:47:40.109853+00:00",
+  "count": 2450,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -271,6 +271,27 @@
         }
       ],
       "_attAt": "2026-11-17T23:32:32.999720+00:00"
+    },
+    {
+      "title": "「제10차 한미 민관합동 경제포럼」 개최(11.17)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789684",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "외교부는 11.17.(화) 워싱턴 D.C.에서 美 허드슨 연구소(Hudson Institue)와 공동으로 '한미 경제안보 및 산업 역량 강화(Advancing the U.S.-ROK Economic Security and Industrial Strength)'를 주제로 한미 양국의 정부인사 및 주요 기업, 싱크탱크 등 소속 전문가들이 참여한 가운데「제10차 한미 민관합동 경제포럼」을 개최하였다. ※ 한미 민관합동 경제포럼은 17.6월 한미 정상회담시 '경제적 기회 증진을 모색해 나가는데 함께 노력하기로 공약'함에 따라 양국 정부 및",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592078&tblKey=GMN",
+          "filename": "[26-951] (보도자료) 제10차 한미 민관합동 경제포럼 개최(11.17).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592079&tblKey=GMN",
+          "filename": "[26-951] (보도자료) 제10차 한미 민관합동 경제포럼 개최(11.17).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T23:47:32.177325+00:00"
     },
     {
       "title": "지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내",
@@ -1714,8 +1735,8 @@
           "filename": "261117 새만금청 코리아 마이스 엑스포 참가해 새만금 마이스 유치 홍보.hwp"
         }
       ],
-      "_attAt": "2026-11-17T17:32:34.309369+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-17T23:47:32.177325+00:00",
+      "_attRev": 3
     },
     {
       "title": "사상 첫 '방한 관광 2천만 명 시대' 개막… '대체불가 관광대국 대한민국' 향해 민·관·정 뜻 모아",
@@ -1736,8 +1757,8 @@
           "filename": "[1117]문체부보도자료-방한 관광 2천만 명 시대 기념행사 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-17T17:32:34.309369+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-17T23:47:32.177325+00:00",
+      "_attRev": 3
     },
     {
       "title": "아·태 및 아프리카 세관공무원, 한국 관세행정 배운다",
