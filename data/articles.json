@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:47:38.749858+00:00",
-  "count": 2519,
+  "updated": "2026-11-17T09:02:36.164744+00:00",
+  "count": 2520,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2074,6 +2074,27 @@
         }
       ],
       "_attAt": "2026-11-17T08:47:33.790719+00:00"
+    },
+    {
+      "title": "[동정] 이종욱 관세청장, 탄자니아 조세청장 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789638",
+      "agency": "관세청",
+      "agencyCode": "customs",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "□ 이종욱 관세청장은 11월 17일(화, 16:00~16:30) 서울세관에서 유수프 주마 므웬다(Yusuph Juma Mwenda) 조세청장을 만나 전자통관 분야 협력 성과를 점검하고 앞으로의 양 관세당국 간 협력 방안에 대해 논의했다. ㅇ 탄자니아는 2014년 한국의 전자통관시스템 유니패스(UNI-PASS)를 바탕으로 통합관세시스템 탄시스(TANCIS)를 개통했다. 이후 자체 예산으로 차세대 시스템 고도화(New TANCIS) 사업*을 추진했다. * TANCIS 고도화 (TANzania Customs Integrated Syste",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591927&tblKey=GMN",
+          "filename": "261117 [동정] 이종욱 관세청장, 탄자니아 조세청장 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591928&tblKey=GMN",
+          "filename": "261117 [동정] 이종욱 관세청장, 탄자니아 조세청장 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T09:02:32.761777+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
