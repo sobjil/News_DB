@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T04:02:34.957986+00:00",
-  "count": 2470,
+  "updated": "2026-11-17T04:17:47.059764+00:00",
+  "count": 2476,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -111,11 +111,12 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198591303&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591321&tblKey=GMN",
           "filename": "(11. 17.(화) 조간 보도자료) “갯벌 고립사고%2C 이제 인공지능(AI)이 위험 지역을 예측하고 수색구조까지 돕는다!”소방청%2C 「인공지능(AI) 기반 연안 고립사고 분석 및 수색구조 지원」 서비스 개발.h"
         }
       ],
-      "_attAt": "2026-11-16T22:14:42.068955+00:00"
+      "_attAt": "2026-11-17T04:17:33.109384+00:00",
+      "_attRev": 1
     },
     {
       "title": "김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석",
@@ -127,16 +128,22 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198591299&tblKey=GMN",
-          "filename": "[26_945](보도자료) 김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석.hwpx"
+          "url": "https://www.korea.kr/common/download.do?fileId=198591385&tblKey=GMN",
+          "filename": "[26-945](보도자료) 김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591386&tblKey=GMN",
+          "filename": "[26-945](보도자료) 김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석.pdf"
         },
         {
           "ext": "hwp",
-          "url": "https://www.korea.kr/common/download.do?fileId=198591302&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591389&tblKey=GMN",
           "filename": "(첨부3) 지속가능한 번영의 안전한 기반에 관한 샌프란시스코 선언(비공식 번역본).hwp"
         }
       ],
-      "_attAt": "2026-11-16T22:14:42.068955+00:00"
+      "_attAt": "2026-11-17T04:17:33.109384+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고자료] 식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최",
@@ -1029,6 +1036,132 @@
         }
       ],
       "_attAt": "2026-11-17T03:32:33.880176+00:00"
+    },
+    {
+      "title": "일터의 안전부터 관광레저와 자원의 가치까지, 공공의 책임을 위한 감사 협력",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789567",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "- 한국산업안전보건공단-강원랜드-한국광해광업공단, 자체감사 업무협약 체결- 산업안전·재난예방 및 인공지능(AI)·빅데이터 기반 감사기법 공유로 감사역량 강화한국산업안전보건공단(KOSHA, 상임감사 정혜선, 이하 \"공단\")은 17일 강원특별자치도 정선군 소재 강원랜드에서 강원랜드(상임감사위원 장경열), 한국광해광업공단(상임감사위원 김준섭)과 '공공기관 감사기구 간 안전관리 감사역량 강화 및 디지털 감사 혁신을 위한 자체감사 업무교류 협약'을 체결했다고 밝혔다. 『공공기관 감사기구 간 안전관리 감사역량 강화 및 디지털 감사 혁신을 위한",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591507&tblKey=GMN",
+          "filename": "261117_보도자료_안전보건공단-강원랜드-한국광해광업공단 자체감사 업무협약 체결.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591506&tblKey=GMN",
+          "filename": "261117_보도자료_안전보건공단-강원랜드-한국광해광업공단 자체감사 업무협약 체결.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
+    },
+    {
+      "title": "방문판매법 시행령 개정안 국무회의 통과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789566",
+      "agency": "공정거래위원회",
+      "agencyCode": "ftc",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "방문판매법 시행령 개정안 국무회의 통과- 신고포상금 지급 대상 확대 및 지급 한도 폐지 등 -공정거래위원회(위원장 주병기, 이하 '공정위')는 「방문판매 등에 관한 법률 시행령｣(이하 '시행령') 개정안이 오늘 국무회의에서 의결되었다고 밝혔다. 이번 개정 시행령은 공포되는 즉시 시행되며, 공포 전에 신고된 위반행위에 대해서는 종전의 규정에 따라 포상금을 지급한다. 이번 시행령 개정은 방문판매법 위반행위에 대한 적극적인 신고를 유도하여 위반행위의 적발과 시정의 효율성을 높이기 위해 추진되었으며 개정안의 주요 내용은 다음과 같다. 첫째",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591504&tblKey=GMN",
+          "filename": "261117(참고) 방문판매법 시행령 개정안 국무회의 통과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591505&tblKey=GMN",
+          "filename": "261117(참고) 방문판매법 시행령 개정안 국무회의 통과.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
+    },
+    {
+      "title": "'자활 30년, 희망을 잇고 미래를 열다' 「자활사업 30주년 박람회」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789562",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "'자활 30년, 희망을 잇고 미래를 열다' 「자활사업 30주년 박람회」 개최- 자활사업 30년 역사와 성과 공유하고 미래 비전과 발전방향 제시 -- 자활 생산품·서비스 전시 등 220개 부스 조성, 자활기업 생산품 전시·판매 및 미래 전략 콘퍼런스 진행 - 보건복지부(장관 정은경)는 11월 17일(화) 일산 킨텍스 제1전시장 5홀에서 「자활사업 30주년 박람회」를 개최한다고 밝혔다. 이번 박람회에서는 그간의 성과를 기념하는 전시와 함께 급변하는 환경에 맞춰 자활성공률을 높이기 위한 전략을 논의했다. 자활사업은 1996년 서울 관악구",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591496&tblKey=GMN",
+          "filename": "[11.17.화 행사 시작(13시) 이후] ‘자활 30년, 희망을 잇고 미래를 열다’ 자활사업 30주년 박람회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591497&tblKey=GMN",
+          "filename": "[11.17.화 행사 시작(13시) 이후] ‘자활 30년, 희망을 잇고 미래를 열다’ 자활사업 30주년 박람회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
+    },
+    {
+      "title": "기후위기 시대, 홍수와 가뭄에도 흔들림 없는 물관리 체계 만든다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789563",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "▷ 기후에너지환경부, '기후위기 시대, 물관리 체계 개선 방안' 국무회의 보고▷ 극한 호우·가뭄 대비 기반시설 확충 및 예측 강화▷ 홍수·가뭄 취약 지역 및 노후 시설 집중 관리기후에너지환경부(장관 김성환)는 11월 17일 열리는 국무회의에서 금한승 제1차관이 기후위기로 빈번해지는 홍수와 가뭄에 대응하기 위한 '기후위기 시대, 물관리 체계 개선 방안'을 보고한다고 밝혔다.최근 기후위기로 한쪽에서는 비가 부족하고 다른 쪽에서는 좁은 지역에 짧은 시간 동안 많은 비가 쏟아지는 현상이 함께 나타나고 있다. 올해 여름철 전국 강수량은 55",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591498&tblKey=GMN",
+          "filename": "기후위기 시대 홍수와 가뭄에도 흔들림 없는 물관리 체계 만든다(보도자료)(물재해대응 11.17).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591499&tblKey=GMN",
+          "filename": "기후위기 시대 홍수와 가뭄에도 흔들림 없는 물관리 체계 만든다(보도자료)(물재해대응 11.17).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
+    },
+    {
+      "title": "농식품부, '적극행정의 주인공' 12인 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789561",
+      "agency": "농림축산식품부",
+      "agencyCode": "mafra",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "농림축산식품부(장관 송미령, 이하 '농식품부')는 정책 고객과 동료 직원에게 감동을 안긴 '감동행정 미담네컷' 수상자 9명과 '미담·칭찬 대상' 수상자 3명에 대한 시상식을 11월 17일(화) 개최했다고 밝혔다. '감동행정 미담네컷'은 농식품부가 경직된 공공부문에 활력을 불어넣고 대국민 서비스의 질을 높이기 위해 운영 중인 미담 발굴 제도이다. 또한, '미담·칭찬 대상'은 미담네컷 수상자들을 포함하여 기존 부내 여러 포상 수상자들 가운데 최고의 미담·칭찬 사례를 선정하는 대회이다. 이번 시상식에서는 헌신과 열정이 두드러진 감동 사례",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591494&tblKey=GMN",
+          "filename": "(운영지원과) 농식품부 ‘적극행정의 주인공’ 12인 선정(11. 17. 13시부터) (1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591495&tblKey=GMN",
+          "filename": "(운영지원과) 농식품부 ‘적극행정의 주인공’ 12인 선정(11. 17. 13시부터) (1).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
+    },
+    {
+      "title": "항공안전 조직 개편안, 국무회의 의결",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789565",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "- 「국토교통부와 그 소속기관 직제 개정령안」 국무회의 의결(11.17)- 공항 안전을 책임지는 '공항안전관리단', '공항안전국·과' 신설- 이원화된 항공교통관제 기능은 항공교통본부로 일원화 등 반영 □행정안전부(장관 윤호중)와 국토교통부(장관 홍지선)는 ▴공항 안전성을 전담 관리감독하는 '공항안전관리단'과 '공항안전국' 등 신설, ▴이원화된 항공교통관제 기능을 항공교통본부로 일원화, ▴현업 항공교통관제사 확충 등을 주요 내용으로 하는 「국토교통부와 그 소속기관 직제 일부 개정령안」이 11.17일(화) 국무회의에서 의결되어, 11월",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591502&tblKey=GMN",
+          "filename": "261117 (국무회의 종료 시) 항공안전 조직 개편안 국무회의 의결(경제조직과)(관계부처합동).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591503&tblKey=GMN",
+          "filename": "261117 (국무회의 종료 시) 항공안전 조직 개편안 국무회의 의결(경제조직과)(관계부처합동).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T04:17:33.109384+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
