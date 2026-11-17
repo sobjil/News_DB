@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T01:17:43.568938+00:00",
-  "count": 2443,
+  "updated": "2026-11-17T01:32:40.393242+00:00",
+  "count": 2445,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -470,6 +470,48 @@
         }
       ],
       "_attAt": "2026-11-17T01:17:33.211726+00:00"
+    },
+    {
+      "title": "환자와 함께 만든 희귀질환 교육영상 10편… KTX·온라인으로 만난다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789532",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "환자와 함께 만든 희귀질환 교육영상 10편… KTX·온라인으로 만난다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591407&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도자료] 환자와 함께 만든 희귀질환 교육영상 10편… KTX·온라인으로 만난다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591408&tblKey=GMN",
+          "filename": "[26.11.17.(화) 보도자료] 환자와 함께 만든 희귀질환 교육영상 10편… KTX·온라인으로 만난다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T01:32:33.331798+00:00"
+    },
+    {
+      "title": "북부지방산림청, 선제적 산불 예방 계도·단속 및 화목보일러 안전 점검 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789531",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "북부지방산림청, 선제적 산불 예방 계도·단속 및 화목보일러 안전 점검 추진- 산불재난특수진화대(신속대응반) 산림 인접 지역 집중 투입…예방부터 초동 진화까지 동시 수행 - 북부지방산림청(청장 송준호)은 2026년 가을철 산불조심기간(11월 1일~12월 15일)을 맞아 관내 산림 인접 지역 일대에서 강력한 산불 예방 계도·단속과 화목보일러 사용 가구 안전 점검을 지속해서 추진한다고 밝혔다. 이번 점검은 가을철 단풍객 증가와 기온 하강에 따른 화목보일러 사용 급증으로 산불 발생 위험이 커짐에 따라 산불 원인을 사전에 차단하기 위해 계획",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591403&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 선제적 산불 예방 계도·단속 및 화목보일러 안전 점검 추진.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591402&tblKey=GMN",
+          "filename": "(북부지방산림청) 북부지방산림청, 선제적 산불 예방 계도·단속 및 화목보일러 안전 점검 추진.hwp"
+        }
+      ],
+      "_attAt": "2026-11-17T01:32:33.331798+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
@@ -2618,8 +2660,8 @@
           "filename": "261116 (보도자료) 1인당 월평균 스팸 수신량 17.7% 감소.pdf"
         }
       ],
-      "_attAt": "2026-11-16T19:29:41.388141+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-17T01:32:33.331798+00:00",
+      "_attRev": 3
     },
     {
       "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(337차)",
@@ -2640,8 +2682,8 @@
           "filename": "261116_337차 후쿠시마 오염수 방류 대응 브리핑 보도참고자료★.pdf"
         }
       ],
-      "_attAt": "2026-11-16T19:29:41.388141+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-17T01:32:33.331798+00:00",
+      "_attRev": 3
     },
     {
       "title": "정은경 장관, 발달장애인 의료현장 찾아 응급의료 연계 방안 논의",
