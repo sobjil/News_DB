@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T09:47:36.268843+00:00",
-  "count": 2520,
+  "updated": "2026-11-17T10:02:39.340469+00:00",
+  "count": 2522,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -98,8 +98,8 @@
           "filename": "[교육부 11-17(화) 석간보도자료] 이주배경학생 두 개의 언어로 꿈을 말하다.hwpx"
         }
       ],
-      "_attAt": "2026-11-17T03:47:41.173896+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-17T10:02:33.507973+00:00",
+      "_attRev": 2
     },
     {
       "title": "﻿﻿\"갯벌 고립사고, 이제 인공지능(AI)이 위험 지역을 예측하고 수색구조까지 돕는다!\" 소방청, 「인공지능(AI) 기반 연안 고립사고 분석 및 수색구조 지원」 서비스 개발",
@@ -2115,6 +2115,48 @@
         }
       ],
       "_attAt": "2026-11-17T09:02:32.761777+00:00"
+    },
+    {
+      "title": "외교부, 2026년 하반기 여행업계와의 안전간담회(11.17.) 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789642",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "외교부는 우리 국민의 안전한 해외여행을 위해 11.17.(화) 조주성 해외안전기획관 주재로 「2026년 하반기 여행업계 안전간담회」를 개최했다. 이번 간담회에는 주요 여행사 및 항공사, 한국여행업협회, 손해보험협회와 함께 문화체육관광부, 질병관리청, 테러정보통합센터, 인천국제공항공사 등 유관기관이 참석했다. 참석자들은 ▴주요 국가 정세 및 안전정보, ▴해외 주요 사건사고 현황 및 유의사항, ▴해외 감염병 동향 및 검역 관리 현황, ▴정부와 여행업계 간 협업 강화 방안 등을 주제로 정보를 공유하고 의견을 교환했다. 조 기획관은 해외 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591943&tblKey=GMN",
+          "filename": "[26-950] (보도자료) 외교부, 2026년 하반기 여행업계와의 안전간담회(11.17.) 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591944&tblKey=GMN",
+          "filename": "[26-950] (보도자료) 외교부, 2026년 하반기 여행업계와의 안전간담회(11.17.) 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T10:02:33.507973+00:00"
+    },
+    {
+      "title": "김용석 대광위원장, 타지키스탄 교통부 차관 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789641",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-17T00:00:00+09:00",
+      "description": "김용석 대광위원장, 타지키스탄 교통부 차관 면담 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591941&tblKey=GMN",
+          "filename": "261117(동정)_김용석_대광위원장__타지키스탄_교통부_차관_면담(해외건설지원과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198591942&tblKey=GMN",
+          "filename": "261117(동정)_김용석_대광위원장__타지키스탄_교통부_차관_면담(해외건설지원과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-17T10:02:33.507973+00:00"
     },
     {
       "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
