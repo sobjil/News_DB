@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T06:17:41.096347+00:00",
-  "count": 2515,
+  "updated": "2026-11-18T06:32:44.392943+00:00",
+  "count": 2517,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -345,7 +345,8 @@
           "filename": "261118_(보도자료)_물품입찰동향.pdf"
         }
       ],
-      "_attAt": "2026-11-18T00:17:32.603335+00:00"
+      "_attAt": "2026-11-18T06:32:33.352341+00:00",
+      "_attRev": 1
     },
     {
       "title": "해군 최신예 3,600톤급 호위함 「평택함(FFG-833)」 진수",
@@ -357,16 +358,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198592087&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592127&tblKey=GMN",
           "filename": "[해군-방사청 공동보도자료] 해군 최신예 3600톤급 호위함 평택함 진수.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198592088&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592128&tblKey=GMN",
           "filename": "[해군-방사청 공동보도자료] 해군 최신예 3600톤급 호위함 평택함 진수.pdf"
         }
       ],
-      "_attAt": "2026-11-18T00:17:32.603335+00:00"
+      "_attAt": "2026-11-18T06:32:33.352341+00:00",
+      "_attRev": 1
     },
     {
       "title": "2027년 전국의료관련감염감시체계(KONIS) 참여 의료기관 모집(11.18.수)",
@@ -387,7 +389,8 @@
           "filename": "[11.18.보도참고자료] 2027년 전국의료관련감염감시체계(KONIS) 참여 의료기관 모집.pdf"
         }
       ],
-      "_attAt": "2026-11-18T00:17:32.603335+00:00"
+      "_attAt": "2026-11-18T06:32:33.352341+00:00",
+      "_attRev": 1
     },
     {
       "title": "全금융권이 상시적으로 철저하게 보안 관리에 임하도록 IT자산 식별·관리를 의무화하고 취약점 점검·평가 제도를 내실화하겠습니다.",
@@ -408,7 +411,8 @@
           "filename": "261117(보도자료) 全금융권이 상시적으로 철저하게 보안 관리에 임하도록 IT자산 식별·관리를 의무화하고 취약점 점검·평가 제도를 내실화하겠습니다..pdf"
         }
       ],
-      "_attAt": "2026-11-18T00:32:32.636249+00:00"
+      "_attAt": "2026-11-18T06:32:33.352341+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"40년 신뢰의 K-의약품, 인류의 내일로\" 제40회 약의 날 기념식 개최",
@@ -1636,6 +1640,58 @@
         }
       ],
       "_attAt": "2026-11-18T06:17:32.496528+00:00"
+    },
+    {
+      "title": "새만금청, 새만금 크루즈 활성화 TF회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789774",
+      "agency": "새만금개발청",
+      "agencyCode": "sda",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "새만금청, 새만금 크루즈 활성화 TF회의 개최- 2027년 임시 터미널 설계 본격 착수에 대비한 협력방안 논의 - □ 새만금개발청(청장 문성요)은 11월 18일 전북특별자치도와 CIQ* (세관·출입국·검역) 관계기관 등 9개 기관이 참석하는「새만금 크루즈 활성화 TF회의」를 개최했다고 밝혔다. * Customs·Immigration·Quarantine ㅇ 이번 회의는 2027년 하반기 새만금항 신항 개항을 앞두고 임시 터미널의 원활한 조성과 향후 크루즈선 기항 활성화를 위해 관계기관별 구체적인 역할 분담과 협력 방안을 모색하고자 마",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592474&tblKey=GMN",
+          "filename": "261118 새만금청 새만금 크루즈 활성화 TF회의 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592475&tblKey=GMN",
+          "filename": "261118 새만금청 새만금 크루즈 활성화 TF회의 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592473&tblKey=GMN",
+          "filename": "261118 새만금청 새만금 크루즈 활성화 TF회의 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-11-18T06:32:33.352341+00:00"
+    },
+    {
+      "title": "새만금청, 트래블쇼 2026 관람객 참여 최우수상 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789772",
+      "agency": "새만금개발청",
+      "agencyCode": "sda",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "새만금청, 트래블쇼 2026 관람객 참여 최우수상 수상- 체험형 이벤트로 새만금 관광 매력 알려… 관람객 호응 이끌어 -□ 새만금개발청(청장 문성요)은 11월 12일부터 15일까지 일산 킨텍스에서 개최된 「트래블쇼 2026」에 참가해 '관람객 참여 최우수상'을 수상했다고 밝혔다. 지난해 서울국제관광전에서 수상한 최우수상(이벤트 부문)에 이어 2년 연속 수상이다. ㅇ 관람객 참여 최우수상은 행사에 참가한 131개 부스를 대상으로 주최 측 관계자 평가와 방문객 조사를 통해 관람객 호응도가 가장 높은 부스에 수여하는 상이다. ㅇ 새만금개",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592468&tblKey=GMN",
+          "filename": "261118 새만금청 트래블쇼 2026 관람객 참여 최우수상 수상.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592469&tblKey=GMN",
+          "filename": "261118 새만금청 트래블쇼 2026 관람객 참여 최우수상 수상.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592467&tblKey=GMN",
+          "filename": "261118 새만금청 트래블쇼 2026 관람객 참여 최우수상 수상.hwp"
+        }
+      ],
+      "_attAt": "2026-11-18T06:32:33.352341+00:00"
     },
     {
       "title": "지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내",
@@ -3870,8 +3926,8 @@
           "filename": "(국립산림과학원 보도자료)산림치유로 중장년 남성 ‘사회적 고립’ 해소 효과 확인 .hwpx"
         }
       ],
-      "_attAt": "2026-11-18T00:32:32.636249+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-18T06:32:33.352341+00:00",
+      "_attRev": 3
     },
     {
       "title": "김성환 장관, 유엔기후변화 총회에서 한국형 녹색대전환 기반 지구적 협력 확대 강조",
