@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T08:47:48.651555+00:00",
-  "count": 2528,
+  "updated": "2026-11-18T09:02:38.636155+00:00",
+  "count": 2531,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1495,12 +1495,12 @@
       "_attAt": "2026-11-18T05:02:32.566492+00:00"
     },
     {
-      "title": "제약산업 혁신 민？관협의체 열고 국내개발신약 개발 촉진 방안 논의",
+      "title": "제약산업 혁신 민·관협의체 열고 국내개발신약 개발 촉진 방안 논의",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789762",
       "agency": "보건복지부",
       "agencyCode": "mw",
       "pubDate": "2026-11-18T00:00:00+09:00",
-      "description": "제약산업 혁신 민관협의체 열고 국내개발신약 개발 촉진 방안 논의- 제4차 제약산업 혁신 민관협의체 개최 -- 국내 신약 개발 현황과 미래 전망 및 글로벌 진출 성공 사례 공유 - 보건복지부(장관 정은경)는 11월 18일(수) 오후 2시, 상연재 서울역점에서「제4차 제약산업 혁신 민·관협의체(이하 협의체)」를 개최하였다고 밝혔다. 이날 협의체에는 산업계, 전문가, 정부, 공공기관, 유관협회 등이 참석해 국내 바이오신약, 개량신약 및 천연물신약 개발 현황을 점검하고, 향후 신약 개발 촉진 방안에 대해 논의했다. 국내개발신약은 1999년",
+      "description": "제약산업 혁신 민·관협의체 열고 국내개발신약 개발 촉진 방안 논의- 제4차 제약산업 혁신 민·관협의체 개최 -- 국내 신약 개발 현황과 미래 전망 및 글로벌 진출 성공 사례 공유 - 보건복지부(장관 정은경)는 11월 18일(수) 오후 2시, 상연재 서울역점에서「제4차 제약산업 혁신 민·관협의체(이하 협의체)」를 개최하였다고 밝혔다. 이날 협의체에는 산업계, 전문가, 정부, 공공기관, 유관협회 등이 참석해 국내 바이오신약, 개량신약 및 천연물신약 개발 현황을 점검하고, 향후 신약 개발 촉진 방안에 대해 논의했다. 국내개발신약은 199",
       "attachments": [
         {
           "ext": "hwpx",
@@ -1959,6 +1959,69 @@
         }
       ],
       "_attAt": "2026-11-18T08:47:43.347781+00:00"
+    },
+    {
+      "title": "개인정보위, Java 보안 취약점 관련 개인정보 대량 유출 예방조치 당부",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789798",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "- Java 버전 확인 후 보안 취약점 긴급 조치 - 취약점 영향받는 시스템에 연계된 API, DB 등의 관리·통제 강화 안내 개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 최근 Java 실행환경에서의 보안 취약점이 공개됨에 따라, Java 기반 시스템을 운영하는 공공기관과 민간기업 등 개인정보처리자에게 개인정보 유출 예방을 위한 보호조치를 당부했다. 오늘 오전에 발표된 'Java4Shell'(CVE-2026-114938 등)은 공격자가 별도의 인증 없이도 대상 시스템에 원격으로 임의의 명령을 실행할 수 있는 취약점으로,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592593&tblKey=GMN",
+          "filename": "[261118 즉시보도] 개인정보위, Java 보안 취약점 관련 개인정보 유출 예방조치 당부(사전실태점검과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592592&tblKey=GMN",
+          "filename": "[261118 즉시보도] 개인정보위, Java 보안 취약점 관련 개인정보 유출 예방조치 당부(사전실태점검과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-18T09:02:32.795488+00:00"
+    },
+    {
+      "title": "'2026 대한민국 게임대상', 헌신과 열정으로 올 한 해 빛낸 '케이-게임' 주역들 격려",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789797",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "'2026 대한민국 게임대상', 헌신과 열정으로 올 한 해 빛낸 '케이-게임' 주역들 격려 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1118]문체부보도자료-2026 대한민국 게임대상 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592589&tblKey=GMN",
+          "filename": "[1118]문체부보도자료-2026 대한민국 게임대상 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592588&tblKey=GMN",
+          "filename": "[1118]문체부보도자료-2026 대한민국 게임대상 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-18T09:02:32.795488+00:00"
+    },
+    {
+      "title": "경찰청, '26년 불법사금융 특별단속 성과 및 분석",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789799",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-11-18T00:00:00+09:00",
+      "description": "경찰청, '26년 불법사금융 특별단속 성과 및 분석 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592595&tblKey=GMN",
+          "filename": "261118 (경제범죄수사과) 26년 불법사금융 특별단속 성과 및 분석(보도자료)-배포용.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592594&tblKey=GMN",
+          "filename": "261118 (경제범죄수사과) 26년 불법사금융 특별단속 성과 및 분석(보도자료)-배포용.pdf"
+        }
+      ],
+      "_attAt": "2026-11-18T09:02:32.795488+00:00"
     },
     {
       "title": "지방정부 온실가스 감축인지 예산제도 확산시킨다… 지침서 밀착 안내",
