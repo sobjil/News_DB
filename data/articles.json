@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T08:17:48.868263+00:00",
-  "count": 2543,
+  "updated": "2026-11-19T08:32:38.109111+00:00",
+  "count": 2545,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2332,6 +2332,48 @@
         }
       ],
       "_attAt": "2026-11-19T08:17:33.373860+00:00"
+    },
+    {
+      "title": "IAEA, 우리 핵추진잠수함에 대한 사무총장 최초 보고서 발간",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789964",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "국제원자력기구(IAEA)는 11월 정기이사회(11.18.(수)-20.(금), 비엔나) 계기 우리나라의 핵추진잠수함 관련 사무총장 명의 보고서*를 논의하고, 이를 11.19.(목) 대외 공개하였다.* 보고서 제목: 「Naval nuclear propulsion: Republic of Korea」 IAEA는 핵추진잠수함 관련 협의를 진행 중인 호주 및 브라질에 대해 연례 보고서를 발간해오고 있는데, 우리나라의 경우 금년 핵추진잠수함 관련 안전조치(Safeguards)* 방안 등에 대한 IAEA와의 협의가 개시됨에 따라, 사무총장 명의 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593214&tblKey=GMN",
+          "filename": "[26-957](보도자료) IAEA, 우리 핵추진잠수함에 대한 사무총장 최초 보고서 발간.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593215&tblKey=GMN",
+          "filename": "[26-957](보도자료) IAEA, 우리 핵추진잠수함에 대한 사무총장 최초 보고서 발간.pdf"
+        }
+      ],
+      "_attAt": "2026-11-19T08:32:33.290410+00:00"
+    },
+    {
+      "title": "문체부, 현장 목소리 담아 인디음악인 첫 무대인 라이브클럽 제도 개선 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789963",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "문체부, 현장 목소리 담아 인디음악인 첫 무대인 라이브클럽 제도 개선 추진 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1119]문체부 보도자료-인디음악 육성 관련 현장 간담회 개최.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593212&tblKey=GMN",
+          "filename": "[1119]문체부 보도자료-인디음악 육성 관련 현장 간담회 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593211&tblKey=GMN",
+          "filename": "[1119]문체부 보도자료-인디음악 육성 관련 현장 간담회 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-19T08:32:33.290410+00:00"
     },
     {
       "title": "소방청, 누구나 쉽게 이용하는 소방안전 자료(데이터) 조회 서비스 제공",
