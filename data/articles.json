@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T01:32:46.141488+00:00",
-  "count": 2471,
+  "updated": "2026-11-19T01:47:48.424289+00:00",
+  "count": 2472,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -770,6 +770,27 @@
         }
       ],
       "_attAt": "2026-11-19T01:32:33.172464+00:00"
+    },
+    {
+      "title": "노사발전재단, 한·일 실노동시간 단축 정책 심포지엄 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789868",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "- 양국 노동계·경영계·정부 관계자 도쿄서 한자리에- 실노동시간 단축 정책 및 기업의 우수사례 공유노사발전재단(사무총장 박종필)은 11월 19일(목) 오전 10시 일본 도쿄에서 「한·일 노동생산성 향상과 지속 가능한 일터 조성 – 실노동시간 단축을 중심으로」를 주제로 한·일 노사정 심포지엄을 개최했다. 이번 심포지엄은 한국과 일본의 노동계·경영계·정부 관계자들이 함께 참여해 양국의 고용노동 정책과 현장 사례를 공유하고, 공통의 노동 현안에 대한 이해를 넓히기 위해 마련됐다. 특히 양국이 공동으로 추진한 실노동시간 단축 관련 연구 결",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592778&tblKey=GMN",
+          "filename": "261119_보도자료_한-일 노사정 심포지엄 개최(노사발전재단).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592777&tblKey=GMN",
+          "filename": "261119_보도자료_한-일 노사정 심포지엄 개최(노사발전재단).pdf"
+        }
+      ],
+      "_attAt": "2026-11-19T01:47:45.362326+00:00"
     },
     {
       "title": "소방청, 누구나 쉽게 이용하는 소방안전 자료(데이터) 조회 서비스 제공",
