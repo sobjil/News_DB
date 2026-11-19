@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T04:47:36.387121+00:00",
-  "count": 2498,
+  "updated": "2026-11-19T05:02:37.712913+00:00",
+  "count": 2500,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1368,6 +1368,48 @@
         }
       ],
       "_attAt": "2026-11-19T03:17:32.088452+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리, 작년 대학수학능력시험 (26학년도 수능) 시험지 보관 긴급지시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789905",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "한 총리, 작년 대학수학능력시험 (26학년도 수능) 시험지 보관 긴급지시□ 한성숙 국무총리는 대학수학능력시험에 대한 부정행위 의혹 등을 철저하게 규명하기 위해 다음과 같이 긴급 지시하였다.ㅇ 교육부는 별도 지시 전까지 작년도 수능시험지 보관상태를 유지할 것※ 통상 수능시험지는 시험일로부터 1년 보관(차년도 시험 후 폐기)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592948&tblKey=GMN",
+          "filename": "261119 한성숙 국무총리 수능 시험지 관련 긴급지시(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592949&tblKey=GMN",
+          "filename": "261119 한성숙 국무총리 수능 시험지 관련 긴급지시(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-11-19T05:02:32.564275+00:00"
+    },
+    {
+      "title": "[참고] 국토부는 재건축부담금 부과 제척기간 만료일에 대한 지자체 안내를 진행하였습니다.",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789904",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "[참고] 국토부는 재건축부담금 부과 제척기간 만료일에 대한 지자체 안내를 진행하였습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592946&tblKey=GMN",
+          "filename": "261119(참고) 국토부는 재건축부담금 부과 제척기간 만료일에 대한 지자체 안내를 진행하였습니다(주택정비정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198592947&tblKey=GMN",
+          "filename": "261119(참고) 국토부는 재건축부담금 부과 제척기간 만료일에 대한 지자체 안내를 진행하였습니다(주택정비정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-19T05:02:32.564275+00:00"
     },
     {
       "title": "소방청, 누구나 쉽게 이용하는 소방안전 자료(데이터) 조회 서비스 제공",
