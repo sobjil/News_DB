@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T05:32:47.722687+00:00",
-  "count": 2512,
+  "updated": "2026-11-19T05:47:40.032964+00:00",
+  "count": 2513,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -428,7 +428,8 @@
           "filename": "261118_(보도자료)_AI+대전환_상생협약식.pdf"
         }
       ],
-      "_attAt": "2026-11-18T23:47:32.313154+00:00"
+      "_attAt": "2026-11-19T05:47:33.476240+00:00",
+      "_attRev": 1
     },
     {
       "title": "중소기업의 혁신성과와 미래비전을 한자리에, '중소기업 혁신대전' 처음으로 충청권에서 개최",
@@ -449,7 +450,8 @@
           "filename": "261118_(보도자료)_2026_중소기업_혁신대전_개막.pdf"
         }
       ],
-      "_attAt": "2026-11-18T23:47:32.313154+00:00"
+      "_attAt": "2026-11-19T05:47:33.476240+00:00",
+      "_attRev": 1
     },
     {
       "title": "화생방 분야 기업과의 상생 간담회 개최",
@@ -1672,6 +1674,32 @@
         }
       ],
       "_attAt": "2026-11-19T05:32:35.644863+00:00"
+    },
+    {
+      "title": "산림청, 생명의숲과 손잡고 산림생물다양성 보전 확대",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789922",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-19T00:00:00+09:00",
+      "description": "산림청, 생명의숲과 손잡고 산림생물다양성 보전 확대- 산림OECM 확대를 위한 민관협력 업무협약 체결 - 산림청(청장 박은식)은 정부대전청사에서 (사)생명의숲과 산림OECM(Other Effective area-based Conservation Measures, 이하 OECM) 확대 및 지속적인 산림생물다양성 보전을 위한 업무협약을 체결했다고 19일 밝혔다. 이번 협약은 생물다양성 보전가치가 높은 산림을 발굴하고, 정부와 시민사회가 협력해 산림OECM의 등록부터 보전·관리, 모니터링까지 이어지는 민관협력체계를 구축하기 위해 마련됐다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593003&tblKey=GMN",
+          "filename": "(261119)보도자료-산림청，_생명의숲과_손잡고_산림생물다양성_보전_확대.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593005&tblKey=GMN",
+          "filename": "(261119)보도자료-산림청，_생명의숲과_손잡고_산림생물다양성_보전_확대.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593004&tblKey=GMN",
+          "filename": "(261119)보도자료-산림청，_생명의숲과_손잡고_산림생물다양성_보전_확대.hwp"
+        }
+      ],
+      "_attAt": "2026-11-19T05:47:33.476240+00:00"
     },
     {
       "title": "소방청, 누구나 쉽게 이용하는 소방안전 자료(데이터) 조회 서비스 제공",
