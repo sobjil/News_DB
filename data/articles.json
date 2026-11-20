@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T07:47:36.139080+00:00",
-  "count": 2532,
+  "updated": "2026-11-20T08:02:39.464351+00:00",
+  "count": 2534,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -733,16 +733,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593479&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593497&tblKey=GMN",
           "filename": "[11.20.보도참고자료] 인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593480&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593498&tblKey=GMN",
           "filename": "[11.20.보도참고자료] 인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부.pdf"
         }
       ],
-      "_attAt": "2026-11-20T01:47:33.956012+00:00"
+      "_attAt": "2026-11-20T08:02:33.414663+00:00",
+      "_attRev": 1
     },
     {
       "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
@@ -1702,6 +1703,48 @@
         }
       ],
       "_attAt": "2026-11-20T07:47:33.065338+00:00"
+    },
+    {
+      "title": "통일부 장관, 유엔군사령관과 판문점 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790123",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "통일부 장관, 유엔군사령관과 판문점 방문□ 정동영 통일부 장관은 11월 20일(금) 14시, 제이비어 브런슨 (Xavier T. Brunson) 유엔군사령관과 경기도 파주시에 위치한 판문점을 방문했다. o 판문점은 정전협정을 체결한 역사적인 장소로서 정전협정 관련 군사적 접촉과 대화가 이루어지는 곳이자, 과거에 남북간 수많은 회담이 개최되었던 대화와 협력의 공간이다. o 정 장관과 브런슨 사령관은 판문점 내 자유의집 · 군사정전위원회 회의실 등을 방문하고, 정전협정 이행 및 한반도 긴장완화의 중요성에 대해 논의했다.□ 정 장관은 유",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593786&tblKey=GMN",
+          "filename": "261120 (통일부 보도자료) 통일부 장관, 유엔군사령관과 판문점 방문.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593787&tblKey=GMN",
+          "filename": "261120 (통일부 보도자료) 통일부 장관, 유엔군사령관과 판문점 방문.pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T08:02:33.414663+00:00"
+    },
+    {
+      "title": "민간 AI 솔루션 기업 A사 개인정보 유출...유출 대상에 2차 모두의 창업 참가자 818명 포함",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790122",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "1. 유출 경위 및 확인 내용 □ 2차「모두의 창업」AI 솔루션 공급기업(총 50개) 중 하나인 '아미쿠스렉스(솔루션명 '로폼')'가 11월 11일 (수) 08시 30분 자체 시스템에서 외부 해킹 공격 정황을 포착했습니다. 이후 조사 결과, 해당 기업이 보유하고 있던 총 20,028명의 개인정보가 유출됐으며, 이 중 2차 모두의 창업 참가자 818명이 포함된 것으로 확인되었습니다. ※ AI 솔루션 이용료 지원 : 2차 「모두의 창업」 참가자의 아이디어 검증 및 사업화 등을 위하여, 외부 AI 솔루션 공급기업 50개사가 각 회사의 자",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593782&tblKey=GMN",
+          "filename": "261113_(보도참고자료)_2차_모두의_창업_AI_솔루션_개인정보_유출.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593783&tblKey=GMN",
+          "filename": "261113_(보도참고자료)_2차_모두의_창업_AI_솔루션_개인정보_유출.pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T08:02:33.414663+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
