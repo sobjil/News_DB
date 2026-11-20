@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T01:32:45.376703+00:00",
-  "count": 2485,
+  "updated": "2026-11-20T01:47:37.380096+00:00",
+  "count": 2486,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -679,6 +679,27 @@
         }
       ],
       "_attAt": "2026-11-20T01:32:32.674883+00:00"
+    },
+    {
+      "title": "인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부(11.20.금)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790051",
+      "agency": "질병관리청",
+      "agencyCode": "kdca",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부 - 인플루엔자 의사환자 4주 연속 증가(42주 17.7 → 46주 37.0명/외래환자 1천명당)- 46주차 병원급 입원환자 수와 인플루엔자 양성 사망 신고 건수도 가파른 증가세를 보이며, 지난 절기 정점보다 높게 발생 중- 중증·사망 예방을 위해 어르신·어린이 등은 신속한 예방접종 필요 - 기침할 땐 옷소매로 입과 코 가리기, 사람이 많은 곳에선 마스크 착용 등 호흡기감염병 예방수칙 준수 당부 질병관리청(청장 임승관)은 최근 인플루엔자 의사환자 발생이 4주 연속",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593479&tblKey=GMN",
+          "filename": "[11.20.보도참고자료] 인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593480&tblKey=GMN",
+          "filename": "[11.20.보도참고자료] 인플루엔자 입원·중증환자 급증! 신속한 예방접종 및 예방수칙 준수 당부.pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T01:47:33.956012+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
