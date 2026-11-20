@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T03:02:41.742610+00:00",
-  "count": 2493,
+  "updated": "2026-11-20T03:17:43.541218+00:00",
+  "count": 2497,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -72,16 +72,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593365&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593369&tblKey=GMN",
           "filename": "경북 산불 피해 지역 숲속 인공둥지에서 하늘다람쥐 번식 확인(보도자료)(생태원 11.20).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593364&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593368&tblKey=GMN",
           "filename": "경북 산불 피해 지역 숲속 인공둥지에서 하늘다람쥐 번식 확인(보도자료)(생태원 11.20).pdf"
         }
       ],
-      "_attAt": "2026-11-19T21:17:33.333526+00:00"
+      "_attAt": "2026-11-20T03:17:33.886976+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 마약류 진통제는 통증조절이 되지 않는 심한 통증에만 사용해야 합니다",
@@ -847,6 +848,90 @@
         }
       ],
       "_attAt": "2026-11-20T03:02:36.831940+00:00"
+    },
+    {
+      "title": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790063",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593530&tblKey=GMN",
+          "filename": "[교육부 11-21(토) 조간보도자료] MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합 교육역량을 키운다.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-20T03:17:33.886976+00:00"
+    },
+    {
+      "title": "2026년 고추, 참깨, 고랭지감자 생산량조사 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790062",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "2026년 고추,참깨,고랭지감자 생산량조사 결과입니다.ㅇ 보도일시: 2026.11.20.(금) 12:00ㅇ 주요내용 - 고추 생산량은 6만 3천톤으로 전년보다 3.1% 증가 - 참깨 생산량은 1만 3천톤으로 전년보다 16.0% 증가 - 고랭지감자 생산량은 15만 6천톤으로 전년보다 36.6% 증가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593529&tblKey=GMN",
+          "filename": "2026년 고추 참깨 고랭지감자 생산량조사 결과 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593527&tblKey=GMN",
+          "filename": "2026년 고추 참깨 고랭지감자 생산량조사 결과 보도자료.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593528&tblKey=GMN",
+          "filename": "2026년 고추 참깨 고랭지감자 생산량조사 결과 보도자료.hwp"
+        }
+      ],
+      "_attAt": "2026-11-20T03:17:33.886976+00:00"
+    },
+    {
+      "title": "과기정통부-기후부, AI 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790061",
+      "agency": "기후에너지환경부",
+      "agencyCode": "mcee",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "▷ 비수도권 AIDC 계약전력 50MW 이하는 전력계통영향평가 면제▷ AIDC 특구 내 AIDC는 비기술적 평가 면제(평가 간소화)▷ 메가프로젝트, 인허가 일괄처리 대상 AIDC는 평가 우선 처리(AIDC 패스트트랙)과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 '과기정통부')와 기후에너지환경부(장관 김성환, 이하 '기후부')는 AI 데이터센터(이하 'AIDC')의 신속한 구축을 지원하기 위해 AIDC 맞춤형 전력계통영향평가(이하 '전평') 제도 개선을 추진한다고 밝혔다.「인공지능 데이터센터 산업 진흥에 관한 특별법(이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593525&tblKey=GMN",
+          "filename": "★261120_조간 보도 AIDC 신속 구축을 위한 전력계통영향평가 제도 개선 추진(과기부 보도자료 공유).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593526&tblKey=GMN",
+          "filename": "★261120_조간 보도 AIDC 신속 구축을 위한 전력계통영향평가 제도 개선 추진(과기부 보도자료 공유).pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T03:17:33.886976+00:00"
+    },
+    {
+      "title": "한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790060",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 폴란드우주청(Polish Space Agency, 이하 'POLSA')과 11월 23일(월)부터 24일(화)까지 양국 간 우주 분야 협력을 위한 ｢한-폴란드 우주협력 화상 토론회｣를 개최한다. 이번 화상 토론회는 지난 3월 우주항공청장과 주한폴란드대사 간 면담과 7월 폴란드 바르샤바에서 개최된 ｢한-폴란드 스페이스 데이｣의 후속조치 차원에서, 양국 우주 정책과 연구개발 동향을 공유하고 연구기관 및 기업 간 기술 교류를 확대하기 위해 마련되었다. 첫째 날인 11월 23일(월)에는 양국의 우주정책과 주요 연구",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593524&tblKey=GMN",
+          "filename": "261121(조간) 한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593523&tblKey=GMN",
+          "filename": "261121(조간) 한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색.hwp"
+        }
+      ],
+      "_attAt": "2026-11-20T03:17:33.886976+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
@@ -3323,8 +3408,8 @@
           "filename": "최종_(261119) 국민권익위 대학수학능력시험 부정행위 대상 집중신고기간 운영.pdf"
         }
       ],
-      "_attAt": "2026-11-19T21:17:33.333526+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-20T03:17:33.886976+00:00",
+      "_attRev": 3
     },
     {
       "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\"",
