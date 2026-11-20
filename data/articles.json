@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T09:47:33.689526+00:00",
-  "count": 2546,
+  "updated": "2026-11-20T10:02:36.075940+00:00",
+  "count": 2547,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2008,6 +2008,27 @@
         }
       ],
       "_attAt": "2026-11-20T09:32:32.430316+00:00"
+    },
+    {
+      "title": "외교관과 함께 이야기하는 개발협력, 청년의 시선으로 미래를 그리다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790139",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "외교부 대변인실은 11.20.(금) 오후 외교부 18층 서희홀에서 「제26회 외교톡톡: 외교관과의 대화」를 개최하였다. 반기별로 개최되는 외교톡톡 행사는 외교 현장의 생생한 이야기를 국민과 공유하는 외교부의 대표적인 대국민 소통 프로그램으로, 이번 행사는 외교부 공식 서포터스 '모파랑(Friends of MOFA)' 29기가 기획과 운영에 참여하고 일반 국민 약 100명이 참석한 가운데 진행되었다. 이문배 부대변인은 인사말을 통해 \"외교는 어렵고 나와는 거리가 먼 얘기가 아니라 우리 국민들의 일상과 밀접하게 연결되어 있다\"고 강조하",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593845&tblKey=GMN",
+          "filename": "[26-961](보도자료) 외교관과 함께 이야기하는 개발협력.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593846&tblKey=GMN",
+          "filename": "[26-961](보도자료) 외교관과 함께 이야기하는 개발협력.pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T10:02:33.124904+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
