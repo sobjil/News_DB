@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T02:17:49.029873+00:00",
-  "count": 2490,
+  "updated": "2026-11-20T02:32:35.906858+00:00",
+  "count": 2491,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -789,6 +789,22 @@
         }
       ],
       "_attAt": "2026-11-20T02:17:32.534723+00:00"
+    },
+    {
+      "title": "스마트기기 등 전자기기 관련 부정행위 적발 현황",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790057",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "스마트기기 등 전자기기 관련 부정행위 적발 현황",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593516&tblKey=GMN",
+          "filename": "[교육부 11-20(금) 보도참고자료] 2027학년도 대학수학능력시험 스마트기기 등 전자기기 관련 부정행위 적발 현황.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-20T02:32:32.112410+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
