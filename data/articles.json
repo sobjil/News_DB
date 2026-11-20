@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T04:02:39.178649+00:00",
-  "count": 2497,
+  "updated": "2026-11-20T04:17:38.827489+00:00",
+  "count": 2498,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -932,6 +932,27 @@
         }
       ],
       "_attAt": "2026-11-20T03:17:33.886976+00:00"
+    },
+    {
+      "title": "현장 대응 역량을 갖춘 준비된 경찰, 국민 곁으로",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790064",
+      "agency": "경찰청",
+      "agencyCode": "npa",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "현장 대응 역량을 갖춘 준비된 경찰, 국민 곁으로 관련 보도자료 내용입니다.자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593539&tblKey=GMN",
+          "filename": "261120(1200) 현장 대응 역량을 갖춘 준비딘 경찰, 국민 곁으로 320기 졸업식(경찰대학).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593538&tblKey=GMN",
+          "filename": "261120(1200) 현장 대응 역량을 갖춘 준비딘 경찰, 국민 곁으로 320기 졸업식(경찰대학).pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T04:17:35.948881+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
