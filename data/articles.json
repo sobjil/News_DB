@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T09:02:34.604816+00:00",
-  "count": 2543,
+  "updated": "2026-11-20T09:17:39.900267+00:00",
+  "count": 2545,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -865,16 +865,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593521&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593737&tblKey=GMN",
           "filename": "376 [지식재산처] 특허, 기술을 넘어 제품으로! 돈이 되는 특허전략 한자리에.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593522&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593738&tblKey=GMN",
           "filename": "376 [지식재산처] 특허, 기술을 넘어 제품으로! 돈이 되는 특허전략 한자리에.pdf"
         }
       ],
-      "_attAt": "2026-11-20T03:02:36.831940+00:00"
+      "_attAt": "2026-11-20T09:17:32.286019+00:00",
+      "_attRev": 1
     },
     {
       "title": "돈 되는 특허, '소통형 특허심사'로 민관이 함께한다",
@@ -886,16 +887,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593519&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593735&tblKey=GMN",
           "filename": "375 [지식재산처] 돈 되는 특허, ‘소통형 특허심사’로 민관이 함께한다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198593520&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593736&tblKey=GMN",
           "filename": "375 [지식재산처] 돈 되는 특허, ‘소통형 특허심사’로 민관이 함께한다.pdf"
         }
       ],
-      "_attAt": "2026-11-20T03:02:36.831940+00:00"
+      "_attAt": "2026-11-20T09:17:32.286019+00:00",
+      "_attRev": 1
     },
     {
       "title": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다",
@@ -1939,6 +1941,48 @@
         }
       ],
       "_attAt": "2026-11-20T08:47:33.626269+00:00"
+    },
+    {
+      "title": "행정안전부 장관, 도로살얼음 취약구간 안전관리 실태 점검",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790137",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "- 안양시 대설･결빙 도로 안전 대비태세 점검, 결빙주의 표지판 직접 설치- 결빙 취약구간 예방시설 확충을 위한 재난특교세 90억 원 추가 지원 윤호중 행정안전부 장관은 11월 20일(금) 경기도 안양시 제설 전진기지와 도로살얼음 취약구간을 찾아 겨울철 대설·결빙 대비 상황을 점검했다. 이번 점검은 11월 10일(화) 국무회의에서 이재명 대통령이 반복되는 결빙 취약구간 사고에 대한 철저한 예방조치와 대책 마련을 지시한 데 따른 후속 조치로, 현장의 안전관리 실태와 관계기관의 대응 준비 상황을 직접 확인하기 위해 마련됐다. 먼저, 윤",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593837&tblKey=GMN",
+          "filename": "261121 (18시) 행정안전부 장관 도로살얼음 취약구간 안전관리 실태 점검(자연재난대응과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593838&tblKey=GMN",
+          "filename": "261121 (18시) 행정안전부 장관 도로살얼음 취약구간 안전관리 실태 점검(자연재난대응과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T09:17:32.286019+00:00"
+    },
+    {
+      "title": "제12차 한-일 국장급 중동정책협의회 개최 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790135",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "정광용 외교부 아중동국장은 11.20.(금) 외교부에서 이와모토 케이이치 일본 외무성 중동아프리카국장과 제12차 한-일 국장급 중동정책협의회를 개최하고 ▴중동 지역 정세 ▴양국의 對중동 정책 등에 대해 의견을 나누었다. ※ 한-일 국장급 중동정책협의회는 2014년에 제1차 회의를 개최하였으며, 금번 정책협의회는 제11차 회의가 2026년 2월 일본에서 개최된 이후 9개월만에 개최 양측은 최근 중동정세 관련 양국의 평가 및 전망을 공유하고, 중동 문제 관련 유사입장국인 양국이 활발하고 긴밀하게 정보 교환을 지속해 나가자는데 동의하였다",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593830&tblKey=GMN",
+          "filename": "[26-960](보도자료) 제12차 한-일 국장급 중동정책협의회 개최 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593831&tblKey=GMN",
+          "filename": "[26-960](보도자료) 제12차 한-일 국장급 중동정책협의회 개최 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T09:17:32.286019+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
