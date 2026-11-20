@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T06:17:39.831957+00:00",
-  "count": 2521,
+  "updated": "2026-11-20T06:32:40.268017+00:00",
+  "count": 2522,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -201,8 +201,20 @@
       "agencyCode": "moj",
       "pubDate": "2026-11-20T00:00:00+09:00",
       "description": "예비 사회초년생의 안전한 사회진출을 위한 생활밀착형 법교육 확대법무부, 수능 이후 고 3 학생 대상 종합생활법률 교육 실시 법무부(장관 직무대행 차관 이진수)는 2027학년도 대학수학능력시험(이하 \"수능\") 이후 새로운 사회생활을 준비하는 고등학교 3학년 학생들이 일상에서 마주할 수 있는 법률문제에 올바르게 대처하고 자신의 권리를 지킬 수 있도록 생활밀착형 법교육을 실시할 예정이다.[※ 상세내용 첨부파일 참조]",
-      "attachments": [],
-      "_attAt": "2026-11-20T00:17:33.610425+00:00"
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593391&tblKey=GMN",
+          "filename": "(보도자료) 예비 사회초년생의 안전한 사회진출을 위한 생활밀착형 법교육 확대 (배포즉시보도).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593390&tblKey=GMN",
+          "filename": "(보도자료) 예비 사회초년생의 안전한 사회진출을 위한 생활밀착형 법교육 확대 (배포즉시보도).pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T06:32:33.158700+00:00",
+      "_attRev": 1
     },
     {
       "title": "한·미, 감염병 위협 공동 대응을 위한 협력 논의(11.20.금)",
@@ -223,7 +235,8 @@
           "filename": "[11.20.보도참고자료] 한·미, 감염병 위협 공동 대응을 위한 협력 논의.pdf"
         }
       ],
-      "_attAt": "2026-11-20T00:17:33.610425+00:00"
+      "_attAt": "2026-11-20T06:32:33.158700+00:00",
+      "_attRev": 1
     },
     {
       "title": "조달청, AI 시대 공공조달의 미래전략 모색",
@@ -1424,6 +1437,27 @@
         }
       ],
       "_attAt": "2026-11-20T06:17:32.875966+00:00"
+    },
+    {
+      "title": "[참고] 테슬라 FSD 특례 신청, 자료 보완 필요",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790094",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-20T00:00:00+09:00",
+      "description": "[참고] 테슬라 FSD 특례 신청, 자료 보완 필요 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593674&tblKey=GMN",
+          "filename": "261120(참고) 테슬라 FSD 특례 신청, 자료 보완 필요(자동차정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593675&tblKey=GMN",
+          "filename": "261120(참고) 테슬라 FSD 특례 신청, 자료 보완 필요(자동차정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-20T06:32:33.158700+00:00"
     },
     {
       "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
