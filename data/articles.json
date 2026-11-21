@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T06:53:44.642939+00:00",
-  "count": 2468,
+  "updated": "2026-11-21T07:08:53.906472+00:00",
+  "count": 2469,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -173,6 +173,27 @@
         }
       ],
       "_attAt": "2026-11-21T05:08:43.536341+00:00"
+    },
+    {
+      "title": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\"",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790153",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-21T00:00:00+09:00",
+      "description": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\" 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593943&tblKey=GMN",
+          "filename": "261121(동정)_정의경_제2차관___안전을_최우선으로_탈선_현장_복구_및_이용객_불편_최소화할_것(철도안전정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593944&tblKey=GMN",
+          "filename": "261121(동정)_정의경_제2차관___안전을_최우선으로_탈선_현장_복구_및_이용객_불편_최소화할_것(철도안전정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-21T07:08:51.045157+00:00"
     },
     {
       "title": "경북 산불 피해 지역 숲속 인공둥지에서 하늘다람쥐 번식 확인",
