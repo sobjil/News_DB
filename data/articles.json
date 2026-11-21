@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T04:53:44.642964+00:00",
-  "count": 2467,
+  "updated": "2026-11-21T05:08:47.094027+00:00",
+  "count": 2468,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -150,6 +150,27 @@
         }
       ],
       "_attAt": "2026-11-21T02:31:41.032521+00:00"
+    },
+    {
+      "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790152",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-21T00:00:00+09:00",
+      "description": "- 인공지능 기술에 대한 비판적 사고와 창의적 관점을 높이기 위한 '토론대회'부터 '논문·아이디어 공모전', '우수도서 선정'까지 한자리에 -- 부총리 겸 과기정통부 장관상, 정보통신산업진흥원 원장상 등 총 33점 수여 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593921&tblKey=GMN",
+          "filename": "261123 조간 (보도) 우리 사회의 AI를 생각하고 토론하는 축제의 장, AI 인사이트 페스티벌 시상식 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593922&tblKey=GMN",
+          "filename": "261123 조간 (보도) 우리 사회의 AI를 생각하고 토론하는 축제의 장, AI 인사이트 페스티벌 시상식 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-21T05:08:43.536341+00:00"
     },
     {
       "title": "경북 산불 피해 지역 숲속 인공둥지에서 하늘다람쥐 번식 확인",
