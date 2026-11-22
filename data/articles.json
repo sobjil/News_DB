@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:19:07.404181+00:00",
+  "updated": "2026-11-22T16:33:51.960708+00:00",
   "count": 2422,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
@@ -1051,16 +1051,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594222&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594224&tblKey=GMN",
           "filename": "[26-963](공동보도자료) K-ODA로 함께 여는 상생의 미래 2026년 개발협력주간 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594223&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594225&tblKey=GMN",
           "filename": "[26-963](공동보도자료) K-ODA로 함께 여는 상생의 미래 2026년 개발협력주간 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-22T10:33:41.285994+00:00"
+      "_attAt": "2026-11-22T16:33:49.376616+00:00",
+      "_attRev": 1
     },
     {
       "title": "긴급 시장상황점검회의 개최",
