@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T00:58:43.621349+00:00",
-  "count": 2382,
+  "updated": "2026-11-22T01:13:46.723753+00:00",
+  "count": 2384,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -77,6 +77,48 @@
         }
       ],
       "_attAt": "2026-11-22T00:13:41.557988+00:00"
+    },
+    {
+      "title": "[참고] 케이(K)-철도, 95조 원 베트남 고속철도 사업 진출 첫발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790156",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-22T00:00:00+09:00",
+      "description": "[참고] 케이(K)-철도, 95조 원 베트남 고속철도 사업 진출 첫발 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593998&tblKey=GMN",
+          "filename": "261122(참고) 케이(K)-철도, 95조 원 베트남 고속철도 사업 진출 첫발(철도정책과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593999&tblKey=GMN",
+          "filename": "261122(참고) 케이(K)-철도, 95조 원 베트남 고속철도 사업 진출 첫발(철도정책과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-22T01:13:41.167155+00:00"
+    },
+    {
+      "title": "105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790155",
+      "agency": "국가보훈부",
+      "agencyCode": "mpva",
+      "pubDate": "2026-11-22T00:00:00+09:00",
+      "description": "261122 보도자료(105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공)최종",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593997&tblKey=GMN",
+          "filename": "261122 보도자료(105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공)최종.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593996&tblKey=GMN",
+          "filename": "261122 보도자료(105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공)최종.pdf"
+        }
+      ],
+      "_attAt": "2026-11-22T01:13:41.167155+00:00"
     },
     {
       "title": "외교부 공관장 인사",
