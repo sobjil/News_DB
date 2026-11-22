@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T12:33:43.821153+00:00",
-  "count": 2427,
+  "updated": "2026-11-22T12:48:44.601030+00:00",
+  "count": 2428,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1061,6 +1061,27 @@
         }
       ],
       "_attAt": "2026-11-22T10:33:41.285994+00:00"
+    },
+    {
+      "title": "긴급 시장상황점검회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790262",
+      "agency": "재정경제부",
+      "agencyCode": "moef",
+      "pubDate": "2026-11-22T00:00:00+09:00",
+      "description": "이형일 부총리 겸 재정경제부 장관은 '26.11.22.(일) 15:00, 정부서울청사에서 관계기관 합동 「긴급 시장상황점검회의」를 개최하여 최근 美 증시 하락에 따른 국내금융시장 영향과 주요 위험요인을 점검하고 향후 대응방향을 논의하였다. * 참석자: 한국은행 총재 신현송, 금융위원회 위원장 이억원, 금융감독원 원장 이찬진※ 자세한 내용은 첨부를 참고해주시기 바랍니다.문의. 재정경제부 경제정책국 자금시장정책과 김지민 (044-215-2751)",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594231&tblKey=GMN",
+          "filename": "261122 (보도자료) 긴급시장상황점검회의f.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594230&tblKey=GMN",
+          "filename": "261122 (보도자료) 긴급시장상황점검회의f.pdf"
+        }
+      ],
+      "_attAt": "2026-11-22T12:48:40.900674+00:00"
     },
     {
       "title": "외교부 공관장 인사",
