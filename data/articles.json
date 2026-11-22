@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T23:58:42.188187+00:00",
-  "count": 2381,
+  "updated": "2026-11-22T00:13:45.440264+00:00",
+  "count": 2382,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,22 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790154",
+      "agency": "교육부",
+      "agencyCode": "moe",
+      "pubDate": "2026-11-22T00:00:00+09:00",
+      "description": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙」 개정 공포",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198593994&tblKey=GMN",
+          "filename": "[교육부 11-23(월) 조간보도자료] 영유아보육 분야 규제 개선을 위한 영유아보육법 시행규칙 개정 공포.hwpx"
+        }
+      ],
+      "_attAt": "2026-11-22T00:13:41.557988+00:00"
+    },
     {
       "title": "외교부 공관장 인사",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790141",
