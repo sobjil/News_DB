@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T09:33:43.696935+00:00",
-  "count": 2532,
+  "updated": "2026-11-23T09:48:49.734013+00:00",
+  "count": 2533,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -76,8 +76,8 @@
           "filename": "[교육부 11-23(월) 석간보도자료] 교육부 대입 허위 원서접수 신고센터 설치.hwpx"
         }
       ],
-      "_attAt": "2026-11-23T03:33:43.642192+00:00",
-      "_attRev": 1
+      "_attAt": "2026-11-23T09:48:44.083495+00:00",
+      "_attRev": 2
     },
     {
       "title": "과기정통부, 인공지능 반도체 업계 현안 점검...국제 협력·공급망 대응 모색",
@@ -1584,16 +1584,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594632&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594640&tblKey=GMN",
           "filename": "261123 (통일부 보도자료) 「홍익 플랫폼과 평화·통일 시민대화」 국제학술회의 개최(11.24.).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594633&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594641&tblKey=GMN",
           "filename": "261123 (통일부 보도자료) 「홍익 플랫폼과 평화·통일 시민대화」 국제학술회의 개최(11.24.).pdf"
         }
       ],
-      "_attAt": "2026-11-23T03:33:43.642192+00:00"
+      "_attAt": "2026-11-23T09:48:44.083495+00:00",
+      "_attRev": 1
     },
     {
       "title": "인공지능 활용 난기류 탐지 등 우수 연구성과 포상",
@@ -2443,6 +2444,27 @@
         }
       ],
       "_attAt": "2026-11-23T08:33:44.446076+00:00"
+    },
+    {
+      "title": "국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억 원 이상 최대 5억 원 지급",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790415",
+      "agency": "국민권익위원회",
+      "agencyCode": "acrc",
+      "pubDate": "2026-11-23T00:00:00+09:00",
+      "description": "국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억 원 이상 최대 5억 원 지급 - 신고로 적발된 부정행위자 수만큼 포상금 가산 지급- 공동부정행위자가 신고한 경우 처벌 감경과 함께 포상금은 그대로 지급 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 대학수학능력시험(이하 수능)의 공정성을 훼손하는 부정행위를 근절하기 위해 부정행위 신고자에게 건당 최소 1억 원 이상 최대 5억 원의 포상금을 적극 지급한다고 밝혔다. ※ 「공익신고자 보호법 시행령」 제25조의3에 따라 5억 원까지 포상금 지급 가능 특히 부정행위자 수만큼 가",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594934&tblKey=GMN",
+          "filename": "(261123) 국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억원 이상 적극 지급 추진(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594935&tblKey=GMN",
+          "filename": "(261123) 국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억원 이상 적극 지급 추진(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-11-23T09:48:44.083495+00:00"
     },
     {
       "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
