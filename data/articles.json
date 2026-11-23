@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T23:19:12.083933+00:00",
-  "count": 2522,
+  "updated": "2026-11-23T23:34:04.034817+00:00",
+  "count": 2523,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -182,6 +182,27 @@
         }
       ],
       "_attAt": "2026-11-23T23:18:56.683028+00:00"
+    },
+    {
+      "title": "병무청, \"입대 청년을 위한 응원과 격려\" 입영문화제 특별행사 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790458",
+      "agency": "병무청",
+      "agencyCode": "mma",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "□ 병무청(청장 홍소영)은 11월 23일, 경남 진주 공군교육사령부에서 입영자와 가족 등 4,300명이 참석한 가운데 '당당한 한 걸음, 오늘보다 빛나는 내일!'을 주제로 입영문화제 특별행사 '청춘예찬 콘서트'를 개최했다. □ 입영문화제는 입영하는 장병을 응원하고, 가족·친구들과 소중한 추억을 만들 수 있도록 지난 2011년부터 추진해 온 병무청의 대표적인 청년 지원정책이다. □ 이번 \"청춘예찬 콘서트\"는 입영이라는 새로운 출발선에 선 청년들을 격려하고 병역이행의 가치를 확산하기 위해 기획되었다. 특히 현장 영상을 유튜브 등 다양한",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595043&tblKey=GMN",
+          "filename": "20261123(최종배포)병무청, 입대청년을 위한 응원과 격려 입영문화제 특별행사 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595044&tblKey=GMN",
+          "filename": "20261123(최종배포)병무청, 입대청년을 위한 응원과 격려 입영문화제 특별행사 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-23T23:34:00.342886+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
