@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T22:18:59.618566+00:00",
-  "count": 2520,
+  "updated": "2026-11-23T22:33:56.016268+00:00",
+  "count": 2521,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -140,6 +140,27 @@
         }
       ],
       "_attAt": "2026-11-23T22:18:54.046909+00:00"
+    },
+    {
+      "title": "동반성장주간(11.23~27) 시리즈 ② 납품대금 연동으로 협력사 원가 부담 덜었다 중기부, 2026년 납품대금 연동 우수기업 9개사 선정",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790456",
+      "agency": "중소벤처기업부",
+      "agencyCode": "mss",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "중소벤처기업부(장관 이소영, 이하 중기부)는 11월 24일(화) 납품대금 연동제를 모범적으로 실천한 9개 기업을「2026년 납품대금 연동 우수기업｣으로 선정했다고 밝혔다. 올해 선정된 연동 우수기업은 뉴금우고속관광전세, 대화공업, 롯데칠성음료㈜, 에이치디건설기계 주식회사, ㈜풍산, 한국보훈복지의료공단, 한국서부발전㈜, 한국지역난방공사, 한국해양교통안전공단 총 9개사(가나다 순)이다. 특히 올해는 대·중견기업뿐만 아니라 납품대금을 조정받는 수탁기업인 중소기업도 우수기업으로 선정됐다. 이는 위탁기업의 제도 이행 노력뿐만 아니라 수탁기업",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595040&tblKey=GMN",
+          "filename": "261123_보도자료_납품대금_연동_우수기업_선정.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595039&tblKey=GMN",
+          "filename": "261123_보도자료_납품대금_연동_우수기업_선정.pdf"
+        }
+      ],
+      "_attAt": "2026-11-23T22:33:52.451367+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
