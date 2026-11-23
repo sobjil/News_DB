@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T05:18:54.053777+00:00",
-  "count": 2508,
+  "updated": "2026-11-23T05:33:54.431457+00:00",
+  "count": 2509,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -120,7 +120,8 @@
           "filename": "[1123]문체부보도자료-인공지능 학습을 위한 저작물 이용허락 표준계약서(안) 공청회 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-22T23:18:50.786803+00:00"
+      "_attAt": "2026-11-23T05:33:43.344046+00:00",
+      "_attRev": 1
     },
     {
       "title": "'스트레이 키즈' 필릭스, 한복의 새로운 물결을 일으키다",
@@ -141,7 +142,8 @@
           "filename": "[1123]문체부보도자료-2026 한복웨이브 화보 공개.pdf"
         }
       ],
-      "_attAt": "2026-11-22T23:18:50.786803+00:00"
+      "_attAt": "2026-11-23T05:33:43.344046+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 식·의약 분야 특사경 수사역량 강화 직무교육 실시",
@@ -162,7 +164,8 @@
           "filename": "[26.11.23.(월)보도참고자료] 식약처, 식·의약 분야 특사경 수사역량 강화 직무교육 실시.pdf"
         }
       ],
-      "_attAt": "2026-11-22T23:18:50.786803+00:00"
+      "_attAt": "2026-11-23T05:33:43.344046+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 바이오의약품 인허가 지원 워크숍 개최",
@@ -183,7 +186,8 @@
           "filename": "[26.11.23(월) 보도참고자료] 식약처, 바이오의약품 인허가 지원 워크숍 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-22T23:18:50.786803+00:00"
+      "_attAt": "2026-11-23T05:33:43.344046+00:00",
+      "_attRev": 1
     },
     {
       "title": "K-컬쳐와 공공외교, 국민들과 함께하는 외교정책 강연",
@@ -195,16 +199,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594256&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594361&tblKey=GMN",
           "filename": "[26-964](보도자료) K-컬쳐와 공공외교, 국민들과 함께하는 외교정책 강연.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198594257&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594362&tblKey=GMN",
           "filename": "[26-964](보도자료) K-컬쳐와 공공외교, 국민들과 함께하는 외교정책 강연.pdf"
         }
       ],
-      "_attAt": "2026-11-22T23:18:50.786803+00:00"
+      "_attAt": "2026-11-23T05:33:43.344046+00:00",
+      "_attRev": 1
     },
     {
       "title": "한-카타르, 변화하는 에너지 환경에 대응해 협력 강화",
@@ -1862,6 +1867,27 @@
         }
       ],
       "_attAt": "2026-11-23T05:18:43.641358+00:00"
+    },
+    {
+      "title": "국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790376",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-23T00:00:00+09:00",
+      "description": "- 배경훈 부총리, 국가 과학 인공지능 연구센터(NAIS) 방문 및 전문가 간담회 개최 -- 국가 과학 인공지능 자원·역량을 결집하고, 인공지능 과학자 구현을 위한 산학연 협력 방안 논의 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594729&tblKey=GMN",
+          "filename": "261124 조간 (보도) 국가 과학 AI 역량 결집해 초지능 과학 혁신을 선도한다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594730&tblKey=GMN",
+          "filename": "261124 조간 (보도) 국가 과학 AI 역량 결집해 초지능 과학 혁신을 선도한다.pdf"
+        }
+      ],
+      "_attAt": "2026-11-23T05:33:43.344046+00:00"
     },
     {
       "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
