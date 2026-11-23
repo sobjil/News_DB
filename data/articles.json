@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T02:04:01.152810+00:00",
-  "count": 2475,
+  "updated": "2026-11-23T02:18:47.568961+00:00",
+  "count": 2476,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1147,6 +1147,32 @@
         }
       ],
       "_attAt": "2026-11-23T02:03:48.299107+00:00"
+    },
+    {
+      "title": "3개월전망[2026년 12월_2027년 2월] 올겨울 평년보다 기온 높고, 강수량 많겠으나 기온 변동 클 가",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790334",
+      "agency": "기상청",
+      "agencyCode": "kma",
+      "pubDate": "2026-11-23T00:00:00+09:00",
+      "description": "3개월전망[2026년 12월_2027년 2월] 올겨울 평년보다 기온 높고, 강수량 많겠으나 기온 변동 클 가 관련 내용입니다. 자세한 사항은 붙임파일 (20261123_보도자료_3개월전망(2026년 12월_2027년 2월)H.hwpx)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594545&tblKey=GMN",
+          "filename": "20261123_보도자료_3개월전망(2026년 12월_2027년 2월)H.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594547&tblKey=GMN",
+          "filename": "20261123_보도자료_3개월전망(2026년 12월_2027년 2월)H.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594546&tblKey=GMN",
+          "filename": "20261123_보도자료_3개월전망(2026년 12월_2027년 2월)H.hwp"
+        }
+      ],
+      "_attAt": "2026-11-23T02:18:43.493077+00:00"
     },
     {
       "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
