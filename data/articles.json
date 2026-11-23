@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T07:34:01.554852+00:00",
-  "count": 2526,
+  "updated": "2026-11-23T07:48:48.423882+00:00",
+  "count": 2528,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2275,6 +2275,53 @@
         }
       ],
       "_attAt": "2026-11-23T07:33:44.096650+00:00"
+    },
+    {
+      "title": "통일부 장관, 몽골 외교장관 면담",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790405",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-11-23T00:00:00+09:00",
+      "description": "통일부 장관, 몽골 외교부장관 면담 □ 정동영 통일부 장관은 오늘(11.23.) 바트뭉흐 바트체첵(Batmunkh BATTSETSEG) 몽골 외교장관과 면담을 진행했다. □ 정 장관은 방한한 바트체첵 외교장관에 환영인사를 전하고, 몽골 정부의 ｢제11차 울란바타르 동북아 안보대화｣ 초청과 몽골 방문 시 몽골측이 보여준 환대에 감사 인사를 전했다. o 정동영 장관은 양국 정상이 말씀하신 것처럼 한·몽 양국 관계가 '황금시대'를 맞이했고, 이러한 우호적인 흐름을 토대로 앞으로도 더 발전해 나갈 것이라는 점에 다시 한번 지지의 마음을 표",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594858&tblKey=GMN",
+          "filename": "261123 (통일부 보도자료) 통일부 장관 몽골 외교장관 면담.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594859&tblKey=GMN",
+          "filename": "261123 (통일부 보도자료) 통일부 장관 몽골 외교장관 면담.pdf"
+        }
+      ],
+      "_attAt": "2026-11-23T07:48:43.978669+00:00"
+    },
+    {
+      "title": "산림청, 산불현장에 전기차 기술을 더하다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790404",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-23T00:00:00+09:00",
+      "description": "산림청, 산불현장에 전기차 기술을 더하다- 산림청·현대자동차(주)·세화자동차(주) 업무협약...ST1 실증으로 전기차 운용 방안 마련 - 산림청(청장 박은식)은 정부대전청사에서 현대자동차(주), 세화자동차(주)와 친환경 목적기반차량(PBV)을 활용한 산불현장지휘차량 실증을 위한 업무협약을 체결했다고 23일 밝혔다. 업무협약식에는 이용권 산림청 산림재난통제관, 염재섭 현대자동차(주) 국내판매사업부장, 박성흠 세화자동차(주) 대표이사가 참석했다. 산불현장은 충전 기반시설과 전력 공급 여건이 일정하지 않고, 대응 상황에 따라 장시간 차량",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594854&tblKey=GMN",
+          "filename": "(261123)보도자료_산림청 산불현장에 전기차 기술을 더하다.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594855&tblKey=GMN",
+          "filename": "(261123)보도자료_산림청 산불현장에 전기차 기술을 더하다.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198594853&tblKey=GMN",
+          "filename": "(261123)보도자료_산림청 산불현장에 전기차 기술을 더하다.hwp"
+        }
+      ],
+      "_attAt": "2026-11-23T07:48:43.978669+00:00"
     },
     {
       "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
