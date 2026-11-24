@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T04:19:07.748936+00:00",
-  "count": 2576,
+  "updated": "2026-11-24T04:34:17.570421+00:00",
+  "count": 2579,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -164,7 +164,8 @@
           "filename": "261123_보도자료_납품대금_연동_우수기업_선정.pdf"
         }
       ],
-      "_attAt": "2026-11-23T22:33:52.451367+00:00"
+      "_attAt": "2026-11-24T04:34:10.735253+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 면류·간편식 등 4개 식품유형 해썹(HACCP) 관리 가이드라인 제공",
@@ -1273,6 +1274,89 @@
         }
       ],
       "_attAt": "2026-11-24T04:18:58.420698+00:00"
+    },
+    {
+      "title": "국가자격시험, 인공지능(AI) 활용 부정행위를 철저히 대비하고 범죄는 끝까지 추적한다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790535",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "- 11.21. 경비지도사 시험부터 강화된 대책 즉시 적용, AI 부정행위 6건 적발- 예산확보와 법령개정 등을 통해 내년 상반기 내에 추가 대책 완료고용노동부(장관 김영훈)와 한국산업인력공단(이사장 이병훈)은 스마트안경과 초소형 카메라 등 첨단기술을 활용한 국가자격시험 부정행위를 근절하기 위해 시험 전·중·후 전 과정에 걸친 대응체계를 강화한다.그동안 국가자격시험의 부정행위는 주로 메모지나 스마트폰을 소지하는 방식이었으나, 지난 5월 스마트안경을 이용한 부정행위가 국가자격시험에서 처음으로 적발되었고, 최근에는 세무사 시험에서 초소",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595317&tblKey=GMN",
+          "filename": "261124_보도자료_국가자격시험 공정성 확보 방안 발표.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595316&tblKey=GMN",
+          "filename": "261124_보도자료_국가자격시험 공정성 확보 방안 발표.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T04:34:10.735253+00:00"
+    },
+    {
+      "title": "학생 선발부터 학비 지원까지... 국립의전원 설립·운영 세부 기준 마련",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790534",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "학생 선발부터 학비 지원까지... 국립의전원 설립·운영 세부 기준 마련- 국립의전원 설립등기, 조직·운영 및 재정지원 등에 관한 기준 마련 -- 학생정원·입학전형, 학비 지원 및 반환 등 세부 사항 구체화 - 보건복지부(장관 정은경)는 11월 24일(화) 국무회의에서 「국립의학전문대학원 설립 및 운영에 관한 법률 시행령」 제정안이 의결되었다고 밝혔다. 이번 시행령은 국립의학전문대학원의 설립·운영, 재정 지원, 학생 선발 및 지원 등에 관한 세부 기준을 마련하고, 공공보건의료 분야 전문인력 양성을 위한 제도적 기반을 갖추는 데 목적이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595308&tblKey=GMN",
+          "filename": "[보도참고자료] 학생 선발부터 학비 지원까지...국립의전원 설립 운영 세부 기준 마련.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595310&tblKey=GMN",
+          "filename": "(별첨) 국립의학전문대학원 설립 및 운영에 관한 법률 시행령안.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595309&tblKey=GMN",
+          "filename": "[보도참고자료] 학생 선발부터 학비 지원까지...국립의전원 설립 운영 세부 기준 마련.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595311&tblKey=GMN",
+          "filename": "(별첨) 국립의학전문대학원 설립 및 운영에 관한 법률 시행령안.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T04:34:10.735253+00:00"
+    },
+    {
+      "title": "12월부터 희귀·중증난치질환자 건강보험 본인부담률 10%→7% 인하",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790533",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "12월부터 희귀·중증난치질환자 건강보험 본인부담률 10%→7% 인하- 「국민건강보험법 시행령」 일부개정령안 국무회의 의결(11.24.) -- 12월 1일 진료분부터 적용, 환자 1인당 연평균 약 22만 원 경감 예상 - 보건복지부(장관 정은경)는 희귀·중증난치질환자의 건강보험 본인부담률을 10%에서 7%로 낮추는 「국민건강보험법 시행령」 일부개정령안이 11월 24일(화) 국무회의에서 의결되어 12월 1일부터 시행된다고 밝혔다. 이에 따라 산정특례*에 등록된 희귀·중증난치질환자 약 136만 명은 12월 1일 진료분부터 해당 질환으로 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595304&tblKey=GMN",
+          "filename": "[11.24.화 국무회의 종료(별도 안내) 이후] 12월부터 희귀·중증난치질환자 건강보험 본인부담률 인하.hwpx"
+        },
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595306&tblKey=GMN",
+          "filename": "(별첨) 국민건강보험법 시행령 일부개정령안.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595305&tblKey=GMN",
+          "filename": "[11.24.화 국무회의 종료(별도 안내) 이후] 12월부터 희귀·중증난치질환자 건강보험 본인부담률 인하.pdf"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595307&tblKey=GMN",
+          "filename": "(별첨) 국민건강보험법 시행령 일부개정령안.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T04:34:10.735253+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
