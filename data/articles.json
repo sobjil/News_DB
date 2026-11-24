@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T23:07:03.454535+00:00",
-  "count": 2533,
+  "updated": "2026-11-24T23:21:47.437235+00:00",
+  "count": 2535,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -124,6 +124,48 @@
         }
       ],
       "_attAt": "2026-11-24T23:06:49.675675+00:00"
+    },
+    {
+      "title": "'찾아가는 밀라노 도서전' 온라인 화상상담회로 유럽 출판시장 겨냥",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790637",
+      "agency": "문화체육관광부",
+      "agencyCode": "mcst",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "'찾아가는 밀라노 도서전' 온라인 화상상담회로 유럽 출판시장 겨냥 관련 보도자료 내용입니다. 자세한 사항은 붙임파일([1125]문체부보도자료-찾아가는 밀라노 도서전 온라인 화상상담회 진행.pdf)을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595781&tblKey=GMN",
+          "filename": "[1125]문체부보도자료-찾아가는 밀라노 도서전 온라인 화상상담회 진행.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595780&tblKey=GMN",
+          "filename": "[1125]문체부보도자료-찾아가는 밀라노 도서전 온라인 화상상담회 진행.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T23:21:41.922285+00:00"
+    },
+    {
+      "title": "[보도참고] 약 봉투에서 만나는 의약품 부작용 피해구제 제도, QR코드로 간편하게",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790638",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "[보도참고] 약 봉투에서 만나는 의약품 부작용 피해구제 제도, QR코드로 간편하게",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595782&tblKey=GMN",
+          "filename": "[26.11.25.(수) 보도참고자료] 약 봉투에서 만나는 의약품 부작용 피해구제 제도, QR코드로 간편하게.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595783&tblKey=GMN",
+          "filename": "[26.11.25.(수) 보도참고자료] 약 봉투에서 만나는 의약품 부작용 피해구제 제도, QR코드로 간편하게.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T23:21:41.922285+00:00"
     },
     {
       "title": "인공지능(AI)과 로봇이 바꾸는 건설 현장, 안전하고 더 스마트한 미래를 열다",
