@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T09:49:06.385709+00:00",
-  "count": 2628,
+  "updated": "2026-11-24T10:04:10.511447+00:00",
+  "count": 2629,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1187,7 +1187,8 @@
           "filename": "[별첨] 2026 한국인체자원은행사업(KBP) 심포지엄 발표자료.pdf"
         }
       ],
-      "_attAt": "2026-11-24T04:04:02.605224+00:00"
+      "_attAt": "2026-11-24T10:04:03.453204+00:00",
+      "_attRev": 1
     },
     {
       "title": "1초만에 새어나가는 10년의 땀... 예방·점검·처벌 강화로 기술 사수",
@@ -1208,7 +1209,8 @@
           "filename": "1123(24석간, 24일(화) 11시50분엠바고)기술안보과, 1초만에 새어나가는 10년의 땀...예방·점검·처벌 강화로 기술 사수.pdf"
         }
       ],
-      "_attAt": "2026-11-24T04:04:02.605224+00:00"
+      "_attAt": "2026-11-24T10:04:03.453204+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"내달 3일부터 질병휴직 대신 '난임휴직' 쓴다\"",
@@ -1220,16 +1222,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198595269&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595293&tblKey=GMN",
           "filename": "261124 (국무회의 종료 시) “내달 3일부터 질병휴직 대신 ‘난임휴직’ 쓴다”(지방인사제도과)(관계부처합동).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198595270&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595294&tblKey=GMN",
           "filename": "261124 (국무회의 종료 시) “내달 3일부터 질병휴직 대신 ‘난임휴직’ 쓴다”(지방인사제도과)(관계부처합동).pdf"
         }
       ],
-      "_attAt": "2026-11-24T04:04:02.605224+00:00"
+      "_attAt": "2026-11-24T10:04:03.453204+00:00",
+      "_attRev": 1
     },
     {
       "title": "교육부 '수능 부정행위 대응팀(TF)' 본격 가동",
@@ -2415,6 +2418,27 @@
         }
       ],
       "_attAt": "2026-11-24T09:49:02.887407+00:00"
+    },
+    {
+      "title": "외교부, 중동 지역 공관과 재외국민 안전대책 점검(11.24.)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790609",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "외교부는 11.24(화) 오후 조주성 해외안전기획관 주재로 중동 지역 15개 공관*이 참석한 가운데 본부-공관 합동 상황점검회의를 개최하여 최근 중동 지역 정세를 평가하고 현지 체류 우리 국민의 안전대책을 점검했다. * 주사우디아라비아대사관, 주젯다총영사관, 주예멘대사관, 주이란대사관, 주이스라엘대사관, 주쿠웨이트대사관, 주요르단대사관, 주바레인대사관, 주이라크대사관, 주아르빌분관, 주레바논대사관, 주카타르대사관, 주오만대사관, 주UAE대사관, 주두바이총영사관 조 기획관은 \"사우디아라비아 주도 연합군과 후티 반군간 교전이 계속되고 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595717&tblKey=GMN",
+          "filename": "[26-971](보도자료)외교부, 중동 지역 공관과 재외국민 안전대책 점검(11.24).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595718&tblKey=GMN",
+          "filename": "[26-971](보도자료)외교부, 중동 지역 공관과 재외국민 안전대책 점검(11.24).pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T10:04:03.453204+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
