@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T04:49:12.936637+00:00",
-  "count": 2583,
+  "updated": "2026-11-24T05:04:07.165307+00:00",
+  "count": 2585,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1441,6 +1441,53 @@
         }
       ],
       "_attAt": "2026-11-24T04:49:01.515263+00:00"
+    },
+    {
+      "title": "기업이 제안한 기술수요, 정부 연구개발로 이어진다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790546",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "- 과기정통부, 「2026년 민관 연구개발 혁신포럼」 개최 - - 200여 개 기업 발굴 수요 '27년도 정부 연구개발 예산안 약 3,600억 원 규모 반영 -- 산업계 기술수요 및 제도개선 의견을 담은 전략보고서 정부에 전달 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595354&tblKey=GMN",
+          "filename": "261125 조간 (보도) 기업이 제안한 기술수요, 정부 R&amp;D로 이어진다 2026년 민관R&amp;D 혁신포럼 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595355&tblKey=GMN",
+          "filename": "261125 조간 (보도) 기업이 제안한 기술수요, 정부 R&amp;D로 이어진다 2026년 민관R&amp;D 혁신포럼 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T05:04:01.650877+00:00"
+    },
+    {
+      "title": "산림청, 산불진화차 전문 운용자 양성 위해 2년 연속 軍과 맞손",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790544",
+      "agency": "산림청",
+      "agencyCode": "forest",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "산림청, 산불진화차 전문 운용자 양성 위해 2년 연속 軍과 맞손- 제2수송교육연대와 협력해 산악 주행·차량 운용 교육 실시…현장 대응역량 강화 - 산림청(청장 박은식)은 23일부터 24일까지 육군 군수학교 예하 제2수송교육연대와 협력해 산불진화대원 50명을 대상으로 산불진화차 전문 운용 교육·훈련을 실시했다고 밝혔다. 이번 교육은 지난해에 이어 2년 연속 추진하는 것으로, 산림청이 올해까지 총 76대를 도입한 군용차량(K-351C) 기반 다목적산불진화차의 운용 전문성을 높이기 위해 마련됐다. 아울러 산림청 자체 교관을 중심으로 고성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595348&tblKey=GMN",
+          "filename": "(261124)보도자료-산림청，_산불진화차_전문_운용자_양성_위해_2년_연속_軍과_맞손.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595349&tblKey=GMN",
+          "filename": "(261124)보도자료-산림청，_산불진화차_전문_운용자_양성_위해_2년_연속_軍과_맞손.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595347&tblKey=GMN",
+          "filename": "(261124)보도자료-산림청，_산불진화차_전문_운용자_양성_위해_2년_연속_軍과_맞손.hwp"
+        }
+      ],
+      "_attAt": "2026-11-24T05:04:01.650877+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
