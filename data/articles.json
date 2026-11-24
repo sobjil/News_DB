@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:04:18.369885+00:00",
-  "count": 2618,
+  "updated": "2026-11-24T08:19:07.534080+00:00",
+  "count": 2620,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2187,6 +2187,48 @@
         }
       ],
       "_attAt": "2026-11-24T08:04:02.653610+00:00"
+    },
+    {
+      "title": "'개인정보 유출 통지' 사칭 악성메일 주의 개인정보위, 피해예방 수칙 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790597",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "'개인정보 유출 통지' 사칭 악성메일 주의 개인정보위, 피해예방 수칙 안내- 개인정보위 직원을 사칭한 악성메일 및 첨부파일 실행 유도 사례 발견- 공식 채널을 통한 교차 검증, 악성코드 감염시 네크워크 즉시 차단 등개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 최근 개인정보위 직원을 사칭하여 개인정보가 유출된 사실을 안내하고, 악성 코드가 심어진 첨부파일을 열도록 유도하는 악성메일이 유포되고 있어 이용자들의 각별한 주의가 요구된다고 밝혔다. 공격자들은 개인정보위 등 실제 존재하는 공공기관이나 기업의 직원을 사칭하여, 당해",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595667&tblKey=GMN",
+          "filename": "[261124 즉시 보도] 개인정보 유출 통지 사칭 악성메일 주의. 개인정보위 피해예방 수칙 안내(대변인실).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595668&tblKey=GMN",
+          "filename": "[261124 즉시 보도] 개인정보 유출 통지 사칭 악성메일 주의. 개인정보위 피해예방 수칙 안내(대변인실).pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T08:19:02.777474+00:00"
+    },
+    {
+      "title": "제11회 우주개발진흥실무위원회 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790596",
+      "agency": "우주항공청",
+      "agencyCode": "kasa",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "우주항공청(청장 오태석)은 11월 24일(화) 세종 메리어트호텔에서 제11회 우주개발진흥실무위원회를 개최하였다. 우주개발진흥실무위원회는 「우주개발 진흥법 시행령」 제6조에 근거하여 설치된 위원회로, 우주항공청장을 위원장으로 국가 우주개발 관련 안건을 사전 검토하는 등 국가우주위원회의 효율적 운영을 지원한다. 특히 이번 회의는 지난 9월 새롭게 위촉된 제2기 민간위원이 처음 참여한 회의이다. 이번 우주개발진흥실무위원회(이하 '위원회')에는 우주수송 역량 확대 전략과 정지궤도 환경·해양위성(천리안위성 6호) 개발계획 등 우주개발 분야 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595666&tblKey=GMN",
+          "filename": "261125(조간) 제11회 우주개발진흥실무위원회 개최.hwpx"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595665&tblKey=GMN",
+          "filename": "261125(조간) 제11회 우주개발진흥실무위원회 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-11-24T08:19:02.777474+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
