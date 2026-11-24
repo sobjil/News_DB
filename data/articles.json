@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T11:04:07.026672+00:00",
-  "count": 2630,
+  "updated": "2026-11-24T11:19:06.363395+00:00",
+  "count": 2631,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2474,6 +2474,27 @@
         }
       ],
       "_attAt": "2026-11-24T10:34:10.737206+00:00"
+    },
+    {
+      "title": "중앙행정기관 등의 이전계획 변경안 확정 고시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790632",
+      "agency": "행정안전부",
+      "agencyCode": "mois",
+      "pubDate": "2026-11-24T00:00:00+09:00",
+      "description": "- 31개 기관 5,460명 2031년까지 세종으로, 22개 기관은 2027년 먼저 이전 - 법령 개정 필요 13개 기관은 추가 고시 행정안전부(장관 윤호중)는 11월 24일(화) ｢중앙행정기관 등의 이전계획 변경｣을 고시하고, 31개 기관 공무원 5,460명*을 2031년까지 세종으로 이전한다고 밝혔다. * 2026. 9. 29. 字 공무원 정원 기준 이번 고시는 정부가 지난 10월 13일 발표한 이전 대상 44개 기관 가운데, 전문가 자문과 관계부처 협의, 공청회 등을 거쳐 현행 법령상 이전이 가능한 31개 기관의 이전계획을 담",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595767&tblKey=GMN",
+          "filename": "261124 (20시) 중앙행정기관 등의 이전계획 변경안 확정 고시(청사기획과).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595768&tblKey=GMN",
+          "filename": "261124 (20시) 중앙행정기관 등의 이전계획 변경안 확정 고시(청사기획과).pdf"
+        }
+      ],
+      "_attAt": "2026-11-24T11:19:02.408917+00:00"
     },
     {
       "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
