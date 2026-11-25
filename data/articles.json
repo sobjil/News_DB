@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T09:22:54.028870+00:00",
-  "count": 2676,
+  "updated": "2026-11-25T09:37:46.454290+00:00",
+  "count": 2677,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3218,6 +3218,27 @@
         }
       ],
       "_attAt": "2026-11-25T09:22:41.676744+00:00"
+    },
+    {
+      "title": "[보도자료] 제3회 국토대전환 미래전략 포럼",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790844",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "저성장 시대, 지역의 성장이 대한민국의 새로운 성장동력- 제3회 「국토대전환 미래전략 포럼」 개최... 지방주도 성장전략 논의- 전문가 라운드테이블을 통해 지역의 산업·인재·생활권 혁신방안 모색□ 국무조정실은 국회 더불어민주당 메가프로젝트 및 지방성장지원 특별위원회, 한국개발연구원과 공동으로 11월 25일(수) 14시 여의도 중소기업중앙회 2층 상생룸에서 ｢제3회 국토대전환 미래전략 포럼｣을 개최했다.ㅇ 이번 포럼은 '일극을 넘어 다극으로, 대한민국의 다음 성장을 열다'를 주제로, 수도권 집중에 대응하고 지역의 새로운 성장동력을 확",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596632&tblKey=GMN",
+          "filename": "261125_제3회 국토대전환 미래전략 포럼 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596633&tblKey=GMN",
+          "filename": "261125_제3회 국토대전환 미래전략 포럼 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-11-25T09:37:43.428936+00:00"
     },
     {
       "title": "인공지능(AI)과 로봇이 바꾸는 건설 현장, 안전하고 더 스마트한 미래를 열다",
