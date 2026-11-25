@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T04:36:53.266434+00:00",
-  "count": 2606,
+  "updated": "2026-11-25T04:51:48.946929+00:00",
+  "count": 2607,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1685,6 +1685,27 @@
         }
       ],
       "_attAt": "2026-11-25T04:36:44.534614+00:00"
+    },
+    {
+      "title": "사회혁신 창업의 도전, 정부·민간이 함께 응원",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790724",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "-노동부 차관,「2026 임팩트프러너 데이」에서 청년 등 사회혁신 창업 활성화 및 민간 협력을 통한 사회적기업 성장 생태계 확대 강조 고용노동부(장관 김영훈) 권창준 차관은 11월 25일(수) 플렌티컨벤션에서 현대차 정몽구 재단이 주최한 「2026 임팩트프러너 데이」에 참석해 사회문제 해결에 도전하는 기업가들을 격려했다. 이번 행사는 사회적 가치를 창출하는 기업가들의 도전과 성장 경험을 공유하고, 투자자·협력기관 등과 교류하며 새로운 협력 기회를 모색하기 위해 마련되었다. 고용노동부와 현대차 정몽구 재단은 2012년과 2018년 두",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596086&tblKey=GMN",
+          "filename": "261125_보도자료_2026 임팩트프러너 데이 행사.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596085&tblKey=GMN",
+          "filename": "261125_보도자료_2026 임팩트프러너 데이 행사.pdf"
+        }
+      ],
+      "_attAt": "2026-11-25T04:51:43.722469+00:00"
     },
     {
       "title": "인공지능(AI)과 로봇이 바꾸는 건설 현장, 안전하고 더 스마트한 미래를 열다",
@@ -4132,17 +4153,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198595763&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595965&tblKey=GMN",
           "filename": "(참고자료)통상법무기획과, EU, 수입 하이브리드 자동차에 대한 글로벌 세이프가드 잠정조치 발표.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198595762&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198595966&tblKey=GMN",
           "filename": "(참고자료)통상법무기획과, EU, 수입 하이브리드 자동차에 대한 글로벌 세이프가드 잠정조치 발표.pdf"
         }
       ],
-      "_attAt": "2026-11-24T22:36:55.823502+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-25T04:51:43.722469+00:00",
+      "_attRev": 3
     },
     {
       "title": "중앙행정기관 등의 이전계획 변경안 확정 고시",
