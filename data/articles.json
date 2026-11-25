@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T11:53:08.226225+00:00",
-  "count": 2680,
+  "updated": "2026-11-25T12:07:51.124794+00:00",
+  "count": 2682,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -3348,6 +3348,48 @@
         }
       ],
       "_attAt": "2026-11-25T10:07:42.934062+00:00"
+    },
+    {
+      "title": "한-오만 외교장관회담(11.25.) 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790870",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "조현 외교장관은 11.25.(수) 외교부 청사에서 바드르 빈 하마드 빈 하무드 알 부사이디 (H.E. Sayyid Badr bin Hamad bin Hamood Al Busaidi) 오만 외교장관과 회담을 갖고, ▴양국 관계, ▴고위급 교류, ▴에너지·인프라 등 실질협력, ▴중동정세에 대해 폭넓게 의견을 교환하였다. 조 장관은 오만 외교장관으로서는 26년 만에 방한하는 알 부사이디 장관의 이번 방문을 환영하고, 중동정세가 불안정한 가운데서도 양국이 지난 3월 외교장관 통화, 4월 대통령 특사 오만 방문 등을 통해 긴밀히 소통해왔다고",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596708&tblKey=GMN",
+          "filename": "[26-978](보도자료) 한-오만 외교장관회담(11.25.) 결과.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596709&tblKey=GMN",
+          "filename": "[26-978](보도자료) 한-오만 외교장관회담(11.25.) 결과.pdf"
+        }
+      ],
+      "_attAt": "2026-11-25T12:07:42.125416+00:00"
+    },
+    {
+      "title": "김진아 외교부 제2차관, 한국국제교류재단 제주 본부 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790869",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-25T00:00:00+09:00",
+      "description": "김진아 외교부 제2차관은 11월 25일 한국국제교류재단(KF)을 방문하여, 재단의 2026년 추진 성과 및 중장기 추진 방향에 대한 업무보고를 받고, 직원 간담회를 가졌다.※ 한국국제교류재단은 1991년 설립된 외교부 산하 공공기관으로, ▴해외 한국학 진흥, ▴국제 인적교류 및 ▴국제 문화 교류 등 분야에서 공공외교 사업을 추진하고 있는 공공외교 추진기관으로, 2018년 제주도 서귀포시로 이전한 이래, 제주도 본부, 서울 글로벌센터, 부산아세안문화원으로 운영되고 있다. 김 차관은 재단의 중장기 사업 추진 방향과 관련하여, KF 설립",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596706&tblKey=GMN",
+          "filename": "[26-977](보도자료) 김진아 외교부 제2차관, 한국국제교류재단 제주 본부 방문.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596705&tblKey=GMN",
+          "filename": "[26-977](보도자료) 김진아 외교부 제2차관, 한국국제교류재단 제주 본부 방문.hwp"
+        }
+      ],
+      "_attAt": "2026-11-25T12:07:42.125416+00:00"
     },
     {
       "title": "인공지능(AI)과 로봇이 바꾸는 건설 현장, 안전하고 더 스마트한 미래를 열다",
