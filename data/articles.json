@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T06:07:44.727308+00:00",
-  "count": 2696,
+  "updated": "2026-11-26T06:22:50.573826+00:00",
+  "count": 2700,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -265,16 +265,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198596747&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596769&tblKey=GMN",
           "filename": "261126 [방사청 보도자료] 2026년 국방 표준화 발전 토론회 개최.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198596746&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596768&tblKey=GMN",
           "filename": "261126 [방사청 보도자료] 2026년 국방 표준화 발전 토론회 개최.pdf"
         }
       ],
-      "_attAt": "2026-11-26T00:07:41.448714+00:00"
+      "_attAt": "2026-11-26T06:22:42.415357+00:00",
+      "_attRev": 1
     },
     {
       "title": "\"사람과 기술이 함께 성장하는 반도체 산업\" 김영훈 장관, 반도체 연구개발 종사자들과 근로시간제도 운영 실태 등 현장 의견 청취",
@@ -2258,6 +2259,95 @@
         }
       ],
       "_attAt": "2026-11-26T06:07:41.296255+00:00"
+    },
+    {
+      "title": "2026 라틴아메리카 협력센터 심포지엄 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791019",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "외교부는 11.26.(목) '글로벌 통상환경 변화와 한-중남미 경제협력의 새로운 기회'를 주제로 「2026 라틴아메리카 협력센터 심포지엄」을 개최하였다. 올해로 18회째를 맞는 동 심포지엄은 우리 국민과 기업에 중남미 시장 동향 및 진출 정보를 제공하고, 유관 분야 관계자 간 네트워크 강화를 지원하기 위해 2010년부터 개최해 온 행사이다. ※ 행사 프로그램(상세 내용 붙임 행사 포스터 참고) - (1세션) 글로벌 통상환경 변화와 대중남미 K-이니셔티브 진출 지원 : 한국외국어대학교, KOTRA, 한국제약바이오협회, 대웅제약, CA",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597325&tblKey=GMN",
+          "filename": "[26-981](보도자료) 2026 라틴아메리카 협력센터 심포지엄 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597324&tblKey=GMN",
+          "filename": "[26-981](보도자료) 2026 라틴아메리카 협력센터 심포지엄 개최.hwp"
+        }
+      ],
+      "_attAt": "2026-11-26T06:22:42.415357+00:00"
+    },
+    {
+      "title": "「2026 개인정보 미래포럼」 제5차 전체회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791021",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "「2026 개인정보 미래포럼」 제5차 전체회의 개최- 인공지능 시대 개인정보 제도 혁신 방안 및 데이터 이익공유제 구상 논의 개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 11월 26일(목) 제5차 ｢2026 개인정보 미래포럼*｣ 전체회의를 개최했다. * 전문가들이 개인정보 분야 중요 아젠다를 선제적으로 논의하고 현장의 의견을 수렴하는 '개인정보 정책 토론의 장'으로 학계·법조계·산업계·시민사회 등의 전문가 40명으로 구성 올해 다섯 번째 열리는 이번 미래포럼에서는 \"인공지능 시대 개인정보 제도 혁신 방안\"과 \"데이터 이",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597333&tblKey=GMN",
+          "filename": "[261126 15시보도] 2026 개인정보 미래포럼 제5차 전체회의 개최(혁신기획담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597332&tblKey=GMN",
+          "filename": "[261126 15시보도] 2026 개인정보 미래포럼 제5차 전체회의 개최(혁신기획담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T06:22:42.415357+00:00"
+    },
+    {
+      "title": "개인정보위, 인공지능 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791020",
+      "agency": "개인정보보호위원회",
+      "agencyCode": "pipc",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "개인정보위, 인공지능 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상- 범죄자 음성정보를 보이스피싱 예방 인공지능 개발·검증에 활용하도록 특례 인정 - 통신 3사에 이어 올해 휴대폰 단말기 기본 탑재까지 확대 추진개인정보보호위원회(위원장 송경희, 이하 '개인정보위')는 2026년 11월 25일(수) 정부 세종청사에서 열린 ｢2026 적극행정 우수사례 경진대회｣ 본선에서 인공지능 기반 실시간 보이스피싱 탐지 서비스 지원 사례로 대상(대통령상)을 수상했다고 밝혔다. 이로써 개인정보위는 적극행정 우수사례 경진대회에서 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597331&tblKey=GMN",
+          "filename": "[261126 즉시보도] 개인정보위, AI 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상(법무감사담당관).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597330&tblKey=GMN",
+          "filename": "[261126 즉시보도] 개인정보위, AI 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상(법무감사담당관).pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T06:22:42.415357+00:00"
+    },
+    {
+      "title": "국가데이터처, 실용통계교육 컨퍼런스 개최 보도자료",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791022",
+      "agency": "국가데이터처",
+      "agencyCode": "mods",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "국가데이터처(처장 안형준) 국가데이터인재개발원은 오는 11월 26일(목) 서울 LW컨벤션 그랜드볼룸에서 충청남도교육청과 공동으로 「2026년 실용통계교육 컨퍼런스」를 개최하였다. 이번 컨퍼런스는 '학교 현장에 스며드는 실용 통계교육과 AI(인공지능)·데이터교육 : 통계 적합형 미래 인재 양성'이라는 부제로, 급변하는 AI(인공지능)·디지털 전환 시대에 대응하여 현장의 요구를 반영한 실용 통계교육의 발전 방향을 모색하기 위해 마련되었다. 특히 이번 컨퍼런스는 충청남도교육청과 공동주최하여 그동안 실용 통계 교육 분야에서 거둔 우수한 성",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597337&tblKey=GMN",
+          "filename": "국가데이터처 실용통계교육 컨퍼런스 개최(보도자료).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597338&tblKey=GMN",
+          "filename": "국가데이터처 실용통계교육 컨퍼런스 개최(보도자료).pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597336&tblKey=GMN",
+          "filename": "국가데이터처 실용통계교육 컨퍼런스 개최(보도자료).hwp"
+        }
+      ],
+      "_attAt": "2026-11-26T06:22:42.415357+00:00"
     },
     {
       "title": "[보도참고] 식약처, 국내 의약품 개발 지원을 위한 특허정보 공개",
