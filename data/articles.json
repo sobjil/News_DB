@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T22:52:44.298938+00:00",
-  "count": 2603,
+  "updated": "2026-11-26T23:07:53.557871+00:00",
+  "count": 2608,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -198,6 +198,111 @@
         }
       ],
       "_attAt": "2026-11-26T22:22:46.055188+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 의약품 부작용 예측을 위한 통합 데이터 플랫폼 시범운영 착수",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791108",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 의약품 부작용 예측을 위한 통합 데이터 플랫폼 시범운영 착수",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597792&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 식약처, 의약품 부작용 예측을 위한 통합 데이터 플랫폼 시범운영 착수.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597791&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 식약처, 의약품 부작용 예측을 위한 통합 데이터 플랫폼 시범운영 착수.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T23:07:43.759958+00:00"
+    },
+    {
+      "title": "[보도참고] 식약처, 국제 식품위생 기준 논의에서 우리나라 의견 적극 제시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791107",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "[보도참고] 식약처, 국제 식품위생 기준 논의에서 우리나라 의견 적극 제시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597789&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 식약처, 국제 식품위생 기준 논의에서 우리나라 의견 적극 제시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597790&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 식약처, 국제 식품위생 기준 논의에서 우리나라 의견 적극 제시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T23:07:43.759958+00:00"
+    },
+    {
+      "title": "식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791106",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597788&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597787&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T23:07:43.759958+00:00"
+    },
+    {
+      "title": "식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791105",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597785&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597786&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T23:07:43.759958+00:00"
+    },
+    {
+      "title": "식약처, 식품.의약품 등 시험.검사기관 기획 점검 실시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791104",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "식약처, 식품.의약품 등 시험.검사기관 기획 점검 실시",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597783&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 식품.의약품 등 시험.검사기관 기획 점검 실시.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597784&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도자료] 식약처, 식품.의약품 등 시험.검사기관 기획 점검 실시.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T23:07:43.759958+00:00"
     },
     {
       "title": "주택시장 안정과 주거복지 향상, 금융·인공지능(AI) 활용 방안 찾는다",
