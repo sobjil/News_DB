@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T18:53:15.943894+00:00",
-  "count": 2596,
+  "updated": "2026-11-26T19:07:45.937215+00:00",
+  "count": 2597,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -62,6 +62,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "땅속 광섬유로 '작은 지진'의 파열 순간을 1000분의 1초 단위로 포착",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791097",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "- 0.042초 간격 두 차례로 나뉜 '조각난 파열', 작은 지진의 복잡한 발생 과정 규명-- 서울대 김영희 교수 연구팀, 사이언스(Science)誌 게재… 대도시 지진 모니터링 새 지평 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597756&tblKey=GMN",
+          "filename": "261127 조간 (보도) 땅속 광섬유로 ‘작은 지진’의 파열 순간을 1000분의 1초 단위로 포착 (1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597757&tblKey=GMN",
+          "filename": "261127 조간 (보도) 땅속 광섬유로 ‘작은 지진’의 파열 순간을 1000분의 1초 단위로 포착 (1).pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T19:07:42.636419+00:00"
+    },
     {
       "title": "주택시장 안정과 주거복지 향상, 금융·인공지능(AI) 활용 방안 찾는다",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790872",
