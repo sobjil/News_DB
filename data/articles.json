@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T05:52:52.716517+00:00",
-  "count": 2695,
+  "updated": "2026-11-26T06:07:44.727308+00:00",
+  "count": 2696,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2232,6 +2232,32 @@
         }
       ],
       "_attAt": "2026-11-26T05:52:41.025909+00:00"
+    },
+    {
+      "title": "2026년도 재외공관장회의 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791017",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "2026년도 재외공관장회의가 11.30.(월)-12.4.(금)간 서울에서 대사와 총영사 등 재외공관장이 참석한 가운데 개최된다. ※ 직전 대면 공관장회의는 2024년 4월 개최 현 정부 출범 후 처음 개최하는 이번 회의는 「국익 중심 실용외교, 대체불가 대한민국」을 주제로, 글로벌 위기와 도전 속에서 국민과 함께하는 국민주권정부의 국정 철학과 국익 중심 실용외교의 추진 방향을 공유하고, 이를 구체적인 성과로 연결하기 위한 재외공관의 역할과 실행 방안을 집중 논의하기 위하여 마련되었다. 특히 재외공관장회의 일정 중에는 사상 최초 생중",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597314&tblKey=GMN",
+          "filename": "[26-980](보도자료) 2026년도 재외공관장회의 개최.pdf"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597313&tblKey=GMN",
+          "filename": "[26-980](보도자료) 2026년도 재외공관장회의 개최.hwp"
+        },
+        {
+          "ext": "hwp",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597315&tblKey=GMN",
+          "filename": "붙임_2026년도 재외공관장회의 일정.hwp"
+        }
+      ],
+      "_attAt": "2026-11-26T06:07:41.296255+00:00"
     },
     {
       "title": "[보도참고] 식약처, 국내 의약품 개발 지원을 위한 특허정보 공개",
