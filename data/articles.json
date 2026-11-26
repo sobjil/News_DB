@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T07:22:58.624890+00:00",
-  "count": 2712,
+  "updated": "2026-11-26T07:37:50.586912+00:00",
+  "count": 2713,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -907,7 +907,8 @@
           "filename": "[26.11.26.(목) 보도자료] 해외 밀반입부터 국내 불법 판매까지, 무허가 수입 의약품 등 유통 일당 적발.pdf"
         }
       ],
-      "_attAt": "2026-11-26T01:37:44.137340+00:00"
+      "_attAt": "2026-11-26T07:37:45.355160+00:00",
+      "_attRev": 1
     },
     {
       "title": "행안부·국토부, 관계기관과 함께 도로살얼음 사고 예방 캠페인 전개",
@@ -919,16 +920,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198596919&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596966&tblKey=GMN",
           "filename": "261126(석간) 행안부·국토부 관계기관과 함께 도로살얼음 사고 예방 캠페인 전개(도로관리과).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198596920&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198596967&tblKey=GMN",
           "filename": "261126(석간) 행안부·국토부 관계기관과 함께 도로살얼음 사고 예방 캠페인 전개(도로관리과).pdf"
         }
       ],
-      "_attAt": "2026-11-26T01:37:44.137340+00:00"
+      "_attAt": "2026-11-26T07:37:45.355160+00:00",
+      "_attRev": 1
     },
     {
       "title": "행안부·국토부, 관계기관과 함께 도로살얼음 사고 예방 캠페인 전개",
@@ -2627,6 +2629,22 @@
         }
       ],
       "_attAt": "2026-11-26T07:22:42.921626+00:00"
+    },
+    {
+      "title": "제4차 기후위기대응 권역별 포럼 개최(경기)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791043",
+      "agency": "국가기후위기대응위원회",
+      "agencyCode": "",
+      "pubDate": "2026-11-26T00:00:00+09:00",
+      "description": "국가 기후위·경기도, 기후위기 취약계층보호를 위한 포용적 정책 방향 논의 - 「제4차 기후위기대응 권역별 포럼」 개최… 정부·지자체·전문가 등이 모여기후위기 취약계층 보호 체계 마련과 적응역량 강화를 위한 방안 모색 □ 국가기후위기대응위원회(위원장 한성숙 국무총리, 민간위원장 이창훈, 이하 '기후위')와 경기도는 11월 26일(목) 경기신용보증재단 대강당에서 「기후정의 실현을 위한 포용적 기후위기 대응 방안」을 주제로 제4차 기후위기대응 권역별 포럼을 개최했다. ㅇ 이날 행사에는 이창훈 기후위 민간위원장과 추미애 경기도지사, 남종섭",
+      "attachments": [
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198597468&tblKey=GMN",
+          "filename": "(261126) 국가 기후위-경기도, 기후위기 취약계층 보호를 위한 포용적 정책 방향 논의.pdf"
+        }
+      ],
+      "_attAt": "2026-11-26T07:37:45.355160+00:00"
     },
     {
       "title": "[보도참고] 식약처, 국내 의약품 개발 지원을 위한 특허정보 공개",
