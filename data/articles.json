@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T07:07:58.407312+00:00",
-  "count": 2695,
+  "updated": "2026-11-27T07:22:47.632057+00:00",
+  "count": 2697,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -2161,6 +2161,48 @@
         }
       ],
       "_attAt": "2026-11-27T07:07:44.581556+00:00"
+    },
+    {
+      "title": "[장관동정] 홍지선 장관, 27일 부전~마산 복선전철 및 반송？반여지구 정책이주지 현장 방문",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791225",
+      "agency": "국토교통부",
+      "agencyCode": "molit",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "[장관동정] 홍지선 장관, 27일 부전~마산 복선전철 및 반송반여지구 정책이주지 현장 방문 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다.",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598361&tblKey=GMN",
+          "filename": "261127(동정)_홍지선_장관__27일_부전~마산_복선전철_및_반송·반여지구_정책이주지_현장_방문(철도투자개발과_등).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598362&tblKey=GMN",
+          "filename": "261127(동정)_홍지선_장관__27일_부전~마산_복선전철_및_반송·반여지구_정책이주지_현장_방문(철도투자개발과_등).pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T07:22:43.073452+00:00"
+    },
+    {
+      "title": "[보도참고] 알레르기 미표시 '건강기능식품' 회수 조치",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791226",
+      "agency": "식품의약품안전처",
+      "agencyCode": "mfds",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "[보도참고] 알레르기 미표시 '건강기능식품' 회수 조치",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598397&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 알레르기 미표시 ‘건강기능식품’ 회수 조치.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598396&tblKey=GMN",
+          "filename": "[26.11.27.(금) 보도참고자료] 알레르기 미표시 ‘건강기능식품’ 회수 조치.pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T07:22:43.073452+00:00"
     },
     {
       "title": "주택시장 안정과 주거복지 향상, 금융·인공지능(AI) 활용 방안 찾는다",
