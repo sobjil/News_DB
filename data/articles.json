@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T06:08:07.072359+00:00",
-  "count": 2689,
+  "updated": "2026-11-27T06:22:49.339183+00:00",
+  "count": 2692,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1965,7 +1965,7 @@
       "_attAt": "2026-11-27T06:07:41.899514+00:00"
     },
     {
-      "title": "국방과학연구소, 대한민국 내부통제경영대상에서 '대상' 수상",
+      "title": "[국과연] 국방과학연구소, 대한민국 내부통제경영대상에서 '대상' 수상",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791212",
       "agency": "방위사업청",
       "agencyCode": "dapa",
@@ -2026,6 +2026,69 @@
         }
       ],
       "_attAt": "2026-11-27T06:07:41.899514+00:00"
+    },
+    {
+      "title": "퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791220",
+      "agency": "보건복지부",
+      "agencyCode": "mw",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유- 국립재활원 2026년 사회복귀 세미나 개최 -- 사후관리 지원사업 성과와 방문재활재택관리 실천사례 공유 통해 퇴원환자 재활관리 방안 모색 - 국립재활원(원장 김동아)은 11월 27일(금) 10시 국립재활원 나래관 중강당에서 「병원에서 지역사회까지, 연속적 재활관리 체계 구축」을 주제로 2026년 사회복귀 세미나를 개최했다. 이번 세미나에는 전국 재활의료기관 및 보건소, 지역장애인보건의료센터 의료사회복지사, 물리치료사, 작업치료사 등 관계자 13",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598313&tblKey=GMN",
+          "filename": "[보도참고자료] 퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598314&tblKey=GMN",
+          "filename": "[보도참고자료] 퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유.pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T06:22:43.518720+00:00"
+    },
+    {
+      "title": "국민이 체감하고 제안하는 인공지능(AI) 고용서비스 발굴, 「고용24 국민참여 인공지능(AI) 고용서비스 발굴 온라인 해커톤」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791216",
+      "agency": "고용노동부",
+      "agencyCode": "moel",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "- 총 531건 접수, 서면·기능 심사 거쳐 10팀 최종 선정…대상(고용노동부 장관상) 등 총상금 1,000만 원 시상고용노동부(장관 김영훈)와 한국고용정보원(원장 이창수)이 11월 27일(금) 서울 NEST 광진에서「고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤」 본선 심사와 시상식을 개최한다고 밝혔다.* 고용노동부 주최, 한국고용정보원 주관 / 전체 행사 기간 '26. 9. 21.(월)~11. 27.(금) 이번 해커톤은 국가 고용서비스 통합포털 '고용24'의 실수요자인 국민이 아이디어 제안에 그치지 않고 개발 단계까지 직",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598298&tblKey=GMN",
+          "filename": "261127_보도자료_고용24 국민참여 AI고용서비스 발굴 온라인 해커톤 개최(한국고용정보원).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598297&tblKey=GMN",
+          "filename": "261127_보도자료_고용24 국민참여 AI고용서비스 발굴 온라인 해커톤 개최(한국고용정보원).pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T06:22:43.518720+00:00"
+    },
+    {
+      "title": "「물로 여는 평화 한반도 상생협력 대토론회」 개최",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791215",
+      "agency": "통일부",
+      "agencyCode": "unikorea",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "한반도 물길에서 찾는 평화·상생의 해법통일부-기후부-국가물관리위원회 공동으로, 11월 27일「물로 여는 평화, 한반도 상생협력 대토론회」 개최 - 【관련 국정과제】 40. 남북 기후·환경협력 과제 발굴·추진□ 통일부(장관 정동영)와 기후에너지환경부(장관 김성환), 대통령 직속 국가물관리위원회(민간위원장 김좌관)가 공동 주관하고, 국회물포럼(회장 한정애 국회의원)이 주최하는 ｢물로 여는 평화, 한반도 상생협력 대토론회｣가 11월 27일(금) 서울가든호텔에서 개최된다. o 이번 토론회는 기후변화로 인한 자연재해 위험이 증가하는 가운데,",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598291&tblKey=GMN",
+          "filename": "261126 (합동 보도자료) 「물로 여는 평화 한반도 상생협력 대토론회」 개최.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598292&tblKey=GMN",
+          "filename": "261126 (합동 보도자료) 「물로 여는 평화 한반도 상생협력 대토론회」 개최.pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T06:22:43.518720+00:00"
     },
     {
       "title": "주택시장 안정과 주거복지 향상, 금융·인공지능(AI) 활용 방안 찾는다",
