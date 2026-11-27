@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T10:38:02.043860+00:00",
-  "count": 2714,
+  "updated": "2026-11-27T10:52:51.834806+00:00",
+  "count": 2715,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -1717,16 +1717,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198598176&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598200&tblKey=GMN",
           "filename": "20261127(최종배포) 병역처분은 공정하게, 부정한 병멱면탈은 끝까지 확인합니다.hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198598177&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598201&tblKey=GMN",
           "filename": "20261127(최종배포) 병역처분은 공정하게, 부정한 병멱면탈은 끝까지 확인합니다.pdf"
         }
       ],
-      "_attAt": "2026-11-27T04:52:41.943998+00:00"
+      "_attAt": "2026-11-27T10:52:42.860942+00:00",
+      "_attRev": 1
     },
     {
       "title": "[보도참고] 식약처, 무균의약품 GMP 이행지원 가이드라인 2종 제정",
@@ -1747,7 +1748,8 @@
           "filename": "[26.11.27.(금) 보도참고자료] 식약처, 무균의약품 GMP 이행지원 가이드라인 2종 제정.pdf"
         }
       ],
-      "_attAt": "2026-11-27T04:52:41.943998+00:00"
+      "_attAt": "2026-11-27T10:52:42.860942+00:00",
+      "_attRev": 1
     },
     {
       "title": "한반도 물길에서 찾는 평화·상생의 해법",
@@ -1759,16 +1761,17 @@
       "attachments": [
         {
           "ext": "hwpx",
-          "url": "https://www.korea.kr/common/download.do?fileId=198598157&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598234&tblKey=GMN",
           "filename": "한반도 물길에서 찾는 평화·상생의 해법(보도자료)(국가물관리 11.27).hwpx"
         },
         {
           "ext": "pdf",
-          "url": "https://www.korea.kr/common/download.do?fileId=198598158&tblKey=GMN",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598235&tblKey=GMN",
           "filename": "한반도 물길에서 찾는 평화·상생의 해법(보도자료)(국가물관리 11.27).pdf"
         }
       ],
-      "_attAt": "2026-11-27T04:52:41.943998+00:00"
+      "_attAt": "2026-11-27T10:52:42.860942+00:00",
+      "_attRev": 1
     },
     {
       "title": "함께 쓰는 연구 장비, 함께 여는 연구개발 미래 공동활용 우수성과 한자리에",
@@ -2582,6 +2585,27 @@
         }
       ],
       "_attAt": "2026-11-27T10:37:43.695883+00:00"
+    },
+    {
+      "title": "[보도자료] 한성숙 국무총리 주재 제5차 범부처 주택 신속공급 점검회의",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791246",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-27T00:00:00+09:00",
+      "description": "올해 주택공급 목표 달성에 총력- 한 총리, \"연말까지 모든 역량 집중, 내년 공급 준비도 속도\" -- 제5차 범부처 주택 신속공급 점검회의 개최…▴연말 착공 예정사업 집중 관리 ▴내년도 공급을 위한 보상·설계 등 사전절차 조기 추진 주문- LH·한국부동산원 실행역량 강화, 관계부처 적극적인 지원 당부□ 한성숙 국무총리는 11월 27일(금) 오후 4시 정부서울청사에서「제5차 범부처 주택 신속공급 점검회의*」를 주재하고, 금년도 주택공급 및 제도개선 추진상황을 점검하는 한편 한국토지주택공사(LH)와 한국부동산원의 역량 강화 방안을 논",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598485&tblKey=GMN",
+          "filename": "261127_한성숙 국무총리 주재 제5차 범부처 주택 신속공급 점검회의 보도자료.hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598486&tblKey=GMN",
+          "filename": "261127_한성숙 국무총리 주재 제5차 범부처 주택 신속공급 점검회의 보도자료.pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T10:52:42.860942+00:00"
     },
     {
       "title": "주택시장 안정과 주거복지 향상, 금융·인공지능(AI) 활용 방안 찾는다",
