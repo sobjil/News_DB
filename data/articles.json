@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T23:07:49.979313+00:00",
-  "count": 2564,
+  "updated": "2026-11-27T23:22:58.790345+00:00",
+  "count": 2565,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -61,6 +61,27 @@
     "행정중심복합도시건설청"
   ],
   "articles": [
+    {
+      "title": "유럽국장, 독일 방문 결과",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791249",
+      "agency": "외교부",
+      "agencyCode": "mofa",
+      "pubDate": "2026-11-28T00:00:00+09:00",
+      "description": "박형철 외교부 유럽국장은 한-독일 정상회담(10.29.) 후속 조치 점검을 위해 11.26.(목)~11.27.(금) 독일을 방문하여 ▴프랑크 하르트만(Frank Hartmann) 외교부 아태총국장, ▴니클라스 바그너(Niklas Wagner) 외교부 러시아·우크라이나 국장 및 ▴마르틴 셰퍼(Martin Schäfer) 국방부 정무총국장을 각각 면담하고, 양국 관계 증진 방안 및 주요 지역 정세 등에 대해 협의하였다. 먼저 박 국장은 최근 정상회담 계기에 양국 관계를 '강화된 전략적 동반자 관계'로 격상하고, AI, 반도체, 베터리 ",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598541&tblKey=GMN",
+          "filename": "[26-991](보도자료) 유럽국장 독일 방문 결과(11.27.).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598542&tblKey=GMN",
+          "filename": "[26-991](보도자료) 유럽국장 독일 방문 결과(11.27.).pdf"
+        }
+      ],
+      "_attAt": "2026-11-27T23:22:50.766692+00:00"
+    },
     {
       "title": "땅속 광섬유로 '작은 지진'의 파열 순간을 1000분의 1초 단위로 포착",
       "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791097",
@@ -1791,8 +1812,8 @@
           "filename": "261128 조간 (보도) 함께 쓰는 연구장비, 함께 여는 R&amp;D 미래 공동활용 우수성과 한자리에.pdf"
         }
       ],
-      "_attAt": "2026-11-27T17:22:45.544572+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-27T23:22:50.766692+00:00",
+      "_attRev": 3
     },
     {
       "title": "산림청-지방정부, 산림분야 NDC 실행력 강화에 뜻 모아",
@@ -1818,8 +1839,8 @@
           "filename": "(261127)보도자료-산림청-지방정부__산림분야_NDC_실행력_강화에_뜻_모아.hwp"
         }
       ],
-      "_attAt": "2026-11-27T17:22:45.544572+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-27T23:22:50.766692+00:00",
+      "_attRev": 3
     },
     {
       "title": "병무청, 한국생명존중희망재단과 협력으로 청년 병역의무자 정신건강 지원",
@@ -1840,8 +1861,8 @@
           "filename": "20261127(최종배포)병무청, 한국생명존중희망재단과 협력으로 청년 병역의무자 정신건강 지원.pdf"
         }
       ],
-      "_attAt": "2026-11-27T17:22:45.544572+00:00",
-      "_attRev": 2
+      "_attAt": "2026-11-27T23:22:50.766692+00:00",
+      "_attRev": 3
     },
     {
       "title": "(참고) 국가자격시험 부정행위 방지대책, 시험 전·중·후 단계별로 빈틈없이 점검",
