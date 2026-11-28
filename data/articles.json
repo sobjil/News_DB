@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T03:52:57.100415+00:00",
-  "count": 2566,
+  "updated": "2026-11-28T04:07:57.745825+00:00",
+  "count": 2567,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -102,6 +102,27 @@
         }
       ],
       "_attAt": "2026-11-28T02:07:52.508868+00:00"
+    },
+    {
+      "title": "[보도참고] 초대형 사업 인공지능 데이터센터, 동해에서 떠오르다",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791260",
+      "agency": "과학기술정보통신부",
+      "agencyCode": "msit",
+      "pubDate": "2026-11-28T00:00:00+09:00",
+      "description": "- 동해 1.2GW급 GS 인공지능 데이터센터 착공식 개최 - - GS, 동해 인공지능 데이터센터 구축 및 지역상생 계획 공개 - - 과기정통부, 인공지능 데이터센터 생태계 활성화를 위한 정책적 지원 본격화 -",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598566&tblKey=GMN",
+          "filename": "261128 (보도참고) 메가프로젝트 AI 데이터센터, 동해에서 떠오르다 (1).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598567&tblKey=GMN",
+          "filename": "261128 (보도참고) 메가프로젝트 AI 데이터센터, 동해에서 떠오르다 (1).pdf"
+        }
+      ],
+      "_attAt": "2026-11-28T04:07:53.339701+00:00"
     },
     {
       "title": "땅속 광섬유로 '작은 지진'의 파열 순간을 1000분의 1초 단위로 포착",
