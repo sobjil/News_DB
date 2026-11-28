@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T08:22:54.339310+00:00",
-  "count": 2567,
+  "updated": "2026-11-28T08:37:57.667065+00:00",
+  "count": 2568,
   "retentionDays": 30,
   "source": "korea.kr pressReleaseList.do (HTML scrape; RSS/API discontinued 2026-07)",
   "agencies": [
@@ -125,6 +125,27 @@
         }
       ],
       "_attAt": "2026-11-28T04:07:53.339701+00:00"
+    },
+    {
+      "title": "[보도자료] 제1차 청년미래콘서트(취·창업편)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791262",
+      "agency": "국무조정실",
+      "agencyCode": "opm",
+      "pubDate": "2026-11-28T00:00:00+09:00",
+      "description": "한 총리, \"실패해도 다시 시작할 수 있는 든든한 힘이 될 것\"- '청년미래콘서트'서 청년들과 취·창업 고민 나눠- 국무조정실, 취·창업 정보와 멘토링 한자리에··· 청년 도전 지원- 한 총리, \"청년들의 고민 가까이 듣고 필요한 도움 세심히 살필 것\" 강조□ 국무조정실은 11월 28일(토), 서울 광진구 파이팩토리에서'제1차 청년미래콘서트(취·창업편)'를 개최했다.ㅇ 이번 행사는 청년들에게 각종 기관에 흩어져 있던 다양한 취업, 창업정보와 정책을 한자리에서 안내하고, 현업에서 활약 중인 선배 멘토들의 경험과 노하우를 전해 들을 수",
+      "attachments": [
+        {
+          "ext": "hwpx",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598606&tblKey=GMN",
+          "filename": "261128 청년미래콘서트 보도자료(최종).hwpx"
+        },
+        {
+          "ext": "pdf",
+          "url": "https://www.korea.kr/common/download.do?fileId=198598607&tblKey=GMN",
+          "filename": "261127 청년미래콘서트 보도자료(최종).pdf"
+        }
+      ],
+      "_attAt": "2026-11-28T08:37:54.354671+00:00"
     },
     {
       "title": "땅속 광섬유로 '작은 지진'의 파열 순간을 1000분의 1초 단위로 포착",
